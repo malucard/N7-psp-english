@@ -1,0 +1,405 @@
+text area offset and size:
+0xBE8
+0x24EB
+0x78
+After dinner... we all go down to Moon Beach, and sit%Ndown in a circle.%K%P
+
+0x84
+We don't really have a reason for doing so.%K%P
+
+0x90
+It's just that the moon is so blue tonight...%K%P
+
+0xA4
+Yuka「Hey, Izumi-san? What's on the tip of that cape?」%K%P
+
+0xB0
+Yuka points towards the southeast to illustrate her%Nquestion.%K%P
+
+0xBC
+Following her finger, I see a cliff protruding out into the%Nocean, where a white light is revolving above the tip.%K%P
+
+0xD8
+Izumi「Oh, that? That's...」%K%P
+
+0xF4
+Okuhiko「Hahaha! Anyone can tell that it's obviously a lighthouse.%NRight, Izumi-san?」%K%P
+
+0x100
+Izumi「I wouldn't say whether it's obvious or not... but you're%Nright. That's a lighthouse.」%K%P
+
+0x11C
+Izumi「Under the lighthouse is Viewpoint Park. It's said that the%Nscenery from there is the greatest!」%K%P
+
+0x138
+Oh, I see... So that's Viewpoint Park...%K%P
+
+0x144
+If you look from Moon Beach, you can see the park.%K%P
+
+0x150
+Suddenly, the image of Kurumi from this morning, staring%Nat the sea from the tip of the cape with a lonely%Nexpression, vaguely floats into my mind.%K%P
+
+0x164
+Makoto「Hmm...」%K%P
+
+0x170
+Izumi「'Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.'」%K%P
+
+0x184
+Yuka「Huh...? What's that?」%K%P
+
+0x190
+Izumi「It's an old tradition on this island.」%K%P
+
+0x19C
+Izumi「If a man and woman confess their feelings for each%Nother under that lighthouse, it's said that their affection%Nwill bear fruit.」%K%P
+
+0x1A8
+Yuka「Oh～」%K%P
+
+0x1B4
+Izumi「And then, in order to complete their love, they go to the%Nnearby cove... In other words, it's at Princess Beach%Nwhere their love will bear fruit.」%K%P
+
+0x1D0
+Haruka「Their love... will bear fruit?」%K%P
+
+0x1DC
+Izumi「Right. Originally, Princess Beach- 'Himegahama', got it's%Nname from 'Himegoto wo suru hama- The Beach of%NSecrets'...」%K%P
+
+0x1E8
+Haruka「Secrets?」%K%P
+
+0x1FC
+Izumi「R-Right... secrets.」%K%P
+
+0x208
+As she says this, Izumi-san furiously blushes.%K%P
+
+0x21C
+Izumi「... Geez, Haruka-chan, I can't go that far in-depth!」%K%P
+
+0x228
+Haruka「...?」%K%P
+
+0x234
+Haruka tilts her head questioningly.%K%P
+
+0x250
+Okuhiko「But Izumi-san? From what I've seen of the map, I thought I%Nsaw another cape that's near here.」%K%P
+
+0x264
+Izumi「Huh...? Y-Yes... Are you talking about that cape that's a%Nbit to the west from Viewpoint Park?」%K%P
+
+0x270
+Okuhiko「Right, that's it!」%K%P
+
+0x27C
+Okuhiko「And you know what? I was thinking that if there's a 'Cape%Nof Affection', then perhaps there's something special%Nabout that one as well.」%K%P
+
+0x288
+Makoto「Huh? Why do you think that?」%K%P
+
+0x294
+Okuhiko「You don't know? On the map is a marker of a shrine's%Narchway on the tip of that cove.」%K%P
+
+0x2A0
+Okuhiko「In other words, there's a shrine there! Isn't that right,%NIzumi-san?」%K%P
+
+0x2B4
+Izumi「Y-Yes...」%K%P
+
+0x2C0
+Is it just me, or does Izumi-san sound very uneasy...?%K%P
+
+0x2CC
+Okuhiko「I was thinking that if you confessed in front of the shrine%Ninstead of under the lighthouse, it'd be as though you%Nwere receiving great, divine blessings.」%K%P
+
+0x2D8
+Makoto「Ah, I see...」%K%P
+
+0x308
+Everyone's eyes all turn towards Izumi-san.%K%P
+
+0x314
+―Is that true?%K%P
+
+0x320
+We all wait for that answer.%K%P
+
+0x32C
+Soon enough...%K%P
+
+0x340
+Izumi「No.」%K%P
+
+0x34C
+... Izumi-san shakes her head, and continues.%K%P
+
+0x358
+Izumi「Something like that is absolutely impossible.」%K%P
+
+0x364
+Izumi「Because, you see...」%K%P
+
+0x370
+Izumi「The truth is, it's a place with a dark history that not even%Nthe locals will approach...」%K%P
+
+0x37C
+And then, Izumi-san, lit by the pale moonlight, begins%Ntelling a story in a slow, quiet voice...%K%P
+
+0x3D0
+Izumi「That shrine... its official name is the 'Shiki no Mori Shrine'%N(司紀の杜神社), but they say long ago, it was known as the%N'Grove of Demons', written as 'Shiki no Mori' (死鬼の杜).」%K%P
+
+0x3DC
+Izumi「In other words, that shrine was built to worship the 'God%Nof Demons'... or so they say.」%K%P
+
+0x3E8
+Izumi-san continues to explain while writing the two%Ndifferent ways of writing 'Shiki no Mori' in the sand%N((司紀杜) and (死鬼杜)).%K%P
+
+0x3F4
+Izumi「This means the 'God of Demons' was literally 'The Fierce%NGod Who Rules Over Death'. He was a brutal, evil god that%Nwould curse and kill people.」%K%P
+
+0x400
+Izumi「According to this story...」%K%P
+
+0x40C
+Izumi「Back then, people thought that epidemics and disasters%Nwere caused by the anger of the demon god, so they%Nwould offer living sacrifices in order to appease him...」%K%P
+
+0x418
+Izumi「... Or so the legend says.」%K%P
+
+0x424
+Makoto「Hmm...」%K%P
+
+0x430
+Izumi「But you know, a legend is a legend, after all... just like The%NHeadless Horseman is The Headless Horseman... right?」%K%P
+
+0x43C
+Izumi「Of course, I also dismissed it as just a myth or folklore...%NUsed to, anyway...」%K%P
+
+0x448
+Izumi「But then...」%K%P
+
+0x478
+Kurumi「What～, so you this is where you all were～」%K%P
+
+0x484
+We all turn to find a girl running towards us, kicking up%Nwhite clouds of sand as she moves across the beach.%K%P
+
+0x4C0
+Izumi「Kurumi...」%K%P
+
+0x4CC
+Kurumi「Haah, haah... Saki-san said 'I'll be fine, so go home%Nalready', so Kurumi came back ... Whew.」%K%P
+
+0x4D8
+She lets out a giant sigh and catches her breath.%K%P
+
+0x4EC
+Kurumi「Hey, what were you talking about just now? Why are you%Nall sitting in a circle down here...?」%K%P
+
+0x4F8
+Kurumi「Could it be that you're performing a UFO summoning ritual?」%K%P
+
+0x514
+Yuka「Mmm, not quite!! It's not UFOs, but it's a ghost story!」%K%P
+
+0x520
+Makoto「It's not a ghost story, it's a demon story! Weren't you%Nlistening at all?」%K%P
+
+0x52C
+Yuka「I was listening... Ghosts, demons, what's the difference%Nanyway?」%K%P
+
+0x538
+They're completely different in my opinion...%K%P
+
+0x544
+Kurumi「And? What about those demons?」%K%P
+
+0x550
+Yuka「Those demons live in a nearby temple!」%K%P
+
+0x55C
+Makoto「It's not a temple, it's a shrine! And who ever said they%Nlived here, anyway?」%K%P
+
+0x570
+Kurumi「Wow... A shrine, huh...?」%K%P
+
+0x57C
+Yuka「Izumi-san was telling us a rumor about that shrine just%Nnow.」%K%P
+
+0x588
+Kurumi「Hmm...」%K%P
+
+0x594
+Makoto「Kurumi, you've never heard of that shrine before?」%K%P
+
+0x5A8
+Kurumi「Nope. First time Kurumi's ever heard of it!」%K%P
+
+0x5B4
+Yuka「Well then, isn't that exciting?」%K%P
+
+0x5C8
+It seems Kurumi loves these kinds of stories, as her%Neyes light up as she sits down on the sandy beach.%K%P
+
+0x5D4
+Yuka「Well then, Izumi-san, will you continue?」%K%P
+
+0x5F0
+Izumi「Y-Yes...」%K%P
+
+0x654
+Izumi「...」%K%P
+
+0x660
+However, for some reason, Izumi-san's doesn't speak.%K%P
+
+0x66C
+She hangs her head down quietly, just staring firmly at%Nsome spot on the beach.%K%P
+
+0x678
+Yuka「Izumi... san?」%K%P
+
+0x684
+Upon hearing Yuka's coaxing voice, Izumi-san finally%Nbreaks out of her stupor and slowly raises her head.%K%P
+
+0x690
+Izumi「Umm...」%K%P
+
+0x69C
+Izumi「Where was I?」%K%P
+
+0x6A8
+Yuka「You were up to the part where you initially thought it was%Nnothing more than a myth.」%K%P
+
+0x6B4
+Izumi「I see... Yes, that's right. When I first heard that story, I%Nwas also doubtful. But then...」%K%P
+
+0x6DC
+Izumi「But then, I heard more from the local fisherman, the old%Nfarmer lady, and several other people.」%K%P
+
+0x6E8
+Izumi「I couldn't dismiss it as a simple myth anymore when I%Nlearned that in reality, several incidents had occurred%Nat that shrine...」%K%P
+
+0x6F4
+Izumi「Everyone, do you know what it means to be 'spirited%Naway'?」%K%P
+
+0x700
+Yuka「Spirited away?」%K%P
+
+0x70C
+Haruka「It's when a person suddenly disappears without warning.」%K%P
+
+0x718
+Izumi「Right. Nowadays, it's called an 'disappearance' or an%N'absconding'...」%K%P
+
+0x724
+Izumi「The truth is, something like 'spiriting away' happened at%Nthat shrine.」%K%P
+
+0x730
+Izumi「Putting it simply, several people... no, several dozens of%Npeople traveled to that shrine over time, and never%Ncame back.」%K%P
+
+0x73C
+Okuhiko「That's impossible!」%K%P
+
+0x748
+Izumi「It isn't. It really happened.」%K%P
+
+0x754
+Izumi「Not only was it published in the local papers, but also%Nannounced on national news. Still, countless%Ndisappearances have happened over time... again... and%Nagain...」%K%P
+
+0x760
+Izumi「I even confirmed this information with the records at the%Nisland's town hall.」%K%P
+
+0x76C
+Okuhiko「...」%K%P
+
+0x778
+Izumi「The people on this island say that this series of%N'spiriting away' incidents were from the people being%N'cursed', or 'dragged to hell by the God of Demons'.」%K%P
+
+0x784
+Izumi「Of course, I don't quite share the same beliefs...」%K%P
+
+0x790
+Izumi「Even so, ever since that, no one goes near the 'Shiki no%NMori Shrine' anymore.」%K%P
+
+0x79C
+Everyone「Hmm...」%K%P
+
+0x7C0
+The cold night's wind stirs the beach's sands.%K%P
+
+0x7CC
+Every few seconds, the lighthouse's revolving beacon%Npasses through the deep blue darkness.%K%P
+
+0x7D8
+The perpetual, continuing sound of the waves still%Nechoes solemnly.%K%P
+
+0x7EC
+Kurumi「Hey, guys...?」%K%P
+
+0x7F8
+Kurumi「After this, do you wanna go on a Mystery Tour?」%K%P
+
+0x820
+Kurumi's sudden question breaks the silence.%K%P
+
+0x82C
+Makoto「'Mystery Tour'?」%K%P
+
+0x840
+Kurumi「Yep. Kurumi wants to go check out that so-called 'Shiki%Nno Mori Shrine' and see if the rumors are true or not.」%K%P
+
+0x854
+Kurumi「Well? It sounds kinda fun, doesn't it?」%K%P
+
+0x860
+Just then...%K%P
+
+0x88C
+Izumi「No way! Absolutely not!」%K%P
+
+0x898
+... Izumi-san admonishes Kurumi with an unusually serious%Nexpression.%K%P
+
+0x8AC
+Kurumi「Huh, why not?」%K%P
+
+0x8B8
+Izumi「'Why not'!?」%K%P
+
+0x8C4
+Izumi「Weren't you listening, Kurumi? That story I told you just%Nnow wasn't a joke. Do you understand that?」%K%P
+
+0x8D0
+Kurumi「Kurumi understands... But... if we only look at it from a%Ndistance, then...」%K%P
+
+0x8DC
+Izumi「See, you don't understand. You don't understand at all!」%K%P
+
+0x8E8
+Kurumi「But...」%K%P
+
+0x8F4
+Izumi「No buts! No means no!」%K%P
+
+0x900
+Izumi「All right? Do you understand?」%K%P
+
+0x914
+Kurumi「Boo...」%K%P
+
+0x950
+Honestly speaking, there's no reason behind Izumi-san%Nbeing so upset.%K%P
+
+0x95C
+Regardless, as an outsider, her words have such a%Nthreatening, coercive feeling to them that is so%Nterrifying that it makes me tremble with fear.%K%P
+
+0x968
+Is the Shiki no Mori Shrine really that dangerous?%K%P
+
+0x974
+It's a bit hard for me to understand...%K%P
+

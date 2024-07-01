@@ -1,0 +1,264 @@
+text area offset and size:
+0x9C0
+0x15C3
+0x178
+A car with its headlights on comes driving down from the%Ntip of the curve.%K%P
+
+0x184
+Saki「!!!」%K%P
+
+0x190
+When Saki turns around and lets out a small scream, a%Npuppy trying to run leaps into my field of vision.%K%P
+
+0x19C
+The puppy is oblivious to the car, which releases a%Nsharp honk.%K%P
+
+0x1A8
+Haruka「...!」%K%P
+
+0x1B4
+Without hesitation, Haruka swiftly rushes out onto the%Nroad towards the puppy.%K%P
+
+0x1C0
+Makoto「Haruka!!!」%K%P
+
+0x1CC
+Haruka quickly picks it up in her arms. Immediately%Nafterwards, the bright red frame of the car draws near%Nher...%K%P
+
+0x250
+Makoto「...!!!」%K%P
+
+0x25C
+Haruka, who's still holding the dog, draws an arc in midair.%K%P
+
+0x268
+While staring at this scene...%K%P
+
+0x2B0
+... I thankfully wake up from this nightmare.%K%P
+
+0x2BC
+... ... ...%K%P
+
+0x2E8
+I feel my whole body covered in sticky sweat.%K%N
+
+0x2F4
+When I force my mind to awaken, the sun's already risen.%K%P
+
+0x300
+I get out of my bed and pace around my room.%K%P
+
+0x30C
+By my second lap around the room, I finally realize that%Nthis is pointless, and stop.%K%P
+
+0x334
+―Today is Thursday, April 4th.%K%N
+
+0x340
+I don't have much time left.%K%P
+
+0x34C
+Before the day is over, I've got to find the decisive%Ndifference between Haruka and Kurumi!%K%P
+
+0x358
+And then... I need to protect Haruka, no matter what...!%K%P
+
+0x364
+To steel my resolve, I repeat this to myself over and%Nover again as I open the door.%K%P
+
+0x3D0
+After eating breakfast in the living room, Kurumi, Yuka,%Nand Haruka begin discussing their plans for today.%K%P
+
+0x3DC
+Like last time, Haruka says she's going fishing.%K%P
+
+0x3E8
+And so...%K%P
+
+0x3FC
+Makoto「Say, Haruka? Would it be okay if I went fishing with you?」%K%P
+
+0x408
+... I ask her this.%K%P
+
+0x41C
+Haruka nods in agreement.%K%N
+
+0x428
+She seems to be a little embarrassed as a faint smile%Nforms on her face...%K%P
+
+0x4DC
+Haruka「Makoto, what's wrong?」%K%P
+
+0x4E8
+I must have spaced out for a while, because her large%Neyes are suddenly staring directly at me.%K%P
+
+0x4F4
+Makoto「No, it's nothing. I was just thinking a bit.」%K%P
+
+0x508
+Haruka「... About what?」%K%P
+
+0x51C
+Haruka seems a little annoyed, as her cheeks puff up.%K%P
+
+0x530
+Haruka「Makoto... is it fun being with me?」%K%P
+
+0x53C
+Makoto「Of course!」%K%P
+
+0x548
+I answer instantly.%K%P
+
+0x554
+It seems that Haruka is so sensitive to others' mood%Nshifts that she was able to pick up on my uneasiness%Njust from observing my speech and conduct...%K%P
+
+0x560
+(Now that I think about it...)%K%P
+
+0x56C
+I remember receiving this exact same feeling from Kurumi%Nonce...%K%P
+
+0x578
+Do the two of them share strong powers of observation%Nand insight, as well as incredible perception?%K%P
+
+0x584
+No, wait... I feel like that sensitivity is just a common%Ncharacteristic amongst girls...%K%P
+
+0x598
+Haruka「... Makoto, you've got one.」%K%P
+
+0x5A4
+Makoto「Huh? 'Got one'... what do you mean?」%K%P
+
+0x5B8
+Haruka silently points at the sea.%K%N
+
+0x5C4
+When I look, I see my fishing line is dragging out to sea..%K%P
+
+0x5D0
+... But shortly afterwards, it stops.%K%P
+
+0x5E4
+Haruka「... Or rather, you did.」%K%P
+
+0x5F0
+Makoto「...」%K%P
+
+0x5FC
+I silently reel in the fishing line and grab the tip, but%Nthere's not even bait left.%K%P
+
+0x608
+Because I wasn't thinking about fishing, I didn't notice it%Nat all.%K%P
+
+0x614
+Whatever. I'm not really in the mood for fishing anyway,%Nso it's not like I'm particularly upset...%K%P
+
+0x628
+Haruka「Hee hee hee... looks like you lost.」%K%P
+
+0x634
+Makoto「Damn... I should be stronger than one measly fish!」%K%P
+
+0x640
+I decide to act frustrated just once in front of Haruka.%K%P
+
+0x654
+Haruka「It's because you say that that you're not catching%Nanything.」%K%P
+
+0x660
+Makoto「Ha ha ha... you might be right...」%K%P
+
+0x66C
+The sunlight sparkles on the ocean.%K%N
+
+0x678
+Haruka's smile is just as radiant as it is.%K%P
+
+0x684
+When I see that extremely natural and frank smile, it%Nmakes my own existence feel filthy by comparison.%K%P
+
+0x690
+If we were the same gender, would this feeling be%Nsomething akin to jealousy?%K%P
+
+0x69C
+As I place my next bait on the hook, I absentmindedly%Nthink about that.%K%P
+
+0x6A8
+(... They really are similar...)%K%P
+
+0x6B4
+It goes without saying that Kurumi also possesses the%Nsame disposition as Haruka.%K%P
+
+0x6C0
+They seem very different on the surface, but they really%Ndo resemble each other at that essential part.%K%P
+
+0x6CC
+... So when it comes down to it, what is the difference%Nbetween them that separates their existences?%K%P
+
+0x6D8
+Something only Haruka has... something Kurumi doesn't%Nhave... What is it...?%K%P
+
+0x744
+And so, the day ends with nothing special occurring,%Nand with tomorrow swiftly approaching.%K%P
+
+0x750
+It feels like watching a sand castle you made start to%Ncollapse... Is there nothing I can do after all?%K%P
+
+0x75C
+I spent the entire day fishing with Haruka, but in the end, I%Nwas unable to find out her decisive raison d'etre.%K%P
+
+0x768
+When night came around, we had the barbecue party.%K%P
+
+0x774
+I tried comparing Kurumi to Haruka by sight, but all I%Nended up doing was reconfirm that their external%Nsimilarities and differences won't help me out.%K%P
+
+0x780
+All I feel is my sense of restlessness starting to grow%Nstronger.%K%N
+
+0x78C
+I only have a day left...%K%P
+
+0x798
+(No, wait...)%K%P
+
+0x7A4
+I try looking back on my actions today one more time.%K%P
+
+0x7B0
+I went fishing with Haruka from the morning onwards, and%Nthen went to the barbecue...%K%P
+
+0x7BC
+When I think about it carefully, the incident between%NHaruka and Saki at the barbecue didn't happen this time.%K%P
+
+0x7C8
+Just what does that mean?%K%P
+
+0x7D4
+Does that mean that the shape of history is slowly%Nchanging!?%K%P
+
+0x7E0
+Because I was completely focused on Haruka today, I%Ncompletely overlooked this important event...%K%P
+
+0x7EC
+(Will I... get through this somehow?)%K%P
+
+0x7F8
+The flow of time is not set in stone...%K%N
+
+0x804
+I know that's a fact from the changes I've seen up until%Nnow.%K%P
+
+0x810
+But even so, I am unable to wipe away this vague feeling%Nof uneasiness.%K%P
+
+0x81C
+I throw the covers over my head and fall asleep...%K%P
+
+0x864
+... ... ...%K%P
+

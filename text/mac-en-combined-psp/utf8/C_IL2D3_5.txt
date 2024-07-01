@@ -1,0 +1,372 @@
+text area offset and size:
+0x838
+0x21DC
+0x54
+Izumi-san takes a deep breath, and sighs.%K%P
+
+0x60
+She carefully straightens out her skirt again, and%Nplaces her fingers on her knees.%K%P
+
+0x6C
+―Schr▼dinger's cat.%K%N
+
+0x78
+"The observer's intention decides the truth of the past."%K%P
+
+0x84
+―The Third Trait of Cur▲ Syndrome.%K%N
+
+0x90
+"A firm thought creates a new reality."%K%P
+
+0x9C
+I see, those two certainly do share some common points.%K%P
+
+0xA8
+Anyway, someone's imagination has already changed%Nreality.%K%P
+
+0xB4
+When the observer thinks "Let's open the lid", he is%Nconfirming the life or death status between the%Ncoexisting states the cat is in...%K%P
+
+0xC0
+Tom felt "I want to heal her illness", and that caused the%Nfocus of her illness to disappear.%K%P
+
+0xCC
+Now then... back to the real issue at hand.%K%P
+
+0xD8
+Just how can you say this is related to the infinite loop?%K%P
+
+0xE4
+"Someone's imagination can change reality."%K%P
+
+0xF0
+If that's the case, then is it really... related to the%Nphenomenon of time travel...?%K%P
+
+0x104
+Izumi「The experiment...」%K%P
+
+0x110
+Makoto「???」%K%P
+
+0x11C
+Izumi「The experiment for Cur▲ Syndrome...」%K%P
+
+0x128
+Izumi「Its true goal also was actually an investigation on The%NThird Trait.」%K%P
+
+0x134
+Izumi「To lie to you, Makoto-kun... to make you embrace your%Ndelusions... and see if those delusions would actually%Nbecome reality or not... that's what I planned to%Ninvestigate.」%K%P
+
+0x140
+Izumi「Of course, at first, I was dubious about The Third Trait...」%K%P
+
+0x14C
+Izumi「As a scholar, I couldn't believe this idiotic phenomenon.」%K%P
+
+0x158
+Izumi「That's why this experiment was conducted; in order to%Ndiscover another explanation for The Third Trait.」%K%P
+
+0x164
+Makoto「In short, it was something to deny The Third Trait―a%Ncounter-proof experiment, right?」%K%P
+
+0x170
+Izumi「Yes...」%K%P
+
+0x184
+Izumi「But you know what? Against my expectations... it seems%Nthe experiment has succeeded...」%K%P
+
+0x1AC
+Izumi「The Third Trait... was proven...」%K%P
+
+0x1B8
+Makoto「What!? W-Wait a minute, Izumi-san!」%K%P
+
+0x1C4
+Makoto「Just what... does that mean!?」%K%P
+
+0x1D0
+Makoto「Didn't you say earlier that 'We didn't conduct the%Nexperiment once'?」%K%P
+
+0x1DC
+Makoto「It can't be... are you lying to me again?」%K%P
+
+0x1F0
+Izumi「No, that's not it. What I said was certainly the truth.」%K%P
+
+0x1FC
+Izumi「So far, I haven't deceived you once, Makoto-kun.」%K%P
+
+0x208
+Makoto「What? What you're saying isn't making any sense!」%K%P
+
+0x214
+Makoto「Then what did you mean by 'The experiment succeeded'?」%K%P
+
+0x220
+Makoto「'The Third Trait was proven'... Why do you say that?」%K%P
+
+0x234
+Izumi「Because of this reality that exists right now, before our%Neyes.」%K%P
+
+0x240
+Izumi「The fact that we are experiencing this strange reality in%Nthis way.」%K%P
+
+0x24C
+Izumi「And above all, there's proof...」%K%P
+
+0x258
+Izumi「The time travel, the infinite loop, the premonitions, and%Nthe memories...」%K%P
+
+0x26C
+Izumi「―All of these prove The Third Trait's accuracy!」%K%P
+
+0x278
+Makoto「...」%K%P
+
+0x284
+Izumi「...」%K%P
+
+0x290
+Makoto「AHHHHHHH, I don't get ittttttttttttt!」%K%P
+
+0x29C
+Makoto「I don't get a single word of what you're saying!」%K%P
+
+0x2A8
+Makoto「After all... think about it carefully.」%K%P
+
+0x2B4
+Makoto「The rice, the earthquake, the battery, the dinner, and the%Ncards...」%K%P
+
+0x2C0
+Makoto「Even though no one deceived me, I was correct about all%Nof them!」%K%P
+
+0x2CC
+Makoto「In other words, this 'experiment' of yours is completely%Nunrelated to the occurrence of the phenomenon known%Nas 'premonitions!'」%K%P
+
+0x2D8
+Makoto「No matter how I think about it, it's illogical to consider that%Nthese chains of phenomena are related to the%Nexperiment!」%K%P
+
+0x2EC
+Izumi「No...」%K%P
+
+0x2F8
+Izumi「It's not strange at all...」%K%P
+
+0x304
+Makoto「...」%K%P
+
+0x310
+Izumi「I think this is how it went down.」%K%P
+
+0x348
+Izumi「At the start, before you were caught up in this infinite%Nloop, during the very first series of six days that you%Nexperienced...」%K%P
+
+0x354
+Izumi「You weren't able to have 'premonitions' at all.」%K%P
+
+0x360
+Izumi「At that time, you still knew nothing... Not about the rice or%Nthe earthquake.」%K%P
+
+0x36C
+Izumi「And then, I think the past me in that time... commenced the%Nexperiment, just as planned.」%K%P
+
+0x378
+Izumi「In some manner, I probably made you firmly believe that it%Nwas as though you had precognition.」%K%P
+
+0x384
+Makoto「...」%K%P
+
+0x390
+Izumi「Before long, the symptoms of Cur▲ Syndrome began to%Nmanifest within your consciousness.」%K%P
+
+0x39C
+Izumi「In other words, you started to embrace a certain%Ndelusion.」%K%P
+
+0x3A8
+Izumi「However, the subject of your delusion was slightly%Ndifferent from what I had planned.」%K%P
+
+0x3B4
+Izumi「You didn't think 'I have the power to receive%Npremonitions'... You started to think 'Have I time traveled?'」%K%P
+
+0x3C0
+"I can have premonitions because I've experienced the%Nfuture once."%K%P
+
+0x3CC
+Izumi「... You were convinced in that manner.」%K%P
+
+0x3D8
+Makoto「...」%K%P
+
+0x3E4
+Izumi「If the experiment went as planned, then it should have%Nended without incident.」%K%P
+
+0x3F0
+Izumi「At midnight on April 7th... If I had revealed everything to%Nyou, your delusion should have disappeared without a%Ntrace.」%K%P
+
+0x3FC
+Makoto「But... that's not what happened...」%K%P
+
+0x408
+Izumi「Yes...」%K%P
+
+0x414
+Izumi「Just before that, the worst possible situation occurred...」%K%P
+
+0x458
+Izumi「... Because...」%K%P
+
+0x46C
+Izumi「... I died...」%K%P
+
+0x478
+Makoto「...」%K%P
+
+0x49C
+Izumi「I think that the Makoto-kun who was faced with that%Nscene surely thought this.」%K%P
+
+0x4A8
+"I want to go back to the past. I want to go back to the%Npast and change history."%K%P
+
+0x4B4
+"And I have a miraculous ability that will enable me to do%Nthat."%K%P
+
+0x4C0
+Izumi「That strong thought warped the 'reality' within you.」%K%P
+
+0x4CC
+Izumi「Your delusion produced a new reality.」%K%P
+
+0x50C
+Makoto「And so I returned to the past...?」%K%P
+
+0x518
+Makoto「That was the first time I 'really' time traveled...」%K%P
+
+0x524
+Makoto「It was arranged that the me who had already%Nexperienced the future had 'real' premonitions...」%K%P
+
+0x530
+Izumi「...」%K%P
+
+0x53C
+Makoto「No, wait.」%K%P
+
+0x548
+Makoto「Then how do you explain my memories?」%K%P
+
+0x554
+Makoto「Even though I only had vague memories in the earlier%Nhistories, right now, I have complete memories that I can%Neasily remember..」%K%P
+
+0x560
+Izumi「... Right... I was thinking the same thing as you, Makoto-kun.」%K%P
+
+0x56C
+Izumi「In the first place, those which are called memories are%Nsomething stored in the brain, right?」%K%P
+
+0x578
+Izumi「If that's the case, then it means that our current brains%Nare the same as the ones we had right before we time%Ntraveled.」%K%P
+
+0x584
+Izumi「However, there's only one of you and me in this time%Nperiod.」%K%P
+
+0x590
+Izumi「That means we didn't travel back in time with our%Nrespective bodies.」%K%P
+
+0x59C
+Makoto「So then... where did these memories come from...?」%K%P
+
+0x5A8
+Izumi「The answer to that... has already appeared.」%K%P
+
+0x5B4
+Izumi「It's not that these memories came from somewhere.」%K%P
+
+0x5C0
+Izumi「Our brains are remaining at that time on April 6th.」%K%P
+
+0x5D4
+Izumi「In other words, we...」%K%P
+
+0x5E0
+Izumi「―Never time traveled!」%K%P
+
+0x5EC
+Makoto「... Wh-What are you saying now-」%K%P
+
+0x600
+Izumi「Hey? Makoto-kun?」%K%P
+
+0x60C
+Izumi「Perhaps this reality... might be an event in someone's%Ndelusion.」%K%P
+
+0x618
+Makoto「In a delusion?」%K%P
+
+0x624
+Izumi「To you, it's a delusion that sprouted within you... To me,%Nit's a delusion that spouted within me...」%K%P
+
+0x630
+Makoto「???」%K%P
+
+0x63C
+Izumi「All right? I never said earlier that 'Makoto-kun went back%Nto the past', did I?」%K%P
+
+0x648
+Izumi「I only said that your strong desire to go back to the%Npast 'warped' the reality within you... Isn't that right?」%K%P
+
+0x654
+Makoto「...」%K%P
+
+0x660
+Izumi「Makoto-kun, when you witnessed the scene of my death,%Nyou strongly wished 'I want to go back to the past'.」%K%P
+
+0x66C
+Izumi「But I wonder if it instead, that thought of yours made you%N'reminisce in a delusional way' about an ideal past,%Nrather than taking your consciousness 'back to the%Npast'.」%K%P
+
+0x678
+Makoto「???」%K%P
+
+0x684
+Izumi「'The observer's intention decides the facts of the past.'」%K%P
+
+0x690
+Izumi「What if we assume a phenomenon like Schr▼dinger's cat%Nroutinely happens in our daily lives...?」%K%P
+
+0x69C
+Izumi「'Someone's strong wish completely changes the facts%Nof the past'... Also consider that that isn't an impossible%Nstory.」%K%P
+
+0x6A8
+Izumi「In fact, Dr. Cabin has actually experienced a%Nphenomenon described as such...」%K%P
+
+0x6B4
+Makoto「...」%K%P
+
+0x6C0
+Izumi「But you know what?」%K%P
+
+0x6CC
+Izumi「It's doesn't mean something like 'You time travel into the%Npast and end up changing history'.」%K%P
+
+0x6D8
+Izumi「'You change the past the moment you have a delusion'...%NThat's what it means.」%K%P
+
+0x6E4
+Makoto「???」%K%P
+
+0x6F0
+Izumi「In short, the instant you witnessed the scene of my%Ndeath, you had the delusion of 'a different possibility%Nwhere it didn't turn out like this.'」%K%P
+
+0x714
+Izumi「No, to be more accurate...」%K%P
+
+0x720
+Izumi「You're 'having' the delusion of 'a different possibility%Nwhere it didn't turn out like this.'」%K%P
+
+0x72C
+Makoto「Then, right now... the reality I see before my eyes is...」%K%P
+
+0x740
+Izumi「―Yes! ―It's nothing more than an event in your%Ndelusion, Makoto-kun!」%K%P
+

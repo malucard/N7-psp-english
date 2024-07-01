@@ -1,0 +1,300 @@
+text area offset and size:
+0x8C0
+0x161E
+0x134
+I head to Lunabeach after waking up.%K%P
+
+0x140
+When I think about the "last" 4th, I realize that I probably%Nshould be going to see the crab sumo with Kurumi like%N"last time", but something like that no longer matters to%Nme.%K%P
+
+0x14C
+Fortunately, Okuhiko left early this morning to go fishing%Nwith Haruka.%K%P
+
+0x158
+I don't have to worry about him getting in my way.%K%P
+
+0x164
+Strangely, the thought of Okuhiko accompanying Haruka%Ndoesn't make me angry.%K%P
+
+0x170
+Okuhiko is serious about Haruka.%K Despite being rejected%Nand ridiculed many times, he never gives up.%K%P
+
+0x17C
+Granted, he's too oblivious to tell that he's being%Nrejected, and he doesn't know when to quit, so I guess%Nyou could just call him an idiot...%K%P
+
+0x188
+Still, I understand what it means to be serious about%Nsomeone.%K%P
+
+0x194
+After all... I'm even more serious about Izumi-san.%K%P
+
+0x1A0
+I don't care how I look anymore.%K%P
+
+0x1AC
+After all... I'm just as bad at not knowing when to give up...%K%P
+
+0x1E4
+Including today, my time limit is two days!%K%P
+
+0x1F0
+... No more, no less!!%K%P
+
+0x1FC
+I run as fast as I can, aiming for Lunabeach.%K%P
+
+0x260
+Izumi「Oh? Welcome♪」%K%P
+
+0x26C
+Even though I came in here out of breath, Izumi-san still%Ngives me a smile.%K%P
+
+0x278
+I'm relieved.%K%P
+
+0x284
+After all, if she wasn't here, I'd...%K%P
+
+0x290
+Makoto「I'm glad... that you're here.」%K%P
+
+0x29C
+Izumi「???」%K%P
+
+0x2A8
+It's from a book I read.%K%P
+
+0x2B4
+There was this guy, who, when the time came to confess%Nhis feelings, didn't need many words.%K%P
+
+0x2C0
+All he needed were eight words.%K%P
+
+0x2CC
+These words were:%K%P
+
+0x2D8
+"I'm... right here."%K%N
+
+0x2E4
+"I'm glad... that you're here."%K%P
+
+0x2F0
+Izumi「Hee hee... what's wrong? You're up early...」%K%P
+
+0x2FC
+Izumi-san turns aside my cryptic words with a smile.%K%P
+
+0x308
+The problem isn't whether or not I can get my words%Nthrough to her.%K%P
+
+0x314
+The main problem is that I need to work up my courage to%Nsay it...%K%P
+
+0x320
+Makoto「No... I didn't know if today would also be busy...」%K%P
+
+0x32C
+I remember how busy the shop was on April 5th.%K%P
+
+0x338
+Izumi「Thank you for worrying. But I'm all right. See, business is%Nin a slump as always...」%K%P
+
+0x344
+Izumi「Besides, you've probably forgotten in all of this%Nexcitement, but today's actually Tuesday.」%K%P
+
+0x350
+Makoto「... Ah!」%K%P
+
+0x35C
+That's right...%K%P
+
+0x368
+Because we've been so busy deceiving Okuhiko, I've%Ncompletely forgotten that today is Tuesday, April 9th...%K%P
+
+0x374
+In other words, Lunabeach is closed for today.%K%P
+
+0x380
+Izumi「Okuhiko-kun might come, so I've kept the shop open%Ntemporarily... Well, it seems like there's nothing to worry%Nabout for now, right?」%K%P
+
+0x38C
+Makoto「Yeah... Okuhiko will probably be fishing with Haruka until%Nnoon.」%K%P
+
+0x398
+Izumi「Oh, really? Then perhaps he'll come here at noon.」%K%P
+
+0x3A4
+Makoto「... Probably.」%K%P
+
+0x3B0
+Izumi「Then I can't close the shop. And just when I was thinking%Nof taking a walk somewhere...」%K%P
+
+0x3BC
+Makoto「Huh?」%K%P
+
+0x3C8
+I don't overlook those words.%K%P
+
+0x3D4
+A walk...%K%P
+
+0x3E0
+If she were to close the shop now, then I could walk with%NIzumi-san...%K%P
+
+0x3EC
+Izumi「I poured some black tea... Would you like some?」%K%P
+
+0x3F8
+Makoto「Um, actually-」%K%P
+
+0x404
+Izumi「Or would you prefer coffee?」%K%P
+
+0x410
+Makoto「That's not-」%K%P
+
+0x41C
+Izumi「I'm very sorry... but I'm out of Japanese tea.」%K%P
+
+0x428
+Makoto「...」%K%P
+
+0x434
+Izumi「Hee hee♪ ... Just kidding. So, what do you want?」%K%P
+
+0x440
+Izumi-san gives a mischievous smile.%K%N
+
+0x44C
+It seems she knew from the beginning.%K%P
+
+0x458
+I just can't beat her, can I?%K%P
+
+0x464
+Makoto「Can we... take a little walk?」%K%P
+
+0x470
+Izumi「Huh? But...」%K%P
+
+0x47C
+Makoto「It's all right. We'll get back before Okuhiko and Haruka get%Nhere...」%K%P
+
+0x488
+Izumi「Hmm...」%K%P
+
+0x494
+Makoto「Let's go.」%K%P
+
+0x4A0
+Izumi「... Sure♪」%K%P
+
+0x500
+First, we head to the harbor.%K%P
+
+0x50C
+Did Okuhiko and Haruka really go fishing or not? ... We%Ncame here to confirm that.%K%P
+
+0x560
+When we arrive at the pier, we see Haruka sitting alone%Nwith her fishing rod in the water.%K%P
+
+0x56C
+Makoto「Huh?」%K%P
+
+0x578
+Izumi「Haruka-chan... seems to be all alone.」%K%P
+
+0x584
+We walk over to Haruka's side.%K%P
+
+0x598
+Haruka turns around when she notices us.%K%P
+
+0x5A4
+... At that moment, something tugs against her fishing rod.%K%P
+
+0x5B8
+Haruka「...」%K%P
+
+0x5C4
+Haruka expressionlessly pulls back on the rod, and%Nreels it in. She then masterfully pulls in a horse mackerel.%K%P
+
+0x5D0
+For a little while, Haruka holds the flopping horse%Nmackerel in her hands, looks at it, and then silently%Nreleases it back into the ocean.%K%P
+
+0x5DC
+Makoto「Haruka... where's Okuhiko?」%K%P
+
+0x5E8
+Izumi「I heard you were together.」%K%P
+
+0x5F4
+Haruka shakes her head.%K%P
+
+0x600
+Makoto「But Yuka said you left together...」%K%P
+
+0x60C
+Haruka「If you're looking for Okuhiko, he went out on a walk%Nsomewhere.」%K%P
+
+0x618
+Makoto「A walk...」%K%P
+
+0x62C
+Haruka「Because Okuhiko caught absolutely nothing...」%K%P
+
+0x638
+That's probably not the only reason.%K%P
+
+0x644
+I bet that he got tired of trying to strike up a%Nconversation with Haruka, who showed no signs of%Nresponding, so he left for a change of mood.%K%P
+
+0x650
+Okuhiko is surprisingly impatient...%K%P
+
+0x65C
+Now that I think about it, he's from a prestigious family,%Nisn't he?%K%P
+
+0x668
+I'd forgotten that Okuhiko was the son of the Iida%NFinancial Group.%K%P
+
+0x674
+His speech and conduct over the past few days%Nhaven't reflected any of that at all.%K%P
+
+0x680
+Is this really what the sons of the newly wealthy are%Nlike...?%K%P
+
+0x68C
+Makoto「Well then, Haruka, we'll be going now.」%K%P
+
+0x698
+Izumi「We'll return to the shop at noon.」%K%P
+
+0x6A4
+Haruka silently nods.%K%P
+
+0x6B8
+We leave just as Haruka gets another bite on her fishing%Nrod.%K%P
+
+0x734
+When we reach the shopping district, Izumi-san suddenly%Nhesitates.%K%P
+
+0x748
+Izumi「Ah... mind if we stop here a bit?」%K%P
+
+0x754
+Makoto「Huh? Why?」%K%P
+
+0x768
+Izumi「Well... the truth is, I'm out of ingredients for the barbecue.」%K%P
+
+0x774
+Oh... the barbecue.%K%P
+
+0x780
+Now that I think about it, today is the day of the%Nbarbecue...%K%P
+
+0x794
+Izumi-san and I go around the shopping district, and buy%Nmeat and vegetables.%K%P
+

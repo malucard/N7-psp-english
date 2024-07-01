@@ -18,7 +18,8 @@ sjis_enc = "shift_jis_2004"
 # "GB2312"
 
 
-r11_original_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-orig-font-table.txt"
+r11_original_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/n7-custom.txt"
+#r11_original_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-orig-font-table.txt"
 r11_cn_font_table_path: str = os.path.dirname(__file__) + "/../../text/charset-tables" + "/r11-cn-font-table.txt"
 
 en_r11_charset_as_list: Union[List[CharsetElement], None] = None
@@ -62,14 +63,14 @@ def clean_en_translation_line(line: str) -> str:
   line = re.sub("\u2015\u2015", "\u2015", line) # double em dash '——' -> single em dash '—'
   # double spaces were fixed manually where appropriate, use text search to find remaining cases
   # line = re.sub(r"(?<!\b\S \S)  +", " ", line) # collapse multiple spaces unless there are also extra spaces within the neighboring words
-  line = re.sub("\u00f6", "o", line) # ö no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
+#  line = re.sub("\u00f6", "o", line) # ö no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
   # line = re.sub("\u014d", "o", line) # ō no shift_jis for vowel+macron. which is strange considering that it's used by Hepburn
-  line = re.sub("\u00e9", "e", line) # é (utf8:c3a9) in fiancé; SA5_07, TIP_102
+#  line = re.sub("\u00e9", "e", line) # é (utf8:c3a9) in fiancé; SA5_07, TIP_102
   line = re.sub("na\u00efve", "naive", line) # "naïve": no umlaut for i
-  line = re.sub(r"''I''", "%CFF8FI%CFFFF", line) # colored text (yellow) to signify "ore", as deviated from Kokoro's normal "watashi".
-  line = re.sub(r"'I'", "%C8CFFI%CFFFF", line) # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
-  if "''" in line:
-    exit("unmatched ''")
+  #line = re.sub(r"''I''", "%CFF8FI%CFFFF", line) # colored text (yellow) to signify "ore", as deviated from Kokoro's normal "watashi".
+  #line = re.sub(r"'I'", "%C8CFFI%CFFFF", line) # colored text (blue) to signify "watashi", as deviated from Satoru's normal "ore".
+  #if "''" in line:
+    #exit("unmatched ''")
   # line = re.sub("\u2473", "\u2473", line) # ⑳ ('CIRCLED NUMBER TWENTY' (U+2473)). No need to replace, rendered as a wide space. (glyph #1147)
   # spaces are too thin on pc; Not the case for psp.
 
@@ -99,6 +100,14 @@ def str_to_r11_bytes(text: str, lang = "en", exception_on_unknown = False) -> by
       r11_bytearray.extend(b'\x20')
     elif ch == '\n':
       r11_bytearray.extend(b'\n')
+    elif ch == '\t':
+      r11_bytearray.extend(b'\t')
+    elif ch == '\0':
+      r11_bytearray.extend(b'\0')
+    elif ch == '\u30fc':
+      r11_bytearray.extend(b'\x81\x5b')
+    elif ch == '\uff0d':
+      r11_bytearray.extend(b'\x81\x7c')
     else:
       try:
         r11_char_code = r11_utf8_to_codes[ch][1]

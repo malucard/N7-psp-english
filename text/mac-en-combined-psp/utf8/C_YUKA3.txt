@@ -1,0 +1,2793 @@
+text area offset and size:
+0x50F0
+0xC617
+0xC8
+―I'm dreaming.%K%N
+
+0xD4
+I'm dreaming of a story that runs by quickly in my long,%Ndeep slumber.%K%N%N
+
+0xE0
+If I had to liken this to a color, it would be... purple.%K%N
+
+0xEC
+The entire world is dyed purple.%K%N%N
+
+0xF8
+In the purple world, a child is crying...%K%P
+
+0x10C
+It's a lonely girl, who is either in grade school or about to%Nenter grade school.%K%N
+
+0x118
+Could she be a lost child?%K%N
+
+0x124
+The girl uneasily looks around her, and scrunches up%Nher face as she bursts into tears again.%K%N%N
+
+0x130
+Besides the girl is a boy.%K%N
+
+0x13C
+He seems to be the same age as the girl.%K%P
+
+0x150
+The boy speaks.%K%N%N
+
+0x15C
+"You don't recognize this area...?"%K%N%N
+
+0x168
+The girl nods, still crying.%K%N%N
+
+0x174
+"Then go ask a policeman. He'll definitely show you the%Nway home."%K%N%N
+
+0x180
+"*Hic, hic*..."%K%P
+
+0x194
+"By the way, what's your name? You haven't told me yet."%K%N%N
+
+0x1A0
+"Uwaah, uwaah!"%K%N%N
+
+0x1AC
+"I can't understand you if all you do is cry..."%K%N%N
+
+0x1B8
+"Waah! Waah!"%K%P
+
+0x1CC
+"*Hic*...I wanna go home..."%K%N%N
+
+0x1D8
+"I know...!"%K%N%N
+
+0x1E4
+The boy searches through his pocket.%K%N
+
+0x1F0
+Before long, he takes something small out.%K%P
+
+0x204
+"I'll give this to you, so don't cry anymore..."%K%N%N
+
+0x210
+He takes the girl's hand...%K%N
+
+0x21C
+...And places a small object in her palm.%K%P
+
+0x230
+It's... a small key chain.%K%N%N
+
+0x23C
+"Well?♪"%K%N%N
+
+0x248
+The boy smiles at the girl.%K%N
+
+0x254
+The girl looks back and forth between the key chain in%Nher palm and the boy's face.%K%N
+
+0x260
+After a little while, the girl stops crying, and smiles.%K%P
+
+0x274
+"Thank you..."%K%N%N
+
+0x280
+"Yeah. So, what's you name?"%K%N%N
+
+0x28C
+The girl wipes the tears off her face, and with an%Nawkward voice, she states her name.%K%N%N
+
+0x298
+"My name is ... "%K%P
+
+0x3DC
+The refreshing morning light shines in.%K%P
+
+0x3E8
+I don't wake up with any of the listlessness I usually feel%Nas soon as I wake up.%K%P
+
+0x3F4
+I look at my alarm clock.%K%P
+
+0x400
+It's past 8:00...%K%P
+
+0x40C
+I definitely went to sleep at about 10:00 last night, so%Nthat means I've slept for...%K%N
+
+0x418
+―T-Ten hours?!?%K%P
+
+0x440
+I jump to my feet from my bed, and take out a small%Nstanding mirror from my bag.%K%P
+
+0x44C
+I look at my face reflected off the mirror.%K%P
+
+0x458
+...What a relief.%K%N
+
+0x464
+Fortunately, there's no bags under my eyes.%K There's no%Nswelling at all on my face.%K%P
+
+0x470
+Yuka「Whew, boy oh boy...」%K%P
+
+0x47C
+I sigh, and begin changing my clothes.%K%P
+
+0x488
+(Now that I think about it... I had a weird dream...)%K%P
+
+0x494
+For some reason, it left quite the impression on me.%K%P
+
+0x4A0
+Anxiety...%K That dream was full of anxiety.%K%P
+
+0x4AC
+Like the feeling of floating on the water's surface...%K%P
+
+0x4B8
+Where it feels like you could fly off into the sky at any%Nminute... that feeling of anxiety...%K%P
+
+0x4C4
+(Mmm...)%K%P
+
+0x4D0
+(Oh well, whatever.)%K%P
+
+0x4DC
+Telling this to myself, I begin to diligently comb my hair.%K%P
+
+0x4E8
+After all, today has a good-feeling morning.%K%P
+
+0x4F4
+The air outside this morning is so good that it makes me%Nwant to take a large inhale of it right now.%K%P
+
+0x500
+When I finish setting my hair, I turn to the right and go out%Nmy door.%K%P
+
+0x5C4
+After 9:00, Kurumi-chan arrives with some French toast%Nfor breakfast.%K%N%N
+
+0x5D0
+Makoto, Okuhiko-kun, and Haruka awaken a little while%Nlater.%K%N
+
+0x5DC
+Once we're all gathered, I announce that today's plan is%Nto play tennis.%K%N%N
+
+0x5E8
+Of course, I know that once I announce that, Makoto and%NHaruka will tell us that they're going fishing.%K%P
+
+0x5FC
+"The good parts of history must stay good."%K%N%N
+
+0x608
+Makoto feels that going fishing with Haruka is a good%Nevent.%K%N
+
+0x614
+At the very least, it is for Haruka.%K%N%N
+
+0x620
+Deciding to make things more favorable for those two, I%Ntalk to Okuhiko-kun.%K%P
+
+0x690
+Yuka「Hey, Okuhiko-kun? Can I ask you a favor?」%K%P
+
+0x6AC
+Okuhiko「Hmm? What is it? I'll do whatever you ask, as long as it's%Nwithin my power.」%K%P
+
+0x6B8
+He says this, aware of Haruka sitting next to him.%K%P
+
+0x6CC
+Yuka「The truth is, I forgot to book the courts for today...」%K%P
+
+0x6E0
+Okuhiko「Huh? Really...? But they're usually empty, so shouldn't it%Nbe all right...?」%K%P
+
+0x6EC
+Yuka「Yes... But I have a feeling it'll be crowded today.」%K%P
+
+0x6F8
+Yuka「You see, I was taking a walk earlier...」%K%P
+
+0x704
+Yuka「When I saw a tourist group arrive at a nearby lodge.」%K%P
+
+0x718
+Okuhiko「I-Is that right? Hmm... I see.」%K%P
+
+0x72C
+Yuka「So won't you go and book it for me...?」%K%P
+
+0x738
+Yuka「Oh, but I don't mind if Makoto is the one who does it.」%K%P
+
+0x744
+Yuka「Hey, Haruka, which one should I ask?」%K%P
+
+0x760
+Haruka「...?」%K%P
+
+0x76C
+Haruka「It doesn't really matter to me...」%K%P
+
+0x780
+Okuhiko「Hmm...」%K%P
+
+0x78C
+Okuhiko-kun gives Haruka's face a sidelong glance...%K%P
+
+0x7A0
+Okuhiko「All right, got it. Why don't I go there right now?」%K%P
+
+0x7BC
+Yuka「Thank you♪ You've really become reliable, Okuhiko-kun.」%K%P
+
+0x7D0
+Okuhiko「Ha ha ha ha ha. Leave it to me.」%K%P
+
+0x7DC
+Okuhiko「Well then, I'm going now, Haruka-chan.」%K%P
+
+0x7F0
+Okuhiko-kun sends Haruka a flirtatious glance, then%Ncasually walks out of the lodge.%K%P
+
+0x7FC
+Makoto「...W-Well done...」%K%P
+
+0x808
+Having watched our exchange, baffled, Makoto finally%Nopens his mouth.%K%P
+
+0x814
+I answer Makoto with a wink.%K%P
+
+0x828
+Haruka「??」%K%P
+
+0x834
+Kurumi「??」%K%P
+
+0x840
+Haruka and Kurumi-chan, neither understanding what%Njust happened, tilt their heads.%K%P
+
+0x854
+...%K%P
+
+0x868
+Saki「Good morning, everyone!」%K%P
+
+0x874
+Saki comes in carrying a basket, and things progress%Nthe same way as last time.%K%P
+
+0x90C
+Like last time, Saki plans to come with us to tennis.%K%N
+
+0x918
+When she hears Makoto and Haruka won't be going to%Nplay tennis, Saki makes a discontent face, but doesn't%Nobject against it.%K%N%N
+
+0x924
+No one interferes with Makoto and Haruka as they go to%Nfish.%K%N%N
+
+0x930
+And then....%K%P
+
+0x9A0
+Okuhiko「Hey, you're slow. I was getting tired of waiting.」%K%P
+
+0x9AC
+Okuhiko「Since I was down here, I figured I'd reserve all the courts.」%K%P
+
+0x9B8
+Okuhiko「What do you think? With this, absolutely no one can get%Nin our wa-」%K%P
+
+0x9CC
+Okuhiko「Wait, huh? I don't see Haruka-chan anywhere...」%K%P
+
+0x9E8
+Yuka「Huh? Didn't I tell you?」%K%P
+
+0x9F4
+Okuhiko「???」%K%P
+
+0xA00
+Yuka「Makoto and Haruka are doing something else.」%K%P
+
+0xA14
+Okuhiko「...Huh?」%K%P
+
+0xA28
+The dozens of rackets leaning against the bench all fall%Ndown with a dull thud...%K%P
+
+0xAF8
+And thus, we begin our game of tennis.%K%N
+
+0xB04
+I repeat the exact same match as last time, but because%NI'm so focused on searching for the bell later, I don't%Nenjoy the game all that much.%K%N%N
+
+0xB10
+―Noon arrives.%K%N
+
+0xB1C
+We eat the sandwiches that Saki made for lunch.%K%N%N
+
+0xB28
+...Is it my imagination?%K%N
+
+0xB34
+Or are the ingredients in this sandwich different from%Nlast time...?%K%P
+
+0xBB8
+After our lunch break, we resume the match.%K%P
+
+0xBC4
+In the afternoon, we do pair doubles, with "Yuka-Kurumi"%NVS "Saki-Okuhiko".%K%P
+
+0xBD0
+It's such a close match that I don't have the luxury to%Nthink about the bell anymore.%K%P
+
+0xC0C
+―Is Saki doing better than last time?%K%P
+
+0xC18
+She's really putting her back into the game; her returns%Nto my smashes are powerful.%K%P
+
+0xC24
+Now that I think about it, she did have quite the%Ncompetitive spirit back in the day...%K%P
+
+0xC90
+Before long, the climatic match ends (of course, with us%Nwinning), and Kurumi-chan and I leave the courts.%K%P
+
+0xC9C
+Saki, who lost the match, looks very disappointed... It%Nseems she's going to play for a little while longer and%Ntake a crash course.%K%P
+
+0xCA8
+And Okuhiko-kun, who was with her, is now feeling%Nmiserable from his loss.%K%P
+
+0xCB4
+Because Okuhiko-kun reserved the entire place, the%Nshower room is naturally empty.%K%P
+
+0xCC0
+After that intense match, taking a shower feels like%Nheaven...%K%P
+
+0xCCC
+... ... ...%K%P
+
+0xD48
+Once Kurumi-chan and I finish changing clothes, we head%Nfor the shopping district.%K%P
+
+0xD54
+Right now, the plan is for us to go to the gift shop.%K%P
+
+0xD60
+As we descend the hill road, all I can think about is the%Nbell.%K%P
+
+0xD6C
+(Will I be able to find it all right...?)%K%P
+
+0xD78
+I really am anxious without Makoto here...%K%P
+
+0xDC8
+We come out on the coastline, and walk towards the east.%K%P
+
+0xDD4
+Moon Beach is a short distance away.%K%P
+
+0xDE0
+I can't help but get more and more anxious.%K%P
+
+0xDEC
+What if... I can't find the bell...?%K%P
+
+0xDF8
+Even if I tried to give Makoto my bell, there's no way he'd%Naccept it...%K%P
+
+0xE04
+Then when the 6th comes, Makoto will have no bell.%K%P
+
+0xE10
+What if...%K What if an unexpected accident happens?%K What%Nif Makoto's life is put in danger?%K%P
+
+0xE1C
+...Then, Makoto will "really" die!%K%P
+
+0xE28
+My anxiety is growing more and more.%K%P
+
+0xE34
+As we continue, I gaze at the white, crescent shaped%Nsandy beach.%K%P
+
+0xE40
+What if someone picks it up before I do?%K No... should I go%Npick it up right now?%K%P
+
+0xE4C
+I've thought about this enough.%K%P
+
+0xE58
+After all, I'll be changing history considerably.%K%P
+
+0xE64
+Right now, should I go and find the bell first...?%K Or should I%Ngo shopping first like in the last history...?%K%P
+
+0xE70
+A "fated choice" has arrived before me――.%K
+
+0x50C8
+Go shopping first.
+
+0x50D4
+Go look for the bell first.
+
+0xEB0
+I decide to let history repeat itself in the order it went in%Nlast time.%K%P
+
+0xEBC
+Kurumi「Yuka-saaaan!!」%K%P
+
+0xEC8
+When I come to my senses, I see that Kurumi is far ahead%Nof me.%K%P
+
+0xED4
+I speed up and chase after Kurumi-chan.%K%P
+
+0xF50
+We arrive at the shopping district about the same time%Nas we did last time.%K%P
+
+0xF5C
+And also like last time, we have fun shopping.%K%P
+
+0xF68
+...%K%P
+
+0xF74
+Even though it's my second time, I still buy a large%Namount of stuff.%K%P
+
+0xF80
+Right now, I've finished paying at the counter, with a%Nlarge sake bottle I'm carrying in both my hands being%Nplaced into a paper bag.%K%P
+
+0xF8C
+I plan to have it shipped back home via delivery service.%K%P
+
+0xF98
+Kurumi-chan is now at the counter, buying something.%K%P
+
+0xFA4
+While waiting for Kurumi-chan, I decide look around the%Nshop's interior one more time.%K%P
+
+0xFB0
+Suddenly, my eye is caught by countless key chains%Ndangling down from a nearby shelf.%K%P
+
+0xFBC
+(Oh, that's right...!)%K%P
+
+0xFC8
+This is where I bought that key chain last time.%K I didn't%Nbuy it for anyone else. It was a souvenir for me.%K%P
+
+0xFD4
+I approach the group of key chains as if they're luring%Nme in.%K%P
+
+0xFE0
+And then, in order to find my target, I check every single%None of the key chains.%K%P
+
+0xFEC
+...%K%P
+
+0xFF8
+(F-Found it...!)%K%P
+
+0x100C
+It's there that I see the key chain with the fat cat mascot%Nattached to it dangling downwards.%K%P
+
+0x1018
+I play around with the cat for a short time in my hand as%Nfeelings of nostalgia flood within me.%K%P
+
+0x1024
+In the last loop, I traded the key chain for the bell.%K%P
+
+0x1030
+Why do I find this key chain so captivating...?%K%P
+
+0x103C
+(...That's right. I thought that it resembled something...)%K%P
+
+0x1048
+(But what...?)%K%P
+
+0x1064
+Kurumi「Thanks for waiting♪ We bought so much that they gave%NKurumi some postage stamps for free♪」%K%P
+
+0x1078
+Kurumi「...?? Is something wrong, Yuka-san?」%K%P
+
+0x1094
+Yuka「Huh? Ah, I just thought that this was cute♪」%K%P
+
+0x10A8
+Kurumi「Wow, it looks like the spitting image of a cat in a manga%NKurumi read.」%K%P
+
+0x10BC
+Kurumi「It's name was Schr▼dy.」%K%P
+
+0x10D0
+(A cat in a manga, huh...?)%K%P
+
+0x10E4
+(...Yeah, that might be it.)%K%P
+
+0x10F8
+Yuka「All right, I'm gonna buy this♪」%K%P
+
+0x110C
+Yuka「Excuse me, I'll take this!」%K%P
+
+0x1118
+Of course, I intend to give this cat my own name...%K%P
+
+0x1124
+An incredible name that can only come from my refined%Nnaming sense.%K%P
+
+0x1130
+(Nice to meet you, Nin Nin Neko Pyon #2♪)%K%P
+
+0x11C8
+The white, sandy beach curved in the shape of a bow is%Nspread out before my eyes.%K%P
+
+0x11D4
+Or rather, the shore is more like the shape of a crescent%Nmoon...%K%P
+
+0x11E0
+It's as if the beach was carefully carved into its shape%Nby the waves, like it was a wood sculpture.%K%P
+
+0x11EC
+Right now, I'm looking for the bell that should be washed%Nup around here.%K%P
+
+0x11F8
+I see Kurumi a bit farther away from me.%K%P
+
+0x1204
+In the end, I decided to get her help.%K%P
+
+0x1210
+I lied to her, telling her that "I dropped a memento of my%Ngrandpa here."%K%P
+
+0x121C
+This way, I think she'll certainly find it...%K%P
+
+0x1228
+If I just do that much, I don't think it'll cause a big change%Nto history...%K%P
+
+0x1234
+I'm certain of it.%K%P
+
+0x1240
+I'm certain that "We'll definitely find the bell"...%K%P
+
+0x124C
+Before long...%K%P
+
+0x1280
+Kurumi「Found it!!」%K%P
+
+0x12A4
+Kurumi「Found it! Hey, Kurumi found it, Yuka-san♪」%K%P
+
+0x12B0
+She's holding something in her hand.%K%P
+
+0x12BC
+Said object shines in the sunlight.%K%P
+
+0x12C8
+...It's the bell.%K%P
+
+0x12F0
+Kurumi「Hey? Is this it? This is it, right, Yuka-san?」%K%P
+
+0x130C
+Yuka「Yep! This is it, Kurumi-chan!!」%K%P
+
+0x1320
+Kurumi「Really!? Yay, what a relief♪ Kurumi worked as hard as%Nshe could to find it!」%K%P
+
+0x132C
+In Kurumi-chan's other hand, she holds two bent tree%Nbranches.%K%P
+
+0x1338
+However, I have absolutely no clue how they could%Npossibly be used to search for something.%K%P
+
+0x1344
+Yuka「Yes, yes... You're a good girl, Kurumi-chan～♪」%K%P
+
+0x1350
+As a reward, I gently pat Kurumi-chan on the head.%K%P
+
+0x1364
+Kurumi「Eheh♪」%K%P
+
+0x1378
+I accept the bell from Kurumi.%K%P
+
+0x13AC
+The bell lands in my palm, making a high pitched sound.%K%P
+
+0x13C8
+I decide to search for the bell first.%K%P
+
+0x13DC
+Yuka「Hey, Kurumi-chan?」%K%P
+
+0x13F8
+Kurumi「Hmm? What?」%K%P
+
+0x1404
+Yuka「Umm... why don't you go shopping alone?」%K%P
+
+0x1418
+Kurumi「Huh?」%K%P
+
+0x1424
+Yuka「Um... I remembered that there's something important I%Nhave to do...」%K%P
+
+0x1430
+Kurumi「Something important?」%K%P
+
+0x143C
+Yuka「Err... um...」%K%P
+
+0x1448
+Kurumi「?」%K%P
+
+0x145C
+Yuka「I have to go look... for something I dropped.」%K%P
+
+0x1470
+Kurumi「Something you dropped?」%K%P
+
+0x147C
+Yuka「Yeah...」%K%P
+
+0x1488
+Kurumi「What was it?」%K%P
+
+0x1494
+Yuka「Th-That's...」%K%P
+
+0x14A8
+Kurumi-chan looks at me with an curious gaze that%Nscreams "What is it, what is it?"%K%P
+
+0x14B4
+Yuka「...」%K%P
+
+0x14C0
+Yuka「...It's a memento.」%K%P
+
+0x14D4
+Kurumi「A-A memento!? O-Of who?」%K%P
+
+0x14E0
+Yuka「...M-My great grandfather...」%K%P
+
+0x14EC
+...That's a lie.%K%P
+
+0x14F8
+My great grandfather is still alive in the countryside,%Nlively as ever.%K%P
+
+0x1504
+Hell, he's even over a 100 years old...%K%P
+
+0x1518
+Kurumi「...」%K%P
+
+0x1524
+(Did she see... through my lie...!?)%K%P
+
+0x1540
+Kurumi「...Yuka-san?」%K%P
+
+0x154C
+Yuka「Wh-What...?」%K%P
+
+0x1558
+Kurumi「...Let Kurumi help.」%K%P
+
+0x156C
+Yuka「Huh?」%K%P
+
+0x159C
+Kurumi「Kurumi's saying she'll help you out♪」%K%P
+
+0x15A8
+Kurumi「Because if it's something that important, then you%Nabsolutely need to find it!」%K%P
+
+0x15BC
+Yuka「...」%K%P
+
+0x15D0
+Kurumi「Isn't that right? Right?♪」%K%P
+
+0x15DC
+Yuka「...Y-Yeah.」%K%P
+
+0x15F0
+In the end, Kurumi-chan helps me look for the bell.%K%P
+
+0x15FC
+(...Hey, is this really all right...??)%K%P
+
+0x1608
+I mutter these words in my mind as I turn towards the%Ndirection of the harbor.%K%P
+
+0x166C
+And thus, the search for the bell begins.%K%P
+
+0x1678
+I walk along the beach, relying on my vague memories.%K%P
+
+0x1684
+My eyes are as wide as saucers as I scan the beach.%K%P
+
+0x1690
+Shells and seaweed are washed ashore by the waves,%Nonly to be dragged back in.%K%P
+
+0x169C
+Occasionally, I'll carefully excavate something buried in%Nthe sand.%K%P
+
+0x16A8
+...The steady search continues to go on and on for%Nnearly an hour.%K%P
+
+0x16C0
+... ... ...%K%P
+
+0x173C
+I can't find the bell...%K%P
+
+0x1748
+We've searched so much, but we can't find it.%K%P
+
+0x1754
+Has history really changed after all?%K%P
+
+0x1760
+Did someone else pick it up...?%K%P
+
+0x176C
+Or is it still at the bottom of the sea...?%K%P
+
+0x1778
+Bad thoughts flood my head, leaving me with no room to%Nthink of anything else...%K%P
+
+0x178C
+Yuka「Haah～...」%K%P
+
+0x1798
+I let out an involuntary sigh, and stretch myself out, my%Nback tired from being bent this whole time.%K%P
+
+0x17A4
+I look around in an attempt to ignore my feelings.%K%P
+
+0x17B8
+A short distance away from me, Kurumi-chan slowly%Npaces around while holding two bent tree branches in%Nher hands.%K%P
+
+0x17C4
+...?%K%P
+
+0x17D0
+Could it be... that she's trying to use dowsing??%K%P
+
+0x17DC
+Hmm...%K%P
+
+0x17E8
+But I don't think there's any meaning... in using tree%Nbranches...%K%P
+
+0x17F4
+...Even so, Kurumi-chan is desperately searching.%K%P
+
+0x1800
+Gradually, I feel my chest grow hotter and hotter.%K%P
+
+0x180C
+She's doing everything she can to search for it...%K Even%Nthough it's something someone else dropped...%K%P
+
+0x1818
+Inspired by her actions, I resume my search once again.%K%P
+
+0x1824
+...%K%P
+
+0x1830
+...Now that I think about it...%K%P
+
+0x183C
+Now that I think about it, I feel like this happened in the%Npast.%K%P
+
+0x1848
+I was... searching for something very, very important...%K%P
+
+0x1854
+That's right. At that time, I was also looking for something%Nvery important.%K%P
+
+0x1860
+(At that time... umm...)%K%P
+
+0x186C
+(What was I looking for...?)%K%P
+
+0x1878
+...I can't remember.%K%P
+
+0x1884
+It feels like a rising bubble that stops just before it can%Nreach the water's surface.%K%P
+
+0x1890
+It's a memory of mine, but I barely remember anything...%K%P
+
+0x189C
+However, there are two things alone that I clearly%Nremember.%K%P
+
+0x18A8
+#1: That object was something I considered to be a%Ntreasure.%K%P
+
+0x18B4
+#2: In the end, I never found it.%K%P
+
+0x18C0
+A slightly cold wind blows by.%K%P
+
+0x18DC
+...And, at that time!%K%P
+
+0x18E8
+Kurumi「Foooound it!!」%K%P
+
+0x18F4
+Yuka「What!?」%K%P
+
+0x1908
+Kurumi「Found it! Hey, Kurumi found it, Yuka-san♪」%K%P
+
+0x1914
+Kurumi-chan runs over to me, one of her hands%Nstretched out.%K%P
+
+0x1920
+She's holding something in that hand.%K%P
+
+0x192C
+Said object shines in the sunlight.%K%P
+
+0x1938
+...It's the bell.%K%P
+
+0x1944
+Yuka「...」%K%P
+
+0x196C
+Kurumi「Hey? Is this it? This is it, right, Yuka-san?」%K%P
+
+0x1988
+Yuka「...This is it.」%K%P
+
+0x1994
+Yuka「This is it! This is it, Kurumi-chan!!」%K%P
+
+0x19A8
+Kurumi「Really!? Yay, what a relief♪ Kurumi worked as hard as%Nshe could to find it!」%K%P
+
+0x19B4
+Yuka「Yes, yes... You're a good girl, Kurumi-chan～♪」%K%P
+
+0x19C0
+I gently pat Kurumi-chan on the head.%K%P
+
+0x19D4
+Kurumi「Eheh♪」%K%P
+
+0x19E0
+I take the bell from Kurumi-chan.%K%P
+
+0x1A14
+The bell lands in my palm, making a high pitched sound.%K%P
+
+0x1A20
+Yuka「With this, I can save...」%K%P
+
+0x1A34
+Kurumi「Huh?」%K%P
+
+0x1A48
+Yuka「Hmm? ...Ah-」%K%P
+
+0x1A54
+Crap...%K%P
+
+0x1A60
+Kurumi「...If you didn't find that memento, you wouldn't be able to%Nsave someone? From what? Death?」%K%P
+
+0x1A74
+Yuka「Y-Yeah...」%K%P
+
+0x1A88
+Kurumi「Who?」%K%P
+
+0x1A94
+Yuka「Th-That's...」%K%P
+
+0x1AA8
+Kurumi-chan looks at me with an inquisitive gaze that%Nscreams "Who is it, who is it?"%K%P
+
+0x1AB4
+Yuka「...」%K%P
+
+0x1AC0
+Yuka「...My great-grandma.」%K%P
+
+0x1AD4
+...That's a lie.%K%P
+
+0x1AE0
+My great-grandma died three years ago...%K%P
+
+0x1B5C
+Makoto「How's it going, Yuka? Did you find it?」%K%P
+
+0x1B68
+A little while later, Makoto comes to Moon Beach.%K%P
+
+0x1B74
+He told Haruka he had an errand to run, and left%Ntemporarily.%K%P
+
+0x1B80
+Despite what he said, I guess he was worried after all.%K%P
+
+0x1B8C
+To have Makoto be that concerned for me is kinda%Nembarrassing, but I can't help but crack a smile.%K%P
+
+0x1BA0
+Yuka「Heh heh heh heh heh...」%K%P
+
+0x1BAC
+Makoto「?」%K%P
+
+0x1BC0
+Yuka「Ta-da♪」%K%P
+
+0x1BCC
+I proudly show him the bell in my palm.%K%P
+
+0x1BD8
+Makoto「Phew... this makes two lifel...」%K%P
+
+0x1BE4
+As he tries to say this, Makoto notices Kurumi, and is%Ntaken aback.%K%P
+
+0x1BF0
+(...Hmm? Oh, that's right...)%K%P
+
+0x1C04
+Yuka「Kurumi-chan also helped out.」%K%P
+
+0x1C10
+Makoto「Huh!?」%K%P
+
+0x1C2C
+Kurumi「Yuka-san said it was a memento of her great-grandpa,%Nso...」%K%P
+
+0x1C38
+Kurumi「Kurumi looked very hard for it.」%K%P
+
+0x1C44
+Makoto「Were you the one to find it, Kurumi?」%K%P
+
+0x1C58
+Kurumi「Yep♪」%K%P
+
+0x1C64
+Makoto「I see. You're a good girl...」%K%P
+
+0x1C70
+Makoto pats Kurumi-chan on the head.%K%P
+
+0x1C84
+Kurumi「Eheh♪」%K%P
+
+0x1C90
+Makoto「Well then, I've got to go back now.」%K%P
+
+0x1C9C
+Yuka「Right.」%K%P
+
+0x1CA8
+Makoto「See you later...」%K%P
+
+0x1CBC
+Makoto turns around.%K%P
+
+0x1CC8
+Without a moment's delay, I immediately draw close to%NMakoto.%K%P
+
+0x1CDC
+Yuka「Here...」%K%P
+
+0x1CE8
+I whisper this very faintly into Makoto's ear, and place%Nthe bell in his palm.%K%P
+
+0x1CF4
+From the way I'm standing, my back acts as a wall so that%NKurumi-chan can't see us.%K%P
+
+0x1D08
+Yuka「This is yours... right?」%K%P
+
+0x1D1C
+I say this, and lightly tap Makoto on his shoulder.%K%P
+
+0x1D28
+With this, there's no longer anything to worry about...%K%P
+
+0x1D34
+Kurumi「Hold on, you two... What are you doing?」%K%P
+
+0x1D40
+The sound of her voice makes me jump, and I move away%Nfrom Makoto.%K%P
+
+0x1D54
+Yuka「Nothing really. It's nothing, it's nothing.」%K%P
+
+0x1D60
+Kurumi「It not nothing, is it? What you did just now was too%Nsuspicious!」%K%P
+
+0x1D74
+Yuka「You think so～?」%K%P
+
+0x1D88
+Kurumi「Of course!」%K%P
+
+0x1D94
+Kurumi scrutinizingly glares at us while furrowing her brow.%K%P
+
+0x1DA0
+Makoto「Well then, see you, Kurumi!」%K%P
+
+0x1DAC
+Makoto departs, running away as fast as he can.%K%P
+
+0x1DC0
+Kurumi「Ah! Wait a minute, Onii-chan!」%K%P
+
+0x1E4C
+After Makoto leaves, Kurumi-chan and I head towards%Nthe gift shop in the shopping district.%K%P
+
+0x1E58
+We arrive much later than the last time.%K%P
+
+0x1E64
+Nevertheless, we have fun shopping, just like last time.%K%P
+
+0x1E70
+...%K%P
+
+0x1E7C
+Even though it's my second time, I still buy a large%Namount of stuff.%K%P
+
+0x1E88
+Right now, I've finished paying at the counter, with a%Nlarge sake bottle I'm carrying in both my hands being%Nplaced into a paper bag.%K%P
+
+0x1E94
+I plan to have it shipped back home via delivery service.%K%P
+
+0x1EA0
+Kurumi-chan is now at the counter, buying something.%K%P
+
+0x1EAC
+While waiting for Kurumi-chan, I decide look around the%Nshop's interior one more time.%K%P
+
+0x1EB8
+Suddenly, my eye is caught by countless key chains%Ndangling down from a nearby shelf.%K%P
+
+0x1EC4
+(Oh, that's right...!)%K%P
+
+0x1ED0
+This is where I bought that key chain last time.%K I didn't%Nbuy it for anyone else. It was a souvenir for me.%K%P
+
+0x1EDC
+I approach the group of key chains as if they're luring%Nme in.%K%P
+
+0x1EE8
+And then, in order to find my target, I check every single%None of the key chains.%K%P
+
+0x1F10
+...%K%P
+
+0x1F1C
+(H-Huh...? Whaaaaat?)%K%P
+
+0x1F28
+But the key chain I bought back then isn't there.%K%P
+
+0x1F34
+(Is this the wrong shop...?)%K%P
+
+0x1F40
+(No... that's not it. It was definitely this one.)%K%P
+
+0x1F4C
+I might have overlooked it.%K%P
+
+0x1F58
+I look for it one more time.%K%P
+
+0x1F64
+...But I can't find it, no matter how many times I look.%K%P
+
+0x1F70
+The key chain with the fat cat mascot attached to it...%K I%Ncan't find Nin Nin Neko Pyon...%K%P
+
+0x1F84
+Yuka「Um, excuse me?」%K%P
+
+0x1F90
+Yuka「Do you have a key chain with a fat cat mascot attached%Nto it here?」%K%P
+
+0x1F9C
+I ask a passing store clerk.%K%P
+
+0x1FA8
+There's no way that they'll know what I'm talking about.%K%P
+
+0x1FB4
+Even so, it doesn't hurt to ask.%K%P
+
+0x1FC0
+Clerk「Huh? ...Oh, that key chain?」%K%P
+
+0x1FD4
+Yuka「!?」%K%P
+
+0x1FE0
+Yuka「...Th-That's it. That's definitely it. Where is this it?」%K%P
+
+0x1FEC
+Clerk「We're sold out.」%K%P
+
+0x1FF8
+...!!%K%P
+
+0x2004
+Yuka「...S-Sold out?」%K%P
+
+0x2010
+Clerk「It's kind of a rare key chain, you see.」%K%P
+
+0x201C
+Clerk「If it's not there... then that means we've run out of stock.」%K%P
+
+0x2030
+Yuka「...」%K%P
+
+0x204C
+Kurumi「Thanks for waiting♪ We bought so much that they gave%NKurumi some postage stamps for free♪」%K%P
+
+0x2060
+Kurumi「...?? What's wrong, Yuka-san?」%K%P
+
+0x2074
+...%K%P
+
+0x2080
+With all our business concluded, we leave the shop...%K%P
+
+0x20EC
+Yuka「...」%K%P
+
+0x20F8
+I walk with my shoulders slumped, heartbroken.%K%P
+
+0x2104
+Kurumi-chan is at my side, clearly worried about me.%K%P
+
+0x2110
+I feel depressed, as if there's a gaping wide hole in my%Nheart... It's a tormenting feeling of loss.%K%P
+
+0x211C
+It's probably because... of that key chain...%K%P
+
+0x2130
+Kurumi「Hey, what's wrong...?」%K%P
+
+0x213C
+Kurumi「You've been totally down since the gift shop.」%K%P
+
+0x2158
+Yuka「That's... not true...」%K%P
+
+0x216C
+Kurumi「Yes it is... Kurumi's never seen you look this depressed%Nbefore...」%K%P
+
+0x2178
+Kurumi「It's about the same as you were on Moon Beach, when%Nyou were looking for that lost object of yours.」%K%P
+
+0x219C
+(...!?)%K%P
+
+0x21A8
+Lost object...%K%P
+
+0x21B4
+An important thing that I couldn't find...%K%P
+
+0x21C0
+My lost... treasure...%K%P
+
+0x21CC
+The bubble finally reaches the top of the water, the%Nsleeping memory within me having been revived.%K%P
+
+0x21D8
+(That's it...!)%K%P
+
+0x21E4
+(That's why I wanted that key chain so much...)%K%P
+
+0x2250
+We go out onto the paved road.%K%P
+
+0x225C
+While doing so, we walk while talking about trivial things.%K%P
+
+0x2270
+Kurumi「And then, you see, Onee-chan...」%K%P
+
+0x2284
+Kurumi-chan laughs loudly.%K%P
+
+0x2290
+She's having fun laughing at this random story.%K%P
+
+0x229C
+But I still can't laugh like Kurumi-chan.%K%P
+
+0x22A8
+Because I remembered...%K%P
+
+0x22B4
+Because I came to this Seminar Camp, I remembered too%Nmuch of my past.%K%P
+
+0x22C0
+One by one...%K One by one...%K%P
+
+0x22CC
+Back then, in that memory, I had talked to someone.%K%P
+
+0x22D8
+I was sad, unstable, and felt like I had been abandoned.%K%P
+
+0x22EC
+Kurumi「Hey, Yuka-san?」%K%P
+
+0x2308
+Yuka「Hmm? What is it?」%K%P
+
+0x231C
+Kurumi「That key chain that was sold out... Was it really that%Nspecial?」%K%P
+
+0x233C
+Yuka「...」%K%P
+
+0x2348
+Kurumi「Because ever since then, you've been acting really%Nweird.」%K%P
+
+0x2354
+I stop walking.%K%P
+
+0x2360
+Kurumi-chan comes to a halt.%K%P
+
+0x237C
+For a little while, I'm a bit hesitant about whether or not I%Nshould talk about it...%K%P
+
+0x2388
+Yuka「...That key chain was...」%K%P
+
+0x2394
+...But then I make up my mind to tell her.%K%P
+
+0x23A0
+Yuka「That key chain was...」%K%P
+
+0x23AC
+Yuka「...kinda the spitting image...」%K%P
+
+0x23B8
+Yuka「...of an important treasure from when I was young...」%K%P
+
+0x23C4
+Yuka「A small cat key chain...」%K%P
+
+0x23D0
+Kurumi「...」%K%P
+
+0x23DC
+Yuka「The cat on the key chain... was called 'Nin Nin Neko Pyon'...」%K%P
+
+0x23E8
+Yuka「Even though it was small, it wasn't cute at all...」%K%P
+
+0x23F4
+Yuka「It had this scratch on its forehead shaped like a cross%Nor a shuriken, and it was pretty ugly.」%K%P
+
+0x2400
+Yuka「No, that scratch was exactly like a shuriken...」%K%P
+
+0x2414
+Kurumi「S-So you mean... the 'Nin Nin' part of it's name came from%N'ninja'...?」%K%P
+
+0x2428
+Yuka「That's right.」%K%P
+
+0x243C
+Kurumi「...」%K%P
+
+0x2448
+Yuka「That cat key chain wasn't cute in the slightest, but...」%K%P
+
+0x2454
+Yuka「...It was a precious treasure to me.」%K%P
+
+0x2484
+Yuka「It was a very, very important treasure that I received%Nfrom a special person...」%K%P
+
+0x2490
+Yuka「I attached it to my backpack, and would go to school%Nwith it.」%K%P
+
+0x24A4
+Yuka「But then...」%K%P
+
+0x24B0
+Yuka「But then... one day, I lost it.」%K%P
+
+0x24C4
+Kurumi「Huh...?」%K%P
+
+0x24D0
+Yuka「In the past... when I was in first grade in elementary%Nschool, I had no sense of direction, so I would frequently%Nget lost.」%K%P
+
+0x24DC
+Yuka「That day, I was lost too.」%K%P
+
+0x24E8
+Yuka「I was returning from school, and I hurried on home, as%Nthere was a TV show I really wanted to see that I had to%Nmake it in time for...」%K%P
+
+0x24F4
+Yuka「But when it seemed like I wouldn't make it in time... I thought%Nto use a shortcut. It was a shortcut my friend told me%Nabout the previous day.」%K%P
+
+0x2500
+Yuka「But I didn't recognize that street at all, so before I knew%Nit, I had wandered astray.」%K%P
+
+0x250C
+Yuka「...I was an idiot. I guess you could say I didn't know my%Nlimits...」%K%P
+
+0x2518
+Yuka「In the end, I got lost, and forgot all about the TV show...」%K%P
+
+0x2524
+Yuka「I continued to wander around these unknown places%Nwhile crying like a baby.」%K%P
+
+0x2530
+Yuka「But...」%K%P
+
+0x253C
+Yuka「I came to my senses... and before I knew it, I was%Nstanding in front of my house.」%K%P
+
+0x2548
+Yuka「And then... suddenly, I looked at my backpack...」%K%P
+
+0x2554
+Kurumi「And the kitty key chain was gone...?」%K%P
+
+0x2560
+Yuka「Yeah...」%K%P
+
+0x256C
+Yuka「I must have dropped it while I was lost...」%K%P
+
+0x2578
+Yuka「When I was wandering through the back alleys, my%Nbackpack rubbed against the walls, which is most likely%Nwhen it happened.」%K%P
+
+0x2584
+Yuka「But at that time, I didn't suspect that the cat didn't come%Nall the way home with me.」%K%P
+
+0x2598
+Kurumi「Did you look for it after that?」%K%P
+
+0x25AC
+Yuka「Of course I did.」%K%P
+
+0x25B8
+Yuka「The next day, I brought along a friend who knew that%Nshortcut well...」%K%P
+
+0x25C4
+Yuka「For hours and hours, we searched the area until it%Nbecame pitch black outside.」%K%P
+
+0x25D8
+Yuka「But... we didn't find it.」%K%P
+
+0x25E4
+Yuka「When the time came for me to go home, I had lost that%Nsmall cat.」%K%P
+
+0x25F0
+Yuka「And now... I've lost it again.」%K%P
+
+0x25FC
+Yuka「That store clerk said they had that fat cat key chain,%Nbut...」%K%P
+
+0x2608
+(And once again, I lost it as a result of the bell...)%K%P
+
+0x2614
+Kurumi「...」%K%P
+
+0x2628
+Kurumi「...H-Huh?」%K%P
+
+0x263C
+Yuka「?」%K%P
+
+0x2648
+Kurumi「Didn't you say earlier that 'those two key chains were%Nthe spitting image of each other'?」%K%P
+
+0x2654
+Yuka「Yeah, I did.」%K%P
+
+0x2660
+Kurumi「But...」%K%P
+
+0x266C
+Kurumi「But the first one was a small kitty, and the second one%Nwas a fat kitty, so they don't resemble each other at all,%Ndo they??」%K%P
+
+0x2680
+Yuka「...」%K%P
+
+0x268C
+Yuka「When you put it that way... that's true.」%K%P
+
+0x2698
+Kurumi「'Th-That's true'?」%K%P
+
+0x26AC
+Yuka「But... they're simliar!」%K%P
+
+0x26B8
+Yuka「When I first saw it, I definitely thought that they%Nresembled each other!」%K%P
+
+0x26CC
+Yuka「Even if their appearances are different...」%K%P
+
+0x26E0
+Kurumi「...Yuka... san?」%K%P
+
+0x26EC
+(...That's right.)%K%P
+
+0x26F8
+(Even though they don't look alike... they're still spitting%Nimages.)%K%P
+
+0x27B8
+After Makoto leaves, Kurumi-chan and I stay at Moon%NBeach, gazing at the setting sun as we start to leave.%K%P
+
+0x27C4
+No matter how many times I see this sight, it always%Nleaves a wonderful feeling in my heart...%K%P
+
+0x27D0
+The two of us continue to stare in a daze as if our souls%Nhave drifted out of our bodies, and when we come to our%Nsenses, we realize we've been there for at least an hour.%K%P
+
+0x27DC
+When we return to the lodge, the hands on the clock%Nindicate that it's 6:00 P.M.%K%P
+
+0x286C
+I sit down on the living room sofa, and let my thoughts%Nwander.%K%P
+
+0x2888
+I think it took us 15 minutes to arrive at the lodge.%K%P
+
+0x2894
+Just as predicted, Saki and Haruka's quarrel never%Nhappens...%K%P
+
+0x28A0
+While Izumi-san is making dinner in the kitchen, everyone%Npasses the time as they please.%K%P
+
+0x28AC
+Haruka is sitting next to me, watching TV, while Saki%Nstands by the window as she looks outside.%K%P
+
+0x28B8
+Kurumi-chan is sitting on the floor, in the middle of folding%Nsome origami.%K%P
+
+0x28C4
+Okuhiko-kun is lying in the loft, with an ice pack on his%Nface.%K It seems that Makoto punched him...%K%P
+
+0x28D0
+Makoto is in the dining room, humming while setting the%Ntable.%K%P
+
+0x28DC
+The song he's humming is a recent and popular one.%K%P
+
+0x28E8
+But he's completely off-key, and so I desperately try to%Nhold back my laughter...%K%P
+
+0x28F4
+He's painfully tone-deaf.%K%P
+
+0x2910
+Looking at this very peaceful scene causes the shock%Nof losing the key chain to fade a little...%K%P
+
+0x291C
+I casually walk over to the dining room.%K%P
+
+0x2964
+Makoto「Hmm hmm hmm♪ Hmm hmhmm♪ Hmm hmmhmm hm hmmmm♪」%K%P
+
+0x2970
+Makoto is taking out the plates and silverware, lining%Nthem up on the table.%K%P
+
+0x297C
+I watch him do this.%K%P
+
+0x2988
+I don't say a word to him. All I do... is silently watch him.%K%P
+
+0x2994
+Makoto「Hmm? What is it, Yuka?」%K%P
+
+0x29A8
+Yuka「...Huh? No, umm...」%K%P
+
+0x29B4
+Makoto「Don't tell me... you're THAT persistent on wanting to help%Nout with the cooking again?」%K%P
+
+0x29C8
+Yuka「...」%K%P
+
+0x29D4
+Makoto「That won't work. I tried offering my assistance to%NIzumi-san as well, but she refused me.」%K%P
+
+0x29E0
+Makoto「...Huh? Am I wrong?」%K%P
+
+0x29EC
+Yuka「...Yes, you are...」%K%P
+
+0x29F8
+Makoto「Then what is it?」%K%P
+
+0x2A04
+Yuka「Umm, err...」%K%P
+
+0x2A10
+Makoto「??」%K%P
+
+0x2A1C
+Yuka「I wanted... to talk for a bit...」%K%P
+
+0x2A28
+Makoto「...」%K%P
+
+0x2A34
+Makoto looks back and forth between the kitchen, living%Nroom.%K%P
+
+0x2A40
+Fortunately, no one is coming.%K%P
+
+0x2A4C
+Makoto「...What's wrong? Are you worried about something?」%K%P
+
+0x2A58
+Yuka「...Th-That's not it...」%K%P
+
+0x2A64
+Makoto「...」%K%P
+
+0x2A94
+Makoto quietly walks over to me.%K%P
+
+0x2AA0
+Then he gently strokes my hair.%K%P
+
+0x2AAC
+I lose the ability to move, as if I've suddenly come down%Nwith sleep paralysis.%K%P
+
+0x2AB8
+Nevertheless, I feel shivers repeatedly running inside%Nmy body.%K%P
+
+0x2AC4
+Right now, I feel both relief and anxiety.%K%P
+
+0x2AD0
+Is it because of how well everything's been going so%Nfar...?%K%P
+
+0x2AE4
+Yuka「...I'm ...uneasy...」%K%P
+
+0x2AF0
+I finally let those two words out...%K%P
+
+0x2AFC
+Makoto touches my hair again, and slowly strokes it.%K%P
+
+0x2B08
+Makoto「...Don't worry.」%K%P
+
+0x2B14
+Makoto「I'll take care of everything...」%K%P
+
+0x2B20
+Makoto「So it's all right... if you don't do anything...」%K%P
+
+0x2B2C
+Makoto「You don't have to worry anymore...」%K%P
+
+0x2B40
+Makoto's hand goes from my hair to my cheek...%K%P
+
+0x2B4C
+Yuka「...Yes...」%K%P
+
+0x2B58
+I am embraced by nearly endless kindness...%K I can't help%Nbut feel... a great sensation of generosity...%K%P
+
+0x2B64
+I don't want to forget these feelings, or this warmth.%K%P
+
+0x2B70
+Just like that, I bury my face in Makoto's chest ...%K%P
+
+0x2B8C
+Saki「...Yuka? Hey, where are you, Yuka?」%K%P
+
+0x2BA0
+Yuka「!!!!」%K%P
+
+0x2BAC
+Makoto「!!!!」%K%P
+
+0x2BC0
+We reflexively separate ourselves from each other.%K%P
+
+0x2BF0
+Saki「Ah, there you are... Geez, I was wondering just where you%Nwent...」%K%P
+
+0x2C04
+Saki「What is this, a date?」%K%P
+
+0x2C10
+Makoto「Y... You're wrong...! Yuka said she had free time, so... umm...」%K%P
+
+0x2C1C
+Makoto「That's right! She just said she'd help me carry the%Ndishes.」%K%P
+
+0x2C38
+Yuka「Right, right, right... right, right!」%K%P
+
+0x2C4C
+Saki「Hmm...」%K%P
+
+0x2C58
+Saki「Well, whatever. Anyway, can I talk to you for a bit, Yuka?」%K%P
+
+0x2C6C
+Yuka「...Huh? Me?」%K%P
+
+0x2C78
+Saki slowly nods.%K%P
+
+0x2C84
+She looks like the way she did last night.%K%P
+
+0x2C90
+(Hmm... I wonder what she wants to talk about...?)%K%P
+
+0x2D0C
+We go outside the lodge.%K%P
+
+0x2D18
+It seems it's a conversation that "she doesn't want%Nanyone to hear."%K%P
+
+0x2D24
+Our surroundings are completely dark, and I can't even%Nsee down the tip of the hill road right now.%K%P
+
+0x2D30
+The scenery has changed with the night―.%K%P
+
+0x2D3C
+I know these words well from the time when I frequently%Ngot lost as a kid.%K%P
+
+0x2D48
+Surrounding the lodge are the thick trees.%K%P
+
+0x2D54
+The contours of those cedar trees are revealed by the%Nlight coming from the moon.%K%P
+
+0x2D60
+Saki has been looking at the moon the whole time we've%Nbeen out here.%K%P
+
+0x2D6C
+Finally, while still staring at the moon, Saki speaks.%K%P
+
+0x2D80
+Saki「Yuka...? You've realized it, right? About Makoto-kun...」%K%P
+
+0x2D9C
+Yuka「...Huh?」%K%P
+
+0x2DB0
+Saki「Makoto-kun... resembles... him.」%K%P
+
+0x2DBC
+Saki「That boy... who was in the same class as us in 9th grade...」%K%P
+
+0x2DD0
+Yuka「...!!!」%K%P
+
+0x2DE4
+Saki「You probably think that too, don't you...?」%K%P
+
+0x2DF0
+Saki firmly stares at me.%K%P
+
+0x2E04
+Yuka「I-I...」%K%P
+
+0x2E10
+Yuka「I... have no clue what you-」%K%P
+
+0x2E24
+Saki「Liar!」%K%P
+
+0x2E30
+Saki「You're lying.」%K%P
+
+0x2E44
+Yuka「Wh-Why do you say that...?」%K%P
+
+0x2E50
+Saki「Because you didn't look at me in the eye.」%K%P
+
+0x2E5C
+Saki「I know full well that you avoid looking into people's eyes%Nwhen you're lying.」%K%P
+
+0x2E70
+Yuka「...」%K%P
+
+0x2E84
+Saki「If I've realized it, then you've definitely noticed it as well.」%K%P
+
+0x2E90
+Saki「Because... you loved that boy...」%K%P
+
+0x2E9C
+Yuka「...」%K%P
+
+0x2EB0
+Saki「I noticed it too... but at the start, I was dubious...」%K%P
+
+0x2EBC
+Saki「Every time I talked to Makoto-kun, I kept thinking 'there's%Nno mistaking it'.」%K%P
+
+0x2EC8
+Saki「The trigger to all of this was that dispute at Lunabeach.」%K%P
+
+0x2ED4
+Saki「When we quarreled about the pizza incident...」%K%P
+
+0x2EE0
+Saki「In middle school, I got into a quarrel with that boy...」%K%P
+
+0x2EEC
+Saki「You remember it too, don't you, Yuka...?」%K%P
+
+0x2EF8
+Yuka「...」%K%P
+
+0x2F0C
+Saki「And then that boy said...」%K%P
+
+0x2F18
+Saki「'You should loosen up more. That tiresome way of life%Ndoesn't suit you'...」%K%P
+
+0x2F24
+Saki「And then... Makoto-kun said the same thing...」%K%P
+
+0x2F30
+Saki「When that happened, I thought 'there's only one other%Nperson in the world who talked to me like that'...」%K%P
+
+0x2F3C
+(...Now that she mentions it, I do have a vague memory of%Nit...)%K%P
+
+0x2F48
+Saki「I then started to want to know just how much Makoto-kun%Nresembled him...」%K%P
+
+0x2F88
+Yuka「...It can't be... that that's why you went out shopping with%Nhim...?」%K%P
+
+0x2F94
+Yuka「Back then, did you fall... on purpose?」%K%P
+
+0x2FA8
+Saki「...」%K%P
+
+0x2FB4
+Saki「At first, I didn't plan that. I was just interested in%NMakoto-kun... Oh, I don't mean in a romantic way or%Nanything like that.」%K%P
+
+0x2FC0
+Saki「But on the way back, we had a little accident...」%K%P
+
+0x300C
+Saki「I'm not very good with speedy vehicles... particularly%Nbicycles...」%K%P
+
+0x3018
+Saki「When Makoto-kun saw how scared I was, he thought it'd%Nbe funny if he went fast...」%K%P
+
+0x3024
+Saki「Pretty nasty thing for him to do, in hindsight...」%K%P
+
+0x3030
+Saki「But anyway... I had no clue what happened next...」%K%P
+
+0x303C
+Saki「When I came to, I was holding down Makoto-kun's face... it%Nseems I was blocking his eyes...」%K%P
+
+0x3048
+Yuka「...And so Makoto lost control of the bike, and it fell...?」%K%P
+
+0x3088
+Saki「Right. The bike was completely messed up, but%Nfortunately, our injuries weren't major.」%K%P
+
+0x3094
+Saki「It occured me that I could use this opportunity to get to%Nknow more about Makoto-kun...」%K%P
+
+0x30A0
+Yuka「So that's why... you pretended your foot was hurt...?」%K%P
+
+0x30AC
+Saki「That's right...」%K%P
+
+0x30C8
+Saki「A girl who couldn't move, or the heavy shopping bags...」%K%P
+
+0x30D4
+Saki「I wanted to see how he'd cope with the situation and%Nwhich one he would pick in a situation like that...」%K%P
+
+0x30E0
+Saki「Well, if he was a normal guy, he'd have put priority over%Nthe girl.」%K%P
+
+0x30EC
+Yuka「But... at that time, everyone was at Lunabeach, waiting%Nfor the rice to arrive...」%K%P
+
+0x30F8
+Saki「Right...」%K%P
+
+0x3104
+Saki「And then... I got worried after that, asking Makoto-kun%Nwhat the hell he was thinking...」%K%P
+
+0x3118
+Saki「'It's only common sense'.」%K%P
+
+0x3124
+Yuka「...」%K%P
+
+0x3130
+Saki「And that... was his answer...」%K%P
+
+0x3144
+Saki「There's no doubting it... Makoto-kun is exactly like that%Nboy...」%K%P
+
+0x3150
+Saki「You're the one who should know that the best, Yuka.」%K%P
+
+0x315C
+Yuka「...」%K%P
+
+0x3168
+Saki「Since then, I've paid close attention to Makoto-kun's%Nwords and actions.」%K%P
+
+0x3174
+Saki「And I've grown more and more convinced.」%K%P
+
+0x3180
+Saki「His casual way of talking and his gestures are spot on.」%K%P
+
+0x318C
+Yuka「But... But his face and voice don't resemble him at all...」%K%P
+
+0x3198
+Saki「A 'spitting image' who doesn't look like the other... The%Ndefinition of a 'spitting image' is an unrelated stranger%Nwith an accidental, lifelike resemblance of someone else...」%K%P
+
+0x31A4
+Saki「The words of this theory don't really matter in this case...」%K%P
+
+0x31B0
+Saki「Just the most important part, which is 'an unmistakable%Nresemblance'.」%K%P
+
+0x31BC
+Saki「Those two are just too much alike...」%K%P
+
+0x31C8
+Saki「...Yes... it's like they're twins.」%K%P
+
+0x31D4
+(Twins...)%K%P
+
+0x31E0
+Saki「Hey, Yuka? Let me change the topic slightly...」%K%P
+
+0x31EC
+Saki「Are you... over him? That boy, I mean...」%K%P
+
+0x31F8
+Yuka「...」%K%P
+
+0x3214
+Yuka「...I'm fine now... I've already forgotten a lot about him...」%K%P
+
+0x3220
+(What a liar I am...)%K%P
+
+0x322C
+(I haven't forgotten him at all...)%K%P
+
+0x3238
+(Even now... I still remember... everything about him...)%K%P
+
+0x3244
+Yuka「I'm ...fine now...」%K%P
+
+0x3250
+(That's... definitely all I want to think about...!)%K%P
+
+0x325C
+Saki「I see...」%K%P
+
+0x3270
+Yuka「...」%K%P
+
+0x3284
+Saki「I'm relieved to hear that.」%K%P
+
+0x3290
+Saki「Now I can confirm it for myself without the need to%Nhesitate...」%K%P
+
+0x329C
+Yuka「Huh?」%K%P
+
+0x32A8
+Yuka「...Wh-What do you mean...?」%K%P
+
+0x32BC
+Saki「...」%K%P
+
+0x32C8
+Saki says nothing, and turns around.%K%P
+
+0x32D4
+She walks away, leaving behind wisps of a sweet aroma.%K%P
+
+0x32E0
+I know that I've sniffed that aroma before...%K%P
+
+0x32EC
+I stand stock still, unable to understand Saki's words.%K%P
+
+0x32F8
+Saki「Ah... that's right...」%K%P
+
+0x3304
+Saki says this in front of the lodge's staircase without%Nturning around.%K%P
+
+0x3310
+Saki「I forgot to say this...」%K%P
+
+0x331C
+Saki「I also...」%K%P
+
+0x3338
+Saki「I also... loved that boy...」%K%P
+
+0x33AC
+Like last time, Izumi-san has made curry for dinner.%K%P
+
+0x33B8
+Unfortunately, the food has no flavor to me.%K%P
+
+0x33C4
+Saki's words are running around and around in my head%Nover and over again...%K%P
+
+0x33D0
+I continue to think about the meaning of those words, not%Neating a bite...%K%P
+
+0x33DC
+"Makoto-kun is exactly like that boy."%K%P
+
+0x33E8
+"Are you... over him? That boy, I mean..."%K%P
+
+0x33F4
+Why did she need to ask me that?%K%P
+
+0x3400
+Saki has nothing to gain from that...%K%P
+
+0x340C
+"Now I can confirm it for myself without the need to%Nhesitate..."%K%P
+
+0x3418
+What...?%K What is she going to confirm...?%K%P
+
+0x3424
+"I also... loved that boy..."%K%P
+
+0x3430
+I didn't know...%K%P
+
+0x343C
+I had no idea... that Saki felt that way...%K%P
+
+0x3448
+I had no idea...%K%P
+
+0x3454
+But why tell me now, of all times?%K%P
+
+0x3460
+I don't...%K I don't understand you... Saki...%K%P
+
+0x346C
+Or is it that I'm not trying to understand...?%K%P
+
+0x3478
+It feels like there's a slicing pain in my chest...%K%P
+
+0x3484
+I look back and forth between Makoto and Saki.%K%P
+
+0x3490
+Makoto is eating the meal with great vigor.%K%P
+
+0x349C
+Saki eats her meal with an unconcerned face.%K%P
+
+0x34A8
+...Just then, Makoto's eyes fix on me.%K%P
+
+0x34B4
+A worried expression rises to Makoto's face, and it%Nlooks like he wants to open his mouth and say%Nsomething...%K%P
+
+0x34C8
+Kurumi「Hey, Kurumi just got a good idea.」%K%P
+
+0x34DC
+Kurumi「There's an old graveyard close by♪」%K%P
+
+0x34E8
+Kurumi「How about having a Test of Courage there!!?」%K%P
+
+0x34FC
+...%K%P
+
+0x3584
+We're in the dim forest, walking towards the abandoned%Ngraveyard.%K%P
+
+0x3590
+I completely forgot... that tonight was the Test of%NCourage.%K%P
+
+0x359C
+As usual, I'm not looking forward to it...%K%P
+
+0x35A8
+Is it because I'm scared...?%K Or is that I don't feel like%Nhaving fun...?%K%P
+
+0x35B4
+I'm still thinking, after all.%K About the meaning of Saki's%Nwords, that is.%K%P
+
+0x35C0
+...%K%P
+
+0x35CC
+As I keep coming up with no answer, I look for Makoto...%K%P
+
+0x35D8
+I don't know why I am.%K It's just that right now, I need%NMakoto.%K%P
+
+0x35E4
+The reason doesn't matter.%K%P
+
+0x35F0
+...%K%P
+
+0x35FC
+Makoto's back...%K%P
+
+0x3608
+After a little while, I find Makoto.%K%P
+
+0x3614
+However...%K%P
+
+0x3630
+(―What!?)%K%P
+
+0x363C
+Walking beside Makoto is Saki.%K%P
+
+0x3648
+They're talking about something... Unfortunately, I can't%Nmake any of it out.%K%P
+
+0x3654
+(Could it be that this is what Saki meant when she said%N"confirm"...?)%K%P
+
+0x3660
+Makoto says something.%K When she hears it, Saki looks%Nsurprised, but smiles a second later.%K%P
+
+0x366C
+And then, after exchanging a few more words, she%Nleaves Makoto.%K%P
+
+0x3678
+Makoto seems to be thinking about something.%K%P
+
+0x3684
+Just what was it that they were talking about...?%K%P
+
+0x3690
+Could they just have been having a normal%Nconversation? Or was there more to it than that...?%K%P
+
+0x369C
+I don't know, but I don't want to try to learn either.%K%P
+
+0x36B0
+Izumi「Huh? What's wrong, Yuka-chan? You're just standing%Naround...」%K%P
+
+0x36BC
+Yuka「...」%K%P
+
+0x36EC
+Izumi「Ah, Yuka-chan!?」%K%P
+
+0x3700
+―I suddenly break of into a run.%K%P
+
+0x370C
+Run away, run away... I keep running away...%K%P
+
+0x3718
+But...%K%P
+
+0x3724
+(But where would I even go...?)%K%P
+
+0x37F4
+I don't really remember much of what happens after that...%K%N
+
+0x3800
+I have fragmented memories of what happened, but not%Nthat much.%K%N%N
+
+0x380C
+Makoto and Saki paired up.%K I was paired up with Izumi-san.%K%N
+
+0x3818
+As I was confused, I mistook a puppy that jumped out of%Na bush for a severed head.%K%N%N
+
+0x3824
+...Those three things are all I remember...%K%P
+
+0x3838
+By the time I've come to my senses, I'm lying down on the%Nsofa in the lodge.%K%N%N
+
+0x3844
+Makoto said he was tired and went to his room.%K%N
+
+0x3850
+Saki had some business to attend to, so she went back%Nto her summer house.%K%N
+
+0x385C
+I have no clue what kind of conversation those two had%Nduring the Test of Courage.%K%P
+
+0x3870
+The others are all going to the hot springs now.%K%N
+
+0x387C
+However, it seems only Kurumi is staying behind in the%Nlodge to watch TV.%K%N%N
+
+0x3888
+I decide to go with the others to the hot springs.%K%N
+
+0x3894
+My mind is exhausted, so I'm hoping this will calm me%Ndown...%K%P
+
+0x394C
+While soaking in the milky white hot spring, I think about%NSaki and Makoto.%K%P
+
+0x3958
+The reason that Saki is obsessed with Makoto...%K%P
+
+0x3964
+I already understand that and why.%K%P
+
+0x3970
+No, I really knew it from the beginning.%K%P
+
+0x397C
+I just pretended not to notice so that I could postpone%Nthe answer...%K%P
+
+0x3988
+Saki said she loved that boy.%K%P
+
+0x3994
+And she said that she's convinced that Makoto%Nresembles that boy.%K%P
+
+0x39A0
+Then...%K%P
+
+0x39AC
+Then Saki...%K%P
+
+0x39B8
+(...definitely loves Makoto...)%K%P
+
+0x39C4
+My heart beats with a painful sound.%K%P
+
+0x39D0
+...Why am I so bothered by those two?%K%P
+
+0x39DC
+I shouldn't care.%K I should just be at ease and ignore it.%K%P
+
+0x39E8
+But I... can't think like that...%K%P
+
+0x39F4
+Unpleasant feelings are stirring around in my heart.%K%P
+
+0x3AA0
+I sit down at the edge of the bath while cooling off my%Nhot body with the pleasantly cool night air.%K%P
+
+0x3AAC
+My mind is blank.%K%P
+
+0x3AB8
+I might have spent too much time submerged in the water.%K%P
+
+0x3AC4
+But thanks to that, the discomfort I felt earlier has%Nconsiderably lessened.%K%P
+
+0x3AD0
+I vacantly stare up at the twinkling sky without reason.%K%P
+
+0x3ADC
+The crowded stars in the pitch black night sky look like%Njewels all encased together.%K%P
+
+0x3AE8
+It's no match for the sky that Makoto and I gazed at that%None night.%K%P
+
+0x3AF4
+Even so, my heart trembles from its beauty.%K%P
+
+0x3B24
+Izumi「Are you okay, Yuka-chan?」%K%P
+
+0x3B30
+Yuka「...Oh, Izumi-san.」%K%P
+
+0x3B3C
+Yuka「I felt a little faint, so I thought I'd come here and cool%Ndown...」%K%P
+
+0x3B48
+Izumi「I see...」%K%P
+
+0x3B5C
+Izumi-san quietly sits down besides me.%K%P
+
+0x3B70
+Izumi「...Yuka-chan, your face has been kind of pale since%Ndinner... Did something happen?」%K%P
+
+0x3B7C
+Yuka「...」%K%P
+
+0x3B90
+Izumi「Is it anything that you could discuss with me?」%K%P
+
+0x3B9C
+Yuka「...」%K%P
+
+0x3BB0
+I look at my feet, soaking in the water, and I gaze up at%Nthe sky one more time.%K%P
+
+0x3BBC
+The white steam is inhaled by the black sky and begins%Nto disappear...%K%P
+
+0x3BC8
+While looking up at the starry sky, I sway my feet back%Nand forth in the water.%K%P
+
+0x3BD4
+...I quietly open my mouth.%K%P
+
+0x3BE0
+Yuka「The stars...」%K%P
+
+0x3BF4
+Izumi「Huh?」%K%P
+
+0x3C00
+Yuka「The stars... They're pretty, aren't they?」%K%P
+
+0x3C14
+Izumi「...」%K%P
+
+0x3C28
+Izumi「You're right...」%K%P
+
+0x3C34
+Yuka「Do you remember the conversation we had at the pool?」%K%P
+
+0x3C48
+Izumi「Umm...」%K%P
+
+0x3C54
+Yuka「...About spitting images.」%K%P
+
+0x3C68
+Izumi「Yes...」%K%P
+
+0x3C74
+Yuka「The truth is... I've recently met a person like that.」%K%P
+
+0x3C80
+Yuka「That person is the spitting image of a classmate of mine%Nfrom middle school.」%K%P
+
+0x3C8C
+Izumi「If I recall correctly... you mentioned something about%Nthem not physically resembling each other...」%K%P
+
+0x3C98
+Yuka「Yes...」%K%P
+
+0x3CA4
+Yuka「I met that boy for the first time when he ended up in the%Nsame class as me in middle school. In 9th grade, to be%Nprecise...」%K%P
+
+0x3CB0
+Yuka「I have a lot of memories of him.」%K%P
+
+0x3CBC
+Yuka「It was the first semester of 9th grade.」%K%P
+
+0x3CC8
+Yuka「Thinking about it now, that was probably the brightest%Nseason in my life so far...」%K%P
+
+0x3CD4
+Yuka「It was the best time of my life...」%K%P
+
+0x3CE0
+Yuka「They were days overflowing with great surprises and%Ndelights...」%K%P
+
+0x3CF4
+I gently raise my arm and point at the southern skies.%K%P
+
+0x3D00
+Izumi-san's gaze follows my finger.%K%P
+
+0x3D0C
+Yuka「...That's Leo.」%K%P
+
+0x3D18
+In the wide spring night sky, there's many constellations.%K%N
+
+0x3D24
+There's one that looks like an inside out "?"%K%N
+
+0x3D30
+The one I'm pointing to is in between Virgo and Cancer.%K%P
+
+0x3D3C
+Yuka「It's my sign...」%K%P
+
+0x3D48
+Yuka「Even now, there's one memory that I can't forget...」%K%P
+
+0x3D54
+The rising steam wavers, making it look like the sky filled%Nwith jewels is swaying.%K%P
+
+0x3D60
+It's as if it's inviting me to go back to my past...%K%P
+
+0x3D7C
+...%K%P
+
+0x3DA4
+Yuka「It was June of 2013, in 9th grade... the night of our field%Ntrip.」%K%P
+
+0x3DB0
+Yuka「I was in a different environment than usual, seeing a%Ndifferent scenery than usual...」%K%P
+
+0x3DBC
+Yuka「I couldn't adjust to that kind of atmosphere, and so I had%Na lot of trouble falling asleep that night.」%K%P
+
+0x3DC8
+Yuka「I was surrounded by my classmates.」%K%P
+
+0x3DD4
+Yuka「Everyone was engaged in trivial conversations, and%Nbefore I knew it, they had all fallen asleep.」%K%P
+
+0x3DE0
+Yuka「I was left alone, staring at an unfamiliar ceiling...」%K%P
+
+0x3DEC
+Yuka「Before long, I casually made my way out of the covers%Nand gazed outside the window.」%K%P
+
+0x3DF8
+Yuka「There were many beautiful stars...」%K%P
+
+0x3E04
+Yuka「And then, I snuck past all the teachers on guard and%Nwent outside the hotel.」%K%P
+
+0x3E10
+Izumi「Oh my...」%K%P
+
+0x3E1C
+Yuka「I looked up at that beautiful night sky while intoxicated%Nby a sense of achievement of having successfully%Nsnuck out.」%K%P
+
+0x3E28
+Yuka「And then, I suddenly felt someone's presence behind%Nme, so I frantically turned around.」%K%P
+
+0x3E34
+Yuka「I thought that I'd surely been found by a teacher.」%K%P
+
+0x3E40
+Yuka「But the one there was neither a teacher nor a stranger...」%K%P
+
+0x3E4C
+Izumi「...Was it that boy?」%K%P
+
+0x3E58
+Yuka「Yes...」%K%P
+
+0x3E64
+Yuka「When I asked him 'why are you here?', he said that 'I%Ncouldn't sleep at all' with a bitter smile.」%K%P
+
+0x3E70
+Izumi「You two were quite similar...」%K%P
+
+0x3E7C
+Yuka「I wonder about that...?」%K%P
+
+0x3E88
+Yuka「...We stood next to each other, and gazed at the stars.」%K%P
+
+0x3E94
+Yuka「While doing so, we made no conversation at all, and so I%Nfelt awkward and nervous.」%K%P
+
+0x3EA0
+Yuka「And then, that boy suddenly called out to me, saying...」%K%P
+
+0x3EAC
+Yuka「'Yuka, what's your sign?'」%K%P
+
+0x3EB8
+...%K%P
+
+0x3F4C
+Boy「Yuka, what's your sign?」%K%P
+
+0x3F58
+Yuka「Huh?」%K%P
+
+0x3F64
+Boy「You know, your Zodiac sign... like Aries, Virgo-」%K%P
+
+0x3F70
+Yuka「A-Ah... right, right...」%K%P
+
+0x3F7C
+Yuka「I'm... a Leo, I think?」%K%P
+
+0x3F88
+Boy「A Leo... huh...」%K%P
+
+0x3F94
+Boy「Unfortunately, you can't see it, but if it were April, it'd%Nappear right around here.」%K%P
+
+0x3FA0
+Yuka「...」%K%P
+
+0x3FAC
+Boy「Leo... That's the constellation of the man-eating lion that%NHercules exterminated in the Nemean Forest.」%K%P
+
+0x3FB8
+Yuka「M-Man-eating... lion??」%K%P
+
+0x3FC4
+Boy「Yeah.」%K%P
+
+0x3FD0
+Yuka「That's not romantic at all～...」%K%P
+
+0x3FDC
+Boy「H-Hey, I'm not the one who made it up...」%K%P
+
+0x3FE8
+Yuka「Then what about you? What's your sign?」%K%P
+
+0x3FF4
+Boy「Mine? Mine's...」%K%P
+
+0x4000
+...The boy then told me the mythology behind many of the%Nconstellations, including his own.%K%P
+
+0x400C
+He had a clear, soft, and gentle voice...%K%P
+
+0x4018
+Yuka「Mmm... the myths surrounding the 12 constellations aren't%Nvery romantic stories.」%K%P
+
+0x4024
+Yuka「Nothing but exterminations, transformations, hunts, and%Nso on...」%K%P
+
+0x4030
+Boy「...You're quite selfish.」%K%P
+
+0x403C
+Yuka「But it's true. Those are all just boring stories...」%K%P
+
+0x4048
+Boy「...」%K%P
+
+0x4054
+Boy「...All right. Well then, oh selfish princess, I shall tell you a%Nromantic story!」%K%P
+
+0x4060
+Yuka「Yep, that's much better♪」%K%P
+
+0x406C
+Boy「Geez, you really are a selfish girl...」%K%P
+
+0x4078
+Boy「This is also about a constellation you can't see in this%Nseason...」%K%P
+
+0x4084
+Yuka「Which constellation?」%K%P
+
+0x4090
+Boy「...」%K%P
+
+0x409C
+Boy「Gemini.」%K%P
+
+0x40A8
+Yuka「...」%K%P
+
+0x40B4
+Boy「...In the past, there were these twin brothers who got%Nalong very well.」%K%P
+
+0x40C0
+Boy「Their names were Castor and Pollux.」%K%P
+
+0x40CC
+Boy「The two of them were the sons of the supreme god Zeus,%Nwho had transformed into a swan, and the Queen of%NSparta, Leda.」%K%P
+
+0x40D8
+Boy「The older brother, Castor, was mortal, and a master of%Nfencing. The younger brother, Pollux, was immortal, on top%Nof also being a master of boxing and horse riding...」%K%P
+
+0x40E4
+Boy「But during a war, Castor was hit by a stray arrow and%Ndied...」%K%P
+
+0x40F0
+Yuka「Geez～, ANOTHER death!?」%K%P
+
+0x40FC
+Boy「It's fine, just be quiet and listen until the end! The story's%Nnot over yet.」%K%P
+
+0x4108
+Yuka「Ugh...」%K%P
+
+0x4114
+Boy「Pollux grieved over the death of his brother, and tried%Nto die with him as well...」%K%P
+
+0x4120
+Yuka「...」%K%P
+
+0x412C
+Boy「The two of them were so close that they were always%Ntogether, no matter what time.」%K%P
+
+0x4138
+Boy「They had been born together at the same time... So%Nlikewise...」%K%P
+
+0x4144
+Yuka「They wanted to die at the same time...?」%K%P
+
+0x4150
+Boy「Yeah.」%K%P
+
+0x415C
+Yuka「...」%K%P
+
+0x4168
+Boy「But Pollux was immortal, so no matter how hard he tried,%Nhe couldn't die.」%K%P
+
+0x4174
+Boy「And so Pollux made a request to Zeus.」%K%P
+
+0x4180
+Boy「'Please take away my immortality'.」%K%P
+
+0x418C
+Yuka「...」%K%P
+
+0x4198
+Boy「Zeus pitied Pollux, who had been left all alone, and so%Nhe... granted that wish.」%K%P
+
+0x41A4
+Boy「And then, the two of them went up to the heavens%Ntogether... and became a constellation that shines in the%Nwinter skies...」%K%P
+
+0x41B0
+Yuka「...」%K%P
+
+0x41BC
+Boy「...Well?」%K%P
+
+0x41C8
+Yuka「...」%K%P
+
+0x41D4
+Boy「...?」%K%P
+
+0x41E0
+Yuka「...What part of that was romantic...?」%K%P
+
+0x41EC
+Boy「Hmm... I wanted you to feel the beautiful brotherly love%Nbetween them, but...」%K%P
+
+0x41F8
+Boy「I see. If you didn't feel any romance, then it's clearly%Nbecause you're not sensitive enough.」%K%P
+
+0x4204
+Yuka「W-Why you!」%K%P
+
+0x4210
+The boy laughed as he saw me pout my lips.%K%P
+
+0x421C
+When I heard that innocent laugh of his, I laughed too.%K%P
+
+0x4228
+In that cool night, our hearts were full of warmth...%K%P
+
+0x4234
+...%K%P
+
+0x42A8
+Yuka「...I loved that boy...」%K%P
+
+0x42B4
+Yuka「I really did...」%K%P
+
+0x42C0
+Yuka「But... in the end, I was never able to convey my feelings...」%K%P
+
+0x42CC
+Izumi「...I see.」%K%P
+
+0x42D8
+Yuka「Before long, that boy's spitting image, a different guy,%Nappeared before me...」%K%P
+
+0x42E4
+Yuka「Even though his face and voice are different, I think that%Nperson... is his spitting image.」%K%P
+
+0x42F0
+Yuka「Before I realized it, I became conscious of this person.」%K%P
+
+0x42FC
+Izumi「...」%K%P
+
+0x4310
+Izumi「Yuka-chan, have you... fallen in love with this person?」%K%P
+
+0x431C
+Yuka「...」%K%P
+
+0x4328
+Yuka「I don't know...」%K%P
+
+0x4334
+Yuka「But...」%K%P
+
+0x4340
+Yuka「...probably...」%K%P
+
+0x434C
+Yuka「But is it all right to fall in love with someone like this...」%K%P
+
+0x4358
+Izumi「...」%K%P
+
+0x436C
+Izumi「I think it's all right...」%K%P
+
+0x4378
+Izumi「I don't think it matters how you start to fall in love with%Nsomeone...」%K%P
+
+0x4384
+Izumi「The most important thing is if you feel the same for each%Nother.」%K%P
+
+0x4390
+Izumi「No matter how much he resembles him, he is not that boy...」%K%P
+
+0x439C
+Yuka「...」%K%P
+
+0x43A8
+Izumi「The rest depends on your feelings and his feelings,%Nright?」%K%P
+
+0x43BC
+Izumi「But I think that Makoto-kun definitely loves you too.」%K%P
+
+0x43C8
+Yuka「...」%K%P
+
+0x43E4
+Yuka「...Huh?」%K%P
+
+0x441C
+Izumi「Well then, I guess it's about time for me to get out now.」%K%P
+
+0x4438
+Yuka「I-Izumi-san!? Why do you think it's Makoto!?」%K%P
+
+0x444C
+Izumi「Well now, I wonder that myself～♪」%K%P
+
+0x4460
+With a face that says "I can see through everything♪",%NIzumi-san goes to change her clothes.%K%P
+
+0x446C
+Yuka「...」%K%P
+
+0x449C
+With a splash, I sink my whole body up to my nose in the%Nwater.%K%P
+
+0x44B4
+Blood gradually rushes into my head.%K%P
+
+0x44C0
+(How did she see through me so easily ... ?)%K%P
+
+0x44CC
+I mutter this in the bath as I get warmer and warmer.%K%P
+
+0x44D8
+The stars in the sky all twinkle together, as if they're%Nlaughing at me...%K%P
+

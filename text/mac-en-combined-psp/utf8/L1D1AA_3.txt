@@ -1,0 +1,216 @@
+text area offset and size:
+0x608
+0x1482
+0x5C
+??「Hey!」%K%P
+
+0x68
+He says that in such a gaudy voice that it causes me to%Nshiver repulsively.%K%N
+
+0x74
+It resembles the greeting of a dictator looking down on%Nhis people.%K%P
+
+0x80
+He looks at me as I stand still in the center of the room,%Nthen turns his attention towards the silent girl.%K%P
+
+0x94
+??「Huh? I'm not... interrupting something, am I?」%K%P
+
+0xA8
+He asks the girl this as he ignores my presence.%K%N
+
+0xB4
+Of course, she doesn't answer him.%K%P
+
+0xC8
+??「Nah, there's no way it's like that. Ha ha ha!」%K%P
+
+0xDC
+While laughing, he glares at me again.%K%N
+
+0xE8
+His eyes are full with scorn...%K%P
+
+0xF4
+(Does he have something against me...?)%K%P
+
+0x108
+He lets out a loud yawn while slowly walking over to the%Nsofa before sitting on it.%K%N
+
+0x114
+He keeps about 50 cm between the girl and himself.%K%P
+
+0x120
+50 cm... That's pretty incredible.%K%N
+
+0x12C
+It's a distance that's not too far to be distant, but not%Ntoo close to be considered creepy.%K%P
+
+0x138
+He did it so effortlessly that it must be like second%Nnature to him, a process that's been imprinted and%Nstored in his brain, such as unconsciously controlling a%Ncar or bike would be.%K%P
+
+0x144
+I suppose this is what you call a "master".%K%P
+
+0x150
+... This guy is the only one whose name I'd heard before%Ncoming here.%K%P
+
+0x15C
+"Okuhiko Iida."%K%N
+
+0x168
+If you were a student at my college, you would have%Nheard his name at least once.%K%P
+
+0x174
+I bet that even if you asked somebody off-campus,%Nthey'd have heard of him, the 'Son of the Iida Financial%NGroup'.%K%P
+
+0x180
+In any case, the upper class Iida family live lives that us%Nworking class people can only dream about. As Okuhiko%Nis the family's heir, it has been arranged for him to%Nbecome the head of it someday.%K%P
+
+0x18C
+In school, you couldn't go a day without hearing gossip%Nabout him.%K%P
+
+0x198
+"He always keeps millions of yen in the trunk of his%Nbeloved Ferraro," or...%K%P
+
+0x1A4
+"I heard that he conducted business with a celebrity,%Nand then..." Most of the stories are basically...%K%P
+
+0x1B0
+"Two years ago, that happened to him, but when he gave%Nthat and did that..." ... Vague, outlandish stuff like that.%K%P
+
+0x1BC
+And last night, I first met the infamous "Okuhiko" in%Nperson.%K
+
+0x5E0
+Recall last night's events.
+
+0x5EC
+Talk to Okuhiko.
+
+0x258
+―Sunday, March 31st.%K%N
+
+0x264
+When I arrived here, it was a little past 10:00 at night.%K%P
+
+0x270
+The exterior of the lodge was illuminated by moonlight.%NMy imagination ran wild as I was awed by its beauty and%Nhow much bigger it was than what I thought it would be.%K%P
+
+0x27C
+When I heard of a "college-run lodge", I just assumed%Nthat it'd be painfully cramped and extremely dirty, like a%Nreally cheap, rundown motel. Clearly, I was wrong.%K%P
+
+0x288
+There's no way the college would own such luxurious%Nproperty for just this camp.%K%N
+
+0x294
+Maybe it's a vacation spot for the college's staff.%K%P
+
+0x2A0
+... That's what I was thinking as I opened the front door.%K%P
+
+0x2D0
+The room was filled with a mysterious atmosphere that%Nseemed uncharacteristic.%K%P
+
+0x2DC
+―A lone girl was sitting on the floor, clutching her%Nknees.%K%P
+
+0x2E8
+―I saw another sitting at the dining table, spacing out%Nwhile resting her chin in her hands.%K%P
+
+0x2F4
+―A man was reclining on the sofa, swirling a wine glass%Nin his hand.%K%P
+
+0x300
+No one spoke to each other; I don't even think there was%Nany conversation to begin with.%K%P
+
+0x30C
+It was completely silent...%K%N
+
+0x318
+No, I could occasionally hear the faint sound of the man%Ngulping down his wine, but that was it.%K%P
+
+0x324
+Before long, the girl from the round table noticed me...%K%P
+
+0x338
+??「Ah, glad you could make it～」%K%P
+
+0x344
+... Is what she said.%K%P
+
+0x350
+From the way she said that, it seemed like she was much%Nmore tired than me.%K%P
+
+0x35C
+??「Um, you're Makoto-kun... that is, 'Makoto Ishihara'... right?」%K%P
+
+0x368
+Makoto「Y-Yeah...」%K%P
+
+0x37C
+??「It's nice to meet you♪」%K%P
+
+0x388
+Yuka「I'm Yuka... 'Yuka Kawashima'. I really don't know why, but%Nbefore I knew it, I became the 'leader' of this group.」%K%P
+
+0x39C
+Yuka「I mean, it's not like I have particularly good grades, and%Nmy behavior's not exactly the best. I guess they must%Nhave just randomly decided by lottery or something like%Nthat.」%K%P
+
+0x3B0
+Yuka「Well, anyway, I'm pleased to meet you!」%K%P
+
+0x3BC
+Makoto「Yeah... same here.」%K%P
+
+0x3D0
+After saying this, I glanced at the other two in the room.%K%P
+
+0x3DC
+The girl clutching her knees stared at the floor without%Neven moving.%K%N
+
+0x3E8
+She looked as if she were a piece of art made of plaster%Nthat had been previously placed in here.%K%P
+
+0x3F4
+The man casually held his wine glass up towards the%Nlamp light to check out the wine's color.%K%N
+
+0x400
+As he was doing this, he began to speak.%K%P
+
+0x414
+Okuhiko「Name's Okuhiko Iida... I'm guessing you've heard of me%Nbefore?」%K%P
+
+0x420
+Makoto「Huh? You can't be... the heir of the Iida Financial Group?」%K%P
+
+0x434
+Okuhiko「I don't really like that tone of yours...」%K%P
+
+0x440
+Makoto「?」%K%P
+
+0x454
+Okuhiko「Well, whatever. Yes, I am that 'Okuhiko Iida'. Nice to meet%Nyou.」%K%P
+
+0x460
+Makoto「... Nice to... meet you too...」%K%P
+
+0x46C
+I was so startled that I messed up my greeting. I couldn't%Nhelp it, though.%K%P
+
+0x478
+"Okuhiko Iida"―I couldn't believe the infamous%N"Okuhiko" was in the same group as me!%K%P
+
+0x484
+Suddenly, I began to contemplate whether or not to fake%Nan illness so I could go home.%K%N
+
+0x490
+I was beginning to feel depressed.%K%P
+
+0x4A4
+... After that, we barely exchanged a single word, and%Nwent to our beds.%K%N
+
+0x4B0
+In the end, the girl clutching her knees never said a%Nsingle word.%K%P
+

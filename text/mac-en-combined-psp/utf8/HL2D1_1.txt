@@ -1,0 +1,105 @@
+text area offset and size:
+0x338
+0x699
+0x98
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+
+0xA4
+Still half asleep, I blankly stare at the ceiling.%K%N
+
+0xB0
+I realize I'm freezing, my body soaked with sweat all over.%K%P
+
+0xBC
+(Haruka! What happened to Haruka!?)%K%P
+
+0xC8
+Despite my body's protests, I raise my left arm to check%Nthe time on my watch.%K%P
+
+0xD4
+(1 MON 9:17 A.M.)%K%P
+
+0xE0
+I lower my arm...%K%P
+
+0xEC
+Makoto「Whew...」%K%P
+
+0xF8
+I take a deep breath.%K%P
+
+0x104
+My whole body feels sluggish.%K My parched throat begs%Nfor water...%K%N
+
+0x110
+... I take in another deep breath.%K%P
+
+0x11C
+A dream, huh?%K%P
+
+0x128
+(What an awful nightmare...)%K%P
+
+0x134
+―??? The 1st? Isn't that impossible? I definitely...%K%P
+
+0x15C
+That's right. Last night, I definitely went out on a walk with%NHaruka. And then...%K And then, she tried to save that%Npuppy...%K%P
+
+0x168
+(... A dream? Was that a "dream"...?)%K%P
+
+0x174
+However... I remember it quite clearly for a dream.%K Also, I%Ndon't just remember that moment.%K%P
+
+0x180
+I have memories of what happened before that, and the%Nday before that, and the day before that one...%K%P
+
+0x18C
+One by one, I remember the various events that%Nhappened during the Camp.%K%P
+
+0x198
+So if I assume those memories are real, then does that%Nmean...?%K%P
+
+0x1A4
+No, there's no way that's possible.%K%P
+
+0x1B0
+I coldly smirk, mocking myself.%K%P
+
+0x1D8
+―Then, at that moment!%K%N
+
+0x1E4
+The door to my room is violently thrown open with enough%Nforce to break it.%K%P
+
+0x1F0
+Standing in the doorway, I see...%K%P
+
+0x240
+... Yuka!%K%P
+
+0x24C
+Yuka「Wh... What's going on!?」%K%P
+
+0x258
+Yuka「Why...!?」%K%P
+
+0x264
+Yuka's repeating herself.%K%N
+
+0x270
+She said the exact same thing on the morning of the 1st.%K%P
+
+0x27C
+Makoto「...」%K%P
+
+0x288
+Astounded, I'm unable to answer her.%K%N
+
+0x294
+Yuka firmly stares at my eyes with her mouth half open.%K%P
+
+0x2A0
+This is kinda awkward...%K%P
+

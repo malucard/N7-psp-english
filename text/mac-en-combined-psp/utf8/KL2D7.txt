@@ -1,0 +1,219 @@
+text area offset and size:
+0xA00
+0xB10
+0x150
+抜けるような青空が広がっていた。%K%P
+The vast sky is blue and clear.%K%P
+0x15C
+昨日の雨が嘘のようだ。%K%P
+It's as if the heavy rainfall yesterday never happened.%K%P
+0x168
+オレとくるみは手をつなぎながら、暖かな午後の海岸線を歩いている。%K%P
+Kurumi and I walk down the warm afternoon coastline%Nwhile holding hands.%K%P
+0x174
+くるみ「ねぇ？　お兄ちゃん？」%K%P
+Kurumi「Hey, Onii-chan?」%K%P
+0x180
+誠「ん？」%K%P
+Makoto「Hmm?」%K%P
+0x18C
+くるみ「お参り、行こっか？」%K%P
+Kurumi「Shall we go pay our respects?」%K%P
+0x198
+誠「お参りって……どこに？」%K%P
+Makoto「'Pay our respects'... where?」%K%P
+0x1AC
+くるみ「そんなの決まってるじゃな～い！」%K%P
+Kurumi「That's obvious～!」%K%P
+0x1B8
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x1C4
+くるみ「あの神社に♪」%K%P
+Kurumi「That shrine♪」%K%P
+0x1D0
+誠「神社！？　神社って、あれは昨日の地震で潰れちゃったじゃないかぁ……」%K%P
+Makoto「The shrine!? But it was destroyed in that earthquake%Nyesterday, wasn't it...?」%K%P
+0x1DC
+くるみ「いいのいいの。腐っても鯛って言うでしょ？　潰れても、神社は神社だよ」%K%P
+Kurumi「It's fine. Even if it's collapsed, it's still there, right? Even if%Nit's been smashed, a shrine is a shrine.」%K%P
+0x1E8
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x1F4
+くるみ「ね？　行こ行こっ♪」%K%P
+Kurumi「C'mon, let's go♪」%K%P
+0x240
+倒壊した神社……。%K%P
+The destroyed shrine...%K%P
+0x24C
+かつての威厳のようなものは、すっかりと消え失せてしまっていた。%K%P
+The once majestic building has completely disappeared.%K%P
+0x258
+どこに手を合わせればいいのかもわからぬまま、オレ達は適当に、瓦礫の中央に向かって拍手を打った。%K%P
+Unsure of where to pray for a moment, we decide to face%Nthe dead center of the rubble and pray.%K%P
+0x298
+参拝を終え、長い階段をちょうど下りきった頃だった。%K%P
+Once we've finished praying, we begin to walk down the%Nstairs of the shrine.%K%P
+0x2A4
+くるみは、いきなりこんなことを言い出した……。%K%P
+Suddenly, Kurumi says this...%K%P
+0x2D4
+くるみ「昨日くるみとお兄ちゃん、ここでちゅうしたんだよね？」%K%P
+Kurumi「This is where you and Kurumi kissed yesterday, huh?」%K%P
+0x2E0
+誠「……お、おいっ、くるみ。そういうことは、普通あからさまに言わないもんだぞ？」%K%P
+Makoto「... H-Hey, Kurumi, could you not say that so bluntly?」%K%P
+0x2EC
+誠「ひっそりと、自分だけの胸のうちにしまっとくもんだ」%K%P
+Makoto「It's kind of embarrassing if you put it like that.」%K%P
+0x300
+くるみ「ふ～ん……そうなんだぁ」%K%P
+Kurumi「Hmm... is that so...」%K%P
+0x30C
+言いながら、くるみはひとり、顔をほころばせている。%K%P
+Kurumi says this with a proud, smiling face.%K%P
+0x318
+それはまるで、悪いいたずらをたくらむ子供のような笑みだった。%K%P
+It's like the smile of a child who's planning an evil prank.%K%P
+0x324
+くるみ「ねえ、お兄ちゃん？」%K%P
+Kurumi「Hey, Onii-chan?」%K%P
+0x330
+誠「？」%K%P
+Makoto「?」%K%P
+0x344
+くるみ「ちゅう、しよっか？」%K%P
+Kurumi「Shall we kiss?」%K%P
+0x350
+誠「は、はい！？」%K%P
+Makoto「W-What!?」%K%P
+0x35C
+くるみ「ちゅう、しよっ？」%K%P
+Kurumi「Let's kiss.」%K%P
+0x368
+誠「だからぁ～、そういうもんはなぁ……」%K%P
+Makoto「I told you, saying something like that is...」%K%P
+0x37C
+くるみ「ダメ？」%K%P
+Kurumi「You won't do it?」%K%P
+0x388
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x39C
+くるみ「じゃあくるみ、約束破っちゃお～♪」%K%P
+Kurumi「Then Kurumi will break our promise～♪」%K%P
+0x3A8
+誠「約束？？？」%K%P
+Makoto「Promise???」%K%P
+0x3BC
+くるみ「うん。遊園地、行くのやめたの」%K%P
+Kurumi「Yeah. We're not going to the amusement park.」%K%P
+0x3C8
+誠「え？？？」%K%P
+Makoto「Huh???」%K%P
+0x3D4
+くるみ「遊園地一緒に行く約束。もし破ったらぁ……ね？」%K%P
+Kurumi「You remember what happens if we break our promise to%Ngo to the amusement park... right?」%K%P
+0x3E0
+誠「……あのゆびきりの、約束か？」%K%P
+Makoto「... Are you talking about that pinky swear promise?」%K%P
+0x3F4
+くるみ「えへっ♪」%K%P
+Kurumi「Eheh♪」%K%P
+0x400
+誠「……………………」%K%P
+Makoto「...」%K%P
+0x40C
+くるみ「はいっ。だからほっぺにちゅう、だよ？」%K%P
+Kurumi「Right. So kiss Kurumi on the cheek, okay?」%K%P
+0x418
+くるみが頬を差し出してきた。%K%P
+Kurumi presents her cheek.%K%P
+0x424
+……どうしよう……？%K%P
+... What should I do...?%K%P
+0x430
+……う～ん……。%K%P
+... Hmm～...%K%P
+0x43C
+思い悩んだ末、そのやわらかな頬に、オレはくちびるを寄せ……%K%P
+I decide not to worry about it, and my lips close in on%Nthat soft cheek...%K%P
+0x450
+くるみ「あっ！」%K%P
+Kurumi「Ah!」%K%P
+0x45C
+……ようとしたところで、くるみが急に声をあげた。%K%P
+... But as I'm trying to, Kurumi suddenly shouts.%K%P
+0x468
+誠「な、何だ？　どうかしたのか？」%K%P
+Makoto「Wh-What? Is something wrong?」%K%P
+0x47C
+くるみ「いっけな～いっ！　すっかり忘れてたよぉ！」%K%P
+Kurumi「This is bad! Kurumi completely forgot about it!」%K%P
+0x488
+誠「な、何を？」%K%P
+Makoto「Wh-What?」%K%P
+0x49C
+くるみ「くるみ、明日始業式だった……」%K%P
+Kurumi「Tommorow is the day of the opening ceremony at%NKurumi's school...」%K%P
+0x4A8
+誠「…………始業式？」%K%P
+Makoto「... Opening ceremony?」%K%P
+0x4B4
+誠「でもフェリーって……もうこの時間じゃ出てなかったよな？」%K%P
+Makoto「But the ferries have already stopped running at this%Nhour, right?」%K%P
+0x4C0
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x4CC
+誠「どうすんだ？」%K%P
+Makoto「What are you going to do?」%K%P
+0x4D8
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x4E4
+誠「くるみ？」%K%P
+Makoto「Kurumi?」%K%P
+0x4F0
+くるみ「……………………」%K%P
+Kurumi「...」%K%P
+0x4FC
+誠「くるみ？？？」%K%P
+Makoto「Kurumi???」%K%P
+0x510
+くるみ「……よしっ！　決めた！」%K%P
+Kurumi「... All right! Got it!」%K%P
+0x524
+くるみはくるりと振り向いた。%K%P
+Kurumi suddenly turns around.%K%P
+0x544
+そのまま、何も言わずに階段を駆けのぼって行く……。%K%P
+Just like that, she runs up%Nthe staircase without saying a word...%K%P
+0x550
+誠「ど、どこ行くんだよ、くるみ！？」%K%P
+Makoto「Wh-Where are you going, Kurumi!?」%K%P
+0x55C
+くるみ「だってぇ、始業式出なくっちゃ！」%K%P
+Kurumi「Well, Kurumi's got to make it to the opening ceremony!」%K%P
+0x568
+誠「はぁ……？」%K%P
+Makoto「Huh...?」%K%P
+0x574
+くるみ「もう１度……」%K%P
+Kurumi「Once more...」%K%P
+0x580
+くるみ「もう１度……するの！」%K%P
+Kurumi「Let's do it... once more!」%K%P
+0x58C
+誠「な、何を？」%K%P
+Makoto「D-Do what?」%K%P
+0x5A8
+くるみ「決まってるでしょ！？」%K%P
+Kurumi「Isn't it obvious!?」%K%P
+0x5B4
+くるみ「もう１度……タイムスリップするのぉ！」%K%P
+Kurumi「Let's time travel... once more!」%K%P
+0x7E8
+『ＣＵＲＥ』シナリオ────覚醒。
+Izumi Cure route unlocked.

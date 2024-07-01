@@ -1,0 +1,267 @@
+text area offset and size:
+0x840
+0x124B
+0x1A0
+The next morning...%K%P
+
+0x1AC
+I've gone to visit Saki at her summer house with the%Nbasket that I was somehow able to fix with a little help%Nfrom Haruka.%K%P
+
+0x1B8
+I press the intercom's button, and speak up.%K%P
+
+0x1C4
+Makoto「Ah, it's me... It's Makoto.」%K%P
+
+0x1D0
+Saki「... What is it?」%K%P
+
+0x1DC
+Makoto「I need to talk with you for a bit.」%K%P
+
+0x1E8
+I summon Saki to come outside.%K%P
+
+0x1F4
+While waiting for her to come out, I examine the basket%Nover and over again.%K%P
+
+0x200
+(Hmm... My handywork isn't so bad.)%K%P
+
+0x20C
+(Perhaps I would've been able to fix it last time as well...)%K%P
+
+0x218
+Just then, Saki appears, breaking my train of thought.%K%P
+
+0x22C
+Saki「So, what are you doing here?」%K%P
+
+0x238
+I silently hold out the basket to her.%K%P
+
+0x24C
+Saki「What... about it?」%K%P
+
+0x258
+Makoto「'What about it'... umm...」%K%P
+
+0x264
+Makoto「I thought for sure that this was probably your favorite...」%K%P
+
+0x270
+Saki「...」%K%P
+
+0x27C
+Makoto「In other words... I guess you could say that I felt that, um,%Nhow do I put it...」%K%P
+
+0x290
+Saki「And?」%K%P
+
+0x29C
+Crap... This is going completely at Saki's pace!%K%P
+
+0x2A8
+Makoto「... S-So, since I thought this was important to you, I%Nfigured that, umm...」%K%P
+
+0x2BC
+Saki snorts as if she's scornfully mocking me and turns%Naround.%K%P
+
+0x2C8
+Without a word, she immediately begins to head back%Ninside...%K%P
+
+0x2D4
+Makoto「H-Hey, wait...」%K%P
+
+0x2E0
+I chase after Saki, begging pathetically.%K%P
+
+0x2EC
+This kinda feels like I'm doing the same things I did last%Ntime...%K%P
+
+0x34C
+When I take a step into the living room of the summer%Nhouse, Saki suddenly turns around, furious.%K%P
+
+0x360
+Saki「Who the hell said it was okay for you to come in?」%K%P
+
+0x36C
+Makoto「Y-You just left without even fully hearing me out. It's not%Nlike I'm done talk-」%K%P
+
+0x380
+Saki「I thought I told you not to talk until I say so.」%K%P
+
+0x38C
+Makoto「...」%K%P
+
+0x398
+When I shut my mouth, Saki glances at the basket in my%Nhands.%K%P
+
+0x3AC
+Saki「You fixed it, huh... hmm...」%K%P
+
+0x3B8
+Makoto「...」%K%P
+
+0x3CC
+Saki「It's all right. I was going to throw it out anyway.」%K%P
+
+0x3D8
+Saki「You can buy these anywhere, right? They're mass%Nproduced. It's not like they're unique.」%K%P
+
+0x3E4
+Saki's being stubborn.%K%N
+
+0x3F0
+I already know that she's just trying to act tough.%K%P
+
+0x404
+Saki「How naive. Were you planning on buttering me up with%Nsomething like this?」%K%P
+
+0x410
+Ha ha... I instinctively laugh.%K%P
+
+0x41C
+Although she says that, Saki will come to thank me%Ntonight.%K%P
+
+0x428
+Making such a silly excuse like, "I was on a walk in the%Nmiddle of the night,"...%K%P
+
+0x43C
+Saki「What's so funny?」%K%P
+
+0x448
+Makoto「Sorry. You're just acting kinda cute...」%K%P
+
+0x45C
+Saki「D-Don't be stupid!」%K%P
+
+0x468
+Makoto「You're wrong. There's nothing stupid about it.」%K%P
+
+0x47C
+Saki「You're lying!」%K%P
+
+0x488
+Makoto「I'm not lying! Didn't I tell you? I said that 'I'll continue to%Nonly trust you'...」%K%P
+
+0x494
+Saki「Then yesterday was...」%K%P
+
+0x4B0
+Makoto「That was...」%K
+
+0x818
+Just apologize.
+
+0x824
+Explain the circumstances.
+
+0x50C
+Makoto「I'm sorry about that... I have no excuse.」%K%P
+
+0x518
+Saki「What's that mean?」%K%P
+
+0x524
+Makoto「So I won't think of even asking you to try to forgive me,%Nand I don't care if you scorn me...」%K%P
+
+0x530
+Saki「...」%K%P
+
+0x53C
+Makoto「But there's just one thing... that I want to ask you to do...」%K%P
+
+0x548
+Makoto「Please talk with Haruka.」%K%P
+
+0x554
+Makoto「I feel as if you and Haruka are both strangely out of%Nsync. You two are making the same mistake...」%K%P
+
+0x560
+Makoto「Both of you are stubborn because you two are under%Nthe false impression that the other is a bad person!」%K%P
+
+0x56C
+Saki「...」%K%P
+
+0x578
+Makoto「I know you're scared. But if you don't talk now, then you'll%Nsurely never recover from this...」%K%P
+
+0x584
+Saki「...」%K%P
+
+0x590
+Makoto「Will you quietly leave this to me?」%K%P
+
+0x59C
+I solemnly ask her this.%K%P
+
+0x5A8
+Saki「... Do you think I can believe that?」%K%P
+
+0x5B4
+Makoto「Trust me... this time...」%K%P
+
+0x5C0
+Saki「...」%K%P
+
+0x5CC
+Makoto「...」%K%P
+
+0x5D8
+Saki ponders for a little while...%K%P
+
+0x5E4
+Saki「I understand.」%K%P
+
+0x5F0
+... And before long, she quietly answers.%K%P
+
+0x628
+Makoto「That was just a pretext Haruka and I used so that we%Ncould go out to talk together with you...」%K%P
+
+0x634
+Saki「What's that mean?」%K%P
+
+0x640
+Makoto「I also told this to Haruka, but it really would be best for%Nthe two of you to have a talk.」%K%P
+
+0x64C
+Makoto「I feel as if you and Haruka are both strangely out of%Nsync. You two are making the same mistake...」%K%P
+
+0x658
+Makoto「Both of you are stubborn because you two are under%Nthe false impression that the other is a bad person!」%K%P
+
+0x664
+Saki「...」%K%P
+
+0x670
+Makoto「I know you're scared. But if you don't talk now, then you'll%Nsurely never recover from this...」%K%P
+
+0x67C
+Saki「...」%K%P
+
+0x688
+Makoto「Will you quietly leave this to me?」%K%P
+
+0x694
+I solemnly ask her this.%K%P
+
+0x6A0
+Saki「...」%K%P
+
+0x6AC
+Makoto「...」%K%P
+
+0x6B8
+Saki「... Is it really okay for me to trust you?」%K%P
+
+0x6C4
+Makoto「Yeah.」%K%P
+
+0x6D0
+Saki「It's okay for me to trust you this time?」%K%P
+
+0x6DC
+I give her a deep nod.%K%P
+

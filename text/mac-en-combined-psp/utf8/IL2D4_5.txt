@@ -1,0 +1,324 @@
+text area offset and size:
+0xC90
+0x16F1
+0x40
+When I come to, I'm in my bed in the lodge.%K%P
+
+0x4C
+(Why... am I here...?)%K%P
+
+0x68
+I touch my own lips.%K%P
+
+0x74
+Did I do it...? I can't remember.%K%P
+
+0x80
+But it feels like I did.%K%P
+
+0x8C
+Saki's lips still feel like they're touching mine.%K%P
+
+0x98
+If possible, I hope that I'm making some sort of%Nmisunderstanding.%K%P
+
+0xAC
+I touch my burning cheek.%K%P
+
+0xB8
+I'm pretty sure that there's still a vivid red color%Nengraved on it.%K%P
+
+0xC4
+I wonder if Saki is still angry?%K%P
+
+0xD0
+―And at that time!%K%P
+
+0x100
+Suddenly, a clamorous sound echoes, along with%NOkuhiko bursting into my room.%K%P
+
+0x10C
+Okuhiko「Haruka-chan's...」%K%P
+
+0x118
+Okuhiko「Haruka-chan's gone!」%K%P
+
+0x170
+Okuhiko gathers Yuka and I in the living room, and starts%Ngiving us the details.%K%P
+
+0x198
+Okuhiko「After that, I returned to the lodge, and took a shower.」%K%P
+
+0x1A4
+Okuhiko「I got out of the shower at about 9:30... and then, when I%Ntried going into Haruka-chan's room...」%K%P
+
+0x1C0
+Yuka「Haruka was gone...」%K%P
+
+0x1CC
+Okuhiko「Yeah...」%K%P
+
+0x1D8
+Okuhiko「Anyway, after that, I tried looking around the area%Naround the lodge on my own...」%K%P
+
+0x1E4
+Makoto「Hey, Okuhiko? What were you doing in Haruka's room in%Nthe first place?」%K%P
+
+0x208
+Okuhiko「What?」%K%P
+
+0x21C
+Yuka「... Now that you mention it, it is pretty weird...」%K%P
+
+0x228
+Okuhiko「Uh... that is... well... Right, the door was open. So when I%Nthought I should try to close it...」%K%P
+
+0x234
+Yuka「You stood in front of the door and found the room%Nempty?」%K%P
+
+0x248
+Okuhiko「Right, right...」%K%P
+
+0x254
+Makoto「Is that really what happened?」%K%P
+
+0x268
+Yuka「Anyway, sitting still here won't get anything solved...」%K%P
+
+0x274
+As she says this, Yuka stands up.%K%P
+
+0x280
+Yuka「... Why don't we all quickly split up and look for Haruka?%NWe should get Izumi-san and Saki's help.」%K%P
+
+0x2F4
+Yuka「All right? First, Makoto, you'll go call Izumi-san. Then, after%Nthat, go search the harbor, shopping district, and the%Neastern side of the island, okay?」%K%P
+
+0x300
+Makoto「Got it.」%K%P
+
+0x30C
+Yuka「Okuhiko-kun, do a thorough search of the area around%NMoon Beach!」%K%P
+
+0x328
+Okuhiko「Okay!」%K%P
+
+0x33C
+Yuka「I'll try searching Princess Beach, Viewpoint Park, and the%Nsouthern side of the island...」%K%P
+
+0x348
+Yuka「Saki, try searching around the lodge, one more time.」%K%P
+
+0x35C
+Saki「All right.」%K%P
+
+0x378
+Okuhiko「Haruka-chan, wait for me! I'll definitely find you!」%K%P
+
+0x384
+Makoto「Wait, Okuhiko... Maybe Haruka ran away because she was%Nfed up with being in your presence for too long.」%K%P
+
+0x398
+Okuhiko「Ishihara～! Why would you say something like that!?」%K%P
+
+0x3A4
+Makoto「It's a possibility. We need to consider all possibilities in%Nthis situation, right...?」%K%P
+
+0x3C0
+Yuka「Well then, let's begin the search right away!」%K%P
+
+0x3CC
+Yuka「If you find her, return to the lodge immediately! Got it!?」%K%P
+
+0x42C
+I immediately head for Lunabeach.%K%P
+
+0x438
+Makoto「Izumi-san! It's time!」%K%P
+
+0x44C
+Izumi「Ah, yes, yes... Haruka-chan's gone now, right?」%K%P
+
+0x458
+After this bizarre exchange, we head for the shopping%Ndistrict.%K%P
+
+0x4EC
+We walk closely together through the silent, deserted%Nshopping district.%K%P
+
+0x4F8
+The date has already changed to "April 5th".%K%N
+
+0x504
+Of course, it's actually "April 10th"...%K%P
+
+0x520
+I suddenly look up, and see a starry sky spread before%Nme.%K%P
+
+0x52C
+It's a beautiful sky that's just like the one from the night%NIzumi-san confessed to me.%K%P
+
+0x538
+Finally... this is the time I was waiting for.%K%P
+
+0x544
+This is my best chance!%K%P
+
+0x550
+She confessed to me under a starry sky, so I'll answer%Nher under a starry sky too.%K%P
+
+0x55C
+I take in a deep breath before exhaling.%K%P
+
+0x568
+I gulp... and then quietly start talking.%K%P
+
+0x57C
+Makoto「Izumi-san... I...」%K%P
+
+0x590
+Izumi「Huh?」%K%P
+
+0x59C
+Makoto「This time, I'll say it all without any interruptions...」%K%P
+
+0x5B0
+Izumi「Y-Yes...」%K%P
+
+0x5BC
+Makoto「Izumi-san... the truth is... I... I lov-」%K%P
+
+0x5FC
+Okuhiko「Heey! She's not here either!」%K%P
+
+0x610
+Okuhiko comes running over...%K%P
+
+0x61C
+(GODDAMMIT!!!!!!!!!!!!!!)%K%P
+
+0x628
+(You were supposed to be searching the area around%NMoon Beach, weren't you!!!!?)%K%P
+
+0x634
+(So what the hell are you doing here!!!!?)%K%P
+
+0x658
+...%K%P
+
+0x664
+In the end, Izumi-san, Okuhiko, and I end up searching for%NHaruka.%K%P
+
+0x670
+(It's already over...)%K%P
+
+0x67C
+(All I want is to just end this all completely...)%K%P
+
+0x6CC
+After looking around once (or pretending to), everyone%Ngathers at Lunabeach.%K%P
+
+0x6D8
+Naturally, we haven't found Haruka (at least, that's what%Nwe're telling Okuhiko).%K%P
+
+0x708
+Okuhiko「Haruka-chan... where did you go?」%K%P
+
+0x714
+Okuhiko sounds miserable.%K He's completely exhausted.%K%P
+
+0x720
+Everyone else also looks tired.%K%N
+
+0x72C
+Very well, then it's time we reached the grand finale of%Nthis play.%K%P
+
+0x738
+Makoto「Hey, Okuhiko?」%K%P
+
+0x75C
+Okuhiko「?」%K%P
+
+0x768
+Makoto「The truth is, there's just one place we haven't looked for%NHaruka yet...」%K%P
+
+0x77C
+Okuhiko「What!? Why didn't you say so earlier!?」%K%P
+
+0x788
+Makoto「N-Now, now, calm down...」%K%P
+
+0x79C
+Okuhiko「Say it! Hurry up and say it!」%K%P
+
+0x7A8
+Makoto「All right, all right...」%K%P
+
+0x7B4
+Makoto「The place we haven't looked yet is...」%K%P
+
+0x7DC
+Makoto「... The shrine!」%K%P
+
+0x7E8
+Makoto「To me... it seemed like Haruka had an interest in old%Nshrines and temples.」%K%P
+
+0x7FC
+Okuhiko「The shrine... You mean the one on that cape... that%NIzumi-san told us about?」%K%P
+
+0x808
+Makoto「Yeah... she's probably there.」%K%P
+
+0x81C
+Okuhiko「I see... so Haruka-chan's at the shrine!?」%K%P
+
+0x828
+Okuhiko「Wait for me, Haruka-chan!」%K%P
+
+0x858
+With that, Okuhiko begins to run away in a frenzy...%K%N
+
+0x864
+We see him off until he's no longer in sight.%K%P
+
+0x870
+...%K%P
+
+0x88C
+Makoto「Well then...」%K%P
+
+0x8C8
+Yuka「It's about time we got back now, isn't it?」%K%P
+
+0x8F4
+Saki「I agree. I'm so damn beat...」%K%P
+
+0x910
+Izumi「Shall I call Haruka-chan over?」%K%P
+
+0x91C
+Makoto「You think so too, Izumi-san? All right, let's just live it up in%Nthe lodge for a bit until Okuhiko gets back...」%K%P
+
+0x938
+Yuka「Yaay～♪ Sounds good, sounds good～♪」%K%P
+
+0x944
+Makoto「But no alcohol for you, Yuka!」%K%P
+
+0x958
+Yuka「Whaaat!? Why not～!?」%K%P
+
+0x964
+Makoto「Do I even need to say it!?」%K%P
+
+0x978
+Before long, Izumi-san comes out with Haruka.%K%P
+
+0x98C
+Haruka「... Are we going back?」%K%P
+
+0x998
+Makoto「Yeah. With this, it's over...」%K%P
+
+0x9B4
+Makoto「It's all... over...」%K%P
+

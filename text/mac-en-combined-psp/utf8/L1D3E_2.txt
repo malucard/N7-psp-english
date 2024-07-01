@@ -1,0 +1,810 @@
+text area offset and size:
+0x2040
+0x4148
+0x5C
+Once I finish changing, I throw myself onto the bed.%NHaruka's face faintly forms on the ceiling.%K%P
+
+0x68
+What do I think of Haruka?%K%P
+
+0x74
+Do I really just think of her like a daughter?%K%P
+
+0x80
+Even so, we kissed... No, it was just on the forehead.%K%P
+
+0x8C
+Why didn't I kiss her on the lips back then?%K%P
+
+0xA8
+At that moment, I hear Okuhiko's voice. As I get out of%Nbed, I wonder what's going on.%K%P
+
+0xB4
+He sounds furious. I open the window to find Okuhiko on%Nthe terrace.%K%P
+
+0xC0
+He is approaching someone against the wall while yelling%Nat them.%K%P
+
+0xCC
+I'm getting a bad feeling about this, so I rush out of my%Nroom.%K%P
+
+0x120
+I open the front door, and look towards the terrace.%K%P
+
+0x12C
+I can see Okuhiko's back. He's talking to... Haruka. From%Nhere, I can hear their conversation clearly.%K%P
+
+0x138
+Okuhiko「Why did you go fishing with Ishihara? What do you see in%Nthat asshole?」%K%P
+
+0x144
+Haruka「Makoto... is kind to me...」%K%P
+
+0x150
+Okuhiko「Kind? Ishihara? He's nothing but a vulgar bastard. In any%Ncase, it's clear as day that he has a ulterior motive.」%K%P
+
+0x15C
+Haruka「We trust each other. You wouldn't understand...」%K%P
+
+0x168
+Okuhiko「You're the one who doesn't understand about Ishihara.」%K%P
+
+0x174
+Haruka「What's going on between me and Makoto is none of your%Nconcern.」%K%P
+
+0x180
+Okuhiko「You're wrong! It does concern me! Haruka-chan, I...!」%K%P
+
+0x18C
+Just then, Haruka shoves him aside as she tries to walk%Naway.%K%P
+
+0x198
+Before she can, Okuhiko turns around and quickly grabs%Nher by the arm.%K%P
+
+0x1A4
+At that time, their eyes lock onto me. A blush rapidly%Nspreads across Haruka's face.%K%P
+
+0x1B0
+Okuhiko loudly clicks his tongue, and lets go of Haruka's%Narm.%K%P
+
+0x1CC
+When I step onto the terrace, Haruka runs right towards%Nme.%K%P
+
+0x1D8
+Makoto「Wow, you sure do have a way with the ladies, Almighty%NOkuhiko-kun.」%K%P
+
+0x1F4
+Okuhiko「Shut up. You don't have the right to say anything.」%K%P
+
+0x200
+Makoto「Whatever. Haruka, let's go.」%K%P
+
+0x21C
+Haruka「Wait. Tell him straight.」%K%P
+
+0x228
+Makoto「Huh?」%K%P
+
+0x234
+Haruka「About me and you. About how we trust each other, no%Nmatter what happens... isn't that right?」%K%P
+
+0x240
+Makoto「Wait a min-」%K%P
+
+0x24C
+Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're%Nthe only ones who understand.」%K%P
+
+0x258
+Hey, what's all this about?%K%P
+
+0x264
+Haruka「Why aren't you saying anything?」%K%P
+
+0x270
+Is she trying to confirm my feelings for her?%K%P
+
+0x27C
+Up until earlier, wasn't she was the one who said she%Ndidn't understand that!? In my silence, Haruka delivers%Nthe final blow.%K%P
+
+0x288
+Haruka「Are you saying we can't trust each other?」%K%P
+
+0x294
+Makoto「That's not it, that's not...」%K%P
+
+0x2A0
+Haruka「So you don't think anything of me at all... even though%Nyou gave me a kiss...」%K%P
+
+0x2BC
+Makoto「...!」%K%P
+
+0x2D8
+Okuhiko「Y-You kissed her... Ishihara, you son of a bitch!」%K%P
+
+0x2E4
+Makoto「Listen, Haruka. It wasn't like that at all earlier.」%K%P
+
+0x2F0
+Haruka「What do... you mean?」%K%P
+
+0x2FC
+Makoto「It wasn't about how I felt about you. It was because...」%K
+
+0x1FD0
+"Because you told me to kiss you..."
+
+0x1FDC
+"Because..."
+
+0x344
+Makoto「Because you told me to ki...」%K%P
+
+0x350
+... Wh-What the hell am I saying?%K%P
+
+0x35C
+I can't understand why I'm saying this.%K%P
+
+0x5A0
+Fortunately, I am interrupted by Okuhiko suddenly%Npunching me. He hits me, and I fall to my knees.%K%P
+
+0x5AC
+I quickly look towards Haruka, and although her face is%Nas expressionless as ever, there's a hint of sorrow in%Nher eyes.%K%P
+
+0x5B8
+She probably heard what I said.%K%P
+
+0x5CC
+Because...%K%P
+
+0x810
+At that instant. Okuhiko punches me right in my face,%Nmaking me fall to my knees.%K%P
+
+0x824
+Okuhiko「How could you do that to Haruka-chan...! She doesn't%Nbelong to you, dammit!」%K%P
+
+0x830
+I spit out saliva and stand up. Okuhiko has seized%NHaruka's shoulders.%K%P
+
+0x83C
+Okuhiko「Haruka-chan, what's so good about this irresponsible%Nbastard?」%K%P
+
+0x848
+Haruka「...」%K%P
+
+0x854
+Okuhiko「I'm different. I'm beyond a level of trust with you. I love%Nyou...!」%K%P
+
+0x860
+Haruka「...」%K%P
+
+0x86C
+Okuhiko「You don't understand? Look at me! The man who loves%Nyou is right here!」%K%P
+
+0x878
+Haruka turns her head away from Okuhiko, and looks at%Nme. Her expression darkens.%K%P
+
+0x894
+Haruka「I... don't understand... because... I have no heart...」%K%P
+
+0x8A0
+Okuhiko「Haruka-chan...!」%K%P
+
+0x8AC
+Makoto「Stop it, Okuhiko! Haruka is starting to find her 'heart'!」%K%P
+
+0x8B8
+Okuhiko「Stay out of this. You don't even love her.」%K%P
+
+0x8C4
+Makoto「Y-You've already got plenty of other girls, you know...%NWhat about Saki? Why are you constantly hitting on her%Nif you don't even like her?!」%K%P
+
+0x8D0
+Okuhiko「You're just trying to take advantage of Haruka-chan's%Ngood will.」%K%P
+
+0x8DC
+Makoto「Don't screw with me! You've just been jealous ever since%NHaruka and I made our promise, right? That's why you%Nchose Saki! Just what do you think Saki is?」%K%P
+
+0x8E8
+Haruka「Saki... Not Saki...」%K%P
+
+0x8F4
+Makoto「...!?」%K%P
+
+0x900
+Haruka「She's... always... stealing... from me...」%K%P
+
+0x90C
+Okuhiko「It's all right, Haruka-chan. Saki-chan has nothing to do%Nwith this. I don't care about her. I couldn't give a shit%Nabout her...!」%K%P
+
+0x93C
+A dry sound echoes.%K%P
+
+0x950
+Taken aback, we all turn towards the sound. Saki is%Nstanding frozen by the front door, carrying her basket.%K%P
+
+0x95C
+By her feet are tennis rackets, scattered about.%K%P
+
+0x990
+Saki「I... I'll be going now... Farewell.」%K%P
+
+0x99C
+Okuhiko「Y-You're wrong, Saki-chan. There's a reason for...!」%K%P
+
+0x9C0
+Saki begins to run away, and Okuhiko rushes after her.%K%P
+
+0x9CC
+She violently slaps Okuhiko's extended hand away. I%Nfrantically jump out of the front door.%K%P
+
+0x9D8
+At that time, Yuka and Kurumi return while laughing about%Nsomething.%K%P
+
+0xA44
+Saki throws the basket onto the staircase. She then%Nvexingly crushes it with her foot.%K%P
+
+0xAB8
+She crushes it! The sound of wood snapping is heard.%NThe basket has now broken apart. Plastic tableware%Nscatters everywhere.%K%P
+
+0xAD8
+Kurumi「Saki-san...!」%K%P
+
+0xAEC
+Yuka「Wh-What's wrong!?」%K%P
+
+0xB2C
+Yuka and Kurumi rush over to us, their expressions%Ncompletely changed.%K%P
+
+0xB38
+Saki won't calm down...%K%P
+
+0xB44
+Shit... What should I do?%K
+
+0x1FE8
+Hold her down with all my might.
+
+0x1FF4
+Persuade her to calm down.
+
+0xB84
+I restrain Saki's body with a full nelson. Despite this, she%Nstill tries to crush each of the tableware one by one.%K%P
+
+0xB90
+Makoto「Saki! Dammit, calm down!!」%K%P
+
+0xBA4
+Saki「Don't touch me!」%K%P
+
+0xDDC
+Saki sends me flying with tremendous strength. In a%Ndaze, I shrink back to the front door.%K%P
+
+0xDE8
+Saki glares at all of us. Alarmed, Yuka and Kurumi cling to%Neach other.%K%P
+
+0xDF4
+Okuhiko is trembling pathetically. As soon as I open my%Nmouth, Saki explodes.%K%P
+
+0xE08
+Saki「Don't talk until I say so!」%K%P
+
+0xE24
+Makoto「Saki, calm down! Getting angry and going on a rampage%Nwon't accomplish anything!」%K%P
+
+0xE38
+Saki「...」%K%P
+
+0xE44
+Saki looks at me. The anger in her eyes is still blazing like%Nan inferno.%K%P
+
+0xE50
+... Holy shit... Saki's face all boiled up in rage is truly%Nterrifying.%K%P
+
+0xE5C
+It's because of her strong feelings towards Okuhiko...%K%N
+
+0xE68
+It's obvious that she hates him for the heartbreak he%Njust put her through.%K%P
+
+0xE74
+Makoto「Saki... san. Please... calm down for now.」%K%P
+
+0xE80
+Makoto「Come on, this might just be a huge misunderstanding on%Neveryone's part. Maybe if we talk about it together, we%Ncan sort this out and say, 'Oh, so that's all it was' later%Non.」%K%P
+
+0xE94
+Saki「... Talk about this... together.」%K%P
+
+0xEA0
+Makoto「Yes, that's good. Let's do it. Right, Saki...」%K%P
+
+0xEBC
+I place a hand on Saki's shoulder... In that instant, Saki%Nviolently flings my hand off of her.%K%P
+
+0xED0
+Saki「Don't touch me like I'm your friend!!」%K%P
+
+0xEDC
+Saki's expression is even angrier than before. Did I just%Nadd fuel to the fire?%K%P
+
+0xEE8
+Saki「Hmph... Talk about it together? And just where the hell%Nwould we do that? I'm fed up of playing buddy-buddy%Nwith all of you!!」%K%P
+
+0xEF4
+I try to open my mouth to see if I can fix the situation, but%NSaki doesn't even let me do that.%K%P
+
+0xF00
+Saki「Don't talk until I say so!」%K%P
+
+0xF1C
+Yuka「What are you saying, Saki!?」%K%P
+
+0xF30
+Saki「Shut up, Yuka! Why don't you just go draw your little%Npictures like you did back then...!?」%K%P
+
+0xF44
+Yuka「... Saki!」%K%P
+
+0xF84
+Makoto「...!?」%K%P
+
+0xF90
+Saki glares at Okuhiko, whose shoulders shoot up with a%Nstart.%K%P
+
+0xF9C
+Kurumi runs over to Saki and clings to her.%K%P
+
+0xFB8
+Kurumi「Saki-san, stop! No... Kurumi doesn't want to see you like%Nthis...!」%K%P
+
+0xFD4
+Saki「Don't touch me!」%K%P
+
+0x1030
+In the next instant, Saki violently thrusts Kurumi away.%K%P
+
+0x103C
+She throws Kurumi right onto the stairs! Kurumi gasps%Nloudly, and stares dumbfoundedly at Saki.%K
+
+0x2000
+"Saki...! How could you...!?"
+
+0x200C
+Run over to Kurumi.
+
+0x1084
+Makoto「Saki...! How could you...!?」%K%P
+
+0x1090
+Saki「...」%K%P
+
+0x109C
+Saki's expression warps into shock. I think she probably%Nrealizes what she had just done.%K%P
+
+0x10C0
+Makoto「Kurumi-!」%K%P
+
+0x10CC
+I run over to Kurumi. Saki is in a daze, standing stock still.%K%P
+
+0x111C
+Just then, Haruka comes rushing down the terrace, and%Nquickly helps Kurumi up.%K%P
+
+0x1130
+The slender Haruka takes her hands and gently strokes%NKurumi's back.%K%P
+
+0x1158
+Haruka「Are you all right?」%K%P
+
+0x1164
+*Hic*. Kurumi begins to sob heavily.%K%P
+
+0x1170
+Haruka glares sharply at Saki.%K%P
+
+0x1184
+She stands up. She starts to get closer and closer to%NSaki.%K%P
+
+0x1190
+I automatically hold my breath.%K%P
+
+0x11B8
+Saki「Stay away from me.」%K%P
+
+0x11C4
+Haruka「...」%K%P
+
+0x11D8
+Saki「What is it? Get the hell away from me! I have no business%Nwith you, you damn clone...!」%K%P
+
+0x11FC
+Haruka「―!」%K%P
+
+0x1208
+Makoto「―!」%K%P
+
+0x1214
+Okuhiko「―Ah...」%K%P
+
+0x1220
+Yuka「―Huh?」%K%P
+
+0x122C
+Kurumi「―Clone?」%K%P
+
+0x1254
+In that instant, it feels like the world has stopped.%K%P
+
+0x1260
+―She says Haruka's a clone.%K%P
+
+0x126C
+An existence created by using part of some person's%Ncells to artificially fertilize an egg.%K%P
+
+0x1278
+Duplication, so to speak.%K%P
+
+0x1284
+Copies...%K%P
+
+0x1290
+Haruka's a clone?%K%P
+
+0x129C
+I recall memories of Haruka from two days ago.%K%P
+
+0x12A8
+The Haruka who watched the water dripping from the%Nfaucet.%K%P
+
+0x12C4
+The Haruka who drenched her feet in the breaking%Nwaves on the beach.%K%P
+
+0x12E0
+Haruka's sweating face as she pedaled the bike.%K%P
+
+0x12EC
+The enthusiastic Haruka who forgot herself as much as%Nshe could when she went fishing with me.%K%P
+
+0x12F8
+The Haruka who asked me to kiss her. ―That face. That%Nblushing face.%K%P
+
+0x1304
+That same Haruka is a clone?%K%P
+
+0x1310
+I look at Haruka, her expression unwavered, as if she's%Naccepting it...%K%P
+
+0x131C
+Me and the others look at Saki with dubious eyes.%K%P
+
+0x1330
+Saki「I'm not lying. I know about it. I know...!」%K%P
+
+0x134C
+Okuhiko「... I can't believe it.」%K%P
+
+0x1358
+Saki「Why don't you look at her face? It's practically written all%Nover it.」%K%P
+
+0x136C
+Okuhiko「Ugh...」%K%P
+
+0x1388
+Haruka「...」%K%P
+
+0x13A4
+Saki「Do you understand, Okuhiko-kun? This is the true nature%Nof that girl you claim to love.」%K%P
+
+0x13B0
+Okuhiko「Suppose Haruka-chan is a clone... So what? Times have%Nchanged. Everyone knows that there's currently about%N1-2 clones for every 1000 human grade school kids.」%K%P
+
+0x13BC
+Yuka「Also, nine years ago, a law was passed that legalized%Nthe fertilization of clones.」%K%P
+
+0x13C8
+Okuhiko「That's right. Saki-chan, it'd be best not to say such trite%Nthings. This is something our generation sees as normal,%Nnot as something to be scorned.」%K%P
+
+0x13DC
+That's right. The existence of clones is legal.%K%P
+
+0x13E8
+In the past, those who created clones were accused as%Nhaving committed a grave sin, and the clones%Nthemselves were also persecuted by humans...%K%P
+
+0x13F4
+―But why?%K%N
+
+0x1400
+Okuhiko's and Yuka's defense sounded a bit off.%K%P
+
+0x140C
+It sounded empty. Forced.%K%P
+
+0x1418
+It sounded like Haruka was the first clone they'd actually%Nknown was a clone, so they just pulled whatever facts%Nthey had on hand to create a so-called "defense".%K%P
+
+0x1424
+Though... I'm no better. She's the first person I've known%Nwas a clone as well.%K%P
+
+0x1430
+Saki's whole body shakes as she opens her mouth.%K%P
+
+0x1444
+Saki「Splendid... What a splendid group of companions this%Nseminar has!」%K%P
+
+0x1460
+Yuka「Ah, wait, Saki...!」%K%P
+
+0x1474
+When she sees Saki begin to run, Yuka chases after her.%NThey head down the road towards the summer house.%K%P
+
+0x1490
+―I can't see Yuka anymore. She runs past us faster%Nthan a raging storm, leaving us stranded.%K%P
+
+0x149C
+An awkward atmosphere hangs in the air.%K%P
+
+0x14A8
+Though Okuhiko had said clones were not unusual in our%Nsociety, he still looked rather shocked.%K%P
+
+0x14B4
+The girl he liked is a clone. It's obviously not something%Nfamiliar to him, so of course he's bothered by it.%K%P
+
+0x14C0
+Kurumi continues to sob heavily. She probably still%Ndoesn't comprehend what had just happened.%K%P
+
+0x14CC
+I pick up the pieces of the broken basket.%K%P
+
+0x14D8
+I suddenly feel someone glancing at me, so I raise my%Nhead to find Haruka staring straight at me.%K%P
+
+0x14EC
+Makoto「Is... what Saki said earlier true?」%K%P
+
+0x14F8
+Haruka「That's why I have no heart...」%K%P
+
+0x1504
+Makoto「Haruka...」%K%P
+
+0x1510
+Haruka「Because I'm just somebody's replacement.」%K%P
+
+0x151C
+Makoto「...」%K%P
+
+0x1528
+Haruka「Because I'm nothing more than a copy.」%K%P
+
+0x1534
+Makoto「... That's not-」%K%P
+
+0x1540
+Haruka「Surprised?」%K%P
+
+0x154C
+Makoto「That's not true.」%K%P
+
+0x1558
+Haruka「...」%K%P
+
+0x1564
+Makoto「That's not true...!」%K%P
+
+0x1578
+Haruka「I see...」%K%P
+
+0x158C
+Haruka quickly looks away from me, and slowly opens the%Nfront door. I automatically run after her.%K%P
+
+0x1598
+Makoto「Haruka!」%K%P
+
+0x15C8
+Haruka「...」%K%P
+
+0x15D4
+Makoto「Umm... how do I put this...」%K%P
+
+0x15E0
+Haruka「...」%K
+
+0x2018
+"Don't worry about it."
+
+0x2024
+"Honestly... I was a bit surprised."
+
+0x1620
+Makoto「... Don't worry about it. Whether you're a clone or a copy,%NHaruka is Haruka. Even if you don't have a heart.」%K%P
+
+0x1634
+Haruka「...」%K%P
+
+0x1648
+Makoto「...」%K%P
+
+0x1654
+Haruka becomes surprised and takes in a sharp breath.%K%P
+
+0x1668
+After that, I feel a little hesitant... After that... After that,%NI've run out of things to say.%K%P
+
+0x167C
+Haruka「... I'm happy.」%K%P
+
+0x1688
+Makoto「Huh?」%K%P
+
+0x1694
+Haruka「I'm happy to hear that from you, Makoto...」%K%P
+
+0x16A8
+Makoto「...」%K%P
+
+0x16E0
+She closes the door, the sound of her footsteps%Nfading...%K%P
+
+0x16EC
+I stand frozen in place.%K%P
+
+0x16F8
+I'm worried about Haruka's expression just now. She%Ndidn't look happy at all...%K%P
+
+0x1714
+Makoto「Honestly... I was a bit surprised.」%K%P
+
+0x1720
+Though my own words surprise me, I feel that I should be%Ncompletely honest.%K%P
+
+0x172C
+Haruka is waiting for me to continue.%K%P
+
+0x1738
+Makoto「I don't know much about clones, I admit.%K Since this is new%Nto me, of course I'm surprised. But... But you know...」%K%P
+
+0x1744
+I try to carefully choose my next words.%K%P
+
+0x1750
+Makoto「Even if you're a clone, Haruka is Haruka. Nothing has%Nchanged between us.」%K%P
+
+0x1764
+Haruka「...」%K%P
+
+0x1778
+Makoto「... Nothing will change.」%K%P
+
+0x1784
+Haruka becomes surprised and takes in a sharp breath.%K%P
+
+0x1798
+Haruka「... I'm happy.」%K%P
+
+0x17A4
+Makoto「Huh?」%K%P
+
+0x17B0
+Haruka「I'm happy to hear that from you, Makoto...」%K%P
+
+0x17C4
+Makoto「...」%K%P
+
+0x17FC
+She closes the door, her footsteps fading...%K%P
+
+0x1808
+I stand frozen in place.%K%P
+
+0x1814
+I'm worried about Haruka's expression just now. She%Ndidn't look very happy...%K%P
+
+0x1870
+I go to Saki's summer house. The chilly late afternoon air%Npierces my body.%K%P
+
+0x187C
+―After Haruka went inside, I calmed down the sobbing%NKurumi, and tried going to Haruka's room. I called out to%Nher many times, but she didn't leave her room.%K%P
+
+0x1888
+Did I say something wrong?%K%P
+
+0x1894
+I then became curious about Saki, who had suddenly%Nexploded in anger.%K%P
+
+0x18A0
+In the first place, how did she know that Haruka was a%Nclone?%K%P
+
+0x18AC
+I intend to get that answer out of her.%K%P
+
+0x18B8
+Just as I'm about to try opening the door, Yuka comes%Nout of from inside.%K%P
+
+0x18CC
+Makoto「Yuka! How's Saki doing?」%K%P
+
+0x18D8
+Yuka「Until she calms down, I don't think it'll be any good. It was%Nlike this in the past too.」%K%P
+
+0x18E4
+Makoto「In the past... you mean when you and Saki used to draw%Ntogether?」%K%P
+
+0x18F0
+Yuka「Huh? Well, I guess that's true... Anyway, how's Haruka?」%K%P
+
+0x18FC
+Makoto「She still hasn't left her room.」%K%P
+
+0x1908
+Yuka「I see...」%K%P
+
+0x191C
+I can't talk to Saki as she is now.%K%N
+
+0x1928
+We head back towards the lodge.%K%P
+
+0x1960
+Makoto「Hey, Yuka. Is there really that much of a difference%Nbetween clones and humans?」%K%P
+
+0x1974
+Yuka「Let's see... The only difference I see is how they're born.%NIf they're a copy of someone else's genetic information,%Nthen they're like a twin, right?」%K%P
+
+0x1980
+Makoto「But Haruka says that because she's a copy, she has%Nno 'heart'...」%K%P
+
+0x198C
+Yuka「I've never heard of normal clones ever saying that.%NThere's no way it's possible to not have a 'heart'...」%K%P
+
+0x1998
+Makoto「I agree. There's absolutely no way she doesn't have a%N'heart'.」%K%P
+
+0x19A4
+Yuka「Kinda feels like a delusion.」%K%P
+
+0x19B0
+Makoto「A delusion?」%K%P
+
+0x19BC
+Yuka「Like what if Haruka's convinced that she's some kind of%Nspecial being?」%K%P
+
+0x19C8
+Makoto「A special being...」%K%P
+
+0x19D4
+Yuka「Yeah. I have a hunch that she has held on to that%Ndelusion...」%K%P
+
+0x19E0
+Makoto「...」%K%P
+
+0x1A30
+When we return to the lodge, we see Izumi-san jogging%Nup towards us.%K%P
+
+0x1A3C
+In her hand, she's carrying a bag full of some ingredients.%K%P
+
+0x1A48
+Izumi「Makoto-kun! Yuka-chan!」%K%P
+
+0x1A54
+Yuka「Izumi-san? What about the shop?」%K%P
+
+0x1A68
+Izumi「I closed it early. It's not like any customers would come%Nanyway. Ah, I'm sorry for troubling you with Kurumi,%Nespecially you, Makoto-kun!」%K%P
+
+0x1A74
+Makoto「Huh? No, uh... Sorry, please excuse me.」%K%P
+
+0x1A88
+I'm in no mood to talk to the unusually cheerful Izumi-san%Nright now.%K%P
+
+0x1A94
+Lightly bowing my head, I head back to my room.%NIzumi-san might think badly of me, but...%K%P
+
+0x1AA0
+Izumi「Is something wrong?」%K%P
+
+0x1AAC
+I can hear Izumi-san asking Yuka this from behind my%Nback.%K%P
+

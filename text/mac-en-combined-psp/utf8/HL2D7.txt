@@ -1,0 +1,261 @@
+text area offset and size:
+0xDA8
+0x160D
+0x150
+優夏「じゃ、先に帰ってるからね。ふたりきりだからって、変なコトしちゃダメよ！」%K%P
+Yuka「Then we'll be going back before you. You two will be all%Nalone, so don't get any funny ideas!」%K%P
+0x15C
+億彦「まったくだ。おい、石原ぁ、お前には大きな貸しがあるんだからな！」%K%P
+Okuhiko「No kidding. Hey, Ishihara, you owe me big time!」%K%P
+0x170
+翌日、優夏達は、ひと足先にロッジを後にしていた。%K%N
+The next day, Yuka and Okuhiko left the lodge ahead of%Nme.%K%N
+0x17C
+さすがにこれ以上滞在すると、今後の予定に響くとのことだ。%K%P
+As expected, if they stayed any longer, it would mess%Nup their plans in the near future.%K%P
+0x188
+沙紀もどうやら、自分の生活に戻っていったようだ。%K%P
+It seems that Saki has also returned to her own life.%K%P
+0x1C8
+遙は本土の大病院に移され、精密検査などを受けることになった。%K%P
+Haruka was transferred to a large hospital on the%Nmainland, where it was arranged for her to receive a%Nwork up.%K%P
+0x1D4
+実際、ひどかったのは出血だけで特に問題は無さそうだったのだが、さすがにそのまま帰るわけには%N行かないということだ。%K%P
+Actually, her only major problem was the heavy bleeding,%Nbut of course there was no way she could just go back%Nlike that.%K%P
+0x1E0
+それに、一気に血を失った体は、すぐには体力も%N戻らないだろう。%K%P
+Besides, she lost so much blood all at once that her%Nphysical strength probably wouldn't return immediately.%K%P
+0x1EC
+もちろん、オレは遙に付き添ってやることにした。%K%N
+Of course, I decided to attend on Haruka.%K%N
+0x1F8
+これからフェリーに乗って、その大病院へ向かうのだ。%K%P
+Afterwards, I took the ferry to the mainland and headed%Nstraight for the hospital.%K%P
+0x204
+遙と一緒にいられるだけでいい……。%K%N
+Just being able to be together with Haruka is fine...%K%N
+0x210
+……そんな幸せをかみしめながら、%Nオレは約『２週間』ぶりに、島を出ることに%Nなった……。%K%P
+... It's been approximately two weeks since I've left the%Nisland and found myself enjoying this happiness...%K%P
+0x290
+明けて、翌日のことである……。%K%P
+And so, the next day dawns...%K%P
+0x2B8
+昼過ぎになってから、遙の病室のドアを叩く%N音がした。%K%N
+Just past noon, someone knocks on the door to%NHaruka's hospital room.%K%N
+0x2C4
+確かに今は面会時間だが、誰が……？%K%P
+It's true that it's visiting hours right now, but who...?%K%P
+0x2D0
+今、遙はベッドで安らかな寝息をたてている……。%K%P
+Right now, Haruka is sleeping on her bed, breathing%Npeacefully...%K%P
+0x2DC
+誠「……はい、開いてますよ？」%K%P
+Makoto「... Yes, it's open.」%K%P
+0x304
+遠慮がちにドアが開かれ、ノックの主が現れた。%K%P
+The door is opened rather quietly, and the owner of the%Nknock appears.%K%P
+0x32C
+誠「……いづみさん！」%K%P
+Makoto「... Izumi-san!」%K%P
+0x338
+そう、そこに立っていたのはいづみさんだったのだ。%K%P
+Yes, the one standing over there is Izumi-san.%K%P
+0x344
+いづみさんは、リンゴやらみかんやらの積まれた果物かごを持って、そうっと病室の中に入って来た。%K%P
+Izumi-san is carrying a fruit basket with apples and%Noranges piled up, and quietly enters the hospital room.%K%P
+0x350
+いづみ「……ごめんなさい、お見舞いが%N遅くなっちゃって……。%W%Wくるみは学校があるから、%N日曜日には来るって……」%K%P
+Izumi「... I'm sorry I didn't come to visit sooner... Kurumi has%Nschool, so she said she'll come on Sunday...」%K%P
+0x35C
+誠「……いえ。%W%W%Wでも、%W%Wいづみさん、遙のこと……」%K%P
+Makoto「... No, it's fine. But Izumi-san, about Haruka...」%K%P
+0x368
+いづみ「うん……。結構迷ったのよ、これでも……。本当に私なんかが来ていいのかなって」%K%P
+Izumi「Yes... Despite how it may seem, I was very hesitant...%NHonestly, I wonder if it's even all right for someone like me%Nto come here...」%K%P
+0x374
+誠「そんなこと……」%K%P
+Makoto「That's...」%K%P
+0x380
+いづみ「遙、寝てるの？」%K%P
+Izumi「Is Haruka asleep?」%K%P
+0x38C
+誠「ええ。さっき寝ついたところです」%K%P
+Makoto「Yeah. She fell asleep some time ago.」%K%P
+0x398
+いづみ「それなら……話の続きなんだけど、%W%W%W私、やっぱり%N自分の気持ちに正直になることにしたの」%K%P
+Izumi「If that's the case... then I'll continue my story. I've%Ndecided I should be honest to my own feelings after all.」%K%P
+0x3A4
+いづみ「あの晩……遙が交通事故にあったって聞いて、私、本当に心配だった……%W%W心の底から……」%K%P
+Izumi「On that night... when I heard Haruka was in a car accident,%NI was really worried... from the bottom of my heart...」%K%P
+0x3B0
+いづみ「そう、色々あったけど、遙は私の妹なのよ……。%W%W%W%N血のつながりとか、クローンとか関係ない……%W%W%W%Nそういう問題ではないのよね……」%K%P
+Izumi「Yes, a lot happened, but Haruka is my little sister... our%Nbonds of blood and her being a clone has nothing to do%Nwith it... It's not that kind of problem...」%K%P
+0x3BC
+そう言って、いづみはふっと笑った。%K%P
+As she says that, Izumi-san suddenly smiles.%K%P
+0x3C8
+いづみ「……都合のいい考え方よね。%W%W%Wでも、%N許してもらえなくてもいいの。ただ、そのままじゃ、%N私が自分自身を許せなかったのよ……」%K%P
+Izumi「... What a convenient way of thinking. But it's fine if I'm not%Nforgiven. I just can't forgive myself as it is now...」%K%P
+0x3D4
+いつしか、いづみさんの瞳からは大粒の涙が%Nこぼれ落ちていた。%K%P
+Suddenly, large tears start falling from Izumi-san's eyes.%K%P
+0x3E0
+誠「……それ、言ってあげて下さい。遙、本人に」%K%P
+Makoto「... Why don't you talk to Haruka about that?」%K%P
+0x3EC
+いづみ「……え？」%K%P
+Izumi「... Huh?」%K%P
+0x3F8
+オレはひと言ひと言、かみしめるように、%N自分自身にも言い聞かせるように語った。%K%P
+I then slowly speak again as if I'm trying to persuade%Nmyself as well as Izumi-san.%K%P
+0x404
+誠「遙は、本当は人とのつながり……%W%W%W絆に飢えているんです。%Kだから、いづみさんのこと……%W%W許してくれると思います」%K%P
+Makoto「The truth is that Haruka longs for connections with other%Npeople... bonds, that is.%K That's why... I think she'll forgive%Nyou..」%K%P
+0x410
+いづみ「誠くん……」%K%P
+Izumi「Makoto-kun...」%K%P
+0x41C
+誠「まあ、くるみには無理に本当のことを教える必要はないと思いますけど……」%K%P
+Makoto「Well, I don't think you need to force yourself to tell Kurumi%Nthe truth, but...」%K%P
+0x428
+いづみ「……そうね。%W%Wわかった。%W%Wじゃあ、明日また来るわね？　その時に……」%K%P
+Izumi「... You're right. I understand. Then I'll come again tomorrow.%NAt that time...」%K%P
+0x434
+誠「ええ。よろしくお願いします」%K%P
+Makoto「Yes, please do so.」%K%P
+0x440
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x44C
+そして翌日、いづみさんが遙の病室を訪れたとき、%Nオレは席を外してふたりきりにしておいた。%K%P
+And so, the next day, when Izumi-san came to Haruka's%Nhospital room, I excused myself and left the two of them%Nalone.%K%P
+0x458
+だから、ふたりの間でどのような会話があったのかは知らない。%K%N
+So I don't know what kind of conversation they had.%K%N
+0x464
+後でそれとなく遙に聞いてみたが、笑って首を横に%N振るだけだった……。%K%P
+When I tried indirectly asking Haruka about it afterwards,%Nshe just shook her head and smiled...%K%P
+0x470
+ただし、ふたりに呼ばれてから病室に入ったとき、%Nうさぎのように真っ赤な目をしたふたりが抱き合っていたことだけは知っている……。%K%P
+However, when they called me back into the hospital%Nroom, they were embracing each other and their eyes%Nwere as red as a rabbit's. That alone is enough for me to%Nknow what was said...%K%P
+0x4B8
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x4C4
+それから１週間後……遂に遙の退院が許された。%K%P
+And then one week after that... Haruka is finally allowed%Nto leave the hospital.%K%P
+0x534
+いづみ「本当によかったわね。一時はどうなることかと%N思ったわ」%K%P
+Izumi「I'm really glad. For a while, I was really worried over what%Nwould happen.」%K%P
+0x540
+くるみ「ホントよ～。それにあの時、お兄ちゃんったら%N何にも言わないでくるみを自転車に乗せたんだから！どっかさらわれちゃうのかと思ったよ～。%N結構怖かったんだからね～！！」%K%P
+Kurumi「Same. Back then, Onii-chan said nothing and took off with%NKurumi on the bike! Kurumi thought she was being%Nkidnapped. She was really scared!!」%K%P
+0x54C
+日曜日、退院した遙とオレは、置きっぱなしに%Nなっていた荷物を取りに、島に戻って来た。%K%P
+On Sunday, after leaving the hospital, Haruka and I%Nreturned to the island to pick up the luggage we'd left%Nbehind.%K%P
+0x558
+ロッジで荷物をまとめ……今、こうしてルナビーチに最後の挨拶に来ている。%K%P
+We gathered our luggage at the lodge... and so, we're at%NLunabeach right now, saying our final farewells.%K%P
+0x574
+遙「心配かけて……%W%W%W本当にごめんなさい……」%K%P
+Haruka「I'm really sorry... that I worried you...」%K%P
+0x590
+いづみ「いいっていいって。無事だったんだから」%K%P
+Izumi「It's fine, it's fine. All that matters is that you're all right.」%K%P
+0x59C
+くるみ「そうそう。遙さんが大丈夫だったんだから、%N何の問題もないわよ」%K%P
+Kurumi「Right, right. You were okay, Haruka-san, so there were no%Nproblems.」%K%P
+0x5A8
+誠「ちょ、%W%W%Wちょっと待て！%W%W　オレの体の心配は？」%K%P
+Makoto「H-Hold on! You weren't worried about my body?」%K%P
+0x5B4
+そうなのだ。%Kあの日、無茶をしたオレも、%N打撲や打ち身、筋肉痛などで３日ほど通院するハメになっていたのだ。%K%P
+That's right. I pushed myself so hard on that day that I%Nended up commuting to the hospital for three days due%Nto getting my body battered, bruises, and muscle pain.%K%P
+0x5C0
+出血を除けば、遙よりも重傷だったような……。%K%P
+If you ruled out Haruka's heavy bleeding, I was in a more%Nserious state than she was...%K%P
+0x5D4
+くるみ「お兄ちゃんは大丈夫でしょ？　男の子だし……」%K%P
+Kurumi「You were fine, weren't you? You're a guy, after all...」%K%P
+0x5F0
+遙「そうそう。誠は頑丈だしね？」%K%P
+Haruka「Yes, yes. You're a sturdy one, aren't you?」%K%P
+0x5FC
+誠「くそう……遙まで……」%K%P
+Makoto「Damn it... not you too, Haruka...」%K%P
+0x634
+いづみ「あら、バスが来たみたいよ？」%K%P
+Izumi「Oh, it looks like the bus is coming.」%K%P
+0x674
+くるみ「それじゃあ、元気でね！%N絶対、また遊びに来てよ！！」%K%P
+Kurumi「Well then, take care! Be sure to come back again!!」%K%P
+0x680
+遙「うん。約束するね」%K%P
+Haruka「Yes. It's a promise.」%K%P
+0x69C
+いづみ「そうよ……ここには、あなたのお姉さんが２人も%Nいるんだから……」%K%P
+Izumi「That's right... because your two older sisters will be%Nhere...」%K%P
+0x6B0
+遙「……うん……ありがとう……」%K%P
+Haruka「... Yes... thank you...」%K%P
+0x6BC
+いづみさんは、遙をまっすぐに見つめていた。%K%Nその瞳が、潤んだ涙で揺れている。%K%N
+Izumi-san looks straight at Haruka. Her eyes are cloudy%Nwith tears.%K%N
+0x6C8
+そして……それは遙も同じだった……。%K%P
+And... Haruka is the same...%K%P
+0x6E4
+くるみ「えー？　お姉ちゃん何言ってるの？%N遙さんの方がお姉ちゃんだよ～。%Nお兄ちゃんもいるしね～」%K%P
+Kurumi「Huh? What are you talking about, Onee-chan?%NHaruka-san is the older sister here. Because she's with%NOnii-chan～」%K%P
+0x6F8
+遙「うん……そうね。くるみはいい子にしてるのよ」%K%P
+Haruka「Yes... you're right. You're a good girl, Kurumi.」%K%P
+0x70C
+くるみ「うん！」%K%P
+Kurumi「Yep!」%K%P
+0x728
+そろそろバスの発車する時間だ。%Kオレは遙の分と%Nふたり分の荷物を持ち、歩き出した。%K%P
+It's time for the bus to depart. I take my luggage as well%Nas Haruka's, and start walking.%K%P
+0x734
+誠「それじゃ、また来年！」%K%P
+Makoto「Well then, see you next year!」%K%P
+0x748
+くるみ「ばいばーい！」%K%P
+Kurumi「Bye bye!」%K%P
+0x79C
+窓の外に向かって、大きく手を振る遙……。%K%N
+Haruka is waving her hand towards outside the window...%K%N
+0x7A8
+名残惜しそうに、何度も何度も……。%K%P
+It's clear that she's going to miss them...%K%P
+0x7B4
+しかしその別れには、悲しみのようなものは見当たらなかった。%K%P
+But there's no signs that this parting is a sad one.%K%P
+0x7C0
+遙の笑顔は、春の穏やかな陽射しを浴びて、%Nすがすがしく澄み渡っている。%K%P
+Haruka's perfectly clear smile is bathed by the gentle%Nspring sunlight.%K%P
+0x7CC
+その表情の中に鮮やかに浮かび上がっていたものは、透き通った遙の心だった。%K%P
+In that expression of hers, something has vividly%Nemerged: it's clearly her heart.%K%P
+0x7D8
+遙は、今ようやく、１００年の永い眠りから%N目覚めたのかもしれない……。%K%P
+Right now, Haruka might have finally been awoken from an%Neternal sleep that lasted one hundred years...%K%P
+0x7E4
+遙「さようなら……%W%W%Wさようなら……%Nお姉ちゃん達！！%W%W%W%W　……また会おうね……」%K%P
+Haruka「Goodbye... Goodbye... my sisters!! ... We'll meet again...」%K%P
+0x7F0
+そして時の呪縛は解き放たれた。%K%Nここからは繰り返しやり直すことなどできない。%K%N
+And she is released from the curse of time.%K From now on, I%Nwon't be able to repeat and do things over.%K%N
+0x7FC
+……それでも……それでもオレの隣には、遙がいる。%K%P
+... Even so... Even so, Haruka is by my side.%K%P
+0x808
+遙の貴い微笑みがあれば、オレはどんな時だって、まっすぐに歩き続けることができるだろう。%K%P
+As long as Haruka has her precious smile, I can keep%Nwalking, no matter what time may throw at me.%K%P
+0x814
+自分の存在を見つけ出したのは……%N%T060遙だけではないのだから……。%K%P
+Because the one who discovered their own existence...%N%T060wasn't just Haruka...%K%P
+0xB00
+Izumi Cure route unlocked.
+

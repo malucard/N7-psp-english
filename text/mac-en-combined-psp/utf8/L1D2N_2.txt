@@ -1,0 +1,126 @@
+text area offset and size:
+0x400
+0x852
+0x5C
+Yuka「Well then, goodnight, Izumi-san, Kurumi-chan.」%K%P
+
+0x70
+Izumi「Goodnight. Please be careful on your way back, okay?」%K%P
+
+0x7C
+Izumi-san's gentle self returns.%K%P
+
+0x90
+Kurumi「Bye bye♪」%K%P
+
+0x9C
+Kurumi has also stopped whining, and I see no signs of%Nher being in a bad mood.%K%P
+
+0xA8
+Makoto「Well then, see you later.」%K%P
+
+0xBC
+Once everyone finishes saying their goodbyes, the two%Nsisters disappear into the shop.%K%P
+
+0xC8
+Or so I think...%K%P
+
+0xD4
+Kurumi「Oh!! Almost forgot!」%K%P
+
+0xFC
+Kurumi comes out again, throwing open the door with all%Nher might...%K%P
+
+0x144
+Kurumi「You know what? Kurumi remembered there's something%Nshe had to tell you!」%K%P
+
+0x150
+Everyone「???」%K%P
+
+0x15C
+Kurumi「Saki-san... wants to see Okkun.」%K%P
+
+0x168
+Makoto「Okkun?」%K%P
+
+0x184
+Yuka「Okkun?」%K%P
+
+0x190
+Haruka「Okkun?」%K%P
+
+0x19C
+Okuhiko「Who's Okkun?」%K%P
+
+0x1A8
+Kurumi「Okuhiko-kun.」%K%P
+
+0x1B4
+Okuhiko「... Huh?」%K%P
+
+0x1C8
+Kurumi「By the way, Kurumi has also decided to call Makoto-kun%N'Onii-chan' from now on♪」%K%P
+
+0x1D4
+Okuhiko「Onii-chan?」%K%P
+
+0x1E0
+Yuka「Onii-chan?」%K%P
+
+0x1EC
+Haruka「Onii-chan?」%K%P
+
+0x1F8
+Makoto「Onii-chan!?」%K%P
+
+0x204
+Makoto「Wh-Wh-Wh-Why do you have to call me 'Onii-chan!?」%K%P
+
+0x210
+Kurumi「Because Kurumi doesn't have an older brother.」%K%P
+
+0x21C
+Makoto「So because you don't have an older brother, you've%Njust decided to call me 'Onii-chan'?」%K%P
+
+0x230
+Kurumi「Of course!」%K%P
+
+0x244
+Kurumi「A girl who doesn't have a brother could call someone%Nwho is like a brother, 'Onii-chan'!」%K%P
+
+0x250
+Makoto「'Someone who is like a brother'? ... Me?」%K%P
+
+0x264
+Kurumi「Yeah. To Kurumi, Onii-chan is the most big brother-like%Nperson she has! Got it?」%K%P
+
+0x270
+Makoto「... Got... it.」%K%P
+
+0x27C
+Before I realize it, I'm following her lead.%K%P
+
+0x288
+For some mysterious reason, when she keeps calling me,%N"Onii-chan, Onii-chan", I really feel like an older brother.%K%P
+
+0x294
+Could this be that so-called power of suggestion that%NI've heard about?%K%P
+
+0x2A0
+Kurumi「Geez, none of this really matters!」%K%P
+
+0x2AC
+Kurumi「Anyway, now you know, Okkun.」%K%P
+
+0x2C8
+Okuhiko「... Huh? What do you mean?」%K%P
+
+0x2D4
+Kurumi「Kurumi just told you! Saki-san wants to see you, Okkun...%NThat's what Kurumi means!」%K%P
+
+0x2E0
+Okuhiko「Huh? Saki-chan... wants me!?」%K%P
+
+0x2F4
+Kurumi「That's right... she wants O-K-K-U-N♪」%K%P
+

@@ -1,0 +1,165 @@
+text area offset and size:
+0x5E0
+0xBC7
+0x54
+... After that, we talk about many things.%K%P
+
+0x60
+We're all chatting like the best of friends despite it only%Nbeing our first meeting.%K%P
+
+0x6C
+After listening to everyone's fun stories, I've slowly%Nstopped worrying about my premonitions.%K%P
+
+0x88
+Saki「... Well, isn't it about time we all went home?」%K%P
+
+0x94
+Saki brings this up as the conversation dies down.%K%P
+
+0xA0
+Saki「Izumi-san, aren't we taking up your time?」%K%P
+
+0xBC
+Izumi「But this shop will be closed tomorrow. Don't worry about%Nme, it's fine!」%K%P
+
+0xC8
+Makoto「Huh? Really?」%K%P
+
+0xD4
+Izumi「Yes. The shop is normally closed on Tuesdays, so...」%K%P
+
+0xF0
+Yuka「... Oh! If that's the case, then I've got an idea!」%K%P
+
+0xFC
+Yuka「Why don't we try going to the pool tomorrow?」%K%P
+
+0x118
+Haruka「I... want to go to the pool.」%K%P
+
+0x124
+The first one to agree is Haruka. That's a rare sight.%K%P
+
+0x140
+Saki「Sounds like a plan, Yuka.」%K%P
+
+0x14C
+Saki also seems eager.%K%P
+
+0x158
+Yuka「Makoto?」%K%P
+
+0x164
+Makoto「I don't really care, so sure.」%K%P
+
+0x170
+I don't have a reason to oppose this.%K%P
+
+0x17C
+It's only natural, but if we're going to the pool, then%Neveryone will likely be in their swimsuits.%K%P
+
+0x188
+That's an opportunity simply too tempting for a guy to%Npass up...%K%P
+
+0x194
+Yuka「What about you, Okuhiko-kun?」%K%P
+
+0x1B0
+Okuhiko「Sorry, but I'm afraid I'll have to pass. I plan on going%Ndiving tomorrow.」%K%P
+
+0x1C4
+Yuka「Diving?」%K%P
+
+0x1D0
+Okuhiko「Yeah. There seems to be a place in the shopping district%Nwhere you can rent scuba gear...」%K%P
+
+0x1EC
+Izumi「You can't, Okuhiko-kun.」%K%P
+
+0x200
+Okuhiko「Huh, why not? I've already got my license, if that's what%Nyou're worried about.」%K%P
+
+0x20C
+Izumi「That's not it. It's because there'll be high waves%Ntomorrow.」%K%P
+
+0x220
+Okuhiko「Waves?」%K%P
+
+0x22C
+Izumi「Right. There's an unseasonable tropical cyclone coming%Nin from the south, so it seems the waves will be high%Ntomorrow.」%K%P
+
+0x238
+Izumi「I heard about it from Gen-san, the fisherman, so there's%Nno doubt about it.」%K%P
+
+0x244
+Izumi「He complained that he wouldn't be able to go out to sea%Nand fish because of the storm.」%K%P
+
+0x250
+Izumi「Also, because this cyclone's migration velocity is slow,%Nit'll be like this for about a week.」%K%P
+
+0x264
+Okuhiko「What!? Are you sure!?」%K%P
+
+0x270
+Izumi-san slowly nods.%K%P
+
+0x284
+Okuhiko「Damn... I was really looking forward to this...」%K%P
+
+0x290
+Okuhiko「Well, forget about that then... Guess I'll join up with you%Nguys as well.」%K%P
+
+0x29C
+Okuhiko reluctantly agrees.%K%P
+
+0x2B8
+Yuka「Kurumi-chan, what about you?」%K%P
+
+0x2D4
+Kurumi「Kurumi will...」%K%P
+
+0x2E8
+Yuka「...?」%K%P
+
+0x2F4
+Kurumi「...」%K%P
+
+0x300
+Yuka「Hmm?」%K%P
+
+0x314
+Kurumi「... Kurumi will also go to the pool.」%K%P
+
+0x338
+Izumi「Kurumi...」%K%P
+
+0x34C
+Izumi-san looks at Kurumi.%K%P
+
+0x358
+For a split second, her eyebrows narrow.%K%P
+
+0x364
+Is it just me, or does she want to say something...?%K%P
+
+0x378
+Izumi「... Then... I'll go with you all too.」%K%P
+
+0x394
+Yuka「Glad to hear it♪ Then it's decided.」%K%P
+
+0x3A0
+Yuka's in a very good mood.%K%P
+
+0x3B4
+Yuka「Then we'll meet up here tomorrow...」%K%P
+
+0x3C0
+Yuka「As for now, I guess we'll call it a day and go back.」%K%P
+
+0x3D4
+Izumi「Right. Well then, please be careful.」%K%P
+
+0x3E0
+We say goodbye to Kurumi and Izumi-san, then leave%NLunabeach...%K%P
+

@@ -25,9 +25,9 @@ import re
 #           table starts at 0x30, every 2nd int32, count: 90 (0x5a)
 table_offset = 0x10
 table_entry_sz = 0x34
-table_entry_count = 30
-text = [0x62c, 0xf2e]
-shortcut_data_offset = 0xf30
+table_entry_count = 44
+text = [0xde4, 0x2eca]
+shortcut_data_offset = 0x2ecc
 data2_offset = 0x36c8
 data2_table_off = 0x30
 data2_table_sz = 90

@@ -1,0 +1,993 @@
+text area offset and size:
+0x2268
+0x3B46
+0xF8
+Yuka「U... Ugh...」%K%P
+
+0x104
+I-It's freezing...%K%P
+
+0x110
+Yuka「Mmmmm...」%K%P
+
+0x11C
+Yuka「...Hmm?」%K%P
+
+0x130
+Yuka「...」%K%P
+
+0x13C
+My head feels cloudy, and my eyesight is blurry...%K%P
+
+0x18C
+Before long, my vision begins to clear up... I finally reach%Nthe point where I'm able to perceive my surroundings.%K%P
+
+0x198
+The lights in the room are still on. It seems like I dozed off%Nwithout realizing it...%K%P
+
+0x1A4
+I slept on top of the covers, which is why I woke up%Nchilled to the bone.%K%P
+
+0x1B0
+I can hear the sound of the rainfall outside.%K%P
+
+0x1BC
+The downpour gets more and more intense...%K%P
+
+0x1C8
+I tilt my head to look at the clock.%K%P
+
+0x1D4
+It's past 4:30.%K%P
+
+0x1E0
+(I'll just go back to sleep...)%K%P
+
+0x1EC
+I get up and walk over to the light switch to turn off the%Nlights.%K%P
+
+0x1F8
+And then, I stop when I see the purple bottle I placed on%Nthe floor.%K%P
+
+0x204
+It's the lilac fragrance I received from Saki.%K%P
+
+0x210
+Yuka「...」%K%P
+
+0x21C
+I'll go see Saki once morning comes...%K%P
+
+0x228
+I'll meet with her one more time and talk... and then...%K%P
+
+0x234
+...And then...%K%P
+
+0x240
+...%K%P
+
+0x24C
+Because I'm half asleep, my brain cells aren't functioning%Nproperly...%K%P
+
+0x258
+Either way, it seems that today's going to be a busy day.%K%P
+
+0x264
+Yuka「...For now, I'll just sleep...」%K%P
+
+0x270
+―Click.%K%P
+
+0x284
+(I'll just get some good sleep, then think about it when I%Nwake up...)%K%P
+
+0x290
+As I tell myself this, I get back on my bed...%K%P
+
+0x2C0
+...Just as I feel myself slipping into unconsciousness...%K%P
+
+0x2F4
+A clamorous sound suddenly echoes.%K%P
+
+0x348
+I jump to my feet, and look towards the door...%K%P
+
+0x35C
+(I-Izumi-san...?)%K%P
+
+0x368
+Izumi「Kurumi's...」%K%P
+
+0x374
+Izumi「Kurumi's gone!」%K%P
+
+0x3E8
+We've all gathered in the living room, an unusual sight.%K%P
+
+0x3F4
+Saki... and Makoto are here.%K%P
+
+0x400
+Saki is standing with a grim expression...%K%P
+
+0x40C
+Makoto is sitting in a dining chair with an absent-minded%Nexpression...%K%P
+
+0x418
+I want to go talk with them, but now's not the time for that!%K%P
+
+0x424
+My utmost attention is focused on Izumi-san.%K%P
+
+0x438
+Izumi「I suddenly woke up in the middle of the night... and when I%Nlooked around...」%K%P
+
+0x454
+Saki「Kurumi-chan was gone...」%K%P
+
+0x460
+Izumi「Yes...」%K%P
+
+0x46C
+Izumi「I searched alone at first, trying all the places I could%Nthink of...」%K%P
+
+0x478
+Izumi「Inside the shop, the area around Moon Beach, all of it...」%K%P
+
+0x484
+Saki「Do you know of any other places Kurumi-chan would go?」%K%P
+
+0x490
+Saki「Or do you have any clues...?」%K%P
+
+0x49C
+Izumi-san closes her eyes and softly shakes her head.%K%P
+
+0x4B0
+Yuka「...」%K%P
+
+0x4BC
+This conversation... I've definitely had this conversation%Nbefore...%K%P
+
+0x4C8
+Yes... this is...%K%P
+
+0x4D4
+This conversation happened in the last loop, when%NKurumi-chan went missing...%K%P
+
+0x4E0
+(...!!!)%K%P
+
+0x4EC
+(If that's the case... if that's the case!)%K%P
+
+0x4F8
+My whole body starts shivering...%K%P
+
+0x560
+―A flashback dashes through my mind!%K%P
+
+0x56C
+My memories are showing me a vivid image of that%Nscene...!!%K%P
+
+0x578
+The image of Kurumi-chan sitting down... in that dim%Nshrine...!!!%K%P
+
+0x5C8
+(Wh-Why...? Why...!?)%K%P
+
+0x5D4
+(I don't... I don't understand why...)%K%P
+
+0x5E0
+A sharp pain starts running through my head.%K%P
+
+0x5EC
+Right now, I'm so confused that I can't think straight.%K%P
+
+0x5F8
+I slowly look up at the clock.%K%P
+
+0x604
+It's almost... 5:00...%K%P
+
+0x610
+Today is April 6th...%K%P
+
+0x61C
+The 6th...%K%P
+
+0x628
+5:00... on the 6th...%K%P
+
+0x63C
+"Then no matter what happens, history wouldn't change."%K%P
+
+0x648
+"Everything which occurs in the world has been%Npredetermined from the beginning."%K%P
+
+0x654
+Even though we planned to change it...%K%P
+
+0x660
+The truth is, nothing has changed...%K%P
+
+0x66C
+Aside from some very minor things, nothing... has%Nchanged...%K%P
+
+0x678
+Saki「Anyway, sitting still here won't get anything solved...」%K%P
+
+0x684
+Saki「...Why don't we all quickly split up and look for Kurumi?」%K%P
+
+0x690
+...It feels like her voice is coming from somewhere far, far%Naway.%K%P
+
+0x69C
+...%K%P
+
+0x6E8
+A sudden sound brings me back to reality.%K%P
+
+0x710
+Saki「Hold on, Makoto-kun! Where are you going!?」%K%P
+
+0x71C
+At that moment, I see... Makoto rushing out the front door!%K%P
+
+0x728
+―Wham!%K%P
+
+0x734
+In that instant, it feels like all the blood in my body has%Nbeen drained away.%K%P
+
+0x740
+It can't be...!%K%P
+
+0x74C
+It can't be, it can't be...!%K%P
+
+0x758
+My body moves faster than I can think.%K%P
+
+0x794
+Saki「...Huh!? Y-Yuka!?」%K%P
+
+0x7A8
+I rush out into the downpour, chasing after Makoto as%Nfast as I can.%K%P
+
+0x824
+I go flying through the cold, large raindrops.%K%P
+
+0x830
+I see Makoto far ahead of me, sprinting as fast as I am,%Nwith all of his might.%K%P
+
+0x83C
+The muddy ground constantly trips me up.%K%P
+
+0x848
+Even so, I don't slow down, and continue to run fiercely.%K%P
+
+0x854
+I've... I've got to stop Makoto!%K%P
+
+0x860
+I know where he's going.%K%P
+
+0x86C
+To... that shrine!%K%P
+
+0x878
+At this rate... at this rate...!%K%P
+
+0x884
+It won't just be Kurumi, but Makoto as well...!!%K%P
+
+0x890
+I bellow as loud as I can.%K%P
+
+0x89C
+Yuka「MAKOTO! MAKOTO!」%K%P
+
+0x8A8
+...%K%P
+
+0x8B4
+But Makoto doesn't turn around...%K%P
+
+0x924
+We come out to the coastline.%K%P
+
+0x930
+It feels like the rain has gotten even stronger.%K%P
+
+0x93C
+My whole body is soaked, and my arms and legs have%Ngone numb.%K%P
+
+0x948
+Soon, we'll reach the T-junction that leads to the shrine.%K%P
+
+0x954
+If I reach that shrine, then there's no doubt that history%Nwill repeat itself.%K%P
+
+0x960
+But...%K%P
+
+0x96C
+But that doesn't matter right now!%K%P
+
+0x978
+All I want to do is to stop Makoto from going to the shrine.%K%P
+
+0x984
+―The earthquake will cause the ground to shake.%K%N
+
+0x990
+―The shrine will collapse.%K%N
+
+0x99C
+―And we'll be sqaushed by the debris...%K%P
+
+0x9A8
+(I can't let that happen...! Absolutely not!!)%K%P
+
+0x9B4
+I clench my teeth to make that horrible scene go away.%K%P
+
+0x9C0
+(We'll return to the free world...!)%K%P
+
+0x9CC
+(We'll see the sunrise of the 7th together...!)%K%P
+
+0x9D8
+Yuka「―That's right, we promised each other!!!」%K%P
+
+0xA10
+I've reached the long staircase that leads up to the%Nshrine―%K%P
+
+0xA1C
+I've finally caught up to Makoto.%K%P
+
+0xA44
+Yuka「Wait!」%K%P
+
+0xA50
+I grab Makoto's arm, then slip around so that I'm in front%Nof him...%K%P
+
+0xAD4
+...I stand in front of the staircase, and spread my arms.%K%P
+
+0xAE0
+Makoto「Yuka...」%K%P
+
+0xAEC
+Yuka「Don't go!」%K%P
+
+0xAF8
+Yuka「Please... don't go!」%K%P
+
+0xB04
+Makoto「Kurumi's... Kurumi's in this shrine.」%K%P
+
+0xB10
+Makoto「So I've got... to go...」%K%P
+
+0xB1C
+Makoto「I've got... to save Kurumi...」%K%P
+
+0xB28
+I know that.%K%P
+
+0xB34
+I want to save Kurumi-chan too...%K%P
+
+0xB40
+But...!%K%P
+
+0xB4C
+Yuka「No! I absolutely can't let you... Absolutely not...」%K%P
+
+0xB58
+I understand.%K%P
+
+0xB64
+The one that Makoto is trying to save isn't just Kurumi.%K%P
+
+0xB70
+Makoto「Get out of the way, Yuka... There's no time...」%K%P
+
+0xB7C
+Just like last time, he's trying to protect me.%K%P
+
+0xB88
+Just like he swore he would under that starry sky...%K%P
+
+0xB94
+Yuka「If you go in there, things will turn out the same way%Nagain...!」%K%P
+
+0xBA0
+Yuka「Nothing will change...」%K%P
+
+0xBAC
+Yuka「We won't be able to return to the free world!」%K%P
+
+0xBB8
+Makoto「Yeah... I know...」%K%P
+
+0xBC4
+Makoto「Certainly, that much is true right now...」%K%P
+
+0xBD0
+Makoto「But...」%K%P
+
+0xBDC
+Makoto takes something out of his pocket.%K%P
+
+0xBE8
+It's his bell, the one Kurumi found at Moon Beach on the%N3rd...%K%P
+
+0xC10
+He... drops the bell... on the ground.%K%P
+
+0xC1C
+And then...%K%P
+
+0xC28
+Yuka「...Huh?」%K%P
+
+0xC50
+...With all of his strength, he stomps on it.%K%P
+
+0xC78
+...%K%P
+
+0xC84
+All that's left are shattered, small metal pieces.%K%P
+
+0xC90
+They're shining in a puddle...%K%P
+
+0xC9C
+In other words, out of his own free will...%K%P
+
+0xCA8
+...Makoto has just severed the thread of his life.%K%P
+
+0xCC0
+Makoto「...This is the end.」%K%P
+
+0xCCC
+Yuka「...Makoto...」%K%P
+
+0xCD8
+Makoto「I can't go back again...」%K%P
+
+0xCE4
+Makoto「I can't... go back to the past...」%K%P
+
+0xCF0
+Makoto「I will end... everything here...」%K%P
+
+0xD0C
+Yuka「...」%K%P
+
+0xD18
+Makoto's words wring my heart.%K%P
+
+0xD24
+I can't go back to the past...%K%P
+
+0xD30
+So... in other words...?%K%P
+
+0xD44
+Yuka「No...」%K%P
+
+0xD50
+Yuka「I don't want that!」%K%P
+
+0xD5C
+The desperation I've been able to hold back up until now%Ncomes pouring out.%K%P
+
+0xD68
+Yuka「No more... I don't... want this!」%K%P
+
+0xD74
+―This feeling definitely isn't anger.%K%P
+
+0xD80
+Yuka「I don't want to lose... another precious person!」%K%P
+
+0xD8C
+―On the other hand, it's not sadness.%K%P
+
+0xD98
+Yuka「I don't want to lose you...」%K%P
+
+0xDA4
+―Nor is it pity, misery, or compassion.%K%P
+
+0xDB0
+Yuka「You went as far... as risking your own life... trying to%Nsave... mine...」%K%P
+
+0xDBC
+―It's just my plain feelings for Makoto at the bottom%Nof my heart...%K%P
+
+0xDC8
+Yuka「Please... please...」%K%P
+
+0xDD4
+Makoto「...」%K%P
+
+0xDE0
+Without a word, he brushes past my shoulder, and walks%Npast me.%K%P
+
+0xDEC
+The time it takes for him to pass by me feels long, like it's%Nin slow motion.%K%P
+
+0xDF8
+In that slow motion moment...%K%P
+
+0xE04
+I look at his eyes as he passes by me.%K%P
+
+0xE10
+They're swelling with determination.%K%P
+
+0xE1C
+Where have I seen... eyes that resemble those before...?%K%P
+
+0xE30
+―In that instant, a certain scene that I remember is%Nreflected before my eyes.%K%P
+
+0xE3C
+A scene dyed in orange...%K%P
+
+0xE48
+It's of that boy, at that time...%K%P
+
+0xE54
+At that place...%K
+
+0x2228
+In front of the burning hotel.
+
+0x2234
+In the art room after school.
+
+0xE9C
+I was watching the flames blow up from the windows of%Nthe 3rd floor of that burning hotel.%K%P
+
+0xEA8
+That image from that dark night that looked like a%Ndepiction of hell...%K%P
+
+0xEB4
+Someone was glaring at that hotel.%K%P
+
+0xEC0
+...It was him.%K%P
+
+0xECC
+If you were to follow his glance, you could see someone%Nat the windows on the 4th floor.%K%P
+
+0xED8
+There was a person still trapped inside.%K%P
+
+0xEE4
+At that moment, the boy boldly plunged into the hellfire.%K%P
+
+0xEF0
+The one left behind in that fire...%K ... was definitely me...%K%P
+
+0xEFC
+Tears well up in my eyes.%K%P
+
+0xF08
+Gradually, the scenery before me shifts and warps...%K%P
+
+0xF94
+While my overflowing tears are pouring out...%K%P
+
+0xFA0
+I'm still at the foot of the shrine's staircase...%K%P
+
+0xFAC
+I see Makoto running up the staircase.%K%P
+
+0xFB8
+The pouring rain brings me back to my senses.%K%P
+
+0xFC4
+Yuka「Makoto!!」%K%P
+
+0xFEC
+I wipe my tears away, and chase after him.%K%P
+
+0xFF8
+I run as fast as I can up the stairs.%K%P
+
+0x1004
+The rain hits me hard, as if it's trying to stop me from%Ngoing.%K%P
+
+0x1010
+(I won't let the same history repeat itself... I'll...!)%K%P
+
+0x1074
+By the time I reach the top, Makoto is already running%Npast the shrine grounds.%K%P
+
+0x1080
+Yuka「WAIT!」%K%P
+
+0x108C
+When he hears me, Makoto stops and turns around.%K%P
+
+0x1098
+Makoto「Stay away!」%K%P
+
+0x10A4
+Makoto「Stay here...」%K%P
+
+0x10B0
+...In that instant, Makoto goes running off.%K%P
+
+0x10BC
+But I ignore Makoto and run into the shrine.%K%P
+
+0x10C8
+Makoto「Yuka!」%K%P
+
+0x10E8
+The empty art room.%K%P
+
+0x10F4
+The art room after school, before nightfall.%K%P
+
+0x1100
+I'd been squinting because of the light from the setting%Nsun coming in through the window.%K%P
+
+0x110C
+Before my eyes, someone was drawing in a sketchbook.%K%P
+
+0x1118
+...It was that boy.%K%P
+
+0x1124
+Before long, he finished his drawing, and presented it to%Nme.%K%P
+
+0x1130
+It was a drawing of two doves flying out of the window.%K%P
+
+0x113C
+And then...%K%P
+
+0x1148
+Boy「If you stay tied down, you can never be free.」%K%P
+
+0x1154
+Boy「If you want to be free, then you mustn't be afraid.」%K%P
+
+0x1160
+...He said that, and pointed outside the open window.%K%P
+
+0x11B8
+Outside were cherry blossoms in full bloom...%K%P
+
+0x11C4
+They fluttered about wondrously, concealing everything%Nin front of them...%K%P
+
+0x1268
+The light pink petals transform into transparent drops of%Nrain...%K%P
+
+0x1274
+I'm still at the foot of the shrine's staircase...%K%P
+
+0x1280
+I see Makoto running up the staircase.%K The pouring rain%Nbrings me back to my senses.%K%P
+
+0x12B4
+(N... No... )%K%P
+
+0x12C0
+(No ...I don't want this...)%K%P
+
+0x12CC
+(I ...If Makoto's going, then I should go in to make sure he%Nstays safe...!)%K%P
+
+0x1300
+(――!?)%K%P
+
+0x130C
+Suddenly, in the darkness, I see a radiance as bright as%Nthe sun!%K%P
+
+0x1318
+I'm not thinking of myself, but being considerate of%NMakoto first!!%K%P
+
+0x1324
+In other words, this is...!!%K%P
+
+0x1330
+Yuka「Makoto...!!」%K%P
+
+0x133C
+I run up to Makoto, and grab him by the arm, pulling him%Ntowards me.%K%P
+
+0x1348
+Makoto「...Wha-!? C-Cut it out and get back!」%K%P
+
+0x13BC
+Yuka「I love you...」%K%P
+
+0x13C8
+Makoto「!?」%K%P
+
+0x13D4
+Yuka「I've loved you... all this time...」%K%P
+
+0x13E0
+Yuka「It's true that I went to this shrine because I couldn't%Nforget that boy. But...」%K%P
+
+0x13EC
+Yuka「But I realized it was wrong... That feeling was wrong...」%K%P
+
+0x13F8
+Yuka「Makoto, I love you...」%K%P
+
+0x1404
+Makoto「...Y- Yu―」%K%P
+
+0x142C
+―And then I thrust Makoto away!%K%P
+
+0x1438
+Makoto falls behind me, dancing in the air briefly before%Nhitting the ground with a thud.%K%P
+
+0x1444
+Yuka「From the beginning, from that moment where everything%Nbegan, I've loved you!!」%K%P
+
+0x146C
+...%K%P
+
+0x1478
+The pelting rain beats mercilessly from the sky...%K%P
+
+0x1484
+While sitting on the ground, Makoto stares up, looking%Ndumbfounded.%K%P
+
+0x1490
+Yuka「...」%K%P
+
+0x149C
+I've told him my feelings...%K%P
+
+0x14A8
+This is enough...%K%P
+
+0x1518
+I bite down on my lips hard, then turn around and start%Nrunning up the staircase.%K%P
+
+0x1524
+The one to save Kurumi-chan won't be Makoto, but me!%K%P
+
+0x1530
+Right now, the one that this weak person known as "me"%Nwants to protect the most... is...%K%P
+
+0x153C
+(It's not myself....it's Makoto!!)%K%P
+
+0x1548
+I order myself to keep kicking off the stone steps.%K%P
+
+0x1554
+Makoto「YUKAAAAAAA!!!!」%K%P
+
+0x1560
+Makoto is chasing after me...!%K%P
+
+0x156C
+Yuka「Stay away...」%K%P
+
+0x1578
+Yuka「Please... stay away!」%K%P
+
+0x1594
+Yuka「STAY AWAAAY!!!!」%K%P
+
+0x15A0
+My bitter scream breaks through the roar of the rain and%Nechoes loudly...%K%P
+
+0x15D8
+With all my strength, I run up the staircase, and step onto%Nthe shrine's grounds.%K%P
+
+0x15E4
+And then, without stopping, I run into the shrine with the%Nspeed of a hurricane.%K%P
+
+0x1668
+(―What!?)%K%P
+
+0x1674
+The shrine is completely empty...%K%P
+
+0x1680
+(...No way! Kurumi-chan should've been here!!)%K%P
+
+0x168C
+I look around in confusion.%K%P
+
+0x1698
+(―!?)%K%P
+
+0x16A4
+I can feel a faint draft of wind...%K%P
+
+0x16B0
+...Could it be!?%K%P
+
+0x16BC
+I move aside the small altar at the front wall, and pass%Nthrough the hole.%K%P
+
+0x16C8
+Makoto「Hey! Yuka!」%K%P
+
+0x16D4
+I can hear Makoto behind me.%K%P
+
+0x16E0
+(This is bad! I've got to hurry!!)%K%P
+
+0x16EC
+I go out to the backside of the shrine as fast as I%Ncan―!%K%P
+
+0x1700
+However...%K%P
+
+0x170C
+(Wh-Why!? What... is this??)%K%P
+
+0x1718
+Makoto comes out from the hole in the wall.%K%P
+
+0x1724
+And then, he surveys the area, then looks at me.%K%P
+
+0x1730
+Kurumi's not here either...%K%P
+
+0x173C
+Makoto is looking at me with curious eyes...%K%P
+
+0x1748
+Mine are probably the same...%K%P
+
+0x1798
+...Before long, the earth begins to violently shake.%K%P
+
+0x17A4
+Our time limit's up――.%K%P
+
+0x17B0
+Those words flash through my mind.%K%P
+
+0x17BC
+I put my hand into my pocket, looking for the bell...%K%P
+
+0x17C8
+...Wait, "bell"?%K%P
+
+0x17D4
+...Makoto!?%K%P
+
+0x17E0
+Makoto's here, but he has no bell!!!%K%P
+
+0x17EC
+The tremors increase in intensity.%K%P
+
+0x1814
+Overhead, small splinters are falling, the wooden%Nstructure collasping.%K%P
+
+0x1820
+I look behind me, and see Makoto staring at this with wide%Neyes.%K%P
+
+0x1874
+(――――!!!)%K%P
+
+0x1880
+Althogh I can't think anymore, there's still one thought in%Nmy head...%K%P
+
+0x188C
+Just one single firm thought!%K%P
+
+0x18B8
+I wish...%K%P
+
+0x18CC
+I wish...%K
+
+0x2240
+For us to be together forever...!
+
+0x224C
+For a miracle to happen once more...!
+
+0x190C
+"We'll be together forever...!"%K%P
+
+0x1918
+I take out the bell, and grasp it tightly.%K%P
+
+0x1948
+Yuka「I'll go with you too...」%K%P
+
+0x1954
+Makoto「!?」%K%P
+
+0x1960
+...And just like that...%K%P
+
+0x196C
+...I...%K%P
+
+0x1978
+...throw the bell...%K%P
+
+0x1984
+...into the sea...%K%P
+
+0x19F4
+At the same time, I hear the sound of the shrine%Ncrumbling...%K%P
+
+0x1A00
+With this...%K%P
+
+0x1A0C
+Everything is over...%K%P
+
+0x1A18
+―At that time, Makoto fiercely lunges forward!%K%P
+
+0x1A34
+He grabs me, pushes down on the ground and jumps...%K%P
+
+0x1A40
+...With that force, we flutter around up in mid-air.%K%P
+
+0x1A4C
+Makoto and I embrace each other as we fall down%Ntowards the black sea...%K%P
+
+0x1A90
+...I see a shooting star.%K%P
+
+0x1A9C
+That star of hope makes a clear sound...%K%P
+
+0x1AC4
+And finally, I lose consciousness―.%K%P
+
+0x1B40
+...%K%P
+
+0x1B4C
+...%K%P
+
+0x1B58
+―I'm in a black space.%K%P
+
+0x1B64
+―There, I find a fragment of my memories.%K%P
+
+0x1B70
+―A memory of that far off day, when I looked at that%Nclear sky and heard the story about the twins...%K%P
+
+0x1B7C
+"The two of them were so close that they were always%Ntogether, no matter what time."%K%P
+
+0x1B88
+"So likewise... They wanted to die at the same time..."%K%P
+
+0x1B94
+"And so Pollux made a request to Zeus."%K%P
+

@@ -1,0 +1,762 @@
+text area offset and size:
+0x1300
+0x3292
+0x64
+Once they've finished laughing, Kurumi repeats her first%Nquestion.%K%P
+
+0x78
+Kurumi「So, what are you doing, Onii-chan?」%K%P
+
+0x84
+Makoto「No, we're not 'doing' anything, we were only thinking%Nabout where to start.」%K%P
+
+0x90
+Kurumi「Start what?」%K%P
+
+0x9C
+Makoto「Playing cards.」%K%P
+
+0xB0
+Kurumi「Huh, cards? Then Kurumi will join in～♪」%K%P
+
+0xBC
+Makoto「All right, then that makes three of us.」%K%P
+
+0xC8
+Kurumi「Yes♪」%K%P
+
+0xE4
+Izumi「Very well, then let's get started♪」%K%P
+
+0xF0
+Makoto「Well then, what shall we play?」%K%P
+
+0x104
+Kurumi「Let's see... let's see...」%K%P
+
+0x118
+Kurumi「... Ah, got it!」%K%P
+
+0x124
+Kurumi「How about Mental Guts!?」%K%P
+
+0x138
+Izumi「... Huh?」%K%P
+
+0x144
+Makoto「... What?」%K%P
+
+0x158
+Kurumi「What!? You don't know Mental Guts!?」%K%P
+
+0x16C
+Izumi「I've never heard of it!」%K%P
+
+0x180
+Kurumi「What about you, Onii-chan?」%K%P
+
+0x18C
+Makoto「Nope... never heard of it.」%K%P
+
+0x1A0
+Kurumi「You're kidding, right!?」%K%P
+
+0x1B4
+Izumi「Then how about we try a staple game?」%K%P
+
+0x1C0
+Makoto「A staple game? ... Wait, do you mean...」%K%P
+
+0x1D4
+Izumi「Right! It's Super Memory!」%K%P
+
+0x1E8
+Kurumi「... Huh?」%K%P
+
+0x1F4
+Makoto「... C-Come again?」%K%P
+
+0x200
+Izumi「Well? Shall we play it? Shall we play it?」%K%P
+
+0x20C
+Kurumi「...」%K%P
+
+0x218
+Makoto「...」%K%P
+
+0x22C
+Izumi「Huh? What's wrong?」%K%P
+
+0x238
+Kurumi and I exchange glances.%K%P
+
+0x24C
+Izumi「Oh! Are you bad at Super Memory?」%K%P
+
+0x258
+Makoto「N-No... whether we're good or bad at it isn't the problem...」%K%P
+
+0x264
+Kurumi「Kurumi's never heard of it before. She's never played it,%Nso she doesn't know it.」%K%P
+
+0x278
+Izumi「What!? Are you kidding me!?」%K%P
+
+0x284
+Makoto「Sorry, Izumi-san. Truth is, I've never heard of it either.」%K%P
+
+0x298
+Izumi「Are you serious!?」%K%P
+
+0x2A4
+I nod to the wide-eyed Izumi-san.%K%P
+
+0x2B0
+Izumi「That's strange... I thought you'd definitely know it...」%K%P
+
+0x2BC
+Izumi「... Well, that's fine.」%K%P
+
+0x2C8
+Izumi「The rules are simple, so I'll just explain them.」%K%P
+
+0x2DC
+Izumi-san says this, takes the cards, and begins%Nshuffling them with skillful handling.%K%P
+
+0x2E8
+Izumi「All right? First, you have to shuffle the cards really%Ngood...」%K%P
+
+0x2F4
+Izumi「... Then you spread the cards on the table like this.」%K%P
+
+0x300
+Izumi-san then spreads the cards out randomly, like you%Ndo when you play "Concentration".%K%P
+
+0x30C
+Izumi「Then we do Rock-Paper-Scissors, and you turn over%Ncards starting with the loser.」%K%P
+
+0x318
+Izumi「Like this... You turn over one card and then one more...」%K%P
+
+0x324
+Izumi「And if the cards are the same number, then the person%Nthat turned them over gets them.」%K%P
+
+0x338
+Izumi「So? It's easy, huh?」%K%P
+
+0x354
+Makoto「...」%K%P
+
+0x360
+Kurumi「...」%K%P
+
+0x36C
+Izumi「...」%K%P
+
+0x378
+Makoto「That's 'Concentration'!!」%K%P
+
+0x38C
+Izumi「Concentration???」%K%P
+
+0x3C4
+Kurumi「You're wrong! It's called Mental Guts!」%K%P
+
+0x3D0
+Makoto「Huh?」%K%P
+
+0x3E4
+Izumi「Geez, Makoto-kun, Kurumi, don't give it such terrible%Nnames.」%K%P
+
+0x3F0
+Izumi「This is definitely called Super Memory.」%K%P
+
+0x404
+Kurumi「What!? That name is weird, Onee-chan!」%K%P
+
+0x418
+Izumi「Isn't your name weirder, Kurumi?」%K%P
+
+0x424
+Kurumi「No, it's yours, Onee-chan!」%K%P
+
+0x430
+Izumi「It's yours!」%K%P
+
+0x43C
+Kurumi「It's yours!」%K%P
+
+0x448
+Izumi「Yours!」%K%P
+
+0x454
+Kurumi「Yours!」%K%P
+
+0x460
+Izumi「Yours!」%K%P
+
+0x46C
+Kurumi「Yours!!」%K%P
+
+0x478
+Izumi「Yours!!」%K%P
+
+0x494
+Makoto「ENOOOOOOOOOOOUUUUUGH!!!」%K%P
+
+0x4A8
+Kurumi「...」%K%P
+
+0x4B4
+Izumi「...」%K%P
+
+0x4C0
+Makoto「Why don't we just call it...」%K%P
+
+0x4CC
+Makoto「... Mental Concemory...?」%K%P
+
+0x4E0
+Kurumi「Mental...」%K%P
+
+0x4F4
+Izumi「... Concemory???」%K%P
+
+0x560
+And so, Izumi-san, Kurumi, and I begin to play "Mental%NConcemory".%K%P
+
+0x574
+Kurumi「Well then, let's go!」%K%P
+
+0x580
+Kurumi「Flippy...」%K%P
+
+0x58C
+Kurumi「Flippy flip...」%K%P
+
+0x598
+Kurumi flips over the "3 of Diamonds" and the "King of%NSpades".%K%P
+
+0x5AC
+Kurumi「Ah, so close!」%K%P
+
+0x5C0
+How was that remotely close...?%K%P
+
+0x5D4
+Izumi「Well then, I'm next.」%K%P
+
+0x5E0
+Izumi「Memmy...」%K%P
+
+0x5EC
+Izumi「Memmy memory...」%K%P
+
+0x5F8
+With a doubtful voice, she flips over her cards: the "Ace%Nof Hearts" and the "King of Hearts".%K%P
+
+0x604
+Makoto「Oh, looks I got lucky!」%K%P
+
+0x618
+Izumi「Ah～, I failed...」%K%P
+
+0x62C
+While giving a sidelong glance at the disappointed%NIzumi-san, I take the "King of Hearts" she flipped as well%Nas the "King of Spades" that Kurumi had flipped.%K%P
+
+0x638
+Makoto「Well then...」%K%P
+
+0x644
+I reach out for the next card.%K%P
+
+0x650
+―Flip.%K%P
+
+0x65C
+This time, it's the "Ace of Spades".%K%P
+
+0x668
+Makoto「I got lucky again!」%K%P
+
+0x674
+I then flip over and take the "Ace of Hearts" that%NIzumi-san had flipped over on her turn. This makes two%Npairs for me.%K%P
+
+0x680
+Izumi「Not bad, Makoto-kun.」%K%P
+
+0x68C
+With an embarrassed smile, I reach for the next card...%K%P
+
+0x698
+―Flip.%K%N
+
+0x6A4
+It's the "10 of Clubs".%K%P
+
+0x6B0
+I don't think anyone flipped another "10" earlier, so...%K%P
+
+0x6BC
+―Flip.%K%P
+
+0x6C8
+Kurumi「Ah! Amazing, Onii-chan!」%K%P
+
+0x6D4
+Luckily, the card that I flipped is the "10 of Spades".%K%P
+
+0x6E0
+Makoto「Woohoo!」%K%P
+
+0x6EC
+I pump my fist, and reach for another card.%K%P
+
+0x6F8
+―Flip.%K%N
+
+0x704
+"6 of Hearts".%K%N
+
+0x710
+"6 of Diamonds".%K%P
+
+0x71C
+Makoto「Whoa, are you serious...?」%K%P
+
+0x728
+"2 of Diamonds".%K%N
+
+0x734
+"2 of Hearts".%K%P
+
+0x740
+Makoto「... D-Damn, yet again?」%K%P
+
+0x74C
+"4 of Clubs".%K%N
+
+0x758
+"4 of Hearts".%K%P
+
+0x764
+Makoto「... Ha ha ha-」%K%P
+
+0x770
+"King of Diamonds".%K%N
+
+0x77C
+"King of Clubs".%K%P
+
+0x798
+Makoto「... What?」%K%P
+
+0x7A4
+"9 of Spades".%K%N
+
+0x7B0
+"9 of Hearts".%K%P
+
+0x7BC
+Makoto「...」%K%P
+
+0x7C8
+"Jack of Spades".%K%N
+
+0x7D4
+"Jack of Diamonds".%K%P
+
+0x7E0
+Makoto「...」%K%P
+
+0x7EC
+Kurumi「...」%K%P
+
+0x7F8
+Izumi「...」%K%P
+
+0x804
+―Flip.%K%P
+
+0x810
+In this silence, the only sound is me flipping the plastic%Ncards.%K%P
+
+0x81C
+The card is the "7 of Hearts".%K%P
+
+0x828
+I slowly reach for the next card.%K%P
+
+0x834
+Before I know it, my fingertips are trembling like crazy.%K%P
+
+0x840
+―Flip.%K%N
+
+0x84C
+It's the...%K%N
+
+0x858
+... "7 of Clubs".%K%P
+
+0x880
+Izumi「H... How...?」%K%P
+
+0x88C
+Makoto「N-No... it's got... to be a coincidence...」%K%P
+
+0x898
+Izumi「A coincidence...」%K%P
+
+0x8A4
+As if trying to prove that, I flip two random cards.%K%P
+
+0x8B0
+The "8 of Clubs" and the "8 of Diamonds".%K%P
+
+0x8BC
+Makoto「No way...」%K%P
+
+0x8C8
+Shivers run up my spine.%K%P
+
+0x8D4
+The reality before me that I don't want to accept is%Nmaking me only feel uneasy.%K%P
+
+0x8E0
+Makoto「This... can't be...」%K%P
+
+0x8EC
+As I mutter this, I flip more cards.%K%P
+
+0x8F8
+The "Queen of Spades" and the "Queen of Clubs".%K%N
+
+0x904
+The "4 of Diamonds" and the "4 of Spades".%K%N
+
+0x910
+The "5 of Diamonds" and the "5 of Clubs".%K%P
+
+0x91C
+As if something's driving me onwards, I continue%Ncontinuing to flip card after card...%K%P
+
+0x964
+... ... ...%K%P
+
+0x9A0
+Makoto「It has to be... a coincidence...」%K%P
+
+0x9AC
+The three of us blankly stare at the table.%K%P
+
+0x9B8
+There lie all 52 cards, scattered about... and flipped%Nover.%K%P
+
+0x9CC
+Izumi「A... coincidence, you say?」%K%P
+
+0x9D8
+Kurumi「That's right! This is something that only happens once or%Ntwice in a lifetime!」%K%P
+
+0x9E4
+Izumi「It's impossible...」%K%P
+
+0x9F0
+Izumi「It's absolutely impossible for this to be a coincidence...」%K%P
+
+0x9FC
+There's no traces of a smile on Izumi-san's face.%K%P
+
+0xA08
+A restless atmosphere... the tension is so great right%Nnow that it feels like it could crush me.%K%P
+
+0xA38
+Izumi「All right?」%K%P
+
+0xA44
+Izumi「Let's say, for argument's sake, even if the first cards%NKurumi and I picked weren't an 'Ace', '3', and 'King'...」%K%P
+
+0xA50
+Izumi「Then there'd still be 46 cards left.」%K%P
+
+0xA5C
+Izumi「And there's absolutely no way that Makoto-kun should%Nhave known the positioning of those 46 cards, right?」%K%P
+
+0xA68
+"Absolutely no way..."%K%P
+
+0xA74
+Those words feel heavy on my heart.%K%P
+
+0xA80
+Izumi「If that's the case, then the probability of something like%Nwhat happened just now occurring...」%K%P
+
+0xA8C
+Izumi「Would be approximately 2.327165 x 10^-24...」%K%P
+
+0xAA0
+Kurumi「Negative... twenty fourth power?」%K%P
+
+0xAAC
+Izumi「In short, if I were to put it in clearer terms...」%K%P
+
+0xAB8
+Izumi「For example, even if one hundred million people were to%Nplay this game ten thousand times in one day...」%K%P
+
+0xAC4
+Izumi「The odds of what happened just now occurring would be%Nonce in 1,370,000,000 years... That's what it means.」%K%P
+
+0xAD0
+Kurumi「...」%K%P
+
+0xADC
+Makoto「...」%K%P
+
+0xAE8
+Izumi「Even so... you call this a coincidence?」%K%P
+
+0xAF4
+I'm unable to give any sort of retort.%K%P
+
+0xB00
+What did I do just now...?%K%P
+
+0xB0C
+What does the reality that appeared before my eyes%Nmean...?%K%P
+
+0xB18
+Unable to process this, my brain falls into massive%Nconfusion.%K%P
+
+0xB3C
+Kurumi「Hmm...」%K%P
+
+0xB48
+Kurumi「Well, yeah, it is a coincidence.」%K%P
+
+0xB5C
+Izumi「What?」%K%P
+
+0xB8C
+Kurumi「Kurumi doesn't think this is something you should be%Nthinking so deeply about...」%K%P
+
+0xB98
+Kurumi「Because what actually happened is what happened,%Nright?」%K%P
+
+0xBA4
+Kurumi「That's all that needs to be said.」%K%P
+
+0xBB8
+Izumi「Kurumi? Weren't you just listening to what I said?」%K%P
+
+0xBCC
+Kurumi「Yep, Kurumi heard the whole thing.」%K%P
+
+0xBE0
+Izumi「Then-」%K%P
+
+0xBF4
+Kurumi「But you know what?」%K%P
+
+0xC00
+Kurumi「You said it yourself, didn't you? ... You said that it would%Nhappen once in every 1,370,000,000 years.」%K%P
+
+0xC0C
+Kurumi「Which means that just now might have been that 'once'!」%K%P
+
+0xC20
+Izumi「You're wrong, that's not what I meant, Kurumi...」%K%P
+
+0xC2C
+Izumi「That was merely a simplified explanation.」%K%P
+
+0xC38
+Izumi「I said it earlier too, but the actual probability is almost%Nclose to zero.」%K%P
+
+0xC44
+Kurumi「But it's not zero, right?」%K%P
+
+0xC50
+Kurumi「'Almost close to zero' isn't actually zero, is it?」%K%P
+
+0xC5C
+Izumi「That's certainly true, but...」%K%P
+
+0xC68
+Kurumi「If that's true, then even if something like what happened%Njust now occurs, it wouldn't be strange.」%K%P
+
+0xC74
+Kurumi「It's just nothing but a really, really unexpected%Ncoincidence...」%K%P
+
+0xC80
+Izumi「...」%K%P
+
+0xC94
+Kurumi「Huh? ... That face... It seems this still isn't reasonable%Nenough for you.」%K%P
+
+0xCA8
+Izumi「Of course it's not... If you think about it sensibly, it's only%Nnatural to be doubtful.」%K%P
+
+0xCBC
+Kurumi「Doubtful? Doubtful about what?」%K%P
+
+0xCD0
+Izumi「Th-That's...」%K%P
+
+0xCDC
+When she says that, she cuts herself short.%K%P
+
+0xCE8
+Her eyes wander around restlessly.%K%P
+
+0xCFC
+Kurumi「Well, this isn't really important...」%K%P
+
+0xD08
+Kurumi「Anyway, as Kurumi said earlier, what's already happened%Nhas happened, so it can't be helped!」%K%P
+
+0xD1C
+Izumi「...」%K%P
+
+0xD30
+Kurumi「Besides, the 'probability' you mentioned really only%Nmattered before the game started.」%K%P
+
+0xD3C
+Izumi「?」%K%P
+
+0xD48
+Kurumi「If you were to ask 'What is the probability of something%Nlike what happened just now occurring?' before the%Ngame started...」%K%P
+
+0xD54
+Kurumi「Then obviously, the answer would be 2.32... um, what was%Nit again?」%K%P
+
+0xD60
+Izumi「2.327165 x 10^-24.」%K%P
+
+0xD6C
+Kurumi「... So it might become that probability.」%K%P
+
+0xD78
+Kurumi「But it's actually not like that.」%K%P
+
+0xD84
+Izumi「Huh...?!」%K%P
+
+0xD90
+Kurumi「The question now is 'What is the probability that what%Nhappened just now actually happened?'.」%K%P
+
+0xD9C
+Kurumi「We did it once and that happened once as a result, so...%Nthat means it's a fact that 'it happened 100％ of the time',%Nright?」%K%P
+
+0xDA8
+Izumi「???」%K%P
+
+0xDBC
+Kurumi「Geez～, you don't get it?」%K%P
+
+0xDC8
+Kurumi「In short, what Kurumi wants to say is...」%K%P
+
+0xDD4
+Kurumi「This is the same thing as 'Schr▼dinger's cat'!」%K%P
+
+0xDE0
+Schr▼dinger's... cat???%K%P
+
+0xDF4
+Kurumi「Kurumi isn't that well-informed about it...」%K%P
+
+0xE00
+Kurumi「But it was in that manga, 'Vain Island'.」%K%P
+
+0xE0C
+Kurumi「Kurumi just read a little of it...」%K%P
+
+0xE18
+Vain... Island???%K%P
+
+0xE24
+Kurumi「But of course, you know about it already, right,%NOnee-chan?」%K%P
+
+0xE30
+Izumi「That's... of course I know it...」%K%P
+
+0xE3C
+Kurumi「It's something like...」%K%P
+
+0xE48
+Kurumi「'There's a cat put inside a box, and until the lid on that%Nbox is opened, it's unknown whether the cat is dead or%Nalive.'」%K%P
+
+0xE54
+Izumi「That's a little different from the whole thing, but... Well,%Nthat's how it is if you put it simply...」%K%P
+
+0xE60
+Kurumi「Which means... that's right...」%K%P
+
+0xE6C
+Kurumi「For example, if we assume that the probability of a%Npoison gas generator inside the box functioning is 50％...」%K%P
+
+0xE78
+Kurumi「Then before you open the lid, there's a 50％ chance that%Nthe kitty in the box is dead, and a 50％ chance that the%Nkitty in the box is alive.」%K%P
+
+0xE84
+Kurumi「But when you open up the lid, it's certain that inside is%Neither a 100％ alive kitty, or a 100％ dead kitty...」%K%P
+
+0xE90
+Kurumi「It's absolutely impossible for the kitty to be in the other%Nstate.」%K%P
+
+0xE9C
+Kurumi「In other words, from the time before the lid is opened,%Nyou can definitely say that the chance that the kitty is%Nalive is either 100％ or 0％...」%K%P
+
+0xEA8
+Kurumi「Well then, if you are to explain what the 50％ means... It%Nwas the value of the 'prediction', right?」%K%P
+
+0xEB4
+Kurumi「So what Kurumi thinks is...」%K%P
+
+0xEC0
+Kurumi「Isn't it true that one shouldn't actually consider%N'prediction' and 'reality' in the same way?」%K%P
+
+0xECC
+Kurumi「In the end, probability is something that only applies%Nbefore something happens, right?」%K%P
+
+0xED8
+Kurumi「After it's happened, all that remains is one 'reality',%Ncorrect?」%K%P
+
+0xEE4
+Kurumi「Even if that probability is really, really low...」%K%P
+
+0xEF0
+Kurumi「'When the lid was opened, the kitty was alive.'」%K%P
+
+0xEFC
+Kurumi「'When we played the game, Onii-chan was able to get all%Nof the cards right.'」%K%P
+
+0xF08
+Kurumi「That's the only reality, isn't it?」%K%P
+
+0xF14
+Kurumi「Hmm... Kurumi couldn't put that into good words... but in%Nshort, it's like that!」%K%P
+
+0xF28
+Kurumi「Do you get it?」%K%P
+
+0xF34
+Izumi-san doesn't answer Kurumi's question, and seems%Nto be thinking about something.%K%P
+
+0xF40
+I can't even guess what it could be.%K%P
+
+0xF54
+What Kurumi just said... To be honest, I don't really get it.%K%P
+
+0xF60
+In the first place, just what the hell is "Schr▼dinger's%Ncat"?%K%P
+
+0xF6C
+Thinking about it does me no good, and so time slowly,%Nslowly passes by...%K%P
+
+0xFB4
+... ... ...%K%P
+

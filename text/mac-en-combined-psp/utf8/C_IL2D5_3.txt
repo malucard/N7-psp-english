@@ -1,0 +1,642 @@
+text area offset and size:
+0x1248
+0x291C
+0x64
+Izumi「It's not 'Good morning'. What time do you think it is?」%K%P
+
+0x78
+Kurumi「Umm... a little past eleven?」%K%P
+
+0x8C
+Izumi「Do you realize how long you've been sleeping for?」%K%P
+
+0xA0
+Kurumi「But it's important to Kurumi's growth♪」%K%P
+
+0xB4
+Izumi「Wake up! It's 'growth', not 'gross'!」%K%P
+
+0xC8
+Kurumi「That's what Kurumi said.」%K%P
+
+0xDC
+Izumi「No, it wasn't.」%K%P
+
+0xF0
+Kurumi「Yes it was! It was growth.」%K%P
+
+0x104
+Izumi「What, really?」%K%P
+
+0x118
+Kurumi「Yeah...」%K%P
+
+0x12C
+Izumi「Huh～... that's strange...」%K%P
+
+0x140
+Kurumi「Well, whatever, it doesn't matter♪」%K%P
+
+0x14C
+Izumi「...」%K%P
+
+0x158
+Kurumi「More importantly, what were you doing just now,%NOnii-chan?」%K%P
+
+0x164
+Makoto「Nothing really. We were just talking...」%K%P
+
+0x178
+Kurumi「What? But you were just pulling each other's cheeks.」%K%P
+
+0x184
+Kurumi「Were you playing Bulldog Rock-Paper-Scissors?」%K%P
+
+0x190
+Makoto「Well, something like that.」%K%P
+
+0x1A4
+Kurumi「Then can Kurumi join in too?」%K%P
+
+0x1B0
+Makoto「What? But we've already finished...」%K%P
+
+0x1C4
+Kurumi「Huh? That's boring...」%K%P
+
+0x1D0
+Makoto「...」%K%P
+
+0x1E4
+Kurumi「Ah! If that's the case...」%K%P
+
+0x1F0
+Kurumi「... Let's play cards♪」%K%P
+
+0x214
+―C-Cards!?%K%P
+
+0x220
+The instant I hear that, a shudder runs through me.%K%P
+
+0x22C
+I gulp, and look towards Izumi-san.%K%P
+
+0x238
+Izumi-san's face has also gone pale.%K%P
+
+0x24C
+Kurumi「We'll play cards... and the loser has to play a punishment%Ngame where they get their cheeks pulled♪」%K%P
+
+0x258
+Kurumi「Well? Shall we do it, shall we do it?」%K%P
+
+0x264
+Makoto「No... I'll pass... on cards.」%K%P
+
+0x278
+Kurumi「Why not? C'mon, c'mon, let's play Mental Guts♪」%K%P
+
+0x2B0
+Izumi「Makoto-kun, you weren't 'remembering' the numbers of%Nthe cards there.」%K%P
+
+0x2BC
+Izumi「Instead... you were just 'creating' the numbers on those%Ncards.」%K%P
+
+0x2EC
+I remember the words Izumi-san said on the night of the%N3rd.%K%P
+
+0x2F8
+(There's... no way that's possible...)%K%P
+
+0x304
+Although I think this, my courage is completely shot.%K%P
+
+0x310
+(If...)%K%P
+
+0x31C
+(If by chance, the same phenomenon occurs...)%K%P
+
+0x328
+(If I get all 26 pairs correct...)%K%P
+
+0x334
+I don't want to have thoughts like I did back then ever%Nagain.%K%P
+
+0x340
+"I definitely don't want to play cards". This firm thought%Nrepeats in my head over and over again.%K%P
+
+0x354
+Kurumi「Well then, wait a minute. Kurumi will go get the cards now.」%K%P
+
+0x360
+Makoto「H-Hey! Wait, Kurumi!」%K%P
+
+0x374
+Not hearing me, Kurumi heads for the counter.%K%P
+
+0x380
+I frantically chase after her.%K%P
+
+0x3B8
+Shift... shift... shift... shift...%K%P
+
+0x3C4
+Kurumi「Huh? That's strange...」%K%P
+
+0x3D0
+Kurumi「Kurumi thought the cards the customer forgot%Nyesterday were here...」%K%P
+
+0x3E4
+Kurumi「Hey, Onee-chan, do you know where the cards that were%Nhere went?」%K%P
+
+0x400
+Izumi-san silently shakes her head.%K%P
+
+0x414
+Kurumi「Hmm... maybe someone took them...」%K%P
+
+0x420
+Makoto「...」%K%P
+
+0x42C
+Izumi「...」%K%P
+
+0x440
+Kurumi gets engrossed with searching the vicinity of the%Ncounter.%K%P
+
+0x44C
+While she's doing that, Izumi-san and I exchange glances.%K%P
+
+0x458
+Izumi-san's expression has gone stiff.%K%P
+
+0x464
+She seems to be trying to tell me something with her%Neyes.%K%P
+
+0x470
+But I'm unable to understand what that is.%K%P
+
+0x484
+Soon enough...%K%P
+
+0x490
+Kurumi「―Ah!」%K%P
+
+0x49C
+Kurumi shouts out.%K%P
+
+0x4A8
+I start speaking on reflex.%K%P
+
+0x4B4
+Makoto「Sorry, Kurumi!」%K%P
+
+0x4C0
+Makoto「I just remembered that there's something I need to take%Ncare of!」%K%P
+
+0x4CC
+I rush out of the shop without hearing Kurumi's reply.%K%P
+
+0x544
+It's good and all that I got out of the shop, but I have no%Nclue what to do next.%K%P
+
+0x550
+Without a destination, I begin walking west on the%Ncoastline road.%K%P
+
+0x5A8
+... ... ...%K%P
+
+0x5FC
+After walking for a little while, I can hear voices behind%Nthe curve.%K%P
+
+0x608
+Saki「W-Wait a minute!」%K%P
+
+0x614
+Saki「... Where are we going?!!」%K%P
+
+0x620
+Okuhiko「It's fine, you'll understand if you come with me!」%K%P
+
+0x62C
+I peek around the curve.%K%P
+
+0x640
+Saki and Okuhiko are standing with their backs turned%Ntowards me.%K%P
+
+0x64C
+In Okuhiko's left hand is a scrap of paper...%K%P
+
+0x658
+He's holding Saki's wrist with his right hand.%K%P
+
+0x664
+In the instant I try to call out to them with a "Hey"...%K%P
+
+0x688
+Saki「Kyaa!」%K%P
+
+0x69C
+... Okuhiko forcefully grabs Saki's wrist, and disappears%Ninto a thicket.%K%P
+
+0x6A8
+(Geez, what's Okuhiko scheming up this time...?)%K%P
+
+0x6B4
+I start running up to the spot where the two disappeared.%K%P
+
+0x6C0
+...%K%P
+
+0x6CC
+In the thick, overgrown woods, there's a thin path that is%Nbarely wide enough for a person to pass through.%K%P
+
+0x6D8
+I can't see Okuhiko or Saki anymore.%K%P
+
+0x700
+I can hear only the sound of movement in the grass from%Nfar away.%K%P
+
+0x744
+I step into the thicket, chasing after those two.%K%P
+
+0x750
+(... Ah... this road is...)%K%P
+
+0x75C
+I quickly remember it.%K%P
+
+0x768
+On the last loop's 4th, when Kurumi disappeared, Yuka%Nand I definitely went down this road.%K%P
+
+0x774
+Which means at the end of this road is that shrine.%K%P
+
+0x780
+(Why does Okuhiko plan on going to the shrine?)%K%P
+
+0x78C
+I quietly continue to walk while thinking this...%K%P
+
+0x7C4
+Due to the cloudy sky, my surroundings are very dim.%K%P
+
+0x7D0
+There's not even any birds chirping or any wind, making%Nthe air feel stagnant and heavy.%K%P
+
+0x7DC
+When I come to my senses, Okuhiko and Saki's%Npresences have disappeared.%K%P
+
+0x7E8
+I stand still and strain my ears, but I can't hear them%Nmoving through the grass.%K%P
+
+0x7F4
+It's completely silent...%K%P
+
+0x800
+A bad stench sticking to the trees wraps up the air.%K%P
+
+0x80C
+For some reason, my heart is restless.%K%P
+
+0x818
+It feels like it's telling me that I mustn't go any further.%K%P
+
+0x824
+An overpowering, intimidating air is coming from the thick%Ngrove of trees.%K%P
+
+0x830
+(Something's different from the last time I saw this...)%K%P
+
+0x83C
+The smell of the woods is clearly aggressive.%K%P
+
+0x88C
+I get out of the thicket, and finally arrive at the long%Nstone staircase.%K%P
+
+0x898
+I still don't see Okuhiko or Saki.%K%P
+
+0x8A4
+(Are they already in the shrine?)%K%P
+
+0x8CC
+I run up the crumbling staircase...%K%P
+
+0x908
+(...)%K%P
+
+0x914
+(...)%K%P
+
+0x920
+(...)%K%P
+
+0x92C
+(... You've got... to be kidding me...)%K%P
+
+0x960
+The scene before my eyes has left me dumbstruck.%K%P
+
+0x96C
+The open ground in the forest...%K%P
+
+0x978
+The straight, stone paving running through the center...%K%P
+
+0x984
+The long staircase behind me that I only just ran up...%K%P
+
+0x990
+But... the only thing that's gone...%K%P
+
+0x99C
+―Is the shrine!%K%N
+
+0x9A8
+―The Shiki no Mori Shrine has disappeared!%K%P
+
+0x9DC
+(... That's... impossible...)%K%P
+
+0x9E8
+I definitely saw that shrine.%K%P
+
+0x9F4
+I even went inside it when I found Kurumi.%K%P
+
+0xA00
+Even so...%K%N
+
+0xA0C
+What is the meaning of this...?%K%P
+
+0xA18
+Is there "no shrine" in this history...?%K%P
+
+0xA3C
+Izumi「Because... there's no longer a shrine at that cape.」%K%P
+
+0xA50
+Izumi-san said that on the 2nd while she was telling the%Nstory of the shrine at the cherry blossom trees.%K%P
+
+0xA5C
+(Is that... it...?)%K%P
+
+0xA68
+"A firm thought can produce a new reality."%K%P
+
+0xA74
+In other words, this is... a new reality produced by%NIzumi-san's delusion...?%K%P
+
+0xA80
+A delusion...%K%N
+
+0xA8C
+A fictional world...%K%N
+
+0xA98
+An event within a fantasy...%K%P
+
+0xAA4
+(The bell disappeared... the shrine's disappeared... and%Nthose cards disappeared...)%K%P
+
+0xAB0
+I'm unable to move.%K%P
+
+0xABC
+My mind has gone completely blank.%K%P
+
+0xAC8
+I lose power in my knees, and sit on the ground.%K%P
+
+0xAD4
+There's not one thing moving in my field of vision.%K%P
+
+0xAE0
+There are no shadows, no colors, no sound, and I don't%Neven have confidence that I actually exist here right%Nnow.%K%P
+
+0xAEC
+My consciousness feels as light as air right now, to the%Npoint that that it wouldn't be surprising at all if it were%Nblown out by a single gust of wind.%K%P
+
+0xAF8
+Dumbfounded, I just stare off blankly into space.%K%P
+
+0xB04
+I've lost all my senses...%K%P
+
+0xB50
+... ... ...%K%P
+
+0xBA8
+Before I know it, I'm back at Lunabeach.%K%P
+
+0xBB4
+My surroundings have been completely swallowed by%Ndarkness.%K%P
+
+0xBC0
+I don't even remember how I got here.%K%P
+
+0xBCC
+There's a few dishes spread out on the table.%K%P
+
+0xBD8
+As usual, Izumi-san is sitting across from me.%K%P
+
+0xBE4
+Izumi-san is alternating between saying something and%Neating.%K%P
+
+0xBF8
+Izumi「Hey, Makoto-kun? Are you listening?」%K%P
+
+0xC04
+Makoto「Y-Yeah...」%K%P
+
+0xC10
+I'm surprised.%K%P
+
+0xC1C
+The voice that came out of my mouth was surprised.%K%P
+
+0xC28
+My consciousness still isn't completely here...%K%P
+
+0xC34
+My eyes are fixed on my palm.%K%P
+
+0xC40
+For no reason, I just continue to stare at it.%K%P
+
+0xC54
+Izumi「Makoto-kun... what's wrong?」%K%P
+
+0xC60
+Makoto「No... nothing...」%K%P
+
+0xC6C
+Izumi「It doesn't look like nothing.」%K%P
+
+0xC78
+Izumi「You haven't even taken a single bite of the food...」%K%P
+
+0xC84
+Makoto「...」%K%P
+
+0xC90
+Izumi「...?」%K%P
+
+0xC9C
+Makoto「... By the way... where's Kurumi?」%K%P
+
+0xCB0
+Izumi「Haah... I told you about that just now, didn't I?」%K%P
+
+0xCBC
+Makoto「... Is that right?」%K%P
+
+0xCC8
+Izumi「Kurumi went to visit the lodge.」%K%P
+
+0xCD4
+Izumi「She's staying over there today...」%K%P
+
+0xCE0
+Makoto「Oh, I see...」%K%P
+
+0xCEC
+Makoto「It's true, Kurumi did go to the lodge this day on the last%Nloop...」%K%P
+
+0xCF8
+Izumi「We just had this conversation.」%K%P
+
+0xD04
+Makoto「...」%K%P
+
+0xD18
+Izumi「Hey, did something happen?」%K%P
+
+0xD24
+Makoto「No, nothing...」%K%P
+
+0xD30
+I reply immediately.%K%P
+
+0xD3C
+I just decided that there's absolutely no way I can tell%Nher about the shrine.%K%P
+
+0xD48
+Izumi「Really?」%K%P
+
+0xD54
+Makoto「Yeah...」%K%P
+
+0xD60
+Izumi「Liar... you're definitely hiding something.」%K%P
+
+0xD6C
+Makoto「No I'm not.」%K%P
+
+0xD78
+Makoto「I'm just a little tired...」%K%P
+
+0xD84
+I really am a liar.%K%P
+
+0xD90
+But looking at Izumi-san's gentle expression, there's no%Nway I can tell her the truth.%K%P
+
+0xDAC
+I haven't forgotten Izumi-san's reaction... when I told her%Nabout the bell this morning.%K%P
+
+0xDB8
+I don't want to give her more things to worry about.%K%P
+
+0xDCC
+Like this morning, I'm hiding it because I don't want to give%NIzumi-san more things to worry about.%K%P
+
+0xDE0
+Izumi「That's right...」%K%P
+
+0xDEC
+Izumi「To us, today is the eleventh day... of this Seminar Camp...」%K%P
+
+0xDF8
+Makoto「Yeah...」%K%P
+
+0xE0C
+Izumi「Do you want to lie down and rest for a bit?」%K%P
+
+0xE18
+Makoto「No, I'm fine...」%K%P
+
+0xE24
+Makoto「I said I'm tired, but it's no big deal.」%K%P
+
+0xE30
+Makoto「And besides... that'd be a waste...」%K%P
+
+0xE44
+Izumi「Huh?」%K%P
+
+0xE50
+Makoto「If I didn't eat this food, it'd be a waste, wouldn't it?」%K%P
+
+0xE5C
+I desperately try my best to smile.%K%P
+
+0xE70
+Izumi「It's all right, you don't have to force yourself to eat.」%K%P
+
+0xE7C
+I don't answer her, and take a bite of the food.%K%P
+
+0xE88
+There's no flavor.%K%P
+
+0xE94
+Makoto「Ha ha, your cooking really is the greatest!」%K%P
+
+0xEA0
+Makoto「Just one bite of it has made me energetic again!」%K%P
+
+0xEB4
+Izumi「Really? That's good...」%K%P
+
+0xEC0
+I silently continue to eat the food.%K%P
+
+0xECC
+Although I'm attempting to act cheerful, my mind is%Ncompletely chaotic.%K%P
+
+0xED8
+―Is this fiction? ―Is this reality?%K%N
+
+0xEE4
+―Is this a delusion? ―Is this for real?%K%P
+
+0xEF0
+Just what meaning does this world have to me?%K%P
+
+0xEFC
+My confusion is like a whirlpool that is slowly sucking me%Nin.%K%P
+
+0xF08
+Izumi-san is kindly gazing at me.%K%P
+
+0xF14
+I can see the black sky over her shoulder.%K%P
+
+0xF20
+Right now, there's no stars in this night sky.%K%P
+
+0xF2C
+As if their radiance was suddenly lost...%K%P
+
+0xF38
+As if the stars were never there to begin with...%K%P
+
+0xF44
+The only thing that's there is a deep, endless darkness...%K%P
+

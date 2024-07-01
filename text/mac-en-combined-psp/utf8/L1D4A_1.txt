@@ -1,0 +1,165 @@
+text area offset and size:
+0x5F0
+0xAD0
+0x164
+I wake up feeling unusually refreshed.%K%P
+
+0x170
+It's probably because I woke up so peacefully...%K%P
+
+0x17C
+(Maybe I should even try going for a walk.)%K%P
+
+0x188
+... With this prospect in mind, I jump out of bed.%K%P
+
+0x194
+As I grasp the doorknob, I think about last night.%K%P
+
+0x1A0
+How Kurumi left with the basket after saying she'd fix it...%K%P
+
+0x1AC
+However, she probably hasn't finished yet.%K%P
+
+0x1B8
+That basket is vital to my plan...%K%P
+
+0x1C4
+(Should I wait for Kurumi to fix it?)%K%P
+
+0x1D0
+(... Or should I go see Saki?)%K%P
+
+0x1DC
+While thinking about this, I swing the door open with all my%Nmight to get some fresh air.%K%P
+
+0x214
+Kurumi「Kyaa!」%K%P
+
+0x248
+Kurumi is in front of me.%K%P
+
+0x254
+Because I pulled the door inward, Kurumi loses her%Nbalance and stumbles into the room.%K%P
+
+0x260
+As she tries to stop herself from falling, she%Ndesperately tries to protect the basket in her hands...%K%P
+
+0x284
+Kurumi「Geez, you're so rough when it comes to opening doors!」%K%P
+
+0x290
+Makoto「Sorry, I didn't think there'd be anyone there... Huh? Don't%Ntell me you already fixed it?」%K%P
+
+0x2A4
+Kurumi「Heheh, what do you think? It's KuruKuru Kurumi Magic♪」%K%P
+
+0x2B0
+She thrusts the basket into my chest.%K%P
+
+0x2BC
+I take the basket and examine it.%K%P
+
+0x2C8
+There are some torn parts here and there, but it's%Nusable.%K%P
+
+0x2D4
+Makoto「Good job.」%K%P
+
+0x2E0
+Kurumi「Kurumi's gained a few points in your book, hasn't she!?」%K%P
+
+0x2EC
+Makoto「Wait, don't tell me...!?」%K%P
+
+0x2F8
+Kurumi「What?」%K%P
+
+0x304
+I swallow my words.%K%P
+
+0x310
+I just noticed it.%K%P
+
+0x31C
+Kurumi's eyes... are red.%K%P
+
+0x328
+Makoto「No... it's fine. You worked really hard. Thank you, Kurumi.」%K%P
+
+0x33C
+Kurumi「Yaay! Kurumi's so happy! Onii-chan, you're the best!」%K%P
+
+0x348
+Kurumi embraces me. Hey, I'm a guy first and foremost,%Nyou know...%K%P
+
+0x354
+Kurumi's legs are trembling... She might not have gotten%Nmuch sleep.%K%P
+
+0x368
+I take another look at the basket.%K%P
+
+0x374
+There is a small charm tied to the side.%K%P
+
+0x380
+It wasn't there yesterday.%K%P
+
+0x38C
+(Must have been Kurumi who put it on...)%K%P
+
+0x398
+I inspect it further. It's just an ordinary charm.%K%P
+
+0x3A4
+Ring, ring... There's a small bell attached to it that rings%Nevery time it sways...%K%P
+
+0x3B0
+... I place the fixed basket on top of my bed, and decide%Nto go with Kurumi to the living room for now.%K%P
+
+0x3F0
+??「Onii-chan!」%K%P
+
+0x3FC
+??「Hey, Onii-chan!」%K%P
+
+0x408
+Makoto「Hmm? ... Zzz...」%K%P
+
+0x414
+??「Geez, if you don't wake up soon, aren't you going to be%Nlate!?」%K%P
+
+0x420
+―L-Late!?%K%P
+
+0x42C
+Once I realize the meaning of those words, I frantically%Njump to my feet.%K%P
+
+0x4A4
+Makoto「... K-Kurumi?」%K%P
+
+0x4B0
+Kurumi「Eheh♪」%K%P
+
+0x4BC
+Makoto「...」%K%P
+
+0x4C8
+Kurumi「...」%K%P
+
+0x4D4
+Makoto「... Hey... what the hell would I be late for!!?」%K%P
+
+0x4E0
+Damn it, if only I'd realized it sooner...%K%P
+
+0x4F4
+Kurumi「But this is something Kurumi wanted to try just once!」%K%P
+
+0x500
+Kurumi「Don't you see this type of event in a lot of games?♪」%K%P
+
+0x50C
+J-Just what kind of games are you playing...?%K%P
+

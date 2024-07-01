@@ -1,0 +1,582 @@
+text area offset and size:
+0xE18
+0x2CDF
+0x40
+We pass the time in Viewpoint Park idly.%K%P
+
+0x4C
+One person admires the cherry blossoms in full bloom...%NAnother's thoughts turn to what lies beyond the sea...%K%P
+
+0x58
+... and yet another person frolics like an innocent child%Nwhile trying to claw their way up the lighthouse...%K%P
+
+0x64
+This is the first time I've experienced this "past".%K%P
+
+0x70
+A new reality has been born in this time.%K%P
+
+0x7C
+History seems to be in the process of steadily changing.%K%P
+
+0x88
+In the end, Saki didn't fall into the ocean, and no one%Nlearned about the existence of the Shiki no Mori Shrine.%K%P
+
+0x94
+If things continue at this rate, that horrible event will%Nabsolutely never repeat itself.%K%P
+
+0xA0
+The future does not advance towards one%Npredetermined course.%K%P
+
+0xAC
+It's possible that Izumi-san and I are changing the%Ncourse of history with our intentions.%K%P
+
+0xB8
+And in five days, we'll finally escape from this...%K%P
+
+0xC4
+From this abominable... infinite loop...%K%P
+
+0x14C
+(... From this... infinite loop...)%K%P
+
+0x158
+(... Huh?)%K%P
+
+0x164
+Suddenly, I feel something bugging me.%K%P
+
+0x170
+On the way back to Lunabeach from Viewpoint Park, I%Npurposely slow my pace.%K%P
+
+0x17C
+As everyone's retreating figures become smaller, I%Nfreely think to myself.%K%P
+
+0x210
+"Infinite loop."%K%N
+
+0x21C
+If I think about the situation up until now, that conjecture%Ncertainly seems right.%K%N
+
+0x228
+I've been infinitely repeating the days from April 1st to%NApril 6th.%K%N
+
+0x234
+That's why all my premonitions during the last loop were%Ncorrect.%K%N
+
+0x240
+It's because I had experienced everything before...%K%N
+
+0x24C
+I had memories of all of them deep in the nooks of my%Nmind...%K%P
+
+0x260
+However, they were all miniscule parts hidden within%Nthose nooks.%K%N
+
+0x26C
+In short, the memories I had in the last loop were very%Nfaint fragments.%K%N
+
+0x278
+Though I sometimes vaguely recalled things right before%Nthey happened, those moments were rare; it was as if I%Nhad forgotten everything else.%K%N
+
+0x284
+―Then why is it that the current me has such%N"complete memories"?%K%N
+
+0x290
+...%K%P
+
+0x2A4
+In the first place, just what is "memory"?%K%N
+
+0x2B0
+What we call a "memory" is something that's etched into%Nyour brain, isn't it?%K%N
+
+0x2BC
+If that's the case, then that means my current brain is%Nthe same as my brain just before I time traveled.%K%N
+
+0x2C8
+If that weren't it, then I couldn't remember the events of%Nthe last loop.%K%P
+
+0x2DC
+To put it simply, me and Izumi's brains were somehow%Ntransported through space-time into our respective%Nskulls...%K%N
+
+0x2E8
+... When I think of it like that, I deride myself for having%Nsuch ridiculous thoughts.%K%N%N
+
+0x2F4
+(I need to be more serious!)%K%N
+
+0x300
+(That wouldn't even make a funny joke!)%K%N%N
+
+0x30C
+Although I'm admonishing myself, I try to brainstorm some%Nmore...%K%P
+
+0x320
+... But from then on, I just keep repeating the same%Nquestion.%K%N%N
+
+0x32C
+(Then why does the current me have "complete%Nmemories"?)%K%N
+
+0x338
+(Just where did these clear "memories" come from?)%K%N
+
+0x344
+(Haah...)%K%N%N
+
+0x350
+No matter how hard I try, I can't even find the thread end%Nof the solution.%K%P
+
+0x3C8
+The rest of the group is walking in front of me, the setting%Nsun dying them red.%K%P
+
+0x3D4
+I can clearly see the five of them innocently frolicking.%K%P
+
+0x3E0
+... Huh? Five of them?%K%P
+
+0x3EC
+Now that I think about it, Izumi-san's...%K%P
+
+0x400
+Izumi「Hey, Makoto-kun?」%K%P
+
+0x40C
+Makoto「I-Izumi-san!」%K%P
+
+0x43C
+Izumi「Geez, there's no need to be so surprised, is there?」%K%P
+
+0x448
+Makoto「... How long... have you been here?」%K%P
+
+0x45C
+Izumi「All this time...」%K%P
+
+0x468
+Izumi「You didn't notice?」%K%P
+
+0x474
+Makoto「N-No... not at all...」%K%P
+
+0x480
+Makoto「I was just doing some deep thinking...」%K%P
+
+0x494
+Izumi「'Deep thinking'?」%K%P
+
+0x4A0
+Makoto「U-Um... err...」%K%P
+
+0x4AC
+Makoto「I was thinking about 'memories'...」%K%P
+
+0x4C0
+Izumi「Memories?」%K%P
+
+0x4CC
+Makoto「Right, memories.」%K%P
+
+0x4D8
+Makoto「I was thinking about how this is probably an infinite loop...」%K%P
+
+0x4E4
+Izumi「...?」%K%P
+
+0x4F0
+Makoto「Oh, whoops...」%K%P
+
+0x4FC
+Makoto「There's no way you'd understand if I said something like%Nthat so suddenly, would you?」%K%P
+
+0x508
+Makoto「Umm... hmm... How do I explain this...?」%K%P
+
+0x514
+When I think about it, I realize that we haven't really had a%Ndirect conversation since our talk in the car.%K%P
+
+0x520
+I have many things I still want to ask her, but there's%Nbeen no chances for us to talk alone yet.%K%P
+
+0x52C
+That's why I haven't talked to Izumi-san about the time%Ntravel or the infinite loop...%K%P
+
+0x540
+Izumi「Yes, I see.」%K%P
+
+0x54C
+Izumi「It's all right... You don't have explain anything. I think I%Nknow what you want to say.」%K%P
+
+0x558
+Makoto「... Huh?」%K%P
+
+0x56C
+Izumi「In other words, it's like this, right?」%K%P
+
+0x578
+Izumi「In the last history, your correct premonitions were%Nmemories of events that would occur in the future.」%K%P
+
+0x584
+Izumi「The things you remembered were experiences you had%Nfrom the first time you time traveled, so this isn't the first%Ntime you've time traveled.」%K%P
+
+0x590
+Izumi「If you begin to think this way, perhaps you've been%Nrepeating the days from April 1st through April 6th for an%Neternity.」%K%P
+
+0x59C
+Izumi「In short, this isn't merely time travel...」%K%P
+
+0x5A8
+Izumi「... It's an infinite loop.」%K%P
+
+0x5B4
+Makoto「Right! That's it!」%K%P
+
+0x5C0
+Makoto「But I can't explain it with that alone...」%K%P
+
+0x5CC
+Izumi「By 'it', you mean 'memories'?」%K%P
+
+0x5D8
+Makoto「Yes...」%K%P
+
+0x5E4
+Makoto「Even though when I time traveled this time, I had clear%Nmemories of what happened in the past, the time before%Nthat, I forgot about nearly everything...」%K%P
+
+0x5F8
+Izumi「And you've been thinking about the reason why this%Nwhole time?」%K%P
+
+0x604
+Makoto「... Yes.」%K%P
+
+0x610
+Izumi-san's expression has changed suddenly%Ncompared to yesterday. That is to say, it's much clearer.%K%P
+
+0x61C
+Her face is so serene, as if she's broken through%Nsomething, or has severed ties with her thoughts...%K%P
+
+0x628
+(How can Izumi-san be this calm?)%K%P
+
+0x634
+...%K%P
+
+0x640
+... Come to think of it, aren't I incredibly calm myself?!%K%P
+
+0x64C
+Makoto「Hey, Izumi-san?」%K%P
+
+0x660
+Izumi「Hmm?」%K%P
+
+0x66C
+Makoto「Is it all right... for us to be like this?」%K%P
+
+0x678
+Izumi「Huh?」%K%P
+
+0x684
+Makoto「Is it really all right for us to stay this carefree?」%K%P
+
+0x690
+Izumi「...」%K%P
+
+0x69C
+Makoto「For now, history is changing the way we want it, so if we%Nkeep going at this rate, it feels like this Seminar Camp%Ncan end safely...」%K%P
+
+0x6A8
+Makoto「However, in actuality, we don't know a single thing about%Nthe fundamental problem, do we?」%K%P
+
+0x6B4
+Izumi「...」%K%P
+
+0x6C0
+Makoto「First of all, is it all right for us to assume that we can%Nbreak free from this infinite loop, even though we don't%Neven know the cause of time travel?」%K%P
+
+0x6CC
+Makoto「If we hadn't fallen from that cliff, then we could never%Nhave time traveled.」%K%P
+
+0x6D8
+Makoto「We've always thought this way up until now, but when you%Nthink about it really carefully, we have no guarantee that%Nit's true.」%K%P
+
+0x6E4
+Izumi「...」%K%P
+
+0x6F0
+Makoto「Yes, that's right... we have no guarantee.」%K%P
+
+0x6FC
+Makoto「For all we know, we could time travel again on the 6th at%Nthat time even if we're sleeping in our beds...」%K%P
+
+0x708
+Makoto「Nevertheless, in the end, no one knows if we will or won't%Ntime travel.」%K%P
+
+0x71C
+Izumi「... Yes, that's right... It might be exactly as you say.」%K%P
+
+0x728
+Makoto「Then wouldn't it be best for us to determine the cause of%Nthe time travel as soon as possible?」%K%P
+
+0x734
+Makoto「If we don't, then we may never be able to escape from%Nthe infinite loop for all of eternity.」%K%P
+
+0x740
+Izumi「...」%K%P
+
+0x74C
+Izumi-san stays silent.%K%P
+
+0x758
+It's as if she's having trouble finding the right words to%Nsay.%K%P
+
+0x764
+Or could it be something else...?%K%P
+
+0x770
+Izumi「... Yes... I understand very well what you're saying,%NMakoto-kun.」%K%P
+
+0x784
+Izumi「But you know... Hmm... How should I put this...?」%K%P
+
+0x790
+Izumi「Anyway, there's two things I have to tell you.」%K%P
+
+0x79C
+Makoto「???」%K%P
+
+0x7B0
+Izumi「#1:」%K%P
+
+0x7BC
+Izumi「About the infinite loop...」%K%P
+
+0x7C8
+Izumi「That might be the case for you, Makoto-kun... but what%Nabout me?」%K%P
+
+0x7D4
+Makoto「... Huh?」%K%P
+
+0x7E0
+Izumi「In the last history, I never had any premonitions.」%K%P
+
+0x7EC
+Izumi「That's because I didn't have any memories like that%Nwithin me...」%K%P
+
+0x7F8
+Izumi「In other words, to me, this is the first time...」%K%P
+
+0x804
+Izumi「This is the first time I've time traveled...」%K%P
+
+0x810
+Makoto「... When you put it that way... that certainly... seems true...」%K%P
+
+0x81C
+Izumi「#2:」%K%P
+
+0x828
+Izumi「Makoto-kun, you said that it would be best if we%Ndetermined the cause of the time travel... That's what%Nyou think, right?」%K%P
+
+0x834
+Makoto「Yes...」%K%P
+
+0x848
+Izumi「But you know what? There's no need to do that.」%K%P
+
+0x854
+Makoto「... W-Why not!?」%K%P
+
+0x860
+Izumi「Because...」%K%P
+
+0x87C
+Izumi「... I've already determined it.」%K%P
+
+0x888
+Makoto「Wh... What!?」%K%P
+
+0x894
+Izumi「When I was thinking about it last night, I finally found the%Nanswer.」%K%P
+
+0x8A0
+Izumi「Of course, I had considered it was a possibility before%Nthat...」%K%P
+
+0x8B4
+Izumi「It was on the night of the 5th... Remember how I tried to%Ntalk to you about your premonitions?」%K%P
+
+0x8C0
+Makoto「Y-Yeah...」%K%P
+
+0x8D4
+Izumi「But that alone couldn't explain everything about the%Ntime travel.」%K%P
+
+0x8E0
+Izumi「For example, the 'memories' you were talking about%Nearlier.」%K%P
+
+0x8EC
+Makoto「...」%K%P
+
+0x8F8
+Izumi「But now I feel like I somehow understand it...」%K%P
+
+0x904
+Izumi「And when this morning came, I was finally able to explain%Nall of the mysteries.」%K%P
+
+0x910
+Makoto「...」%K%P
+
+0x924
+Izumi「The cause of the time travel...」%K%P
+
+0x930
+Izumi「It's...」%K%P
+
+0x93C
+I instinctively take a deep breath.%K%P
+
+0x948
+I'm preparing my body for every single word that%NIzumi-san is going to say.%K%P
+
+0x954
+A tense moment arrives... Even my heart has stopped.%K%P
+
+0x960
+―However!%K%P
+
+0x96C
+Yuka「Heey!」%K%P
+
+0x978
+Yuka「Izumi-san! Makoto!」%K%P
+
+0x9A0
+We can hear Yuka's voice from far away, on the other%Nside of the road...%K%P
+
+0x9AC
+It seems she's running this way.%K%P
+
+0x9B8
+Makoto「Dammit! Why at such an important time!?」%K%P
+
+0x9C4
+Yuka「Hey! Izumi-san!」%K%P
+
+0x9D8
+Izumi「It can't be helped...」%K%P
+
+0x9E4
+Izumi「We'll just have to continue this conversation later...」%K%P
+
+0x9F8
+Just then, Yuka appears from the other side of a sharp%Nturn.%K%P
+
+0xA0C
+Yuka「Geez, you two are walking so slow!」%K%P
+
+0xA28
+Izumi「That's not it.」%K%P
+
+0xA34
+Izumi「You're just too fast.」%K%P
+
+0xA48
+Yuka「Huh, really?」%K%P
+
+0xA5C
+Yuka「Wait, that doesn't matter!」%K%P
+
+0xA68
+Yuka「Anyway, hurry up and come this way♪」%K%P
+
+0xA98
+With that, Yuka grabs Izumi-san's hand, and begins to%Nbreak off into a run again.%K%P
+
+0xAA4
+Yuka「Hey, Makoto, you hurry up too!」%K%P
+
+0xAB0
+Izumi「H-Hold on... What is it, Yuka-chan?」%K%P
+
+0xABC
+Yuka「It's amazing♪ It's so amazing♪」%K%P
+
+0xAC8
+Izumi「'Amazing'... what's amazing?」%K%P
+
+0xAD4
+Yuka「They're leaping♪ There's so many of them♪」%K%P
+
+0xAE0
+Izumi「What? I can't guess it from that.」%K%P
+
+0xAEC
+Yuka「It's fine, it's fine♪ You'll know when you see it♪」%K%P
+
+0xAF8
+Izumi「Oh geez...」%K%P
+
+0xB20
+Before long...%K%N
+
+0xB2C
+... Izumi-san and Yuka disappear down the curved road.%K%P
+
+0xB38
+I've been left behind...%K%P
+
+0xB44
+Suddenly, when I look down at my feet, I see the%N"fragment of concrete" lying in a corner of the road.%K%P
+
+0xB50
+It's the piece that I used last night to destroy (well, tried%Nto destroy) the bell.%K%P
+
+0xB6C
+(Now that I think about it... where...)%K%P
+
+0xB78
+(Where is that bell... right now?)%K%P
+
+0xB84
+(Is it related to the cause of the time travel?)%K%P
+
+0xB90
+"Time travel."%K
+
+0xB9C
+"The infinite loop."%K%N
+
+0xBA8
+"The mystery of our memories."%K
+
+0xBB4
+"The true nature of the bell."%K%P
+
+0xBC0
+The mysteries just keep intensifying the more I mull over%Nthem.%K%P
+
+0xBCC
+(I wonder what's on Izumi-san's mind right now.)%K%P
+
+0xBD8
+(Has she really found the key to solving all of these%Nmysteries?)%K%P
+
+0xBE4
+The serenity that I felt just a short time ago vanishes%Ninto thin air, as if it never existed.%K%P
+
+0xBF0
+Illuminated by the setting sun, a slick movement on the%Neastern ocean catches my eye.%K%P
+
+0xBFC
+The black waves repeatedly surge forward, headed%Ntowards the shore.%K%P
+
+0xC24
+Several dozen dolphin's heads bob out of the waves...%K%P
+
+0xC30
+Seeing the dolphins playing around in the waves makes%Nme feel somewhat jealous...%K%P
+
+0xC78
+... ... ...%K%P
+

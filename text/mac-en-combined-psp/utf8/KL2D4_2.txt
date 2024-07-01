@@ -1,0 +1,81 @@
+text area offset and size:
+0x2F8
+0x57D
+0x40
+First, I took care of refilling the sugar and fresh cream.%K%P
+
+0x4C
+I put off washing the dishes. It goes without saying, but%Nit's because I thought about the earthquake that will%Noccur later.%K%P
+
+0x58
+Since I placed them in the sink, they probably won't%Nbreak.%K%P
+
+0x64
+Right now, I'm thinking as I clean the windows outside.%K%P
+
+0x70
+What's the trigger that will get Izumi-san talking about%N"that"?%K%N
+
+0x7C
+How should I try holding the conversation with her?%K%P
+
+0x88
+Mmm...%K%N
+
+0x94
+Then... right on cue...%K%P
+
+0x11C
+The earthquake...%K%P
+
+0x128
+I already knew it was coming, so I'm not surprised...%K%P
+
+0x140
+... Or at least, I shouldn't have been, but...%K%P
+
+0x178
+I hear the sound of tableware breaking from inside the%Nshop.%K%P
+
+0x184
+(What!?)%K%P
+
+0x190
+Confused, I rush back inside.%K%P
+
+0x1D8
+Makoto「Izumi-san, what happened!?」%K%P
+
+0x1E4
+By the time I say this, the tremors have already calmed%Ndown.%K%P
+
+0x1F8
+Izumi「Even though I took the trouble to wash them...」%K%P
+
+0x204
+Izumi-san is staring at fragments of broken tableware%Nand glass at her feet.%K%P
+
+0x210
+Makoto「Huh!? You're saying that you washed them!?」%K%P
+
+0x21C
+Izumi「Yes... I felt bad about making you do everything,%NMakoto-kun, so...」%K%P
+
+0x228
+Izumi-san brings over a dustpan and broom.%K%P
+
+0x234
+She holds the dustpan, and I gather the pieces with the%Nbroom.%K%P
+
+0x240
+In the end, all we've done is switch positions, as the%Nsame thing happened.%K%P
+
+0x24C
+History... repeated itself.%K%N
+
+0x258
+―History repeated itself.%K%N
+
+0x264
+Such unpleasant words...%K%P
+

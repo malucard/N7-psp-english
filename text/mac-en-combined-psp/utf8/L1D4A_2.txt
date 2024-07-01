@@ -1,0 +1,432 @@
+text area offset and size:
+0xF78
+0x1D67
+0xD0
+I walk into the dining room to see Yuka and Haruka eating%Nbreakfast.%K%P
+
+0xDC
+Makoto「Huh? Who made the sandwiches?」%K%P
+
+0xF0
+Yuka「Ah, Makoto... Can't you at least say 'good morning' first?」%K%P
+
+0xFC
+Makoto「R... Right... Good morning.」%K%P
+
+0x110
+Yuka「Good morning!」%K%P
+
+0x12C
+Haruka「... Good morning.」%K%P
+
+0x138
+Makoto「So? Who's responsible for the sandwiches?」%K%P
+
+0x144
+Yuka「It was Kurumi-chan!」%K%P
+
+0x160
+Kurumi「Right. Kurumi brought them over!」%K%P
+
+0x16C
+Makoto「Then Izumi-san made breakfast for us again?」%K%P
+
+0x188
+Yuka「That's right.」%K%P
+
+0x194
+Makoto「Wow, Izumi-san's such a gracious person...」%K%P
+
+0x1A0
+As I say this, I grab a ham and mozzarella cheese%Nsandwich with one hand and take a bite.%K%P
+
+0x1AC
+Makoto「... D... Damn, that's good!」%K%P
+
+0x1C0
+Yuka「Geez, you have such poor manners. Sit down properly%Nand eat!」%K%P
+
+0x1CC
+Damn it, she complains about every little thing...%K%P
+
+0x278
+Makoto「Whew... That was delicious. I'm done!」%K%P
+
+0x284
+There is a big plate on the table with just a few parsley%Nleaves scattered all over it.%K%P
+
+0x290
+Makoto「Huh? Now that I think about it, I don't see Okuhiko%Nanywhere... Where did he go?」%K%P
+
+0x2A4
+Yuka「He left before Kurumi-chan arrived, saying he was going%Nto take a walk.」%K%P
+
+0x2B0
+Makoto「Hmm, I see...」%K%P
+
+0x2BC
+Makoto「Hey, Yuka?」%K%P
+
+0x2C8
+Yuka「Hmm? What?」%K%P
+
+0x2D4
+Makoto「What's on today's schedule?」%K%P
+
+0x2E0
+Yuka「Oh, today? Since this is the middle of the Seminar, we're%Nfree to do what we want.」%K%P
+
+0x2EC
+Makoto「Free to do what we want? You're saying that, but we've%Nbasically been doing things like that every day, haven't%Nwe?」%K%P
+
+0x2F8
+Yuka「Well, I guess that's true.」%K%P
+
+0x304
+Yuka「But we're even freer today than usual.」%K%P
+
+0x310
+Yuka「Everyone can go wherever they want. After all, going off%Nby yourself and doing what you want isn't bad every%Nnow and then...」%K%P
+
+0x31C
+Makoto「Oh, I see.」%K%P
+
+0x328
+Yuka「Ah, I almost forgot to tell you, but this only lasts up until%N5:00 today.」%K%P
+
+0x334
+Makoto「Up until 5:00...?」%K%P
+
+0x340
+Yuka「Right. At 5:00, everyone has to be at Lunabeach.」%K%P
+
+0x34C
+Makoto「What's going on at 5:00?」%K%P
+
+0x360
+Yuka「Hmm...」%K%P
+
+0x374
+Yuka「... That's a S-E-C-R-E-T♪」%K%P
+
+0x380
+Makoto「Huh? Seriously, what is it?」%K%P
+
+0x394
+Yuka「Now now... Just look forward to it and find out for yourself!」%K%P
+
+0x3A0
+Makoto「Hmph. Well, whatever.」%K%P
+
+0x3BC
+Makoto「Anyway, I've got some business to take care of. I'll see%Nyou all later.」%K%P
+
+0x3D0
+I inform Yuka, Haruka, and Kurumi of this, return to my room%Nto get the basket, and leave the lodge...%K%P
+
+0x3F8
+Makoto「... So? What are you planning on doing, Yuka?」%K%P
+
+0x404
+Yuka「I was thinking of going to see the cherry blossoms...」%K%P
+
+0x420
+Haruka「Cherry blossoms... so they have those around here too...」%K%P
+
+0x42C
+Yuka「Yeah. I heard it from Izumi-san yesterday. She told me%Nthat there are cherry blossom trees on the road to%NViewpoint Park.」%K%P
+
+0x448
+Ah... Now that she mentions it, that's right...%K%P
+
+0x454
+I passed them when I followed Kurumi to that park...%K%P
+
+0x460
+At that time, I was so absorbed in following Kurumi that I%Ndidn't really notice them, but I'm sure that on the road to%Nthat cape, I saw cherry blossoms in full bloom.%K%P
+
+0x46C
+Yuka「I've heard that this is the best time around here to see%Nthem, and I probably won't get a chance to see them%Nwhen I get home, so...」%K%P
+
+0x478
+Makoto「Oh ho... Cherry blossoms, huh...」%K%P
+
+0x484
+Watching the cherry blossoms falling... that might be%Nquite a beautiful sight...%K%P
+
+0x490
+Makoto「Well then, what about you, Haruka? Where are you going?」%K%P
+
+0x4AC
+Kurumi「Well, Kurumi is going to Princess Beach...」%K
+
+0xED8
+Shout "I didn't ask you!"
+
+0xEE4
+Hear her out.
+
+0x4F4
+Kurumi「Kurumi is going to Princess Beach... to catch crabs!」%K%P
+
+0x500
+Makoto「Oh, catching crabs, are we?」%K%P
+
+0x514
+Well, I've heard her out...%K%P
+
+0x528
+Makoto「So, Haruka, where are you planning on going?」%K%P
+
+0x53C
+Kurumi「Kurumi is going to catch two crabs...」%K
+
+0xEF0
+Shout "I didn't ask you!"
+
+0xEFC
+Hear her out.
+
+0x58C
+Kurumi「Kurumi is going to catch two crabs... and make them crab%Nsumo on the beach!」%K%P
+
+0x598
+Makoto「Oh, making the crabs sumo, are we?」%K%P
+
+0x5AC
+Wait, what the hell is "Crab sumo"!? Well, it's pretty%Nself-explanatory, but...%K%P
+
+0x5C0
+Makoto「All right then, Haruka, where are you going?」%K%P
+
+0x5D4
+Kurumi「Kurumi will be the referee for the crab sumo...」%K
+
+0xF08
+Shout "I didn't ask you!"
+
+0xF14
+Hear her out.
+
+0x624
+Kurumi「Kurumi will be the referee for the crab sumo... and she'll%Npet the winner!」%K%P
+
+0x630
+Makoto「Oh, really?」%K%P
+
+0x63C
+Makoto「I'm kinda jealous of that crab!」%K%P
+
+0x650
+It's about time I got strict...%K%P
+
+0x664
+Makoto「By the way, what are you doing, Haruka?」%K%P
+
+0x678
+Kurumi「Kurumi will, umm, umm... ummm...」%K%P
+
+0x6AC
+Makoto「I didn't ask you!」%K%P
+
+0x6B8
+I immediately scold her.%K%P
+
+0x6E8
+Kurumi「Ah... Y-You meanie!!」%K%P
+
+0x6FC
+Kurumi「Fine, screw you, Onii-chan! Hmph!」%K%P
+
+0x720
+Mmph... I might have been a bit too harsh with her...%K%P
+
+0x72C
+But I can always make up with Kurumi later. Anyway...%K%P
+
+0x754
+Makoto「So, where are you going today, Haruka?」%K%P
+
+0x760
+... I ask Haruka this with a straight face.%K%P
+
+0x774
+Haruka「I'm... going fishing...」%K%P
+
+0x780
+Makoto「I see, fishing, huh?」%K%P
+
+0x794
+(One way or another, it seems Haruka had a lot of fun%Nyesterday...)%K%P
+
+0x7A0
+... Hmm, I see.%K%P
+
+0x7AC
+Yuka will go watch the cherry blossoms, Kurumi is going%Nto Princess Beach, and Haruka is going fishing...%K%P
+
+0x7B8
+Izumi-san is working at Lunabeach today. Come to think%Nof it, there's something about Kurumi that I'd be%Ninterested in asking her.%K%P
+
+0x7C4
+Well then...%K%P
+
+0x7D0
+Where should I go?%K
+
+0xF20
+To the cherry blossoms.
+
+0xF2C
+To Princess Beach.
+
+0xF38
+Go fishing.
+
+0xF44
+To Lunabeach.
+
+0x838
+Yuka「Well then...」%K%P
+
+0x844
+Yuka reties the ribbon at the back of her head.%K%P
+
+0x858
+Yuka「... I'll be going now.」%K%P
+
+0x864
+Makoto「Ah, hold on!」%K%P
+
+0x878
+Yuka「Hmm?」%K%P
+
+0x884
+Makoto「Can I come with you?」%K%P
+
+0x890
+Yuka「'Come with me'... to see the cherry blossoms?」%K%P
+
+0x89C
+Makoto「Yeah.」%K%P
+
+0x8A8
+Yuka「Hmm...」%K%P
+
+0x8BC
+Yuka「No way!」%K%P
+
+0x8D0
+Yuka「If I said that, what would you do?」%K
+
+0xF50
+"If you did, I'd just go somewhere else."
+
+0xF5C
+"I'd go there no matter what you said."
+
+0x910
+Makoto「If you said that-」%K%P
+
+0x924
+Makoto「No matter what you said-」%K%P
+
+0x930
+Yuka「Gotcha. That was a lie, a joke!」%K%P
+
+0x93C
+Yuka「Then let's go see the cherry blossoms together!」%K%P
+
+0x950
+Is she... teasing me?%K%P
+
+0x95C
+It's difficult to tell from that grin of hers.%K%P
+
+0x968
+Yuka「All right then, we're off♪」%K%P
+
+0x974
+Makoto「Haruka, Kurumi, see you later.」%K%P
+
+0x980
+We say goodbye to Kurumi and Haruka, then leave the%Nlodge...%K%P
+
+0x9DC
+I decide to go with Kurumi to Princess Beach.%K%P
+
+0x9E8
+However, before I know it, Kurumi is nowhere to be found.%K%P
+
+0x9F4
+Makoto「Heeey, Kurumi～?」%K%P
+
+0xA00
+... Huh? Where'd she go?%K%P
+
+0xA0C
+Makoto「Kurumi～ Kurumi～? Kurumi-chaa～n?」%K%P
+
+0xA44
+I look for her.%K%P
+
+0xA50
+I look in the bedrooms, the loft, the kitchen, the bathroom,%Nthe restroom... Even the garbage can, just to be safe...%K%P
+
+0xA5C
+She's nowhere to be found. At least, nowhere inside.%K%P
+
+0xA68
+... Oh, right...%K%P
+
+0xA74
+I put on my shoes and go out the front door...%K%P
+
+0xAB0
+I decide to go fishing with Haruka.%K%P
+
+0xABC
+Makoto「Say, Haruka? Would it be okay if I went fishing with you?」%K%P
+
+0xAC8
+Haruka nods as a "yes." She seems to be a little%Nembarrassed as a faint smile forms on her face...%K%P
+
+0xAD4
+Makoto「Well then, I'll go get ready... Wait for me!」%K%P
+
+0xB0C
+I return to my room after telling her this.%K%P
+
+0xB44
+... When I've finished changing in my room, I hurry back to%Nthe living room...%K%P
+
+0xB50
+... For some reason, Haruka isn't there.%K%P
+
+0xB5C
+Just then, I hear an argument going on outside the front%Ndoor.%K%P
+
+0xB68
+One of them is Saki... the other is...%K%P
+
+0xB74
+―Haruka.%K%P
+
+0xB80
+I have a very bad feeling about this, so I quickly open%Nthe front door.%K%P
+
+0xBDC
+Okay, I'll help Izumi-san out today.%K%P
+
+0xBE8
+Even I should be able to do stuff like dishwashing and%Nsweeping.%K%P
+
+0xBF4
+As for Yuka, Haruka, and Kurumi...%K%P
+
+0xC00
+Makoto「Well then, see you later.」%K%P
+
+0xC0C
+... I say goodbye to them, and head for Lunabeach...%K%P
+

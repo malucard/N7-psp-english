@@ -1,0 +1,576 @@
+text area offset and size:
+0x10B0
+0x2708
+0x8C
+Haruka「Welcome back...」%K%P
+
+0x98
+Makoto「...」%K%P
+
+0xA4
+Haruka「What's wrong...?」%K%P
+
+0xB0
+Makoto「...」%K%P
+
+0xBC
+Haruka「It hasn't even been... two hours yet.」%K%P
+
+0xC8
+Makoto「...」%K%P
+
+0xDC
+Haruka「Ah...」%K%P
+
+0xE8
+In that instant, something tugs on Haruka's fishing rod.%K%P
+
+0xFC
+Haruka slowly but steadily winds the reel...%K%P
+
+0x108
+Her cheeks bathed by the setting sun glitter radiantly,%Nand an innocent smile rises to her face.%K%P
+
+0x114
+Yuka, Kurumi, and Haruka... They seem to be enjoying the%NSeminar Camp more than they were last time.%K%P
+
+0x120
+The world continues to move on without change today%Nas well.%K%P
+
+0x12C
+I'm the only one who's continuously anxious...%K%P
+
+0x138
+(I can't go on like this!)%K%P
+
+0x144
+On the other hand, although I think this, my mind is filled%Nwith melancholy due to the many mysteries that I still%Ncan't explain.%K%P
+
+0x150
+(It's best... not to know the future...)%K%P
+
+0x15C
+(It's way happier to be like I was in the past, where I didn't%Nthink about anything and just leisurely passed the time.)%K%P
+
+0x168
+But there's nothing that can be done about it.%K%P
+
+0x174
+The only thing I can do now is think.%K%P
+
+0x180
+Even though I can go back to the past...%K%N
+
+0x18C
+I can't go back... to who I was...%K%P
+
+0x208
+The western sky begins to turn red.%K%P
+
+0x214
+Time begins to pass away moment after moment.%K%P
+
+0x220
+Haruka hangs her fishing rod down while checking the%Ncolor of the moving clouds.%K%P
+
+0x234
+Haruka「Makoto...?」%K%P
+
+0x240
+Makoto「?」%K%P
+
+0x24C
+Haruka「Have you ever kissed someone?」%K%P
+
+0x260
+The world continues to move on without change today%Nas well.%K%P
+
+0x26C
+I've been left behind, loitering around at my wits' end.%K%P
+
+0x278
+Haruka's bangs sway in the sea breeze...%K%P
+
+0x2BC
+... ... ...%K%P
+
+0x360
+After that...%K%N
+
+0x36C
+Haruka and I return to the lodge.%K%N
+
+0x378
+Okuhiko was out on the terrace, shouting something to%Nhimself.%K%N
+
+0x384
+Unfortunately, I don't really remember what he said.%K%N%N
+
+0x390
+Before long, Saki came over, but she calmly and silently%Npassed by, as if nothing was happening.%K%P
+
+0x3A4
+Naturally, the basket remained unscathed as well.%K%N
+
+0x3B0
+Since Saki didn't fall into the ocean, she doesn't have%Nany feelings for Okuhiko. Thus, she didn't get angry.%K%P
+
+0x3C4
+That also means that no one knows that Haruka is a%Nclone.%K%N
+
+0x3D0
+I'm doubtful whether or not Saki even knew that.%K%N
+
+0x3DC
+They're so friendly to each other now that it's hard to%Nbelieve that they were fighting in the last history...%K%N
+
+0x3E8
+It seems that history is steadily proceeding in a good%Ndirection.%K%P
+
+0x3FC
+Despite that, my heart feels like it's sinking deeper and%Ndeeper into an abyss as time passes...%K%N%N
+
+0x408
+Will it continue to fall forever?%K%N
+
+0x414
+Or will it eventually climb back up?%K%P
+
+0x428
+At any rate, there's no doubt that the fated time is%Napproaching quickly.%K%N%N
+
+0x434
+The fated time... The moment where the truth will be%Nrevealed...%K%N%N
+
+0x440
+... ... ...%K%P
+
+0x5D0
+Kurumi「Wow～～♪ There's a lot of crabs here～♪」%K%P
+
+0x5DC
+―We're by the rocky area at Princess Beach.%K%P
+
+0x5E8
+Kurumi's shrill voice rings out as she peeks into the tide%Npool.%K%P
+
+0x5F4
+Kurumi「Hey, hey, do you think this is a school for crabs?」%K%P
+
+0x600
+Makoto「Hmm... Rather than a school... I'd call it a stable.」%K%P
+
+0x60C
+Kurumi「A stable? What do you mean, stable?」%K%P
+
+0x618
+Makoto「Isn't that obvious? ―It's a sumo stable!」%K%P
+
+0x624
+Kurumi「Oh ho～... Which means the smallest one is the stable%Nmaster?」%K%P
+
+0x630
+Makoto「... Why's that?」%K%P
+
+0x63C
+Kurumi「Because usually, the active sumo wrestler is bigger%Nthan the stable master, right?」%K%P
+
+0x648
+Makoto「Oh, I see.」%K%P
+
+0x654
+Kurumi「Yay♪ Crabs...」%K%P
+
+0x660
+Kurumi「Crabs～～♪」%K%P
+
+0x66C
+As she shouts in joy, Kurumi picks out and takes the%N"stable manager".%K%P
+
+0x678
+Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with%NKurumi?」%K%P
+
+0x684
+Kurumi「Ready, set, Rock, Paper, Scissors... Rock!」%K%P
+
+0x690
+Kurumi「Yay, Kurumi won♪」%K%P
+
+0x69C
+Kurumi dances in joy on top of the rocks.%K%P
+
+0x6A8
+Her innocent smile...%K%P
+
+0x6B4
+These unchanging days...%K%P
+
+0x6C0
+The world continues to go on...%K%P
+
+0x6D4
+Suddenly, I look up at the sky.%K%P
+
+0x6E0
+I see a black kite flying in the air, circling around.%K%P
+
+0x6EC
+It continues to turn around and around, without getting%Ntired of flapping.%K%P
+
+0x6F8
+Just then...%K%P
+
+0x714
+Kurumi「Huh?」%K%P
+
+0x720
+... I tear my gaze from the sky and return it to Kurumi.%K%P
+
+0x72C
+Makoto「Hmm? What's wrong?」%K%P
+
+0x738
+Kurumi「No... it's nothing.」%K%P
+
+0x744
+Kurumi「Kurumi just picked up something a little interesting...」%K%P
+
+0x750
+Makoto「... Something... interesting?」%K%P
+
+0x75C
+(Something... interesting...?)%K%P
+
+0x770
+Izumi「Oh... this?」%K%P
+
+0x77C
+Izumi「Kurumi gave this to me.」%K%P
+
+0x788
+Izumi「It was the night of the 4th. Kurumi said she 'picked it up%Non Princess Beach'...」%K%P
+
+0x79C
+Which means that's...%K%P
+
+0x7A8
+―The bell!?%K%P
+
+0x7B4
+On the last 4th, Kurumi picked up the bell on Princess%NBeach, and gave it to Izumi-san.%K%P
+
+0x7C0
+If the same history repeats itself, then...%K%P
+
+0x7CC
+Makoto「H-Hey, Kurumi?」%K%P
+
+0x7D8
+Makoto「Can I... have a look at it?」%K%P
+
+0x808
+Kurumi「All right... If you beat Kurumi at Rock-Paper-Scissors♪」%K%P
+
+0x814
+Makoto「R-Rock-Paper-Scissors!?」%K%P
+
+0x820
+Makoto「Now's not the time for-」%K%P
+
+0x82C
+Kurumi「It's fine, it's fine!」%K%P
+
+0x840
+Kurumi「Then let's go～♪ Ready, set...」%K%P
+
+0x84C
+―Just then, the gears in my mind start to whirl ultra%Nfast.%K%P
+
+0x858
+(Last time, Kurumi used... Scissors.)%K%P
+
+0x864
+(Yes, that's right! Kurumi extended the crab she was%Nholding...)%K%P
+
+0x870
+(If that's the case, then she'll probably do the same%Nthing now!)%K%P
+
+0x884
+Kurumi「Rock, Paper, Scissors... Go!」%K%P
+
+0x890
+When she shouts this, I stick out my firmly clenched fist!%K%P
+
+0x89C
+Naturally, Kurumi has stuck out the "crab".%K%P
+
+0x8B0
+Kurumi「Uwaa, Kurumi lost～」%K%P
+
+0x8C4
+Kurumi「Hey! Sumo Crab! This is your fault, isn't it?」%K%P
+
+0x8D0
+Kurumi「We lost because you used scissors!」%K%P
+
+0x8DC
+The stable manager says nothing, white foam coming%Nfrom its mouth.%K%P
+
+0x8F0
+Kurumi「Geez, it can't be helped～」%K%P
+
+0x904
+Kurumi「Then as promised, Kurumi will show you.」%K%P
+
+0x910
+As she says this, Kurumi quickly extends her left hand,%Nand opens her palm.%K%P
+
+0x91C
+Makoto「... Huh?」%K%P
+
+0x928
+There's nothing there.%K%P
+
+0x934
+In Kurumi's palm is just seawater and countless grains of%Nsand, and... nothing else.%K%P
+
+0x940
+Makoto「Hey, Kurumi! Quit lording it over me. Hurry up and show me.」%K%P
+
+0x954
+Kurumi「Huh? But Kurumi is showing you, right?」%K%P
+
+0x960
+Makoto「No you're not! Geez, don't joke around with adults!」%K%P
+
+0x974
+Kurumi「Kurumi's not joking around!」%K%P
+
+0x980
+Kurumi「Just take a closer look!」%K%P
+
+0x98C
+Makoto「... Closer?」%K%P
+
+0x9A0
+Kurumi「Yeah...」%K%P
+
+0x9AC
+Kurumi thrusts her palm right in front of my eyes while%Nnodding.%K%P
+
+0x9B8
+I firmly stare at her palm...%K%P
+
+0x9C4
+Makoto「What the hell!? There really is nothing there!」%K%P
+
+0x9D8
+Kurumi「There is!」%K%P
+
+0x9E4
+Kurumi「See, it's here, here!」%K%P
+
+0x9F0
+Using the crab's toes, Kurumi points to the center of her%Nhand.%K%P
+
+0x9FC
+Looking closely, there certainly is something...%K%P
+
+0xA10
+Kurumi「Well? It's there, isn't it?」%K%P
+
+0xA1C
+Kurumi「―It's a star sand♪」%K%P
+
+0xA28
+... It's a jagged, pointy small grain.%K%P
+
+0xA34
+It's not the bell, but a star sand...%K%P
+
+0xA40
+The star in her palm sparkles brightly.%K%P
+
+0xAC4
+Kurumi「Ready! ... Go!」%K%P
+
+0xAD8
+Kurumi「Go, go!」%K%P
+
+0xAE4
+Kurumi「GOOOOO～～!」%K%P
+
+0xAF8
+Kurumi「Ring out! Sumo Crab wins～♪」%K%P
+
+0xB04
+Kurumi takes the winning crab (the "stable manager")%Nand the losing crab, and strokes them equally.%K%P
+
+0xB10
+A smile crosses her entire face...%K%P
+
+0xB1C
+―This is an unchanging reality.%K%N
+
+0xB28
+―And yet a dynamic one... what with the star sand.%K%P
+
+0xB3C
+Izumi「―Yes! ―It's nothing more than an event in your%Ndelusion, Makoto-kun!」%K%P
+
+0xB50
+Suddenly, the words Izumi-san said last night cross my%Nmind...%K%P
+
+0xB5C
+(This scene is all just a delusion...?)%K%P
+
+0xB68
+(Kurumi's smile, the soft sunlight, and the roar of the%Nwaves breaking on the shore...)%K%P
+
+0xB74
+(You're saying that all this is an illusion invented by my%Nconsciousness...?)%K%P
+
+0xB80
+(...)%K%P
+
+0xB8C
+(Haah... what the hell am I thinking!?)%K%P
+
+0xB98
+(I'd have to be nuts to believe in such utter bullshit!)%K%P
+
+0xBA4
+Rather than be bothered with time travel and infinite%Nloops, I should be more focused on realistic things.%K%P
+
+0xBB8
+Kurumi「Hmm? What's wrong, Onii-chan?」%K%P
+
+0xBC4
+Kurumi「Your eyebrows and face are all scrunched up.」%K%P
+
+0xBD0
+Makoto「...」%K%P
+
+0xBE4
+Kurumi「Could it be... that you don't find the crab sumo%Ninteresting?」%K%P
+
+0xBF0
+Makoto「N-No, that's not it.」%K%P
+
+0xBFC
+Kurumi「Really?」%K%P
+
+0xC08
+Makoto「Yeah...」%K%P
+
+0xC14
+Kurumi「You don't have to be here if you don't want to.」%K%P
+
+0xC20
+Makoto「I'm telling you, it's really interesting!」%K%P
+
+0xC2C
+Makoto「It's so exciting that it feels like my skin's gonna melt with%Nhow hot my blood is boiling!」%K%P
+
+0xC40
+Kurumi「Hmm...」%K%P
+
+0xC54
+Kurumi「... Then it's fine♪」%K%P
+
+0xC60
+Kurumi「Kurumi thought she was the only one having fun, so she%Nwas a little worried♪」%K%P
+
+0xC6C
+Kurumi's face lights up slightly.%K%P
+
+0xC78
+Makoto「Hey, Kurumi! While we've been talking... the crabs have%Nbeen running away. Is that what you want?」%K%P
+
+0xC8C
+Kurumi「Ah! Hey, wait up, Sumo Crab!」%K%P
+
+0xCA0
+Kurumi frantically stands up, and starts chasing after%Nthe crabs.%K%P
+
+0xCBC
+But one second later...%K%P
+
+0xCE4
+Kurumi trips, and falls straight into the ground.%K%P
+
+0xCF0
+A cloud of sand soars up... She holds out her hands and%Narches her back like a shrimp... and her face is buried in%Nthe sand.%K%P
+
+0xCFC
+Makoto「Wh-What are you doing, Kurumi!?」%K%P
+
+0xD08
+I run over to Kurumi's side, and help her up.%K%P
+
+0xD14
+Kurumi looks at me, her face covered in sand.%K%P
+
+0xD20
+Makoto「Are you all right?」%K%P
+
+0xD34
+Kurumi「...」%K%P
+
+0xD40
+Makoto「...」%K%P
+
+0xD54
+Kurumi「... Eheh♪」%K%P
+
+0xD60
+Kurumi「Kurumi was crouching all this time, so her legs fell%Nasleep～♪」%K%P
+
+0xD6C
+An embarrassed smile rises to Kurumi's face.%K%P
+
+0xD78
+Grains of sand fall off her face like rain drops.%K%P
+
+0xD84
+―This is an unchanging reality.%K%N
+
+0xD90
+―And yet a dynamic one... what with that sand%Ncovered face.%K%P
+
+0xD9C
+I think that this is all right.%K%P
+
+0xDA8
+"What's more important than whether it's true or not is%Nwhether you can believe it or not."%K%P
+
+0xDB4
+(In short... that's how it is...)%K%P
+
+0xDC0
+Kurumi shuts her eyes tightly, and wipes the sand off%Nher face with her palm.%K%P
+
+0xDCC
+However, her hands are wet, so now a lot of sand is%Nstuck to her palm.%K%P
+
+0xDD8
+As a matter of course, the more she tries to wipe off, the%Ndirtier her face gets.%K%P
+
+0xDE4
+Makoto「Haah... geez...」%K%P
+
+0xDF0
+While muttering this, I use the back of my index finger to%Nwipe Kurumi's face.%K%P
+
+0xE04
+Kurumi「Teheheheh...♪」%K%P
+
+0xE10
+Kurumi bashfully sticks out her tongue.%K%P
+
+0xE1C
+Before I realize it, a smile has risen to my face.%K%P
+
+0xE54
+... ... ...%K%P
+

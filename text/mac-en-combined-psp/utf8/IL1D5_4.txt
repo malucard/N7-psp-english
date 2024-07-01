@@ -1,0 +1,486 @@
+text area offset and size:
+0xFF0
+0x24A2
+0x40
+In the end, I couldn't get any sleep after that.%K%P
+
+0x4C
+Staying in my room became unbearable, so I headed%Nover to Lunabeach to wait for it to open.%K%P
+
+0x58
+At any rate, I want to see Izumi-san's smile as soon as%Npossible.%K%P
+
+0x64
+I stand in front of the shop, and bolt open the door.%K%P
+
+0xB0
+Izumi「Huh? Makoto-kun? What's wrong? You're here so early.」%K%P
+
+0xBC
+Izumi-san's kind smile...%K%P
+
+0xC8
+That smile instantly calms my heart down.%K%P
+
+0xD4
+Makoto「W-Well... I don't really have anything to do today, so I%Nthought I'd help you out...」%K%P
+
+0xE0
+Izumi「Hu～uh? What a curious turn of events. Why?」%K%P
+
+0xFC
+Makoto「Remember the promise we made when I lost our race at%Nthe pool?」%K%P
+
+0x108
+Izumi「?」%K%P
+
+0x114
+Makoto「'One day, I'll help you out at Lunabeach.'」%K%P
+
+0x120
+Izumi「Oh～. That's what you mean... It's fine, you don't have to%Ndo that...」%K%P
+
+0x12C
+Makoto「But I do. 'A man never goes back on his word', remember?」%K%P
+
+0x138
+Izumi「Hee hee... that's true.」%K%P
+
+0x14C
+Makoto「Besides, believe it or not, I sometimes like to do selfless%Ndeeds for fun.」%K%P
+
+0x158
+Izumi「Hmm... That sounds like a complete lie.」%K%P
+
+0x164
+Makoto「Wha...!」%K%P
+
+0x170
+Izumi「Now then, confess. What are you planning?」%K%P
+
+0x17C
+Makoto「Ouch...! That hurts...」%K%P
+
+0x188
+Izumi「Hee hee, just kidding... I was just trying an imitation of%Nyou, Makoto-kun...」%K%P
+
+0x194
+Makoto「...」%K%P
+
+0x1A0
+Izumi「Right... Well then, if you wouldn't mind, please go ahead...」%K%P
+
+0x1AC
+Izumi「It sorta feels like today will be busy...」%K%P
+
+0x1B8
+Izumi-san goes back to her normal routine.%K%N
+
+0x1C4
+A wave of relief sweeps through me...%K%P
+
+0x1D0
+The truth is, the real reason I came here was to watch%Nover Izumi-san and act as her bodyguard.%K%P
+
+0x1DC
+I have to prevent the incident in that dream from%Nhappening, no matter what.%K%P
+
+0x1E8
+I must... protect Izumi-san...%K%P
+
+0x1F4
+I know that it won't happen today.%K%P
+
+0x200
+But if something does happen today, it might be the%Ncause of what happens tomorrow...%K%P
+
+0x20C
+When I think of it that way, I feel uneasy.%K%P
+
+0x218
+(For the next two days... I will definitely protect Izumi-san!)%K%P
+
+0x224
+I have to.%K%P
+
+0x240
+... ... ...%K%P
+
+0x270
+Thus, I work at Lunabeach today without pay...%K%P
+
+0x27C
+Oddly enough, Izumi-san's prediction was right on the%Nmark, as there are tons of customers today...%K%P
+
+0x290
+Izumi「And what's more... it seems that Kurumi picked today of%Nall days to go out and play...」%K%P
+
+0x29C
+Izumi-san grumbles this when it gets incredibly busy.%K%N
+
+0x2A8
+I can't help but bitterly smile at those words.%K%P
+
+0x2B4
+But man, today is REALLY busy!%K%N
+
+0x2C0
+How we're attracting so many customers, I have no idea.%K%P
+
+0x2CC
+Unaccustomed to this level of customers, Izumi's%Nscatterbrain mode is on turbo right now.%K%P
+
+0x2E0
+...%K%P
+
+0x2F4
+Izumi「Whew～, my eyes are a bit tired...」%K%P
+
+0x300
+Makoto「AH! Izumi-san! Don't rub your eyes while holding that%Nkitchen knife!!」%K%P
+
+0x314
+...%K%P
+
+0x328
+Izumi「Umm... the customer with the peperoncino and the%Nsteamed clam saut▲e was... um-」%K%P
+
+0x334
+Makoto「Izumi-san! In front of you!」%K%P
+
+0x348
+Izumi「Huh? Kyaa!!!」%K%P
+
+0x354
+Makoto「A-AHHHH!!」%K%P
+
+0x588
+Izumi「That was close... I almost fell...」%K%P
+
+0x59C
+Izumi「Huh? Makoto-kun, why are you lying on the ground?%NGeez, I won't consent to any slacking off!」%K%P
+
+0x5A8
+Makoto「...」%K%P
+
+0x5BC
+...%K%P
+
+0x5D0
+Izumi「Mmm... I can't reach it...」%K%P
+
+0x5DC
+Makoto「Ah...! Izumi-san! I'll do it! Don't pile all those chairs up, it's%Ntoo dangerous!!」%K%P
+
+0x5F0
+...%K%P
+
+0x5FC
+Izumi-san's close calls have scared me to death.%K%P
+
+0x608
+Because it's so busy, time passes by as fast as a%Nspeeding arrow...%K%P
+
+0x668
+And then, at evening...%K%P
+
+0x690
+The customers finally stop coming.%K%P
+
+0x6A4
+Izumi「Makoto-kun, shall we take a little break...?」%K%P
+
+0x6B0
+Once the last customer has left, Izumi-san turns the%Nplate on the entrance from "OPEN" to "CLOSED" and%Ncomes back.%K%P
+
+0x6C4
+Izumi「Here you go...」%K%P
+
+0x6D0
+As she says this, Izumi-san places a cup of black tea%Ndown in front of me.%K%P
+
+0x6DC
+I guess you could call this tea time, huh...%K%P
+
+0x6E8
+Izumi-san takes her own tea, and sits down opposite of%Nme.%K%P
+
+0x6F4
+It's so quiet here that it feels like that the hustle and%Nbustle that was going on just minutes ago never%Nhappened...%K%P
+
+0x700
+Suddenly, I remember those words from last night.%K%P
+
+0x70C
+"... So please... For this short time, let me love you..."%K%P
+
+0x718
+... The one who said those words is sitting in front of me%Nright now.%K%P
+
+0x724
+As soon as I think that, my chest feels hot, and I get a%Nlittle nervous.%K%P
+
+0x730
+I'm too shaken up to make eye contact with Izumi-san.%K%P
+
+0x744
+As I avert my eyes, I concentrate on Izumi-san's words...%K%P
+
+0x750
+Izumi「Hey, Makoto-kun. This morning, I got a present from Kurumi.」%K%P
+
+0x75C
+Izumi「According to her, it seems she found it on Princess%NBeach.」%K%P
+
+0x768
+Izumi「... Hey, why are you looking in that direction?」%K%P
+
+0x774
+Makoto「... Oh... that's right. I slept funny last night, so my neck is%Nkilling me...」%K%P
+
+0x780
+Izumi「...?」%K%P
+
+0x78C
+Izumi「Speaking of which, about last night...」%K%P
+
+0x798
+Makoto「A-Ah... last night was really cold. I think I'm coming down%Nwith a cold... *cough, cough*.」%K%P
+
+0x7A4
+Izumi「... A-Are you all right?」%K%P
+
+0x7B0
+Makoto「Y-Yes... I should be perfectly fine.」%K%P
+
+0x7BC
+This conversation is making me so overly-conscious of%Nmyself that I'm getting flustered.%K%P
+
+0x7C8
+I'm restless. The way she's acting, it seems like she'll end%Nup asking me "What's your answer from last night?" any%Nminute now...%K%P
+
+0x7E4
+Just then, out of the blue...%K%P
+
+0x80C
+Izumi「I'm sorry.」%K%P
+
+0x818
+... Izumi-san apologizes.%K%P
+
+0x824
+Not expecting to hear those words, I stare at Izumi-san,%Ndumbfounded.%K%P
+
+0x838
+Izumi「I said those things last night without taking your feelings%Ninto account...」%K%P
+
+0x844
+Izumi「If I had known it would make things this awkward... I%Nwouldn't have said it.」%K%P
+
+0x850
+Makoto「...」%K%P
+
+0x85C
+Izumi「I'm... an idiot.」%K%P
+
+0x868
+Izumi-san's eyes cloud up slightly.%K%P
+
+0x874
+Makoto「No way... it's just... I...」%K%P
+
+0x880
+Izumi「...」%K%P
+
+0x88C
+Makoto「... Sorry.%K I just don't know yet if I feel the same way...」%K%P
+
+0x898
+Makoto「Would you give me... a little time... to think about it?」%K%P
+
+0x8A4
+Izumi「Yes... don't rush your answer...」%K%P
+
+0x8B0
+The way she says that makes it sound like she's in pain...%K%P
+
+0x8BC
+I... just what should I do?%K%P
+
+0x924
+Before long, it's the shop's closing time.%K%P
+
+0x930
+In the end, Lunabeach's business hours concluded%Nsafely and uneventfully.%K%P
+
+0x93C
+Nothing happened to Izumi-san.%K%P
+
+0x948
+Despite feeling relieved, I can't help but get gloomy.%K%P
+
+0x954
+Our conversation this evening...%K%P
+
+0x960
+Thanks to that, the atmosphere between Izumi-san and I%Nhas become awkward.%K%P
+
+0x96C
+Izumi-san silently carried on with her work, as if nothing%Never happened...%K%P
+
+0x978
+I was unable to say anything to Izumi-san in that state.%K%P
+
+0x984
+The two of us are alone in the shop...%K%N
+
+0x990
+The mood is still rather awkward...%K%P
+
+0x99C
+In order to wipe away the atmosphere, I invite Izumi-san%Nto the lodge.%K%P
+
+0x9A8
+I bet that if we're with the others, the mood will surely%Nbrighten up.%K%P
+
+0x9B4
+Izumi-san willingly accepts my invitation.%K%P
+
+0x9C0
+The two of us begin walking to the lodge.%K%P
+
+0x9FC
+When we arrive at the lodge, Izumi-san makes dinner.%K%P
+
+0xA08
+It tastes good, but it's not as great as her usual%Ncooking.%K%P
+
+0xA14
+Of course, it could simply be my imagination...%K%P
+
+0xA20
+After we eat...%K%P
+
+0xA6C
+Izumi「Well then... after I'm done cleaning up, don't you think we%Nbetter be getting back, Kurumi?」%K%P
+
+0xA78
+... Izumi-san prompts Kurumi, and stands up.%K%P
+
+0xA94
+Kurumi「Hu～uh!? We have to go back already?」%K%P
+
+0xAA0
+Kurumi complains about Izumi-san's request.%K%P
+
+0xAAC
+And then, I decide to try laying out a proposition.%K%P
+
+0xAB8
+Makoto「Hey, why don't you two sleep over here tonight?」%K%P
+
+0xACC
+Kurumi「What!? Is it really okay?」%K%P
+
+0xAE0
+Izumi「Kurumi! ... I know we came all the way out here, but we%Nreally can't, Makoto-kun.」%K%P
+
+0xAEC
+Izumi「I have work tomorrow too, so...」%K%P
+
+0xB08
+Yuka「Oh, it's all right, isn't it? It's simple. Look, if you're worried%Nabout bedrooms, we've got some there and up there...」%K%P
+
+0xB14
+Yuka points at my room and the loft.%K%P
+
+0xB30
+Okuhiko「Hey! Those are our rooms, aren't they?」%K%P
+
+0xB3C
+Yuka「Don't worry, don't worry♪」%K%P
+
+0xB48
+Makoto「Izumi-san, you really don't have to worry about it, it's%Nfine. We'll all make sure you get up early enough in the%Nmorning...」%K%P
+
+0xB6C
+I try to be as persuasive as possible.%K%P
+
+0xB78
+If Izumi-san goes back now, it'll be troublesome.%K%P
+
+0xB84
+In three hours, the date will change.%K%P
+
+0xB90
+As long as I can see Izumi-san, she'll be safe...%K%P
+
+0xBA4
+Izumi「... Haah...」%K%P
+
+0xBB0
+Izumi「... All right, we accept.」%K%P
+
+0xBBC
+Izumi「But don't worry about rooms. Kurumi and I will be okay%Njust sleeping together on the living room sofa...」%K%P
+
+0xBC8
+Makoto「In that case, then you can use the loft, Izumi-san♪」%K%P
+
+0xC00
+Okuhiko「Hey, that's my room!」%K%P
+
+0xC0C
+Makoto「There's just something a little too big in there, but it can%Nbe removed.」%K%P
+
+0xC20
+Okuhiko「L-Listen to me, dammit!!」%K%P
+
+0xC2C
+Makoto「Don't worry, don't worry♪」%K%P
+
+0xC38
+Okuhiko「I'm worried!!」%K%P
+
+0xC44
+Yuka「It's all right～♪ If it's you, Okuhiko-kun, then you should%Nbe able to sleep elegantly even on the sofa♪」%K%P
+
+0xC50
+Okuhiko「Just how the hell do you sleep elegantly on a sofa!!」%K%P
+
+0xC5C
+Just then, Haruka tugs on Okuhiko's clothes as he%Nwhines.%K%P
+
+0xC78
+Haruka「Okuhiko... if you're a man, then just put up with it...」%K%P
+
+0xC8C
+Okuhiko「...」%K%P
+
+0xC98
+Haruka「... Isn't this where you say 'yes'?」%K%P
+
+0xCAC
+Okuhiko「... Yes.」%K%P
+
+0xCB8
+It seems Okuhiko is unable to withstand Haruka's%Ncomment.%K%P
+
+0xCE4
+Kurumi「Sorry, Okkun...」%K%P
+
+0xCF8
+Okuhiko「No, it's fine... Now that you mention it, I was in the mood for%Nsleeping on the sofa today...」%K%P
+
+0xD04
+Okuhiko says this quite sullenly.%K%P
+
+0xD20
+Kurumi「Yaay♪ Let's all play a card game tonight, guys!」%K%P
+
+0xD2C
+The overjoyed Kurumi skips about the room.%K%P
+
+0xD48
+Izumi-san furrows her brow at this, as if to say, "can't be%Nhelped".%K%P
+

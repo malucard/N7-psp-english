@@ -1,0 +1,462 @@
+text area offset and size:
+0x1208
+0x1D6E
+0x94
+―Seven days of the Camp.%K%N
+
+0xA0
+It should have ended peacefully without any incidents.%K%P
+
+0xAC
+Only the memories would be left behind in my album of%Nrecollections...%K%P
+
+0xF4
+Yuka「Um, you're Makoto-kun... that is, Makoto Ishihara , right?」%K%P
+
+0x108
+Yuka「It's nice to meet you♪」%K%P
+
+0x114
+Yuka「I'm 'Yuka'... 'Yuka Kawashima'. I really don't know why, but%Nbefore I knew it, I became the 'leader' of this group.」%K%P
+
+0x120
+Yuka「Well, anyway, I'm pleased to meet you!」%K%P
+
+0x164
+Yuka「Well then, go ahead and eat up～♪」%K%P
+
+0x170
+Okuhiko「S- Sorry... My stomach's not feeling so good...」%K%P
+
+0x184
+Haruka「I'm... not hungry.」%K%P
+
+0x198
+Yuka「Whaaat---!? But I just finished it and everything!」%K%P
+
+0x1A4
+Yuka「I remade it countless times, you know!」%K%P
+
+0x1B8
+Yuka「Makoto, you're hungry... right?」%K%P
+
+0x1FC
+Yuka「What's wrong? Out of bluffs?」%K%P
+
+0x208
+Yuka「Well then, here's the next one♪」%K%P
+
+0x214
+Yuka「Sun's Warmth Kiss of Fire Serve!」%K%P
+
+0x220
+Yuka「O Sun! O Sun! Grant me blessings with your bright rays!」%K%P
+
+0x234
+Yuka「BLAZING SCORCHING FIRE BOMB!」%K%P
+
+0x294
+Yuka「It'd be nice if it continued to go on like this forever...」%K%P
+
+0x2A0
+Yuka「It'd be nice if we could keep on living as though we were%Nwandering in a dream like this...」%K%P
+
+0x2B4
+Yuka「Once this Camp is over, school will start again right%Naway, won't it?」%K%P
+
+0x2C0
+Yuka「Back to boring classes and a boring job... Those%Nordinary days that make me want to scream...」%K%P
+
+0x2CC
+Yuka「To me, that world is incredibly tedious.」%K%P
+
+0x310
+Yuka「Well, because you're so easy to tease. I just wanted to%Ntry lording it over you for a bit.」%K%P
+
+0x324
+Yuka「Besides, Makoto, you were so cute♪」%K%P
+
+0x338
+Yuka「Yeah. It was really cute how desperate you looked♪」%K%P
+
+0x34C
+Yuka「It was kinda... like a newborn puppy!」%K%P
+
+0x3B8
+Yuka「Hey, Makoto...?」%K%P
+
+0x3C4
+Yuka「...When was your first love?」%K%P
+
+0x3D0
+Makoto「Mine was...」%K%P
+
+0x3DC
+... ... ...%K%P
+
+0x3E8
+Yuka「I see...」%K%P
+
+0x3F4
+Makoto「What about you, Yuka? When was your first love?」%K%P
+
+0x400
+Yuka「Mine...」%K%P
+
+0x40C
+Yuka「Mine was... in middle school...」%K%P
+
+0x418
+Yuka「Even now, I can't forget it...」%K%P
+
+0x424
+Yuka「I met my first love in spring, when I was in 9th grade...」%K%P
+
+0x430
+Yuka「It was the day of the opening ceremony in April, when the%Nnew semester started...」%K%P
+
+0x474
+Yuka「That was how I fell in love...」%K%P
+
+0x480
+Makoto「...I see...」%K%P
+
+0x48C
+Makoto「Say, Yuka? Did it go well with that boy?」%K%P
+
+0x498
+Yuka「Huh? Mmm...」%K%P
+
+0x4B4
+Yuka「No. Because it was always an unrequited love...」%K%P
+
+0x4C0
+Makoto「...」%K%P
+
+0x4CC
+Yuka「But...」%K%P
+
+0x4D8
+Yuka「But even now, I can't forget him...」%K%P
+
+0x4E4
+Makoto「―!?」%K%P
+
+0x4F0
+Yuka「He was...」%K%P
+
+0x4FC
+Yuka「He was very similar...」%K%P
+
+0x528
+Yuka「To you, Makoto...」%K%P
+
+0x560
+―That's right. All that would be left afterwards would%Nbe normal days and just a few happy memories...%K%P
+
+0x56C
+Just memories...%K%P
+
+0x5CC
+If only I hadn't seen that "nightmare"...%K%P
+
+0x604
+Yuka「Wh- ...What's going on!?」%K%P
+
+0x660
+Makoto「In that dream...」%K%P
+
+0x66C
+Makoto「Someone... died.」%K%P
+
+0x680
+Yuka「!?」%K%P
+
+0x68C
+Makoto「It was Saturday, April 6th...」%K%P
+
+0x698
+Makoto「I don't remember the exact time and location. And I don't%Nknow who that 'someone' was either...」%K%P
+
+0x6A4
+Makoto「But... in that corpse's palm...」%K%P
+
+0x6B0
+Yuka「Hold on!!」%K%P
+
+0x6C4
+Yuka「Hold... on...」%K%P
+
+0x6D0
+Yuka「It couldn't be...」%K%P
+
+0x6DC
+Yuka「It couldn't be that in that person's palm was... a 'bell'?」%K%P
+
+0x6E8
+Makoto「!?」%K%P
+
+0x6FC
+Yuka「That's right!? That's right, isn't it!?」%K%P
+
+0x720
+Yuka「Why... Why now...?」%K%P
+
+0x72C
+Makoto「N-Now? What do you mean... 'now'? What does that mean!?」%K%P
+
+0x738
+Yuka「...」%K%P
+
+0x744
+Makoto「Hey, Yuka!?」%K%P
+
+0x750
+Yuka「...」%K%P
+
+0x78C
+Yuka「Makoto...」%K%P
+
+0x798
+Yuka「All right, Makoto?」%K%P
+
+0x7A4
+Yuka「Will you remain calm and listen to me?」%K%P
+
+0x7B0
+Yuka「The dream you had―the truth is... I also... had the same%Ndream...」%K%P
+
+0x7BC
+Makoto「...!?」%K%P
+
+0x7C8
+Yuka「It was also on the same day as you... the morning of the%N1st...」%K%P
+
+0x808
+Yuka「'The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time.'」%K%P
+
+0x814
+Yuka「It's the 'Will free you from time' part!」%K%P
+
+0x820
+Makoto「???」%K%P
+
+0x82C
+Yuka「You don't understand what it means?」%K%P
+
+0x838
+Makoto「...Huh?」%K%P
+
+0x844
+Yuka「To be 'set free' from the flow of 'time' and to be blown%Naway to a different time...」%K%P
+
+0x850
+Yuka「In other words―it means time travel!」%K%P
+
+0x86C
+Yuka「On that day―Saturday, April 6th... we were sent... to%Nthe world of five days ago...」%K%P
+
+0x878
+Yuka「And if this hypothesis is right, then what I'm about to say%Nmight also be possible.」%K%P
+
+0x884
+Yuka「Tomorrow―On Saturday, April 6th... we will be sent... to%Nthe world of five days ago...」%K%P
+
+0x890
+Makoto「That... can't be...」%K%P
+
+0x89C
+Makoto「It's impossible... it's definitely... impossible...」%K%P
+
+0x8B8
+Yuka「Yeah... That's right... It's only natural to think that way...」%K%P
+
+0x8C4
+Yuka「When I think about it calmly, I realize that telling you to%Nbelieve this absurd story is just nuts...」%K%P
+
+0x8D0
+Yuka「I might just have gone insane, and everything's a mere%Ndelusion of mine...」%K%P
+
+0x8DC
+Yuka「But...」%K%P
+
+0x8E8
+Yuka「But... in case this is... reality, then...」%K%P
+
+0x8F4
+Yuka「So please... I want you to swear just one thing...」%K%P
+
+0x900
+Yuka「After this, with no exceptions, don't approach this%Nshrine...」%K%P
+
+0x90C
+Yuka「Of course, I'll never come here again as well...」%K%P
+
+0x958
+"Dear Makoto..."%K%P
+
+0x964
+"I'm sorry. I'm going there."%K%P
+
+0x9A4
+Yuka「So you came here after all.」%K%P
+
+0x9B0
+Makoto「Why... Why, Yuka...?」%K%P
+
+0x9BC
+Yuka「You broke your promise, huh?」%K%P
+
+0x9C8
+Yuka「You swore that you wouldn't approach the shrine again,%Nno matter what...」%K%P
+
+0x9D4
+Makoto「You're a fine one to talk, aren't you!? What reason did%Nyou have for coming here when you knew how risky it%Nwas!?」%K%P
+
+0xA0C
+A promise that couldn't be kept...%K%N
+
+0xA18
+The important promise that Makoto and I made...%K%N
+
+0xA24
+At that time, I couldn't keep it...%K%P
+
+0xA8C
+Yuka「Wh... What's the meaning of this...???」%K%P
+
+0xA98
+Yuka「Why are there... two bells...???」%K%P
+
+0xAA4
+Makoto「Y-Yuka...」%K%P
+
+0xAB0
+Makoto「Yuka... you said you threw it away... didn't you...?」%K%P
+
+0xAC4
+Yuka「But...」%K%P
+
+0xAD0
+Yuka「But...!」%K%P
+
+0xADC
+Makoto「Were... you lying...?」%K%P
+
+0xBE4
+At that time...%K%N
+
+0xBF0
+At that time, an earthquake destroyed the shrine...%K%N
+
+0xBFC
+Makoto tried to protect me...%K%P
+
+0xC20
+Makoto「Men ought to try their best to protect women―that's%Nthe way it's been for ages!」%K%P
+
+0xC2C
+Yuka「Well then, are you saying you'll try to protect me?」%K%P
+
+0xC38
+Makoto「...That's right.」%K%P
+
+0xC44
+Yuka「That's just stupid...」%K%P
+
+0xC50
+Makoto「It's not stupid!」%K%P
+
+0xC5C
+Makoto「From now on, I will definitely protect you!」%K%P
+
+0xC68
+Yuka「...Are you... serious?」%K%P
+
+0xC74
+Makoto「If this were a joke, it'd be a pretty crappy one, wouldn't%Nit?」%K%P
+
+0xC80
+Makoto「I'm serious. I swear on this starry sky that I'm serious!」%K%P
+
+0xC8C
+Yuka「Hee hee.」%K%P
+
+0xC98
+Yuka「You're kind...」%K%P
+
+0xCA4
+Makoto「...Kind?」%K%P
+
+0xCB0
+Yuka「You're the spitting image of him in that regard.」%K%P
+
+0xCF8
+But... he was just a little too late...%K%P
+
+0xD2C
+...The nightmare had become reality...%K%P
+
+0xD38
+I saw Makoto's heavily dangling palm.%K%P
+
+0xD44
+On top of it was a small fragment of light...%K%P
+
+0xD50
+―The bell.%K%P
+
+0xD5C
+It was so painful...%K%N
+
+0xD68
+It was as if I was burning in hellfire.%K%P
+
+0xD74
+My body writhed in agony as the pain clawed at my heart.%K%N
+
+0xD80
+But it wasn't physical pain.%K%P
+
+0xD8C
+It was my heart...%K%N
+
+0xD98
+My heart... felt as if it had been gouged out by a sharp%Nknife.%K%P
+
+0xDA4
+I broke my promise...%K%P
+
+0xDB0
+"After this, with no exceptions, I won't approach this%Nshrine..." ―Even though I swore that...%K%P
+
+0xDBC
+This is the reparation... for my extremely great betrayal.%K%P
+
+0xDC8
+Yuka「Why ...」%K%P
+
+0xDD4
+My hoarse voice filled the empty void.%K%P
+
+0xDE0
+Tears streamed down from my face.%K%P
+
+0xDEC
+Before long, from Makoto's palm...%K%P
+
+0xE1C
+...the bell falls.%K%P
+
+0xEA4
+It might have been my wish.%K%N
+
+0xEB0
+Or it might have been Makoto's wish.%K%P
+
+0xEBC
+"I want to go back to that time , once more―!"%K%P
+
+0xF2C
+―At that time , a miracle happened...%K%P
+

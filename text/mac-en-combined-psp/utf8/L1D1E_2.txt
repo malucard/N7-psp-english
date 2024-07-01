@@ -1,0 +1,1461 @@
+text area offset and size:
+0x2C50
+0x7260
+0xA4
+Yuka「Wow, to think there'd be a caf▲ here...」%K%P
+
+0xB0
+Yuka says this on our way to the shopping district, as%Nwe walk on a paved road alongside the coastline.%K%P
+
+0xBC
+I didn't notice it until she said it, but there is indeed a%Nlone caf▲ erected by the road.%K%P
+
+0xC8
+It's a two story building made of wood, with a blue%Ntriangular roof, and white-washed walls. The walls are%Ngiven a rosy hue by the setting sun gently shining on it.%K%P
+
+0x118
+Okuhiko「It's got pretty good taste.」%K%P
+
+0x124
+Okuhiko says this.%K%P
+
+0x130
+He's right... Thanks to the fact it's facing the water and%Nthat you can can hear the pleasant sound of the tiny%Nwaves washing up on shore, it's reminiscent of an Italian%Nrestaurant overlooking the Adriatic Sea.%K%P
+
+0x13C
+The sign above the entrance reads "Lunabeach" in big%Nletters.%K%P
+
+0x148
+Lunabeach... huh.%K%P
+
+0x154
+The front door has has a plate with the word "OPEN"%Nwritten on it.%K%P
+
+0x168
+After a little while, we stop walking as we take in the sight%Nof the caf▲ interweaving itself with the late afternoon%Nsky.%K%P
+
+0x174
+??「Huh? Could you be...」%K%P
+
+0x180
+Makoto「Huh?」%K%P
+
+0x18C
+I search for the owner of that voice. It sounds familiar...%K%P
+
+0x198
+... It came from the back of the caf▲.%K%N
+
+0x1A4
+I see a girl standing there with a broom in her hands.%NShe's staring right at us.%K%P
+
+0x1B0
+Huh? This girl is...%K%P
+
+0x1E0
+The girl places the broom against the wall, and runs over%Nto us.%K%P
+
+0x1EC
+??「Umm... you're... the people who ordered the seafood%Npizza... right?」%K%P
+
+0x1F8
+She's the delivery girl who gave us the pizza for lunch.%K%P
+
+0x214
+Okuhiko「Huh...? R-Right, thanks for doing that...」%K%P
+
+0x220
+As Okuhiko finally recognizes her, a crooked grin slowly%Nemerges on his face.%K%P
+
+0x22C
+He must feel awkward right now, considering how he lied%Nabout his identity earlier.%K%P
+
+0x248
+Yuka「Hmm... what this? You two know her?」%K%P
+
+0x254
+Oh... I see. Yuka and Haruka didn't meet the girl back then.%K%P
+
+0x260
+Makoto「Ah... uh, remember the pizza we ate for lunch? She's the%None who delivered it.」%K%P
+
+0x274
+Yuka「Ah. Okay.」%K%P
+
+0x280
+Yuka gives a small nod of understanding.%K%P
+
+0x294
+??「Eheheh... thank you very much for your continued%Npatronage♪」%K%P
+
+0x2A0
+The girl bows her head.%K%N
+
+0x2AC
+I see, so she works at this shop.%K%P
+
+0x2C0
+... Huh? Now that I think about it, Haruka's... Huh? Haruka?%K%P
+
+0x2D4
+Haruka is giving the girl a hard stare. She looks a bit pale.%K%P
+
+0x2E0
+Makoto「... Haruka?」%K%P
+
+0x2F4
+When I call her name, Haruka's glance turns towards me.%K%P
+
+0x300
+... What? Her eyes are pleading me to do something, but I%Ndon't know what.%K%P
+
+0x31C
+Yuka「Hey. Since we're just standing here talking, why don't we%Ntake a little rest here?」%K%P
+
+0x328
+Yuka throws her proposition out before I can speak.%K%N
+
+0x334
+Everybody's attention immediately turns towards her.%K%P
+
+0x350
+Okuhiko「You're right, I'm a little tired from all that walking. Yeah,%Nlet's do that.」%K%P
+
+0x36C
+??「Ah, yeah, yeah. Do it～♪」%K%P
+
+0x378
+This gives Yuka's idea two votes of approval.%K%P
+
+0x38C
+Yuka「Makoto? What about you?」%K%P
+
+0x398
+Makoto「Huh? Me? Ah, sure... I don't mind.」%K%P
+
+0x3A4
+I'm too worried about Haruka right now to really care%Nmuch.%K%P
+
+0x3B8
+Yuka「Haruka? Are you also okay with this?」%K%P
+
+0x3CC
+Yuka asks Haruka last. Naturally, she thinks she'll agree...%K%P
+
+0x3E0
+Haruka「I'll... I'll... pass.... I'll go back.」%K%P
+
+0x3F4
+Yuka「Huh...? Why?」%K%P
+
+0x400
+Yuka is bewildered by that unexpected reply.%K%P
+
+0x41C
+Okuhiko「Huh? What's wrong, Haruka-chan? Are you not feeling%Nwell?」%K%P
+
+0x428
+Haruka shakes her head.%K%P
+
+0x444
+Yuka「Then why...?」%K%P
+
+0x450
+Haruka「...」%K%P
+
+0x45C
+Yuka「If that's the case, then just stay. If you don't have a%Nreason, you can't go off on your own. Come on, it's a%Ngroup activity...」%K%P
+
+0x468
+Haruka「...」%K%P
+
+0x484
+Okuhiko「Haruka-chan must also be exhausted. I bet you'll feel a%Nlot better if you rest here for a bit.」%K%P
+
+0x4A0
+Yuka「Yeah, come on, Haruka.」%K%P
+
+0x4B4
+Haruka「... All right.」%K%P
+
+0x4C0
+Finally, Haruka nods, but it seems she's reluctant.%K%P
+
+0x4CC
+She's just tired... that might be it.%K%N
+
+0x4D8
+She did this earlier at tennis, and she was alone even at%Nthe lodge.%K%P
+
+0x4E4
+The girl's inexperienced with interacting with people, so%Nthis camp must be a tiring experience...%K%P
+
+0x4F0
+The way Haruka glares at the delivery girl irks me a bit,%Nbut I think it's probably because of her aforementioned%Nexhaustion.%K%P
+
+0x50C
+??「... Hmm. So does everyone agree?」%K%P
+
+0x518
+Makoto「Huh? Yeah, looks that way.」%K%P
+
+0x52C
+The girl replies to my answer with a satisfied smile.%K%P
+
+0x540
+??「Well then, time to give you four a tour of Lunabeach♪」%K%P
+
+0x554
+The girl guides us through Lunabeach's entrance.%K%P
+
+0x5B8
+??「Onee-chan, we have customers～♪」%K%P
+
+0x5C4
+... Huh? Onee... chan?%K%P
+
+0x600
+??「What's this? It's rare for Kurumi to attract customers.」%K%P
+
+0x60C
+The woman behind the counter gives us a welcoming%Nsmile.%K%P
+
+0x618
+She looks like she's in her early 20's.%K%N
+
+0x624
+Her short hair and apron suit her well... She gives me the%Nimpression of having a rather motherly aura.%K%P
+
+0x630
+Makoto「Umm... You said 'Onee-chan', so does that mean you two%Nare... sisters?」%K%P
+
+0x64C
+Kurumi「Yup! Onee-chan and Kurumi are true blood-related%Nsisters.」%K%P
+
+0x658
+The girl called Kurumi sticks out her chest and giggles.%K%P
+
+0x664
+... I don't know if that's really something to be proud%Nabout...%K%P
+
+0x678
+... Huh?%K%P
+
+0x68C
+... Haruka?%K%P
+
+0x6A0
+Is it my imagination...?%K%N
+
+0x6AC
+I thought I saw Haruka give the woman behind the%Ncounter a terribly flustered look...%K%P
+
+0x6C0
+Haruka「...」%K%P
+
+0x6CC
+Haruka is silently staring out the window at the scenery.%K%N
+
+0x6D8
+Her face is expressionless.%K%N
+
+0x6E4
+She's like a soulless doll...%K%P
+
+0x6F0
+... So it really was just my imagination after all?%K%P
+
+0x718
+Yuka「U-Um, then if your sister is this shop's manager, does%Nthat mean you two own this...?」%K%P
+
+0x724
+??「Ah... that's not it. I'm just working here part-time, and%NKurumi is working as my assistant.」%K%P
+
+0x730
+The woman behind the counter answers Yuka's question%Nbefore she finishes.%K%P
+
+0x73C
+Okuhiko「Huh...?」%K%P
+
+0x748
+Izumi「I'm sorry, where are my manners? I'm 'Izumi Morino', a%Npart-time worker for this shop.」%K%P
+
+0x754
+Izumi「This is Kurumi. She's my little sister, and she sometimes%Nhelps me with the shop. Come on, Kurumi, go ahead and%Nproperly say 'Hello'.」%K%P
+
+0x760
+The woman named Izumi urges the girl to introduce%Nherself.%K%P
+
+0x76C
+Kurumi「Ah... Umm... I'm 'Kurumi Morino'. Right now, since Kurumi's on%Nschool break, she came here to have fun with%NOnee-chan.」%K%P
+
+0x778
+Kurumi「When the shop gets busy, Kurumi helps out with various%Nthings.」%K%P
+
+0x784
+Kurumi「Today, we had a party of tourists come in for lunch...%NWithout Kurumi, we would really have had a lot of trouble%Nwith them...」%K%P
+
+0x790
+Kurumi is singing her own praises...%K%P
+
+0x79C
+Yuka「Kurumi-chan, you're amazing♪」%K%P
+
+0x7A8
+Yuka pats Kurumi's head and rustles through her hair.%K%P
+
+0x7B4
+Kurumi「Yep! After all, Kurumi's all grown up!」%K%P
+
+0x7C0
+She says that, yet she looks quite the opposite as she%Nenjoys having her head petted.%K%P
+
+0x7CC
+Spoil a child too much, and she'll grow up spoiled. Well,%Nthat's my outside opinion.%K%P
+
+0x7D8
+(Izumi Morino-san and Kurumi Morino. The Morino sisters,%Nhuh...)%K%P
+
+0x7E4
+(Huh? ... Morino?)%K%P
+
+0x7F0
+The surname "Morino" triggers something within me.%K%P
+
+0x7FC
+... Where have I heard it before?%K%N
+
+0x808
+Is it just my imagination...?%K%P
+
+0x814
+Before long, Izumi-san explains to us that the real shop%Nmanager is absent because he's in Italy shopping for%Ntableware.%K%P
+
+0x820
+So for now, Izumi is managing it all by herself.%K%P
+
+0x82C
+The owner apparently often leaves the store%Nunsupervised for trips like this.%K%P
+
+0x838
+Izumi「I guess you could say I'm just the manager's substitute.」%K%P
+
+0x844
+Izumi-san says this with a sweet smile.%K%P
+
+0x850
+That gentle grin and her older woman charm causes my%Nheart to start pounding.%K%P
+
+0x85C
+I try to distract myself by surveying the shop.%K%P
+
+0x870
+The interior and exterior look like they were inspired by%Nan Italian restaurant.%K%P
+
+0x87C
+The seats by the counter and tables, as well as the%Nfixtures placed here and there, go well with the store's%Natmosphere.%K%P
+
+0x888
+Against the wall is an old fashioned jukebox, where an%Nold jazz hit from several decades ago is playing...%K%P
+
+0x894
+... The store's interior is rather relaxing.%K%P
+
+0x8A0
+From the window facing the sea, you can see the coast%Nof Moon Beach, giving the narrow shop's interior a%Nsense of depth and openness.%K%P
+
+0x8AC
+There's a door in the back, which seems to lead to an%Nopen terrace outside.%K%P
+
+0x8B8
+However... the restaurant's counter gives me the%Nimpression that the place could easily be mistaken for a%Nbar.%K%P
+
+0x8CC
+Izumi「When it's night time, the shop is both a restaurant and a%Nbar.」%K%P
+
+0x8D8
+Izumi-san explains this when she notices me observing%Nthe shop's layout.%K%P
+
+0x8E4
+Whoa! Am I that easy to read...?%K%P
+
+0x8F0
+Makoto「I-Is that so... Wow...」%K%P
+
+0x904
+I give a vague nod, averting my eyes.%K%N
+
+0x910
+I fear that if I look into Izumi-san's eyes right now, she'll%Nread my mind...%K%P
+
+0x91C
+This time, I decide to face Kurumi.%K%P
+
+0x94C
+Okuhiko「By the way... Kurumi-chan, what grade are you in right%Nnow?」%K%P
+
+0x958
+When I look over, I see Okuhiko talking to Kurumi.%K%P
+
+0x964
+Kurumi「Huh? Oh, Kurumi's a third year.」%K%P
+
+0x970
+Okuhiko「I see, I see, a third year in middle school, huh? You'll be%Ntaking your high school entrance exams soon... that'll be%Ntough.」%K%P
+
+0x97C
+Kurumi「You're wrong! Kurumi's not in middle school; she's a third%Nyear in high school!」%K%P
+
+0x990
+...%K%P
+
+0x99C
+Makoto「... Huh?」%K%P
+
+0x9A8
+My face twists in shock. Okuhiko is also gaping in%Nsurprise.%K%P
+
+0x9B4
+When she delivered the pizza, we were both under the%Nimpression that she was in middle school.%K%P
+
+0x9C8
+Kurumi「Kurumi is 17 years old, after all!」%K%P
+
+0x9D4
+Her cheeks puff out in protest. Does she have some%Nsort of complex about her childish appearance?%K%P
+
+0x9E0
+... Though... She is rather baby faced.%K%P
+
+0xA18
+Izumi「And what about all of you? From the looks of it, you're all%Ncollege students, right?」%K%P
+
+0xA24
+Izumi-san asks us this as she observes this all with a%Nsmile.%K%P
+
+0xA40
+Yuka「You're right. We should also introduce ourselves...」%K%P
+
+0xA4C
+Yuka clears her throat with a small cough before%Npromptly doing so.%K%P
+
+0xA58
+She tells her how we'll be juniors in college.%K%N
+
+0xA64
+That we're all members of the same seminar.%K%P
+
+0xA70
+That we're currently staying at a nearby lodge for a%N"Seminar Camp"... She explains everything.%K%P
+
+0xA7C
+Afterwards, we both give her our names.%K%P
+
+0xA98
+Izumi「Yuka-chan and Makoto-kun, huh... All right, I'll remember%Nthat.」%K%P
+
+0xAA4
+Kurumi「Kurumi will remember it too♪」%K%P
+
+0xAC0
+Yuka「And this girl is...」%K%P
+
+0xAF8
+Haruka「...」%K%P
+
+0xB04
+Izumi「...?」%K%P
+
+0xB10
+Kurumi「...??」%K%P
+
+0xB1C
+Makoto「H-Hey! Haruka...」%K%P
+
+0xB28
+Haruka silently continues to stare at the scenery out%Nthe window.%K%P
+
+0xB3C
+Yuka「Ah... U-Um... she's Haruka Higuchi, another member of our%Ngroup.」%K%P
+
+0xB48
+Yuka「She's a year younger than us, but she skipped a grade,%Nso she's in our grade. Right, Haruka?」%K%P
+
+0xB54
+Haruka「...」%K%P
+
+0xB60
+Yuka「... Well, she may seem like she's extremely shy, especially%Naround strangers, but even though she doesn't look like%Nshe's very social, she's a nice person deep down.」%K%P
+
+0xB6C
+Yuka is desperately trying to support Haruka.... However,%Nthe girl herself shows no sign of entertaining Yuka's%Nwhims.%K%P
+
+0xB88
+Izumi「Yes, you're right. I understand.」%K%P
+
+0xB94
+Izumi-san smiles, undaunted by Haruka's behavior. It's%Nhard to tell if she really does...%K%P
+
+0xBB0
+Kurumi「So you're Haruka-san. Nice to meet you～♪」%K%P
+
+0xBBC
+Kurumi holds out her hand, awaiting a handshake from%NHaruka.%K%P
+
+0xBD8
+Haruka「...」%K%P
+
+0xBEC
+Haruka glances at Kurumi, but turns back towards the%Nwindow again.%K%P
+
+0xC08
+Yuka「Haruka!?」%K%P
+
+0xC14
+Despite Yuka's urgings, Haruka doesn't even twitch.%K%P
+
+0xC30
+Kurumi uneasily pulls back her outstretched hand, and%Nscratches her head.%K%P
+
+0xC4C
+Despite Haruka's rudeness, a gentle smile rises on%NIzumi-san's face as she looks towards her.%K%P
+
+0xC70
+The atmosphere is quite the awkward one...%K%P
+
+0xCA0
+Okuhiko「Well then, I am...!」%K%P
+
+0xCAC
+Okuhiko loudly draws attention to himself in an attempt to%Nwipe out the heavy atmosphere.%K%P
+
+0xCB8
+His sudden burst causes all of us, except for Haruka, to%Nturn their attention towards him.%K%P
+
+0xCC4
+Just because he feels left out doesn't mean he has to%Nbe an attention whore about it...%K%P
+
+0xCD8
+Okuhiko「The always invigorated youth, the gallant man with a%Ntender heart, the warrior of justice sent by God himself%Nfor the sake of protecting the Earth... his name is%N'Okuhiko Iida'!!!」%K%P
+
+0xD08
+Kurumi and Izumi-san tilt their heads in confusion and%Nstare at Okuhiko, who splurts this out.%K%P
+
+0xD14
+He was so impatient to talk that he had just%Nspontaneously shouted this nonsense...%K%P
+
+0xD20
+After hearing such a ridiculous introduction, Izumi-san is%Ndesperately trying to keep herself from laughing.%K%P
+
+0xD3C
+However, for some reason, Okuhiko's words have left%NKurumi dumbfounded.%K%P
+
+0xD48
+Kurumi「... Did you say... 'Iida'?」%K%P
+
+0xD54
+I'm taken aback by Kurumi's words.%K%P
+
+0xD60
+Dammit, Okuhiko...! When you accepted the pizza, you%Nintroduced yourself as "Asakura"...%K%P
+
+0xD74
+Okuhiko seems to have realized this too, as his body%Nstiffens.%K%P
+
+0xD80
+I'm shocked speechless.%K%P
+
+0xD94
+Kurumi「Huh? But earlier, you said it was... 'Asakura'.」%K%P
+
+0xDA0
+Okuhiko「Uh, no, I, uh...」%K%P
+
+0xDAC
+Okuhiko looks at me. I turn my head away to ignore him. It%Nwas his plan. Why should I have to help him?%K%P
+
+0xDEC
+At that moment, the door is violently thrown open.%K%N
+
+0xDF8
+We all turn around in surprise...%K%P
+
+0xE34
+Standing there is a girl with her hair tied up in a ponytail.%K%P
+
+0xE40
+??「My name is 'Asakura'. Is the manager here?」%K%P
+
+0xE4C
+The girl scans all of us. Even though she's not really that%Ntall, I feel like I'm being looked down upon.%K%P
+
+0xE78
+Izumi「Yes... That would be me...」%K%P
+
+0xE84
+Izumi-san answers with a vacant expression. It's as if%Nshe's not intimidated by this rich-looking girl. She's really%Nsomething.%K%P
+
+0xE98
+??「What's the meaning of this!?」%K%P
+
+0xEA4
+She suddenly shouts. We're all frozen in place.%K%P
+
+0xEB8
+Perhaps she's realized how uneasy we are, for the girl%Ntakes in a deep breath.%K%N
+
+0xEC4
+She seems to have calmed down a bit.%K%P
+
+0xED0
+Saki「Excuse me. My name is Saki Asakura. I'm from the Asakura%Nsummer house.」%K%P
+
+0xEDC
+So her name is Saki. A summer home, huh... She doesn't%Njust look wealthy; she is wealthy.%K%P
+
+0xEE8
+Izumi「So that's it... Thank you for your continued patronage...」%K%P
+
+0xEF4
+Saki「It's not like I always use this place... Where's the pizza%Nthat I ordered?」%K%P
+
+0xF08
+Izumi「Huh? What are you talking about?」%K%P
+
+0xF1C
+Saki「My P-I-Z-Z-A! How many hours do you think I've been%Nwaiting for it!?」%K%P
+
+0xF30
+Izumi「How many?」%K%P
+
+0xF3C
+Saki「Six hours, six goddamn hours! Just what kind of shop%Nare you running here!?」%K%P
+
+0xF48
+Makoto「You waited that long?」%K%P
+
+0xF64
+Okuhiko「Seems there's people out there with quite the free time%Non their hands.」%K%P
+
+0xF78
+Saki「I wasn't talking to you two.」%K%P
+
+0xF8C
+Okuhiko「I wasn't talking to you either.」%K%P
+
+0xF98
+Makoto「And I was talking to myself.」%K%P
+
+0xFAC
+Saki「Don't talk until I say so! Got it!?」%K%P
+
+0xFB8
+Makoto「Huh?」%K%P
+
+0xFDC
+Saki gives me a dirty look.%K%P
+
+0xFE8
+In response to that intense glare, I...%K
+
+0x2BC8
+Keep my mouth shut.
+
+0x2BD4
+Talk back to her right away.
+
+0x1028
+I'll just keep my mouth shut.%K%P
+
+0x1044
+I decide to talk back to her without a moment's delay.%K%P
+
+0x1050
+Makoto「What's the big deal, anyway...?」%K%P
+
+0x1064
+Saki「What was that...!?」%K%P
+
+0x1070
+Makoto「I'm just saying. I'm sorry about your pizza, but if you were%Nthis angry, you should have just called earlier.」%K%P
+
+0x107C
+A completely sound argument.%K%P
+
+0x1098
+Saki falters, but only briefly. Soon enough, she gets%Neven more pissed.%K%P
+
+0x10A4
+Saki「What the hell... You don't even know anything... This is why%NI don't want to talk to you assholes!」%K%P
+
+0x10B0
+Saki「That's enough! I said this earlier, but I'm not in the mood%Nto argue with you!! My business right now is only with that%Nmanager there!」%K%P
+
+0x10BC
+Whatever I say is probably useless... Time to put an end%Nto this pointless debate.%K%P
+
+0x10C8
+Makoto「Yeah, yeah. I get you. But you know...」%K%P
+
+0x10DC
+Saki「...?」%K%P
+
+0x10E8
+Makoto「You shouldn't be so rude, shouting like that towards%Nstrangers.」%K%P
+
+0x10F4
+Saki「...」%K%P
+
+0x1100
+Ha. There. I won't give into any sort of upper class%Nrepression.%K%P
+
+0x110C
+And besides, those were my honest feelings. If she just%Nshuts up, then she might even pass as a refined young%Nlady.%K%P
+
+0x1118
+Saki「Hmph...!」%K%P
+
+0x1124
+Whether she's regained some of her composure or not,%Nshe seems to have decided any further argument is%Npointless.%K She settles on giving me one last angry glare%Nbefore moving towards the counter.%K%P
+
+0x1138
+Giving me a brief glance, Yuka takes a deep breath and%Nstares at Saki.%K%N
+
+0x1144
+She looks surprised.%K%P
+
+0x1150
+I hear Okuhiko snort, as if to say "Hmph".%K%N
+
+0x115C
+Saki doesn't seem very pleased by my words.%K%P
+
+0x1168
+Naturally, Haruka has been looking downwards this whole%Ntime.%K%N
+
+0x1174
+Just what is going on?%K%P
+
+0x1188
+Saki immediately leans her body forward on the counter.%K%P
+
+0x1194
+It looks like she's going to continue nagging Izumi-san.%K%P
+
+0x11A0
+Izumi「So, what did you do for those six hours?」%K%P
+
+0x11AC
+Saki「I waited, of course!」%K%P
+
+0x11B8
+Izumi「For six straight hours?」%K%P
+
+0x11C4
+Saki「Hell no! Even I don't have that kind of time!」%K%P
+
+0x11D0
+Izumi-san is trying to be polite, but her tone is... how do I%Nput it... listless.%K%P
+
+0x11DC
+Anyway, her words only seem to fuel Saki's irritation.%K%P
+
+0x11E8
+Saki「Even I, umm... umm... told it that. Yes. I told it to make do with%Njust what was there.」%K%P
+
+0x11F4
+Saki「But it fully knew that I had ordered a pizza, even though%Nit can't understand what I say.」%K%P
+
+0x1200
+Izumi「Yes, yes.」%K%P
+
+0x120C
+Hey, what's she talking about?%K%P
+
+0x1218
+However, Izumi-san just nods at everything she says...%K%P
+
+0x1224
+Saki「So I didn't have any other choice but to play around and%Nwait!」%K%P
+
+0x1230
+Izumi「I see.」%K%P
+
+0x123C
+I don't understand. Does Izumi-san really get it?%K%P
+
+0x1248
+Just then, Kurumi approaches her sister.%K%P
+
+0x1254
+Kurumi「Onee-chan, you understand what she's saying?」%K%P
+
+0x1260
+Yeah, I wanna ask her that, too.%K%P
+
+0x126C
+Izumi-san whispers back to Kurumi.%K%P
+
+0x1278
+Izumi「It's fine, it's fine. In times like this, all you have to do is%N'that'.」%K%P
+
+0x1284
+Kurumi「Huh? What do you mean?」%K%P
+
+0x1290
+Izumi「It can't be helped, so let's just hear her out for now.」%K%P
+
+0x129C
+Izumi「These types just want to talk, then they go back home.%NUntil then, just endure it... Okay?」%K%P
+
+0x12A8
+I see. That's quite an impressive way to handle it.%K%P
+
+0x12B4
+Kurumi「But why do we have to put up with it?」%K%P
+
+0x12C0
+Izumi「Because there was a mistake in her delivery, so...」%K%P
+
+0x12CC
+Kurumi「What!? Kurumi definitely delivered it!」%K%P
+
+0x12D8
+Izumi「Don't shout. If you didn't make a mistake, then why did it%Nend up like this?」%K%P
+
+0x12E4
+Kurumi「You're terrible! Onee-chan, you're doubting Kurumi!」%K%P
+
+0x12F0
+Izumi「But she said it never arrived.」%K%P
+
+0x12FC
+Kurumi「It did too! Kurumi delivered it to an 'Asakura-san'!」%K%P
+
+0x1308
+I suddenly realize what's going on. It was the pizza from%Nlunch.%K%N
+
+0x1314
+Kurumi had said she was bringing it to an "Asakura-san".%K%P
+
+0x1320
+And then, Okuhiko... I look at Okuhiko. The guy looks%Nantsy; he must understand what's going on as well.%K%P
+
+0x1348
+At that moment, Saki strikes the counter.%K%P
+
+0x1354
+Saki「Don't talk until I say so!」%K%P
+
+0x1360
+Kurumi「Kurumi did deliver it to 'Asakura-san'!」%K%P
+
+0x136C
+She points towards Okuhiko. Okuhiko instantly turns his%Nhead away, as if to say "Oh crap!".%K%P
+
+0x1378
+Saki「Just what the hell does that mean!?」%K%P
+
+0x1384
+Saki glares at Okuhiko. Okuhiko abruptly stops in his%Ntracks. It seems he was trying to run away.%K
+
+0x2BE0
+"No, you see, that's because..."
+
+0x2BEC
+I won't cover for Okuhiko.
+
+0x13C4
+I decide to defend Okuhiko.%K%P
+
+0x13D0
+Makoto「No, you see, that's because...」%K%P
+
+0x13DC
+Saki「'Don't talk until I say so', remember!? My business right%Nnow is with that man over there!」%K%P
+
+0x13E8
+Saki flat out rejects me. ... No good, I can't join in.%K%P
+
+0x13F4
+I feel bad for Okuhiko, but there's nothing I can do.%K%P
+
+0x1410
+I won't cover for Okuhiko.%K%P
+
+0x141C
+He's the one who caused this whole mess.%K%N
+
+0x1428
+... No, everything may have started with Yuka's cooking...%K%P
+
+0x1434
+Saki immediately closes in on Okuhiko when suddenly,%NYuka speaks up.%K%P
+
+0x1474
+Yuka「Saki... Could it be that you're THAT Saki Asakura?」%K%P
+
+0x1490
+Saki「...?」%K%P
+
+0x149C
+Yuka「Remember, we were friends in middle school...」%K%P
+
+0x14A8
+Yuka「Um, how can I prove it... Right, don't you remember? We%Nwere the ones who drew the rough sketches of the%N'Magician's Portrait'.」%K%P
+
+0x14BC
+Saki「... Yuka!?」%K%P
+
+0x14D0
+Yuka「It really is you! It's been so long. Just how many years%Nhas it been?」%K%P
+
+0x14E4
+Saki「I haven't seen you for 5 years, since I entered K%NUniversity's senior high school.」%K%P
+
+0x14F0
+Yuka「This is so nostalgic. What's up with you? So did you%Nreally go to K University?」%K%P
+
+0x14FC
+Saki「Of course. But Yuka, what are you doing on this island?%NYou don't live here, do you?」%K%P
+
+0x1508
+Yuka「No way! I'm here for my college's 'Seminar Camp'. I'm%Nstaying at the lodge on top of the hill road surrounded%Nby the forest...」%K%P
+
+0x1514
+Saki「Huh? Well then, doesn't that mean you're near my summer%Nhouse?」%K%P
+
+0x1520
+The two of them have suddenly become excited.%K%P
+
+0x152C
+According to Saki, it seems she comes here every year%Nto stay at her aforementioned summer house.%K%P
+
+0x1538
+She says that she's been here ever since her exams%Nbreak in February.%K%P
+
+0x1544
+It seems she's relaxing here until her next semester%Nbegins.%K%N
+
+0x1550
+There's a big difference between us.%K%P
+
+0x1588
+As I think that, Izumi-san stands in between Yuka and%NSaki.%K%P
+
+0x1594
+Izumi「Well then, I'll treat you to dinner tonight. It'll be a%Ncelebration for your reunion!」%K%P
+
+0x15B0
+Yuka「Huh? No way... That's too much.」%K%P
+
+0x15BC
+Saki「W-Wait a second... I came here to clear up the issue%Nabout my pizza...」%K%P
+
+0x15D8
+Izumi「Then you can also consider this my apology...」%K%P
+
+0x15E4
+Izumi-san gives a sidelong glance to the now%Ndumbfounded Saki, then looks towards us.%K%P
+
+0x1630
+Izumi「Will you all eat with them as well?」%K%P
+
+0x1644
+Izumi「Will you all eat with them as well?」%K
+
+0x2BF8
+"With pleasure♪"
+
+0x2C04
+"Um..."
+
+0x168C
+Makoto「With pleasure♪」%K%P
+
+0x1698
+I immediately answer.%K%P
+
+0x16B4
+Taken aback, Haruka lifts her face as if she's about to%Nsay something.%K%P
+
+0x16C8
+However, she clams up again, and returns to her%Nexpressionless state.%K%P
+
+0x16E4
+Izumi「Are you okay with this?」%K%P
+
+0x16F8
+Makoto「Um...」%K%P
+
+0x1704
+I don't know what to say.%K%P
+
+0x1710
+I feel awkward about someone we only just met going%Nthis far for us.%K%P
+
+0x171C
+On the other hand, if we return to the lodge, all that%Nawaits us is Yuka's murderous cooking.%K%P
+
+0x1728
+What should I do...?%K%N
+
+0x1734
+I gaze at the hesitant Haruka.%K%P
+
+0x1758
+... Haruka suddenly averts her eyes.%K%P
+
+0x1764
+... "I'll pass"... is what I think she's trying to say.%K%P
+
+0x1770
+"If that's the case, then..." Just as I begin to think that...%K%P
+
+0x178C
+Kurumi「Hey, come on and eat.」%K%P
+
+0x1798
+Kurumi interrupts my thoughts as she grabs my arm with%Nboth of her hands, tugging it. She looks like a kid%Nbegging for a toy.%K%P
+
+0x17A4
+Kurumi「Even though we've only all just met, it'll get lonely if you%Njust leave us now. It's okay, isn't it?」%K%P
+
+0x17C0
+Izumi「That's right. There's no need to reserve yourselves...」%K%P
+
+0x17CC
+She's following Kurumi's lead.%K%P
+
+0x17D8
+Makoto「It's just...」%K%P
+
+0x17E4
+Nevertheless, I'm worried about Haruka's behavior from%Nearlier.%K%P
+
+0x17F0
+Izumi「Or is it...」%K%P
+
+0x17FC
+Makoto「??」%K%P
+
+0x1810
+Izumi「Could it be... that you don't want to eat my cooking?」%K%P
+
+0x181C
+Izumi-san still smiles while saying this. However, her%Ntroubled eyes betray her.%K%P
+
+0x1828
+Makoto「... No, I'd be delighted if you would treat us.」%K%P
+
+0x1834
+... There's no way I can refuse her.%K%P
+
+0x1840
+Izumi「Then you're all right with it?」%K%P
+
+0x185C
+Yuka「It'd be kinda troublesome to go back to the lodge to%Nmake preparations, so I'm glad about this.」%K%P
+
+0x1868
+Yuka「Hey, you're okay with this too, right, Saki? We'll be walking%Nback home together anyway.」%K%P
+
+0x1874
+Saki「Hmm...」%K%P
+
+0x1888
+Saki「... That's true. Well, you've convinced me...」%K%P
+
+0x189C
+Yuka「All right, then it's decided♪」%K%P
+
+0x18B0
+Yuka「By the way, Izumi-san... What do you have to eat here...?」%K%P
+
+0x18CC
+Izumi「Hmm, let's see...」%K%P
+
+0x18D8
+Her face briefly wavers, but then immediately regains its%Nshine.%K%P
+
+0x18EC
+Izumi「We have paella and Italian salad, as well as pumpkin%Nsoup!」%K%P
+
+0x18F8
+Makoto「Making paella will be impossible.」%K%P
+
+0x1904
+I blurt this out unconsciously.%K%P
+
+0x1918
+Izumi「Impossible...?」%K%P
+
+0x1924
+Izumi「Ah, could it be... that you're doubting my abilities?」%K%P
+
+0x1930
+Makoto「Huh? No way, I would never do that.」%K%P
+
+0x193C
+Izumi「Then why is it impossible?」%K%P
+
+0x1948
+Makoto「Because you're short on rice, right?」%K%P
+
+0x196C
+Izumi「Huh?」%K%P
+
+0x1978
+Surprised, Izumi-san checks the rice jar on the corner of%Nthe counter.%K%P
+
+0x1984
+Izumi「I-It's true... there's only about five ounces of rice left...」%K%P
+
+0x19A0
+Kurumi「O-Onee-chan! It was that group from lunch!」%K%P
+
+0x19AC
+Kurumi abruptly shouts this.%K%P
+
+0x19C0
+Izumi「Ah, I see. Now that you mention it, you're right...」%K%P
+
+0x19CC
+Izumi「I completely forgot about it, but... Earlier today, there was%Na group of ten that ate curry...」%K%P
+
+0x19E0
+Izumi「Huh??? ... But Makoto-kun, how did you know about that?」%K%P
+
+0x19EC
+Makoto「Because...」%K%P
+
+0x1A14
+Huh...?%K%P
+
+0x1A20
+Because... what?%K%N
+
+0x1A2C
+What am I saying?%K%N
+
+0x1A38
+Now that I think about it, how the hell did I know about%Nthat!?%K%P
+
+0x1A44
+Makoto「No, I just had a feeling that was the case...」%K%P
+
+0x1A50
+That's the truth.%K%N
+
+0x1A5C
+Honestly, I really did just have a feeling that was the%Ncase.%K%N
+
+0x1A68
+Besides, there shouldn't need to be a reason anyway.%K%P
+
+0x1A74
+Izumi「Mmm...」%K%P
+
+0x1A80
+Izumi-san tilts her head in confusion.%K%P
+
+0x1A8C
+Everyone else is staring at me questioningly.%K%P
+
+0x1AA8
+Kurumi「But it doesn't really matter, right?」%K%P
+
+0x1ABC
+Kurumi's voice draws the others' gazes away from me.%K%P
+
+0x1AEC
+Kurumi「Anyway, it's a good thing we noticed this so quickly...」%K%P
+
+0x1AF8
+Kurumi「If we hadn't noticed until we started cooking, it would%Nhave been too late, right?」%K%P
+
+0x1B04
+Everyone nods in agreement.%K%P
+
+0x1B18
+Kurumi「But what should we do about rice now...? That's the real%Nquestion.」%K%P
+
+0x1B24
+Makoto「Here's an idea- what if I go buy some?」%K%P
+
+0x1B30
+I immediately offer to help.%K%P
+
+0x1B3C
+I guess it's because I feel the urge to get out of this%Nplace.%K%P
+
+0x1B48
+Makoto「After all, you're the ones who offered to treat us to%Ndinner, so why don't I at least help out a little?」%K%P
+
+0x1B6C
+Izumi「But that's asking too much...」%K%P
+
+0x1B78
+Makoto「No it isn't. It's no problem at all.」%K%P
+
+0x1B84
+Makoto「Izumi-san, there must be preparations and other stuff%Nyou have to do...」%K%P
+
+0x1B90
+Makoto「You can take care of all that before I return.」%K%P
+
+0x1BA4
+Izumi「... Hmm... Are you sure?」%K%P
+
+0x1BB0
+Makoto「Yes.」%K%P
+
+0x1BC4
+Izumi「Then please excuse me, but may I accept your offer?」%K%P
+
+0x1BD0
+Makoto「Of course!」%K%P
+
+0x1BEC
+Yuka「Well then, I'll also help out any way I can!」%K%P
+
+0x1BF8
+Okuhiko「... Huh?」%K%P
+
+0x1C04
+Haruka「... What?」%K%P
+
+0x1C10
+Makoto「... What?」%K%P
+
+0x1C40
+Yuka「I'll act as Izumi-san's assistant chef, and I'll also cook a%Ndish... or something!」%K%P
+
+0x1C4C
+Okuhiko, Haruka, and I all freeze at those words.%K%P
+
+0x1C58
+Makoto「Y-You can't do that, Yuka...」%K%P
+
+0x1C6C
+Yuka「Why not?」%K
+
+0x2C10
+Because you're going shopping with me.
+
+0x2C1C
+That would be rude, right?
+
+0x1CB4
+Makoto「B-Because you're going shopping with me.」%K%P
+
+0x1CC8
+Yuka「D-Don't go deciding stuff on your own...」%K%P
+
+0x1CD4
+Makoto「No... that's not it... What I'm saying is... I really need your%Nhelp...」%K%P
+
+0x1CE0
+Yuka「Huh?」%K%P
+
+0x1CEC
+Makoto「T-To be honest, I know nothing about the different types%Nof rice...」%K%P
+
+0x1CF8
+Yuka「Isn't any kind of rice okay?」%K%P
+
+0x1D04
+Makoto「Of course not! If I did something like going and buying%Nfatty rice, that would be something that I couldn't undo...」%K%P
+
+0x1D10
+Makoto「Right, Okuhiko?」%K%P
+
+0x1D2C
+Okuhiko「You're absolutely right!」%K%P
+
+0x1D38
+Makoto「Right, Haruka?」%K%P
+
+0x1D54
+Haruka「Yes!」%K%P
+
+0x1D70
+Makoto「See? So that's my reason...」%K%P
+
+0x1D84
+Yuka「Hmm... it seems rather unlikely, but...」%K%P
+
+0x1D98
+Yuka「Well, I guess it could happen?」%K%P
+
+0x1DA4
+Makoto「Right? Don't you agree?」%K%P
+
+0x1DB0
+Makoto「Well then, let's hurry up and go now!」%K%P
+
+0x1DBC
+Without waiting for Yuka's reply, I forcefully push her by%Nthe back outside the shop...%K%P
+
+0x1DD0
+Makoto「T-That would be rude, wouldn't it?」%K%P
+
+0x1DE4
+Yuka「Rude?」%K%P
+
+0x1DF0
+Makoto「Yeah... think about it for a second, will you? If you were%Nthe hostess, what would you think?」%K%P
+
+0x1DFC
+Makoto「How would you feel if the person you offered to treat%Nsaid they wanted to 'help'...?」%K%P
+
+0x1E10
+Yuka「Hmm...」%K%P
+
+0x1E24
+Yuka「... I get it... That really would be rude.」%K%P
+
+0x1E30
+Makoto「Right? So just behave yourself, have a seat, and wait!」%K%P
+
+0x1E4C
+Izumi「Yes. I'm very happy that you want to help out, but for%Ntoday, just leave it to us♪」%K%P
+
+0x1E60
+Yuka「Got it. For today, I'll be obedient and quietly wait.」%K%P
+
+0x1E6C
+Phew...%K%N
+
+0x1E78
+Dodged a bullet...%K%P
+
+0x1EB8
+Yuka「By the way, Izumi-san? You said 'us' just now, so do you%Nmean...」%K%P
+
+0x1ED4
+Kurumi「Right♪ Kurumi is also helping out!」%K%P
+
+0x1EE0
+Izumi「Kurumi is also an employee of this shop...」%K%P
+
+0x1EF4
+Kurumi「Besides, no one can dish up and prepare the plates but%NKurumi!」%K%P
+
+0x1F00
+After she says this, Kurumi sticks out her tongue%Nchildishly.%K%P
+
+0x1F0C
+Makoto「Well then, I have to leave immediately if I want to be quick.」%K%P
+
+0x1F20
+I run up to the door and tightly grasp the knob.%K%P
+
+0x1F2C
+But...%K%P
+
+0x1F38
+(It feels a little lonely just going all by myself...)%K%P
+
+0x1F44
+Everyone else is just waiting anyway, so I might as well%Ninvite one of them along.%K%P
+
+0x1F50
+I decide to...%K
+
+0x2C28
+Ask Haruka
+
+0x2C34
+Ask Saki
+
+0x1FBC
+I decide to ask Haruka.%K%P
+
+0x1FC8
+Makoto「Say, Haruka? Would you mind... going shopping with me?」%K%P
+
+0x1FD4
+Haruka「...」%K%P
+
+0x1FE0
+Haruka doesn't answer.%K%P
+
+0x1FEC
+Makoto「No... if you don't want to, then that's fine...」%K%P
+
+0x1FF8
+Haruka turns her gaze to the side.%K%N
+
+0x2004
+She spends several seconds considering it...%K%P
+
+0x2018
+... And soon enough, she quietly stands up.%K%P
+
+0x2024
+Even though she doesn't say a word, it's clear that%Nshe's accepting my offer.%K%P
+
+0x2030
+Makoto「All right, that's the spirit!」%K%P
+
+0x2044
+Haruka quietly passes by me, as if she's ignoring my%Ncheerful words.%K%P
+
+0x206C
+She goes outside alone.%K%P
+
+0x2078
+Makoto「H-Hey, wait for me, Haruka!」%K%P
+
+0x2084
+I frantically chase after her...%K%P
+
+0x20C4
+... I decide to ask Saki.%K%P
+
+0x20D0
+Makoto「Hey, Saki... san? Would you mind... going shopping with me?」%K%P
+
+0x20DC
+Saki「With... me?」%K%P
+
+0x20E8
+Makoto「Yeah.」%K%P
+
+0x20FC
+Saki「Why?」%K%P
+
+0x2108
+Why? How am I supposed to...%K%P
+
+0x2114
+Makoto「No... if you don't want to, then that's fine...」%K%P
+
+0x2120
+Saki「I never said I didn't want to, but...」%K%P
+
+0x212C
+Makoto「...」%K%P
+
+0x2140
+Saki「All right, I'll go with you!」%K%P
+
+0x214C
+Saki「At any rate, just waiting here would be boring.」%K%P
+
+0x2158
+Makoto「All right, that's the spirit!」%K%P
+
+0x216C
+Saki slips by me, as if she's ignoring my cheerful words.%K%P
+
+0x2194
+She goes out alone.%K%P
+
+0x21A0
+Makoto「H-Hey, wait for me, Saki... san!」%K%P
+
+0x21AC
+I frantically chase after her...%K%P
+

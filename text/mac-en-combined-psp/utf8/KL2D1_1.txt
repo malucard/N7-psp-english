@@ -1,0 +1,126 @@
+text area offset and size:
+0x380
+0x597
+0x68
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%N
+
+0x74
+Still half asleep, I blankly stare into space.%K%N
+
+0x80
+It's a familiar... ceiling...%K%P
+
+0x8C
+I realize I'm freezing, my body soaked with sweat all over.%K%N
+
+0x98
+I take a deep breath and slowly exhale.%K%P
+
+0xA4
+The warm scent of wood goes through my nose and fills%Nmy head.%K%N
+
+0xB0
+It takes me three more breaths until...%K%P
+
+0xF4
+Makoto「Huh...?」%K%P
+
+0x100
+Makoto「T-This is...」%K%P
+
+0x10C
+Makoto「The lodge...」%K%P
+
+0x118
+Makoto「... This is the lodge, isn't it!?」%K%P
+
+0x124
+I quickly jump out of the bed.%K%N
+
+0x130
+I stand in the center of the room, and look around.%K%P
+
+0x13C
+(There's no mistaking it...)%K%P
+
+0x148
+(This is my bedroom!)%K%P
+
+0x154
+What's going on?%K%N
+
+0x160
+Then... Then... the dream I had just now...%K%N
+
+0x16C
+Was...%K%P
+
+0x178
+―That's wrong!%K%N
+
+0x184
+―That's wrong! What the hell am I saying!?%K%N
+
+0x190
+―That wasn't a "dream"!!%K%N
+
+0x19C
+―There's no way in hell that was a "dream"...%K%P
+
+0x1E0
+Suddenly, I hear a sound as violent as a gunshot!%K%P
+
+0x1EC
+I turn around, and standing there, I see...%K%N
+
+0x1F8
+I see...%K%P
+
+0x248
+Yuka「Wh... What's going on!?」%K%P
+
+0x254
+Yuka「Why...!?」%K%P
+
+0x260
+It's impossible. This is impossible.%K%P
+
+0x26C
+I quickly look at my watch.%K%P
+
+0x278
+"1 MON 09:19 A.M."%K%P
+
+0x284
+―1st.%K%N
+
+0x290
+―1st?%K%N
+
+0x29C
+―1st???%K%P
+
+0x2A8
+Makoto「THE FIRST!!!!!!!!?」%K%P
+
+0x2B4
+Yuka「...?」%K%P
+
+0x2C0
+What's the meaning of this?%K%N
+
+0x2CC
+What happened?%K%N
+
+0x2D8
+Why am I here?%K%P
+
+0x2E4
+My mind is thrown into extreme confusion.%K%P
+
+0x2F0
+Makoto「S-Sorry, Yuka...」%K%P
+
+0x2FC
+I brush past Yuka and head for the living room.%K%P
+

@@ -1,0 +1,933 @@
+text area offset and size:
+0x12C8
+0x4999
+0x4C
+I sit in the car's passenger seat.%K%P
+
+0x58
+From beyond the glass windshield, I can see the white%Nwalls of Lunabeach.%K%P
+
+0x64
+Izumi-san is sitting in the driver's seat, looking at me%Nuneasily.%K%P
+
+0x70
+Izumi「Makoto-kun... are you all right?」%K%P
+
+0x7C
+Makoto「Of course... I'm not...」%K%P
+
+0x88
+Makoto「I don't understand anything anymore...」%K%P
+
+0x94
+Makoto「Since this happened... it feels like I'm about to go insane%Nat any moment...」%K%P
+
+0xA0
+When she hears my words, Izumi-san tightly purses her%Nlips, and lowers her gaze.%K%P
+
+0xAC
+Izumi「I'm so sorry...」%K%P
+
+0xB8
+Izumi「I should... have told you sooner...」%K%P
+
+0xC4
+Makoto「It's... fine...」%K%P
+
+0xD0
+Makoto「I don't want to hear your excuses...」%K%P
+
+0xDC
+Izumi「...」%K%P
+
+0xE8
+Makoto「I want to hear... everything...」%K%P
+
+0xF4
+Makoto「I want to hear everything you know, Izumi-san!」%K%P
+
+0x100
+Izumi-san closes her eyes.%K%P
+
+0x10C
+While her lips quiver...%K%P
+
+0x118
+Izumi「... Yes... I understand...」%K%P
+
+0x124
+... she mutters this.%K%P
+
+0x130
+She slowly opens her eyes, with the light dancing in her%Npupils.%K%P
+
+0x13C
+As I do everything I can to endure waiting, Izumi-san%Nquietly begins talking...%K%P
+
+0x158
+Izumi「The one who told...」%K%P
+
+0x164
+Izumi「... Okuhiko-kun...」%K%P
+
+0x170
+Izumi「... to deceive you, Makoto-kun...」%K%P
+
+0x18C
+Izumi「... was me.」%K%P
+
+0x1B4
+Makoto「!? W-Why... did you do that!?」%K%P
+
+0x1C0
+Izumi「Because I wanted to understand it...」%K%P
+
+0x1CC
+Makoto「Understand what!?」%K%P
+
+0x1D8
+Izumi「Cur▲ Syndrome.」%K%P
+
+0x1E4
+Makoto「... Cur▲... Syndrome?」%K%P
+
+0x1F0
+(It feels like... I've heard that somewhere before...)%K%P
+
+0x1FC
+Makoto「That's right! Okuhiko!」%K%P
+
+0x208
+Makoto「The title of the report Okuhiko had...」%K%P
+
+0x214
+Makoto「It was 'Cur▲ Syndrome Inquiry'.」%K%P
+
+0x220
+Izumi「... Makoto-kun... did you read that report?」%K%P
+
+0x22C
+Makoto「No, not really. I just randomly flipped through it...」%K%P
+
+0x238
+Izumi「I... I see...」%K%P
+
+0x244
+Makoto「But Izumi-san, why do you know about the report?」%K%P
+
+0x250
+Izumi「Because...」%K%P
+
+0x25C
+Izumi「I was the one who wrote it...」%K%P
+
+0x268
+Makoto「What!?」%K%P
+
+0x274
+Izumi「I handed it over to Okuhiko-kun...」%K%P
+
+0x280
+Makoto「W-Wait a minute, Izumi-san.」%K%P
+
+0x28C
+Makoto「So when Okuhiko said 'Professor' earlier, he meant...」%K%P
+
+0x298
+Izumi「That's right...」%K%P
+
+0x2A4
+Izumi「I'm a professor at your college, Makoto-kun.」%K%P
+
+0x2B0
+Izumi「The one in charge of the Kawashima Party Seminar... is me.」%K%P
+
+0x2BC
+Makoto「...」%K%P
+
+0x2C8
+Izumi「But even though I'm telling you this...」%K%P
+
+0x2D4
+Izumi「This doesn't clear up much for you, does it?」%K%P
+
+0x2E0
+I'm so stunned by the revelation that I'm unable to even%Nnod.%K%P
+
+0x2EC
+I can't even move an inch on this hard seat.%K%P
+
+0x314
+Izumi「Then I'll explain things from the start, one by one...」%K%P
+
+0x320
+Izumi「First, about Cur▲ Syndrome.」%K%P
+
+0x32C
+Izumi「It's been several years since these words first started%Nto be used.」%K%P
+
+0x338
+Izumi「An American psychiatrist named 'Michael Cabin'%Ndiscovered a certain mental illness with unique%Nsymptoms.」%K%P
+
+0x344
+Izumi「At the same time, Dr. Cabin participated in the counseling%Nof a boy named 'Tom Faiblin', who was hospitalized at the%Nhospital he worked at.」%K%P
+
+0x350
+Izumi「Tom was still twelve years old at the time, but he had%Nbeen diagnosed with paranoia.」%K%P
+
+0x35C
+Makoto「... Paranoia?」%K%P
+
+0x368
+Izumi「Yes, that's right, paranoia... In other words, he was%Ndelusional.」%K%P
+
+0x374
+Izumi「His symptoms first appeared when he was 10.」%K%P
+
+0x380
+Izumi「He was a straight-A student, had a good personality,%Nand was a child who was adored by everyone...」%K%P
+
+0x38C
+Izumi「... Then, when he was 10, in the summer of 2003...」%K%P
+
+0x398
+Izumi「Suddenly he began saying incoherent, illogical things.」%K%P
+
+0x3C0
+"I have no 'death' in me."%K%P
+
+0x3CC
+"That's why I won't 'die'."%K%P
+
+0x3D8
+"I won't die because I can't die."%K%P
+
+0x3E4
+"... I'll live forever..."%K%P
+
+0x3F0
+Makoto「...」%K%P
+
+0x3FC
+"Anyone who touches me will also become immortal."%K%P
+
+0x408
+"By infecting others with immortality through this%NImmortality Contagion, death will soon disappear from the%Nworld."%K%P
+
+0x414
+"No one will die... They can't die anymore..."%K%P
+
+0x420
+"... They'll live for eternity..."%K%P
+
+0x42C
+Makoto「...」%K%P
+
+0x438
+Izumi「Makoto-kun, do you know about Pseudologia%NFantastica?」%K%P
+
+0x444
+Izumi「It's also called 'Mythomania'...」%K%P
+
+0x450
+Makoto「Ah... now that you mention it...」%K%P
+
+0x45C
+Makoto「I think that something like that was written in that file...」%K%P
+
+0x468
+Izumi「Then I'll just give you an abridged explanation...」%K%P
+
+0x474
+Izumi「In short... 'The liar themself is completely convinced that%Nthat lie was a real event.'」%K%P
+
+0x480
+Izumi「That's what's known as 'Mythomania'.」%K%P
+
+0x48C
+Izumi「It was the same in Tom's case as well.」%K%P
+
+0x498
+Makoto「I get it!」%K%P
+
+0x4A4
+Makoto「In other words, at first, Tom was aware that he was lying.」%K%P
+
+0x4B0
+Makoto「But as he continued to keep saying things like 'I won't%Ndie, and neither will anyone else'...」%K%P
+
+0x4BC
+Makoto「He reached the point where he truly believed that he%Ncouldn't die and possessed the power of immortality,%Nright?」%K%P
+
+0x4C8
+Izumi「Yes, that's right... At least, that's what it seemed like at%Nfirst...」%K%P
+
+0x4D4
+Makoto「'Seemed'?」%K%P
+
+0x4E0
+Izumi「The people around him and the psychiatrists also%Nthought that at first, but...」%K%P
+
+0x4EC
+Izumi「Before long, they realized that it wasn't merely%N'Mythomania'.」%K%P
+
+0x4F8
+Makoto「...?」%K%P
+
+0x504
+Izumi「The first one to suggest that was Dr. Cabin.」%K%P
+
+0x510
+Izumi「As Dr. Cabin's counseling progressed, he located the%N'real trigger' that made Tom reach the point where he%Nbegan to embrace those delusions.」%K%P
+
+0x51C
+Makoto「...」%K%P
+
+0x528
+Izumi「His conclusion was that said trigger was...」%K%P
+
+0x534
+Izumi「'When Tom actually saved his sister's life'... That was it.」%K%P
+
+0x540
+Izumi「In the summer of 2003, when he was 10...」%K%P
+
+0x54C
+Izumi「His family went camping by a lake, in which his 7 year old%Nsister fell in and sank.」%K%P
+
+0x558
+Izumi「Tom dived into the lake, and carried his sister back to%Nshore.」%K%P
+
+0x564
+Izumi「But his sister had stopped breathing, and she had no%Npulse...」%K%P
+
+0x570
+Izumi「In other words, she was on the verge of death.」%K%P
+
+0x57C
+Makoto「Yet in spite of that, he miraculously saved his sister?」%K%P
+
+0x588
+Izumi「Yes...」%K%P
+
+0x594
+Makoto「If that's the case, then what Tom said is true, isn't it?」%K%P
+
+0x5A0
+Makoto「Because he touched her... she was saved...」%K%P
+
+0x5AC
+Izumi「No. That's wrong.」%K%P
+
+0x5B8
+Izumi「He had simply seen on TV how to perform first aid%Ntreatment, and merely repeated what he had seen.」%K%P
+
+0x5C4
+Izumi「... He used artificial respiration... and gave her a cardiac%Nmassage...」%K%P
+
+0x5D0
+Izumi「As a result, he was successful in saving her life... that's%Nall there was to it.」%K%P
+
+0x5DC
+Izumi「Tom possessing an immortal body... or that he infected%Nhis sister with immortality... That's impossible.」%K%P
+
+0x5E8
+Izumi「But you know what...?」%K%P
+
+0x5F4
+Izumi「There were also some people who didn't think that way.」%K%P
+
+0x600
+Makoto「... Such as?」%K%P
+
+0x60C
+Izumi「His parents and his sister.」%K%P
+
+0x618
+Izumi「They were truly convinced that a miracle had occurred.」%K%P
+
+0x624
+"Tom, you're able to bring dead people back to life!"%K%P
+
+0x630
+"Big brother, you have a marvelous power that makes%Nmiracles happen!"%K%P
+
+0x63C
+Izumi「Every day, they would turn to Tom and keep saying this.」%K%P
+
+0x648
+Izumi「Their utmost and heartfelt praise filled him with a sense%Nof reverence.」%K%P
+
+0x654
+Makoto「So that was... the trigger...」%K%P
+
+0x660
+Makoto「Anyone would turn out like that.%K If the people around%Nthem kept telling them that something was 'black' over%Nand over again, even if that thing were actually 'white', it%Nwould seem 'black' to that person.」%K%P
+
+0x66C
+Makoto「In Tom's case, it was 'Tom possesses a marvelous%Npower... Tom possesses a marvelous power'...」%K%P
+
+0x678
+Makoto「Because his trusted family kept saying that every day,%Nhe completely reached the point where he embraced%Nwild delusions... So that's what happened.」%K%P
+
+0x684
+Izumi「Yes...」%K%P
+
+0x690
+Izumi「Of course, it would be wrong to say that the main cause%Nwasn't mental...」%K%P
+
+0x69C
+Makoto「?」%K%P
+
+0x6A8
+Izumi「10 is the approximate age where you reach the point%Nthat you finally understand the meaning of 'death'...」%K%P
+
+0x6B4
+Izumi「You feel very sensitive towards 'death', and do things%Nsuch as embracing excessive fear and feelings of%Ndespair.」%K%P
+
+0x6C0
+Izumi「In short, there was something like a fear towards 'death'%Nin Tom's mind from the start...」%K%P
+
+0x6CC
+Izumi「That, plus the lake incident and his family's words...」%K%P
+
+0x6D8
+Izumi「That's why Tom reached the point where he firmly%Nbelieved things such as 'I won't die' and 'I can infect%Nothers with immortality'...」%K%P
+
+0x6E4
+Makoto「...」%K%P
+
+0x6F0
+Izumi「Tom himself called this 'act of infecting other with%Nimmortality,' 'Cure'.」%K%P
+
+0x6FC
+Izumi「'Cure'... as you know, that means 'to heal'.」%K%P
+
+0x708
+Izumi「And so Dr. Cabin named this unique type of paranoia%N'Cur▲ Syndrome'.」%K%P
+
+0x714
+Izumi「While Tom used the English word 'Cure' to refer to his%Nability, Dr. Cabin used the French word 'Cur▲' for Cur▲%NSyndrome.」%K%P
+
+0x720
+(The French word...?)%K%P
+
+0x72C
+(Why didn't he just stick with the English word...?)%K%P
+
+0x738
+Izumi「Anyway, Cur▲ Syndrome is...」%K%P
+
+0x744
+Izumi「The definition of the act of firmly believing, without a%Ndoubt, that the lies told by people surrounding you are%Nthe truth.」%K%P
+
+0x750
+Izumi「At this time, it's important that 'The first person or people%Nwho lied also don't think it's a lie.'」%K%P
+
+0x75C
+Izumi「The person who reached the point where they%Nembraced the delusion and the first person or people%Nwho lied are convinced the lie is 'reality' and 'the truth'...」%K%P
+
+0x768
+Izumi「They seriously believe it from the bottom of their hearts.」%K%P
+
+0x774
+Izumi「In a sense, you might say that's the 'spreading of the%Ndelusion'.」%K%P
+
+0x780
+Izumi「These are the two principle traits of Cur▲ Syndrome.」%K%P
+
+0x7C4
+Izumi-san takes a deep breath.%K%P
+
+0x7D0
+Her expression seems to have calmed down a little.%K%P
+
+0x7DC
+Maybe the more she slowly reveals the truth to me, the%Nlighter the weight in her heart gets.%K%P
+
+0x7E8
+Suddenly, outside the window, I see...%K%P
+
+0x83C
+... Saki.%K%P
+
+0x854
+Saki forcefully opens the door to Lunabeach, and%Nlunges in.%K%P
+
+0x860
+(I see...)%K%P
+
+0x86C
+(She's here to complain about her pizza...)%K%P
+
+0x888
+Izumi-san also seems to realize this.%K%P
+
+0x894
+But we don't have time to deal with Saki right now.%K%P
+
+0x8A0
+She's not even close to done with explaining%Neverything...%K%P
+
+0x8AC
+With the exception of Cur▲ Syndrome... I still know%Nnothing...%K%P
+
+0x8D4
+Makoto「Izumi-san, earlier, you said 'Because I wanted to%Nunderstand it', right?」%K%P
+
+0x8E0
+Izumi「Yes...」%K%P
+
+0x8EC
+Makoto「You wanted to understand Cur▲ Syndrome... That's why%Nyou told Okuhiko to deceive me...」%K%P
+
+0x8F8
+Izumi「Yes...」%K%P
+
+0x904
+Makoto「I see... so that's it...」%K%P
+
+0x910
+Makoto「I finally understand, Izumi-san.」%K%P
+
+0x91C
+Makoto「What Okuhiko meant earlier...」%K%P
+
+0x928
+Makoto「... When he said 'experiment'.」%K%P
+
+0x934
+Izumi「...」%K%P
+
+0x940
+Makoto「In short, this Seminar Camp's goal was 'To run an%Nexperiment on Cur▲ Syndrome'.」%K%P
+
+0x94C
+Makoto「... Is that right, Izumi-san?」%K%P
+
+0x958
+Izumi-san gives me a slow, deep nod.%K%P
+
+0x964
+Makoto「Judging from the way he talked earlier, it seems like only%Nyou and him are involved with the experiment...」%K%P
+
+0x970
+Makoto「Then the others...」%K%P
+
+0x97C
+Izumi「Right. They haven't been told anything about this%Nexperiment.」%K%P
+
+0x988
+Izumi「Not Yuka-chan, not Haruka-chan... and of course, not%NKurumi.」%K%P
+
+0x994
+Izumi「The only thing those three knew was that I was a%Nprofessor.」%K%P
+
+0x9A0
+Izumi「But I told them in advance that they weren't allowed to%Ntell you anything.」%K%P
+
+0x9AC
+Izumi「'The goal of this Seminar Camp is to deepen the amity%Nbetween the members.'」%K%P
+
+0x9B8
+Izumi「'At the same time, it's also serving as a background%Ncheck for Makoto-kun, who has a low attendance rate.」%K%P
+
+0x9C4
+Izumi「... That's the excuse I used.」%K%P
+
+0x9D0
+Makoto「Then... what about Saki?」%K%P
+
+0x9DC
+Makoto「Does Saki know about the experiment?」%K%P
+
+0x9E8
+Izumi「No...」%K%P
+
+0x9F4
+Izumi「Saki-chan's involvement was completely unexpected...」%K%P
+
+0xA00
+Izumi「She definitely doesn't even know that I'm a professor...」%K%P
+
+0xA0C
+Makoto「Which means that it really is only you and Okuhiko...」%K%P
+
+0xA18
+Makoto「But... why didn't you just tell them as well...?」%K%P
+
+0xA24
+Izumi「Because there was no need to.」%K%P
+
+0xA30
+Izumi「The more people there were who knew the truth, the%Ngreater the danger there was of the secret slipping%Nout... That's why.」%K%P
+
+0xA3C
+Makoto「... I see.」%K%P
+
+0xA48
+Makoto「Only two people, that is, you and Okuhiko, were sufficient%Nenough to deceive me... That's what you mean...」%K%P
+
+0xA54
+The words I spit out create an anguished expression on%NIzumi-san's face.%K%P
+
+0xA60
+Makoto「Well, whatever.」%K%P
+
+0xA6C
+Makoto「Over-the-top conspiracies aren't exactly my thing%Nanyway...」%K%P
+
+0xA78
+Izumi「...」%K%P
+
+0xA84
+Makoto「Anyway, by you and Okuhiko pretending that my%Npremonitions were actually correct...」%K%P
+
+0xA90
+Makoto「... you tried to make me firmly believe that 'I have%Nprecognition'.」%K%P
+
+0xA9C
+Makoto「In other words, you intentionally tried to make me%Nembrace my 'delusion'.」%K%P
+
+0xAA8
+Makoto「You attempt to cause me to be afflicted with 'Cur▲%NSyndrome', just like Tom...」%K%P
+
+0xAB4
+Izumi「...」%K%P
+
+0xAC0
+Makoto「And... you secretly observed me every day as my state%Nbegan to change...」%K%P
+
+0xACC
+Makoto「You were investigating the process of your subject's%Npsychological change...」%K%P
+
+0xAD8
+Makoto「That's the true goal of this Seminar Camp... All to carry%Nout this so-called 'experiment'.」%K%P
+
+0xAE4
+Makoto「... Isn't that right?」%K%P
+
+0xAF0
+Izumi-san is silent.%K%P
+
+0xAFC
+She lowers her eyes, trying to avoid my gaze.%K%P
+
+0xB08
+I'm just waiting for her answer.%K%P
+
+0xB14
+Before long...%K%P
+
+0xB20
+Izumi「... Yes... you're right.」%K%P
+
+0xB2C
+... Izumi-san speaks with a cracked voice.%K%P
+
+0xB38
+Izumi「But... But you know what?」%K%P
+
+0xB44
+Izumi「This might... sound like an excuse, but...」%K%P
+
+0xB50
+Izumi「We...」%K%P
+
+0xB5C
+Izumi「We never actually...」%K%P
+
+0xB78
+Izumi「... conducted our experiment.」%K%P
+
+0xB84
+Makoto「... What???」%K%P
+
+0xB90
+Izumi「It's certainly a fact that we planned to...」%K%P
+
+0xB9C
+Izumi「But so far, we've actually never deceived you!」%K%P
+
+0xBA8
+Makoto「...」%K%P
+
+0xBB4
+Izumi「...」%K%P
+
+0xBC0
+Makoto「I-Izumi-san...」%K%P
+
+0xBCC
+Makoto「You're still lying this late in the-」%K%P
+
+0xBD8
+Izumi「I'm not lying!」%K%P
+
+0xBE4
+Izumi「It's the truth!」%K%P
+
+0xBF0
+Makoto「...」%K%P
+
+0xBFC
+Izumi「In reality, all the premonitions you said you had all turned%Nout to be correct!」%K%P
+
+0xC08
+Makoto「W-Why are you... saying that...?」%K%P
+
+0xC14
+Makoto「Okuhiko confessed... everything earlier, didn't he...?」%K%P
+
+0xC20
+Makoto「The rice incident, the battery incident, the dinner%Nincident...」%K%P
+
+0xC2C
+Makoto「You and Okuhiko just pretended that they were correct,%Nweren't you?」%K%P
+
+0xC38
+Izumi「Makoto-kun.」%K%P
+
+0xC44
+Izumi-san suddenly grabs my wrist.%K%P
+
+0xC50
+And like that, she drags it to the base of my feet...%K%N
+
+0xC5C
+... She makes me feel the car's key with my hand.%K%P
+
+0xC68
+Izumi「Why don't you try it?」%K%P
+
+0xC74
+Makoto「Huh? Try what?」%K%P
+
+0xC80
+Izumi「Why don't you try... starting the engine?」%K%P
+
+0xC8C
+Makoto「T-The engine?」%K%P
+
+0xC98
+Although I'm flustered and don't understand what's going%Non, I do what she says, and turn the key.%K%P
+
+0xCCC
+Izumi「Once more...」%K%P
+
+0xD68
+―Click. ―Click. ―Click.%K%P
+
+0xD74
+I turn the key countless times, but the engine no longer%Nshows any reaction.%K%P
+
+0xD80
+Izumi「It was from today's afternoon.」%K%P
+
+0xD8C
+Izumi「I also tried it once this morning, but at that time, it was%Nfunctioning normally...」%K%P
+
+0xD98
+Makoto「...」%K%P
+
+0xDA4
+Izumi「Do you... understand?」%K%P
+
+0xDB0
+Makoto「Then, at that time too...」%K%P
+
+0xDBC
+Makoto「On April 2nd too...」%K%P
+
+0xDC8
+Makoto「The engine actually wouldn't start?」%K%P
+
+0xDD4
+Izumi「Yes.」%K%P
+
+0xDE0
+Makoto「Then you weren't actually pretending that it wouldn't%Nstart...」%K%P
+
+0xDEC
+Izumi「... I wasn't.」%K%P
+
+0xDF8
+Izumi「Of course, it's the same for your other premonitions...」%K%P
+
+0xE04
+Izumi「We really didn't have enough rice at the shop...」%K%P
+
+0xE48
+Izumi「On the night of the 3rd, I really did plan on making curry,%Nand bought the ingredients for it.」%K%P
+
+0xE5C
+Izumi「On the night of the 3rd, I really did plan on making cream%Nstew, and bought the ingredients for it.」%K%P
+
+0xE70
+Izumi「On the night of the 3rd, I really did plan on making%Nmeat-potato stew, and bought the ingredients for it.」%K%P
+
+0xE7C
+Izumi「And no matter how you look at it, there's no way we could%Nhave faked the earthquake and the cards, right?」%K%P
+
+0xE88
+Makoto「If that's the case, then Okuhiko...」%K%P
+
+0xE94
+Izumi「I think he probably made a misunderstanding.」%K%P
+
+0xEA0
+Izumi「If anyone were in Okuhiko's standpoint, they definitely%Nwouldn't have thought your premonitions were actually%Ncorrect.」%K%P
+
+0xEAC
+Makoto「Hmm... so that's it...」%K%P
+
+0xEB8
+Makoto「So every time my premonitions came true, Okuhiko was%Nconvinced that you were acting.」%K%P
+
+0xEC4
+Makoto「That goes for the rice incident, the battery incident, and%Nthe dinner incident...」%K%P
+
+0xED0
+Makoto「... Wait, dinner?」%K%P
+
+0xEDC
+Makoto「Now that I think about it, at that time, didn't Okuhiko say%Nthat he prepared the ingredients himself?」%K%P
+
+0xEE8
+Izumi「Yes. It's a fact that Okuhiko-kun bought ingredients and%Ncame back.」%K%P
+
+0xEF4
+Izumi「While I was cooking, he secretly entered the kitchen...%Nand then he placed his ingredients down.」%K%P
+
+0xF00
+Izumi「But at that point, I had almost finished cooking...」%K%P
+
+0xF0C
+Makoto「So in the end, you didn't use the ingredients Okuhiko%Nbought?」%K%P
+
+0xF18
+Izumi「Yes...」%K%P
+
+0xF24
+I see... putting it that way, that's probably how it turned%Nout.%K%P
+
+0xF30
+When I was preparing for the barbecue, I returned to the%Nlodge to get onions.%K%P
+
+0xF3C
+Now I see why there were so many onions.%K%P
+
+0xF48
+They were the ones Izumi-san didn't use, and the ones%NOkuhiko prepared.%K%P
+
+0xF54
+Both portions were put into that plastic bag.%K%P
+
+0xF60
+It seems that what Izumi-san is saying isn't a lie.%K%P
+
+0xF6C
+Makoto「And that's why you were so persistently asking me%Nabout my premonitions.」%K%P
+
+0xF94
+Izumi「Yes...」%K%P
+
+0xFA0
+Izumi「Because even though we hadn't done anything yet...」%K%P
+
+0xFAC
+Izumi「You were still suddenly speaking of premonitions...」%K%P
+
+0xFB8
+Izumi「And furthermore, every single one of your premonitions%Nwas correct...」%K%P
+
+0xFC4
+Izumi「I... didn't understand what was what...」%K%P
+
+0xFD0
+Makoto「...」%K%P
+
+0xFDC
+"In reality, all of my premonitions were correct."%K%P
+
+0xFE8
+Despite being informed of this startling fact, it doesn't%Nphase me.%K%P
+
+0xFF4
+My senses might've already gone numb from all this%Ninformation overload.%K%P
+
+0x1000
+Besides...%K%N
+
+0x100C
+... to be honest, I feel a little relieved.%K%P
+
+0x1018
+Because in the end, the only one who tried to deceive%Nme was Okuhiko...%K%P
+
+0x1024
+Izumi-san and the others weren't lying to me.%K%P
+
+0x1030
+Sure, they did hide the fact that Izumi-san was actually%Na professor.%K%P
+
+0x103C
+But apart from that... almost everything else in the past%Nsix days...%K%P
+
+0x1048
+... happened naturally with no performances or gimmicks;%Nit was everyone being themselves, creating real%Nmemories.%K%P
+
+0x1054
+That knowledge puts my mind at ease.%K%P
+
+0x107C
+An abrupt knocking sound causes us to turn around.%K%P
+
+0x10A8
+Kurumi「Onee-chan! We've got trouble!」%K%P
+
+0x10B4
+From beyond the front window, we see a troubled Kurumi...%K%P
+
+0x10C0
+Kurumi「Now's not the time to be pledging your love for each%Nother in front of the setting sun!」%K%P
+
+0x10CC
+Izumi「...」%K%P
+
+0x10D8
+Makoto「...」%K%P
+
+0x10E4
+Izumi-san and I exchange glances.%K%P
+
+0x10F0
+And then...%K%P
+
+0x10FC
+Izumi「Wh-What's wrong, Kurumi...?」%K%P
+
+0x112C
+Izumi-san opens the door, and gets out of the car.%K%P
+
+0x1158
+Kurumi「'What's wrong?' Now's not the time to be saying such%Ncarefree things!」%K%P
+
+0x1164
+Izumi「That's why I'm asking you what happened.」%K%P
+
+0x1188
+Kurumi「It's not 'What happened'... it's what's 'not' happening!」%K%P
+
+0x1194
+Izumi「???」%K%P
+
+0x11A8
+Kurumi「We all thought we'd make dinner...」%K%P
+
+0x11D8
+Kurumi「But we're completely short on riiiiiiiiiiiiiiiiiiice!!!」%K%P
+
+0x121C
+... ... ...%K%P
+

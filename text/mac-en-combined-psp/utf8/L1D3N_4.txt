@@ -1,0 +1,174 @@
+text area offset and size:
+0x670
+0xC95
+0x80
+After changing our clothes, we all meet at the front door.%K%P
+
+0x94
+Yuka「Well then, we're off, Kurumi-chan♪」%K%P
+
+0xA0
+Kurumi sees us off, and we start walking to the hot%Nsprings.%K%P
+
+0xB4
+But...%K%P
+
+0xC0
+Makoto「Sorry, guys!」%K%P
+
+0xCC
+... I suddenly speak up.%K%P
+
+0xD8
+Makoto「I'm not going to the hot springs after all.」%K%P
+
+0xEC
+Yuka「Huh? Why not?」%K%P
+
+0xF8
+Makoto「Actually, I was embarrassed, so I didn't say anything,%Nbut...」%K%P
+
+0x104
+Everyone「???」%K%P
+
+0x110
+Makoto「... I'm also a huge fan of 'Oedo Gatten'!」%K%P
+
+0x12C
+Okuhiko「Huh?」%K%P
+
+0x138
+Makoto「So I'm heading back to the lodge! The show's about to%Nstart soon...」%K%P
+
+0x144
+Makoto「See you later!」%K%P
+
+0x150
+I head back towards the lodge while receiving the%Ndumbfounded glances of the others on my back...%K%P
+
+0x200
+Kurumi「Ah... Onii-chan... What's wrong?」%K%P
+
+0x20C
+Makoto「Nothing, I just... wanted to watch some TV too...」%K%P
+
+0x218
+Kurumi「Really...?」%K%P
+
+0x224
+Makoto「Yeah...」%K%P
+
+0x230
+Looking rather bored, Kurumi turns her gaze back to the%NTV.%K%P
+
+0x23C
+I can't shake the feeling that she didn't intend to stay%Nhere and watch "Oedo Gatten".%K%P
+
+0x248
+Then what's her reason for not wanting to go to the hot%Nsprings...?%K%P
+
+0x254
+As I think, I am taken aback as I realize something.%K%P
+
+0x270
+Now that I think about it, this is just like yesterday, when%NKurumi lied about having a headache so she didn't have%Nto go to the pool...%K%P
+
+0x27C
+Could it be that she's worried about her figure again?%K%P
+
+0x290
+Now that I think about it, this is just like yesterday, Kurumi%Nstayed behind alone at Lunabeach when we all went to%Nthe pool, right?%K%P
+
+0x29C
+At that time, she said it was because she had a%Nheadache, but...%K%P
+
+0x2E8
+Kurumi「Onii-chan?」%K%P
+
+0x2F4
+Suddenly, Kurumi asks me a question.%K%P
+
+0x300
+Kurumi「Wanna go see an interesting place?」%K%P
+
+0x30C
+Makoto「'An interesting place'?」%K%P
+
+0x318
+Kurumi「Yep, since today's 'Oedo Gatten' is boring.」%K%P
+
+0x324
+Kurumi picks up the remote, turns off the TV, and stands%Nup.%K%P
+
+0x330
+Makoto「Where is this 'interesting place'?」%K%P
+
+0x33C
+Kurumi「You'll see♪ Come with Kurumi♪」%K%P
+
+0x350
+Kurumi quickly runs out the front door, leaving with those%Nwords.%K%P
+
+0x35C
+Makoto「Hey, wait, Kurumi!」%K%P
+
+0x368
+I immediately go after her...%K%P
+
+0x3EC
+When we go out to the forest path, Kurumi grabs my hand.%K%P
+
+0x3F8
+While leading me by the hand, she steadily plunges%Nthrough the darkness.%K%P
+
+0x404
+The sensation and warmth of Kurumi's small hand%Npermeates through my own.%K%P
+
+0x410
+Her skin feels as soft as a baby's.%K%P
+
+0x41C
+Makoto「All right, that's enough. Can't you tell me where we're%Ngoing now?」%K%P
+
+0x428
+I ask her this.%K%P
+
+0x434
+Kurumi「Like Kurumi said, to an interesting place!」%K%P
+
+0x440
+Makoto「I know that... Then I'll change the question. How%Ninteresting is this place?」%K%P
+
+0x44C
+Kurumi「Hmm... let's see...」%K%P
+
+0x460
+Kurumi「Your heart goes pit-a-pat, pounds like a jackhammer,%Ngets all restless, and pumps you up... maybe that kind of%Nfeeling?」%K%P
+
+0x46C
+Makoto「That makes no sense at all...」%K%P
+
+0x478
+Kurumi「But it's something that can't really be put in words♪」%K%P
+
+0x484
+Haah... oh well, whatever...%K%P
+
+0x490
+I'll just be quiet and follow her...%K%P
+
+0x4D8
+We get on the coastline road, and just walk down it for a%Nlittle while...%K%N
+
+0x500
+... Kurumi abruptly leads me into a thicket.%K%P
+
+0x538
+Makoto「H-Hey, Kurumi!」%K%P
+
+0x560
+Kurumi doesn't listen to me, for she's entirely focused on%Nadvancing through the thicket...%K%P
+
+0x56C
+Before long...%K%P
+

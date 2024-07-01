@@ -1,0 +1,144 @@
+text area offset and size:
+0x410
+0xB49
+0xA8
+And now... I am standing on Moon Beach.%K%P
+
+0xB4
+I decided to tell the others go ahead, giving them this%Nvague excuse.%K%P
+
+0xC0
+Makoto「There's something I want to think about...」%K%P
+
+0xCC
+When I told everyone that, Yuka...%K%P
+
+0xE0
+Yuka「Huh? Could it be about that 'experiment'?」%K%P
+
+0xF4
+Yuka「Geez, even if you think about it, there's nothing to be%Ngained, right!?」%K%P
+
+0x100
+Yuka「It's true that we were completely caught up in the%N'experiment'...」%K%P
+
+0x10C
+Yuka「But in the end, it was suspended, so you need to just%Nthink positive about the whole thing!」%K%P
+
+0x120
+... It seems that Yuka heard about the "experiment" from%NOkuhiko.%K%P
+
+0x12C
+According to her, when Izumi-san and I were talking in%Nthat scrap heap of a car, Okuhiko apparently explained%Nthe "experiment" to everyone.%K%P
+
+0x138
+With this, there are no secrets between the seven of us.%K%P
+
+0x144
+No, that's not quite right, is it?.%K%P
+
+0x150
+After all, Izumi-san and I are keeping the time travel a%Nsecret...%K%P
+
+0x15C
+...%K%P
+
+0x168
+Well, anyway, that's all there is to it...%K%P
+
+0x174
+Yuka, Haruka, and Okuhiko went back to the lodge, while%NSaki returned to her summer house.%K%P
+
+0x180
+All that's left on Moon Beach is my objective... That's%Nright...%K%P
+
+0x18C
+―The bell that I'm looking for.%K%P
+
+0x198
+I don't know if the bell is directly connected to the tragic%Nend Izumi-san and I reached and the time travel or not...%K%P
+
+0x1A4
+I don't know, but at the very least, if the bell isn't there,%Nthen the exact same history won't be able to repeat%Nitself.%K%P
+
+0x1B0
+(That's why I'll...)%K%P
+
+0x1C8
+Makoto「Ah...」%K%P
+
+0x1D4
+Makoto「Found it.」%K%P
+
+0x1E0
+While thinking, I quickly find the bell.%K%P
+
+0x1EC
+It's on the sand, wet from the waves... A shining, cold light.%K%P
+
+0x1F8
+I pick up the bell, and head towards the coastline road.%K%P
+
+0x274
+As I walk down the asphalt road bathed in the moonlight...%NI look for a moderately sized stone.%K%P
+
+0x280
+(So I'll...)%K%P
+
+0x28C
+(Consign this bell...)%K%P
+
+0x298
+(To oblivion!)%K%P
+
+0x2A4
+(So that it'll never appear before me... ever again...)%K%P
+
+0x2B0
+I see a fragment of concrete a few feet away from where%NI'm walking.%K%P
+
+0x2BC
+It's large and heavy enough to smash the bell.%K%P
+
+0x2C8
+I place the bell in my hand on the asphalt, pick up the%Nfragment of concrete, and with all my strength...%K%P
+
+0x2D4
+―I strike the bell from above!%K%P
+
+0x2E0
+―WHAM!!%K%P
+
+0x2EC
+In the silent night, only the grave sound of the stone%Ncolliding with something echoes.%K%P
+
+0x2F8
+(The bell has probably been smashed to pieces.)%K%P
+
+0x304
+As I think this, I turn over the fragment of concrete.%K%P
+
+0x310
+When I do...%K%P
+
+0x32C
+―It... It's gone!!!%K%P
+
+0x338
+(... The bell... is gone...)%K%P
+
+0x344
+I don't know how, but the bell has disappeared without a%Ntrace.%K%P
+
+0x350
+If there's no smashed up wreckage of the bell on the%Nground, then there might be pieces of it stuck to the%Nother side of the stone.%K%P
+
+0x35C
+But even there, there's not even a single trace of%Ndebris to be found...%K%P
+
+0x368
+Makoto「Why...?」%K%P
+
+0x374
+The only thing I can see on the cold asphalt is the%Nvague image of my shadow, cast by the pale moonlight...%K%P
+

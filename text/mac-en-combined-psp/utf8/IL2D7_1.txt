@@ -1,0 +1,108 @@
+text area offset and size:
+0x2E8
+0xA74
+0x88
+I'm drinking tea at Lunabeach.%K%P
+
+0x94
+It's our "wharf."%K%P
+
+0xA0
+This is also where the woman I love is...%K%P
+
+0xD0
+Izumi「Hee hee... nevertheless, last night was a masterpiece♪」%K%P
+
+0xDC
+Right now, we're sharing time together.%K%P
+
+0xE8
+This time of upmost bliss is more important than anything%Nin the world, and can never be replaced.%K%P
+
+0xF4
+I only realized this obvious fact very recently.%K%P
+
+0x100
+Makoto「Okuhiko's face back then... heh heh...」%K%P
+
+0x10C
+Izumi「But... maybe we went a little too far? We deceived him for%Nthree days, after all...」%K%P
+
+0x118
+Makoto「From the start, the one who started this whole deception%Ngame was him. If it hadn't been for you, it would have%Nbeen me in his shoes...」%K%P
+
+0x124
+Izumi「You're right... I guess you could say he got his just%Ndesserts?」%K%P
+
+0x130
+Makoto「Right, right.」%K%P
+
+0x13C
+Izumi「But... why did Okuhiko-kun allow himself to be so easily%Ndeceived?」%K%P
+
+0x148
+Izumi「After all, he could have just spoke with a stranger or%Nmade a phone call to confirm if he had really time%Ntraveled, right...?」%K%P
+
+0x154
+Makoto「Yeah... well, the thing is...」%K%P
+
+0x160
+It's like this.%K%P
+
+0x16C
+It was "faintly", but it seems Okuhiko realized early on%Nthat he might be being tricked.%K%P
+
+0x178
+However, he denied the fact that he was being%Ndeceived, and consciously made sure to faithfully%Nrepeat the same actions.%K%P
+
+0x184
+By doing so, he would ensure that the same events%Nwould repeat, and would be able to make plans in%Nadvance to manipulate future events in order to make%Nhis wish come true.%K%P
+
+0x190
+That is, trying to impress Haruka. To use a video game%Nanalogy, he considered the previous six days as his%N"Haruka walkthrough", and tried to use this knowledge to%Nwoo her.%K%P
+
+0x19C
+To him, it was as if he had reloaded from an earlier save%Npoint in a video game...%K%P
+
+0x1A8
+Izumi「Even though there are no save points or reset buttons%Nin life...」%K%P
+
+0x1B4
+Makoto「He lost the moment he failed to realize that...」%K%P
+
+0x1C0
+Izumi「That... might be right.」%K%P
+
+0x1CC
+Izumi-san says this, places her fingertips around the%Nhandle of her teacup, and brings it up to her lips.%K%P
+
+0x1D8
+She does this in a very polished, refined, and yet%Nnatural way.%K%P
+
+0x1E4
+Could you call this... elegant?%K%P
+
+0x1F0
+I can't stop myself from staring, mesmerized by these%Nsimple actions.%K%P
+
+0x1FC
+Izumi「What are the others doing right now?」%K%P
+
+0x208
+Izumi-san asks this as she fiddles with her teaspoon%Nwith her slender fingers.%K%P
+
+0x214
+Makoto「They're surely making their preparations to go home...」%K%P
+
+0x220
+Izumi「And you're not?」%K%P
+
+0x22C
+Makoto「I... plan to stay here a little while longer...」%K%P
+
+0x238
+Izumi「Are you all right with that? You don't care... Even if it%Nmeans dropping out of college?」%K%P
+
+0x244
+Although she says this, Izumi-san looks very delighted%Nand smiles...%K%P
+

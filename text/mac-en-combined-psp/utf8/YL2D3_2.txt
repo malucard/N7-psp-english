@@ -1,0 +1,72 @@
+text area offset and size:
+0x2F0
+0x370
+0x80
+I return to the lodge with Haruka.%K%P
+
+0x8C
+I sit on my bed, waiting.%K%P
+
+0x98
+Waiting?%K%N
+
+0xA4
+For what?%K%P
+
+0xB0
+Okuhiko「Why did you go fishing with Ishihara?」%K%P
+
+0xBC
+―Right! That's why!%K%P
+
+0xC8
+I rush out to the terrace as fast as an arrow.%K%P
+
+0x108
+Okuhiko「Wh-What is it, Ishiha...」%K%P
+
+0x138
+Before he can finish speaking, I punch Okuhiko in the%Nface with all of my strength.%K%P
+
+0x160
+Okuhiko tumbles down from his knees...%K%P
+
+0x16C
+He's completely unconscious.%K%P
+
+0x178
+Makoto「'Vengeance is mine', as they say.」%K%P
+
+0x184
+Makoto「This is payback for that last punch!」%K%P
+
+0x198
+Haruka「'Punch'?」%K%P
+
+0x1A4
+Makoto「... Ah, no... just talking to myself... hahaha.」%K%P
+
+0x1B0
+I try giving a fake laugh.%K%P
+
+0x1BC
+Haruka「?」%K%P
+
+0x1D0
+Haruka tilts her head in confusion.%K%P
+
+0x1DC
+Just then...%K%P
+
+0x1F0
+Saki「Huh?」%K%P
+
+0x1FC
+... Saki appears.%K%P
+
+0x210
+Saki「Why is Okuhiko-kun sleeping in a place like this...?」%K%P
+
+0x21C
+It seems the basket won't be broken apart this time..%K%P
+

@@ -1,0 +1,882 @@
+text area offset and size:
+0x1918
+0x3CD1
+0x154
+Suddenly... I wake up.%K%P
+
+0x160
+It's not that I had a nightmare, or heard a loud sound.%K%P
+
+0x16C
+I just somehow woke up for no reason...%K%P
+
+0x178
+I take a look at my watch, which I'd placed on my bedside.%K%P
+
+0x184
+"1:10 A.M."... It's probably only been about three hours%Nsince I went to bed.%K%P
+
+0x190
+My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my mind to help me go back to%Nsleep.%K%P
+
+0x19C
+I try this countless times...%K%P
+
+0x1A8
+It's no use- I'm too alert.%K%P
+
+0x1B4
+Resigning myself, I slip out of bed and head out to the%Nliving room...%K%P
+
+0x214
+Of course, there's no one in the living room.%K%P
+
+0x220
+I let out a sigh in the quiet, empty room.%K%P
+
+0x22C
+I can hear Okuhiko snoring from up in the loft.%K%P
+
+0x238
+Then, all of the sudden...%K%P
+
+0x244
+Okuhiko「Hey! Wait!」%K%P
+
+0x250
+... Okuhiko suddenly shouts in a roaring voice.%K%N
+
+0x25C
+When I look up in surprise...%K%P
+
+0x2D8
+Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
+
+0x2EC
+Okuhiko「Neutrino Energy, Power On! ... Trans～form! ... There! ...%NZzz...」%K%P
+
+0x300
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+
+0x314
+Okuhiko「Good work... Zzz...」%K%P
+
+0x328
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+
+0x33C
+... It seems he's just sleeptalking.%K%P
+
+0x348
+(Whew... man, what kind of dream is he having anyway...?)%K%P
+
+0x354
+I ignore Okuhiko, and casually decide to try going%Noutside the lodge...%K%P
+
+0x3A4
+From an opening in the forest, I can vaguely see that the%Nlights in Saki's summer house are on.%K%P
+
+0x3B0
+(That's right... there's something I've got to ask Saki!)%K%P
+
+0x3BC
+I determinedly head towards the summer house.%K%P
+
+0x414
+In any case, there's just too many things about Saki%Nthat are bothering me.%K%P
+
+0x420
+The bell... Haruka...%K%P
+
+0x42C
+I'll make sure I get the full story this time.%K%P
+
+0x438
+I'm unusually confident right now.%K%P
+
+0x444
+When I arrive at the summer house, I start to reach for%Nthe buzzer.%K%P
+
+0x450
+At that time...%K%P
+
+0x478
+(Hmm...?)%K%P
+
+0x484
+I feel like I can hear Saki's voice.%K%P
+
+0x490
+I try to strain my ears.%K%P
+
+0x4B8
+Saki「Wait. Didn't I tell you to wait?」%K%P
+
+0x508
+I was right.%K%P
+
+0x514
+I walk towards the direction of the voice.%K%P
+
+0x520
+I circle halfway around the wide grounds, and arrive at%Nthe backyard.%K%P
+
+0x52C
+There's light coming from the area around the back door.%K%P
+
+0x538
+Saki's lively voice grows louder as I get closer.%K%P
+
+0x544
+I can also hear some kind of high-pitched bark...%K%P
+
+0x56C
+I stop and stare.%K%P
+
+0x580
+Saki's there.%K%P
+
+0x58C
+She's wearing a pair of glasses, and is holding, in her%Narms, a playful puppy by her feet.%K%P
+
+0x598
+It seems to be a stray puppy.%K%P
+
+0x5A4
+It's the source of that bark I heard just now...%K%P
+
+0x5B0
+Saki「You worried me! Where did you go?」%K%P
+
+0x5D8
+The puppy she's holding happily licks her cheek.%K%P
+
+0x5E4
+She lets out a ticklish laugh.%K%P
+
+0x5F0
+I'm surprised to see Saki so different from her usual self.%K%P
+
+0x5FC
+Of course, I'm not talking about her glasses.%K%P
+
+0x608
+I'm talking about how gentle, peaceful, and content she%Nlooks.%K%P
+
+0x614
+Saki「Okay, wait there for a little bit.」%K%P
+
+0x63C
+Saki puts the puppy down, and disappears into the%Nhouse.%K%P
+
+0x648
+The dog wags its tail back and forth and starts barking%Nin its high-pitched voice.%K%P
+
+0x654
+I approach the back door.%K%P
+
+0x660
+The puppy almost notices me, so I head for cover.%K%P
+
+0x66C
+Saki comes out.%K%P
+
+0x678
+She's holding a plastic container with something inside.%K%P
+
+0x684
+The puppy vigorously wags its tail as it barks in%Nanticipation.%K%P
+
+0x6AC
+Saki「Shh. You won't get a treat if you're naughty.」%K%P
+
+0x6B8
+Saki scolds the puppy a bit before opening the plastic%Ncontainer.%K%P
+
+0x6C4
+Inside are leftovers of a splendid meat dish.%K%P
+
+0x6D0
+Saki crouches down, and presents the plastic container%Nto the puppy.%K%P
+
+0x6DC
+It excitedly chews on the meat.%K%P
+
+0x6E8
+―I see!%K%P
+
+0x6F4
+I recall the quarrel at the barbecue.%K%P
+
+0x700
+The beef she took back then... she actually planned to%Nsplit it with this puppy...%K%P
+
+0x70C
+It seems that she felt very uneasy about stealing the%Nbeef from us, but at that point, she'd gone too far to%Nretreat...%K%P
+
+0x718
+Saki「Don't eat so quickly... or you'll choke.」%K%P
+
+0x724
+Saki gently pets the puppy on its back, her face%Nbrimming with affection.%K%P
+
+0x730
+Even though she's nothing but extremely aggressive%Nand foul-mouthed towards the rest of us...%K%P
+
+0x73C
+(She really is a kind girl deep down, isn't she...?)%K%P
+
+0x748
+I quietly leave so that Saki doesn't notice me.%K%P
+
+0x754
+My thoughts of questioning Saki have completely%Ndisappeared.%K%P
+
+0x760
+It seems like I'll be going to sleep in a good mood...%K%P
+
+0x7B0
+That feel-good state lingers as I go to bed, and allows%Nme to quickly fall asleep...%K%P
+
+0x804
+But that slumber is brief.%K%P
+
+0x858
+(It's so noisy... Who is it? Just when I finally got into a%Ngood mood...)%K%P
+
+0x864
+Just before I can fall deeply asleep, that sound%Ndisturbs it.%K%P
+
+0x870
+It's the sound of tapping on the window...%K%P
+
+0x87C
+The small window on the wide ceiling... someone's tapping%Nit...%K%P
+
+0x888
+Irritated, I stand on top of my bed.%K%P
+
+0x894
+I stand on my tiptoes and open the ceiling window.%K%P
+
+0x8A0
+Pulling up with both of my arms, I raise the upper half of%Nmy body outside the window...%K%P
+
+0x8AC
+Makoto「!?」%K%P
+
+0x8D4
+It's Saki.%K%P
+
+0x8E0
+Saki tapped the window with a long tree branch.%K%P
+
+0x8EC
+When Saki notices me, she averts her face as she%Nbecomes flustered, and talks rapidly.%K%P
+
+0x8F8
+Saki「I'm just in the middle of a walk.」%K%P
+
+0x904
+Makoto「Come again?」%K%P
+
+0x910
+Saki「It's not like I came here to see you.」%K%P
+
+0x91C
+Makoto「Uh... what?」%K%P
+
+0x928
+Saki「In other words, it's all just a coincidence.」%K%P
+
+0x934
+Makoto「Right...」%K%P
+
+0x940
+Saki「It's just that... while I'm here... thank you for this morning.」%K%P
+
+0x94C
+Makoto「Huh?」%K%P
+
+0x958
+Saki「For the basket!」%K%P
+
+0x964
+Makoto「'While I'm here'...」%K%P
+
+0x970
+Saki「Well then, that means I've thanked you.」%K
+
+0x18D8
+"Wait."
+
+0x18E4
+"Y-Yeah..."
+
+0x9B8
+Makoto「Wait.」%K%P
+
+0x9C4
+Saki「Good night.」%K%P
+
+0x9D0
+Makoto「Hey, I said wait!」%K%P
+
+0x9DC
+Makoto「Will you wait right there? Okay? Stay right there! Don't run%Noff!」%K%P
+
+0x9E8
+Without waiting for Saki to reply, I shut the window, and%Nget off the bed.%K%P
+
+0xA20
+I quickly change my clothes and sneak outside.%K%P
+
+0xA2C
+Makoto「Saki!」%K%P
+
+0xA38
+I abruptly shout in alarm. Where is she?%K%P
+
+0xA44
+Saki「I'm right here!」%K%P
+
+0xA50
+Makoto「Oh, good. You surprised me.」%K%P
+
+0xA64
+Saki「I'm the one who's surprised. Yelling like that... So, what is%Nit?」%K%P
+
+0xA70
+Makoto「Huh?」%K%P
+
+0xA7C
+Saki「Your business. What's your business with me?」%K%P
+
+0xA88
+Makoto「I don't have any, but...」%K%P
+
+0xA94
+Saki「Then I'm going home.」%K%P
+
+0xAA0
+Makoto「Hey, hey, I don't have to have business with you, do I?%NYou've come all this way, after all...」%K%P
+
+0xAAC
+Saki「Didn't I just tell you that coming here in the middle of my%Nwalk was a complete coincidence?」%K%P
+
+0xAB8
+Makoto「Why... in the middle of the night?」%K%P
+
+0xAC4
+Saki「It doesn't matter, does it?」%K%P
+
+0xAD0
+Makoto「If it's doesn't matter, then come here.」%K%P
+
+0xADC
+Saki「No way. The stars will move.」%K%P
+
+0xAF0
+Makoto「Y-Yeah...」%K%P
+
+0xAFC
+Saki「Well then, good night.」%K%P
+
+0xB08
+Makoto「... Good night.」%K%P
+
+0xB14
+Saki quickly goes down the lodge's staircase and%Nleaves.%K%P
+
+0xB20
+I shut the window, and crawl into my bed again.%K%P
+
+0xB2C
+Even though it was only for a short time, having the%Nwindow open has caused the room to get freezing cold.%K%P
+
+0xB38
+I pull the covers over my head to try to preserve my%Nescaping body temperature.%K%P
+
+0xB44
+And then, I think of Saki...%K%P
+
+0xB50
+The Saki who isn't honest towards other people.%K%P
+
+0xB5C
+The Saki who doesn't show any weakness to other%Npeople.%K%P
+
+0xB68
+The Saki who is prouder than others.%K%P
+
+0xB74
+But I'm the only one who knows.%K%P
+
+0xB80
+I know the fact that Saki is a nice girl better than anyone%Nelse...%K%P
+
+0xB8C
+... She's simply a little bad at expressing her feelings.%K%P
+
+0xB98
+What she did just now was the best she could do to%Nexpress her thanks.%K%P
+
+0xBA4
+While thinking about that, I feel that it's kinda lonely for%NSaki just to go home like that.%K%P
+
+0xBB0
+(Saki...)%K%P
+
+0xBBC
+Unable to keep my emotions in check, I push aside the%Ncovers.%K%P
+
+0xBC8
+(I might have enough time to make it...)%K%P
+
+0xC00
+I quickly change my clothes and sneak outside.%K%P
+
+0xC0C
+Makoto「Saki!」%K%P
+
+0xC18
+There's no way she's here... Even so, I can't help but yell.%K%P
+
+0xC24
+Saki「I'm right here!」%K%P
+
+0xC30
+Makoto「Huh...!?」%K%P
+
+0xC44
+Makoto「What's this, you're still here... You surprised me.」%K%P
+
+0xC50
+Saki「I'm the one who's surprised. Yelling like that... So, what is%Nit?」%K%P
+
+0xC5C
+Makoto「Huh?」%K%P
+
+0xC68
+Saki「Your business. What's your business with me?」%K%P
+
+0xC74
+Makoto「I don't have any, but...」%K%P
+
+0xC80
+Saki「Then I'm going back.」%K%P
+
+0xC8C
+Makoto「Hey, hold on!」%K%P
+
+0xC98
+Saki「You don't have any business with me, right?」%K%P
+
+0xCA4
+Makoto「Nope.」%K%P
+
+0xCB0
+Saki「Then it's fine, isn't it?」%K%P
+
+0xCBC
+Makoto「... Well, do YOU have any business after this, Saki?」%K%P
+
+0xCC8
+Saki「Nope.」%K%P
+
+0xCD4
+Makoto「If that's the case... since you've come all this way, you%Nought to rest for a while.」%K%P
+
+0xCE0
+Saki「Didn't I just tell you that coming here in the middle of my%Nwalk was a complete coincidence?」%K%P
+
+0xCEC
+Makoto「Why... in the middle of the night?」%K%P
+
+0xCF8
+Saki「It doesn't matter, does it?」%K%P
+
+0xD04
+Makoto「If it's doesn't matter, then come here.」%K%P
+
+0xD10
+Saki「No way. The stars will move.」%K%P
+
+0xD40
+Makoto「Stars?」%K%P
+
+0xD54
+I suddenly look up.%K%P
+
+0xD60
+I'm taken aback as my heart is awestruck.%K%P
+
+0xD6C
+The cloudless night sky is adorned with bright stars.%K%P
+
+0xD78
+I didn't notice them at all...%K%P
+
+0xDA0
+Saki「The stars around here are at the height of their beauty%Naround this season.」%K%P
+
+0xDAC
+Makoto「So you like stars, Saki?」%K%P
+
+0xDB8
+Saki「Not particularly.」%K%P
+
+0xDC4
+Makoto「I get it... You definitely like them, right?」%K%P
+
+0xDD0
+Saki「...」%K%P
+
+0xDE4
+I remember what happened when I went to the summer%Nhouse earlier.%K%P
+
+0xDF0
+I feel that the sight of Saki looking at the stars really%Nsuits her, just as the sight of her being affectionate to%Nthat puppy was...%K%P
+
+0xDFC
+Saki hangs her head down, and walks quickly.%K%P
+
+0xE08
+Makoto「Where are you going?」%K%P
+
+0xE14
+Saki「Over there.」%K%P
+
+0xE20
+She starts walking towards the forest path.%K%P
+
+0xE2C
+Makoto「Then I'll go too.」%K%P
+
+0xE38
+Saki「Don't get close to me.」%K%P
+
+0xE44
+Makoto「Understood, mistress...」%K%P
+
+0xE50
+For some reason, I'm not angry.%K%P
+
+0xE5C
+A strange emotion stirs inside of me as I follow her.%K%P
+
+0xEAC
+I don't know how far she plans on going, but Saki steadily%Ndescends the forest path's hill road.%K%P
+
+0xEB8
+I follow her as I leisurely look up at the stars.%K%P
+
+0xEC4
+I don't know the names of the constellations, but looking%Nat them like this feels strangely romantic.%K%P
+
+0xED0
+(I remember that there were times where I would%Ninnocently look at the stars when I was a kid...)%K%P
+
+0xEDC
+At that time, I didn't think that there was a world where%Nyou thought about girls in terms of "like or dislike".%K%P
+
+0xEE8
+It's a very nostalgic time, but...%K%P
+
+0xEF4
+... The current me...%K%P
+
+0xF08
+Saki「Makoto-kun, why are you walking so slowly?」%K%P
+
+0xF14
+Makoto「Hey, Saki? Could you come here for a second?」%K%P
+
+0xF20
+Saki「Why?」%K%P
+
+0xF2C
+Makoto「You'll see.」%K%P
+
+0xF38
+... The current me already knows that world exists.%K%P
+
+0xF44
+I can't return to who I was. I've already learned too many%Nthings, both good and bad.%K%P
+
+0xF58
+Saki「What?」%K%P
+
+0xF64
+Saki asks this as she tilts her head.%K%P
+
+0xF70
+I...%K
+
+0x18F0
+Lie down and stretch
+
+0x18FC
+Push Saki down as she walks.
+
+0xFDC
+I lie down face-up and stretch.%K%P
+
+0xFE8
+Saki「What... are you doing?」%K%P
+
+0xFF4
+Saki looks at me with a suspicious expression.%K%P
+
+0x1000
+Makoto「I've never seen anything so beautiful before.」%K%P
+
+0x100C
+Saki「... Wha-!? What's this... all of the sudden...」%K%P
+
+0x1018
+Makoto「These stars.」%K%P
+
+0x1024
+Saki「Huh...?」%K%P
+
+0x1030
+Saki follows my gaze until she sees that I'm looking at the%Nstars.%K%P
+
+0x103C
+Saki「Y... Yeah, you're right...」%K%P
+
+0x1048
+Makoto「Why are you flustered?」%K%P
+
+0x1054
+Saki「I-I'm not flustered, dammit!」%K%P
+
+0x1060
+I grin at Saki's agitation and look up at the stars again.%K%P
+
+0x106C
+Makoto「Come on, you should try it.」%K%P
+
+0x1078
+Saki「Huh...?」%K%P
+
+0x1084
+Makoto「Lie down like this and gaze at the stars. It feels great.」%K%P
+
+0x1090
+I stretch my body out under this starry sky. It really%Ndoes feel great.%K%P
+
+0x109C
+Makoto「Well? Why don't you give it a try?」%K%P
+
+0x10A8
+Saki firmly stares at me.%K%P
+
+0x10B4
+Saki「... Only a commoner would find this entertaining.」%K%P
+
+0x10C0
+Makoto「That's right. That's why I'm doing it, right?」%K%P
+
+0x10CC
+Saki「And you're childish, too.」%K%P
+
+0x10D8
+Makoto「That's because I did this a lot when I was a kid.」%K%P
+
+0x10E4
+Just then, Saki's face suddenly softens.%K%P
+
+0x10F0
+Saki「If you wanted me to lay by your side so badly, you only%Nhad to ask...」%K%P
+
+0x10FC
+As she says this, she slowly sits on the ground.%K%P
+
+0x1108
+She shyly lays back, her body sprawled on the grass.%K%P
+
+0x1368
+When I get close enough to Saki, I suddenly push her%Ndown as she walks.%K%P
+
+0x1374
+Saki「!!!」%K%P
+
+0x1380
+I collapse onto the forest path along with with Saki. When%Nshe tries to get back up, I push her down from the side.%K%P
+
+0x138C
+Saki「Wh-What the hell are you doing!? No!」%K%P
+
+0x1398
+Makoto「Don't make a fuss. Just stay like this.」%K%P
+
+0x13A4
+As I hold down the struggling Saki with my arm, I point to%Nthe sky.%K%P
+
+0x13E0
+Saki「...?」%K%P
+
+0x13EC
+Saki suddenly looks up at the starry sky.%K%P
+
+0x13F8
+Makoto「When I was a kid, I did this a lot.」%K%P
+
+0x1404
+Makoto「When the stars were beautiful, I would watch them like this.」%K%P
+
+0x1410
+Saki「...」%K%P
+
+0x141C
+I take my hand off of Saki.%K%P
+
+0x1428
+She's still stiffly curled up near me.%K%P
+
+0x1434
+Makoto「Why don't you give it a try...?」%K%P
+
+0x1440
+Saki「...」%K%P
+
+0x144C
+Saki「... If you wanted me to lay by your side so badly, you%Nonly had to ask...」%K%P
+
+0x1458
+She shyly lays back, her body sprawled on the grass.%K%P
+
+0x146C
+Saki「This isn't bad... it's like a natural planetarium.」%K%P
+
+0x1478
+(Oh brother...)%K%P
+
+0x1484
+(Such a stubborn rich girl...)%K%P
+
+0x1490
+I look towards Saki with a bitter smile.%K%P
+
+0x149C
+Saki is stargazing with a rather content expression...%K%P
+
+0x14A8
+She doesn't pay any attention to me, staring dazedly at%Nthe stars.%K%P
+
+0x14B4
+The dark blue starry sky shines in Saki's large eyes.%K%P
+
+0x14C0
+Her pale cheeks get wet with the evening dew.%K%P
+
+0x14CC
+She instinctively touches it with her fingertip, and flicks%Nit off her skin.%K%P
+
+0x14D8
+She sighs, and her soft hair becomes loose.%K%P
+
+0x14E4
+Her unraveled hair is beautiful, befitting of a%Nfascinatingly elegant woman.%K%P
+
+0x14F0
+The night wears on by.%K%P
+
+0x14FC
+Saki and I continue to lie on the ground while being%Nbathed by the stars' radiance...%K%P
+
+0x1508
+... ... ...%K%P
+
+0x152C
+―If this were a movie, then things would have ended%Nperfectly, but...%K%N
+
+0x1538
+... Reality is something that doesn't often go that well.%K%P
+
+0x1570
+Saki「How do you plan on taking responsibility for this?」%K%P
+
+0x157C
+Makoto「'Responsibility'? It's just a little mud. It's not something to%Nworry about, is it?」%K%P
+
+0x1590
+Saki「You might be fine with it, but I sure as hell am not.%NAb-so-lute-ly not!」%K%P
+
+0x159C
+It seems this rich girl is quite the neat freak.%K%P
+
+0x15A8
+When we got up to head back, we found that we had%Ngotten mud on our clothes, causing Saki to start a hissy%Nfit...%K%P
+
+0x15B4
+Makoto「Understood, mistress. I shall clean it off as you desire...」%K%P
+
+0x15C0
+I begin to write on the mud using the back of my hand.%K%P
+
+0x15D4
+Saki「Could you not be so irresponsible?」%K%P
+
+0x15E0
+Makoto「Huh? What am I, your slave...?」%K%P
+
+0x15EC
+Saki「Swear that you definitely won't get mud on me.」%K%P
+
+0x15F8
+Makoto「What!?」%K%P
+
+0x1604
+Saki「Swear it.」%K%P
+
+0x1610
+Makoto「...」%K%P
+
+0x161C
+Saki「...」%K%P
+
+0x1628
+(Damn it, why do I have to do something like this...?)%K%P
+
+0x1634
+Although I grumble in my mind, I reluctantly make the oath.%K%P
+
+0x1640
+Makoto「I. DEFINITELY. WON'T. GET. MUD. ON. YOU. SAKI.」%K%P
+
+0x164C
+Saki「Henceforth, you will not forgive any living creature who%Ngets mud on me, with no exceptions. All right now, swear it.」%K%P
+
+0x1658
+Makoto「Huh? ... So if that means if something gets mud on you, I%Nhave to exact revenge on it no matter what?」%K%P
+
+0x1664
+Saki「Are you complaining? As a commoner, you should be%Nkneeling before me!」%K%P
+
+0x1678
+(Oh brother... she has quite the nerve...)%K%P
+
+0x1684
+(She really is a rich girl...)%K%P
+
+0x1690
+Even so, Saki... seems to be having a lot of fun...%K%P
+
+0x169C
+While looking at her face... I'm starting to figure that this%Nisn't so bad.%K%P
+
+0x16A8
+Saki really is a kind person.%K%P
+
+0x16B4
+She's just unable to express that very well.%K%P
+
+0x16C0
+Right now, I realize I'm the only one to have seen the%Nessence of Saki's true character.%K%P
+
+0x16CC
+I think at the very least, I can listen to what she has to%Nsay, right?%K%P
+

@@ -1,0 +1,273 @@
+text area offset and size:
+0x8F8
+0x16AB
+0x9C
+The moment we arrive at the top of the bank, we are%Nrewarded with a grand scenery that stretches out as%Nfar as the eye can see.%K%P
+
+0xA8
+The crimson colored sky starts fading into even darker%Ncolors.%K%P
+
+0xB4
+We're walking by a long, crescent-shaped beach, its%Nsands as smooth as velvet.%K%P
+
+0xC0
+There's nobody here except for us. The only sound is%Nthe soothing noise of waves crashing against the shore.%K%P
+
+0xCC
+The sea breeze gently brushes past my nose. It carries%Na sweet smell that is rather captivating.%K%P
+
+0xD8
+Makoto「So this is Moon Beach...」%K%P
+
+0xE4
+I can't quite hide the awe in my words.%K%P
+
+0xF8
+Yuka「Well? Didn't I tell you that this was a good idea?」%K%P
+
+0x104
+Yuka says this with pride.%K%P
+
+0x120
+That's right... On our way to the shopping district, Yuka%Nsuggested that we climb the bank on the east side of%Nthe road to see this sight.%K%P
+
+0x12C
+Makoto「Yeah, you were right.」%K%P
+
+0x140
+That's right... On our way to the shopping district, Yuka%Nsuggested that we climb the bank on the east side of%Nthe road to see this sight.%K
+
+0x8D0
+"Yeah, you were right."
+
+0x8DC
+"You really think so?"
+
+0x188
+Makoto「Yeah, you were right.」%K%P
+
+0x194
+I say this sincerely.%K%P
+
+0x1A0
+You're unlikely to see such a beautiful sunset in the city.%K%P
+
+0x1AC
+I haven't felt this moved by such a breathtaking%Nscenery in a long time.%K%P
+
+0x1D0
+Makoto「You really think so?」%K%P
+
+0x1DC
+I know she doesn't expect me to say that.%K%P
+
+0x1E8
+Though to be honest, I'm utterly amazed. You're unlikely%Nto see such a beautiful sunset in the city.%K%P
+
+0x1F4
+I haven't felt this moved by such a breathtaking%Nscenery in a long time.%K%P
+
+0x210
+Makoto「We didn't have to go all the way here to see it, did we?」%K%P
+
+0x21C
+It's just... Um... I'd feel defeated if I were to admit that this%Nis "pretty."%K%P
+
+0x228
+I guess it's because I'm still sore over losing that bet in%Ntennis.%K%P
+
+0x258
+Yuka「Geez, you're not very honest... Ah, don't tell me you're%Nstill bummed out about the match?」%K%P
+
+0x274
+Okuhiko「Huh? What's that? Yuka-chan, what match?」%K%P
+
+0x280
+Okuhiko butts into our conversation.%K%N
+
+0x28C
+This is bad...! I don't want a guy like him to know that Yuka%Ncompletely thrashed me.%K%P
+
+0x2A0
+Yuka「Well, you see...」%K%P
+
+0x2AC
+Makoto「Hey, Yuka! Let's go down to the beach! It'll be better than%Njust watching from here the whole time!」%K%P
+
+0x2B8
+I quickly interrupt her story.%K%P
+
+0x2CC
+Yuka「Huh!? Hold on, Makoto! You didn't care about it earlier...」%K%P
+
+0x2D8
+Makoto「I was wrong! Looking at it again, it's such a lovely sunset,%Nisn't it? Those were just lies. Honestly, you can't find this%Nsort of thing everywhere. Nope, not at all.」%K%P
+
+0x2EC
+Yuka「But...」%K%P
+
+0x2F8
+In order to make sure Yuka doesn't object, I have to%Nresort to flattery.%K%P
+
+0x304
+Makoto「Yuka, thank you. If you hadn't suggested we climb up%Nhere, then we might have overlooked this.」%K%P
+
+0x318
+Yuka「R-really...?」%K%P
+
+0x324
+Makoto「Really! It's also finally gorgeous outside, and since we're%Nright by the coast, we needed to see this... We're all%Ngrateful to you. Right, Okuhiko?」%K%P
+
+0x338
+Okuhiko「Huh... Y-Yeah...」%K%P
+
+0x34C
+Yuka「I-It's not like I did anything special...」%K%P
+
+0x358
+She says that, but it's clear she's just being modest.%K%P
+
+0x364
+Makoto「Well, let's not just stand here all day. Shall we go down?」%K%P
+
+0x378
+Yuka「... Good thinking.」%K%P
+
+0x384
+Yuka regains her cheerful spirits.%K%P
+
+0x390
+Okuhiko seems like he wants to say something, but as%Nwe've already switched topics, it seems he doesn't feel%Nlike going back.%K%P
+
+0x3B4
+... The distance from the top of the embankment to the%Nsandy bottom is about 2/3rds of my height.%K%P
+
+0x3C0
+Despite the height, Yuka easily gets down onto the%Nbeach.%K%P
+
+0x3CC
+Okuhiko and I go after her.%K%P
+
+0x3D8
+―Then, at that moment!%K%P
+
+0x484
+I hear a loud thud from behind me, causing me to turn%Naround.%K%P
+
+0x490
+On the sandy beach is Haruka, who has hit the ground.%K%N
+
+0x49C
+It seems that she messed up her landing and fell.%K%P
+
+0x4A8
+She looks confused... she might not understand what%Njust happened.%K%P
+
+0x4B4
+I walk over to Haruka's side, grab her hand, and then%Nhelp her up.%K%P
+
+0x4C0
+Makoto「Are you all right?」%K%P
+
+0x4CC
+As if nothing had happened, she gives me a curt nod in%Nreply.%K%P
+
+0x4D8
+However, it's clear that Haruka is definitely embarrassed.%K%N
+
+0x4E4
+She's blushing.%K%P
+
+0x544
+... ... ...%K%P
+
+0x550
+Before I know it, I've turned around.%K%P
+
+0x574
+I notice that Haruka is the only person still loitering%Naround at the top of the bank.%K%P
+
+0x580
+(... Huh???)%K%P
+
+0x58C
+Wait, didn't I just help her up?%K%N
+
+0x598
+So then why is she still there?%K%P
+
+0x5A4
+I break into a sweat.%K%N
+
+0x5B0
+My head is racked with confusion from my inability to%Ncomprehend the situation.%K%P
+
+0x5BC
+While this is happening, Haruka slowly doubles over.%K%P
+
+0x5C8
+She bends her knees and grips the edge of the%Nembankment. Judging from her stance, I already know%Nwhat's going to happen next.%K%P
+
+0x5D4
+"Wait!"... Before I can warn her, she's already in midair.%K%N
+
+0x5E0
+And then...%K%P
+
+0x634
+... Haruka loses her balance and falls flat onto the%Nbeach. A cloud of dust soundlessly stirs up into the%Nempty sky.%K%P
+
+0x640
+(This scene...)%K%P
+
+0x64C
+(This scene... definitely... happened a few seconds ago...)%K%P
+
+0x658
+Haruka looks confused.%K%N
+
+0x664
+I walk over to her side, grab her hand, and help her up.%K%P
+
+0x670
+Makoto「Are you all right?」%K%P
+
+0x67C
+I can't hide my shock.%K%P
+
+0x688
+Although Haruka gives a short nod, it's clear she's just%Ntrying to cover up her own embarrassment.%K%N
+
+0x694
+I notice that she's blushing.%K%P
+
+0x6A0
+As if trying to cover up her trembling, she quickly gets%Nto her feet and moves past me.%K%P
+
+0x6D0
+... For a little while, I stand frozen in place, dumbfounded.%K%P
+
+0x6DC
+―Was that d▲j▽-vu? No...%K%P
+
+0x6E8
+That's the phenomenon where after an event occurs,%Nyou're under the delusion you've experienced that%Nevent before.%K%P
+
+0x6F4
+But it definitely wasn't like that.%K%P
+
+0x700
+I saw Haruka fall before she actually did.%K%P
+
+0x70C
+I saw myself helping her up before it really happened too.%K%P
+
+0x718
+(Then just what the hell was that...?)%K%P
+
+0x734
+I quickly look up to see the red western skies are%Nburning dark red.%K%N
+
+0x75C
+The waves crash against the shore, bringing with them%Nthe echoes of the roaring ocean.%K%P
+

@@ -1,0 +1,87 @@
+text area offset and size:
+0x4C8
+0x5A0
+0xE4
+(Why...?)%K%P
+
+0xF0
+Could those be my words?%K%N
+
+0xFC
+Or... someone else's?%K%P
+
+0x108
+No, right now, it's doubtful whether these are even%N"words" or not.%K%P
+
+0x114
+There's nothing here.%K%N
+
+0x120
+No sound, no color, no wind...%K%N
+
+0x12C
+It feels like I'm swaying around in a cloudy liquid.%K%P
+
+0x138
+It's so cold...%K%N
+
+0x144
+With every breath I take, my windpipe and lungs let out a%Ndry sound as if they're frozen...%K%P
+
+0x1A4
+That heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
+
+0x1B0
+―A bell?%K%P
+
+0x1BC
+It's a small sphere... The smooth, metal surface shines as%Nit emits a cold light.%K%P
+
+0x1C8
+The bottom has a long, narrow hole carved into it, and a%Nsmall, dull crimson string is tied to the top.%K%P
+
+0x1D4
+Before long, the bell begins to quietly slip out of the%Npalm... It then...%K%P
+
+0x204
+... slips out and falls.%K%P
+
+0x24C
+I tearfully cling to her chest as my body's trembling%Ngradually intensifies.%K%P
+
+0x258
+In my arms, I can feel her cold, wet skin...%K%N
+
+0x264
+Her thin limbs are stiff...%K%P
+
+0x270
+Looking at her ghastly pale, almost transparent cheeks,%NI feel like she might shatter into a thousand pieces if I%Ntouched her cheek.%K%P
+
+0x27C
+As if she were a doll made of glass.%K%N
+
+0x288
+She has already stopped moving.%K%N
+
+0x294
+She doesn't speak or smile.%K%P
+
+0x2A0
+With her radiance and warmth completely gone, all that's%Nleft of her... is an empty shell.%K%P
+
+0x2AC
+A completely... empty shell.%K%P
+
+0x2B8
+Today is Saturday, April 6th, 2019.%K%N
+
+0x2C4
+―I've lost her.%K%P
+
+0x2D0
+(Why...?)%K%P
+
+0x2DC
+Only that hoarse voice fills this empty void...%K%P
+

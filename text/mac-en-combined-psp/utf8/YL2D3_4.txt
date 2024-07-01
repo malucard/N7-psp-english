@@ -1,0 +1,81 @@
+text area offset and size:
+0x2C8
+0x5B9
+0x5C
+Kurumi and I watch "Oedo Gatten" together.%K%P
+
+0x68
+The others go to the hot springs.%K%P
+
+0x7C
+Kurumi「Onii-chan?」%K%P
+
+0x90
+Kurumi「Do you want to go somewhere interesting?」%K%P
+
+0x9C
+I quickly grasp Kurumi's palm...%K%P
+
+0xA8
+Makoto「Absolutely not!」%K%P
+
+0xB4
+... And assertively declare this.%K%P
+
+0xC8
+Kurumi「...」%K%P
+
+0xDC
+After that, Kurumi doesn't try to invite me, probably%Nbecause she was overwhelmed by my stern outburst.%K%P
+
+0xE8
+Right now, I can't let her go to the shrine.%K%P
+
+0xF4
+Even if we don't go inside, going there might be the%Ncause of Kurumi going missing in the future... in other%Nwords, tomorrow.%K%P
+
+0x100
+I grasp Kurumi's palm tightly while continuing to watch TV.%K%P
+
+0x10C
+Everyone returns from the hot springs around 11:00...%K%P
+
+0x178
+Saki, Izumi-san, and Kurumi go back to their respective%Nhomes.%K%P
+
+0x184
+I say "goodnight" to the rest of the members, and return%Nto my room.%K%P
+
+0x190
+As I absently stare at the ceiling, I think about today.%K%P
+
+0x19C
+―Wednesday, April 3rd.%K%P
+
+0x1A8
+The April 3rd in the last loop had Saki getting pissed off%Nand storming away.%K%P
+
+0x1B4
+And she revealed the fact that Haruka was a clone...%K%P
+
+0x1C0
+If that's so, then that means that this time, the others%Nwon't know this fact...%K%P
+
+0x1CC
+Well, that's not necessarily a bad thing.%K%P
+
+0x1D8
+It doesn't really need to be hidden, but there's no%Nreason to tell them, either.%K%P
+
+0x1E4
+Since Saki didn't almost drown... this peaceful day was%Nable to happen.%K%P
+
+0x1F0
+Makoto「Haah...」%K%P
+
+0x1FC
+I sigh.%K%P
+
+0x208
+I close my eyes, and instantly fall into a peaceful sleep...%K%P
+

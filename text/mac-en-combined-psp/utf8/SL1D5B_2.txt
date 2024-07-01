@@ -1,0 +1,585 @@
+text area offset and size:
+0x10B0
+0x28D0
+0x5C
+Night is approaching.%K%N
+
+0x68
+Saki and I are heading towards the lodge.%K%P
+
+0x7C
+Saki「Makoto-kun, you don't think I'm obscene, do you?」%K
+
+0x1070
+"Of course... not."
+
+0x107C
+"Uhh..."
+
+0xC4
+Makoto「Of course... not.」%K%P
+
+0xD0
+I writhe this answer out of my mouth.%K%P
+
+0xDC
+Saki「Really? ... You really think that?」%K%P
+
+0xE8
+Makoto「Y-Yeah... I do. I wouldn't lie to you, Saki...」%K%P
+
+0xF4
+I bet my face looks strained. I can't make eye contact%Nwith her either.%K%P
+
+0x108
+Saki「I'm happy...」%K%P
+
+0x114
+Makoto「... Huh?」%K%P
+
+0x120
+Those unexpected words surprise me.%K%P
+
+0x12C
+It's not like Saki to speak so honestly...%K%N
+
+0x138
+Those words that came directly out of her mouth... were%Nthe feelings that came straight from the bottom of her%Nheart.%K%P
+
+0x144
+Saki「I'm happy... even if you're lying... No, you're not lying,%Nright? You're a poor liar, after all.」%K%P
+
+0x150
+Even it's only a little bit, could it be that Saki is starting%Nto trust me?%K%P
+
+0x15C
+If that's the case... then I'm the happy one.%K%P
+
+0x178
+Makoto「Uhh...」%K%P
+
+0x184
+Saki「So you really do think that?」%K%P
+
+0x190
+Saki looks at me as her eyes get damp.%K%P
+
+0x19C
+(Hold on! It's illegal to get teary-eyed on me at times like%Nthis!)%K%P
+
+0x1A8
+... Although I think that, I'm unable to say anything.%K%P
+
+0x1B4
+Saki「I know myself. I'm egotistical and selfish... that's why I'm%Nnot cute. For once, I'd just like to empty my mind...」%K%P
+
+0x1C0
+Makoto「It's fine, I don't think of any of that at all... It's fine if you%Njust stay the way you are right now.」%K%P
+
+0x1CC
+Makoto「It just seems like everyone's misunderstanding you,%Nthat's all...」%K%P
+
+0x1D8
+Saki「...」%K%P
+
+0x1E4
+Makoto「... Especially... Haruka...」%K%P
+
+0x1F0
+The instant I say that...%K%P
+
+0x214
+Saki「Stop talking about Haruka!」%K%P
+
+0x220
+... Saki suddenly expresses her discomfort.%K%P
+
+0x22C
+Makoto「Why... Why do you get so worked up when it comes to%NHaruka?」%K%P
+
+0x238
+Saki「It's fine, just stop it already! I don't want to hear about%Nthat clone...」%K%P
+
+0x244
+Makoto「... Then... just tell me one thing...」%K%P
+
+0x250
+Makoto「About that bell...」%K%P
+
+0x25C
+Saki「...」%K%P
+
+0x268
+Makoto「That bell... perhaps I might have some sort of connection%Nto it as well.」%K%P
+
+0x27C
+Saki「With you? That's impossible... because it's just a%Nplaything.」%K%P
+
+0x288
+Makoto「You said it was just a plaything yesterday as well... what%Ndo you mean by that?」%K%P
+
+0x29C
+Saki「...」%K%P
+
+0x2A8
+Makoto「... You can't... tell even me?」%K%P
+
+0x2B4
+Saki「... Haruka threatened me.」%K%P
+
+0x2C0
+Makoto「Threatened you?」%K%P
+
+0x2CC
+Saki「Right. About that bell...」%K%P
+
+0x2D8
+Makoto「But yesterday, Haruka definitely said 'give it back'...」%K%P
+
+0x2E4
+Saki「That's because I took it from her once. But it was when I%Ngot swallowed up by that wave...」%K%P
+
+0x2F0
+I see... So that's how their quarrel at the pier started...%K%P
+
+0x2FC
+Makoto「Then the bell's already sunk into the sea?」%K%P
+
+0x308
+Saki「But this morning, she showed it to me again.」%K%P
+
+0x314
+Makoto「Huh!?」%K%P
+
+0x320
+Makoto「Which means Haruka has the bell right now?」%K%P
+
+0x32C
+Saki nods.%K%P
+
+0x338
+Makoto「Saki... You're not the one who actually has it, right?」%K%P
+
+0x34C
+Saki「Wh-Why the hell would I?!」%K%P
+
+0x358
+Makoto「No, if you don't have it, then it's fine... So you really don't%Nhave it...」%K%P
+
+0x364
+Saki「Of course. I wouldn't lie to you.」%K%P
+
+0x370
+I trust Saki's words.%K%P
+
+0x37C
+I just promised it earlier...%K%P
+
+0x388
+"No matter what happens, I'll only trust Saki."%K%P
+
+0x3F4
+While we were talking, we pass by the front of Lunabeach.%K%P
+
+0x400
+When we do, Izumi-san and Kurumi come out, having just%Nclosed up shop.%K%P
+
+0x40C
+They tell us they're heading to the lodge again to cook%Ndinner.%K%P
+
+0x418
+The four of us decide to head to the lodge together.%K%P
+
+0x468
+After walking for a while, it gets dark around us.%K%P
+
+0x474
+The dark clouds conceal the surely starry and moon-lit%Nsky.%K%P
+
+0x480
+As we ascend the silent hill road, I ask Izumi-san a%Nquestion.%K%P
+
+0x48C
+Makoto「I'm happy you're coming, but isn't it too early to close the%Nshop?」%K%P
+
+0x4A0
+Izumi「Today, the daytime hours were packed with customers%Nnonstop, a rather rare occasion. We were so busy that%Nwe got exhausted. That's why we decided to close shop%Nahead of time.」%K%P
+
+0x4B4
+Kurumi「Today, Onee-chan got ten times as many customers%Nthan usual, so she's really pleased with her earnings.%NShe's so paranoid that she's even hauling them around.」%K%P
+
+0x4C0
+I see... so that's why the handbag Izumi-san's holding%Nright now is bulging so much.%K%P
+
+0x4D4
+Izumi「Be quiet. It's because you said you were going to stay%Nover tonight.」%K%P
+
+0x4E0
+Makoto「Staying over?」%K%P
+
+0x4F4
+Izumi「Oh, I'm sorry, Makoto-kun. I called Yuka-chan about this%Nearlier, but Kurumi said she wanted to go to the lodge to%Nstay over tonight, no matter what...」%K%P
+
+0x500
+Makoto「So you're staying over as well?」%K%P
+
+0x50C
+Izumi「I'm accompanying her as her chaperone. I'm going to%Nmake sure Kurumi doesn't cause any trouble...」%K%P
+
+0x520
+Kurumi「Kurumi would be all right even if she's alone! Onee-chan,%Nit's just because you want to go yourself.」%K%P
+
+0x534
+When Kurumi says that, Izumi-san lightly pokes her on the%Nhead.%K%P
+
+0x548
+Kurumi puffs her cheeks.%K%P
+
+0x554
+Seeing this scene of the two sisters acting so intimate%Ncauses me to break out into a smile.%K%P
+
+0x568
+But...%K%P
+
+0x58C
+Saki「But without Izumi-san and Kurumi-chan, there's no one to%Nservice the shop if someone else comes.」%K%P
+
+0x598
+... Saki suddenly says this.%K%P
+
+0x5B4
+Izumi「Huh?」%K%P
+
+0x5C8
+Kurumi「Huh?」%K%P
+
+0x600
+Saki「If today was so busy, shouldn't you have kept the shop%Nopen for a while longer?」%K%P
+
+0x614
+Saki「After all, the shop usually doesn't get customers. So it%Nmight be bad for its future if you don't keep it open%Nduring times like this... Right, Izumi-san?」%K%P
+
+0x630
+Izumi「W-Well, maybe. But I'm not that greedy, so...」%K%P
+
+0x63C
+Makoto「Hey, Saki! Watch your tone!」%K%P
+
+0x658
+Saki「I'm just speaking my mind. Is that bad?」%K%P
+
+0x664
+Makoto「Of course it's bad. Who do you think you're talking to?」%K%P
+
+0x670
+Makoto「Saki... who do you think fixed your basket?」%K%P
+
+0x68C
+Izumi「Makoto-kun, it's all right...」%K
+
+0x1088
+Tell the truth.
+
+0x1094
+I still have to keep it a secret!
+
+0x6D4
+Makoto「Don't you know... that Izumi-san and Kurumi pulled an%Nall-nighter just to fix that basket!? All for you...」%K%P
+
+0x728
+Saki「That... wasn't you?」%K%P
+
+0x734
+Makoto「Y-Yeah... that's right. I... didn't fix it.」%K%P
+
+0x748
+Saki「I'm... such an idiot...」%K%P
+
+0x754
+Makoto「...Huh?」%K%P
+
+0x760
+Saki「I'm such a goddamn idiot!!」%K%P
+
+0x774
+...Crap! At that point, I finally realize it.%K%P
+
+0x780
+I got carried away and said way too much...%K%P
+
+0x7D4
+Saki「What... does that mean...?」%K%P
+
+0x7E0
+Saki shoots a glare at me.%K%P
+
+0x7EC
+Makoto「... U-Uh... umm...」%K%P
+
+0x7F8
+Saki「You weren't the one who fixed it?」%K%P
+
+0x804
+Makoto「...」%K%P
+
+0x810
+Saki's intensity causes me to falter. I feel cold sweat%Nrunning down my temples.%K%P
+
+0x824
+Saki「Could it be...」%K%P
+
+0x830
+Saki looks at both Kurumi and Izumi-san.%K%P
+
+0x84C
+Kurumi「Ahaha...」%K%P
+
+0x858
+Izumi「U-Umm...」%K%P
+
+0x874
+Saki「I see... so that was it. I see now...」%K%P
+
+0x880
+Saki「If that's how it was, you should have told me.」%K%P
+
+0x88C
+Kurumi「...」%K%P
+
+0x898
+Izumi「...」%K%P
+
+0x8A4
+Makoto「Umm... Saki-」%K%P
+
+0x8B8
+Saki「Don't speak until I say so!!」%K%P
+
+0x8CC
+Her thundering voice causes me to swallow my words.%K%P
+
+0x8D8
+Saki lowers her head as her shoulders shake.%K%P
+
+0x8EC
+Saki「This is all the same, isn't it... This is the same as back%Nthen...!!」%K%P
+
+0x8F8
+"Back then"...%K%P
+
+0x904
+It can't be... is she talking about the time... where she%Nmistook Okuhiko as the one who saved her life?%K%P
+
+0x910
+Makoto「Saki...」%K%P
+
+0x91C
+Saki「I'm... such an idiot...」%K%P
+
+0x928
+Saki「I'm such a goddamn idiot!!」%K%P
+
+0x93C
+Saki shouts that and starts running.%K%P
+
+0x948
+I stand motionless in place, stunned.%K%P
+
+0x954
+There's no way in hell that I can chase after her.%K%P
+
+0x960
+I made the same mistake Okuhiko made.%K%P
+
+0x96C
+Though I didn't have any ill intentions, I still ended up%Ndeceiving her, just like he did.%K%P
+
+0x978
+"Humans are just liars."%K%N
+
+0x984
+Saki's words weigh heavily in my heart...%K%P
+
+0xA0C
+After dinner, I isolate myself in my room.%K%P
+
+0xA18
+Sitting together in a circle cheerfully after dinner... I'm not%Nin the mood for that sort of thing.%K%P
+
+0xA24
+As I throw myself down on the bed, my thoughts blankly%Nturn to Saki.%K%P
+
+0xA4C
+At that time, my door quietly opens.%K%P
+
+0xA58
+I sit up on my bed.%K%P
+
+0xA64
+Standing over there is Haruka.%K%P
+
+0xA78
+Haruka「Why are you the only one who went back to your room?」%K%P
+
+0xA84
+Makoto「...」%K%P
+
+0xA90
+Haruka「Even though... they went to the trouble of coming here.」%K%P
+
+0xA9C
+Makoto「You mean Kurumi and Izumi-san?」%K%P
+
+0xAA8
+Haruka「Even though we have people over here, you went back%Nto your room. It's strange.」%K%P
+
+0xAB4
+Makoto「I know...」%K%P
+
+0xAC0
+Haruka「If you know, then why don't you join us?」%K%P
+
+0xACC
+Makoto「...」%K%P
+
+0xAE0
+Haruka「Goodbye then...」%K%P
+
+0xAF4
+Makoto「Haruka!」%K%P
+
+0xB00
+I call out to Haruka to stop as she tries to leave the%Nroom.%K%P
+
+0xB0C
+That's right... I have to ask her about it...%K%P
+
+0xB20
+Haruka「What?」%K%P
+
+0xB2C
+Makoto「Haruka... you have it, don't you? That bell...」%K%P
+
+0xB38
+Haruka「...」%K%P
+
+0xB44
+Haruka「I don't have it... because she took it away from me.」%K%P
+
+0xB50
+Makoto「No... you're lying.」%K%P
+
+0xB5C
+Haruka「I'm not lying.」%K%P
+
+0xB68
+Makoto「Saki doesn't have it.」%K%P
+
+0xB74
+Haruka「Did you confirm that?」%K%P
+
+0xB80
+Makoto「Saki said that you had it...」%K%P
+
+0xB8C
+Haruka「I don't have it.」%K%P
+
+0xB98
+Makoto「Say, Haruka? Would you... entrust me with that bell for%Njust one day?」%K%P
+
+0xBA4
+Makoto「I can't tell you the reason why...」%K%P
+
+0xBB0
+Makoto「It's just... that bell might be something very dangerous...」%K%P
+
+0xBC4
+The instant I say that, I notice a change in Haruka's%Nbehavior.%K%P
+
+0xBD0
+Haruka slowly reaches... her hand out... to the buttons on%Nher cardigan.%K%P
+
+0xBDC
+Remaining silent, she begins to unbutton them one by%None...%K%P
+
+0xBE8
+I am dumbfounded.%K%P
+
+0xBF4
+(Haruka... what are you...?)%K%P
+
+0xC00
+When she finishes unbuttoning, Haruka begins to reach%Nfor the hook of her skirt next.%K%P
+
+0xC0C
+And then, I finally come to my senses.%K%P
+
+0xC18
+I reflexively grab Haruka's hand, stopping it from moving.%K%P
+
+0xC24
+Makoto「Wh-What are you doing!?」%K%P
+
+0xC38
+Haruka「If I let you run a strip search on me, then that'll satisfy%Nyou, right?」%K%P
+
+0xC44
+Makoto「Haruka...」%K%P
+
+0xC50
+Haruka「If you don't trust me, then it can't be helped, right...?」%K%P
+
+0xC5C
+Makoto「...」%K%P
+
+0xC68
+Haruka「...」%K%P
+
+0xC74
+Makoto「...」%K%P
+
+0xC80
+Haruka「...」%K%P
+
+0xC8C
+Makoto「I get it... I get it, Haruka...」%K%P
+
+0xC98
+Haruka firmly stares at me.%K%P
+
+0xCA4
+But I can't look at Haruka's eyes.%K%P
+
+0xCB0
+Haruka slowly begins to button up her cardigan.%K%P
+
+0xCBC
+I can't move an inch.%K%P
+
+0xCD0
+Once she straightens out her clothes, Haruka%Nwordlessly leaves the room.%K%P
+
+0xCDC
+I flop onto the bed.%K%P
+
+0xCE8
+(So not only have I deceived people, I've also lost the%Nability to trust them. Some great person I turned out to%Nbe, huh...?)%K%P
+
+0xCF4
+But...%K%N
+
+0xD00
+But Haruka and Saki... it's not clear which one of them is%Nlying...%K%P
+
+0xD0C
+I cringe as this intense conflict rages inside of my head.%K%P
+
+0xD18
+I want to escape from this agony right away.%K%P
+
+0xD24
+I shut my eyes, and try to turn off my mind.%K%P
+
+0xD30
+I'm so distressed that it's clear that I won't be able to%Nsleep well tonight...%K%P
+

@@ -1,0 +1,75 @@
+text area offset and size:
+0x2D8
+0x513
+0x40
+When we've finished our merrymaking, everyone goes to%Nsleep...%K%N
+
+0x4C
+I stand alone in the living room, having gathered all of my%Nluggage.%K%P
+
+0x58
+Izumi「Zzz...」%K%P
+
+0x64
+Izumi-san is peacefully sleeping on the living room sofa.%K%P
+
+0x70
+Makoto「...」%K%P
+
+0x98
+In the end, I couldn't respond to Izumi-san's feelings...%K%P
+
+0xA4
+I plan to leave the island before everyone else.%K%N
+
+0xB0
+I plan to disappear from Izumi-san's life. It's better if she%Nforgets about me...%K%P
+
+0xBC
+Izumi「Zzz...」%K%P
+
+0xC8
+The moonlight from the window shines upon Izumi-san's%Nhand.%K%N
+
+0xD4
+She is grasping that "bell".%K%P
+
+0xE0
+I recall the past ten days.%K%N
+
+0xEC
+A lot of things really did happen in those ten days.%K%P
+
+0xF8
+I feel tears welling up within my eyes...%K%P
+
+0x114
+Makoto「Farewell...」%K%P
+
+0x120
+I whisper this to the sleeping Izumi-san.%K%P
+
+0x12C
+At that time, she turns in her sleep, and drops the "bell".%K%P
+
+0x154
+Without another word, I quietly leave the lodge...%K%P
+
+0x18C
+I board a ferry heading for the mainland.%K%N
+
+0x198
+I go inside, and sit down at a window seat.%K%P
+
+0x1A4
+Before long, all of my fatigue that's accumulated up until%Nnow catches up with me all at once, and I begin to fall%Ninto a deep sleep.%K%P
+
+0x1DC
+When I close my eyes, a scene is reflected off my shut%Neyelids.%K%P
+
+0x1E8
+Izumi-san's sleeping face as she breathed peacefully...%K%N
+
+0x1F4
+And that "bell"... falling from her hand...%K%P
+

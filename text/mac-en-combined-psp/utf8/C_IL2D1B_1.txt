@@ -1,0 +1,390 @@
+text area offset and size:
+0xB50
+0x1E60
+0x124
+The now burning red sun is setting far off to the west.%K%P
+
+0x130
+It slowly, but steadily, begins to sink down towards the%Nhorizon.%K%P
+
+0x13C
+This whole afternoon, I've been keenly aware of the%Nnormally ignored swiftness of time.%K%P
+
+0x148
+Makoto「Why... did this...」%K%P
+
+0x154
+Makoto「What should I do... from now on...?」%K%P
+
+0x160
+In contrast to the quickly passing hours, I've stayed put%Nthe entire time, unable to do anything.%K%P
+
+0x16C
+A day progresses when the morning comes, when it%Nbecomes afternoon, and finally when night comes, as it%Nhas now.%K%P
+
+0x178
+A day that's passed away can never be relived, and%Ntime that's been washed away can never be recovered.%K%P
+
+0x184
+That's what I'd thought...%K%N
+
+0x190
+I undoubtedly believed that...%K%P
+
+0x19C
+But...%K%P
+
+0x1A8
+In this ridiculous world where common sense has%Ncompletely crumbled, I've completely lost sight of the%Ntruth.%K%P
+
+0x1B4
+Izumi「Nobody can declare that everything they see is the%Ntruth...」%K%P
+
+0x1C0
+Izumi-san once said that right here in this park while%Nlooking out across the starry sky.%K%P
+
+0x1CC
+What's real... and what's false...?%K%P
+
+0x1D8
+As I'm unable to even tell the distinction between reality%Nand fiction, it's no wonder that I'm at a loss.%K%P
+
+0x1E4
+Before my eyes is the cold, iron fence...%K%P
+
+0x1F0
+It encircles the wide cape, standing completely upright.%K%P
+
+0x1FC
+Upright... upright...%K%P
+
+0x208
+The pipes that I had kicked countless times until they%Nbent horribly are completely undamaged.%K%P
+
+0x214
+The fence isn't broken at all...%K%P
+
+0x264
+I walk towards Lunabeach, tottering down the road lined%Nwith cherry blossom trees.%K%P
+
+0x270
+(I need to get the truth from Izumi-san...)%K%P
+
+0x27C
+Right now, it's clear that only Izumi-san can understand%Nmy mental state.%K%P
+
+0x288
+Likewise, I'm the only one who's able to understand hers.%K%P
+
+0x294
+What is Izumi-san feeling right now? ―The answer to%Nthat is clear to me.%K%P
+
+0x2A0
+Obviously, it's because the only ones that experienced%Nthis incomprehensible phenomenon are Izumi-san and I...%K%P
+
+0x2AC
+Because Izumi-san "time traveled", just like me...%K%P
+
+0x304
+Yuka「M-Makoto! Geez, where did you go!?」%K%P
+
+0x310
+When I step out onto the coastline road, Yuka calls out%Nto me.%K%P
+
+0x31C
+Yuka「Don't just leave without a word...」%K%P
+
+0x328
+Yuka「We were worried, you know?」%K%P
+
+0x33C
+Haruka and Okuhiko appear from behind Yuka.%K%P
+
+0x350
+Okuhiko「Seriously... You're not a very cooperative person, are%Nyou?」%K%P
+
+0x35C
+Okuhiko「You do know what the goal of this Seminar Camp is, don't%Nyou?」%K%P
+
+0x368
+Okuhiko「This strange situation is exactly what you're supposed%Nto keep in mind and avoid.」%K%P
+
+0x374
+... The "goal"... "To form bonds with each other"...%K%P
+
+0x390
+Haruka「That's enough... of that...」%K%P
+
+0x39C
+Haruka「Let's go...」%K%P
+
+0x3B8
+Haruka says this, and starts briskly walking away.%K%P
+
+0x3D4
+Yuka「You're going with us too, Makoto.」%K%P
+
+0x3E0
+Makoto「'Going'... Where are we going?」%K%P
+
+0x3F4
+Yuka「The shopping district.」%K%P
+
+0x400
+Yuka「Even if we go back to the lodge, there's nothing to do%Nthere.」%K%P
+
+0x40C
+Makoto「The shopping district...?」%K%P
+
+0x418
+(Oh... right...)%K%P
+
+0x424
+On the last April 1st, we were trying to head to the%Nshopping district, and came across Lunabeach on the%Nway.%K%P
+
+0x430
+If I am to repeat history, then I'll have to go there this%Ntime as well...%K%P
+
+0x444
+Yuka「Come on, let's go♪」%K%P
+
+0x458
+With that, Yuka grabs my hand and starts walking.%K%P
+
+0x464
+For now, I decide to just keep quiet and go with them.%K%P
+
+0x470
+Either way, I was planning on going to Lunabeach...%K%P
+
+0x47C
+(... Huh? ... Hold on.)%K%P
+
+0x488
+Something's bugging me.%K%P
+
+0x494
+Last time, Okuhiko said that the goal of the Seminar Camp%Nwas "to deceive me."%K%P
+
+0x4A0
+And it wasn't just him deceiving me, but also Izumi-san,%Neven though she's not a member of the Seminar Camp.%K%P
+
+0x4AC
+(Just what does this mean...?)%K%P
+
+0x540
+While I'm thinking this, we arrive at Moon Beach in the blink%Nof an eye.%K%P
+
+0x54C
+Yuka lets go of my hand, and ascends the bank in front%Nof her.%K%P
+
+0x564
+Yuka「Wow～♪ Look, the scenery's amazing...」%K%P
+
+0x570
+Lured in by her voice, Haruka and Okuhiko also climb up%Nthe bank.%K%P
+
+0x57C
+Okuhiko「You're right... it really is magnificent...」%K%P
+
+0x588
+Okuhiko「No, it's the best...」%K%P
+
+0x594
+Yuka「Well? Didn't I tell you that this was a good idea?」%K%P
+
+0x5B0
+Yuka says this proudly, and one second later, she%Ndisappears from my field of vision.%K%P
+
+0x5BC
+She's at the other side of the bank... She probably%Njumped down onto the sandy beach.%K%P
+
+0x5C8
+Okuhiko goes next, and last, it's Haruka's turn...%K%P
+
+0x600
+When I hear that sound, my body moves by reflex.%K%P
+
+0x618
+I run up the bank, and jump down onto Moon Beach.%K%P
+
+0x670
+Makoto「Haruka...」%K%P
+
+0x67C
+She looks confused...%K%P
+
+0x688
+This is a familiar scene...%K%P
+
+0x694
+Makoto「Are you all right?」%K%P
+
+0x6A0
+When I come to my senses, I walk over to her side, grab%Nher hand, and help her up.%K%P
+
+0x6AC
+Haruka gives a short nod.%K%P
+
+0x6B8
+She's clearly trying to hide her embarrassment.%K%P
+
+0x6C4
+(What's the meaning of this...?)%K%P
+
+0x6D0
+(This is... the third time, right?)%K%P
+
+0x6DC
+I firmly stare into the trembling Haruka's eyes.%K%P
+
+0x6E8
+Haruka quickly and nervously avoids my eyes, gets to%Nher feet, and moves past me.%K%P
+
+0x718
+With the setting sun shining on her back, Haruka%Ngradually walks farther and farther away.%K%P
+
+0x724
+I try to find an answer as I see her off.%K%P
+
+0x758
+(... The third time...)%K%P
+
+0x764
+(... April 1st...)%K%P
+
+0x770
+(... Time travel...)%K%P
+
+0x78C
+Makoto「I've got it!」%K%P
+
+0x798
+I unintentionally shout.%K%P
+
+0x7A4
+A part of my fragmented thoughts have clicked together%Nlike pieces of a puzzle.%K%P
+
+0x7B0
+In other words, it's like this.%K%P
+
+0x7BC
+I witnessed Haruka fall in the last April 1st.%K%P
+
+0x7C8
+And before Haruka actually fell, I definitely saw that%Nevent happen.%K%P
+
+0x7D4
+Up until now, I just thought that was a premonition, but it%Nseems that I was wrong.%K%P
+
+0x7E0
+―Time travel.%K%P
+
+0x7EC
+If I had time traveled once more before those past six%Ndays, then it wouldn't be odd for me to know in advance%Nabout Haruka falling.%K%P
+
+0x7F8
+In short, it was merely a memory of an event from those%Npast six days...%K%P
+
+0x804
+Which means... isn't it like this?%K%P
+
+0x810
+There's today's April 1st, then there was the last April 1st,%Nand an April 1st before that one, so if I continue with that%Npattern...%K%P
+
+0x81C
+―Is this an infinite loop?%K%P
+
+0x828
+I may have been experiencing these past six days%Ncountless times, with no end in sight.%K%P
+
+0x834
+When I think of it that way, I can explain all of my%Npremonitions.%K%P
+
+0x840
+The rice at Lunabeach, the earthquake at the pool, the%Ncar's battery, what we were having for dinner that night,%Nand the cards.%K%P
+
+0x84C
+They were all events that I'd experienced before.%K%P
+
+0x858
+Which means that those were not premonitions, but just%Nmemories that I recalled.%K%P
+
+0x864
+...%K%P
+
+0x870
+No...%K%N
+
+0x87C
+That's not right, is it...?%K%P
+
+0x890
+Okuhiko「Ishihara, you see...」%K%P
+
+0x89C
+Okuhiko「We were just pretending as if all your premonitions%Nturned out to be really true.」%K%P
+
+0x8B0
+The rice, battery, and dinner incidents were all secretly%Nplanned and fabricated by Okuhiko and Izumi-san.%K%P
+
+0x8BC
+If that's the case, then does that mean all of my other%Npremonitions were false as well...?%K%P
+
+0x8D8
+...%K%P
+
+0x900
+No way!%K%N
+
+0x90C
+That's impossible!%K%P
+
+0x918
+Then how do you explain the card incident?%K%P
+
+0x924
+What, am I supposed to believe that Izumi-san used a%Ntrick or something to do that? That's impossible!%K%P
+
+0x930
+And the biggest problem is the earthquake!%K%P
+
+0x93C
+Unless you have some large scale equipment, it's%Nimpossible to produce an earthquake of that size!%K%P
+
+0x948
+There's just too many things that you can't explain%Nsimply by saying "I was deceived"!%K%P
+
+0x954
+(Then...)%K%P
+
+0x960
+(Then, just which ones were real...?)%K%P
+
+0x96C
+(Which ones... which ones...?)%K%P
+
+0x978
+At my wits end, I writhe in agony.%K%P
+
+0x984
+This is all too confusing.%K%P
+
+0x990
+Just when I was starting to have a grasp on things,%Neverything falls apart and doesn't make any sense.%K%P
+
+0x99C
+Yuka「Hey, Makoto～! Over here!」%K%P
+
+0x9A8
+I turn around, and see Yuka waving in front of Lunabeach.%K%P
+
+0x9B4
+Haruka, Okuhiko, and Kurumi have their backs turned to%Nme as they enter the shop.%K%P
+
+0x9C0
+(... Izumi-san... Izumi-san!)%K%P
+
+0x9CC
+Feeling like I could easily break into tears at any time, I%Nkick off the sand and break into a run...%K%P
+

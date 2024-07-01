@@ -7,8 +7,10 @@ import re
 import r11
 from r11 import clean_translation_enc_issues
 
-seg_table = [0x1140, 0xac98]
-seg_text = [0xba68, 0x2c11a]
+#seg_table = [0x1140, 0xac98]
+#seg_text = [0xba68, 0x2c11a]
+seg_table = [0x1ba8, 0x9904] 
+seg_text = [0xaf80, 0x2254f]
 
 def main():
 
@@ -30,7 +32,7 @@ def main():
   head_int_view = mv.cast("I")
   body = bytearray()
   
-  jp_pattern = re.compile("^;([\da-fA-F]*);([\d]*);(.*)$")
+  jp_pattern = re.compile("^;([\\da-fA-F]*);([\\d]*);(.*)$")
   dupestr = ";dupe:"
   unusedstr = ";unused"
   i = 0

@@ -1,0 +1,144 @@
+text area offset and size:
+0x3C0
+0x729
+0x98
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+
+0xA4
+Still half asleep, I blankly stare into space.%K%P
+
+0xB0
+It's a familiar... ceiling...%K%P
+
+0xBC
+I realize I'm freezing, my body soaked with sweat all over.%K%P
+
+0xC8
+I take a deep breath and slowly exhale.%K%P
+
+0xD4
+The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+
+0xE0
+It takes me three more breaths until...%K%P
+
+0xEC
+Makoto「Huh...?」%K%P
+
+0xF8
+Makoto「T-This is...」%K%P
+
+0x104
+Makoto「The lodge...」%K%P
+
+0x110
+Makoto「... This is the lodge, isn't it!?」%K%P
+
+0x138
+I quickly jump out of the bed.%K%P
+
+0x144
+I stand in the center of the room, and look around.%K%P
+
+0x150
+(There's no mistaking it...)%K%P
+
+0x15C
+(This is my bedroom!)%K%P
+
+0x168
+What's going on?%K%P
+
+0x174
+... That's right.%K%N
+
+0x180
+I definitely followed Saki to Viewpoint Park.%K%N
+
+0x18C
+And then Saki plunged into the sea before my very eyes.%K%P
+
+0x198
+(... A dream? Was that a "dream"...?)%K%P
+
+0x1A4
+However... for a dream, I remember it quite clearly.%K%P
+
+0x1B0
+Also, I don't just remember that moment.%K%N
+
+0x1BC
+I have memories of what happened before that, and the%Nday before that, and the day before that one...%K%P
+
+0x1C8
+One by one, I remember the various events that%Nhappened during the Camp.%K%P
+
+0x1D4
+―That's wrong!%K%P
+
+0x1E0
+―That's wrong! What the hell am I saying!?%K%P
+
+0x1EC
+―That wasn't a "dream"!!%K%P
+
+0x1F8
+―There's no way in hell that was a "dream"...%K%P
+
+0x220
+Suddenly, I hear a sound as violent as a gunshot!%K%P
+
+0x22C
+I turn around, and standing there, I see...%K%P
+
+0x238
+I see...%K%P
+
+0x288
+Yuka「Wh... What's going on!?」%K%P
+
+0x294
+Yuka「Why...!?」%K%P
+
+0x2A0
+It's impossible. This is impossible.%K%P
+
+0x2AC
+I quickly look at my watch.%K%P
+
+0x2B8
+"1 MON 09:19 A.M."%K%P
+
+0x2C4
+―1st.%K%P
+
+0x2D0
+―1st?%K%P
+
+0x2DC
+―1st???%K%P
+
+0x2E8
+Makoto「THE FIRST!!!!!!!!?」%K%P
+
+0x2F4
+Yuka「...?」%K%P
+
+0x300
+What's the meaning of this?%K%P
+
+0x30C
+What happened?%K%P
+
+0x318
+Why am I here?%K%P
+
+0x324
+My mind is thrown into extreme confusion.%K%P
+
+0x330
+Makoto「S-Sorry, Yuka...」%K%P
+
+0x33C
+I brush past Yuka and head for the living room.%K%P
+

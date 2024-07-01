@@ -1,0 +1,132 @@
+text area offset and size:
+0x528
+0xC88
+0xA8
+I take Saki to Viewpoint Park.%K%P
+
+0xB4
+Haruka is already waiting under the lighthouse.%K%N
+
+0xC0
+Last night, I asked Haruka to come here at this time.%K%P
+
+0xCC
+The two face each other underneath the lighthouse.%K%P
+
+0xD8
+Their bodies stiffen up due to the extreme tension.%K%P
+
+0xE4
+As I look back and forth between them, I slowly begin to%Ntalk.%K%P
+
+0xF0
+Makoto「All right... Well then, let's get this settled once and for all...」%K%P
+
+0xFC
+I place the bell in between Saki and Haruka.%K%P
+
+0x108
+Makoto「Saki, you took back a bell from a girl in a charcoal%Nburning hut whom you'd given the bell to in the first place.」%K%P
+
+0x114
+Makoto「The clone girl then chased after you, so you threw%Nstones at her, and wounded her forehead.」%K%P
+
+0x15C
+Saki「Yes...」%K%P
+
+0x168
+Makoto「And Haruka, when the bell you treasured was taken%Naway from you by some girl, you chased after her and%Nwere pushed away.」%K%P
+
+0x174
+Makoto「That's when you hit your forehead on the edge of a%Ndesk chair, and got that scar... is that right?」%K%P
+
+0x188
+Haruka「Yes...」%K%P
+
+0x194
+Makoto「So, in both of your stories, you both either took a bell or%Nhad one taken from you. Both stories resulted in a girl%Ngetting wounded on her forehead.」%K%P
+
+0x1A8
+Both of them nod.%K%P
+
+0x1B4
+Makoto「But what about the rest? For example, ages...」%K%P
+
+0x1C0
+Makoto「Haruka, how old were you when you got that scar on%Nyour forehead?」%K%P
+
+0x1D4
+Haruka「I don't know that, but... I think it was before I could go%Noutside...」%K%P
+
+0x1E0
+Makoto「I see. Then what about you, Saki?」%K%P
+
+0x1EC
+Makoto「Do you remember... about how old you were when you%Nplayed with the girl from the charcoal burning hut?」%K%P
+
+0x208
+Saki「That's... my family's summer house had just been%Ncompleted, so... I was six years old...」%K%P
+
+0x214
+Makoto「If Saki was six, then Haruka was five at the time.」%K%P
+
+0x220
+Makoto「Normally, healthy five year olds in this country are able%Nto go outside.」%K%P
+
+0x22C
+Makoto「Which means that there's a large time gap in between%Nyour memories- Haruka's incident must have happened%Nsome time before Saki's.」%K%P
+
+0x240
+Saki「...」%K%P
+
+0x24C
+Haruka「...」%K%P
+
+0x258
+Makoto「Also, your stories regarding the origin of the forehead%Nwound don't match up.」%K%P
+
+0x264
+Makoto「Even though Saki said it was 'a wound caused by%Nstones thrown at the girl', according to Haruka, it seems%Nit was 'a scar caused from hitting the edge of a desk%Nchair'.」%K%P
+
+0x270
+Makoto「Because of your very strong memories, both of you%Nneglected these small differentiations, and were%Nconvinced that the other was the girl in your memories.」%K%P
+
+0x27C
+Saki and Haruka look at each other timidly.%K%P
+
+0x288
+Makoto「And this... was the main reason why this happened.」%K%P
+
+0x294
+I say this, then hold up the bell.%K%P
+
+0x2A8
+Makoto「Both of you wait here.」%K%P
+
+0x2B4
+Saki and Haruka nod, and I clench the hand holding the%Nbell into a fist.%K%P
+
+0x2D0
+Makoto「Because of this bell, you two both made a strange%Nmisunderstanding...」%K%P
+
+0x2DC
+Saki「...」%K%P
+
+0x2E8
+Haruka「...」%K%P
+
+0x2F4
+Makoto「But this is the end. Your fighting will end here.」%K%P
+
+0x364
+They both nod.%K%P
+
+0x370
+Once I've confirmed that, I throw the bell over the cliff.%K%P
+
+0x3B4
+It shines in the sunlight for an instant, leaving behind a%Nsmall ring, and then it begins to sink into the sea...%K%P
+
+0x3C0
+With this, I've changed history. The previous conflict%Nbetween these two has disappeared without a trace...%K%P
+

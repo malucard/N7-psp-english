@@ -1,0 +1,471 @@
+text area offset and size:
+0xC40
+0x1EF0
+0x154
+Suddenly... I wake up.%K%P
+
+0x160
+It's not that I had a nightmare, or heard a loud sound.%K%P
+
+0x16C
+I just somehow woke up for no reason...%K%P
+
+0x178
+I take a look at my watch, which I'd placed on my bedside.%K%P
+
+0x184
+"2:50 A.M."%K%P
+
+0x190
+It hasn't even been an hour since I went to sleep.%K%P
+
+0x19C
+But I don't feel sleepy at all.%K%P
+
+0x1A8
+My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my mind to help me go back to%Nsleep.%K%P
+
+0x1B4
+I try this countless times...%K%P
+
+0x1C0
+It's no use- I'm too alert.%K%P
+
+0x1CC
+I give up and get out of bed.%K%P
+
+0x1D8
+I'm sure that there's several leftover beer cans from%Ntoday in the fridge.%K%P
+
+0x1E4
+After drinking a can, my sleepiness will surely return.%K%P
+
+0x1F0
+With that thought, I quietly open the door to my room...%K%P
+
+0x26C
+Of course, there's no one in the living room.%K%P
+
+0x278
+I let out a sigh in the quiet, empty room.%K%P
+
+0x284
+I can hear Okuhiko snoring from up in the loft.%K%P
+
+0x290
+Okuhiko「Hey! Wait!」%K%P
+
+0x29C
+Okuhiko suddenly shouts in a roaring voice.%K%P
+
+0x2A8
+When I look up in surprise...%K%P
+
+0x324
+Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
+
+0x338
+Okuhiko「Neutrino Energy, Power On! ... Trans～form! ... There! ...%NZzz...」%K%P
+
+0x34C
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+
+0x360
+Okuhiko「Good work... Zzz...」%K%P
+
+0x374
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+
+0x388
+... It seems he's just sleeptalking.%K%P
+
+0x394
+(Whew... man, what kind of dream is he having anyway...?)%K%P
+
+0x3A0
+I sigh, and start to reach out for the handle to the fridge.%K%P
+
+0x3AC
+Just then...%K%P
+
+0x3D4
+... I hear a sound.%K%P
+
+0x3E0
+It came from the terrace.%K%P
+
+0x3EC
+I take my hand off the fridge, and walk straight to the%Nfront door.%K%P
+
+0x468
+I put on a pair of sandals, open the door, and go outside.%K%P
+
+0x474
+―???%K%P
+
+0x480
+There is a dark figure sitting in the corner of the terrace.%K%P
+
+0x48C
+A dark figure?%K%P
+
+0x498
+No, that's...%K%P
+
+0x4A4
+Makoto「Yuka...」%K%P
+
+0x4EC
+Yuka「Ah, Makoto...」%K%P
+
+0x4F8
+Yuka「Good morning♪」%K%P
+
+0x504
+Makoto「Good morning...?」%K%P
+
+0x510
+Makoto「What are you doing out here in the middle of the night?」%K%P
+
+0x51C
+Yuka「Hmm? Ah... I was just looking at the stars...」%K%P
+
+0x540
+The stars??%K%P
+
+0x54C
+When I hear that, I look up.%K%P
+
+0x560
+Makoto「...!!」%K%P
+
+0x56C
+... I can't... speak...%K%P
+
+0x578
+The whole sky is engulfed by a glimmering sea of stars.%K%P
+
+0x584
+No, that's lame. This isn't something that can be%Ndescribed with such clich▲d lines!%K%P
+
+0x590
+There are an infinite amount of shining stars all over the%Nvast sky, packed densely together.%K%P
+
+0x59C
+It's a tempest of stardust.%K%P
+
+0x5A8
+It feels like if I reached out, I could grab them... but in%Nspite of that, their mysterious shine makes me realize%Njust how far away they are and how they'd take an%Neternity to reach.%K%P
+
+0x5B4
+Before I realize it, the miraculous scene in front of me%Nhas left me breathless.%K%P
+
+0x5C0
+Yuka「Hey, over here!」%K%P
+
+0x5CC
+When I turn to that voice, I see Yuka is now sitting in the%Nmiddle of the short staircase that leads to the ground.%K%P
+
+0x5D8
+She lightly beckons me.%K%P
+
+0x610
+Accepting Yuka's invitation, I go down the stairs and sit%Ndown next to her.%K%P
+
+0x61C
+I look up at the starry sky again.%K%P
+
+0x630
+Yuka「Hey? Aren't the stars pretty...?」%K%P
+
+0x63C
+Makoto「...」%K%P
+
+0x648
+I'm so distracted by the tempest of stardust that Yuka's%Nvoice barely registers...%K%P
+
+0x654
+Yuka「Wouldn't you say that looking at such a beautiful scene%Njust 'cleanses your heart'?」%K%P
+
+0x660
+Makoto「...」%K%P
+
+0x66C
+Yuka「Doesn't it?」%K%P
+
+0x678
+Yuka「It feels like any depression locked away in your heart is%Njust sucked away and banished to some far-off place.」%K%P
+
+0x684
+Makoto「...」%K%P
+
+0x690
+Yuka「Now that I think about it, it's the same feeling as when I%Nsaw those cherry blossoms...」%K%P
+
+0x69C
+―Cherry blossoms?%K%P
+
+0x6A8
+Those words bring me back to reality.%K%P
+
+0x6B4
+That's right... when we saw those cherry blossoms... I%Nhave to ask her about "that".%K%P
+
+0x6C0
+―Why did she know about the "bell"?%K%P
+
+0x6CC
+―Why did she have to take back the "bell" from that%Ngirl?%K%P
+
+0x6D8
+―And... does she have that "bell" even now?%K%P
+
+0x6E4
+I've been waiting for the chance for the two of us to be%Nall alone.%K%P
+
+0x6F0
+Now is my best shot!%K%P
+
+0x704
+Makoto「Say, Yuka?」%K%P
+
+0x720
+I look at Yuka's face...%K%P
+
+0x750
+Yuka「Hmm?」%K%P
+
+0x75C
+Yuka's eyes are brimming with tears.%K%P
+
+0x768
+Why...!?%K%P
+
+0x774
+It feels like my heart is being gripped tightly.%K%P
+
+0x780
+I lose sight of my own words...%K%P
+
+0x78C
+No, they're stolen... by Yuka's very anguished eyes...%K%P
+
+0x798
+Makoto「It's... nothing.」%K%P
+
+0x7A4
+I say that by sheer force of will.%K%P
+
+0x7B0
+Yuka「Then... I'd like to ask a question... okay?」%K%P
+
+0x7BC
+I merely nod quietly while hiding my unrest.%K%P
+
+0x7C8
+Yuka「Makoto... why did you chase after me earlier?」%K%P
+
+0x7D4
+Makoto「... Earlier?」%K%P
+
+0x7E0
+Yuka「When we were at the shrine, looking for Kurumi-chan...」%K%P
+
+0x7EC
+Yuka「Even though I insisted that you shouldn't go...」%K%P
+
+0x7F8
+Makoto「...」%K%P
+
+0x804
+Yuka「Why?」%K%P
+
+0x810
+Makoto「... That's...」%K%P
+
+0x81C
+Makoto「... Because it was the obvious thing to do, right?」%K%P
+
+0x828
+Yuka「Why?」%K%P
+
+0x834
+Makoto「What do you mean, why?」%K%P
+
+0x840
+Yuka「Didn't you think it was dangerous?」%K%P
+
+0x84C
+Makoto「... Yeah.」%K%P
+
+0x858
+Makoto「It's not like I believed all of Izumi-san's story, but... either%Nway, it still didn't change the fact that it felt like a place%Nno one should approach.」%K%P
+
+0x864
+Makoto「At that time, there was no way the man in me could just%Nsilently watch from the sidelines as you went in there by%Nyourself, you know?」%K%P
+
+0x870
+Yuka「The man in me, huh...」%K%P
+
+0x87C
+Makoto「Wh-What's with that tone...」%K%P
+
+0x888
+Yuka「... No.」%K%P
+
+0x894
+Yuka「It's just... I thought it sounded... rather old-fashioned...」%K%P
+
+0x8A0
+Makoto「It... It may sound old-fashioned, but I really believe in that.」%K%P
+
+0x8AC
+Makoto「Men ought to try their best to protect women- that's the%Nway it's been for ages!」%K%P
+
+0x8B8
+Yuka「Well then, are you saying you'll try to protect me?」%K%P
+
+0x8C4
+Makoto「... That's right.」%K%P
+
+0x8D0
+Yuka「That's just stupid...」%K%P
+
+0x8DC
+Makoto「It's not stupid!」%K%P
+
+0x8E8
+Makoto「From now on, I will definitely protect you!」%K%P
+
+0x8F4
+Yuka「... Are you... serious?」%K%P
+
+0x900
+Makoto「If this were a joke, it'd be a pretty crappy one, wouldn't%Nit?」%K%P
+
+0x90C
+Makoto「I'm serious. I swear on this starry sky that I'm serious!」%K%P
+
+0x918
+Even I don't understand why I'm saying these things.%K%P
+
+0x924
+Have these brilliant stars bewitched me without me%Nnoticing??%K%P
+
+0x930
+I feel a little embarrassed.%K%P
+
+0x93C
+Yuka「Hee hee.」%K%P
+
+0x948
+Yuka laughs.%K%P
+
+0x954
+Despite her cheerful facade, the shine of the stars%Nreflecting in her eyes suggest loneliness in them.%K%P
+
+0x960
+Yuka「You're kind...」%K%P
+
+0x96C
+Makoto「... Kind?」%K%P
+
+0x978
+Yuka「You're the spitting image of him in that regard.」%K%P
+
+0x984
+Spitting image...%K%P
+
+0x990
+Could that be...?%K%P
+
+0x99C
+Makoto「Your ex-boyfriend?」%K%P
+
+0x9A8
+Yuka「I told you, he wasn't my boyfriend.」%K%P
+
+0x9B4
+Yuka「I said it was an unrequited love, didn't I?」%K%P
+
+0x9C0
+She forces a smile.%K%P
+
+0x9CC
+It's like she's giving everything she's got to repress%Nemotions that want to burst out of her...%K%P
+
+0x9D8
+Yuka「But honestly...」%K%P
+
+0x9E4
+Yuka「Honestly... It might not have been like that...」%K%P
+
+0x9F0
+Makoto「?」%K%P
+
+0x9FC
+Yuka「'It's a completely unrequited love'... I was always under%Nthat impression, but...」%K%P
+
+0xA08
+Makoto「???」%K%P
+
+0xA14
+Yuka「One time... that boy told me...」%K%P
+
+0xA20
+Yuka「He told me he loved me.」%K%P
+
+0xA2C
+Makoto「Then that means he really...」%K%P
+
+0xA38
+Yuka「No...」%K%P
+
+0xA44
+Yuka「An unrequited love is an unrequited love...」%K%P
+
+0xA50
+Yuka「That love... is an eternally unrequited one...」%K%P
+
+0xA5C
+When she mutters this, Yuka slowly stands up.%K%P
+
+0xA70
+I immediately try to call out to her...%K%P
+
+0xA7C
+... But give up on it.%K%P
+
+0xA88
+Is that turned back of hers trying to hide something from%Nme?%K%P
+
+0xA94
+But I don't miss it.%K%P
+
+0xAA0
+I don't miss seeing the single teardrop that falls from%NYuka's eyes...%K%P
+
+0xAAC
+Yuka「Good night, Makoto...」%K%P
+
+0xAB8
+While walking to the terrace, she says this without%Nturning around.%K%P
+
+0xAE0
+Before long, I hear the sound of the door closing...%K%P
+
+0xAEC
+Left alone, I try touching the wooden plank that Yuka sat%Non.%K%P
+
+0xAF8
+The remnants of her tear feel cold on my finger.%K%P
+
+0xB04
+(An eternally unrequited love, huh...)%K%P
+
+0xB10
+The night wears on.%K%P
+
+0xB1C
+The stardust above my head quietly continues to turn%Nwith time...%K%P
+

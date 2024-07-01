@@ -1,0 +1,126 @@
+text area offset and size:
+0x418
+0x6AE
+0x40
+I return to my room, and slip into my bed...%K%P
+
+0x4C
+(In the end, I was unable to give her any sort of answer%Nafter she said that...)%K%P
+
+0x58
+(Why couldn't I say anything?)%K%P
+
+0x64
+(Just what do I feel for Izumi-san?)%K%P
+
+0x70
+Even though it's a simple question, I currently don't know%Nthe answer.%K%P
+
+0x7C
+The image of Izumi-san's smile is burned into my eyes.%K%P
+
+0x88
+When I close them, the image of her face faintly appears%Nin the darkness.%K%P
+
+0x94
+I can't sleep like this...%K%P
+
+0xA0
+... ... ...%K%P
+
+0xAC
+A short time later, I look at my watch.%K%N
+
+0xB8
+It's already past 4:30 A.M.%K%N
+
+0xC4
+The date is "Friday, April 5th"...%K%P
+
+0xD0
+Naturally, tomorrow is "Saturday, April 6th."%K%P
+
+0xDC
+Makoto「Saturday, April 6th...」%K%P
+
+0xE8
+I mutter this out loud.%K%P
+
+0x118
+The incident in that dream... I don't think it will really occur%Nafter all.%K%P
+
+0x124
+But I would be lying if I said I wasn't worried.%K%P
+
+0x130
+(Just who was the one who died in my dream?)%K%P
+
+0x13C
+―And, in the instant I think that!%K%P
+
+0x190
+... ... ... ...%K%P
+
+0x1F8
+... Izumi... san...%K%P
+
+0x258
+I'm overcome with shock.%K%P
+
+0x264
+Right now, I can't comprehend what I just saw.%K%P
+
+0x270
+The image that appeared before my eyes.%K%P
+
+0x27C
+Izumi-san, lying face down in the mud...%K%P
+
+0x2A4
+―A premonition.%K%P
+
+0x2B0
+(It's... impossible...)%K%P
+
+0x2BC
+Then the one who showed up in my dream...%K%P
+
+0x2C8
+... was... Izumi-san...?%K%P
+
+0x2D4
+Are you kidding me?%K%N
+
+0x2E0
+This can't...%K%P
+
+0x2EC
+This can't... be real.%K%P
+
+0x2F8
+I grasp my head in my hands, and violently shake it.%K%N
+
+0x304
+I shake it countless times...%K%P
+
+0x310
+I can't believe it.%K%N
+
+0x31C
+No, it'd be nuts for me to believe it.%K%N
+
+0x328
+That was just a hallucination.%K%P
+
+0x334
+I've been thinking about Izumi-san too much... That's why I%Nhad it.%K%P
+
+0x340
+Makoto「Izumi-san...」%K%P
+
+0x34C
+I tremble in the bed.%K%P
+
+0x358
+I continue to shiver like a small, frightened animal...%K%P
+

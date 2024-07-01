@@ -1,0 +1,561 @@
+text area offset and size:
+0x1380
+0x24BA
+0x98
+Yuka「Gyahahahahahahaha♪」%K%P
+
+0xA4
+Yuka's laughter makes me feel uneasy.%K%P
+
+0xB0
+I whisper into Yuka's ear so quietly that only she can%Nhear me.%K%P
+
+0xBC
+Makoto「Hey, Yuka? You understand, right?」%K%P
+
+0xC8
+Makoto「Even by mistake, you mustn't say 'I want to eat toro'!」%K%P
+
+0xD4
+Yuka「Yeah, eye noe, eye noe!」%K%P
+
+0xE0
+Yuka strikes me hard on the shoulder.%K%P
+
+0xEC
+(Haah...)%K%P
+
+0xF8
+I loudly sigh.%K%P
+
+0x104
+And then...%K%P
+
+0x120
+Kurumi「Morning!」%K%P
+
+0x12C
+... Kurumi appears.%K%P
+
+0x138
+A thin film of hot milk rises to the surface of the mug in%Nher right hand.%K%P
+
+0x14C
+Yuka「Oh, Kurumi-tan... Hau ah yuu feelin'?」%K%P
+
+0x158
+Kurumi「Good! After Kurumi had a nap, she got completely better.」%K%P
+
+0x164
+Yuka「Ohhhh! Dash gud, dash gud, nahahahaha♪」%K%P
+
+0x178
+Yuka「Ah!!」%K%P
+
+0x184
+Yuka suddenly leans forward and points to the mug in%NKurumi's hand.%K%P
+
+0x190
+Sh-She's not planning on say saying that again, is%Nshe...?"%K%P
+
+0x19C
+Yuka「I have jusht come up wif shomefing amashing!」%K%P
+
+0x1A8
+Makoto「Yeah, yeah, when you cross Kurumi and milk, you get%N'Kurumilk'... now let's move on!」%K%P
+
+0x1B4
+I beat her to the punch to obstruct her...%K%P
+
+0x1C0
+... Well, that was what I'd planned, but it doesn't look like it%Nturned out the way I wanted...%K%P
+
+0x1D4
+Kurumi「Kyahahahahahahaha♪ Well done! That's great!」%K%P
+
+0x1E0
+Yuka「Gyahahahahahahaha♪ Makoto... yer too funee...♪」%K%P
+
+0x1EC
+It seems I completely failed...%K%P
+
+0x1F8
+Yuka「Yuu jusht meid a portmanteau...♪」%K%P
+
+0x204
+Yuka「Makoto, yer too much...♪」%K%P
+
+0x210
+Makoto「...」%K%P
+
+0x224
+It's clear that those two are completely alienated in their%Nown world.%K%P
+
+0x230
+I pick my ears and look at the ceiling, staring at the lamp%Nfor no reason.%K%P
+
+0x23C
+And then, when the long laughter finally ends...%K%P
+
+0x258
+Yuka「Haah...」%K%P
+
+0x264
+...Yuka lets out a big sigh, and suddenly looks mopey.%K%P
+
+0x270
+This is bad...%K%P
+
+0x27C
+This is really bad.%K%P
+
+0x288
+Yuka's definitely going to say it―that's what my%Nintuition is telling me.%K%P
+
+0x294
+I've got to turn this conversation in a different direction!%K%P
+
+0x2A0
+Makoto「Ah, the weather's so good today!」%K%P
+
+0x2AC
+Makoto「Don't you think so too, Izumi-san?」%K%P
+
+0x2C0
+Izumi「Huh? A-Ah... Yes. That's right.」%K%P
+
+0x2CC
+Makoto「...」%K%P
+
+0x2D8
+Izumi「...」%K%P
+
+0x2EC
+Crap. The conversation's dead.%K%P
+
+0x2F8
+I need another topic...%K%P
+
+0x304
+As I think that...%K%P
+
+0x310
+Yuka「To... To... To...」%K%P
+
+0x31C
+Makoto「Wow♪ Saki, your ponytail is so cool and cute♪ Swish,%Nswish♪」%K%P
+
+0x330
+Saki「... The hell?」%K%P
+
+0x344
+Makoto「Ah! If you look closely, Haruka's eyes are like a rabbit's!%NBounce, bounce♪」%K%P
+
+0x358
+Haruka「...」%K%P
+
+0x36C
+Makoto「Okuhiko, umm... Falalalalalala～♪」%K%P
+
+0x380
+Okuhiko「A-Are you all right, Ishihara?」%K%P
+
+0x38C
+Makoto「Um, umm... Let's see, let's see...」%K%P
+
+0x3A8
+Yuka「To... To... To...」%K%P
+
+0x3B4
+―Shit!%K%P
+
+0x3C0
+Yuka「To... To... To...」%K%P
+
+0x3CC
+Yuka「Tower.」%K%P
+
+0x3D8
+Makoto「?????」%K%P
+
+0x3E4
+Yuka「I wanna shee... de lighthoushe tower...」%K%P
+
+0x414
+Yuka「I wanna shee de lighthoushe tower!!」%K%P
+
+0x420
+Makoto「...」%K%P
+
+0x43C
+Kurumi「Then let's go see the lighthouse!」%K%P
+
+0x458
+Saki「But is there a lighthouse around here?」%K%P
+
+0x46C
+Kurumi「Yeah. There's one in Viewpoint Park.」%K%P
+
+0x480
+Kurumi「See? So why don't we go see it, Yuka-san?」%K%P
+
+0x49C
+Yuka「Arright! ... Dash what I'd like to shay, but...」%K%P
+
+0x4B0
+Yuka「If ish jusht de too of ush goin', ish a little lonely...」%K%P
+
+0x4C4
+Yuka「So den, eberiwan...!」%K%P
+
+0x4E8
+Yuka「Whaddya fink, guysh! ... Hee hee♪」%K%P
+
+0x554
+Izumi「H-Huh...?!」%K%P
+
+0x5A8
+Izumi「No way...」%K%P
+
+0x624
+Izumi「No good. It seems the battery's dead...」%K%P
+
+0x630
+Izumi「Oh well... Shall we walk?」%K%P
+
+0x644
+Izumi-san says that as she begins to walk, naturally%Ntaking the lead.%K%P
+
+0x650
+Of course, I kept my mouth shut about the battery, and%Njust let nature take its course...%K%P
+
+0x700
+We arrive at the cherry blossom trees.%K%P
+
+0x70C
+Right now, Yuka and Kurumi are playfully chasing each%Nother around the lighthouse in Viewpoint Park.%K%P
+
+0x718
+The rest of us are still standing on the cherry blossom%Nroad, completely stunned.%K%P
+
+0x724
+This is Saki, Haruka, and Okuhiko's first time seeing these%Ncherry blossoms.%K%P
+
+0x730
+The three of them seem to be under an incredible sense%Nof awe.%K%P
+
+0x73C
+Izumi「'Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.'」%K%P
+
+0x748
+Izumi-san is at the edge of the cherry blossom road,%Nabsently watching Yuka and Kurumi run around the%Nlighthouse.%K%P
+
+0x75C
+Saki「Huh...? What's that?」%K%P
+
+0x778
+Izumi「It's an old tradition on this island.」%K%P
+
+0x784
+Izumi「If a man and woman confess their feelings for each%Nother under that lighthouse, it's said that their affection%Nwill bear fruit...」%K%P
+
+0x798
+... It's the story she told us on the last 2nd when we were%Nsitting in circle.%K%P
+
+0x7A4
+The old tradition about this lighthouse, and after that...%Nthe legend of the shrine.%K%P
+
+0x7B0
+Izumi-san quietly begins telling the story.%K%P
+
+0x7BC
+To be honest, hearing the same story twice is boring.%K%P
+
+0x7C8
+I feel bad for Izumi-san, but I pretend to listen to the%Nstory while thinking about something else...%K%P
+
+0x858
+Yuka...%K%N
+
+0x864
+She almost gave me a heart attack back there...%K%N
+
+0x870
+But, well... things turned out all right in the end...%K%N
+
+0x87C
+If we stay like this, Saki won't get swallowed up by the%Nwave.%K%P
+
+0x890
+―We changed history.%K%N%N
+
+0x89C
+Yuka and I were actually able to change it.%K%N
+
+0x8A8
+This fact cheers me up considerably...%K%P
+
+0x920
+... And then, Kurumi and Yuka come back while out of%Nbreath.%K%P
+
+0x950
+Kurumi「Hey, what were you talking about?」%K%P
+
+0x96C
+Saki「There's a shrine nearby.」%K%P
+
+0x988
+Okuhiko「Izumi-san was in the middle of telling us a rumor about%Nthat shrine.」%K%P
+
+0x9A4
+Kurumi「Hmm...」%K%P
+
+0x9B0
+Okuhiko「Kurumi-chan, you've never heard of that shrine before?」%K%P
+
+0x9C4
+Kurumi「Nope. First time Kurumi's ever heard of it!」%K%P
+
+0x9D0
+Okuhiko「Well then, isn't that exciting?」%K%P
+
+0x9DC
+Kurumi's eyes light up.%K%P
+
+0x9F8
+Saki「Well then, Izumi-san, will you continue?」%K%P
+
+0xA14
+Izumi「Y-Yes...」%K%P
+
+0xA20
+Izumi「...」%K%P
+
+0xA2C
+Saki「Izumi... san?」%K%P
+
+0xA38
+Izumi「Umm...」%K%P
+
+0xA44
+Izumi「Where was I?」%K%P
+
+0xA50
+Saki「You were up to the part where you initially thought it was%Nnothing more than a myth.」%K%P
+
+0xA5C
+Izumi「I see... Yes, that's right. When I first heard that story, I%Nwas also doubtful. But then...」%K%P
+
+0xAEC
+Izumi-san... the instant Kurumi arrived, she suddenly%Nchanged.%K%N
+
+0xAF8
+This definitely also happened the last time we heard this%Nstory, if my memory serves me right...%K%N
+
+0xB04
+Kurumi, Izumi-san, and... the shrine.%K%N%N
+
+0xB10
+Could they be connected in some way...?%K%P
+
+0xB90
+Izumi「No way! Absolutely not!」%K%P
+
+0xB9C
+Izumi-san's shout abruptly brings me back to reality.%K%P
+
+0xBB8
+Kurumi「Huh, why not?」%K%P
+
+0xBC4
+Izumi「'Why not'!?」%K%P
+
+0xBD0
+Izumi「Weren't you listening, Kurumi? That story I told you just%Nnow wasn't a joke. Do you understand that?」%K%P
+
+0xBDC
+Kurumi「Kurumi understands... But... if we only look at it from a%Ndistance, then...」%K%P
+
+0xBE8
+Izumi「See, you don't understand. You don't understand at all!」%K%P
+
+0xBF4
+Kurumi「But...」%K%P
+
+0xC00
+Izumi「No buts! No means no!」%K%P
+
+0xC0C
+Izumi「All right? Do you understand?」%K%P
+
+0xC20
+Kurumi「Boo...」%K%P
+
+0xCDC
+We pass the time in Viewpoint Park idly.%K%P
+
+0xCE8
+One person admires the cherry blossoms in full bloom...%NAnother's thoughts turn to what lies beyond the sea...%K%P
+
+0xCF4
+... and yet another person frolics like an innocent child%Nwhile trying to claw their way up the lighthouse...%K%P
+
+0xD00
+And then, this setting sun...%K%P
+
+0xD0C
+Right now, the seven of us are lined in a row by the%Ncape's fence, watching the bright red sun as it sinks%Nbelow the horizon.%K%P
+
+0xD18
+Is it just my imagination, or does it feel like the sun's%Ndescending at a faster speed than usual?%K%P
+
+0xD24
+It's like a smoothly descending curtain.%K%P
+
+0xD30
+I feel a little reluctance to see it set and go away...%K%P
+
+0xD3C
+I casually examine the others.%K%P
+
+0xD48
+They really seem lively, their cheeks dyed pink from the%Nsetting sun.%K%P
+
+0xD54
+―I'll only change the bad events into good ones.%K%P
+
+0xD60
+That plan has been a splendid success so far.%K%P
+
+0xD6C
+In the end, Saki never fell into the ocean.%K%P
+
+0xD78
+Since she didn't fall into the ocean, it's very likely she%Nwon't get into a quarrel with Haruka either.%K%P
+
+0xD84
+If that happens, then only good memories will remain.%K%P
+
+0xD90
+And currently, at this very moment, a new good memory%Nhas been born.%K%P
+
+0xD9C
+Everything is advancing steadily and favorably so far...%K%P
+
+0xE0C
+We're treated to dinner at Lunabeach, and get back to%Nthe lodge past 9:00.%K%P
+
+0xE18
+I take a bath, brush my teeth, change into my%Nnightclothes, and lie down on my bed.%K%P
+
+0xE24
+Makoto「Aaah...」%K%P
+
+0xE4C
+As I yawn, Haruka suddenly enters my room.%K%P
+
+0xE58
+She didn't knock this time either.%K%P
+
+0xE6C
+Makoto「H-Haruka!? Wh-What's wrong?」%K%P
+
+0xE94
+Haruka「Umm...」%K%P
+
+0xEA0
+Makoto「Hmm?」%K%P
+
+0xEAC
+Haruka「Makoto... can you fish?」%K%P
+
+0xEB8
+Makoto「Fish?」%K%P
+
+0xEC4
+In that instant, several memories float into my mind.%K%P
+
+0xED0
+Haruka and I going fishing...%K%P
+
+0xEDC
+Kissing her on the forehead under that sunset sky...%K%P
+
+0xEE8
+Yes. That's tomorrow―on the 3rd.%K%P
+
+0xEF4
+Makoto「Yeah! I'm great at fishing!」%K%P
+
+0xF00
+I answer cheerfully.%K%P
+
+0xF0C
+Haruka「Then... will you teach me tomorrow?」%K%P
+
+0xF18
+Makoto「Of course!」%K%P
+
+0xF24
+Haruka「Really?」%K%P
+
+0xF30
+Makoto「Really!」%K%P
+
+0xF3C
+Haruka「Definitely?」%K%P
+
+0xF48
+Makoto「Definitely!」%K%P
+
+0xF54
+Haruka「...」%K%P
+
+0xF60
+Makoto「...?」%K%P
+
+0xF74
+Haruka「Thank you.」%K%P
+
+0xF80
+Makoto「No, no... I haven't even taught you yet...」%K%P
+
+0xF8C
+Makoto「Isn't it too early to be thanking me?」%K%P
+
+0xF98
+Haruka「Yes... but... thank you.」%K%P
+
+0xFA4
+Makoto「... Well then, tomorrow?」%K%P
+
+0xFB0
+Haruka「Yes.」%K%P
+
+0xFC4
+Haruka leaves my room.%K%P
+
+0xFD0
+Come to think of it, she said last time that she had no%Nheart...%K%P
+
+0xFDC
+Does she still think that even now?%K%P
+
+0xFE8
+Even now??%K%P
+
+0xFF4
+No, that's a strange way of putting it.%K%P
+
+0x1000
+This is the past, after all...%K%P
+
+0x100C
+Well, either way, taking Haruka fishing doesn't sound bad%Nat all.%K%P
+
+0x1018
+Ever since that day, she grew more and more obsessed%Nwith fishing.%K%P
+
+0x1024
+I have to teach her that hobby again...%K%P
+

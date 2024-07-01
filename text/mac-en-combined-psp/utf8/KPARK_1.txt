@@ -1,0 +1,195 @@
+text area offset and size:
+0x458
+0x1033
+0x40
+It's now noon.%K%P
+
+0x70
+Kurumi is still worried about that "breast" issue, so she's%Ntoo anxious to go the pool.%K%P
+
+0x7C
+I didn't want to leave Kurumi and go to the pool by%Nmyself... so we ended up waiting at Lunabeach until%Neveryone returns.%K%P
+
+0x88
+Makoto「Hmm... cooking really does run in the family...」%K%P
+
+0x94
+Right now, I'm eating some carbonara that Kurumi made.%K%P
+
+0xA0
+Makoto「I feel that this could rival that meal Izumi-san made%Nyesterday.」%K%P
+
+0xB4
+Kurumi「Eheh♪ Thank you♪」%K%P
+
+0xC0
+Kurumi gives a broad grin as she stuffs her face with%Npasta.%K%P
+
+0xCC
+Makoto「You sisters are such good cooks... so do you take after%Nyour mother in that regard?」%K%P
+
+0xE0
+Kurumi「Huh!? Mama!?」%K%P
+
+0xEC
+Makoto「Yeah. If both of you are so skilled, then I bet your mom's%Neven bet-」%K%P
+
+0xF8
+Kurumi「Wrong, wrong! You're completely wrong! Mama has no%Nsense of taste whatsoever!」%K%P
+
+0x104
+Makoto「Huh, really?」%K%P
+
+0x110
+Kurumi「Well, in the first place, Mama doesn't cook all that much...」%K%P
+
+0x11C
+Makoto「Why?」%K%P
+
+0x128
+Kurumi「Because she's busy with work.」%K%P
+
+0x134
+Makoto「Hmm... then both of your parents work?」%K%P
+
+0x140
+Kurumi「Right, right. Actually, they work together...」%K%P
+
+0x14C
+Kurumi「Papa and Mama... their relationship at work is 'doctor' and%N'assistant'.」%K%P
+
+0x158
+Makoto「Huh?」%K%P
+
+0x164
+Kurumi「Have you ever heard of Shigezo Morino...?」%K%P
+
+0x170
+Shigezo Morino... I feel like I've heard that name before...%K%P
+
+0x17C
+... Shigezo Morino... Shigezo Morino... Shigezo Morino...%K%P
+
+0x188
+Makoto「―SHIGEZO MORINO!?!?!?」%K%P
+
+0x194
+Makoto「You mean the world famous 'Dr. Morino' who works in the%Nfield of genetic engineering!?」%K%P
+
+0x1A8
+Kurumi「Geez! Don't shout so suddenly!」%K%P
+
+0x1B4
+Makoto「I had to get that out!」%K%P
+
+0x1C0
+Makoto「So in other words, your father and Izumi-san's father is%NDr. Morino?」%K%P
+
+0x1D4
+Kurumi「Yeah... Surprised?」%K%P
+
+0x1E0
+Makoto「Of course!」%K%P
+
+0x1EC
+Makoto「If I'm not mistaken, several decades ago, Dr. Morino%Nparticipated in the Human Genome Project, and was the%None who discovered the-」%K%P
+
+0x1F8
+Kurumi「Hold on!」%K%P
+
+0x204
+Makoto「?」%K%P
+
+0x210
+Kurumi「Kurumi doesn't know those details very well... After all,%NPapa is Papa, and his daughter is his daughter...」%K%P
+
+0x21C
+Makoto「O-Oh... I see. But to think that you're Dr. Morino's%Ndaughter...」%K%P
+
+0x228
+Kurumi「Think of it this way: instead of 'The apple doesn't fall far%Nfrom the tree', it's instead 'The apple fell far from the%Ntree.'」%K%P
+
+0x234
+Makoto「No, that's not what I meant...」%K%P
+
+0x240
+Kurumi「But even though everyone says Papa's so amazing, at%Nhome, he's just a normal dad.」%K%P
+
+0x24C
+Kurumi「After getting out of the bath, he loiters around in his%Nunderwear without a care...」%K%P
+
+0x258
+Kurumi「When he wakes up in the morning, he isolates himself in%Nthe bathroom, reading his newspaper...」%K%P
+
+0x264
+Kurumi「On the weekend, he spends all his time playing with his%Nrodents...」%K%P
+
+0x270
+Kurumi「Truth is, he's no different from any normal father...」%K%P
+
+0x27C
+Makoto「... I wouldn't know if he's what you'd call normal or not,%Napart from the whole rodent thing...」%K%P
+
+0x288
+Kurumi「Huh? Is that strange?」%K%P
+
+0x294
+Makoto「Well, I guess not.. There already are a lot of people who%Ntake care of Roborovski and Djungarian hamsters...」%K%P
+
+0x2A0
+Kurumi「Oh, but the ones at home aren't like that.」%K%P
+
+0x2AC
+Kurumi「They're THAT huge!」%K%P
+
+0x2B8
+When she says "THAT", Kurumi stretches her arms as%Nwide as she can to show me.%K%P
+
+0x2C4
+If what she's saying is true, then the rodents seem to be%Nthe same size as Kurumi.%K%P
+
+0x2D0
+Huh...???%K%P
+
+0x2DC
+Makoto「Sorry. Let me correct myself. Your dad is weird after all,%NKurumi...」%K%P
+
+0x2E8
+Kurumi「Don't say that!」%K%P
+
+0x2F4
+Makoto「...」%K%P
+
+0x300
+Kurumi「...」%K%P
+
+0x30C
+Makoto「... Well, either way is fine...」%K%P
+
+0x318
+If I inquire any further, I fear that I'll hear things that I%Ndon't want to hear...%K%P
+
+0x324
+Kurumi's father is an expert in genetic engineering...%K%N
+
+0x330
+At home, he raises large rodents...%K%N
+
+0x33C
+Yeah... that's enough for me...%K%P
+
+0x348
+Makoto「... So in other words, that means your mother is Dr.%NMorino's assistant?」%K%P
+
+0x354
+Kurumi「That's right. That's why Mama has no time to cook.」%K%P
+
+0x360
+Kurumi「Kurumi thinks the reason why Onee-chan is so good at%Ncooking is probably because she's always cooking in%NMama's place.」%K%P
+
+0x36C
+Makoto「Hmm... I see.」%K%P
+
+0x378
+Nevertheless, the carbonara Kurumi made was superb...%K%P
+

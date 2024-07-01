@@ -1,0 +1,417 @@
+text area offset and size:
+0xF10
+0x19D6
+0x28
+Moon Beach...%K%N
+
+0x34
+There's no one here...%K%P
+
+0x40
+Why did I come back here...?%K%P
+
+0x4C
+Kurumi「You were looking for jellyfish in a place like this?」%K%P
+
+0x58
+Kurumi「... Do you like jellyfish?」%K%P
+
+0x64
+Kurumi「Wow～. Then you're the same as Kurumi.」%K%P
+
+0x70
+Back then...%K%N
+
+0x7C
+On the night of the 1st... Kurumi...%K%P
+
+0x88
+Kurumi「Well, you see, there's something that Kurumi forgot to tell%NOkuhiko-kun...」%K%P
+
+0x94
+Kurumi「Nope. Kurumi already did that, so its fine.」%K%P
+
+0xB0
+My head was lowered the whole time... so I didn't notice%NKurumi was there...%K%P
+
+0xBC
+It can't be...%K%N
+
+0xC8
+Back then, did Kurumi pick it up... before I could find it...?%K%P
+
+0x150
+That "bell"...%K%P
+
+0x1E8
+Impossible...%K%N
+
+0x1F4
+That's impossible...%K%P
+
+0x200
+I violently shake my head to shake off that delusion.%K%N
+
+0x20C
+Now isn't the time to be thinking about that.%K%P
+
+0x218
+(Anyway, finding Kurumi comes first...)%K%P
+
+0x224
+I raise my legs again.%K%N
+
+0x230
+They're already numb...%K%P
+
+0x244
+The hotel...%K%P
+
+0x258
+The shopping district...%K%P
+
+0x26C
+The pier...%K%P
+
+0x280
+She's nowhere to be found...%K%P
+
+0x28C
+I've wandered all around the island, searching for Kurumi...%K%P
+
+0x298
+I drag along both my feet, which I can't really feel%Nanymore...%K%P
+
+0x36C
+I've ended up returning here.%K%N
+
+0x378
+In the end, I was unable to find Kurumi.%K%P
+
+0x384
+Izumi「The truth is...」%K%P
+
+0x390
+Izumi「... Kurumi... might not be my real sister...」%K%P
+
+0x39C
+(Why did she say that...?)%K%P
+
+0x3A8
+("Kurumi is my real sister"―if you had just thought%Nthat, then... dammit!)%K%P
+
+0x3B4
+I find myself looking at my watch as I come to my senses.%K%P
+
+0x3C0
+("6 SAT 4:20 A.M.")%K%P
+
+0x3CC
+There's no more time to search.%K%N
+
+0x3D8
+There's no other choice but to ambush her at the shrine.%K%P
+
+0x3E4
+No, she might even be there already.%K%P
+
+0x3F0
+I begin to walk towards the shrine...%K%P
+
+0x4A4
+It took me longer than I expected to get there.%K%P
+
+0x4B0
+In the deep darkness, the shrine stands out like%Nsomething faintly white against a dark background.%K%P
+
+0x4BC
+The raindrops pelting the roof become a thin mist that%Nenvelops the shrine.%K%P
+
+0x4C8
+Its faint and gray appearance makes it look like a mirage.%K%P
+
+0x4D4
+It's the exact same scene as that day.%K%P
+
+0x4E0
+The ground is violently pounded by swarms of large rain%Ndrops...%K%N
+
+0x4EC
+The world is dominated by the sound of rainfall...%K%N
+
+0x4F8
+My body is soaking wet, chilled to the bone.%K%P
+
+0x504
+I can barely move my cold body.%K%P
+
+0x510
+I move stiffly, staggering through the deep water%Npuddle...%K%P
+
+0x5AC
+In the darkness of the dreary shrine... I don't see Kurumi.%K%N
+
+0x5B8
+In pain, I sit down by the entrance.%K%P
+
+0x5C4
+I firmly stare at the shrine's grounds, hazy from the rain.%K%N
+
+0x5D0
+I draw my body close, and shiver as I try to warm up.%K%P
+
+0x5DC
+(Kurumi...)%K%P
+
+0x5E8
+Kurumi will definitely come here.%K%N
+
+0x5F4
+But when she does, just what should I do...? I think about%Nit.%K%P
+
+0x600
+Healing her scar...%K%N
+
+0x60C
+Removing her emotional scars...%K%P
+
+0x618
+(If I can make her believe me about her blood%Nrelationship with Izumi-san...)%K%P
+
+0x624
+Kurumi definitely time traveled here from this shrine.%K%P
+
+0x630
+(Time travel ―just how the hell can I prove that?)%K%P
+
+0x63C
+I continue to wait for Kurumi while watching the white%Nraindrops flow down from the edge of the eaves...%K%P
+
+0x6B8
+The rain is still strong... it hasn't weakened one bit.%K%N
+
+0x6C4
+A deep, thick fog rises around the shrine's grounds.%K%P
+
+0x6D0
+In that snow white fog, a faint, small figure appears...%K%P
+
+0x6F8
+Countless raindrops crash against the figure's thin%Narms and soft hair.%K%N
+
+0x704
+It seems as if as if the figure's body is wrapped in a%Nband of holy light.%K%P
+
+0x710
+The completely soaking wet girl totters forward, her%Nhead hung downwards.%K%P
+
+0x71C
+She hasn't noticed me yet.%K%P
+
+0x728
+And then, when she reaches the dead center of the%Nlong stone paving...%K%N
+
+0x734
+... I stand up.%K%P
+
+0x7D8
+I walk towards the girl in the downpour...%K%N
+
+0x7E4
+There's no pain in my legs. I don't feel the cold, icy air.%K%N
+
+0x7F0
+The rain seems to disappear...%K%P
+
+0x7FC
+All I do is stare at the girl while I slowly make my way%Ntowards her.%K%P
+
+0x808
+... Suddenly, the girl raises her head.%K%N
+
+0x814
+When she sees me, her small mouth drops open.%K%P
+
+0x820
+She stands stock still, looking at me in awe.%K%P
+
+0x82C
+I gradually begin to close the distance between us...%K%N
+
+0x838
+The girl's figure approaches...%K%N
+
+0x844
+And...%K
+
+0x850
+... she stands before my eyes.%K%P
+
+0x898
+I stand... right in front of Kurumi.%K%P
+
+0x8A4
+Makoto「...」%K%P
+
+0x8B0
+Kurumi「...」%K%P
+
+0x8BC
+Makoto「...」%K%P
+
+0x8C8
+Kurumi「...」%K%P
+
+0x8D4
+But I can't speak.%K%P
+
+0x8E0
+I don't know what to say.%K%P
+
+0x8EC
+No matter how I explain it, I don't think Kurumi will believe%Nme about the time travel.%K%P
+
+0x8F8
+(Then what...)%K%P
+
+0x904
+(What should I do...?)%K%P
+
+0x910
+Kurumi「Onii-chan...」%K%P
+
+0x91C
+Kurumi「Onii-chan... that's enough...」%K%P
+
+0x928
+Makoto「... Huh?」%K%P
+
+0x934
+Kurumi「Kurumi has to confirm it for herself...」%K%P
+
+0x940
+Makoto「Confirm? Confirm... what?」%K%P
+
+0x94C
+Kurumi「This shrine... What kind of connection does Kurumi have%Nto this shrine...?」%K%P
+
+0x958
+Kurumi「Onii-chan, it has nothing to do with you...」%K%P
+
+0x964
+Makoto「That's not true at all!」%K%P
+
+0x978
+Kurumi「...」%K%P
+
+0x984
+Kurumi doesn't answer.%K%P
+
+0x998
+Kurumi silently pushes me aside, and starts walking.%K%N
+
+0x9A4
+She's heading... towards the shrine...%K%P
+
+0x9B0
+Makoto「... KURUMI, WAIT!!!」%K%P
+
+0x9BC
+I start to reach out for her shoulder.%K%N
+
+0x9C8
+But I've lost all power in my arms, so they just slip on her%Nshoulders and fall down.%K%P
+
+0x9D4
+(Fuck... at this rate...!!!)%K%P
+
+0x9E0
+In contrast to my burning emotions, my body is frozen%Nbeyond words.%K%N
+
+0x9EC
+Nevertheless, I try to grab the walking Kurumi's back to%Nstop her, but...%K%P
+
+0xA0C
+... In that instant, Kurumi starts running.%K%P
+
+0xA60
+Grabbing onto nothing but thin air, I fall into the water.%K%P
+
+0xA6C
+Makoto「KURUMI!!!」%K%P
+
+0xA78
+I strain my voice, but Kurumi doesn't even turn around.%K%P
+
+0xA84
+Even though I try stretching my arm as far as I can,%Nthere's no way I grab that running, retreating figure.%K%P
+
+0xA90
+I try pushing off the ground, but I don't have the%Nstrength to get up.%K%N
+
+0xA9C
+In the puddle, I do my best to crawl after Kurumi's shadow.%K%P
+
+0xAA8
+Time ruthlessly passes by...%K%N
+
+0xAB4
+Before long, Kurumi rushes into the shrine.%K%P
+
+0xAC0
+The instant she runs in...%K%P
+
+0xADC
+... ... ... ...%K%P
+
+0xAF0
+Kurumi「Onii-chan...」%K%P
+
+0xAFC
+Everything is the same as that day.%K%P
+
+0xC24
+The mountain of rubble...%K%N
+
+0xC30
+Still crawling, I claw my way up the mountain of rubble.%K%P
+
+0xC3C
+As I remove a heavy plank, my nails tear off...%K%P
+
+0xC68
+Kurumi...%K%P
+
+0xC74
+Looking at Kurumi's ghastly pale, almost transparent%Ncheeks, I feel like she might shatter into a thousand%Npieces if I touched her cheek.%K%P
+
+0xC80
+As if she were a doll made of glass...%K%N
+
+0xC9C
+Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
+
+0xCA8
+―The bell.%K%N
+
+0xCB4
+It's that bell...%K%P
+
+0xCC0
+That cold, silver light... That dull, crimson string...%K%P
+
+0xCCC
+Before long, the bell begins to quietly slip out of the%Npalm...%K%P
+
+0xCD8
+... It then... slips out and falls.%K%P
+
+0xD3C
+All light fades.%K%N
+
+0xD48
+There's not even a single streak of light shining in this%Ndarkness...%K%N
+
+0xD54
+... I've lost everything...%K%P
+

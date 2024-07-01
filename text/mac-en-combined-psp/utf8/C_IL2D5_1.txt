@@ -1,0 +1,1080 @@
+text area offset and size:
+0x17A8
+0x5099
+0x118
+I can't sleep.%K%P
+
+0x124
+I've already trashed around in my bed many times.%K%P
+
+0x130
+I glance at the watch wrapped around my wrist.%K%P
+
+0x13C
+"5 FRI 2:20 A.M."%K%P
+
+0x148
+I definitely won't forget what happened on this day, this%Nvery night in the last loop.%K%P
+
+0x154
+Going to Viewpoint Park in the dead of night...%K%N
+
+0x160
+The starry sky...%K%N
+
+0x16C
+And Izumi-san's... confession...%K%P
+
+0x178
+But today, Izumi-san made no such plans with me.%K%P
+
+0x184
+I thought she would try to, so I waited, but nothing ever%Ncame of it.%K%P
+
+0x190
+Izumi-san is probably fast asleep right now...%K%P
+
+0x1A4
+Izumi「... Makoto... kun...」%K%P
+
+0x1B0
+Izumi「I wanted...」%K%P
+
+0x1BC
+Izumi「... to see...」%K%P
+
+0x1C8
+Izumi「the stars with you...」%K%P
+
+0x1D4
+Izumi「... just one more time...」%K%P
+
+0x1E8
+Izumi-san's... dying words...%K%P
+
+0x1F4
+The pain I felt back then cuts into my chest.%K%P
+
+0x200
+Pangs of that sorrow and rage reemerge so intensely%Nthat I can't stand staying still.%K%P
+
+0x20C
+(―I've got to go!)%K%P
+
+0x218
+(―I have to go be by Izumi-san's side!)%K%P
+
+0x224
+Resolved, I stand up.%K%P
+
+0x25C
+Of course, there's no one in the living room.%K%P
+
+0x268
+The only sound I can hear is Okuhiko snoring from up in%Nthe loft.%K%P
+
+0x274
+Okuhiko「Hey! Wait!」%K%P
+
+0x280
+Okuhiko suddenly shouts in a roaring voice.%K%P
+
+0x28C
+When I look up in surprise...%K%P
+
+0x298
+Okuhiko「This is bad... I... don't have... enough... energy...」%K%P
+
+0x2A4
+Okuhiko「'And so, his partner, Lady Jenny arrives!'」%K%P
+
+0x2B0
+Okuhiko「Okkuman♪ I've brought you your NT Drink♪ Drink up♪」%K%P
+
+0x2BC
+Okuhiko「Gulp, gulp, gulp...」%K%P
+
+0x2C8
+Okuhiko「Xie xie, Lady Jenny! With this, I'll be all right now!」%K%P
+
+0x2D4
+Okuhiko「Hang in there, Okkuman♪」%K
+
+0x1768
+Continue to listen.
+
+0x1774
+Silently leave.
+
+0x314
+Okuhiko「All right, here I go!」%K%P
+
+0x320
+Okuhiko「Neutrino Energy, Power On! Trans～form! There!」%K%P
+
+0x32C
+Okuhiko「Beep boop beep boop beep boop beep boop, swish%Nswish swish swish swish♪ Vroom♪」%K%P
+
+0x338
+Okuhiko「Ready!」%K%P
+
+0x344
+Okuhiko「The always invigorated youth, the gallant man with a%Ntender heart.」%K%P
+
+0x350
+Okuhiko「The warrior of justice sent by God himself for the sake%Nof protecting the Earth...」%K%P
+
+0x35C
+Okuhiko「His name is―'Artificial Human Okkuman'!」%K%P
+
+0x368
+Okuhiko「Shalom!」%K%P
+
+0x374
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Washing%NMachine Man...」%K%P
+
+0x380
+Okuhiko「Ugh... my eyes... are spinning...」%K%P
+
+0x38C
+Okuhiko「'―Look out! ―Okkuman!'」%K%P
+
+0x398
+Okuhiko「'―Good luck! ―Okkuman!'」%K%P
+
+0x3A4
+Okuhiko「'―Don't lose! ―Our Hero, Okkuman!'」%K%P
+
+0x3B0
+Okuhiko「Ten thousand to the second power♪ He is Okkuman♪」%K%P
+
+0x3BC
+Okuhiko「Times one hundred... over a million♪ It's Okkuman♪ ...%NOkkuman!」%K%P
+
+0x3C8
+Okuhiko「Zzzzzzzzzz...」%K%P
+
+0x3D4
+... It seems he's just sleeptalking.%K%P
+
+0x3E0
+Filled with bottomless dread, I quickly leave, as if I'm%Nrunning away.%K%P
+
+0x3F4
+(I don't need to listen to this...)%K%P
+
+0x400
+Ignoring Okuhiko's sleeptalk, I open the front door.%K%P
+
+0x438
+... ... ...%K%P
+
+0x4A4
+I walk along the coastline road towards Lunabeach.%K%P
+
+0x4B0
+The serene night sky is covered with countless stars...%K%P
+
+0x4BC
+Their light, which shines down on the blue Earth, is full of%Nan overwhelming spacious and active feeling.%K%P
+
+0x4C8
+Their radiance feels like it's piercing my eyes.%K%P
+
+0x4D4
+(I want to see this starry sky... once more...)%K%P
+
+0x4E0
+(Once more... with Izumi-san...)%K%P
+
+0x4EC
+It's true that I saw these stars last night.%K%P
+
+0x4F8
+But it didn't have the feeling it had on "that" night... and%Nbesides...%K%P
+
+0x504
+I have to tell Izumi-san something important tonight.%K%P
+
+0x510
+―My answer.%K%P
+
+0x51C
+I still haven't given Izumi-san a clear answer about her%Nfeelings towards me.%K%P
+
+0x528
+I want to properly convey my feelings to her.%K%P
+
+0x534
+That's why I'm going...%K%P
+
+0x540
+To where Izumi-san is...%K%P
+
+0x54C
+In order to look at this starry sky one more time...%K%P
+
+0x5B8
+When I arrive at the shop, I immediately try knocking on%Nthe front door.%K%P
+
+0x5D0
+...%K%P
+
+0x5DC
+There's no response.%K%P
+
+0x5E8
+Well, obviously not.%K%P
+
+0x5F4
+I doubt that Izumi-san would notice a small knock when%Nshe's sleeping on the second floor.%K%P
+
+0x600
+Nevertheless, if I knock on the door too loudly, I might%Nalso wake Kurumi.%K%P
+
+0x61C
+Makoto「Hmm...」%K%P
+
+0x628
+I think about what to do.%K%P
+
+0x634
+Just then...%K%P
+
+0x640
+―Step... step... step... step...%K%P
+
+0x64C
+I can hear the sound of footsteps on sand coming from%Nsomewhere.%K%P
+
+0x658
+It's a barely perceptible sound... Is it coming from Moon%NBeach?%K%P
+
+0x664
+I cautiously walk around to the backside of the shop.%K%P
+
+0x69C
+I stand in the center of the beach, and turn my head%Nfrom the south to the north in order to scan the entire%Nbeach.%K%P
+
+0x6A8
+(Izumi-san...!?)%K%P
+
+0x6B4
+The pale moonlight shines on her back.%K%P
+
+0x6C0
+Izumi-san is on the beach, slowly walking north.%K%P
+
+0x6CC
+She's close enough that if I shouted, she'd probably%Nnotice it.%K%P
+
+0x6D8
+But... there's Kurumi to consider.%K%P
+
+0x6E4
+There's no way I can just call out to her right now.%K%P
+
+0x6F0
+(Nevertheless...)%K%P
+
+0x6FC
+(Just where does Izumi-san plan on going in the middle%Nof the night?)%K%P
+
+0x708
+As if she's inviting me to go with her, I totter after%NIzumi-san...%K%P
+
+0x758
+At the end of Moon Beach... I slip through a space%Nbetween some hedges...%K%P
+
+0x790
+―That's right. I'm at Tsukiya Hotel.%K%P
+
+0x79C
+Izumi-san is sitting by the poolside, dipping her bare%Nfeet in the water.%K%P
+
+0x7A8
+(Huh? It feels like I've seen this scene somewhere%Nbefore...)%K%P
+
+0x7B4
+(... Right, it was Haruka...)%K%P
+
+0x7C0
+On the night of the 1st in the last loop, when we snuck in%Nhere, Haruka did the same thing with her feet.%K%P
+
+0x7CC
+(Izumi-san and Haruka...)%K%P
+
+0x7D8
+(They really are sisters...)%K%P
+
+0x7E4
+I quietly walk over to Izumi-san.%K%P
+
+0x7F0
+Izumi-san doesn't notice me as I get closer; all she does%Nis vacantly stare at the pale-blue water.%K%P
+
+0x7FC
+Izumi「This feels good.」%K%P
+
+0x808
+Her sudden words startle me slightly.%K%P
+
+0x814
+Makoto「Oh, so you noticed me... I followed you here.」%K%P
+
+0x820
+Izumi-san slowly looks up at my face...%K%P
+
+0x834
+Izumi「I see...」%K%P
+
+0x840
+... and mutters this in a faint voice.%K%P
+
+0x84C
+Izumi「Want to give it a try as well?」%K%P
+
+0x858
+Makoto「Huh?」%K%P
+
+0x864
+Izumi「After all... the water feels good...」%K%P
+
+0x870
+Izumi-san's gaze return to her tiptoes, which she lightly%Nwaves around.%K%P
+
+0x87C
+Her toes make small ripples that spread with a clear%Nsound.%K%P
+
+0x888
+I sit down next to Izumi-san, and take my shoes and%Nsocks off.%K%P
+
+0x894
+―Splash.%K%P
+
+0x8A0
+When I sink my feet into the water, a cool, comfortable%Nsensation spreads through me.%K%P
+
+0x8AC
+My body temperature slightly lowers from the cool water...%K%P
+
+0x8B8
+What Izumi-san said was certainly right.%K%P
+
+0x8C4
+Izumi「Well? Doesn't it feel good?」%K%P
+
+0x8D0
+Makoto「Yeah...」%K%P
+
+0x8E4
+When I nod, Izumi-san replies with a happy smile.%K%P
+
+0x8F0
+Makoto「... Izumi-san?」%K%P
+
+0x904
+Izumi「Hmm?」%K%P
+
+0x910
+Makoto「Why did you come here...?」%K%P
+
+0x91C
+Izumi「Hmm...」%K%P
+
+0x928
+Izumi「Why indeed...?」%K%P
+
+0x934
+Izumi「I couldn't sleep...」%K%P
+
+0x940
+Izumi「So I took a walk on the beach, then I remembered this%Npool.」%K%P
+
+0x94C
+Izumi「That's all...」%K%P
+
+0x958
+Makoto「But... didn't you dislike this sort of thing...?」%K%P
+
+0x964
+Makoto「On the last 1st... weren't you opposed to sneaking in%Nhere?」%K%P
+
+0x978
+Izumi「Really? When you think of it that way, it is rather strange.」%K%P
+
+0x984
+Izumi「I think it's probably that something within me changed%Nbecause of all these successive experiences I've%Nbeen through.」%K%P
+
+0x990
+Izumi「In that sense, it might be good that I've turned upon that.」%K%P
+
+0x99C
+Izumi「It means I'm not scared of things that once scared me...」%K%P
+
+0x9A8
+Makoto「...」%K%P
+
+0x9CC
+Izumi「But...」%K%P
+
+0x9D8
+Izumi「Perhaps... on the other hand...」%K%P
+
+0x9E4
+Makoto「?」%K%P
+
+0xA0C
+Izumi「It could be that I'm this calm because I'm touching the%Nwater...」%K%P
+
+0xA18
+Izumi「The water's warmth is also warming up my heart...」%K%P
+
+0xA24
+Izumi「Gently... and softly...」%K%P
+
+0xA30
+Each time Izumi-san waves her feet, new ripples spread%Nacross the water.%K%P
+
+0xA3C
+The pale lights coming from the bottom of the pool%Nilluminate Izumi-san's face as they sway.%K%P
+
+0xA48
+Izumi「This pool...」%K%P
+
+0xA54
+Izumi「It's a bit trifling, but the truth is, this is a memorable place%Nto me...」%K%P
+
+0xA60
+Makoto「A memorable place?」%K%P
+
+0xA6C
+Izumi「Yes...」%K%P
+
+0xA78
+Izumi「The first time I came to this island was when I was in%Nmiddle school.」%K%P
+
+0xA84
+Izumi「I had learned the secret behind Kurumi's birth from my%Nparents... so I came to this island by myself.」%K%P
+
+0xA90
+Izumi「I thought that if I came here, I might be able to find some%Nclues...」%K%P
+
+0xAA4
+Izumi「No matter what, I couldn't bear just standing around and%Ndoing nothing.」%K%P
+
+0xAB0
+Izumi「I wasn't able to swallow the story that my parents had%Ntold me...」%K%P
+
+0xABC
+That's natural...%K%P
+
+0xAC8
+If I'd been in Izumi-san's position, I think I would have%Ndone the same thing.%K%P
+
+0xAD4
+That three year blank... Kurumi not aging at all... The Shiki%Nno Mori Shrine...%K%P
+
+0xAE0
+It would be completely natural to think, "By coming to this%Nisland, I might find the key to solving these mysteries."%K%P
+
+0xAEC
+Izumi「I asked the people on the island, and went to the town%Nhall to examine documents...」%K%P
+
+0xAF8
+Izumi「But in the end... I found nothing...」%K%P
+
+0xB04
+Izumi「The only clue I could claim to have found were the%Nstrange legends about the shrine...」%K%P
+
+0xB10
+Makoto「...」%K%P
+
+0xB24
+Izumi「Ever since then, I've visited this island countless times.」%K%P
+
+0xB30
+Izumi「I picked my college because I knew that 'they had one of%Ntheir Seminar Camps here'.」%K%P
+
+0xB3C
+Izumi「That's also why I know so much about the island...」%K%P
+
+0xB48
+Makoto「And that's how you reached the point where you got to%Nworking at Lunabeach...?」%K%P
+
+0xB54
+Izumi「Yes. It was just recently.」%K%P
+
+0xB60
+Izumi「I became acquaintances with the shop's owner while I%Nwas in high school... I came back so many times after%Nmeeting him that we became good friends...」%K%P
+
+0xB6C
+Makoto「...」%K%P
+
+0xB78
+Izumi「It was around this February that it happened.」%K%P
+
+0xB84
+Izumi「After I decided on the schedule for the Seminar Lodge, I%Ncalled the owner.」%K%P
+
+0xB90
+Izumi「I told him that I was coming back again at the beginning%Nof April...」%K%P
+
+0xB9C
+Izumi「And the manager said...」%K%P
+
+0xBA8
+"Ah～. Actually, that's exactly the time I'm goin' to%NItaly～."%K%P
+
+0xBB4
+Izumi「The instant I heard that, it hit me...」%K%P
+
+0xBC0
+Izumi「The plan for that experiment...」%K%P
+
+0xBCC
+Makoto「I see...」%K%P
+
+0xBD8
+Makoto「If possible, it would be best for the observer of the%Nexperiment to be an outsider.」%K%P
+
+0xBE4
+Makoto「At the very least, in order to make the test subject not%Nrealize that there was an experiment being conducted...」%K%P「It would be favorable for you to pretend to be an outsider%Nwho had absolutely no connection to our college.」%K%P
+
+0xBF0
+Makoto「And that's why you decided to become a part-time%Nemployee at Lunabeach... Did I get that right...?」%K%P
+
+0xBFC
+Izumi-san gives a small nod while staring at the wavering%Nlights in the pool.%K%P
+
+0xC08
+Makoto「And I was picked as the test subject for a similar%Nreason, wasn't I...?」%K%P
+
+0xC14
+Makoto「I was the only member of the group who wasn't%Nacquainted with you.」%K%P
+
+0xC20
+Makoto「The only student who barely went to school and never%Nshowed up at the Seminar Camp information session was%N'Makoto Ishihara'.」%K%P
+
+0xC2C
+Makoto「I was chosen as the test subject because I was the%None who was the most suitable for that role based on%Nyour criteria...」%K%P
+
+0xC40
+Izumi「...」%K%P
+
+0xC4C
+Makoto「...?」%K%P
+
+0xC58
+Izumi「Makoto-kun...」%K%P
+
+0xC64
+Izumi「So you're still... mad?」%K%P
+
+0xC70
+Makoto「... Huh?」%K%P
+
+0xC7C
+Izumi「About the experiment...」%K
+
+0x1780
+I'm still mad.
+
+0x178C
+I'm not mad.
+
+0xCBC
+Makoto「Well... yeah, a little...」%K%P
+
+0xCC8
+Izumi「...」%K%P
+
+0xCD4
+Makoto「But with things turning out this way... rather than making%Nme angry, the correct term would be 'drove me nuts'!」%K%P
+
+0xCE0
+Makoto「Think about it, after all...」%K%P
+
+0xCEC
+Makoto「In the first place, the origin of this incident...」%K%P
+
+0xCF8
+... the cause of me getting caught up in this infinite loop%Nwas due to an Izumi-san from another history, the one%Nwho started this experiment...%K%P
+
+0xD04
+―What!?%K%P
+
+0xD10
+Isn't that wrong!? What the hell am I saying!?%K%P
+
+0xD1C
+If we were to assume "this reality is a delusion", and that%N"the time travel is real", then this Izumi-san really hasn't%Ndeceived me once...%K%P
+
+0xD28
+I'm really am nuts, aren't I!?%K%P
+
+0xD34
+There's nothing to get mad at, is there!?%K%P
+
+0xD40
+Izumi「I'm so sorry...」%K%P
+
+0xD4C
+Izumi「I'm so... sorry...」%K%P
+
+0xD58
+Makoto「No, don't be.」%K%P
+
+0xD6C
+Izumi「But you know? I wanted to know no matter what...」%K%P
+
+0xD78
+Izumi「About The Third Trait of Cur▲ Syndrome...」%K%P
+
+0xD84
+Izumi「To see whether it was true or not...」%K%P
+
+0xD90
+Makoto「... What?」%K%P
+
+0xD9C
+Makoto「But Izumi-san, you said it was a 'counter-experiment'%Nlast night, didn't you?」%K%P
+
+0xDA8
+Izumi「That's what I thought... as a psychologist...」%K%P
+
+0xDC4
+Makoto「Of course not... I'm not mad.」%K%P
+
+0xDD0
+Makoto「That's not what I was trying to say at all.」%K%P
+
+0xDDC
+Makoto「I just wanted to know the simple truth...」%K%P
+
+0xDE8
+Izumi「Thank you...」%K%P
+
+0xDFC
+Izumi「Makoto-kun... you're kind.」%K%P
+
+0xE08
+Izumi「... You're too kind... Makoto-kun.」%K%P
+
+0xE14
+My chest feels kinda hot.%K%P
+
+0xE20
+I'm embarrassed... but also happy...%K%P
+
+0xE2C
+Makoto「Izumi-san? Now that I think about it, there's something%NI've been meaning to ask you...」%K%P
+
+0xE38
+While saying this, I avert my gaze so that she doesn't%Nrealize how flustered I am.%K%P
+
+0xE44
+Makoto「The Cur▲ Syndrome experiment...」%K%P
+
+0xE50
+Makoto「It must have been planned for a specific reason...」%K%P
+
+0xE5C
+Makoto「Last night, you said it was a 'counter-experiment'...」%K%P
+
+0xE70
+Izumi「Yes...」%K%P
+
+0xE7C
+Izumi「But that... was based on my thinking as a psychologist.」%K%P
+
+0xE90
+Izumi「As a human... as Kurumi's older sister...」%K%P
+
+0xE9C
+Izumi「... I wished for the experiment...」%K%P
+
+0xEA8
+Izumi「... to succeed...」%K%P
+
+0xEB4
+Izumi「Yesterday, I described The Third Trait as being 'dubious'.」%K%P
+
+0xEC0
+Makoto「...」%K%P
+
+0xECC
+Izumi「But ironically...」%K%P
+
+0xED8
+Izumi「The two of 'me' within myself... Right now, their viewpoints%Nare the complete opposite of each other.」%K%P
+
+0xEE4
+Makoto「The you as a scholar believes in The Third Trait. But the%Nreal you doesn't believe in it, right?」%K%P
+
+0xEF8
+Izumi「Yes...」%K%P
+
+0xF04
+Makoto「No, wait a minute.」%K%P
+
+0xF10
+Makoto「To go back earlier in the conversation... you just said...%Nthe 'you as Kurumi's sister', right?」%K%P
+
+0xF1C
+Makoto「As Kurumi's sister, you wished for the experiment to%Nsucceed...」%K%P
+
+0xF28
+Izumi「That's right...」%K%P
+
+0xF34
+Izumi「'A firm thought can produce a new reality.'」%K%P
+
+0xF40
+Izumi「'If it's really possible, then it can even erase that three%Nyear blank from history, can't it?'... That's what I thought.」%K%P
+
+0xF4C
+Izumi「That was the trigger for my interest in Cur▲ Syndrome.」%K%P
+
+0xF58
+Makoto「...」%K%P
+
+0xF6C
+Izumi「But now... it doesn't matter anymore...」%K%P
+
+0xF78
+Izumi「Cur▲ Syndrome and the missing three years... They%Nhave already passed away from my mind...」%K%P
+
+0xF84
+Izumi「I've... already resolved myself...」%K%P
+
+0xF98
+Izumi「It's thanks to what you told me.」%K%P
+
+0xFA4
+Izumi「Your words from back then have solved the worries%Nwithin my mind.」%K%P
+
+0xFB0
+Makoto「My words?」%K%P
+
+0xFBC
+(The words I said this afternoon?)%K%P
+
+0xFD8
+"Tell them everything!"%K%P
+
+0xFE4
+(Then Izumi-san's decided to reveal everything after%Nall...)%K%P
+
+0xFF8
+"It'd be best to keep everything locked up in your mind."%K%P
+
+0x1004
+(In other words, Izumi-san's fortified her resolve to%Ncontinue hiding everything...)%K%P
+
+0x1028
+Izumi-san doesn't answer.%K%P
+
+0x1034
+She doesn't even show any signs of answering...%K%P
+
+0x1048
+―Just then, she sinks into the water.%K%P
+
+0x1054
+Though it was sudden, I'm surprisingly not alarmed.%K%P
+
+0x1060
+Izumi-san's body sinks underwater as if it's being%Nsucked in...%K%P
+
+0x106C
+Though her actions had been spontaneous, they felt%Ncompletely natural for her to do.%K%P
+
+0x1078
+Before long...%K%P
+
+0x1090
+Izumi-san rises to the surface without even spraying a%Nsingle drop water.%K%P
+
+0x109C
+She's in the center of the pool... lightly floating face up%Non the water's surface.%K%P
+
+0x10A8
+The clear, transparent blue lights illuminate Izumi-san's%Nentire body.%K%P
+
+0x10B4
+It looks as if her body is enveloped in a divine light.%K%P
+
+0x10C0
+―A goddess floating on light.%K%P
+
+0x10CC
+It's like light is pouring out from Heaven to the physical%Nworld...%K%P
+
+0x10D8
+I'm absolutely dumbfounded.%K%P
+
+0x10E4
+I'm at a loss for words to even attempt describing this%Nincredible beauty.%K%P
+
+0x1100
+Izumi「A memorable place...」%K%P
+
+0x110C
+Izumi「I said that earlier, didn't I?」%K%P
+
+0x1118
+Makoto「...」%K%P
+
+0x1124
+Izumi「When I first came to this island, this was the only thing%Nthat granted me peace.」%K%P
+
+0x1130
+Izumi「I would walk all over the island until I became totally%Nexhausted... and would be depressed that I had made%Nno progress in the end...」%K%P
+
+0x113C
+Izumi「At times like that, I'd always come to this pool, and float in%Nthis pool like this, calmly and leisurely.」%K%P
+
+0x1148
+Izumi「Like a jellyfish...」%K%P
+
+0x1154
+Izumi「Just by doing that, I could forget everything...」%K%P
+
+0x1160
+Izumi「It's so warm and gentle... Being like this makes me feel like%NI'm dissolving in the water...」%K%P
+
+0x116C
+Makoto「...」%K%P
+
+0x11A4
+Izumi「Because the moon was all alone, it was lonely, and would%Ncry during the night.」%K%P
+
+0x11B0
+Izumi「'Sob, sob... sob, sob...'」%K%P
+
+0x11BC
+Izumi「Even so, the moon was still lonely, and so its tears gave%Nbirth to children.」%K%P
+
+0x11C8
+Izumi「A lot of children...」%K%P
+
+0x11D4
+Izumi「The child of the moon and the sea, the jellyfish...」%K%P
+
+0x11E0
+Izumi「That's the story of The Moon and the Jellyfish...」%K%P
+
+0x11EC
+Izumi「When I was young, my father would frequently tell me this%Nstory.」%K%P
+
+0x11F8
+Izumi「When we took baths together, he would definitely tell me%Nthe story.」%K%P
+
+0x1204
+Izumi「The story's actually longer than that... but it's been so%Nlong since I last heard it that I've forgotten most of the%Nother parts...」%K%P
+
+0x1210
+Makoto「...」%K%P
+
+0x121C
+Izumi「Now that I think about it, he did it at that one time...」%K%P
+
+0x1228
+Makoto「?」%K%P
+
+0x1234
+Izumi「It was by the time my father, me, Kurumi, and Haruka... when%Nthe four of us took a bath together...」%K%P
+
+0x1240
+Izumi「At that time, my father also told the story.」%K%P
+
+0x124C
+(Izumi-san, Kurumi, and―Haruka???)%K%P
+
+0x1258
+Izumi「It was only... for a month.」%K%P
+
+0x1264
+Izumi「That is, the time the three of us lived together...」%K%P
+
+0x1270
+Izumi「Kurumi wasn't even a year old, Haruka was a year and a%Nhalf old, and I was four years old.」%K%P
+
+0x127C
+Izumi「That's why I think those two definitely don't remember it...」%K%P
+
+0x1288
+Makoto「...」%K%P
+
+0x1294
+Izumi「My father held Kurumi in his arms, and placed her in a%Nsmall, floating bathtub used for newborns.」%K%P
+
+0x12A0
+Izumi「Haruka was holding a towel and randomly wiping my%Nfather's back, getting bubbles stuck to the towel.」%K%P
+
+0x12AC
+Izumi「I was in the bathtub, floating like this...」%K%P
+
+0x12B8
+Izumi「... While crying...」%K%P
+
+0x12C4
+Izumi「The scar on Haruka's forehead... was still a scab, and it%Nwas swollen by the water... It was just too sad...」%K%P
+
+0x12D0
+Izumi「'Why did I have to go and thrust her away like that?'...」%K%P
+
+0x12DC
+Izumi「I felt hate, regret, and misery towards myself... My tears%Nwere overflowing... and couldn't stop...」%K%P
+
+0x12E8
+Izumi「When Haruka noticed that, she turned towards me... and%Ngently... wiped my tears away...」%K%P
+
+0x12F4
+Izumi「She kindly touched me... with that tiny palm of hers...」%K%P
+
+0x1300
+Makoto「...」%K%P
+
+0x130C
+Izumi「Even now... I can clearly remember that.」%K%P
+
+0x1318
+Izumi「That scene from back then...」%K%P
+
+0x1324
+Makoto「...」%K%P
+
+0x1330
+Izumi「Childhood memories of that bath... to the three of us, that%Nmight be considered our 'primal scenery'... The memories%Nin our early childhood that are permanently etched into%Nour minds.」%K%P
+
+0x133C
+Izumi「I won't forget my father's large back, his wide chest, or%Nthe warmth in his arms when he held me.」%K%P
+
+0x1348
+Izumi「It's the same with Kurumi... and with Haruka...」%K%P
+
+0x1354
+Izumi「That's why I think that just by touching the water, I feel%Nlike I'm being wrapped up in a soft, gentle, peaceful%Nfeeling.」%K%P
+
+0x1360
+Izumi「Because in the water, I can feel my father's warmth...」%K%P
+
+0x1374
+I remember Haruka blankly staring at the dripping faucet...%K%P
+
+0x1380
+I remember Haruka sitting down by the poolside...%K%P
+
+0x138C
+...%K%P
+
+0x1398
+Kurumi「Kurumi loves floating in the water.」%K%P
+
+0x13A4
+Kurumi「Like a jellyfish... calmly... and leisurely...」%K%P
+
+0x13B0
+...%K%P
+
+0x13BC
+Izumi「I like rain too...」%K%P
+
+0x13C8
+Izumi「It's as if my own body becomes a transparent drop of%Nwater...」%K%P
+
+0x13D4
+...%K%P
+
+0x13E8
+Suddenly, I look down, and sway my feet in the water...%K%P
+
+0x13F4
+The water feels pleasant...%K%P
+
+0x1400
+(Water... water, huh...)%K%P
+
+0x140C
+Haruka, Kurumi, and Izumi-san. Their "primal scenery"%Nis―memories of water.%K%P
+
+0x1418
+I don't know what kind of days passed by for those%Nthree during that one month.%K%P
+
+0x1424
+Haruka, who was running around meaninglessly with%Nawkward steps...%K%P
+
+0x1430
+Kurumi, who cried for milk...%K%P
+
+0x143C
+The young, praiseworthy Izumi-san, who carefully%Nwatched over those two...%K%P
+
+0x1448
+But just by closing my eyes, I can clearly see those%Npleasant scenes...%K%P
+
+0x1464
+Just then...%K%P
+
+0x1470
+Izumi「Makoto-kun...」%K%P
+
+0x147C
+Izumi-san mutters this.%K%P
+
+0x1488
+Izumi「Makoto-kun...」%K%P
+
+0x1494
+Izumi「The stars tonight...」%K%P
+
+0x14A0
+Izumi「Are also pretty...」%K%P
+
+0x14AC
+I raise my head and look up, as if the sky is dragging me%Nin.%K%P
+
+0x14C0
+The tempest of stardust...%K%P
+
+0x14CC
+The brightly shining Regulus...%K%P
+
+0x14E0
+This time, it's my turn.%K%P
+
+0x14EC
+The time has finally come to fulfill the desire I've held until%Nthis day.%K%P
+
+0x14F8
+I must give her my answer now!%K%P
+
+0x1504
+I have to tell Izumi-san my feelings!%K%P
+
+0x1510
+Makoto「...」%K%P
+
+0x151C
+But my words won't come out audibly.%K%P
+
+0x1528
+Before I can let them out, they disappear without a trace.%K%P
+
+0x1534
+―They've been stolen.%K%N
+
+0x1540
+By the goddess floating on light...%K%N
+
+0x154C
+That dazzling, divine brilliance...%K%P
+
+0x1558
+I can't let out these unrelenting words before such a%Npure, sacred figure.%K%P
+
+0x1564
+My heart trembles from her beauty, and in my brief%Ntrance, I forget myself.%K%P
+

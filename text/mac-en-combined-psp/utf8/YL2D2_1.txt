@@ -1,0 +1,297 @@
+text area offset and size:
+0x9C0
+0x1229
+0x164
+Just as we promised yesterday, we go to the pool.%K%P
+
+0x178
+I arrive at the pool.%K%P
+
+0x184
+I'm not worried about Kurumi.%K%P
+
+0x190
+I already know that she's faking her illness...%K%P
+
+0x19C
+The sun's brilliant rays are bathing me in its light.%K%P
+
+0x1A8
+For some reason, my body is itching to dive in.%K%P
+
+0x1D0
+I immediately dive underwater.%K%P
+
+0x1DC
+I swim from end to end, then do a quick turn without taking%Na breather...%K%P
+
+0x1E8
+I return to the starting point again...%K%P
+
+0x1F4
+Makoto「FWAAH!」%K%P
+
+0x200
+... and take a deep breath.%K%P
+
+0x20C
+When I casually look up, I see someone looking down%Nupon me from the high edge of the pool.%K%P
+
+0x230
+Yuka「Here!」%K%P
+
+0x258
+It's Yuka.%K%P
+
+0x264
+She bends over and holds out her right hand.%K%P
+
+0x270
+Makoto「Oh, thank you.」%K%P
+
+0x27C
+I take her hand, and step onto the poolside with one foot.%K%P
+
+0x288
+I put my weight into that hand and try to climb up, when...%K%P
+
+0x2B8
+... I instead pull on Yuka's arm with all of my strength.%K%P
+
+0x2C4
+Yuka falls into the pool at an awkward angle.%K%P
+
+0x2D0
+Makoto「Gahahahahahahaha♪」%K%P
+
+0x2DC
+I quickly get up on the poolside, look down on Yuka, and%Nlaugh loudly.%K%P
+
+0x2E8
+Yuka's face emerges out of the water...%K%P
+
+0x2F4
+Yuka「Ba-Bagodo!」%K%P
+
+0x300
+Her voice sounds weird due to the large amount of water%Nin her nose.%K%P
+
+0x31C
+Makoto「Heh heh! Serves you right!」%K%P
+
+0x328
+Makoto「Karma's a bitch, huh?!」%K%P
+
+0x334
+Yuka「Guh... yuu reebempard daaat...」%K%P
+
+0x348
+Yuka「Jeesh, whaa aah yuu doin'...!」%K%P
+
+0x354
+Yuka frowns as she climbs out of the pool.%K%P
+
+0x368
+Makoto「Ah, your nose is dripping with snot... nasty!」%K%P
+
+0x37C
+Yuka「U-U-Ughhhh...」%K%P
+
+0x388
+Yuka clenches her hand into a fist as she trembles.%K%P
+
+0x394
+Makoto「Ah...」%K%P
+
+0x3A0
+Makoto「Are you... mad at me?」%K%P
+
+0x3AC
+Yuka「I'm not!」%K%P
+
+0x3B8
+No matter how you look at it, she's obviously angry...%K%P
+
+0x3C4
+Makoto「All right! Got it! It can't be helped, so I'll treat you to a%Ndrink!」%K%P
+
+0x3D8
+Yuka「Huh? Beer?♪」%K%P
+
+0x3E4
+Makoto「Dumbass! I'm not letting you drink alcohol!」%K%P
+
+0x3F8
+Yuka「Whyyyy nooot...?」%K%P
+
+0x404
+Makoto「You know why!」%K%P
+
+0x418
+Yuka「Boo...」%K%P
+
+0x424
+Makoto「Well, I'll go and buy you something appropriate... so wait%Nhere.」%K%P
+
+0x438
+I say that before walking over towards the drink stand...%K%P
+
+0x4B4
+But when I get back...%K%P
+
+0x4D0
+Yuka「Fwah...!」%K%P
+
+0x4DC
+... Yuka is sitting in the deckchair, a glass of beer%Nclutched in her hand.%K%P
+
+0x4E8
+Yuka「Oh, welcome back～♪」%K%P
+
+0x4F4
+Makoto「Y-Yuka... When did you get that beer...」%K%P
+
+0x500
+Yuka「Oh, this? Okuhiko-kun bought it for me just now.」%K%P
+
+0x50C
+Yuka「Okuhiko-kun's a really thoughtful guy...」%K%P
+
+0x520
+Yuka「Unlike a certain someone else...」%K%P
+
+0x52C
+Makoto「Then what should I do with this ginger ale that I bought?」%K%P
+
+0x540
+Yuka「Whoa! You bought ginger ale?♪」%K%P
+
+0x54C
+Makoto「Y-Yeah...」%K%P
+
+0x558
+Yuka「You're the best, Makoto! This is the best choice possible!」%K%P
+
+0x564
+Makoto「Huh...?」%K%P
+
+0x570
+I don't get what's she's rambling about, but I give her the%Nginger ale anyway.%K%P
+
+0x57C
+Just then, Yuka takes the half empty beer glass, and%Npours the ginger ale into it, filling it up.%K%P
+
+0x588
+Makoto「Does that taste good?」%K%P
+
+0x594
+As I ask, I sit down next to Yuka.%K%P
+
+0x5A0
+Yuka「Makoto, you don't know what shandygaff is?」%K%P
+
+0x5AC
+Makoto「Huh? Panty rash?」%K%P
+
+0x5D4
+Yuka「Shandygaff!! It's the name of a cocktail!」%K%P
+
+0x5E0
+Yuka「... You knew that, didn't you?」%K%P
+
+0x5EC
+Makoto「No.」%K%P
+
+0x5F8
+I play dumb.%K%P
+
+0x60C
+Yuka「Come on, geez...」%K%P
+
+0x644
+We bathe in the warm sun until the afternoon.%K%P
+
+0x650
+Before my eyes, I saw kids innocently diving into the%Npool...%K%P
+
+0x65C
+Intoxicated by the peaceful atmosphere, I forget%Nsomething important...%K%P
+
+0x668
+Something VERY important...%K%N
+
+0x674
+That's...%K%P
+
+0x6C4
+Saki「Shouldn't we be leaving now?」%K%P
+
+0x6D8
+As soon as Saki says this, we all simultaneously begin%Npreparing to go back.%K%P
+
+0x6E4
+However, there's still one other person roaming,%Nstaggering by the poolside.%K%P
+
+0x6F0
+Said person staggers towards us and comes up to us...%K%P
+
+0x704
+Yuka「Huh? Ah we goin' back arready, guysh?」%K%P
+
+0x710
+... then speaks.%K%P
+
+0x71C
+Saki「Yeah. It's already getting cold, right?」%K%P
+
+0x728
+Yuka「Culd? Yer culd?」%K%P
+
+0x73C
+Yuka「Buh I'm naht culd at all.」%K%P
+
+0x750
+She's speaking in a comedic drunk tone...%K%P
+
+0x75C
+Yes... I completely forgot about it.%K%P
+
+0x768
+Since I forgot to stop Yuka from drinking after her first%Ncup, she has continued drinking as I remained blissfully%Nunaware...%K%P
+
+0x774
+I shudder when I think of the events that will probably%Nfollow.%K%P
+
+0x780
+In other words, it's like this.%K%P
+
+0x78C
+The drunk Yuka returns to Lunabeach→%K%N
+
+0x798
+→She declares that she wants toro→%K%N
+
+0x7A4
+→Everyone goes fishing→%K%P
+
+0x7B0
+→Saki is swallowed by the wave!%K%P
+
+0x7BC
+When I realize this on the way back, I try to take Yuka's%Ncup away.%K%P
+
+0x7C8
+I also try to explain to her about the Saki issue.%K%P
+
+0x7D4
+But Yuka won't listen to me.%K%P
+
+0x7E8
+Yuka「Ish faine, ish faine!」%K%P
+
+0x7F4
+Yuka「Ash long ash we don't go fishin', den ish faine, ishen't it?」%K%P
+
+0x808
+... Can I really trust those words???%K%P
+

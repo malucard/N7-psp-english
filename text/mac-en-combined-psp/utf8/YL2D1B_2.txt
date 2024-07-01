@@ -1,0 +1,237 @@
+text area offset and size:
+0x580
+0x1313
+0x60
+Yuka「No good... huh?」%K%P
+
+0x6C
+Makoto「...」%K%P
+
+0x78
+I hang my head down in misery.%K%P
+
+0x84
+Yuka「I saw what happened...」%K%P
+
+0x90
+Makoto「...」%K%P
+
+0x9C
+Yuka「Even though I tried to tell you to stop...」%K%P
+
+0xA8
+Makoto「You knew?」%K%P
+
+0xB4
+Yuka「Izumi-san said it before, didn't she? 'Because a storm's%Ncoming from the sea, the fishing boats can't go out'...」%K%P
+
+0xC0
+Yuka「'Because the migration velocity of the tropical cyclone%Nis slow, it'll be like this for about a week'... she also said%Nsomething like that.」%K%P
+
+0xCC
+Makoto「...」%K%P
+
+0xD8
+Yuka「Makoto...」%K%P
+
+0xE4
+When she calls out to me, I lift my face.%K%P
+
+0x114
+Yuka「Don't get so down!」%K%P
+
+0x120
+Makoto「...」%K%P
+
+0x12C
+Yuka「Earlier, I said that this might be an infinite loop, didn't I?」%K%P
+
+0x138
+Yuka「One that would repeat countless times for all eternity...」%K%P
+
+0x144
+Yuka「But you know what? I think that it's probable that we took%Nthe exact same actions last time and the time before%Nthat.」%K%P
+
+0x150
+Yuka「In other words, the same events always played%Nthemselves out...」%K%P
+
+0x15C
+Yuka「Why did things happen that way... Makoto, do you know%Nwhy?」%K%P
+
+0x168
+I shake my head.%K%P
+
+0x174
+Yuka「Because our memories were vague!」%K%P
+
+0x180
+Yuka「At times, just before something happened, we would%Nexperience a 'premonition'... But in the end, they were%Nuseless...」%K%P
+
+0x18C
+Yuka「But this time is different.」%K%P
+
+0x198
+Makoto「?」%K%P
+
+0x1A4
+Yuka「We have reliable memories this time... right?」%K%P
+
+0x1B0
+Yuka「If that's the case, then even if we can't run away from%Nthis island, changing history will be easy!」%K%P
+
+0x1BC
+Makoto「Are you... for real?」%K%P
+
+0x1D0
+Yuka「Of course!」%K%P
+
+0x1DC
+Yuka「Actually, this morning, you subtly changed history, didn't%Nyou?」%K%P
+
+0x1E8
+Yuka「For example, because I didn't cook, you were still hungry.」%K%P
+
+0x1F4
+Yuka「Because you were hungry, you planned on stealing the%Npizza.」%K%P
+
+0x200
+Yuka「Then Okuhiko-kun's actions changed... and finally, it was%NHaruka who lied that her name was 'Asakura'...」%K%P
+
+0x20C
+Makoto「...」%K%P
+
+0x220
+Yuka「Makoto, do you know what the butterfly effect is?」%K
+
+0x558
+Yeah.
+
+0x564
+No.
+
+0x260
+Makoto「... Yeah.」%K%P
+
+0x26C
+Makoto「It's the question of 'Does the flap of a butterfly's wings%Nin Brazil set off a tornado in Texas?', right?」%K%P
+
+0x278
+Makoto「In short, it means 'A tiny little microscopic change could%Naffect even an enormous phenomenon'.」%K%P
+
+0x284
+Makoto「It's kinda like the Japanese expression 'When the wind%Nblows, the barrel makers profit', isn't it?」%K%P
+
+0x298
+Makoto「...No.」%K%P
+
+0x2A4
+Yuka「'Does the flap of a butterfly's wings in Brazil set off a%Ntornado in Texas?' ―That's the butterfly effect.」%K%P
+
+0x2B0
+Yuka「In short, it means 'A tiny little microscopic change could%Naffect even an enormous phenomenon'.'」%K%P
+
+0x2BC
+Makoto「Hmm...」%K%P
+
+0x2C8
+Makoto「It's kinda like the Japanese expression 'When the wind%Nblows, the barrel makers profit', isn't it?」%K%P
+
+0x2D4
+Makoto「This is a very old story... once, when the wind blew, dust%Nflew up into people's eyes, increasing the number of%Nblind people.」%K%P
+
+0x2E0
+Makoto「Those blind people tried to make a living as shamisen%Nplayers, and as a result, the demand for catskin,%Nnecessary to make more shamisens, increased.」%K%P
+
+0x2EC
+Makoto「With less cats, the number of rats increased, and so%Nthey chewed on barrels, requiring more to be made.」%K%P
+
+0x2F8
+Makoto「... So in the end, the barrel makers profited...」%K%P
+
+0x30C
+Yuka「Yes! That's exactly it!」%K%P
+
+0x318
+Yuka「It's not like history is immune to the accumulation of small,%Nmicroscopic events, right?」%K%P
+
+0x324
+Yuka「So even if we just increase the number of small, trifling%Nchanges, it should be possible for reality to take a 180.」%K%P
+
+0x330
+Makoto「I see...」%K%P
+
+0x33C
+Yuka「History will definitely change!」%K%P
+
+0x348
+Yuka「No. WE will change history!」%K%P
+
+0x354
+Makoto「... This is our last chance...」%K%P
+
+0x368
+Yuka「Huh?」%K%P
+
+0x374
+Makoto「If, by any chance, the same events occur on this April%N6th...」%K%P
+
+0x380
+Makoto「Then we might never be able to get another chance to%Nbreak out of this loop again.」%K%P
+
+0x38C
+Yuka「?」%K%P
+
+0x398
+Makoto「Isn't that right?」%K%P
+
+0x3A4
+Makoto「When we wake up on the next morning of the 1st, there's%Nno guarantee that we'll have our memories, right!?」%K%P
+
+0x3B0
+Yuka「... Yeah... That certainly... might happen...」%K%P
+
+0x3BC
+Makoto「We'll change history―of course I agree with you%Nthere!」%K%P
+
+0x3C8
+Makoto「But... either way, if we act selfishly, then it'll all go to%Nnothing. Understand?」%K%P
+
+0x3DC
+Yuka「Yeah...」%K%P
+
+0x3E8
+Makoto「Even though we can repeat things, this is our last%Nchance!」%K%P
+
+0x3F4
+Makoto「So don't pull a stunt like you did last time...」%K%P
+
+0x400
+Makoto「Swear it right here, right now...」%K%P
+
+0x40C
+Makoto「No matter what happens, never go near that shrine%Nagain...」%K%P
+
+0x418
+Yuka「... Got it... I swear it...」%K%P
+
+0x424
+Makoto「'Promises must definitely be kept'―That's what you%Nwrote in your letter.」%K%P
+
+0x430
+Makoto「Don't forget this vow... okay?」%K%P
+
+0x454
+Yuka gives me a serious stare, and nods.%K%P
+
+0x460
+And then, she opens her tightly shut mouth...%K%P
+
+0x474
+Yuka「Let's see it together.」%K%P
+
+0x480
+Yuka「Let's see the sunrise of April 7th... together.」%K%P
+
+0x48C
+... And mutters this.%K%P
+

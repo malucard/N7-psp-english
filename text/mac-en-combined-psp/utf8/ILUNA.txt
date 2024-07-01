@@ -1,0 +1,1140 @@
+text area offset and size:
+0x1B00
+0x55F9
+0x40
+Kurumi「Onii-chaan! Waaait!」%K%P
+
+0x4C
+Kurumi chases after me as I walk down the forest road%Ntowards the ocean.%K%P
+
+0xB8
+Kurumi「Haah... finally caught up to you...」%K%P
+
+0xC4
+Makoto「Hmm? What's wrong, Kurumi?」%K%P
+
+0xD8
+Kurumi「Kurumi was going to go to Princess Beach to watch%Nsome crab sumo wrestling, so she thought she could go%Nwith you up until she got there...」%K%P
+
+0xE4
+Makoto「I see.」%K%P
+
+0x100
+Wait, what the hell is "Crab sumo"!? Well, it's pretty%Nself-explanatory, but...%K%P
+
+0x10C
+Kurumi「So, where are you going, Onii-chan?」%K%P
+
+0x118
+Makoto「To Lunabeach... I thought I'd try my hand at being%NIzumi-san's assistant...」%K%P
+
+0x12C
+Kurumi「Hmm... you're going to see Onee-chan then...」%K%P
+
+0x138
+She looks like she wants to say something.%K
+
+0x1AA8
+Do you want to go with me?
+
+0x1AB4
+Is there something you want to say?
+
+0x188
+Makoto「Do you want to go to Lunabeach too?」%K%P
+
+0x19C
+Kurumi「Huh? But... Kurumi wants to watch the crab sumo...」%K%P
+
+0x1A8
+Makoto「The crabs won't go extinct today, right?」%K%P
+
+0x1B4
+Kurumi「Huh?」%K%P
+
+0x1C0
+Makoto「What I'm saying that is that you could see it whenever,%Nlike tomorrow or the day after tomorrow, right?」%K%P
+
+0x1CC
+Kurumi「Oh, that's what you mean... But Kurumi wants to see the%Ncrab sumo today, no matter what...」%K%P
+
+0x1D8
+Makoto「Then I guess that's a 'no'...」%K%P
+
+0x1E4
+Kurumi「But couldn't you do the same, Onii-chan?」%K%P
+
+0x1F0
+Makoto「Huh?」%K%P
+
+0x1FC
+Kurumi「Onee-chan won't go extinct today, right?」%K%P
+
+0x208
+Makoto「What?」%K%P
+
+0x214
+Kurumi「You also can help Onee-chan whenever, right? Like%Ntomorrow, or the day after that...」%K%P
+
+0x220
+Makoto「Ah... well, that's true, but...」%K%P
+
+0x234
+Kurumi「Then go to Princess Beach with Kurumi today!」%K%P
+
+0x240
+Hmm... Crab sumo, huh...%K%P
+
+0x24C
+Well, that does sound kinda fun...%K%P
+
+0x258
+But I've already decided to go to Lunabeach.%K%P
+
+0x264
+However, I decide that when I'm done with that... I'll go see%Nthe crab sumo next time.%K%P
+
+0x270
+Makoto「I'm sorry Kurumi, but I've already decided to go to%NLunabeach today.」%K%P
+
+0x27C
+Makoto「I'll see the crab sumo next time... okay?」%K%P
+
+0x290
+Kurumi「Next time, huh...」%K%P
+
+0x29C
+Kurumi slumps her shoulders.%K%P
+
+0x2A8
+But she soon seems to pull herself together...%K%P
+
+0x2BC
+Kurumi「All right, got it. Then be sure to come next time, okay?」%K%P
+
+0x2C8
+... and replies cheerfully.%K%P
+
+0x2D4
+...%K%P
+
+0x2E0
+Kurumi「Well then, see you later, Onii-chan.」%K%P
+
+0x2F4
+Kurumi runs ahead towards Princess Beach...%K%P
+
+0x308
+Makoto「Do you want to say something?」%K%P
+
+0x314
+Kurumi「Not really... there's nothing in particular Kurumi wants to%Nsay.」%K%P
+
+0x320
+I don't know why, but Kurumi seems to be getting angry%Nright now...%K%P
+
+0x32C
+Makoto「Why are you angry?」%K%P
+
+0x340
+Kurumi「Kurumi's not angry!」%K%P
+
+0x34C
+Makoto「Hmm... all right, then...」%K%P
+
+0x358
+Kurumi「...」%K%P
+
+0x364
+Makoto「...」%K%P
+
+0x370
+Kurumi「...」%K%P
+
+0x37C
+Makoto「...」%K%P
+
+0x390
+Kurumi「Hey! How is it 'all right'!? Kurumi's angry!」%K%P
+
+0x39C
+Makoto「So you were mad after all, weren't you...」%K%P
+
+0x3B0
+Kurumi「There's no way Kurumi's mad!」%K%P
+
+0x3BC
+Makoto「Hey, hey... which is it?」%K%P
+
+0x3C8
+Kurumi「Whatever! Onii-chan, you, you...」%K%P
+
+0x3D4
+Makoto「?」%K%P
+
+0x3E0
+Kurumi「Even though Kurumi thought she'd take the the trouble%Nof trying to invite you to the crab sumo!」%K%P
+
+0x3EC
+Makoto「'Trouble'... how is saying the words, 'Onii-chan, wanna go%Nwatch crab sumo with me?' trouble?」%K%P
+
+0x400
+Kurumi「Waaaaah...」%K%P
+
+0x414
+Kurumi「Onii-chan, you idiot!」%K%P
+
+0x428
+Kurumi shouts this and runs off...%K%P
+
+0x434
+(Damn it... what's up with Kurumi...?)%K%P
+
+0x440
+I can't understand Kurumi's indignant behavior at all...%K%P
+
+0x4C4
+Makoto「Hello there!」%K%P
+
+0x4D0
+I open the door to Lunabeach.%K%P
+
+0x504
+Izumi「Oh, Makoto-kun... welcome.」%K%P
+
+0x510
+Makoto「There's no need to greet me as a customer today.」%K%P
+
+0x51C
+Izumi「Huh? Why?」%K%P
+
+0x528
+Makoto「Because I came to help you... For today, I will be an%Nemployee of Lunabeach.」%K%P
+
+0x544
+Izumi「An employee...」%K%P
+
+0x550
+Makoto「Huh? Would that be too bothersome?」%K%P
+
+0x55C
+Izumi「No, I'm really grateful that you're offering to help, but...」%K%P
+
+0x568
+Izumi「Um... we're not accepting part-time workers right now.」%K%P
+
+0x574
+Makoto「Ha ha ha... I didn't come here for a job.」%K%P
+
+0x580
+Makoto「I'm just volunteering, that's all...」%K%P
+
+0x58C
+Izumi「Really?」%K%P
+
+0x598
+Makoto「Yeah.」%K%P
+
+0x5A4
+Izumi「... All right! Well then, I'll accept your offer. What would you%Nlike to help with?」%K%P
+
+0x5B0
+Makoto「Anything you ask me to do.」%K%P
+
+0x5BC
+Izumi「Well then... Let's see...」%K%P
+
+0x5C8
+Izumi「... I know. First... could you wash the plates?」%K%P
+
+0x5D4
+Makoto「Sure thing. Leave it to me to get any job done!」%K%P
+
+0x5E0
+Izumi「When that's done, can you clean the shop's windows for%Nme?」%K%P
+
+0x5EC
+Makoto「Okay!」%K%P
+
+0x5F8
+Izumi「Then when that's done, mop the floor, then when it's dry,%Nwax it...」%K%P
+
+0x604
+Makoto「Y-Yeah, that's fine.」%K%P
+
+0x610
+Izumi「After that, sweep and clean the front of the shop for me...」%K%P
+
+0x61C
+Izumi「Next, refill the sugar and fresh cream on the tables...」%K%P
+
+0x628
+Izumi「While you're at it, the lightbulbs on the second floor are%Ndead, so I'd like it if you could replace those...」%K%P
+
+0x634
+Makoto「...」%K%P
+
+0x640
+Izumi「Oh! And finally, I need you to go shopping with me!」%K%P
+
+0x64C
+Makoto「???」%K%P
+
+0x658
+Izumi「Makoto-kun, you've heard about today's barbecue,%Nright?」%K%P
+
+0x664
+Makoto「Barbecue?」%K%P
+
+0x670
+Izumi「You haven't heard? Everyone's gathering here today at%N5:00.」%K%P
+
+0x67C
+Makoto「Ah... I see, that's what Yuka was talking about...」%K%P
+
+0x688
+Makoto「... Does that mean that we're going to have a barbecue%Nhere at 5:00?」%K%P
+
+0x694
+Izumi「There's no way we can do it here, so... we're having it on%NPrincess Beach.」%K%P
+
+0x6A0
+Makoto「Hmm... so that's it...」%K%P
+
+0x6AC
+Izumi「That's why I have a lot of preparations I need to make%Nbeforehand...」%K%P
+
+0x6B8
+Makoto「I see now.」%K%P
+
+0x6C4
+Izumi「But because the car isn't working, I don't think I can%Ncarry all the groceries back here on my own.」%K%P
+
+0x6D0
+Makoto「Oh ho.」%K%P
+
+0x6DC
+Izumi「So when I'm going shopping, I would like you to come with%Nme, Makoto-kun.」%K%P
+
+0x6E8
+Makoto「O-Oh...」%K%P
+
+0x6F4
+Izumi「Am I asking too much of you?」%K
+
+0x1AC0
+Not at all!
+
+0x1ACC
+Maybe a little.
+
+0x734
+Makoto「That much? It'll be a piece of cake! It's no problem at all!!」%K%P
+
+0x740
+I'm bluffing.%K%P
+
+0x74C
+I already told her I'd help with whatever she wanted me%Nto, so there's no way I can back down now.%K%P
+
+0x758
+A man's word is his honor.%K%P
+
+0x764
+Izumi「Really? You're a lifesaver～♪」%K%P
+
+0x770
+Izumi「Thank you, Makoto-kun♪」%K%P
+
+0x77C
+That smile is all I need to get bursting with energy.%K%P
+
+0x788
+I'll get to work right away!%K%P
+
+0x79C
+Makoto「It does seem a bit too much... maybe...」%K%P
+
+0x7A8
+Izumi「I-Is that so... No matter what the circumstances may be...%Nhuh...」%K%P
+
+0x7B4
+Izumi「I guess it's impossible for you, Makoto-kun...」%K%P
+
+0x7C0
+Crap...%K%P
+
+0x7CC
+Izumi「If it were Gen-san, the fisherman, he'd have it all done in%Nan hour...」%K%P
+
+0x7D8
+Double crap...%K%P
+
+0x7E4
+Izumi「But I guess this island is lacking in able men...」%K%P
+
+0x7F0
+... Dammit!%K%P
+
+0x7FC
+Makoto「It's no problem at all! This much will be a piece of cake!」%K%P
+
+0x808
+Makoto「That's too little! It's simple! It'll be easy! Please leave it to%Nme!」%K%P
+
+0x814
+Izumi「Huh? Really? You're a lifesaver～♪」%K%P
+
+0x820
+Izumi「Thank you, Makoto-kun♪」%K%P
+
+0x82C
+That smile fills me with a dreaded sense of impending%Ndoom...%K%P
+
+0x838
+Have I... been trapped...?%K%P
+
+0x8A0
+There's eight chores which have to be done.%K%P
+
+0x8AC
+I have to wash the plates, clean the windows, mop the%Nfloor, wax it, sweep and clean the front of the shop, refill%Nthe sugar and fresh cream, change the light bulbs, and%Ngo shopping for the barbecue.%K%P
+
+0x8B8
+Well, I've already finished washing the plates.%K%P
+
+0x8C4
+Right now, I'm wiping the windows outside of the shop.%K%P
+
+0x8D0
+*Wipe wipe wipe wipe wipe...*%K%P
+
+0x8DC
+The windows are facing the ocean, which means they%Naren't filthy because of dirt.%K%P
+
+0x8E8
+Rather, there's salt stuck to them. The grains of sand%Nare now sticking to the windows due to the adhesion%Neffect, as stiff and as hard as rocks.%K%P
+
+0x8F4
+At this rate, it seems it'll probably take half a day just to%Npolish the windows.%K%P
+
+0x900
+Even it's too late, I'm regretting forcing myself to%Nundertake such a Herculean task.%K%P
+
+0x90C
+And... Just then...%K%P
+
+0x95C
+―An earthquake hits.%K%P
+
+0x968
+It feels stronger than the one on the 1st...%K%P
+
+0x9A0
+I hear the sound of tableware breaking from inside the%Nshop.%K%P
+
+0x9AC
+Izumi-san...%K%P
+
+0x9B8
+I anxiously burst inside Lunabeach.%K%P
+
+0xA00
+Makoto「Are you all right, Izumi-san!?」%K%P
+
+0xA0C
+By the time I say that, the tremors have already calmed%Ndown.%K%P
+
+0xA20
+Izumi「Yes... I'm all right. But...」%K%P
+
+0xA2C
+Izumi-san is staring at fragments of broken tableware%Nand glass at her feet.%K%P
+
+0xA38
+Makoto「Were those the ones that I washed and placed in the%Nstrainer earlier?」%K%P
+
+0xA44
+Izumi「Yes...」%K%P
+
+0xA50
+It seems that all the time and effort I put into carefully%Nwashing them has gone to waste...%K%P
+
+0xA5C
+No, wait... in the first place, if I hadn't washed them and%Njust piled them up in the sink, then they probably%Nwouldn't have broken like this.%K%P
+
+0xA68
+Makoto「I'm sorry...」%K%P
+
+0xA74
+I apologize.%K%P
+
+0xA88
+Izumi「'Sorry'? ... Makoto-kun, it's not like you caused the%Nearthquake to happen, right?」%K%P
+
+0xA94
+Izumi「It's not your fault...」%K%P
+
+0xAA0
+Izumi-san smiles gently at me.%K%P
+
+0xAAC
+I feel a little better now.%K%P
+
+0xAB8
+Izumi「But this is really annoying... There's a lot of earthquakes%Nat this place...」%K%P
+
+0xAC4
+Izumi「Whenever an earthquake occurs, we lose more and more%Ntableware...」%K%P
+
+0xAD0
+Izumi「Half of the reason the manager went shopping in Italy is%Nbecause of this.」%K%P
+
+0xADC
+Makoto「Hmm...」%K%P
+
+0xAE8
+Izumi「Well, no use in crying over spilled milk, right? Let's hurry%Nand clean it up.」%K%P
+
+0xAFC
+Izumi-san brings over a dustpan and broom.%K%P
+
+0xB08
+I hold the dustpan as Izumi-san gathers the pieces with%Nthe broom.%K%P
+
+0xB14
+The tableware and glass have broken into neat shards.%K%P
+
+0xB20
+Valuable things are still beautiful even after they've%Nbroken, aren't they?%K%P
+
+0xB2C
+For some reason, that's what I think...%K%P
+
+0xBB0
+When I've finished seven of my eight assignments, it's a%Nlittle past 3:30.%K%N
+
+0xBBC
+I finished window cleaning much earlier than I had%Nexpected, thanks to a salt removing detergent%NIzumi-san lent me.%K%N%N
+
+0xBC8
+"A salt removing detergent."%N%N
+
+0xBD4
+―I never knew until now something like that existed in%Nthis world.%K%P
+
+0xBE8
+This is the same feeling of culture shock I felt in the past%Nwhen a friend of mine who worked in a screw factory%Nproudly showed me a magazine called "Monthly Toolbox".%K%N%N
+
+0xBF4
+"Necessity is the mother of invention,"%K%N
+
+0xC00
+as he would frequently say.%K%N%N
+
+0xC0C
+... Huh? ... Or was it something different than that?%K%P
+
+0xCA0
+Well, anyway, because all the tasks are done, Izumi-san%Nand I are in the shopping district now, buying things.%K%P
+
+0xCAC
+This is the eighth and final task... to gather everything%Nwe need for the barbecue.%K%P
+
+0xCB8
+We buy meat, vegetables, oil, grilling sauce, and large%Nquantities of canned beer.%K%P
+
+0xCC4
+Makoto「Do we really... need to buy so much beer?」%K%P
+
+0xCD0
+I'm worried that I already know what her answer will be%Nwhen Izumi-san...%K%P
+
+0xCE4
+Izumi「Well, Yuka-chan requested it.」%K%P
+
+0xCF0
+... confirms my fear with that answer.%K%P
+
+0xCFC
+Lunabeach's storehouse already has the other%Nnecessary tools, like the iron plate and charcoal.%K%P
+
+0xD08
+With this, we've obtained everything that we'll be using%Nfor the barbecue.%K%P
+
+0xD14
+Makoto「Well then, shall we head back now?」%K%P
+
+0xD20
+I say this as I hold several bloated shopping bags in%Nboth of my hands.%K%P
+
+0xD2C
+Just then...%K%P
+
+0xD38
+Izumi「Oh, this is bad... I forgot something. Wait here a bit, okay?」%K%P
+
+0xD4C
+... Izumi-san heads back into the store to get that%Nsomething she forgot to buy.%K%P
+
+0xD58
+...%K%P
+
+0xD64
+Several minutes later, Izumi-san comes out with a plastic%Nbottle of orange juice.%K%P
+
+0xD78
+Izumi「Haruka-chan also can't drink alcohol, right?」%K%P
+
+0xD84
+Makoto「Huh? ... Really?」%K%P
+
+0xD90
+Izumi「Yes. I feel she said so earlier.」%K%P
+
+0xD9C
+Izumi「Well, either way, Kurumi can't drink, so at least the juice%Nwon't go to waste.」%K%P
+
+0xDA8
+Makoto「Oh, that's right... Kurumi's still in high school, right?」%K%P
+
+0xDB4
+Izumi「Right. After all, high-schoolers can't drink alcohol, even if%Nthey want to.」%K%P
+
+0xDC0
+Hmm... Izumi-san... she's very straight-laced.%K%P
+
+0xDCC
+Izumi「I think she'll definitely want to drink...」%K%P
+
+0xDD8
+Makoto「Huh?」%K%P
+
+0xDE4
+Izumi「Kurumi's filled with more curiosity than most people, isn't%Nshe?」%K%P
+
+0xDF0
+Izumi「It seems that she's really fascinated by things that are%Nforeign and novel to her.」%K%P
+
+0xDFC
+Makoto「Ah... now that you mention it, Kurumi was the one who%Nsuggested the Test of Courage yesterday.」%K%P
+
+0xE08
+Izumi「It's really quite troublesome... She really loves those%Nkinds of occult-like things.」%K%P
+
+0xE14
+Occult...%K%P
+
+0xE20
+The word suddenly triggers a memory.%K%P
+
+0xE3C
+"An interesting place"... last night, Kurumi said that, and%Ntook me to the shrine.%K%P
+
+0xE48
+She was really tenacious about investigating that%Nplace. as if she were thinking "I want to confirm the%Nshrine's true nature!"%K%P
+
+0xE54
+Izumi-san sure hit the nail on the head when she said%Nthat "Kurumi's filled with more curiosity than most people."%K%P
+
+0xE60
+I ought to talk to her about that.%K%P
+
+0xE6C
+Makoto「Yesterday, when you all went to the hot springs, Kurumi...」%K%P
+
+0xE78
+Izumi「Huh?」%K%P
+
+0xE84
+Oh shit!!%K%P
+
+0xE90
+Izumi-san was extremely opposed to Kurumi going to the%Nshrine.%K%P
+
+0xE9C
+If I let it slip that Kurumi went to the shrine, Izumi-san will%Nscold her. I'd be getting her into unnecessary trouble.%K%P
+
+0xEA8
+Makoto「... K-Kurumi told me she 'wanted to have another Test of%NCourage♪'...」%K%P
+
+0xEBC
+Izumi「As I thought...」%K%P
+
+0xEC8
+Whew... it seems she bought it...%K%P
+
+0xED4
+But... now I remember what I wanted to ask Izumi-san%Nabout regarding Kurumi.%K%P
+
+0xEE0
+Why is it that Izumi-san doesn't want Kurumi to go to the%Nshrine?%K%P
+
+0xEEC
+Does she seriously believe that story about the God of%NDemons?%K%P
+
+0xEF8
+Is that really the only reason?%K%P
+
+0xF04
+I resolve myself, and decide to try asking her.%K%P
+
+0xF10
+There shouldn't be anything wrong with at least asking...%K%P
+
+0xF2C
+"After this, do you want to go on a Mystery Tour?"%K%P
+
+0xF38
+... After Izumi-san finished her story on Moon Beach,%NKurumi spoke with a mischievous glint in her eyes.%K%P
+
+0xF44
+Izumi-san sure hit the nail on the head when she said%N"Kurumi's filled with more curiosity than most people."%K%P
+
+0xF50
+At that time, because Izumi-san was extremely against it,%Nit looked like she'd give up her plans...%K%P
+
+0xF5C
+But... Wait, now I remember what I wanted to ask Izumi-san%Nabout regarding Kurumi.%K%P
+
+0xF68
+Why is it that Izumi-san doesn't want Kurumi to go to the%Nshrine?%K%P
+
+0xF74
+Does she seriously believe that story about the God of%NKiller Demons?%K%P
+
+0xF80
+Is that really the only reason?%K%P
+
+0xF8C
+I resolve myself, and decide to ask her.%K%P
+
+0xFA8
+Makoto「Hey, Izumi-san? Can I ask you a question?」%K%P
+
+0xFB4
+Izumi「Hmm? What?」%K%P
+
+0xFC0
+Makoto「It's about that shrine...」%K%P
+
+0xFCC
+Izumi-san's expression darkens the the instant I utter%Nthose words.%K%P
+
+0xFD8
+Makoto「Two nights ago, Kurumi suggested going on a 'Mystery%NTour.' You got really mad back then, didn't you?」%K%P
+
+0xFE4
+Izumi「...」%K%P
+
+0xFF0
+Makoto「Why did you get so angry?」%K%P
+
+0x1004
+Izumi「Makoto-kun... Weren't you listening? It's because over%Nthere is the God of De-」%K%P
+
+0x1010
+Makoto「I don't think that's the only reason.」%K%P
+
+0x101C
+Izumi「...」%K%P
+
+0x1028
+Makoto「You're not telling me something, right?」%K%P
+
+0x1034
+Izumi「...」%K%P
+
+0x1040
+Izumi-san's mouth is shut.%K%P
+
+0x104C
+It seems I'm not going to make any progress by directly%Nasking.%K%P
+
+0x1058
+I'll just have to trick her into confessing...%K
+
+0x1AD8
+"I plan to go to the shrine tonight."
+
+0x1AE4
+"I know the truth about the God of Demons."
+
+0x1098
+Makoto「Izumi-san... the truth is, I was thinking about trying to go%Nto the shrine tonight.」%K%P
+
+0x10A4
+I'm bluffing, of course.%K%P
+
+0x10B0
+But with this, I should hopefully be able to pry the real%Nreason out of Izumi-san, who will inevitably try to stop me.%K%P
+
+0x10BC
+Izumi「Don't! Don't do it, Makoto-kun! You mustn't do it!」%K%P
+
+0x10C8
+Makoto「And why is that? I can't agree with you unless you give%Nme a clear reason.」%K%P
+
+0x10DC
+Izumi「I told you, that's because...」%K%P
+
+0x10E8
+I'll pressure her again.%K%P
+
+0x10F4
+Makoto「I'm going... to the shrine.」%K%P
+
+0x1118
+Makoto「Izumi-san... I know the truth about the God of Demons.」%K%P
+
+0x1124
+Of course, I'm bluffing.%K%P
+
+0x1130
+This way, I can get her to think that there's no use hiding%Nthe information, meaning she'll spill the beans.%K%P
+
+0x1144
+Izumi「Huh!? You know...!?」%K%P
+
+0x1150
+Makoto「Yes...」%K%P
+
+0x115C
+Izumi「No way, you know that I made up that story...?」%K%P
+
+0x1168
+―Made up!?%K%P
+
+0x1174
+―So that means she created the story about the God%Nof Demons!?%K%P
+
+0x1180
+Makoto「Yeah, I did...」%K%P
+
+0x118C
+I reply nonchalantly.%K%P
+
+0x11A0
+Izumi「Is... that so...」%K%P
+
+0x11AC
+Makoto「But why does it have to be a lie...?」%K%P
+
+0x11B8
+Izumi「...」%K%P
+
+0x11C4
+Makoto「...」%K%P
+
+0x11D0
+Izumi「...」%K%P
+
+0x11DC
+Makoto「...」%K%P
+
+0x11E8
+Izumi「... I understand... Then I'll tell you and you alone...」%K%P
+
+0x11F4
+Izumi「But not here. Shall we move to a different place?」%K%P
+
+0x1208
+Exactly as planned...%K%P
+
+0x1224
+...%K%P
+
+0x1230
+But... why do I feel like such an asshole?%K%P
+
+0x123C
+Perhaps I might be just as interested in the shrine as%NKurumi is.%K%P
+
+0x12CC
+Izumi-san stands on the pier, staring out at the golden%Nsea.%K%P
+
+0x12D8
+She softly runs her hand through her soft hair as a%Ngentle breeze strokes it...%K%P
+
+0x12E4
+It's clear from her sorrow filled eyes that she's brooding%Nabout something...%K%P
+
+0x12F0
+This is beginning to feel like d▲j▽ vu.%K%P
+
+0x12FC
+I've seen a pair of eyes like that quite recently before,%Neyes full of secrets kept locked away.%K%P
+
+0x1308
+Just then, Izumi-san quietly begins to bequeath me%Nthose secrets.%K%P
+
+0x1324
+Izumi「Yes. As you know, Makoto-kun... that story was a lie...」%K%P
+
+0x1330
+Izumi「But that doesn't mean it's all false.」%K%P
+
+0x133C
+Izumi「A lot of people really did go missing at that shrine... that%Nat least is an undeniable fact.」%K%P
+
+0x1348
+Izumi「But... I thought that that alone was insufficient...」%K%P
+
+0x135C
+Izumi「The story about the God of Demons I told you about on%NMoon Beach...」%K%P
+
+0x1368
+Izumi「That bit was of my own fabrication.」%K%P
+
+0x1374
+Makoto「A-A fabrication!?」%K%P
+
+0x1380
+Izumi「Yes... But of course, it's not like it was all fake.」%K%P
+
+0x138C
+Izumi「A lot of people really did go missing at that shrine... that%Nat least is an undeniable fact.」%K%P
+
+0x1398
+Izumi「But you know what? I thought that alone was insufficient...」%K%P
+
+0x13A4
+Makoto「Insufficient... what do you mean by that?」%K%P
+
+0x13B0
+Izumi「I thought that it would be insufficient to keep you all from%Napproaching that shrine.」%K%P
+
+0x13BC
+Izumi「If the thought of people going missing was all there was%Nto it, then you all surely would have gone to the shrine...」%K%P
+
+0x13C8
+Izumi「So, using the shrine's name, I added what I thought was a%Nplausible folktale to it.」%K%P
+
+0x13D4
+Izumi「I didn't care what I did as long as I could emphasize how%Nterrifying the shrine is, even if only a little...」%K%P
+
+0x13E0
+Makoto「... Well then... what was the reason for you... not wanting%Nus to approach the shrine?」%K%P
+
+0x13EC
+Izumi「I thought if you all went there, then one day, Kurumi would%Ndefinitely decide to explore it...」%K%P
+
+0x13F8
+Izumi「She really is very curious, but even she wouldn't think of%Npulling a stupid stunt like going to a dangerous place by%Nherself.」%K%P
+
+0x1404
+Makoto「In short, if even we didn't approach the shine, then in the%Nend, Kurumi wouldn't go there either...?」%K%P
+
+0x1410
+Izumi「Yes...」%K%P
+
+0x141C
+Makoto「So it was all for Kurumi's sake, then...」%K%P
+
+0x1428
+Izumi「Honestly, I never ever wanted Kurumi to learn about the%Nshrine's existence...」%K%P
+
+0x1434
+Makoto「Kurumi came back earlier than expected from visiting%NSaki at the clinic...」%K%P
+
+0x1440
+Makoto「Since you were already in the middle of your story and%Ncouldn't stop there, you had no choice but to tell her as%Nwell...」%K%P
+
+0x144C
+Izumi「That's right...」%K%P
+
+0x1458
+Makoto「...」%K%P
+
+0x1464
+Izumi「...」%K%P
+
+0x1470
+Makoto「...」%K%P
+
+0x147C
+Izumi「...」%K%P
+
+0x1488
+Makoto「Huh? You're still not finished.」%K%P
+
+0x1494
+Makoto「I haven't heard the most important part yet.」%K%P
+
+0x14A0
+Izumi「You mean why I don't want Kurumi to get near the shrine...%Nright?」%K%P
+
+0x14AC
+Makoto「... Yes.」%K%P
+
+0x14B8
+Izumi-san runs her hand through her hair again, and%Nsighs deeply.%K%P
+
+0x14C4
+It seems as if she's steeling herself for something%Nimportant...%K%P
+
+0x14D0
+The anticipation causes my heart to pound loudly...%K%P
+
+0x14DC
+I patiently wait for Izumi-san to begin talking again.%K%P
+
+0x14F8
+Izumi「The truth is...」%K%P
+
+0x1504
+Izumi「... Kurumi... might not be my real sister...」%K%P
+
+0x152C
+―What!?%K%P
+
+0x1538
+I can't say a word...%K%P
+
+0x1544
+I can't even breathe.%K%P
+
+0x1550
+(Kurumi... isn't Izumi-san's... sister!?!?!?)%K%P
+
+0x155C
+Izumi「Listen carefully...」%K%P
+
+0x1568
+Izumi「In the past, Kurumi went missing...」%K%P
+
+0x1574
+Izumi「To put it accurately, she was kidnapped...」%K%P
+
+0x1580
+Makoto「K-Kidnapped!?」%K%P
+
+0x158C
+―And just then!%K%P
+
+0x15CC
+Kurumi「Ah! Finally found you...」%K%P
+
+0x15D8
+Makoto「Crap...」%K%P
+
+0x15E4
+Izumi「K-Kurumi...」%K%P
+
+0x1620
+Kurumi「Are you two confessing your love during a romantic%Nsunset?」%K%P
+
+0x162C
+Makoto「N-No...」%K%P
+
+0x1638
+Kurumi「Then that's fine, but... If we don't hurry back, we won't%Nmake it in time, right?」%K%P
+
+0x1644
+Izumi「Huh...?」%K%P
+
+0x1650
+Kurumi「For the barbecue!」%K%P
+
+0x165C
+Kurumi「If we go back now... hmm... We'll be ten minutes late, right?」%K%P
+
+0x1668
+I look at my watch.%K%P
+
+0x1674
+"4:40 P.M."―On foot, it's about half an hour from here%Nto Lunabeach...%K%P
+
+0x1680
+... Kurumi's right.%K%P
+
+0x168C
+Izumi「W-Well then, shall we run back?」%K%P
+
+0x16A0
+Kurumi「Kurumi'll be fine, but... won't it be rough on Onii-chan?」%K%P
+
+0x16AC
+Kurumi「If he carries that much while running, it's bound to strain%Nhim.」%K%P
+
+0x16B8
+Izumi「Th-That's true. Then... let's use a boat!」%K%P
+
+0x16C4
+Izumi-san has clearly lost her mind...%K%P
+
+0x16D0
+Kurumi「Huh? What are you saying, Onee-chan?」%K%P
+
+0x16DC
+Izumi「... W-Well then... what should we do...?」%K%P
+
+0x16E8
+Kurumi「Hee hee hee... Kurumi thought something like this would%Nhappen.」%K%P
+
+0x16F4
+Makoto「???」%K%P
+
+0x1708
+Kurumi「Ta-da♪ It's a KuruKuru Kurumiracle♪」%K%P
+
+0x1714
+Kurumi dramatically points towards the fish market.%K%P
+
+0x1720
+In that direction is a black car.%K%P
+
+0x172C
+Kurumi「Kurumi honorably prepared this taxi for you to accept.」%K%P
+
+0x1738
+Makoto「There are taxis... on this island?」%K%P
+
+0x1744
+Kurumi「Yeah, but just three of them.」%K%P
+
+0x1750
+Kurumi「C'mon, hurry! We've got quite some ground to cover!」%K%P
+
+0x1764
+Kurumi pushes Izumi-san and I forward, and we get into%Nthe taxi.%K%P
+
+0x1770
+In the end, I never got to hear the rest of Izumi-san's%Nstory.%K%P
+
+0x177C
+―Kurumi's kidnapping...%K%P
+
+0x1788
+―The reason Izumi-san doesn't want Kurumi to go to%Nthe shrine...%K%P
+
+0x1794
+―And the fact that Kurumi may not be Izumi-san's%Nsister...%K%P
+
+0x17A0
+Just where is the so-called tangent point between%Nthese three stories?%K%P
+
+0x17AC
+Only Izumi-san knows everything...%K%P
+
+0x17E4
+Thanks to the taxi, we were able to make it on time to%Nmeet everyone.%K%P
+
+0x17F0
+We meet everyone at 5:00 before deciding who would%Ncarry what to Princess Beach.%K%P
+
+0x17FC
+Everyone smiles cheerfully...%K%P
+
+0x1808
+Amongst all of us, Kurumi is the most enthusiastic.%K%P
+
+0x1814
+She's clearly looking forward to the barbecue.%K%P
+
+0x1820
+Izumi-san has also completely returned to her usual self.%K%P
+
+0x182C
+I'm engulfed in this cheerful atmosphere, and before I%Nknow it, the issue with Kurumi has been buried in the%Ncorners of my mind...%K%P
+

@@ -1,0 +1,279 @@
+text area offset and size:
+0x640
+0x158D
+0x5C
+After that, I reunite with the others at Lunabeach.%K%P
+
+0x68
+However, I get absolutely no chances to talk to Haruka%Nall alone.%K%P
+
+0x74
+In the end, I catch up with her after I've returned to the%Nlodge and taken a bath.%K%P
+
+0x80
+I think asking her straight will be the best way.%K%P
+
+0x8C
+I tell her what I saw on the pier... and everything Saki told%Nme in the sickroom.%K%P
+
+0x98
+Makoto「What do you think, Haruka?」%K%P
+
+0xAC
+Haruka「...」%K%P
+
+0xB8
+Makoto「Is the story she told about her childhood true? If so,%Nthen do you resent Saki?」%K%P
+
+0xC4
+Haruka「... I don't know.」%K%P
+
+0xD0
+Haruka「I don't know any of it...」%K%P
+
+0xDC
+Makoto「Then why is it that when you showed this to Saki, she%Nsaid threatening things to you?」%K%P
+
+0xE8
+I take out the bell to show her.%K%P
+
+0xF4
+Haruka「I picked that up on the beach last night... it was sort of%Nnostalgic.」%K%P
+
+0x100
+Makoto「Nostalgic?」%K%P
+
+0x10C
+Haruka「On the day it was taken from me... it felt like I had lost my%Nheart.」%K%P
+
+0x118
+Makoto「Saki took it away from you?」%K%P
+
+0x124
+Haruka「I don't really know... When I was a kid, I would always play%Nin my room all alone. I only had that bell... It's very similar...%Nto that bell I had back then...」%K%P
+
+0x130
+Haruka「But someone... a girl stole it from me. She said, 'This isn't%Nyours. Because you're just a replacement.' Then she%Npushed me, and I hit my head on the edge of a desk%Nchair... probably.」%K%P
+
+0x13C
+Haruka「At that time, I got a cut...」%K%P
+
+0x190
+Makoto「So that's what the small scar on your forehead came%Nfrom...」%K%P
+
+0x19C
+Haruka「When Saki saw this scar and that bell, she suddenly%Nchanged... she got scary...」%K%P
+
+0x1A8
+(... What's the meaning of this???)%K%P
+
+0x1B4
+I'm confused.%K%P
+
+0x1C0
+Both of their stories are similar in that they revolve%Naround a bell, but there's a lot of parts about them that%Njust doesn't mesh at all.%K%P
+
+0x1CC
+Makoto「Wait a minute. Was the girl who took the bell from you%Nreally Saki?」%K%P
+
+0x1E8
+Haruka「...」%K%P
+
+0x1F4
+Haruka averts her eyes from me.%K%P
+
+0x200
+It seems she's taken no notice of the discrepancies in%Ntheir stories.%K%P
+
+0x20C
+It's the same with Saki.%K%P
+
+0x218
+They're both under the impression that the other is the%None in their story, despite not having all the facts of the%Ncase.%K%P
+
+0x224
+Things could get bad if I don't confirm a few more minor%Npoints...%K%P
+
+0x230
+That's what I think.%K%P
+
+0x23C
+I remember their odd rivalry that they had in the last set%Nof six days.%K%N
+
+0x248
+It originated from their childhood memories, which they%Ndidn't even attempt to examine more closely.%K%P
+
+0x254
+To the two of them, those memories are their "primal%Nscenery", defining moments of their early life.%K%P
+
+0x260
+In that "primal scenery", reason doesn't exist.%K%P
+
+0x26C
+Even if they spoke to a third-party about it, they would%Nstill remain stubborn and refuse to be swayed by logic...%K%P
+
+0x278
+Because of that, I think I need to arrange a meeting%Nbetween them in order to set things straight and clear%Nthings up.%K%P
+
+0x284
+However, I doubt they'd listen to me if I'm blatant about it.%K%P
+
+0x290
+There's also Yuka and the others to worry about. I don't%Nwant to attract any unwanted attention; that'd only%Nlower my chances even more.%K%P
+
+0x29C
+Just then, I remember.%K%P
+
+0x2A8
+Last time, on this very night... I promised to go fishing with%NHaruka.%K%P
+
+0x2B4
+I'll try using that.%K%P
+
+0x2C0
+I'll take those two to the pier, where they can settle the%Ndispute over who's right and who's wrong.%K
+
+0x618
+Invite her to go fishing.
+
+0x624
+No, should I be more direct?
+
+0x310
+Makoto「Hey, Haruka? Let's go fishing tomorrow!」%K%P
+
+0x31C
+Haruka「...」%K%P
+
+0x328
+Makoto「Well? Is it a promise?」%K%P
+
+0x33C
+Haruka「A promise...」%K%P
+
+0x348
+Makoto「That's right, a promise.」%K%P
+
+0x354
+Haruka「How can we make something like a promise?」%K%P
+
+0x360
+Makoto「Huh?」%K%P
+
+0x36C
+Haruka「You don't know what will happen tomorrow... right?」%K%P
+
+0x378
+Makoto「We'll go tomorrow, no matter what happens. That's what%Nwe've decided.」%K%P
+
+0x384
+Haruka「How can you decide that?」%K%P
+
+0x390
+Makoto「That's...」%K%P
+
+0x39C
+Makoto「... because I trust you.」%K%P
+
+0x3A8
+Haruka「Trust...」%K%P
+
+0x3B4
+Makoto「And you trust me too.」%K%P
+
+0x3C0
+Haruka「I trust you too...」%K%P
+
+0x3CC
+Makoto「That's right. Without mutual trust, a promise means%Nnothing.」%K%P
+
+0x3D8
+Haruka「Mutual trust...」%K%P
+
+0x3E4
+Makoto「Yeah...」%K%P
+
+0x3F0
+Haruka「So then, you... and I... can trust each other?」%K%P
+
+0x3FC
+Makoto「That's right.」%K%P
+
+0x408
+Makoto「When tomorrow comes, don't forget this promise. No%Nmatter what happens, remember it. All right?」%K%P
+
+0x414
+I gulp as Haruka nods.%K%P
+
+0x428
+No, I should just be direct. That'll be faster.%K%P
+
+0x434
+It may be a little pushy, but I should try to persuade%NHaruka to meet directly with Saki.%K%P
+
+0x440
+Makoto「Say, Haruka? I think it'd be best if you met with Saki and%Ntalked.」%K%P
+
+0x44C
+Haruka「...」%K%P
+
+0x458
+Makoto「Meet with Saki... tomorrow...」%K%P
+
+0x46C
+Haruka「... Why?」%K%P
+
+0x478
+Makoto「That's...」%K%P
+
+0x484
+Makoto「... Because I want to confirm it, no matter what!」%K%P
+
+0x490
+Makoto「That the two of you... are just both making%Nmisunderstandings about your respective pasts! I want%Nto prove that!」%K%P
+
+0x49C
+Makoto「Will you trust me... Haruka?」%K%P
+
+0x4A8
+Haruka「Trust...」%K%P
+
+0x4B4
+Makoto「That's right. I trust you, so please, trust me too...」%K%P
+
+0x4C0
+Haruka「I'll trust you too...」%K%P
+
+0x4CC
+Makoto「Yeah... If we trust each other like that, then we can clear%Nup this misunderstanding for sure!」%K%P
+
+0x4D8
+Haruka「Trust each other...」%K%P
+
+0x4E4
+Makoto「Yeah.」%K%P
+
+0x4F0
+Haruka「So then, you... and I... can trust each other?」%K%P
+
+0x4FC
+Makoto「That's right. So promise to meet with Saki tomorrow...」%K%P
+
+0x508
+Haruka slowly nods.%K%P
+
+0x514
+Makoto「This is our own promise, no one else's. Keep that promise%Nno matter what. Don't tell anyone else about it. All right?」%K%P
+
+0x528
+...%K%P
+
+0x534
+Haruka leaves the room.%K%P
+
+0x540
+I lie down on the bed and close my eyes.%K%P
+
+0x54C
+(I hope... tomorrow goes well...)%K%P
+

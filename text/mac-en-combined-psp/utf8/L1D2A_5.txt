@@ -1,0 +1,180 @@
+text area offset and size:
+0x610
+0xC7D
+0xA8
+Yuka「Gyahahahahahahahaha♪」%K%P
+
+0xB4
+I have no clue what's so funny, but Yuka is loudly%Ncracking up like a middle-aged woman on a TV shopping%Nshow.%K%P
+
+0xC0
+Makoto「Hey, Yuka? Keep it down. Kurumi might be sleeping%Nupstairs, you know?」%K%P
+
+0xCC
+I point to the ceiling as I scold Yuka.%K%P
+
+0xD8
+Yuka「Oh!! Eyam sho shorry!」%K%P
+
+0xE4
+Yuka strikes me on the shoulders to apologize.%K%P
+
+0xF0
+(Damn, she's like an old man...)%K%P
+
+0xFC
+And then, over there...%K%P
+
+0x150
+Kurumi「Morning!」%K%P
+
+0x15C
+It looks like Kurumi's headache has completely subsided%Nitself during our absence.%K%P
+
+0x168
+A thin film of hot milk rises to the surface of the mug in%Nher right hand, a drink most people have when they're%Nsick.%K%P
+
+0x174
+However, since Kurumi looks fine, this doesn't seem to%Nsuit her.%K%P
+
+0x188
+Yuka「Oh, Kurumi-tan... Hau ah yuu feelin'?」%K%P
+
+0x194
+Kurumi「Good! After Kurumi had a nap, she got completely better.」%K%P
+
+0x1A8
+Yuka「Ohhhh! Dash gud, dash gud, nahahahaha♪」%K%P
+
+0x1CC
+Yuka「Ah!!」%K%P
+
+0x1D8
+Yuka suddenly leans forward and points to the mug in%NKurumi's hand.%K%P
+
+0x1E4
+Specifically, she is pointing to it with her index and%Nmiddle fingers...%K%P
+
+0x1F0
+Yuka「Eye have jusht come up wif shomefing amashin'!」%K%P
+
+0x204
+Kurumi「... Huh?!」%K%P
+
+0x218
+Yuka「Whaa doo yuu get when yuu crosh Kurumi wif milk?」%K%P
+
+0x248
+Kurumi「... What?」%K%P
+
+0x254
+Yuka「Ish a joke, a joke!」%K%P
+
+0x260
+Yuka「Whaa doo yuu get when yuu crosh Kurumi wif milk? ...%NKurumilk!」%K%P
+
+0x26C
+Kurumi「...」%K%P
+
+0x278
+Makoto「...」%K%P
+
+0x28C
+Kurumi「Kyahahahahahahaha♪ Well done! Well done, Yuka-san!」%K%P
+
+0x298
+Makoto「R-Really? It's kinda lame if you ask me...」%K%P
+
+0x2AC
+Yuka「Ah, shaddup, yuu pahty pooper! Gyahahahahahahaha♪」%K%P
+
+0x2B8
+It's clear that those two are completely alienated in their%Nown world.%K%P
+
+0x2C4
+I pick my ears and look at the ceiling, looking at the lamp%Nfor some reason.%K%P
+
+0x2D8
+And then, when the long laughter finally ends...%K%P
+
+0x2FC
+Yuka「Haah...」%K%P
+
+0x308
+... Yuka lets out a big sigh, and suddenly looks mopey.%K%P
+
+0x330
+Makoto「Wh-What's wrong?」%K%P
+
+0x33C
+That complete 180 of hers is making me uneasy.%K%P
+
+0x348
+Yuka「To... To... To...」%K%P
+
+0x354
+Makoto「'To... To... To...', You don't mean... 'toilet'?」%K%P
+
+0x360
+Now that I think about it, Yuka's face is pretty pale, isn't%Nit...%K%P
+
+0x36C
+Yuka「To... To... To...」%K%P
+
+0x388
+Yuka「Toro.」%K%P
+
+0x394
+Makoto「Huh? Toro? You mean the fatty part of tuna?」%K%P
+
+0x3A8
+Yuka「Eye wanna eat toro...」%K%P
+
+0x3D8
+Yuka「Eye wanna eat toro!!」%K%P
+
+0x3E4
+Makoto「W-Why so suddenly...?」%K%P
+
+0x3F0
+Yuka「Ish faine! Eye want toro! Eye jusht wanna eat shum%NTOROOOOOOOO!!!」%K%P
+
+0x3FC
+I surrender to her overwhelming nonsense.%K%P
+
+0x408
+Makoto「Then isn't it fine if we go to the shopping district and buy%Nsome?」%K%P
+
+0x414
+Yuka「Nah wei. Dash not good enuff. Eye need shum natural,%Nfresh toro, sho yuu can't doo dat!」%K%P
+
+0x430
+Kurumi「Well then, should we go fishing?」%K%P
+
+0x43C
+Looks like Yuka's not the only one saying crazy stuff...%K%P
+
+0x448
+Kurumi「Do you want to go fishing for toro, Yuka-san?」%K%P
+
+0x454
+Makoto「You mean go fishing for 'tuna', right?」%K%P
+
+0x468
+Kurumi「Oh, right... then shall we go fish for tuna?」%K%P
+
+0x474
+Makoto「Listen up, Kurumi. It's unfortunate, but we can't go fishing%Nfor tuna right...」%K%P
+
+0x488
+Yuka「Arright! Lesh go fishin'!」%K%P
+
+0x494
+Makoto「Listen to what people have to say first, Yuka!」%K%P
+
+0x4A0
+Yuka「Eberiwan, lesh fish for tuna, tuna! ... Hee hee♪」%K%P
+
+0x4AC
+She's completely lost it...%K%P
+

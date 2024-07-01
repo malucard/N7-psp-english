@@ -1,0 +1,147 @@
+text area offset and size:
+0x5F8
+0xC97
+0x108
+Before Okuhiko wakes up, I first awaken Yuka and Haruka.%K%P
+
+0x114
+Next, I call Kurumi and Saki.%K%P
+
+0x120
+Everyone gathers for a meeting past 9:15 A.M.%K%P
+
+0x12C
+Okuhiko is scheduled to wake up at 9:34 A.M., so we don't%Nhave a moment to waste.%K%P
+
+0x138
+Once everyone is gathered, I lay out the details of my%Nplan in simple terms.%K%P
+
+0x168
+Yuka「Heh～, sounds like fun!」%K%P
+
+0x17C
+Kurumi「Sounds good♪ Let's do it!」%K%P
+
+0x188
+Everyone's in agreement. That's reassuring.%K%P
+
+0x194
+Makoto「Ah... but now that I think about it carefully, college is%Nstarting up again...」%K%P
+
+0x1A8
+Yuka「It's fine, it's just college... Let's skip it!」%K%P
+
+0x1B4
+Yuka says this ridiculous statement with a straight face.%K%P
+
+0x1C0
+Now that I think about it, she did say "I don't want to go%Nback to my normal life" at one point, didn't she...?%K%P
+
+0x1DC
+Saki「I'm good too. I want to see Okuhiko-kun go through a%Npainful experience of his own...」%K%P
+
+0x1E8
+Saki's all fired up about this.%K%P
+
+0x1F4
+Well, Okuhiko did manage to ignite Saki's wrath due to his%Nown actions...%K%P
+
+0x208
+Haruka「...」%K%P
+
+0x214
+Haruka says nothing. I guess she fine either way?%K%P
+
+0x220
+After all, the others didn't seem to oppose to Okuhiko's%Nplan to deceive me.%K%P
+
+0x23C
+Kurumi「Huu―h!? What about Kurumi? There's no way that%NKurumi can skip school!」%K%P
+
+0x250
+Izumi「Hmm... Then you'll just be have to drop out of the plan...」%K%P
+
+0x25C
+Kurumi complains, but when Izumi-san says, "I'll tell you%Neverything that happened when I get back", she agrees.%K%P
+
+0x280
+Makoto「Very well then. Commence the operation!」%K%P
+
+0x2D4
+There are now only ten minutes left until Okuhiko wakes%Nup.%K%P
+
+0x2E0
+We rush to make the preparations.%K%P
+
+0x2EC
+Fortunately, it seems Okuhiko had made his own%Npreparations, as he's already set all the clocks (and%Nanything that shows the date) in the lodge so that they%Nread April 1st.%K%P
+
+0x2F8
+He's so methodical that he also changed his own watch%Nso that it says the 1st.%K%P
+
+0x304
+After checking everything in the loft, I snicker as I%Nobserve the sleeping Okuhiko, who's making such an%Nidiotic face.%K%P
+
+0x310
+I feel no pity for him for the hell he's about to go%Nthrough... Not a bit.%K%P
+
+0x32C
+Makoto「Crap!」%K%P
+
+0x338
+Just then, I remember something important.%K%P
+
+0x344
+Makoto「The TV... What should we do about the TV? When Yuka was%Ncooking, we were watching shows on TV!」%K%P
+
+0x358
+Yuka「What!? Why were you watching it!?」%K%P
+
+0x364
+Makoto「What else were we supposed to do!? Anyway, the shows%Nwill be different, so it'll be clear that it's not the 1st from%Nthe TV...」%K%P
+
+0x39C
+Haruka「It's not a problem...」%K%P
+
+0x3A8
+Haruka「I recorded it...」%K%P
+
+0x3B4
+Makoto「... Huh?」%K%P
+
+0x3C0
+Everyone looks at Haruka in puzzlement.%K%P
+
+0x3CC
+Well, normally, you wouldn't think to record local%Nbroadcasting shows...%K%P
+
+0x3D8
+Haruka「I recorded... 'A Healthy YOUtopia'... and then I accidentally%Nleft it running.」%K%P
+
+0x3FC
+I don't really get it, but it seems that thanks to Haruka,%Nwe've been saved from this dilemma.%K%P
+
+0x408
+Afterwards, everyone goes to where they're supposed%Nto be.%K%P
+
+0x414
+Izumi-san and Kurumi go to Lunabeach.%K%N
+
+0x420
+As soon as the seafood pizza is done, Kurumi will deliver%Nit here.%K%P
+
+0x42C
+Saki is on standby at her summer house.%K%N
+
+0x438
+Haruka and I are in the living room together.%K%P
+
+0x444
+When Izumi-san leaves for the lodge, she throws me a%Ngentle smile.%K%P
+
+0x450
+"Good luck."%K%P
+
+0x45C
+Her encouraging look seems to tell me this.%K%P
+

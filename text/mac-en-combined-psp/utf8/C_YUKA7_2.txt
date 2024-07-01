@@ -1,0 +1,426 @@
+text area offset and size:
+0x10D8
+0x17C7
+0x80
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+
+0x8C
+Still half asleep, I blankly stare at the ceiling.%K%P
+
+0x98
+It's a familiar... ceiling...%K%P
+
+0xA4
+I realize I'm freezing, my body soaked with sweat all over.%K%P
+
+0xB0
+I take a deep breath and slowly exhale.%K%P
+
+0xBC
+The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+
+0xC8
+It takes me three more breaths until...%K%P
+
+0xD4
+Yuka「Huh...?」%K%P
+
+0xE0
+Yuka「N-No way...」%K%P
+
+0xEC
+Yuka「This is...」%K%P
+
+0xF8
+Yuka「This is impossible...」%K%P
+
+0x10C
+I leap out of my bed, and run out of the room.%K%P
+
+0x118
+My target is...%K%N
+
+0x124
+...Makoto's room!%K%P
+
+0x160
+Makoto is standing stock-still in the center of the room...%K%P
+
+0x16C
+Before long, he slowly...%K%P
+
+0x178
+Turns around...%K%P
+
+0x1C8
+Yuka「Wh... What's going on!?」%K%P
+
+0x1D4
+Makoto「...」%K%P
+
+0x1E0
+Yuka「Why...!?」%K%P
+
+0x1EC
+I don't know what's what anymore.%K%P
+
+0x1F8
+Makoto looks at me...%K%P
+
+0x204
+Those eyes... They're definitely the eyes of the Makoto I%Nknow.%K%P
+
+0x210
+My head is still wracked with massive confusion.%K%P
+
+0x224
+Makoto timidly raises his left arm.%K%P
+
+0x230
+I lean in close as we both look at his watch's face.%K%P
+
+0x23C
+Makoto「...」%K%P
+
+0x248
+Yuka「...」%K%P
+
+0x254
+"―7―"%K%P
+
+0x260
+"7 SUN 5:03 A.M."%K%P
+
+0x26C
+Makoto「Yuka... we...」%K%P
+
+0x280
+Yuka「Were... saved?」%K%P
+
+0x28C
+Makoto「...」%K%P
+
+0x298
+Yuka「...」%K%P
+
+0x2AC
+Makoto and I exchange glances.%K%P
+
+0x2B8
+Makoto「No, hold on...」%K%P
+
+0x2C4
+Makoto「It's possible that my watch could be busted...」%K%P
+
+0x2D0
+I nod.%K%P
+
+0x2DC
+In the next instant, Makoto and I, flustered and still%Nintertwined, quickly rush out to the living room.%K%P
+
+0x338
+Kurumi「O-Onii-chan!!」%K%P
+
+0x344
+Makoto「K... Kurumi!」%K%P
+
+0x360
+Saki「H-Hold on, what's the meaning of this!?」%K%P
+
+0x37C
+Izumi「When did... you two... get back!?」%K%P
+
+0x388
+Yuka「Huh...?」%K%P
+
+0x3A4
+Haruka「We've been looking for you...」%K%P
+
+0x3C0
+Kurumi「Geez, where did you go!?」%K%P
+
+0x3CC
+Makoto「'Where'...Even if you say that...」%K%P
+
+0x3E8
+Okuhiko「Sheesh, don't worry us like that...」%K%P
+
+0x404
+Saki「If you went out, then you should have at least told us%Nsomething!」%K%P
+
+0x418
+I can't grasp the situation...%K%P
+
+0x424
+Makoto's eyes widen in bewilderment; he clearly feels%Nthe same way.%K%P
+
+0x430
+Makoto「Umm...」%K%P
+
+0x43C
+Makoto「...There's something we have to ask you...」%K%P
+
+0x448
+Everyone「???」%K%P
+
+0x454
+Makoto looks at me, and nods.%K%P
+
+0x460
+Yuka「What's today's date?」%K%P
+
+0x474
+Everyone「!?!?!?」%K%P
+
+0x4B4
+Izumi「Huh!?」%K%P
+
+0x4D0
+Okuhiko「Hey, hey, Yuka-chan? Are you really all right?」%K%P
+
+0x4DC
+Okuhiko「You asked me that some time ago as well, didn't you...?」%K%P
+
+0x500
+Some time ago...?%K%N
+
+0x50C
+That means...!?%K%P
+
+0x520
+Haruka「It's Sunday, April 7th...」%K%P
+
+0x52C
+Makoto「...」%K%P
+
+0x548
+Yuka「...」%K%P
+
+0x554
+Makoto「Sunday...」%K%P
+
+0x560
+Yuka「...April 7th.」%K%P
+
+0x56C
+Makoto「Then, we really were...」%K%P
+
+0x580
+Yuka「...Saved!」%K%P
+
+0x5B0
+Makoto and I triumphantly embrace each other.%K%P
+
+0x5BC
+I bury my face into Makoto's wide chest, while he bring%Nhis lips to my hair.%K%P
+
+0x5C8
+He has an aura filled with tranquility and kindness...%K%P
+
+0x5D4
+We hug each other even tighter...%K%P
+
+0x5E0
+Everyone「...」%K%P
+
+0x5EC
+...It takes me a moment to realize that everyone is%Nblatantly staring at us.%K%P
+
+0x5F8
+Makoto and I rapidly break off like nothing happened.%K%P
+
+0x604
+My cheeks are bright red.%K%P
+
+0x618
+Izumi「Ah ha... I see. So that's what it was～」%K%P
+
+0x634
+Saki「So the two of you eloped for a night and two days?」%K%P
+
+0x650
+Kurumi「Huh!? Is that true, Onii-chan?」%K%P
+
+0x65C
+Makoto「M-Mmm...」%K%P
+
+0x668
+Makoto「...Wait, before that, where did you go in the first place,%NKurumi!?」%K%P
+
+0x67C
+Kurumi「'Where'?」%K%P
+
+0x688
+Makoto「Yesterday morning!」%K%P
+
+0x69C
+Kurumi「Oh, that?」%K%P
+
+0x6A8
+Kurumi「Kurumi was looking for that puppy.」%K%P
+
+0x6B4
+Kurumi「It was out in that downpour, so she felt sorry that it had%Nto be outside...」%K%P
+
+0x6C8
+...%K%P
+
+0x6DC
+Yuka「Saki...」%K%P
+
+0x6F8
+Saki「Hmm?」%K%P
+
+0x704
+Yuka「Umm... I didn't realize it at all...」%K%P
+
+0x710
+Saki「???」%K%P
+
+0x71C
+Yuka「The meaning of the perfume... the purple...」%K%P
+
+0x730
+Saki「Umm...」%K%P
+
+0x73C
+Saki「I don't really get what you're saying...」%K%P
+
+0x750
+Yuka「Huh? But, the perfume you gave me...」%K%P
+
+0x75C
+Yuka「It means 'Early feelings of love', or 'the sprouting of love',%Ndoesn't it...?」%K%P
+
+0x780
+Saki「Ah, right... that?」%K%P
+
+0x794
+Saki「I see, so that's how you interpreted it.」%K%P
+
+0x7A0
+Yuka「...??」%K%P
+
+0x7AC
+Saki「Yuka? Do you know the song 'When Lilas Flourish'?」%K%P
+
+0x7B8
+Yuka「...Lilas...?」%K%P
+
+0x7D4
+Izumi「It was a famous chanson created in France...」%K%P
+
+0x7E0
+Izumi「'Lila' is French for lilac.」%K%P
+
+0x7EC
+Izumi「'When Lilas Flourish' means...」%K%P
+
+0x7F8
+Izumi「...That the best days of a person's life is occurring.」%K%P
+
+0x814
+Saki「Do you understand?」%K%P
+
+0x828
+Just then, Saki pulls me close, and whispers into my ear.%K%P
+
+0x83C
+Saki「For me, it's been these seven days... And for you, it's%Nyour future...」%K%P
+
+0x848
+Saki「...In other words, that's what it's about!」%K%P
+
+0x854
+Saki「To you, the best time of your life isn't over... It's just%Nbeginning!」%K%P
+
+0x860
+Yuka「Saki...」%K%P
+
+0x874
+Saki「I can't... look back at the past, can I?」%K%P
+
+0x880
+Yuka「...」%K%P
+
+0x88C
+Yuka「Nope♪」%K%P
+
+0x9C8
+And so, the two of us have arrived at Moon Beach.%K%P
+
+0x9D4
+Makoto and I made a promise... "We'll see the sunrise of%Nthe 7th together."%K%P
+
+0x9E0
+―Today's the 7th.%K%P
+
+0x9EC
+It's the start of the morning...%K%P
+
+0x9F8
+The morning sun is now beginning to slowly rise from%Nbeyond the golden ocean...%K%P
+
+0xA04
+"Will free you from time."%K ―That surely meant "to be%Nreleased from the infinite loop's flow of time"...%K%P
+
+0xA10
+"At the end of the cape"%K ―That was probably%Nindicating, "The real end of the cape"...In other words, "in%Nthe ocean."%K%P
+
+0xA1C
+Right now, we've been released...%K%P
+
+0xA34
+Makoto「Yuka?」%K%P
+
+0xA48
+Yuka「Hmm?」%K%P
+
+0xA54
+Makoto「With this, everything's over, huh?」%K%P
+
+0xA78
+Yuka「...」%K%P
+
+0xA84
+Makoto「?」%K%P
+
+0xA90
+Yuka「You're wrong... Nothing has... ended...」%K%P
+
+0xA9C
+Yuka「Everything begins from now on...」%K%P
+
+0xAB8
+Yuka「Makoto...?」%K%P
+
+0xACC
+Yuka「From now on, will you always... stay by my side?」%K%P
+
+0xAD8
+Makoto「Yeah... I'll always be by your side, Yuka...」%K%P
+
+0xAE4
+Makoto「From now on and always... for eternity...」%K%P
+
+0xAF0
+Makoto「We'll be together...」%K%P
+
+0xB04
+Yuka「Yeah...」%K%P
+
+0xB58
+In the dazzling morning light, Makoto and I kiss each%Nother the first time.%K%P
+
+0xB64
+It's as if it's a familiar kiss that I've felt for many years.%K%P
+
+0xB70
+If a complete stranger saw us right now, they wouldn't%Nthink by any means that we had only just met eight days%Nago.%K%P
+
+0xB7C
+But then again... isn't that obvious...?%K%P
+
+0xB88
+After all, Makoto and I have spent hundreds of millions of%Nyears together...%K%P
+

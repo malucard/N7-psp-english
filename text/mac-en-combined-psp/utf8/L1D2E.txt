@@ -1,0 +1,60 @@
+text area offset and size:
+0x290
+0x596
+0xA8
+Everyone seems to be at ease on the way back.%K%P
+
+0xB4
+I guess you could say that the tension in the%Natmosphere somehow unwinded.%K%N
+
+0xC0
+Everybody seems to be relieved that everything turned%Nout all right.%K%P
+
+0xCC
+The fiery, red sunset is also probably contributing to%Nthe calm, feel good mood.%K%P
+
+0xD8
+However...%K%P
+
+0xE4
+However, I'm probably the only one still anxious.%K%N
+
+0xF0
+It's because of Yuka's words from before we arrived at%Nthe harbor...%K%P
+
+0xFC
+―I have a bad feeling about this.%K%P
+
+0x108
+She was right...%K%N
+
+0x114
+Looking back on it, I regret that I didn't listen to what%NYuka said at that time.%K%P
+
+0x120
+As I walk down the road, I look over my shoulder.%K%N
+
+0x12C
+Right now, Yuka is happily smiling while engrossed in a%Nconversation with Izumi-san, who is walking by her side.%K%P
+
+0x138
+(A bad feeling, huh...)%K%P
+
+0x144
+My mind becomes foggy, as if enveloped in a thick mist...%K%P
+
+0x1CC
+When we all return to Lunabeach, we casually relax on%Nthe open terrace and continue to chat.%K%P
+
+0x1D8
+We mainly talk about what we were all thinking and doing%Nwhen Saki was swallowed by that monstrous wave and%Npraising Izumi-san for her heroic act of diving into the%Nocean and saving her.%K%P
+
+0x1E4
+Izumi-san is unaware of all the compliments she's%Nreceiving since she's alone in the kitchen, using%Nwhatever food she has to prepare us dinner.%K%P
+
+0x1F0
+We're all ecstatic to eat her wonderful cooking again.%K%P
+
+0x1FC
+In ten years, it wouldn't surprise me if Izumi-san becomes%Na world renowned chef.%K%P
+

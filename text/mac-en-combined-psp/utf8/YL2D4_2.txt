@@ -1,0 +1,453 @@
+text area offset and size:
+0xE30
+0x1DC5
+0x74
+The preparations are finally in order. Everyone is each%Nholding a paper cup.%K%P
+
+0x80
+Inside the cups are ice cold beer. (However, Kurumi and%NHaruka have orange juice.)%K%P
+
+0x8C
+Savory smoke begins to rise from the iron plate.%K%P
+
+0xA0
+Izumi「Well then, shall we make a toast?」%K%P
+
+0xAC
+Izumi「The one to lead off the toast will be... right. Leader of the%NKawashima Party, would you do the honors?」%K%P
+
+0xC8
+Yuka「Eheh♪ I thought you'd say that♪」%K%P
+
+0xD4
+Everyone's eyes immediately turn to Yuka.%K%P
+
+0xE0
+Yuka「Ahem...」%K%P
+
+0xEC
+Yuka「Very well then, to our chance meeting...」%K%P
+
+0xF8
+Yuka「And it's a little late, but also to Saki's recovery...」%K%P
+
+0x114
+Saki「Huh? My... recovery...?」%K%P
+
+0x120
+Yuka「...」%K%P
+
+0x12C
+Dammit, way to go, Yuka...%K%P
+
+0x148
+Yuka「... Yeah. Don't you remember?」%K%P
+
+0x154
+Yuka「Weren't you hospitalized for pneumonia once during%Nmiddle school?」%K%P
+
+0x168
+Saki「Now that you mention it, that's true...」%K%P
+
+0x17C
+Saki「... Hey, isn't it way too late for that!?」%K%P
+
+0x188
+Yuka「But it's better late than never, right?」%K%P
+
+0x1A4
+Yuka「Anyway, is everyone ready?」%K%P
+
+0x1B0
+Yuka「Well then, cheers♪」%K%P
+
+0x1BC
+Everyone「Cheers!」%K%P
+
+0x1D0
+Well, that was awkward, but at least she was able to pull%Nit off...%K%P
+
+0x274
+Everyone is much more cheerful than last time.%K%P
+
+0x280
+I can't find one speck of gloom on Saki's expression,%Nand Haruka is in an unusually good mood.%K%P
+
+0x28C
+(Ah...)%K%P
+
+0x298
+Looking at Haruka jogs my memory.%K%P
+
+0x2A4
+Hell's about to break loose any second now...%K%P
+
+0x2B0
+...%K%P
+
+0x2BC
+Haruka「This...」%K%P
+
+0x2C8
+Haruka takes out a plastic bag.%K%P
+
+0x2D4
+Inside are some familiar small, living creatures, closely%Npacked and crowded together.%K%P
+
+0x324
+Yuka「Ah! There's crabs here♪」%K%P
+
+0x338
+As if sensing the event that's about to come, Yuka%Nquickly runs away.%K%P
+
+0x344
+I nonchalantly go around Okuhiko and stand behind him.%K%P
+
+0x37C
+Kurumi「Haruka-san? What's that?」%K%P
+
+0x388
+Kurumi asks innocently.%K%P
+
+0x39C
+Haruka「Sea roaches.」%K%P
+
+0x3A8
+Okuhiko「Wh-Wh-Wh-What d-do you intend to do with them,%NHaruka-chan?」%K%P
+
+0x3B4
+Haruka「Eat them.」%K%P
+
+0x3C0
+Okuhiko「... Huh?」%K%P
+
+0x3CC
+Izumi「... Huh?」%K%P
+
+0x3D8
+Saki「... Huh?」%K%P
+
+0x3F4
+Kurumi「... But they might be surprisingly tasty!」%K%P
+
+0x400
+Kurumi mutters this.%K%P
+
+0x40C
+Saki「Th-There's no way something like that would be good!」%K%P
+
+0x428
+Haruka「... Shall I try grilling them?」%K%P
+
+0x434
+Saki「Hey, listen to what people are saying, dammit!」%K%P
+
+0x440
+Kurumi「Grill them, grill them, grill the sea roaches♪」%K%P
+
+0x44C
+Saki「Don't grill them!」%K%P
+
+0x460
+In the time she says that, Haruka has almost finished%Nopening the plastic bag.%K%P
+
+0x46C
+I smoothly bind Okuhiko's arms behind his back so he%Ncan't try to run away.%K%P
+
+0x480
+Okuhiko「Huh? Ishihara... what are you doing?」%K%P
+
+0x49C
+―And in the next instant.%K%P
+
+0x4A8
+The opening to the plastic bag opens up, and the large%Ngroup of sea roaches scatter.%K%P
+
+0x4BC
+Okuhiko「GWAAAAGH!!!」%K%P
+
+0x4EC
+Okuhiko screams...%K%P
+
+0x4F8
+Saki and Izumi-san vanish at top speed.%K%P
+
+0x504
+Fortunately, none of the sea roaches scatter on top of%Nthe iron plate, and they go every each way...%K%P
+
+0x510
+... However, several of them climb up Okuhiko's body.%K%P
+
+0x524
+Okuhiko「AAAAAAAAH!!!」%K%P
+
+0x538
+Okuhiko「Let me go, Ishihara, let me go, let me go!」%K%P
+
+0x54C
+Okuhiko「GAAAAAAAH!!!」%K%P
+
+0x560
+Okuhiko「They're getting in my pants, they're getting in my pants,%Nthey're getting in my pants, they're getting in my pants...」%K%P
+
+0x574
+Okuhiko「HYAAAAAAAH!!!」%K%P
+
+0x588
+Wham...%K%P
+
+0x594
+Okuhiko completely faints...%K%P
+
+0x5A0
+Soon enough... everyone timidly comes back.%K%P
+
+0x5B4
+Haruka「But...」%K%P
+
+0x5C8
+Kurumi「... We wanted to eat them.」%K%P
+
+0x5D4
+Haruka and Kurumi slump their shoulders in%Ndisappointment...%K%P
+
+0x650
+About an hour has passed since then.%K%P
+
+0x65C
+The party's in full swing. Due to the sea roach incident,%Nwe've become more lively.%K%P
+
+0x668
+Everything is calm as we fool around and poke fun at%Neach other... it's as noisy as ever.%K%P
+
+0x674
+I think now's the best time to tell Yuka about my plan for%Nus to "be together with Kurumi all night", so...%K%P
+
+0x688
+... I secretly call Yuka over towards the rocks, a short%Ndistance away from the party.%K%P
+
+0x69C
+Yuka「Wha ish it, Mako-tan? Doo yuu have shom buishnessh%Nwith me?」%K%P
+
+0x6A8
+Makoto「Yeah, there's something important I have to talk to you%Nabout.」%K%P
+
+0x6B4
+Yuka「...」%K%P
+
+0x6C0
+Makoto「... W-What is it?」%K%P
+
+0x6D4
+Yuka「... Lesshee... ish it a confesshun of love?」%K%P
+
+0x6E0
+Makoto「I-Idiot, there's no way it'd be that!」%K%P
+
+0x6F4
+Yuka「C'mon, Mako-tan♪ If that's it, then yuu shuld hurry up%Nand shay it♪」%K%P
+
+0x700
+Makoto「...」%K%P
+
+0x714
+Yuka「Mako-tan, the truth ish... I alsho lo...」%K%P
+
+0x730
+Huh...?%K%P
+
+0x758
+My heart is beating furiously.%K%P
+
+0x76C
+Yuka「Kyahahahahahahaha♪」%K%P
+
+0x778
+Yuka「That wash a lie, a joke♪」%K%P
+
+0x7A0
+Y-You...%K%P
+
+0x7AC
+Yuka「I thought it'd be funny if I made a little fun of yuu♪」%K%P
+
+0x7B8
+Yuka「Yer sho cute... when yuu look troubled♪」%K%P
+
+0x7C4
+Makoto「...」%K%P
+
+0x7D8
+Yuka「Sho? Whash that shomething important yuu wanted to%Ntalk about?」%K%P
+
+0x7E4
+Makoto「Haah...」%K%P
+
+0x7F8
+With a deep sigh, I tell Yuka my plans for Kurumi...%K%P
+
+0x804
+...%K%P
+
+0x818
+Yuka「I shee. Sho that'sh it...」%K%P
+
+0x824
+Makoto「You'll help me, right?」%K%P
+
+0x830
+Yuka「Of course!」%K%P
+
+0x83C
+Makoto「... Hey, did you really understand a word of what I just%Nsaid now?」%K%P
+
+0x848
+Yuka「Geez, ish faine!」%K%P
+
+0x85C
+Yuka「Jusht leave it to meee! Nahahahaha...♪」%K%P
+
+0x868
+Maybe I should have waited until she was sober before%Nbringing this up...%K%P
+
+0x874
+That's what I think.%K%P
+
+0x890
+―And at that time!%K%P
+
+0x8B8
+The sound of water splashing echoes!%K%P
+
+0x8C4
+This sound... It's exactly like the one I heard at the last%Nbarbecue.%K%P
+
+0x8D0
+I don't need to turn around to understand the situation.%K%P
+
+0x8DC
+Saki's hand accidentally slipped, and she spilled the%Nbeer in her paper cup on Yuka.%K%P
+
+0x8E8
+―Huh??? ... Yuka???%K%P
+
+0x8F4
+But Yuka's in front of me right now, isn't she?%K%P
+
+0x900
+(Which means...?)%K%P
+
+0x940
+I try slowly turning around...%K%P
+
+0x94C
+By the iron plate... Saki is holding a now empty paper cup.%K%P
+
+0x958
+And the beer has landed on...%K%P
+
+0x96C
+―Kurumi!%K%P
+
+0x978
+Kurumi's clothes are soaked from her chest to the%Nbottom of her shirt.%K%P
+
+0x984
+(I see...)%K%P
+
+0x990
+Because Yuka wasn't in the ring of people, the person%Nwho was next to her originally, Kurumi, was directly hit...%K%P
+
+0x99C
+Kurumi「H-Hey, Saki-san...」%K%P
+
+0x9A8
+Saki「... S-Sorry.」%K%P
+
+0x9B4
+Everyone becomes completely silent.%K%P
+
+0x9C0
+Saki「I'm really sorry.」%K%P
+
+0x9CC
+... She sounds genuinely apologetic, meaning every word.%K%P
+
+0x9D8
+As a further gesture of apology, Saki begins to wipe the%Nbeer off of Kurumi's clothes with a dish cloth.%K%P
+
+0x9E4
+Okuhiko doesn't make any stupid jokes, and keeps his%Nmouth shut.%K%P
+
+0x9F0
+Naturally, Haruka also stays put, not showing any signs%Nof agitation.%K%P
+
+0x9FC
+Just then...%K%P
+
+0xA08
+Izumi「Geez, Saki-chan, are you sure you're not drunk?♪」%K%P
+
+0xA14
+Okuhiko「Ha ha, that was pretty careless of you, Saki-chan♪」%K%P
+
+0xA20
+Haruka「Hee hee hee hee...」%K%P
+
+0xA2C
+Saki「Ahahahaha...」%K%P
+
+0xA38
+Kurumi「Eheheheh...」%K%P
+
+0xA4C
+Everyone「Kyahahahahahaha...♪」%K%P
+
+0xA74
+... Everyone bursts into laughter.%K%P
+
+0xA80
+They cheerfully laugh at Saki's blunder, as if trying to%Npoke fun at her and brush the incident off.%K%P
+
+0xA8C
+Of course, Kurumi's bright smile returns too.%K%P
+
+0xA98
+Saki sheepishly grins at all the teasing.%K%P
+
+0xAA4
+It's as if... anything and everything's all changed.%K%P
+
+0xAB0
+The atmosphere from last time has suddenly changed to%Na harmonious atmosphere.%K%P
+
+0xABC
+Why...?%K%P
+
+0xAC8
+I don't even have to think about it.%K%P
+
+0xAD4
+Once again, a bad history has changed into a good one.%K%P
+
+0xAE0
+However, this one is special because history has%Nchanged without us directly interfering with it.%K%P
+
+0xAEC
+We didn't think about trying to prevent the fight, but,%Nthankfully, history changed for us.%K%P
+
+0xAF8
+This is just like that story, "When the wind blows, the%Nbarrel makers profit."%K%P
+
+0xB04
+Could it be that even luck is on our side now?%K%P
+
+0xB10
+When I think that, I get into a kinda giddy mood.%K%P
+
+0xB1C
+It's a little later... but Yuka and I began to laugh much%Nlouder than the others...%K%P
+
+0xB28
+... After that, the laughter doesn't cease until the%Nbarbecue ends...%K%P
+

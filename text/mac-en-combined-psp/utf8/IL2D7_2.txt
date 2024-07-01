@@ -1,0 +1,105 @@
+text area offset and size:
+0x5C8
+0x562
+0x7C
+Before long... it begins to rain.%K%P
+
+0x88
+Makoto「It's... raining, huh?」%K%P
+
+0x9C
+Izumi「That's right... Even though the weather was so good up%Nuntil now...」%K%P
+
+0xA8
+Makoto「...」%K%P
+
+0xB4
+Izumi「...」%K%P
+
+0xC0
+Makoto「...」%K%P
+
+0xCC
+Izumi「...」%K%P
+
+0xD8
+Makoto「Hey?」%K%P
+
+0xE4
+Izumi「Yes?」%K%P
+
+0xF0
+Makoto「Can we... go outside?」%K%P
+
+0x104
+Izumi「Huh?」%K%P
+
+0x110
+Makoto「There's somewhere I want to go with you...」%K%P
+
+0x11C
+Izumi「???」%K%P
+
+0x1DC
+We leave.%K%N
+
+0x1E8
+We head towards my goal while getting under a single%Numbrella.%K%P
+
+0x208
+Izumi「Hey, where do you plan on going?」%K%P
+
+0x214
+Makoto「You'll know when we get there...」%K%P
+
+0x220
+Izumi-san nestles close to me under the small umbrella.%K%N
+
+0x22C
+I tilt the umbrella to prevent her shoulders from getting%Nwet.%K%P
+
+0x238
+Izumi-san silently returns it to its original position.%K%N
+
+0x244
+Her soft palm touches my wrist.%K%P
+
+0x268
+The sensation of her palm makes me a little%Nembarrassed...%K%P
+
+0x27C
+The sound of the rain against the umbrella is like a%Ngentle melody...%K%P
+
+0x2D8
+Izumi「This... is Princess Beach... isn't it?」%K%P
+
+0x2E4
+Right...%K%N
+
+0x2F0
+This is the place I wanted to go.%K%P
+
+0x2FC
+Makoto「Wow... so there really are some places on this island%Nwhose location you're not sure about, huh?」%K%P
+
+0x310
+Izumi「Hey, don't make fun of me! That's not true at all!」%K%P
+
+0x324
+Izumi「... But why here?」%K%P
+
+0x330
+Makoto「...」%K%P
+
+0x34C
+Izumi「...」%K%P
+
+0x358
+Makoto「...」%K%P
+
+0x36C
+Izumi「A lot of things happened in these past ten days.」%K%P
+
+0x378
+Makoto「... Yeah.」%K%P
+

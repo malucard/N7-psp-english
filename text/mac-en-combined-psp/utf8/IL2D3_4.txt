@@ -1,0 +1,225 @@
+text area offset and size:
+0x738
+0xFA8
+0x40
+When I come to, I am lying on top of one of the tables in%NLunabeach for some reason.%K%P
+
+0x4C
+Did I start sleepwalking when I wasn't paying attention...?%K%N
+
+0x58
+No, I was probably just distracted with something else...%K%P
+
+0x64
+... Another strange thing happened too. ... Yuka's%Ncompletely back to normal.%K%P
+
+0x70
+She's acting as if what happened earlier never%Noccurred.%K%P
+
+0x7C
+...%K%P
+
+0x88
+Once the others see that I'm awake, we begin the next%Nstrategy meeting.%K%P
+
+0xA4
+We decide to let time flow normally by letting tomorrow be%N"April 4th".%K%P
+
+0xD4
+Izumi「... Agreed? We can continue tricking Okuhiko until%Ntomorrow night, but I think we should end it there.」%K%P
+
+0xE0
+As expected, she's probably feeling guilty about%Ncontinuing to deceive Okuhiko.%K%P
+
+0xEC
+The others and I feel the same way.%K%P
+
+0xF8
+Everyone accepts Izumi-san's proposal.%K%P
+
+0x10C
+When she sees that, Izumi-san smiles.%K%P
+
+0x120
+Izumi「There are two points of concern for tomorrow.」%K%P
+
+0x12C
+Once again, Izumi-san's face turns serious.%K%P
+
+0x138
+The first point is that there will be no earthquake%Ntomorrow during the daytime.%K%P
+
+0x144
+Izumi「But we can't do anything about that.」%K%P
+
+0x150
+Makoto「Well, we'd be really lucky if one happened by chance%Ntomorrow...」%K%P
+
+0x15C
+The second thing is about Kurumi's disappearance.%K%P
+
+0x168
+Izumi「Without Kurumi present... all we can do is to decide not to%Nhave it take place.」%K%P
+
+0x174
+Makoto「You're right...」%K%P
+
+0x180
+Yuka and Saki also have resigned expressions.%K%N
+
+0x18C
+But...%K%P
+
+0x1E0
+Haruka「Wait a minute...」%K%P
+
+0x1EC
+... Haruka steps in.%K%P
+
+0x1F8
+Haruka「I'll... go missing.」%K%P
+
+0x20C
+Izumi「Huh? You will, Haruka-chan?」%K%P
+
+0x218
+Makoto「H-Haruka... you...」%K%P
+
+0x224
+Haruka「If that happens... then I think Okuhiko will desperately go%Nsearching for me.」%K%P
+
+0x230
+No one objects.%K%P
+
+0x23C
+In the end, it's decided that Haruka will disappear in%NKurumi's place.%K%P
+
+0x26C
+Before long, the meeting ends, and everyone quietly%Nstands up.%K%P
+
+0x278
+Everyone looks reluctant to part...%K%P
+
+0x284
+When I see that, I understand.%K%P
+
+0x290
+Why has it been that up until now, everyone's been%Nserious about deceiving Okuhiko?%K%P
+
+0x2B8
+(None of us... want to part.)%K%P
+
+0x2C4
+("I want this fun story to continue forever,"... That's what%Nwe're all wishing.)%K%P
+
+0x2D0
+I feel the same as the others.%K%P
+
+0x2DC
+Originally, the Camp was already supposed to be over,%Nand we were supposed to have returned to our normal%Nlives by now.%K%P
+
+0x2E8
+But we all wanted to find a way to forcefully extend it so%Nthat we could continue remaining here.%K%P
+
+0x2F4
+"Deceiving Okuhiko." ―The only reason we're doing%Nthat is to stay here...%K%P
+
+0x300
+And tomorrow, that all ends.%K%P
+
+0x328
+(Izumi-san...!)%K%P
+
+0x350
+I yearn for Izumi-san again.%K%P
+
+0x35C
+This will end tomorrow, but when I think about how I'll have%Nto leave the day after that, I can't help but feel rushed.%K%P
+
+0x368
+―There's no more time!%K%N
+
+0x374
+I still haven't told Izumi-san how I feel!%K%P
+
+0x380
+Makoto「Izumi-san... Is it okay if I stay over here tonight?」%K%P
+
+0x394
+Izumi「What?」%K%P
+
+0x3BC
+Saki「!?」%K%P
+
+0x3D0
+Haruka「...」%K%P
+
+0x3F8
+Yuka「Wh-What are you saying, Makoto?」%K%P
+
+0x404
+Makoto「I'm... so sleepy... I don't want to go back to the lodge.」%K%P
+
+0x42C
+Izumi「B-But...」%K%P
+
+0x438
+Izumi-san is glancing at the second floor for some%Nreason.%K%P
+
+0x444
+Is she worried about whether or not I'll have a place to%Nsleep?%K%N
+
+0x450
+Or could it be...?%K%P
+
+0x45C
+(It's all right, Izumi-san...)%K%P
+
+0x468
+(It's not like I said I wanted to sleep here because I'd%Nplanned on doing THAT.)%K%P
+
+0x474
+(All I want to do is tell her...)%K%P
+
+0x480
+(How I feel...)%K%P
+
+0x48C
+(That's why... I want to go to that place together... with%Nher!)%K%P
+
+0x498
+I approach the nervous Izumi-san.%K%P
+
+0x4EC
+However, just before I can reach her, Yuka stops me.%K%P
+
+0x4F8
+Makoto「O-OWWWWW...!!」%K%P
+
+0x504
+Yuka pulls on my ear with all her might.%K%P
+
+0x518
+Yuka「There's no way in hell that I'm letting you do that!」%K%P
+
+0x524
+Makoto「B... But...」%K%P
+
+0x530
+Yuka「As the leader, I will not allow any more selfish,%Nindependent actions of this kind!」%K%P
+
+0x578
+Yuka then leaves Lunabeach, dragging me by the ear%Nbehind her.%K%P
+
+0x58C
+Izumi-san sees me off with an anxious look.%K%P
+
+0x598
+It's all right... there's still tomorrow!%K%P
+
+0x5A4
+Tomorrow, I'll definitely settle this!%K%P
+
+0x5B0
+(Wait until then... Izumi-san...)%K%P
+

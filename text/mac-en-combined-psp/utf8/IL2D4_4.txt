@@ -1,0 +1,300 @@
+text area offset and size:
+0x798
+0x10C4
+0x70
+Makoto「Saki... what happened? This isn't... like you at all...」%K%P
+
+0x7C
+My words aren't very supportive.%K%N
+
+0x88
+Just then, all of the sudden...%K%P
+
+0x9C
+Saki「... Ghh... *sniff*...」%K%P
+
+0xA8
+... Saki starts crying.%K%P
+
+0xB4
+I instinctively panic.%K%P
+
+0xC0
+What kind of guy wouldn't panic if he saw a girl in front of%Nhim start to cry?%K%P
+
+0xCC
+...%K%N
+
+0xD8
+Well, maybe there are some who wouldn't...%K%P
+
+0xE4
+Saki「Why... did this happen...?」%K%P
+
+0xF0
+I don't know what to say.%K%N
+
+0xFC
+I can't find any good words.%K%P
+
+0x108
+Makoto「I-I...」%K%P
+
+0x114
+Makoto「Sorry... I'll go back to the others...」%K%P
+
+0x120
+Makoto「When you've calmed down... you should come too...」%K%P
+
+0x134
+I tell her this, and try to take my leave.%K%P
+
+0x140
+However, before I can walk away, Saki tightly grabs my%Narm.%K%P
+
+0x154
+Saki「Don't go...」%K%P
+
+0x160
+Makoto「Huh?」%K%P
+
+0x16C
+Since Saki's head is lowered, I can't read her expression.%K%P
+
+0x178
+Saki「Why... Why did you end up being the one to comfort me?」%K%P
+
+0x184
+Makoto「That's... because you were angry, of course.」%K%P
+
+0x190
+Saki「That's not it... Wouldn't you have preferred to comfort%NYuka?」%K%P
+
+0x19C
+Makoto「Not really. I can't handle Yuka that well when she's drunk...」%K%P
+
+0x1A8
+Saki「Is that... is that... really it?」%K%P
+
+0x1B4
+Makoto「?」%K%P
+
+0x1D0
+Saki「Makoto-kun, the truth is, I'm happy that you were the one%Nwho ended up comforting me.」%K%P
+
+0x1DC
+Makoto「...」%K%P
+
+0x1E8
+Saki「... Really happy.」%K%P
+
+0x1F4
+Makoto「I... I see...」%K%P
+
+0x200
+Makoto「Umm, we can talk about this later...」%K%P
+
+0x20C
+Makoto「It's about time to go back...」%K%P
+
+0x218
+Saki「Wait.」%K%P
+
+0x224
+Saki grabs my arm again.%K%P
+
+0x238
+Saki tugs my arm, and leads me behind the shade of a%Nlarge rock.%K%P
+
+0x244
+From here, I can't see the others.%K%P
+
+0x250
+But on the other hand, that means no one else can see%Nus...%K%N
+
+0x25C
+I-It can't be...%K%P
+
+0x270
+Saki「Before you go back, there's just one thing I want you to%Ndo...」%K%P
+
+0x298
+Makoto「... Wh-What is it?」%K%P
+
+0x2A4
+Saki「...」%K%P
+
+0x2B0
+Makoto「...」%K%P
+
+0x2BC
+Saki firmly stares into my eyes.%K%P
+
+0x2C8
+Her eyes are cloudy... Her cheeks are red...%K%P
+
+0x2D4
+(Th-This is...)%K%P
+
+0x2F0
+Saki「You still don't... get it?」%K%P
+
+0x2FC
+Makoto「I-I don't.」%K%P
+
+0x308
+It's more like I don't want to get it.%K%P
+
+0x314
+Izumi-san is close by.%K%P
+
+0x320
+I can't give into her temptation here!%K%P
+
+0x32C
+Saki「I still... haven't gotten it yet.」%K%P
+
+0x338
+Makoto「... Wh-What?」%K%P
+
+0x344
+Saki「... Geez... do I have to say it out loud?」%K%P
+
+0x350
+If it's possible, please don't say what I think you're going%Nto say...%K%P
+
+0x378
+Saki「My first kiss!」%K%P
+
+0x384
+Makoto「...」%K%P
+
+0x390
+Saki「I want to get it from you...」%K%P
+
+0x39C
+Makoto「...」%K%P
+
+0x3A8
+Saki brings her face close...%K%P
+
+0x3B4
+The pier within me known as reason slowly breaks apart...%K%P
+
+0x3C0
+My normal patterns of thinking are on the verge of%Ncollapse...%K%N
+
+0x3CC
+My lips are on the verge of landing on hers...%K%P
+
+0x3D8
+Saki's lips are waiting for me.%K%N
+
+0x3E4
+Saki's wet lips are waiting for me.%K%N
+
+0x3F0
+Saki's flower-like lips are waiting for me.%K%P
+
+0x3FC
+Izumi-san's face and Saki's face overlap.%K%P
+
+0x408
+I... I...%K
+
+0x770
+Go for the touchdown.
+
+0x77C
+I love Izumi-san!
+
+0x47C
+I gradually... blank out.%K%P
+
+0x488
+Saki... Saki...%K%P
+
+0x494
+Before long... my shadow becomes one with Saki's%Nshadow...%K%P
+
+0x4B0
+...%K%P
+
+0x4BC
+(... Did I... do... it?)%K%P
+
+0x4C8
+My consciousness grows faint, and I suddenly fall into a%Nwhite world...%K%P
+
+0x4DC
+(Izumi-san...!!)%K%P
+
+0x4E8
+I clench my hands into fists, and barely manage to%Nsqueeze my voice out.%K%P
+
+0x4F4
+Makoto「I'm sorry... I... can't.」%K%P
+
+0x508
+Saki begins to tremble.%K%P
+
+0x514
+Makoto「Um... it's not like... I hate you or anything, Saki.」%K%P
+
+0x520
+Makoto「It's just... well... I don't think we have that kind of%Nrelationship...」%K%P
+
+0x52C
+I'm talking frantically. It's as if I'm desperately making an%Nexcuse to justify myself.%K%P
+
+0x538
+Yes, that's probably it... my heart's throbbing so much%Nbecause I feel guilty.%K%P
+
+0x55C
+Saki「I see...」%K%P
+
+0x568
+Saki mutters this regretfully.%K%P
+
+0x574
+Makoto「I'm sorry...」%K%P
+
+0x580
+I apologize again.%K%P
+
+0x5B0
+Saki「Hmph... why didn't you just say it flat out?」%K%P
+
+0x5BC
+Saki「You wanted to say 'I can't kiss a girl I don't love', right?」%K%P
+
+0x5C8
+Saki「Geez... you're quite committed...」%K%P
+
+0x5D4
+Makoto「... Huh?」%K%P
+
+0x5E0
+Saki returns to her normal self as if nothing ever%Nhappened.%K%P
+
+0x5EC
+No, it's more like she's forcing herself to...%K%N
+
+0x5F8
+It's very painful being with Saki right now.%K%P
+
+0x60C
+Saki「But... before we go back, can you do one thing for me?」%K%P
+
+0x618
+Makoto「Huh?」%K%P
+
+0x63C
+... Saki's order:%K%P
+
+0x648
+"Receive your punishment from me." ―In other words,%Nlet her slap me once with all she's got.%K%P
+
+0x69C
+It hurts so much that I pass out...%K%P
+

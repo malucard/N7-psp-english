@@ -1,0 +1,414 @@
+text area offset and size:
+0xB20
+0x1B63
+0xBC
+I walk towards the girl in the downpour...%K%P
+
+0xC8
+There's no pain in my legs. I don't feel the cold, icy air.%K%P
+
+0xD4
+It feels like I'm walking on water...%K%P
+
+0xE0
+All I do is stare at the girl while I slowly make my way%Ntowards her.%K%P
+
+0xEC
+... Suddenly, the girl raises her head.%K%P
+
+0xF8
+When she sees me, her small mouth drops open.%K%P
+
+0x104
+The girl stands stock still, looking at me in blank%Namazement.%K%P
+
+0x110
+I gradually begin to close the distance between us...%K%N
+
+0x11C
+The girl's figure approaches...%K%P
+
+0x128
+And...%K%N
+
+0x134
+... she stands before my eyes.%K%P
+
+0x1AC
+I stand... right in front of Kurumi...%K%P
+
+0x1EC
+Makoto「Time travel...」%K%P
+
+0x1F8
+Makoto「What a ridiculous story... really...」%K%P
+
+0x204
+Makoto「A fairy tale sounds almost normal compared to it...」%K%P
+
+0x210
+Kurumi「...」%K%P
+
+0x22C
+Makoto「But you know what? To me, this has been the best time%NI've spent in this good for nothing world.」%K%P
+
+0x238
+Makoto「Yuka's optimistic laugh...」%K%P
+
+0x244
+Makoto「Haruka's unconventional behavior...」%K%P
+
+0x250
+Makoto「The face Saki would make when she got angry...」%K%P
+
+0x25C
+Makoto「Being wrapped up in Izumi-san's kindness...」%K%P
+
+0x268
+Makoto「All of those are precious memories...」%K%P
+
+0x274
+Kurumi「...」%K%P
+
+0x280
+Makoto「But...」%K%P
+
+0x28C
+Makoto「... To me, the greatest treasure of all is..」%K%P
+
+0x298
+Makoto「... You...」%K%P
+
+0x2A4
+Makoto「Your innocent smile... Your angelic smile... I wanted to%Nwatch over it forever.」%K%P
+
+0x2B0
+Kurumi「...」%K%P
+
+0x2BC
+Makoto「Kurumi...」%K%P
+
+0x2C8
+Makoto「Whether or not you believe what I'm about to tell you is%Ncompletely up to you.」%K%P
+
+0x2D4
+Makoto「But if you don't believe me, then...」%K%P
+
+0x2E0
+Makoto「I will disappear from this world.」%K%P
+
+0x2EC
+Makoto「I will end everything...」%K%P
+
+0x2F8
+Makoto「For the sake of severing this infinite loop...」%K%P
+
+0x304
+Kurumi「...」%K%P
+
+0x310
+Makoto「Almost at this exact time six days ago... I time traveled%Nfrom this shrine.」%K%P
+
+0x31C
+Makoto「Before that, I had spent six days with you.」%K%P
+
+0x328
+Kurumi「...」%K%P
+
+0x334
+Makoto「... Kurumi? Do you know why the ocean's water is so%Nsalty?」%K%P
+
+0x340
+Kurumi「... Huh?」%K%P
+
+0x34C
+Makoto「The ocean's water is the moon's tears. That's why it's so%Nsalty...」%K%P
+
+0x358
+Makoto「Because the moon was all alone, it was lonely, and would%Ncry during the night. 'Sob, sob... sob, sob'...」%K%P
+
+0x364
+Makoto「Even so, the moon was still lonely, and so its tears gave%Nbirth to children. A lot of children...」%K%P
+
+0x370
+Makoto「The child of the moon and the sea, the jellyfish...」%K%P
+
+0x37C
+Makoto「Kurumi, you want to be like a jellyfish, right?」%K%P
+
+0x388
+Makoto「You want to gently float in the sea from day to night...」%K%P
+
+0x394
+Kurumi「... Onii... chan...」%K%P
+
+0x3A0
+Makoto「And there's my dream... I haven't told you it yet, have I?」%K%P
+
+0x3AC
+Makoto「My dream... is to get married to a kind wife.」%K%P
+
+0x3B8
+Makoto「When I come home from work all exhausted, she would%Nfirst give me a bowl of warm soup.」%K%P
+
+0x3C4
+Makoto「She'll prepare a warm bath for me... and pour me a cup of%Nwarm sake...」%K%P
+
+0x3D0
+Makoto「Our kids will get between us, and we'll all have warm%Nsmiles rise to our faces...」%K%P
+
+0x3DC
+Makoto「In the summer, we'll leave the windows open, and the%Nwhole family will watch a night game on TV while listening%Nto the wind chimes...」%K%P
+
+0x3E8
+Makoto「In the winter, we'll wrap ourselves up in a kotatsu, and%Nwatch cold medicine commercials while eating oranges...」%K%P
+
+0x3F4
+Makoto「We won't need anything special... Just ordinary days...%Nas a very plain, ordinary family...」%K%P
+
+0x400
+Makoto「At night, she will bury her face in my chest... and sleep%Nsoundly...」%K%P
+
+0x40C
+Kurumi「... How...? Onii-chan, how did...?」%K%P
+
+0x418
+I spread open my palm.%K%P
+
+0x424
+In there is the soaking wet "me".%K%P
+
+0x430
+And then, I carefully unfold it so that I don't rip it... and%Nrestore it to its original square form.%K%P
+
+0x43C
+I crouch down at Kurumi's feet, and begin to fold it.%K%P
+
+0x448
+The paper and the ground are wet, so it's very hard to%Ndo.%K%P
+
+0x454
+But I become determined and keep folding it with all I've%Ngot.%K%P
+
+0x460
+Eventually, I finish folding, and then... I very carefully...%Nhold it up between my fingertips...%K%P
+
+0x46C
+Kurumi「That... that folding method...」%K%P
+
+0x478
+The finished product is...%K%P
+
+0x484
+Makoto「Look... it's Kurumi Unit 17.」%K%P
+
+0x490
+Kurumi「Why...?」%K%P
+
+0x49C
+Kurumi「Even though... Kurumi's the only one who knows that%Nmethod... Why...?」%K%P
+
+0x4A8
+Makoto「...」%K%P
+
+0x4B4
+Kurumi「Is... it true...?」%K%P
+
+0x4C0
+Kurumi「Did you really... time travel...?」%K%P
+
+0x4CC
+I give a deep nod.%K%P
+
+0x4D8
+Kurumi「You're lying...」%K%P
+
+0x4E4
+Makoto「It's not a lie...」%K%P
+
+0x4F0
+Makoto「It's not a lie, Kurumi...」%K%P
+
+0x4FC
+I embrace Kurumi.%K%N
+
+0x508
+Softly, tenderly...%K%P
+
+0x514
+And then, I reach out for Kurumi's back.%K%N
+
+0x520
+I gently touch her scar.%K%P
+
+0x52C
+Kurumi「Onii-chan...」%K%P
+
+0x538
+Makoto「Kurumi...」%K%P
+
+0x544
+Makoto「Kurumi... I love you...」%K%P
+
+0x550
+Makoto「I love everything about you...」%K%P
+
+0x55C
+Kurumi「...」%K%P
+
+0x568
+Makoto「I want you to be by my side...」%K%P
+
+0x574
+Makoto「Always... for eternity...」%K%P
+
+0x580
+Kurumi「Onii-chan...」%K%P
+
+0x5EC
+Kurumi and I kiss each other on the lips.%K%N
+
+0x5F8
+Her lips are light and supple...%K%P
+
+0x604
+The tip of her small tongue touches mine.%K%N
+
+0x610
+The cold, wet sensation is transferred into me.%K%P
+
+0x61C
+Kurumi's lively breath was overflowing from her lips.%K%P
+
+0x628
+Raindrops flowing down our cheeks melted into our%Nmouths.%K%P
+
+0x634
+Smooth liquid... Spreading, flowing...%K%P
+
+0x640
+... The tip of my nose grazes her soft cheek.%K%N
+
+0x64C
+A childish scent is emitted from that cheek.%K%P
+
+0x658
+Her pure, innocent scent is brimming with life.%K%P
+
+0x664
+(Kurumi... is alive right here, right now...)%K%P
+
+0x670
+... Before long, our lips gently part.%K%N
+
+0x67C
+And then, we embrace each other as hard as we can.%K%P
+
+0x688
+Kurumi buries her face in my chest, trembling as she%Ncries.%K%P
+
+0x694
+Her scar warms my palm up.%K%P
+
+0x6A0
+Kurumi「Same... here.」%K%P
+
+0x6AC
+Kurumi「Onii-chan...」%K%P
+
+0x6B8
+Kurumi「... I love you...」%K%P
+
+0x6C4
+Makoto「... Kurumi...」%K%P
+
+0x6D0
+Kurumi「It's warm...」%K%P
+
+0x6DC
+Kurumi「Onii-chan, your chest is...」%K%P
+
+0x6E8
+Kurumi「Very warm...」%K%P
+
+0x6F4
+As we are soaked by the rain, Kurumi and I become one.%K%P
+
+0x700
+Our bodies press together as if they're melting into%Neach other.%K%P
+
+0x70C
+The pelting rain continues to strike us.%K%P
+
+0x718
+We're not bothered by its chill.%K%P
+
+0x724
+Our bodies are burning up like a sun...%K%P
+
+0x77C
+Even if I go to the shrine right now, Kurumi probably won't%Nbe there.%N
+
+0x788
+She's definitely somewhere else.%K%P
+
+0x794
+I've got to find Kurumi by any means necessary before%Nshe arrives at the shrine...%K%P
+
+0x7A0
+There's no hesitation within me.%K%P
+
+0x7AC
+(I will definitely change history...)%K%P
+
+0x7B8
+I endure the pain, and begin to walk, dragging my legs%Nalong...%K%P
+
+0x860
+Before I know it, the drizzle becomes a constant rain.%K%P
+
+0x86C
+I desperately continue to walk as the rain hits me.%K%P
+
+0x878
+I look for Kurumi...%K%P
+
+0x934
+In my dim consciousness, I hear Kurumi's voice out of%Nnowhere...%K%P
+
+0x940
+Kurumi「Ready! ... Go!」%K%P
+
+0x94C
+Kurumi「Go, go!」%K%P
+
+0x958
+Kurumi「GOOOOO～～!」%K%P
+
+0x964
+Kurumi「Ring out! Sumo Crab wins～♪」%K%P
+
+0x970
+I want to look at it forever...%K%P
+
+0x97C
+I want to forever... watch over that angelic smile...%K%P
+
+0x9BC
+Kurumi「Cross-my-heart-and-hope-to-die If-you-lie...♪」%K%P
+
+0x9C8
+Kurumi「Ah... what should we do if you lie?」%K%P
+
+0x9D4
+Kurumi「Let's see...」%K%P
+
+0x9E0
+Kurumi「If you lie, kiss Kurumi on the cheek... okay?」%K%P
+
+0xA20
+Kurumi「And she's decided to call Makoto-kun 'Onii-chan'♪」%K%P
+
+0xA2C
+Kurumi「Is that all right, Onii-chan?」%K%P
+

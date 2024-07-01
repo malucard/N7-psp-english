@@ -1,0 +1,42 @@
+text area offset and size:
+0x208
+0x2F8
+0x7C
+Yuka「Geez, why did you all come back here!?」%K%P
+
+0x88
+Yuka enters the shop looking furious.%K%P
+
+0x94
+It seems she's finally come back after getting her%Nswimsuit from the lodge.%K%P
+
+0xA0
+Yuka「When I went to the pool, no one was there!」%K%P
+
+0xB4
+Yuka「Look!! I even went to the trouble of putting my swimsuit%Non...」%K%P
+
+0xC8
+Yuka suddenly rolls her skirt up to illustrate her point.%K%P
+
+0xD4
+She's wearing a bikini.%K%P
+
+0xE0
+A tingling, electrical current runs through my pituitary%Ngland.%K%P
+
+0xEC
+"It's a swimsuit! What's so great about a swimsuit!?" I try%Nto convince myself of this.%K%P
+
+0xF8
+However... hey, no! You stay down!%K%P
+
+0x10C
+Okuhiko「Y-Yuka... chan...」%K%P
+
+0x13C
+As soon as Okuhiko says this, blood pours from his%Nnose.%K%P
+
+0x148
+This is the first time I've ever seen a guy have a%Nnosebleed...%K%P
+

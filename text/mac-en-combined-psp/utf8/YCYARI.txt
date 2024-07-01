@@ -1,0 +1,288 @@
+text area offset and size:
+0x8B0
+0x13B8
+0x90
+Makoto「Well then, ready to go?」%K%P
+
+0x9C
+Just as I take a step forward...%K%P
+
+0xA8
+Izumi「Wait a minute!」%K%P
+
+0xC4
+Yuka「Ah, what's wrong, Izumi-san?」%K%P
+
+0xD0
+Izumi「Sorry. I forgot to tell you something...」%K%P
+
+0xDC
+Makoto「?」%K%P
+
+0xE8
+Izumi「We have a bike by the side of the shop. Please take it.」%K%P
+
+0xFC
+Yuka「A bike?」%K%P
+
+0x108
+Izumi「Well, even though it's not far on foot, you still have a lot%Nto bring back, right?」%K%P
+
+0x114
+Makoto「True. Carrying 22 pounds of rice while walking does%Nseem like a pain...」%K%P
+
+0x120
+Izumi「The key's attached to it. Well then, you two take care.」%K%P
+
+0x12C
+Yuka「Will do～」%K%P
+
+0x140
+Izumi「... Ah! Can I ask you to do one more thing?」%K%P
+
+0x14C
+Makoto「Hmm?」%K%P
+
+0x160
+Izumi「Could you also buy some saffron? If you can't find any,%Nthat's fine.」%K%P
+
+0x16C
+Makoto「What's saffron?」%K%P
+
+0x180
+Yuka「It's a seasoning you put on paella to make it look and%Nsmell nice.」%K%P
+
+0x18C
+Makoto「Huh...」%K%P
+
+0x198
+I'm surprised that Yuka out of all people would know%Nsomething like that.%K%P
+
+0x1AC
+Yuka「Okay, got it.」%K%P
+
+0x1C0
+Izumi「Thank you so much.」%K%P
+
+0x1D4
+... Somehow, Izumi-san seems to be the type of person%Nwho can be a little forgetful...%K%P
+
+0x1E0
+That's what I think.%K%P
+
+0x20C
+Izumi「Ah! There's just one more thing...」%K%P
+
+0x278
+The eastern skies are completely engulfed in twilight.%K%N
+
+0x284
+Though my cheeks are being chapped by the cold wind, I%Ndon't feel very cold since I'm pedaling.%K%P
+
+0x290
+I take in the fresh evening air as I pedal leisurely.%K%P
+
+0x2A4
+Yuka「Hey.」%K%P
+
+0x2B0
+Yuka's voice pipes up from behind me.%K%P
+
+0x2BC
+Yuka「How did you really know?」%K%P
+
+0x2C8
+Makoto「Huh? Know what?」%K%P
+
+0x2D4
+Yuka「Geez, don't play dumb...」%K%P
+
+0x2E0
+Yuka is riding on the bike's luggage carrier, her legs%Ndangling off from the side of the bike.%K%P
+
+0x2EC
+Instead of clinging to my back like I expected, she%Ninstead held onto the edges of the luggage carrier.%K%P
+
+0x2F8
+... Ah, who am I kidding? Only girls in fiction do something%Nlike that, right?%K%P
+
+0x304
+Yuka「The rice! How'd you know about it?」%K%P
+
+0x310
+Makoto「Dunno...」%K%P
+
+0x31C
+Yuka「You're playing dumb again.」%K%P
+
+0x328
+Makoto「No, I seriously don't know. I'm wondering that myself...」%K%P
+
+0x334
+Yuka「Do you have a sixth sense?」%K%P
+
+0x340
+Makoto「Huh?」%K%P
+
+0x34C
+Yuka「Could it be that you actually have X-ray vision?」%K%P
+
+0x358
+Makoto「X-ray vision, huh... It feels completely different from that.」%K%P
+
+0x364
+Makoto「If I did have X-ray vision, then there would have been no%Nneed to look inside the rice bin.」%K%P
+
+0x370
+Makoto「Besides, I can think of much more interesting things to%Nsee through...」%K%P
+
+0x384
+Yuka「Such as?」%K%P
+
+0x390
+Makoto「...」%K%P
+
+0x3B8
+Yuka slaps the back of my head in jest.%K%P
+
+0x3C4
+This is sort of playing out like a scene in a slapstick%Ncomedy.%K%P
+
+0x3D8
+Yuka「Well then, how about this?」%K%P
+
+0x3E4
+Yuka「Maybe you knew beforehand that Izumi-san would panic%Nlater when she realized there was no rice left...」%K%P
+
+0x3F0
+Yuka「In other words, you have the power to receive%Npremonitions!」%K%P
+
+0x3FC
+Makoto「... The power to receive premonitions?」%K%P
+
+0x408
+Just then, a memory flashes through my mind.%K%P
+
+0x414
+―It was when Haruka fell on Moon Beach.%K%N
+
+0x420
+It's true that I did see Haruka fall down before she%Nactually did.%K%N
+
+0x42C
+I knew it was going to happen in advance.%K%P
+
+0x438
+But it couldn't be...%K%P
+
+0x44C
+Yuka「Just kidding. There's no way that'd be it.」%K%P
+
+0x458
+Makoto「Huh?」%K%P
+
+0x464
+Yuka「Well then, isn't it about time you tell me the truth?」%K%P
+
+0x470
+Makoto「I told you that...」%K%P
+
+0x484
+... After that, Yuka kept on badgering me about it until we%Nentered the shopping district.%K%P
+
+0x490
+I didn't have an answer for her.%K%N
+
+0x49C
+How was I able to do those things?%K%P
+
+0x500
+Yuka「Rice, saffron, and fresh cream... this is everything.」%K%P
+
+0x50C
+Currently, Yuka is checking the contents of a large%Ngrocery bag on the ground.%K%P
+
+0x518
+Right, Izumi-san's last request was for fresh cream.%K%P
+
+0x524
+Sheesh, what type of caf▲ doesn't stock up on fresh%Ncream?%K%P
+
+0x530
+And there's also the pizza incident from this afternoon...%Nthat shop has quite the sloppy business policy.%K%P
+
+0x53C
+Yuka「Well then, let's go back.」%K%P
+
+0x548
+Makoto「Yeah, everyone's waiting.」%K%P
+
+0x554
+I cram the groceries into the bike's basket.%K%P
+
+0x560
+The front wheel bends horribly from the weight.%K%P
+
+0x5B0
+I'm now regretting this.%K%N
+
+0x5BC
+What, you may ask?%W%W%W
+
+0x5C8
+Bringing Yuka along!%K%P
+
+0x5D4
+She doesn't weigh much, but those 22 pounds of rice%Nsure do. My thigh muscles are burning... Is this much pain%Neven normal?%K%P
+
+0x5E0
+Yuka「Good luck♪」%K%P
+
+0x5EC
+Yuka calls out from behind me.%K
+
+0x888
+Geez, she's so carefree...
+
+0x894
+"So... damn heavy..."
+
+0x62C
+(Geez, she's so carefree...)%K%P
+
+0x638
+I take my hands off of the handle bars for a bit. Just%Nthen, the rear wheel slips and collapses from the%Npressure.%K%P
+
+0x654
+Makoto「So... damn heavy...」%K%P
+
+0x668
+Yuka「Huh!? I'm not heavy! How rude.」%K%P
+
+0x674
+Makoto「No, it's not like that...」%K%P
+
+0x680
+As I try to explain myself to her, I see a rock on the road.%K%P
+
+0x68C
+Makoto「Whoa...!」%K%P
+
+0x698
+I abruptly turn in attempt to avoid it.%K%P
+
+0x6A4
+I try to turn the handles, but the rear wheel slips and%Ncollapses from the pressure as we dangerously swerve.%K%P
+
+0x6B0
+Yuka「Geez, watch the road. I'd hate to see your driving.」%K%P
+
+0x6E8
+When she says this, Yuka wraps her arms around my%Nback.%K%P
+
+0x6F4
+I feel two soft objects bulge against me.%K%N
+
+0x700
+My whole body then burns up with extreme heat...%K%P
+

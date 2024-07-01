@@ -1,0 +1,279 @@
+text area offset and size:
+0xC38
+0x1430
+0x124
+昨日の嵐が嘘のように晴れ上がって、さわやかな%N快晴の朝だった。%K%P
+Yesterday's storm has cleared up like it was all fake,%Nleaving behind a crisp and cloudless morning sky.%K%P
+0x130
+オレは身仕度を整えていた。合宿もようやく全日程%N終了の日である。%K%P
+I've finished getting dressed and packing up. Today is%Nthe day the the Camp finally ends.%K%P
+0x13C
+そして、初めて体験する４月７日……。%K%P
+And it's the first April 7th I've experienced...%K%P
+0x148
+……………………………………。%K%P
+...%K%P
+0x154
+昨日、あれからオレは、沙紀を別荘に連れ帰った。%K%P
+Yesterday, after that incident, I brought Saki back to her%Nsummer house.%K%P
+0x160
+１日そっとしておこうと思っていた。ただそばについていさえすればいい、と……。%K%P
+It felt as if we could spend the day in silence. It would be%Nall right as long as we could be together...%K%P
+0x16C
+すると、沙紀が自分から５日～６日にかけてのあの夜のことを話し始めた。%K%P
+Instead, Saki began to tell me about what had happened%Non the night of the 5th through the early hours of the 6th.%K%P
+0x1A4
+……。%N……………。%N……………………。%K%P
+... ... ...%K%P
+0x20C
+あの夜、寝つかれず、雨の中を散歩に出た沙紀は、%N林道の脇にぐったりと倒れている子犬を見つけた。%K%N
+On that night, a sleepless Saki went out to take a walk in%Nthe rain when she saw a limp puppy collapsed on the%Nside of the forest path.%K%N
+0x218
+それはまさしく、あの子犬だった。%K%N
+It was that very same puppy.%K%N
+0x224
+もしかしたら車に轢かれたのかもしれない……%K%N
+"Perhaps it was run over by a car..."%K%N
+0x230
+……そう思った沙紀は、慌てて別荘に駆け込むと、%N島のタクシー業社に電話をかけた。%K%P
+... When Saki thought that, she frantically rushed back to%Nher summer house and called the island's taxi service.%K%P
+0x244
+１０分ほどしてようやくタクシーが到着。%K%N
+The taxi finally arrived almost ten minutes later.%K%N
+0x250
+しかし沙紀はその時、いちおうオレにも知らせようと思ったのだ。%K%N
+Saki thought she'd also try to inform me.%K%N
+0x25C
+そこで、ロッジのテラスから、長い木の枝を使って、オレの部屋の天窓を叩いた。%K%N
+And so, from the lodge's terrace, she used the long tree%Nbranch and knocked on my window.%K%N
+0x268
+声を出して呼びかけてもみた。%K%N
+She also tried calling out to me.%K%N
+0x274
+けれど、オレの声は返ってこない。%K%N
+But I didn't reply.%K%N
+0x280
+当たり前だ。オレはそのときリビングにいたの%Nだから……。%K%P
+Of course I didn't. I was in the living room at the time...%K%P
+0x294
+声を聞いたオレは、自分の部屋へ……。%K%N
+When I heard her voice, I went to my room...%K%N
+0x2A0
+そして沙紀はリビングに入って来た。%K%N
+At the same time, Saki went into the living room.%K%N
+0x2AC
+完全な入れ違い……。%K%N
+We completely missed each other...%K%N
+0x2B8
+そこでもオレの姿を見つけることのできなかった%N沙紀は、あきらめてすぐにロッジを飛び出し、%Nタクシーに乗り込んだ。%K%N
+Since she couldn't locate me, Saki gave up, rushed out%Nof the lodge, and went into the taxi.%K%N
+0x2C4
+あのとき沙紀の懐に抱かれていたのは、盗んだ%N金などではなく、その子犬だったというわけだ。%K%P
+The thing that Saki was holding against her chest at that%Ntime wasn't the stolen money, but the puppy.%K%P
+0x2D8
+その後、沙紀は診療所へと子犬を運び込んだ。%N（この島には動物病院など無いからだ）%K%N
+After that, Saki brought it to the clinic. (The island%Ndoesn't have an animal hospital.)%K%N
+0x2E4
+すると医者は……%K%N%N
+When she did, the doctor...%K%N%N
+0x2F0
+『はははははっ。車に轢かれたって？』%K%N
+"Ha ha ha ha ha. Run over by a car?"%K%N
+0x2FC
+『これは、雨に濡れて衰弱しているだけだよ』%K%N
+"It's just debilitated from being soaked by the rain."%K%N
+0x308
+『大丈夫。２・３日安静にしていれば、すぐに%N良くなるよ』%K%N
+"It's all right. If you give it two to three days of rest, it'll%Nbe up and about before you know it."%K%N
+0x314
+『前の君と同じようにね？』%K%P
+"It's the same as you when you were brought here a few%Ndays ago."%K%P
+0x328
+……明るくそう答えたのだそうだ。%K%N
+... gave that cheerful answer.%K%N
+0x334
+その夜は、医者の勧めもあって、沙紀は子犬のそばで眠ることにした。%K%P
+At the doctor's recommendation, Saki decided to sleep%Nby the puppy's side that night.%K%P
+0x348
+そして翌朝……%K%N
+And the next morning...%K%N
+0x354
+『あとは、快復するまで、私が責任をもって面倒を%Nみよう』%K%N
+"After this, I'll take responsibility for it and take care of it%Nuntil it recovers."%K%N
+0x360
+……医者にそう言われた沙紀は、ほっと胸を%N撫で下ろし、笑顔を浮かべたまま帰宅した。%K%N
+... When the doctor told Saki that, she went home with a%Nrelieved smile on her face.%K%N
+0x36C
+それが昨日の朝のことだったのだ。%K%P
+The rest, as they say, is history.%K%P
+0x380
+……………………。%N……………。%N……。%K%P
+... ... ...%K%P
+0x3D0
+語り終えた沙紀の表情は、さわやかに澄んでいた。%K%P
+When she finished telling her story, Saki's face was%Nfresh and clear.%K%P
+0x3DC
+それは、１点の曇も無い晴れた青空のような%N笑顔だった。%K%P
+She wore a smile as beautiful as this cloudless blue sky.%K%P
+0x42C
+リビングに出ると、優夏達も出発準備を終えて%N部屋から出て来ていた。%K%P
+When I go out to the living room, I see the others have%Nalso finished packing and come out of their rooms.%K%P
+0x438
+昨夜、沙紀を連れてロッジに戻ったオレの話を%N聞いて、優夏達は納得し、口々に沙紀に謝った。%K%P
+Last night, I took Saki to the lodge and told the story to%Nthe group, who all understood, and apologized to Saki.%K%P
+0x444
+中でも優夏が一番すっきりしていた。%K%P
+Amongst them, Yuka was the most relieved.%K%P
+0x458
+優夏「ごめんね、沙紀……。このことだけじゃなくて、%N今まで色々……。たぶん、私ちょっと沙紀に%Nコンプレックスあったのね。だから何かと%N突っかかって……」%K%P
+Yuka「I'm sorry, Saki... Not just for this, but everything else up%Nuntil now... I probably had a bit of a grudge against you.%NThat's why I just attacked whatever you said...」%K%P
+0x474
+沙紀「ううん、いいの。私の方こそ中学の頃のこと、%Nいつまでも引きずってて……。ごめんね？　ずっと%N嫌な想いしたでしょう？」%K%P
+Saki「No, it's fine. I've always been obsessed over what%Nhappened back in middle school... I'm sorry. You must%Nhave felt unpleasant about it this whole time.」%K%P
+0x480
+優夏「そんなぁ……。あれだって絶対沙紀がやったとは%N思えないよ。私も意地になってただけなの」%K%P
+Yuka「No way... If you're talking about that incident, I never%Nthought you did it. I also just got stubborn.」%K%P
+0x494
+優夏「本当は、あの用務員さんが、自分で壊したのを%N沙紀のせいしちゃったんでしょ？　うん、そう……%Nきっとそうなんだと思う……」%K%P
+Yuka「The truth is, that janitor probably accidentally%Ndestroyed the painting himself and blamed it on you.%NYes, that's right... That's what I surely think...」%K%P
+0x4A8
+沙紀「優夏……ありがとう……」%K%P
+Saki「Yuka... thank you...」%K%P
+0x4BC
+優夏「ううん……」%K%P
+Yuka「No...」%K%P
+0x4D8
+沙紀「それと……遙ちゃん。今までごめん」%K%P
+Saki「And... Haruka-chan. I'm sorry about everything up until%Nnow.」%K%P
+0x4EC
+遙「え？」%K%P
+Haruka「Huh?」%K%P
+0x500
+沙紀「誠くんから聞いた。……信じてくれて、%Nありがとう」%K%P
+Saki「I heard about it from Makoto-kun... Thank you for trusting%Nme.」%K%P
+0x514
+遙「……そんなの、お礼なんておかしい。何にも%N言わなくていいよ」%K%P
+Haruka「... It's strange for you to thank me so much. I didn't say%Nanything, so it's fine.」%K%P
+0x528
+オレは嬉しかった。%K%P
+I was happy.%K%P
+0x534
+優夏や遙の気持ちももちろんだが、沙紀が素直な%N気持ちを取り戻してくれたのが何よりも嬉しかった。%K%P
+Not only because of Yuka and Haruka's feelings, but%Nespecially because of Saki finally being true to herself.%K%P
+0x548
+優夏「誠！　そろそろ行くよ！」%K%P
+Yuka「Makoto! It's time to go!」%K%P
+0x554
+優夏の大きな声に、オレはふっと我に返った。%K%P
+Yuka's shout abruptly snaps me out of my thoughts.%K%P
+0x560
+誠「優夏、悪い。実はオレ、一緒に帰れないんだ……」%K%P
+Makoto「Sorry, Yuka. Truth is, I'm not going back with you...」%K%P
+0x574
+優夏「え？　どういうこと？」%K%P
+Yuka「Huh? What do you mean?」%K%P
+0x588
+遙が優夏の耳にささやくのが見えた。%K%P
+Haruka whispers into Yuka's ear.%K%P
+0x594
+遙「って、ことじゃない？」%K%P
+Haruka「And that's how it is.」%K%P
+0x5A8
+優夏「まあ、いいけど。……班長ったって別に権力者じゃないんだから」%K%P
+Yuka「Well, that's fine. The leader's not a dictator, after all.」%K%P
+0x5B4
+誠「ごめんな？　最後まで集団行動できなくて……」%K%P
+Makoto「I'm sorry, but I can't join you for the final group activity...」%K%P
+0x5E4
+その時、突然リビングの電話が鳴った。%K%P
+At that time, the phone in the living room suddenly rings.%K%P
+0x600
+思わず受話器を取ったオレに、警官の声が%N飛び込んできた。%K%P
+I instinctively pick it up, and a police officer's voice%Ncomes out from the other line.%K%P
+0x60C
+警官の声「観光地を狙って荒らしまわっている窃盗団が、今朝捕まったんです」%K%P
+Police officer「This morning, we caught the group that's been targeting%Ntourist attractions and robbing them.」%K%P
+0x618
+警官の声「そいつらの自供から、そちらさんのロッジにも%N侵入したということがわかりましてね……」%K%P
+Police officer「From their confession, we know that they also broke into%Nyour lodge...」%K%P
+0x624
+警官の話によると、窃盗団が侵入したのは昨日の%N午前０時１５分頃だと言う。%K%P
+According to the police officer's story, a group of%Nburglars broke into the lodge yesterday at 12:15 A.M.%K%P
+0x630
+ちょうど、オレが沙紀を追ってロッジを飛び出していた頃だ。%K%P
+That was the exact time I rushed out of the lodge to%Nchase after Saki.%K%P
+0x63C
+ぱぁっと霧が晴れていくような気分だった。%K%P
+It feels like the thick fog has finally begun to clear up.%K%P
+0x6CC
+オレと沙紀はみんなと別れると、診療所に向かった。%K%P
+When Saki and I part from everyone, we head for the%Nclinic.%K%P
+0x6D8
+子犬は元気いっぱいだった。%K%P
+The puppy is full of energy.%K%P
+0x6E4
+オレ達のことがすぐにわかったらしく、クーンクーンと相変わらずの甘え声を上げていた。%K%P
+It seems like it instantly recognized us, as it gets%Nexcited and barks.%K%P
+0x6F0
+オレと沙紀は医者に礼を言うと、子犬を引き取って%N表に出た……。%K%P
+Saki and I thank the doctor, take the puppy, and go%Noutside...%K%P
+0x704
+ぴったりと寄り添うようにして、オレ達は商店街を%N歩いた。%K%P
+We nestle close to each other, and walk to the shopping%Ndistrict.%K%P
+0x710
+すると……子犬を抱きかかえた沙紀が、ちょっと%N不安気な表情を見せた。%K%P
+Just then... Saki, who's still carrying the puppy in her%Narms, suddenly grows uneasy and frowns.%K%P
+0x71C
+誠「？？？」%K%P
+Makoto「???」%K%P
+0x728
+沙紀「でも……私達が帰っちゃったら、この子犬%Nどうなっちゃうんだろう……？」%K%P
+Saki「But... when we return, what am I going to do with this%Npuppy...?」%K%P
+0x734
+誠「何だ、そんなことか……」%K%P
+Makoto「Oh, so that's it...」%K%P
+0x740
+沙紀「そんなことって……」%K%P
+Saki「'That's it'...?」%K%P
+0x74C
+誠「心配するな。オレが引き取ってやるよ」%K%P
+Makoto「Don't worry. I'll take it in.」%K%P
+0x758
+沙紀「誠くんが？」%K%P
+Saki「You will?」%K%P
+0x764
+誠「オレのアパート、オンボロだけど、そのお陰で他に住人いないから。苦情がくる心配、全くないしな」%K%P
+Makoto「My apartment's all worn out, but thanks to that, there's%Nno one else living there. There won't be any trouble.」%K%P
+0x770
+沙紀「そう……よかった……」%K%P
+Saki「I see... I'm glad...」%K%P
+0x77C
+沙紀「それじゃもう１人引き取ってもらおうかなぁ……」%K%P
+Saki「Then I'm wondering if you could take one more in...」%K%P
+0x788
+誠「もう１人？」%K%P
+Makoto「One more...?」%K%P
+0x794
+沙紀は瞳を輝かせてオレを見つめた。%K%P
+Saki looks at me with sparkling eyes.%K%P
+0x7A0
+オレも沙紀から目をそらさずに見つめ返す。%K%P
+I return Saki's glance.%K%P
+0x7AC
+誠「じゃあ、１人と１匹だな？」%K%P
+Makoto「Then that'll be one person and one dog?」%K%P
+0x7B8
+沙紀「……うん」%K%P
+Saki「... Yes.」%K%P
+0x7C4
+沙紀は、照れ笑いを浮かべながら静かにもらした。%K%P
+Saki calmly answers while giving me a sheepish grin.%K%P
+0x7D0
+オレは沙紀を抱き寄せた。%K%P
+I embrace Saki.%K%P
+0x7DC
+間に挟まれた子犬……その小さな尻尾が、ピンピンと元気よく揺れていた。%K%P
+The puppy interposed between us... cheerfully wags its%Nsmall tail.%K%P
+0xA00
+『ＣＵＲＥ』シナリオ────覚醒。
+Izumi Cure route unlocked.

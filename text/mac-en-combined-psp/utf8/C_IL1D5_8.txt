@@ -1,0 +1,534 @@
+text area offset and size:
+0xCF0
+0x21C8
+0x40
+Night is drawing near.%K%P
+
+0x4C
+The darkness gradually creeps up on me without warning.%K%P
+
+0x58
+Right now, I'm sitting against the wall of the lighthouse.%K%P
+
+0x64
+I feel the cold sensation of the lighthouse against my%Nback...%K%P
+
+0x70
+A hot, throbbing pain runs through the soles of my feet.%K%P
+
+0x7C
+Still, I don't feel like moving.%K%P
+
+0x88
+(What should I do from now on...?)%K%P
+
+0x94
+(Just what is going to happen...?)%K%P
+
+0xA0
+Even now, my mind is lost in confusion.%K%P
+
+0xAC
+Haruka「What are you doing in a place like this?」%K%P
+
+0xDC
+I lift my face, and see Haruka standing before me.%K%P
+
+0xE8
+Haruka「Did something happen?」%K%P
+
+0xF4
+Makoto「... Why do you think that?」%K%P
+
+0x100
+Haruka「Because... your face is pale...」%K%P
+
+0x10C
+Makoto「Really...?」%K%P
+
+0x118
+Haruka「Yes.」%K%P
+
+0x124
+Makoto「Well... a lot of things happened.」%K%P
+
+0x130
+Haruka「A lot of things?」%K%P
+
+0x13C
+Makoto「Yeah...」%K%P
+
+0x150
+Haruka knits her eyebrows together at my answer.%K%P
+
+0x15C
+Haruka「Makoto?」%K%P
+
+0x168
+Makoto「Hmm?」%K%P
+
+0x174
+Haruka「Wouldn't it be best if you didn't think too much about it?」%K%P
+
+0x180
+Makoto「... Huh?」%K%P
+
+0x18C
+Haruka「No matter how much you think, you can only deal with%Neverything when you're at that point...」%K%P
+
+0x198
+Haruka「If it's already happened, then nobody can change it. If%Nit's something that will happen in the future, then no one%Nwill know what it is... right?」%K%P
+
+0x1A4
+I was unable to hide my unrest.%K%P
+
+0x1B0
+It's like she can read my mind without trouble...%K%P
+
+0x1C4
+Haruka「People tend to regret events that happened in the%Npast, thinking they should have done this instead of%Nthat...」%K%P
+
+0x1D0
+Haruka「But don't you think it's meaningless to worry about that?」%K%P
+
+0x1DC
+Makoto「...」%K%P
+
+0x1E8
+Haruka「The future is the same...」%K%P
+
+0x1F4
+Haruka「It's really trifling and insignificant to be happy when you%Nfeel something good is going to happen, or to get%Nscared when you feel something bad is going to%Nhappen...」%K%P
+
+0x200
+Haruka「I think that doing that is useless.」%K%P
+
+0x20C
+Makoto「...」%K%P
+
+0x220
+Haruka「Isn't it best if you just focus on the present, on the%Nreality you're living in right now at this very instant?」%K%P
+
+0x22C
+Haruka「After all, the past is behind us and the future is%Nuncertain, right?」%K%P
+
+0x240
+Haruka「That's all...」%K%P
+
+0x24C
+After saying this, Haruka closes her mouth.%K%P
+
+0x258
+But she doesn't need to say any more for me to%Nunderstand.%K%P
+
+0x264
+Makoto「Thank you... Haruka.」%K%P
+
+0x270
+I stand up.%K%P
+
+0x27C
+In the darkness, a single strand of light begins to shine.%K%P
+
+0x288
+I don't know why Haruka said all of that.%K%P
+
+0x294
+Perhaps she thought I must've been worrying about%Nsomething insignificant when she saw my concerned%Nexpression.%K%P
+
+0x2A0
+But to me, those words have become salvation.%K%P
+
+0x2AC
+―What must I do now?%K%P
+
+0x2B8
+Thanks to Haruka, I've finally been able to find the%Nanswer to that.%K%P
+
+0x2C4
+Makoto「Thank you...」%K%P
+
+0x2D0
+I thank her once more.%K%P
+
+0x2E4
+Haruka seems to be a little embarrassed, as she averts%Nher gaze to the side.%K%P
+
+0x308
+I can see the iron fence over Haruka's shoulder.%K%P
+
+0x314
+Several thin iron pipes have been bent terribly, while%Nothers on the seaward side have fallen into the ocean.%K%P
+
+0x33C
+I look beyond that side, at the wide ocean...%K%P
+
+0x348
+The sound of the blowing sea breeze reaches my ears...%K%P
+
+0x3AC
+I split up from Haruka at Viewpoint Park, and head to%NLunabeach.%K%P
+
+0x3B8
+What is it that I have to do now?%K%P
+
+0x3C4
+When I think about it, it's simple.%K%P
+
+0x3D0
+―I have to be by Izumi-san's side.%K%P
+
+0x3DC
+It has nothing to do with the premonition I had or%Nanything like that.%K%N
+
+0x3E8
+The past and the future don't matter.%K%P
+
+0x3F4
+I just want to be by Izumi-san's side.%K%P
+
+0x400
+Right now, at this very instant, I want nothing more than%Nto spend time together with Izumi-san.%K%P
+
+0x454
+Makoto「Izumi-san!」%K%P
+
+0x460
+I open the door and call out to her in my usual voice.%K%P
+
+0x46C
+But Izumi-san...%K%P
+
+0x49C
+Izumi「Ah...」%K%P
+
+0x4B0
+Izumi「Makoto-kun...」%K%P
+
+0x4BC
+... still has that same depressed expression she had at%Nnoon; the expression of one thinking deeply.%K%P
+
+0x4C8
+(Is she still thinking... about the card game...?)%K%P
+
+0x4D4
+Makoto「Izumi-san?」%K%P
+
+0x4E0
+Izumi「Huh?」%K%P
+
+0x4EC
+Makoto「Can I help you out?」%K%P
+
+0x4F8
+Izumi「Help... out?」%K%P
+
+0x504
+Makoto「I'll do whatever you ask, like washing the plates or%Ncleaning up.」%K%P
+
+0x518
+Izumi「But... that's all been done.」%K%P
+
+0x524
+Izumi「Today... I closed the shop earlier than usual.」%K%P
+
+0x530
+Makoto「I see... so you're all done...」%K%P
+
+0x544
+Izumi「Oh...」%K%P
+
+0x550
+Izumi「But there is one thing I'd like your help with...」%K%P
+
+0x55C
+Makoto「Huh? What is it?」%K%P
+
+0x568
+Izumi「Yes...」%K%P
+
+0x57C
+Izumi「... You know what?」%K%P
+
+0x5D8
+The surrounding area has been completely enveloped in%Ndarkness.%K%P
+
+0x5E4
+Since the sun hasn't been out once today, it's a little%Nchilly when I sit down on the terrace.%K%P
+
+0x5F0
+A now empty plate is on the table in front of me, only a%Nfew stains from food left behind on it.%K%P
+
+0x5FC
+Right, the thing Izumi-san said she "wanted help with"%Nwas "eating her cooking".%K%P
+
+0x608
+After the shop closed, Kurumi left saying she was "going%Nover to visit the lodge", without eating the food%NIzumi-san made for her, so Izumi-san ended up with too%Nmuch.%K%P
+
+0x61C
+Kurumi「Kurumi and Yuka-san are having fun talking, actually...」%K%P
+
+0x628
+Kurumi「... So Kurumi will stay over here tonight, okay?」%K%P
+
+0x63C
+Kurumi said that over the phone.%K%P
+
+0x648
+Well, in this case, it's left me quite happy.%K%P
+
+0x654
+Because it means that I get to eat the%Nbouillabaisse-style fish stew Izumi-san cooked...%K%P
+
+0x660
+And besides...%K%N
+
+0x66C
+Kurumi won't be coming back here...%K%P
+
+0x678
+Which means...%K%N
+
+0x684
+Izumi-san and I will be here all alone the whole time...%K%P
+
+0x698
+Izumi「Makoto-kun?」%K%P
+
+0x6A4
+Makoto「Yes?」%K%P
+
+0x6C8
+Izumi「U... Umm...」%K%P
+
+0x6D4
+Her expression only shows concern.%K%P
+
+0x6E0
+For all this time, ever since that incident, Izumi-san's had%Na dark, depressed look on her face.%K%P
+
+0x6EC
+Makoto「What is it?」%K%P
+
+0x6F8
+Izumi「...」%K%P
+
+0x704
+Makoto「...」%K%P
+
+0x710
+Izumi「...」%K%P
+
+0x71C
+Makoto「?」%K%P
+
+0x74C
+Izumi「Makoto-kun...」%K%P
+
+0x758
+She sounds grave, as if it she's speaking straight from%Nher heart.%K%P
+
+0x764
+Izumi「Stay calm and listen to me.」%K%P
+
+0x770
+Makoto「???」%K%P
+
+0x77C
+Izumi「I... Ever since then... I've been thinking about it...」%K%P
+
+0x788
+Makoto「... 'Then'?」%K%P
+
+0x794
+Izumi「Yes that's right... All this time... since the card game...」%K%P
+
+0x7A0
+Izumi「And then... I thought of it.」%K%P
+
+0x7AC
+Izumi「Somehow... I feel that I understand it.」%K%P
+
+0x7B8
+Makoto「...」%K%P
+
+0x7C4
+Izumi「The premonitions...」%K%P
+
+0x7D0
+Makoto「What...?」%K%P
+
+0x7DC
+Izumi「Makoto-kun, your premonitions...」%K%P
+
+0x7E8
+Izumi「Are surely-」%K%P
+
+0x7F4
+Makoto「W-Wait a minute!」%K%P
+
+0x808
+Izumi「...?」%K%P
+
+0x814
+Makoto「Izumi-san, that's enough of that.」%K%P
+
+0x820
+Izumi「'That's enough'...?」%K%P
+
+0x82C
+Makoto「I've had enough of these premonitions.」%K%P
+
+0x838
+Makoto「I've decided not to worry about them and stop believing%Nthem.」%K%P
+
+0x84C
+Izumi「... What?」%K%P
+
+0x858
+Makoto「I'm done thinking about foolish things like premonitions.」%K%P
+
+0x864
+Makoto「No one knows the future...」%K%P
+
+0x870
+Makoto「Even if I received a hundred correct premonitions up%Nuntil now, there's no telling if the next one will actually be%Ncorrect...」%K%P
+
+0x87C
+Makoto「... Isn't that right?」%K%P
+
+0x888
+Makoto「What's important is now, the very moment before our%Neyes...」%K%P
+
+0x894
+At this very moment...%K%N
+
+0x8A0
+... I'm with Izumi-san.%K%P
+
+0x8B4
+Izumi「You're wrong, Makoto-kun! That's not what I-」%K%P
+
+0x8C0
+Makoto「I said that's enough!」%K%P
+
+0x8CC
+Makoto「Those things have nothing to do with me anymore!」%K%P
+
+0x8E0
+Izumi「But-」%K%P
+
+0x8EC
+Makoto「I'm serious!」%K%P
+
+0x8F8
+Makoto「I'm serious, Izumi-san...」%K%P
+
+0x904
+Makoto「... Please... stop it...」%K%P
+
+0x910
+Makoto「Stop talking... about premonitions...」%K%P
+
+0x91C
+Izumi「...」%K%P
+
+0x928
+Makoto「...」%K%P
+
+0x94C
+... ... ...%K%P
+
+0x958
+The silence continues.%K%P
+
+0x964
+Izumi-san hangs her head downwards, apparently still%Nworrying about something.%K%P
+
+0x970
+Izumi-san's expression causes my chest to tighten.%K%P
+
+0x97C
+Makoto「Come on, let's talk about something else!」%K%P
+
+0x988
+Izumi「...」%K%P
+
+0x994
+Makoto「Let's talk about something interesting!」%K%P
+
+0x9A0
+Makoto「Like... for example...」%K%P
+
+0x9AC
+Izumi「...」%K%P
+
+0x9B8
+Makoto「Oh, I know! How about we talk about stars?」%K%P
+
+0x9CC
+Izumi「... Stars?」%K%P
+
+0x9D8
+Makoto「Yeah. After all, you seem to know a whole lot about stars.」%K%P
+
+0x9E4
+Makoto「Tell me the names of more stars I don't know, and stuff%Nabout Regulus and Pinnochion.」%K%P
+
+0x9F8
+Izumi「It's not 'Pinnochion'...」%K%P
+
+0xA04
+Izumi「... It's Procyon.」%K%P
+
+0xA10
+When Izumi-san says that, a faint smile appears on her%Nface.%K%P
+
+0xA1C
+When I see that expression, I become more determined,%Nand continue to talk.%K%P
+
+0xA44
+Makoto「Ah, right, right.」%K%P
+
+0xA50
+Makoto「It's Procyon, not Pinnochion.」%K%P
+
+0xA5C
+Makoto「Well, either one's fine...」%K%P
+
+0xA68
+Makoto「No, that's no good... that's no good at all. Definitely not.」%K%P
+
+0xA74
+Makoto「Procyon, Procyon, Procyon... There, I've memorized it!」%K%P
+
+0xA80
+Makoto「So, about Pinnochion-」%K%P
+
+0xA94
+Izumi「Procyon!」%K%P
+
+0xAA0
+Izumi-san smiles.%K%N
+
+0xAAC
+Her kind smile is back.%K%P
+
+0xAB8
+Izumi「... All right.」%K%P
+
+0xAC4
+Izumi「Then, shall we talk...」%K%P
+
+0xAD8
+Izumi「... About stars?」%K%P
+
+0xAE4
+I smile widely in reply.%K%P
+
+0xAF0
+Makoto「Yeah!」%K%P
+
+0xAFC
+I nod my head energetically, like a child...%K%P
+

@@ -1,0 +1,534 @@
+text area offset and size:
+0x1480
+0x24F3
+0x118
+The card game was much more fun than I expected...%K%P
+
+0x124
+The others went to sleep just a short while ago.%K%P
+
+0x130
+Yuka and Haruka went back to their own rooms... Kurumi is%Nup in the loft.%K%P
+
+0x13C
+Okuhiko is snoring on the living room sofa.%K%P
+
+0x148
+I'm sitting on a dining chair, staring at Izumi-san from%Nbehind.%K%P
+
+0x154
+Izumi-san is silently looking out the window right now,%Nsoftly touching the glass with her palm.%K%P
+
+0x168
+Izumi「Oh? It's raining...」%K%P
+
+0x174
+Makoto「What...? Rain?」%K%P
+
+0x180
+I walk up next to Izumi-san while saying this.%K%P
+
+0x194
+I look outside the window.%K%P
+
+0x1A0
+Just as Izumi-san said, raindrops have started to fall.%K%P
+
+0x1AC
+The two of keep silent as we watch the drizzling rain%Ncontinue to fall.%K%P
+
+0x1B8
+The awkward atmosphere from this evening has%Nreturned, wrapping both of us up in it.%K%P
+
+0x1C4
+I can't stand this silence...%K%N
+
+0x1D0
+... I decide to tell her about my premonition for tomorrow.%K%P
+
+0x1F8
+Makoto「Izumi-san...」%K%P
+
+0x204
+Izumi「Yes?」%K%P
+
+0x210
+Makoto「The truth is...」%K%P
+
+0x21C
+Izumi「What's wrong, Makoto-kun...?」%K%P
+
+0x228
+Makoto「Tomorrow...」%K%P
+
+0x234
+Makoto「You...」%K%P
+
+0x240
+Izumi「???」%K%P
+
+0x24C
+Makoto「Tomorrow, you might die, Izumi-san!」%K%P
+
+0x260
+Izumi「What?」%K%P
+
+0x26C
+Makoto「So be careful! Don't take a single step outside tomorrow!」%K%P
+
+0x278
+Izumi「Hold on... what do you mean by...」%K%P
+
+0x284
+Makoto「Trust me!」%K%P
+
+0x290
+Izumi「Makoto-kun...」%K%P
+
+0x29C
+Makoto「Please... trust me...」%K%P
+
+0x2C0
+The silence returns...%K%P
+
+0x2E8
+Before we know it, the rain picks up.%K%P
+
+0x2F4
+The sound of the rain striking the earth echoes in this%Ndark room.%K%P
+
+0x300
+Mixed in with the sound of the rain is the faint sound of%NIzumi-san's cold sighs.%K%P
+
+0x30C
+Before long...%K%P
+
+0x354
+Izumi「I understand... but...」%K%P
+
+0x360
+Izumi「I can't just not 'take a single step outside', right? I have%Nto go back to the shop...」%K%P
+
+0x36C
+... Izumi-san answers.%K%P
+
+0x378
+Makoto「But!」%K%P
+
+0x39C
+Izumi「It's all right. Besides... if you're that worried, then you can%Nbe my bodyguard.」%K%P
+
+0x3A8
+Makoto「...」%K%P
+
+0x3B4
+Izumi「Will you help out at the shop tomorrow as well?」%K%P
+
+0x3C0
+Makoto「Y-Yes... But...」%K%P
+
+0x3CC
+Makoto「But Izumi-san... do you believe me?」%K%P
+
+0x3D8
+Izumi-san slowly nods.%K%P
+
+0x3E4
+Makoto「Then I'll trust you too...」%K%P
+
+0x3F0
+Makoto「No matter what happens... I'll trust you!」%K%P
+
+0x404
+Izumi-san looks a little surprised,%K%P
+
+0x418
+but she soon returns with a calm smile.%K%P
+
+0x464
+...%K%P
+
+0x470
+Afterwards, Izumi-san and I briefly watch the rain fall from%Nby the window in silence.%K%P
+
+0x47C
+Then, a little over an hour later, Izumi-san heads up to%Nthe loft...%K%P
+
+0x500
+Early in the morning, Izumi-san and I return to Lunabeach%Ntogether.%K%P
+
+0x50C
+I help set up the shop before it opens... and before long,%Nopening time arrives.%K%P
+
+0x518
+But today's so slow that it makes it seem like the rush of%Ncustomers yesterday never happened.%K%P
+
+0x524
+An hour has passed since the shop opened, but there%Nstill hasn't been a single customer.%K%P
+
+0x530
+Is it the weather's fault?%K%P
+
+0x53C
+Last night's rain hasn't lifted at all.%K%P
+
+0x5CC
+After a while, the rest of the group arrives at the shop.%K%P
+
+0x5D8
+They rest their hands on their chins as time blankly%Npasses by.%K%P
+
+0x5E4
+...%K%P
+
+0x5F0
+Yuka「... I'm bored.」%K%P
+
+0x5FC
+Makoto「Yeah...」%K%P
+
+0x618
+Okuhiko「... I wonder if there's something we can do.」%K%P
+
+0x624
+Haruka「...」%K%P
+
+0x640
+Kurumi「Hey, how about we play Plate Frisbee?」%K%P
+
+0x654
+Izumi「Kurumi!」%K%P
+
+0x668
+...%K%P
+
+0x67C
+Yuka「... I'm bored.」%K%P
+
+0x688
+Makoto「Yeah...」%K%P
+
+0x6A4
+Okuhiko「... I wonder if there's something we can do.」%K%P
+
+0x6B0
+Haruka「...」%K%P
+
+0x6CC
+Kurumi「Hey, how about we play baseball using the cleaning%Nimplements? ... Oh, but we don't have enough people...」%K%P
+
+0x6E0
+Izumi「Kurumiii!!」%K%P
+
+0x6F4
+...%K%P
+
+0x708
+Yuka「... I'm bored.」%K%P
+
+0x714
+Makoto「Yeah...」%K%P
+
+0x730
+Okuhiko「... I wonder if there's something we can do.」%K%P
+
+0x73C
+Haruka「...」%K%P
+
+0x758
+Kurumi「Hey? How about we all have a drinking contest? Kurumi%Nwill be fine with juice♪」%K%P
+
+0x76C
+Izumi「KURUMIIII!!!」%K%P
+
+0x780
+...%K%P
+
+0x78C
+Time slowly and quietly passes by...%K%P
+
+0x810
+Izumi「Haah～... might as well close up for today.」%K%P
+
+0x81C
+No customers have come, so it seems like Izumi-san has%Ngiven up on today's work.%K%P
+
+0x828
+Izumi「This is actually good timing for me to go shopping.」%K%P
+
+0x85C
+Makoto「!!!」%K%P
+
+0x880
+Izumi「It's raining outside... I wonder if it's all right to use the car%Nafter so long...?」%K%P
+
+0x88C
+Makoto「Y-You can't, Izumi-san!!」%K%P
+
+0x898
+I frantically try to stop her.%K%P
+
+0x8A4
+If she goes outside now, I don't know what will happen.%K%P
+
+0x8B0
+No matter what, I have to keep Izumi-san inside the shop%Ntoday, or else...%K%P
+
+0x8BC
+Then, as I think that...%K%P
+
+0x8E8
+Yuka「Hee hee...」%K%P
+
+0x8F4
+Makoto「Wh-What is it, Yuka ...?」%K%P
+
+0x908
+Okuhiko「Heh, heh heh heh...」%K%P
+
+0x914
+Makoto「Y-You too, Okuhiko...?」%K%P
+
+0x930
+Kurumi「Pfft! Kyahahahahaha...♪」%K%P
+
+0x93C
+Makoto「K-Kurumi...!?」%K%P
+
+0x950
+Okuhiko「Ahahahahahahahaha...」%K%P
+
+0x980
+With Kurumi's laugh being the trigger, everyone starts%Nbreaking out into roars of laughter for some reason.%K%P
+
+0x994
+Okuhiko「Sorry. The truth is, everyone's been tricking you,%NIshihara. We thought we'd try playing a little prank on you.」%K%P
+
+0x9A0
+Makoto「???」%K%P
+
+0x9AC
+Okuhiko「To make you say foolish things like, 'I'm able to have%Npremonitions' and all of that...」%K%P
+
+0x9B8
+Okuhiko「We all conspired together, and pretended your%Npremonitions were really correct.」%K%P
+
+0x9C4
+Makoto「???」%K%P
+
+0x9D0
+Okuhiko「For example, there was that time where you said 'The%Ncar's battery is dead, so we can't use it'...」%K%P
+
+0x9DC
+Okuhiko「Izumi-san purposely pulled the key back right when she%Nturned it in the ignition so that it would sound like the car%Nwasn't working, pretending the battery really was dead.」%K%P
+
+0xA20
+Okuhiko「And remember when you asked 'Aren't we having curry%Ntonight?'...」%K%P
+
+0xA34
+Okuhiko「And remember when you asked 'Aren't we having stew%Ntonight?'...」%K%P
+
+0xA48
+Okuhiko「And remember when you asked 'Aren't we having meat%Npotatoes tonight?'...」%K%P
+
+0xA54
+Okuhiko「I quickly ran out to buy the ingredients, and Izumi-san%Nswiftly made the food.」%K%P
+
+0xA60
+Okuhiko「Long story short, the futures that you predicted were%Nmerely forced to become so by us cooperating to%Nmanipulate you.」%K%P
+
+0xA6C
+Okuhiko「So it's only natural that there's no way that event where%NIzumi-san dies will happen.」%K%P
+
+0xA88
+Izumi「... Sorry, Makoto-kun...」%K%P
+
+0xAA4
+Makoto「...」%K%P
+
+0xAB8
+Izumi「... Makoto-kun?」%K%P
+
+0xAC4
+Makoto「... 'Sorry'? ... SORRY!?」%K%P
+
+0xAD8
+Izumi「―!!」%K%P
+
+0xB00
+Makoto「So you're saying that everyone has been deceiving%Nme!?」%K%P
+
+0xB0C
+Makoto「You're telling me that everything that happened in the%Nlast six days was all planned!!?」%K%P
+
+0xB20
+Something within me snaps.%K%P
+
+0xB2C
+Angry words rapidly pour out of my mouth...%K%P
+
+0xB38
+Makoto「When you treated us to dinner, the commotion when Saki%Nfell into the ocean, when you revealed Haruka was a%Nclone...」%K%P
+
+0xB44
+Makoto「When I predicted what dinner would be...」%K%P
+
+0xB50
+Makoto「... You all... you all lied to me...」%K%P
+
+0xB5C
+Makoto「At the Test of Courage, when you told me not to worry,%Nthat's what you meant...」%K%P
+
+0xB68
+They're overflowing... My words laced with anger are%Nflooding out like waves during a typhoon...%K%P
+
+0xB8C
+Izumi「...」%K%P
+
+0xB98
+Makoto「And also... what you told me that day at Viewpoint Park%Nas well...」%K%P
+
+0xBAC
+Izumi「!!!」%K%P
+
+0xBB8
+Makoto「From the beginning to the end, everything was a lie,%Nwasn't it!?」%K%P
+
+0xBD4
+Okuhiko「Ishihara... what happened at Viewpoint-」%K%P
+
+0xBE0
+Makoto「Shut up! Shut the fuck up, Okuhiko!!」%K%P
+
+0xBF4
+Okuhiko「...!」%K%P
+
+0xC24
+Makoto「Well, how about it...? Answer me...」%K%P
+
+0xC38
+Izumi「...」%K%P
+
+0xC44
+Izumi「... Umm... Makoto-kun... Before I answer, there's just one%Nthing I want to tell you...」%K%P
+
+0xC50
+Makoto「I don't want to hear your damn excuses!」%K%P
+
+0xC5C
+Izumi「...」%K%P
+
+0xC68
+Makoto「That's... enough... I've had enough of going along with this%Ncheap drama...」%K%P
+
+0xC7C
+Izumi「Makoto-kun, you're wrong... Please, listen to me...」%K%P
+
+0xC88
+Makoto「So that you can lie to me some more? So that you can%Ntrick me and make me dance to your tune even more?」%K%P
+
+0xC9C
+Izumi「... You don't... trust me?」%K%P
+
+0xCA8
+Makoto「How the hell can I trust you when everything you say is%Ncoated with lies!?」%K%P
+
+0xCBC
+Izumi「... You're wrong... you're wrong...」%K%P
+
+0xCC8
+Makoto「You're still lying this late into the game!?」%K%P
+
+0xCD4
+Makoto「I was nothing more than a plaything for your own%Namusement, wasn't I?」%K%P
+
+0xCE0
+Makoto「I bet you had a riot, laughing behind the back of a man%Nyounger than you about his constant anxiety. Isn't that%Nright!?」%K%P
+
+0xD6C
+A sharp pain run across my cheek.%K%P
+
+0xD78
+Izumi-san's trembling hand is raised overhead.%K%P
+
+0xD84
+Her eyes are absolutely overflowing with tears...%K%P
+
+0xD90
+Izumi「Goodbye...」%K%P
+
+0xD9C
+Izumi-san finally says this.%K%P
+
+0xE08
+Izumi-san violently throws open the door, and rushes%Nout into the downpour...%K%P
+
+0xE30
+The rest of us are dumbfounded, and stare at the door%NIzumi-san ran out of.%K%P
+
+0xE48
+"Words can be the source of catastrophes...%NMakoto-kun."%K%P
+
+0xE54
+I recall Izumi-san's words from back then.%K%P
+
+0xE60
+(... Izumi-san.)%K%P
+
+0xE6C
+What should be my next course of action...?%K
+
+0x1458
+Chase after her.
+
+0x1464
+Stand still where I am.
+
+0xEBC
+Makoto「Izumi-san!!」%K%P
+
+0xEE4
+I fly out of the shop, chasing after Izumi-san as fast as%Nlightning!%K%P
+
+0xEF0
+My head is starting to clear up already.%K%P
+
+0xF04
+Makoto「...」%K%P
+
+0xF10
+I stand frozen in place.%K%P
+
+0xF1C
+The rage welling within me earlier was completely wiped%Nout from Izumi-san's slap, to the point where I've become%Nalmost unbelievably calm.%K%P
+
+0xF28
+But... I hesitate.%K%P
+
+0xF34
+What am I supposed to do in times like this?%K%P
+
+0xF48
+Yuka「Makoto... are you okay... with not going after her?」%K%P
+
+0xF54
+Makoto「...」%K%P
+
+0xF68
+Yuka「The Most Important Law of Professor Yuka's Love%NFormula: ―'It's no use crying over spilt milk.'」%K%P
+
+0xF74
+Makoto「Yuka...」%K%P
+
+0xF88
+(That's right... I have to go after her...)%K%P
+
+0xF94
+(At any rate, I have to go after Izumi-san...!)%K%P
+
+0xFBC
+I fly out of the shop, chasing after Izumi-san as fast as%Nlightning!%K%P
+
+0xFC8
+I'm no longer hesitant.%K%P
+

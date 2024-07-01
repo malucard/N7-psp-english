@@ -1,0 +1,1317 @@
+text area offset and size:
+0x3878
+0x5BFA
+0x40
+No! I can't give up here!%K%P
+
+0x4C
+Something inside me tells me that.%K%P
+
+0x58
+Haruka's still alive.%K%N
+
+0x64
+Her flame of light hasn't flickered out yet.%K%P
+
+0x80
+There's one possibility remaining. I'll risk everything on%Nthat possibility!%K%P
+
+0x94
+There's one possibility remaining. I'll risk everything on%Nthat possibility!%K
+
+0x36F0
+Hurry to the clinic.
+
+0x36FC
+I've got to go to the lodge.
+
+0x134
+The driver took Haruka in his car, and it was%Napproximately half an hour later that we arrived at the%Nclinic.%K%P
+
+0x140
+We woke up the sleeping doctor and quickly brought%NHaruka into the sickroom.%K%P
+
+0x1E0
+Makoto「Saki, I'll leave Haruka to you!」%K%P
+
+0x1F4
+Saki「... Huh? Where are you going!?」%K%P
+
+0x200
+Makoto「Neither of us can give Haruka a blood transfusion!」%K%P
+
+0x230
+At this rate, even if she goes to the clinic, Haruka won't%Nhave enough blood to survive.%K%P
+
+0x23C
+I entrust Haruka to the driver who hit her to go to clinic,%Nand start running to seek the one who has the same%Nblood type as Haruka... Her Original... Kurumi.%K%P
+
+0x248
+If I'm looking for her, then she should be at the lodge%Nright now!%K%P
+
+0x338
+I run through the pouring rain until I finally arrive at the%Nlodge.%K Out of breath, I enter the living room to find that%NOkuhiko and Yuka are having a party all to themselves.%K%P
+
+0x344
+The area around them has become mountains of snacks%Nand empty beer cans.%K%N
+
+0x350
+It seems like Okuhiko has bonded with the very drunk%NYuka.%K%P
+
+0x35C
+I firmly hold back my explosive anger, and survey the%Nroom.%K%N
+
+0x368
+Kurumi was here when I left...%K%P
+
+0x374
+... But she's nowhere to be found. Where did that girl go...?%K
+
+0x3708
+Ask Yuka.
+
+0x3714
+Ask Okuhiko.
+
+0x3B4
+Makoto「Hey, Yuka, listen to me!」%K%P
+
+0x3D0
+Yuka「Yesh?」%K%P
+
+0x3DC
+Makoto「What's your blood type?」%K%P
+
+0x3E8
+Yuka「Uhh... Whaa ish it again?」%K%P
+
+0x3F4
+Makoto「Hurry up and answer me, dammit!」%K%P
+
+0x408
+Yuka「Eyam finkin' sherioushly! Don't talk to me like dat!」%K%P
+
+0x414
+Damn... she really reeks of liquor. She must have drunk a%Nlot...%K%P
+
+0x420
+Makoto「I get... I'm sorry, so please hurry up and tell me! I'm%Nbegging you!」%K%P
+
+0x434
+Yuka「Mmm, very well. Eyam... umm, 'A+'.」%K%P
+
+0x440
+Makoto「Damn! So it was no use after all...」%K%P
+
+0x454
+Yuka「Huh? Or maybe ish 'B+'??」%K%P
+
+0x460
+Makoto「...」%K%P
+
+0x474
+Yuka「Huh? But eye alsho feel ish 'C+'... Eye dunno. Ahahahaha!」%K%P
+
+0x480
+Y-You damn drunkard... Repressing the urge to yell at%Nher, I try to get information about Kurumi out of her.%K%P
+
+0x48C
+Makoto「Well, forget the whole blood type thing... What happened%Nwith Kurumi?」%K%P
+
+0x4A0
+Yuka「Kurumi-tan? Dunno.」%K%P
+
+0x4AC
+Crap. I click my tongue.%K Has she already gone home?%K%P
+
+0x4B8
+Makoto「See you. I'm gonna look for Kurumi.」%K%P
+
+0x4CC
+Yuka「Huld on, Mako-tan! If yer talkin' to me, den come and have%Na drink!」%K%P
+
+0x4D8
+Makoto「I don't have time for that! Haruka was run over by a car!!%NShe needs Kurumi's help!」%K%P
+
+0x4EC
+Yuka「Huh? Run ove bai Kurumi? ... Haruka wash run over bai%NKurumi-tan?」%K%P
+
+0x4F8
+Makoto「Forget it! Later!!」%K%P
+
+0x50C
+Shit! I've lost a considerable amount of time! Even so,%Njust where could Kurumi be?%K%P
+
+0x5A4
+I once again throw myself into the pelting rain...%K%P
+
+0x630
+... ... ...%K%P
+
+0x6A0
+In the end, I couldn't find Kurumi, so I returned to the clinic.%K%P
+
+0x6F8
+Haruka lies down on the bed, her face pale...%K%P
+
+0x714
+Makoto「Okuhiko! Haruka's in trouble!!」%K%P
+
+0x720
+Just then, Okuhiko, who had been held down by Yuka,%Nquickly stands up.%K%P
+
+0x734
+Okuhiko「Wh-What!? What happened to Haruka-chan!?」%K%P
+
+0x740
+Makoto「... She was run over... by a car...」%K%P
+
+0x98C
+In the next instant, I collapse from receiving an intense%Nblow to my left cheek.%K%N
+
+0x998
+Okuhiko had hit me with a very powerful straight left...%K%P
+
+0x9A4
+Makoto「...」%K%P
+
+0x9B8
+Okuhiko「You stupid bastard! Why did that happen while she was%Nwith you!?」%K%P
+
+0x9C4
+Makoto「... Sorry...」%K%P
+
+0x9D8
+Okuhiko「Apologizing won't solve anything! So, what should I do!?」%K%P
+
+0x9E4
+Makoto「Okuhiko...」%K%P
+
+0x9F8
+Okuhiko「Shut up! I'm not doing this for your sake! I'm doing it for%NHaruka-chan's!」%K%P
+
+0xA04
+This is the first time I've seen Okuhiko look so serious.%K%N
+
+0xA10
+He's... really serious about Haruka's sake...%K%P
+
+0xA1C
+Makoto「I understand. Listen carefully...」%K%P
+
+0xA28
+Makoto「To save Haruka, we need a large amount of blood. But%Nthe clinic on this island doesn't have any blood%Ncompatible with her type in stock.」%K%P
+
+0xA34
+Makoto「That's why there's no other method but to give her a%Ndirect blood transfusion.」%K%P
+
+0xA40
+Makoto「We have to take it from someone who has a blood type%Nof B-, like Haruka, or O-...」%K%P
+
+0xA54
+Okuhiko「What was that...? Goddammit, I'm A+... Is there anyone%Nelse?」%K%P
+
+0xA60
+Makoto「Kurumi is B-...」%K%P
+
+0xA74
+Okuhiko「If you need Kurumi-chan, she went outside earlier!」%K%P
+
+0xA80
+Makoto「Did she go back to Lunabeach?」%K%P
+
+0xA8C
+Okuhiko「I don't know! She didn't say if she was going back!」%K%P
+
+0xA98
+Makoto「All right, then I'll try going to Lunabeach!」%K%P
+
+0xAA4
+Makoto「You search around this area! If by any chance Kurumi%Ncomes here...」%K%P
+
+0xB3C
+I write down the clinic's contact address on a note, give%Nit to Okuhiko, and rush out into the rain.%K%P
+
+0xB54
+Okuhiko「Ishihara! I'm counting on you!」%K%P
+
+0xBA8
+I quickly start running towards Lunabeach.%K%P
+
+0xBB4
+If she's not here, the possibility she returned to%NLunabeach is very high.%K%P
+
+0xBC0
+And in the worst-case scenario that she's not there, if I%Nborrow the bicycle at the shop, I can search faster...%K%P
+
+0xC48
+BANG, BANG! BANG, BANG! ... I pound on the door to%NLunabeach with enough force to break it.%K%P
+
+0xC54
+Izumi「Yesss... who is it～?」%K%P
+
+0xC60
+It seems that Izumi-san is still awake.%K%P
+
+0xC6C
+Makoto「It's me! It's Ishihara!」%K%P
+
+0xC9C
+Izumi「Yes, yes. What is it?」%K%P
+
+0xCA8
+When the door opens, I see Izumi-san standing there%Nwhile rubbing the sleep out of her very drowsy eyes.%K%P
+
+0xCBC
+Izumi「Geez... I'm not done counting the stock, you know...%NMakoto-kun, would you give me a little help?」%K%P
+
+0xCC8
+Makoto「N-Now's not the time for that! Is Kurumi back!?」%K%P
+
+0xCDC
+Izumi「Kurumi isn't here right now. She said she was going to%Nvisit the lodge, so...」%K%P
+
+0xCE8
+Damn... She didn't come back here either!?%K%P
+
+0xCF4
+Makoto「Haruka was in a car accident... she needs... a blood%Ntransfusion!!」%K%P
+
+0xD08
+Izumi「W-What was that!? Haruka-chan's been hurt?」%K%P
+
+0xD14
+Makoto「Calm down, Izumi-san! So... what's your blood type!?」%K%P
+
+0xD28
+Izumi「My... My blood type is O+!」%K%P
+
+0xD34
+Damn...! So Kurumi really is the only one...?%K%P
+
+0xD40
+Makoto「Haruka is B-! Kurumi's... Kurumi's also B-, isn't she!?」%K%P
+
+0xD54
+Izumi-san frantically nods at my words.%K%P
+
+0xD60
+I feel a little relieved and restless at the same time.%K%P
+
+0xD6C
+(Kurumi! Where are you right now!?)%K%P
+
+0xD78
+(Even though... Even though you're the only one I can%Nrely on right now...!!!)%K%P
+
+0xD8C
+Izumi「What should I do?」%K%P
+
+0xD98
+Makoto「Izumi-san, stay here!」%K%P
+
+0xDA4
+Makoto「If by any chance Kurumi and I miss each other and she%Ncomes back, I want you to take her to this clinic!」%K%P
+
+0xDB0
+I quickly write the address of the clinic Haruka's at, and%Nhand it to Izumi-san.%K%P
+
+0xDBC
+Makoto「Well then, I'm going to look! ... Ah, is it all right if I borrow the%Nbike!?」%K%P
+
+0xDD0
+Izumi「Of course! The faster you are, the better!! Save her...%NSave Haruka!」%K%P
+
+0xDE4
+I give her a powerful nod, and jump on the bike...%K%P
+
+0xDF0
+The sharp, piercing rain mercilessly obstructs my path.%K%N
+
+0xDFC
+It feels like everything in this world is trying to interfere%Nwith my actions.%K%P
+
+0xE08
+But I have to go.%K%N
+
+0xE14
+Even if the whole world turns against me...%K%N
+
+0xE20
+I will definitely save Haruka!!%K%P
+
+0xEA4
+Well then... where should I look?%K%N
+
+0xEB0
+What place would Kurumi go out to at this time...%K%P
+
+0xEBC
+...!!%K%P
+
+0xEC8
+Hey! Makoto!!%K%N
+
+0xED4
+Goddammit, calm down!!%K%N
+
+0xEE0
+Why would a high-schooler go out this late on a stormy%Nnight!?%K%P
+
+0xEEC
+Calm down... calm down...%K%N
+
+0xEF8
+First, I've got to think calmly...%K%N
+
+0xF04
+I won't find her if I search blindly...%K%P
+
+0xF10
+Think about why Kurumi went outside.%K%N
+
+0xF1C
+Remember... Remember... Remember!%K%N
+
+0xF28
+Remember Kurumi's behavior when I left the lodge!%K%P
+
+0xF34
+There's got to be a hint somewhere in Kurumi's speech%Nand conduct
+
+0xF40
+that should help me find her!!%K%P
+
+0xF4C
+...%K%P
+
+0xF58
+The reason Kurumi had to go outside... What was it...?%K
+
+0x3720
+To look for me...?
+
+0x372C
+She suddenly wanted to take a walk...?
+
+0x3738
+I don't know...
+
+0x103C
+Kurumi「Wait! Wait, Onii-chan! Where are you going!? Don't leave%NKurumi alone!!」%K%P
+
+0x10AC
+Suddenly, Kurumi's words fly by my mind...%K%P
+
+0x10B8
+(Don't tell me... She went out... in order to look for me...?)%K%P
+
+0x10C4
+Kurumi「So Kurumi wants to make as many memories as possible%Nwith you and the others in the time we have left.」%K%P
+
+0x10D0
+Kurumi... Kurumi came to see me.%K%N
+
+0x10DC
+Since I'm going back tomorrow...%K%N
+
+0x10E8
+Since we might not be able to see each other again...%K%P
+
+0x1110
+But even if that's true, that still doesn't give me any%Nspecific clues to Kurumi's whereabouts.%K%P
+
+0x111C
+At any rate, it's already been more than two hours since%NI left the lodge...%K%P
+
+0x1128
+Unfortunately, I have no choice but to search the whole%Nisland.%K%P
+
+0x1134
+I'll start around here first.%K%P
+
+0x1140
+To search farther away would be a waste of time.%K%P
+
+0x114C
+Once again, I push my body weight into the pedals...%K%P
+
+0x11A4
+(Damn! Did she suddenly want to take a walk... is that it!?)%K%P
+
+0x11B0
+Geez, why at such an important time, Kurumi!?%K%P
+
+0x11BC
+Makoto「In the first place, why would you go out and take a walk%Nin the middle of a rainy night!?」%K%P
+
+0x11C8
+Although no one else is around, I shout this in an urge to%Nvent.%K%P
+
+0x11D4
+The slowly creeping shadow of fate turns my intense%Nirritation to anger.%K%N
+
+0x11E0
+I try to channel my rage into my legs, and start pedaling%Nthe bike like a speed demon.%K%P
+
+0x11EC
+She's definitely got to be nearby.%K%P
+
+0x11F8
+I'll definitely find you, Kurumi!%K%P
+
+0x1204
+Wait for me, Haruka!!%K%P
+
+0x122C
+In the pouring rain, I commence my search for Kurumi.%K%P
+
+0x127C
+... I don't know!!!%K%N
+
+0x1288
+There's no way I would know!!%K%P
+
+0x1294
+In the first place, if she's a normal girl, then she shouldn't%Nbe outside on this rainy night!%K%P
+
+0x12A0
+But it's impossible for me to read the mentality of an%Nabnormal girl.%K%P
+
+0x12AC
+(No, wait...)%K%P
+
+0x12B8
+Just then, I am struck with a certain thought.%K%P
+
+0x12C4
+(Why didn't Kurumi come back even though it's so late?)%K%P
+
+0x12D0
+(... Perhaps it's because something happened to Kurumi%Nas well!)%K%P
+
+0x12DC
+The uneasiness inside me begins to grow more and more.%K%P
+
+0x1304
+In the endless downpour, I pedal on the bike with all my%Nstrength.%K%P
+
+0x1310
+(Haruka... Kurumi... wait for me!!)%K%P
+
+0x13AC
+Haruka... Is Haruka still alive...?%K%P
+
+0x13B8
+If my memories are correct, then my watch alarm should%Ngo off shortly after Haruka dies...%K%P
+
+0x13C4
+That's certainly... "4:30 A.M."...%K%P
+
+0x13D0
+There's no mistake.%K%N
+
+0x13DC
+Because the alarm was set for the time I went to go see%Nthe shiranui with Haruka...%K%P
+
+0x13E8
+So that means for my time limit, I have... Two and a half%Nhours left!!%K%P
+
+0x13F4
+Where do I look...?%K%N
+
+0x1400
+Where should I look...!?%K%N
+
+0x140C
+Where the hell should I look...!?%K%P
+
+0x1418
+My hands that are grasping the handles slip.%K%N
+
+0x1424
+My legs get twisted from pedaling the bike.%K%N
+
+0x1430
+Although it seems like I'm about to fall countless times, I%Ndon't slow down.%K%P
+
+0x143C
+Kurumi... Kurumi... Where are you...? Where are you right%Nnow...? Tell me... Kurumi...!%K
+
+0x3744
+Tsukiya Hotel.
+
+0x3750
+Moon Beach.
+
+0x375C
+Viewpoint Park.
+
+0x1544
+Where should I head next?%K
+
+0x3768
+Tsukiya Hotel.
+
+0x3774
+Moon Beach.
+
+0x3780
+Viewpoint Park.
+
+0x1644
+Where should I head next?%K
+
+0x378C
+Lunabeach.
+
+0x3798
+Moon Beach.
+
+0x37A4
+Viewpoint Park.
+
+0x1744
+Where should I head next?%K
+
+0x37B0
+Lunabeach.
+
+0x37BC
+Princess Beach.
+
+0x37C8
+Viewpoint Park.
+
+0x1844
+Where should I head next?%K
+
+0x37D4
+Lunabeach.
+
+0x37E0
+Princess Beach.
+
+0x37EC
+Moon Beach.
+
+0x1944
+Where should I head next?%K
+
+0x37F8
+Lunabeach.
+
+0x3804
+Viewpoint Park.
+
+0x3810
+Moon Beach.
+
+0x19CC
+I can't find her...%K%P
+
+0x19D8
+I can't find Kurumi...%K%P
+
+0x19E4
+I want to go to the clinic... I want to be by Haruka's side...%K
+
+0x381C
+Fucking dumbass! You can't let Haruka die!
+
+0x3828
+Haruka... I'm sorry... I couldn't...
+
+0x1A24
+Not yet...!%K%N
+
+0x1A30
+I won't... give up...!%K%N
+
+0x1A3C
+I pedal even harder... as if to cast aside my own%Nweakness.%K%P
+
+0x1A60
+I can't find Kurumi...%K%N
+
+0x1A6C
+I decide to give up on the search.%K%P
+
+0x1AC4
+But I have one last remaining hope...%K%N
+
+0x1AD0
+The helicopter heading towards the clinic transporting%Nthe blood.%K%P
+
+0x1ADC
+... ... ...%K%P
+
+0x1AF0
+Haruka lies down on the bed, her face pale...%K%P
+
+0x1B8C
+I don't see Kurumi here...%K%N
+
+0x1B98
+I'll go look somewhere else.%K%P
+
+0x1BAC
+No good! She's nowhere to be found!!%K%N
+
+0x1BB8
+Where could she possibly be...!?%K%P
+
+0x1BCC
+To what extent will fortune abandon me?%K%P
+
+0x1BD8
+Am I being toyed around by some invisible power or%Nsomething?%K%P
+
+0x1BE4
+But whether or not such a power exists, it doesn't%Nconcern the current me.%K%P
+
+0x1BF0
+Even if it exists, I'll throw that power down.%K%P
+
+0x1BFC
+I'll smash fate into tiny pieces!%K%P
+
+0x1C08
+Haruka... Haruka... Wait for me...!%K%P
+
+0x1C28
+I ride the bike at full speed...%K%P
+
+0x1C34
+Makoto「My cries are drowned out by the noisy rainfall. It's even%Nhard for me to hear myself.」%K%P
+
+0x1C5C
+KURUMIIII! ANSWER MEEEEE!!%K%P
+
+0x1C68
+Makoto「I instinctively start complaining about Kurumi...」%K%P
+
+0x1C74
+Dammit... damn you, Kurumi...%K%N
+
+0x1C80
+But back then, I was the one who abandoned her and%Nleft the lodge.%K%P
+
+0x1C8C
+If I had been nicer towards her, then this probably%Nwouldn't have happened...%K%P
+
+0x1C98
+I bite my lips, and recommence my search for Kurumi.%K%P
+
+0x1D28
+When I come to my senses, I've been brought to a%Nstandstill in the middle of the road.%K%P
+
+0x1D34
+Over there... is the scene of Haruka's accident...%K%P
+
+0x1D40
+Although the rain has washed most of it away, there are%Nstill painful traces of blood on the asphalt remaining.%K%P
+
+0x1D4C
+As usual, the rain shows no signs of stopping.%K%N
+
+0x1D58
+If anything, it's only grown stronger.%K%P
+
+0x1D64
+My entire body is soaked, as if I'd been through a%Nwaterfall.%K%P
+
+0x1D70
+I feel completely frozen and numb.%K%N
+
+0x1D7C
+My hands grasping the handles, my feet on the pedals... I%Ncan't feel them... I can't feel anything...%K%P
+
+0x1D88
+I can't find Kurumi...%K%N
+
+0x1D94
+I've dropped by Lunabeach at fixed intervals all this%Ntime, but there's no sign of her coming back.%K%P
+
+0x1DA0
+Even though I've searched so much, I can't find her...%K%N
+
+0x1DAC
+It's as if the existence known as Kurumi has completely%Nvanished from this planet...%K%P
+
+0x1DB8
+The current time is "3:30 A.M."...%K%P
+
+0x1DC4
+Only one hour... until my time limit is up...%K%P
+
+0x1DD0
+Is it... too late now...?%K%P
+
+0x1DDC
+At the very least, I might be able to make it to the clinic in%Ntime to stay by Haruka's side until the end...%K%P
+
+0x1DE8
+Or should I not give up and continue searching...? Even if%Nit's a useless endeavor...%K
+
+0x3834
+I should at least stay with her...
+
+0x3840
+I won't give up until the end!!
+
+0x1E28
+At the very least... At the very least, I should stay by%Nher at least at the very end...%K%N
+
+0x1E34
+That's... the only thing the current me can do...%K%P
+
+0x1E40
+I cheer up my stiff body once more, and head to the%Nclinic where Haruka is waiting.%K%P
+
+0x1EA4
+... ... ...%K%P
+
+0x1EC8
+Haruka lies down on the bed, her face pale...%K%P
+
+0x1F04
+(There's no way in hell... that I'll give up until the end!!)%K%P
+
+0x1F10
+I... I swore it...%K%N
+
+0x1F1C
+On that day... that night when I saw the shiranui with%NHaruka...%K%P
+
+0x1F28
+"I'll protect Haruka,"... ... I swore that...!!%K%P
+
+0x1FC8
+Haruka「I understand... I'll trust you.」%K%P
+
+0x1FDC
+Haruka's voice...%K%P
+
+0x1FE8
+That's right... Haruka trusts me!%K%N
+
+0x1FF4
+So... I can't betray Haruka!%K%P
+
+0x203C
+... But... at this rate...%K%P
+
+0x2048
+At this rate, history will just repeat itself, right...?%K%N
+
+0x2054
+And then... will I be sent flying back to the past again...?%K%P
+
+0x2060
+The next time I go back, I won't necessarily have my%Nmemories.%K%P
+
+0x206C
+I might lose all my memories of Haruka.%K%N
+
+0x2078
+And naturally, Haruka will forget about me too...%K%P
+
+0x20E8
+Haruka「I won't leave. I also love this world where you exist too%Nmuch...」%K%P
+
+0x2130
+Suddenly... memories of Haruka go rushing through me...%K%N
+
+0x213C
+When she looked at me... her gaze...%K%N
+
+0x2148
+The feel of her arms... her warmth... Her soft lips...%K%P
+
+0x2158
+―I don't want to forget that!%K%N
+
+0x2164
+―I don't want to lose that!%K%P
+
+0x2170
+So I've got to think!%K%P
+
+0x217C
+Am I forgetting something...?%K%N
+
+0x2188
+Is there something important that I'm forgetting...?%K%P
+
+0x2194
+Once again, I shift through the threads of my memories.%K%N
+
+0x21A0
+I concentrate all my nerves...%K%P
+
+0x21BC
+...!?%K%P
+
+0x21D8
+A flash suddenly runs through my head. The thing I%Nremember in that instant... is...%K%P
+
+0x21F0
+A flash suddenly runs through my head.%K The thing I%Nremember in that instant... is...%K
+
+0x384C
+Kurumi's words...
+
+0x3858
+My words...
+
+0x2294
+Kurumi「After this, do you wanna go on a Mystery Tour?」%K%P
+
+0x22A0
+Kurumi「Yep. Kurumi wants to go check out that so-called 'Shiki%Nno Mori Shrine' and see if the rumors are true or not.」%K%P
+
+0x22AC
+Kurumi「Well? It sounds kinda fun, doesn't it?」%K%P
+
+0x2310
+That's right...%K%N
+
+0x231C
+On the night of the 2nd, Kurumi definitely said that.%K%P
+
+0x2328
+I picture Kurumi's pouting face at Izumi-san's opposition...%K%P
+
+0x2364
+I realize that I still haven't searched that shrine yet.%K%P
+
+0x2370
+Perhaps... Kurumi's... at the shrine...?%K%P
+
+0x237C
+I unhesitantly ride towards the shrine...%K%P
+
+0x23D0
+But... Kurumi's not here either...%K%P
+
+0x23DC
+... She's not... here either...%K%N
+
+0x23E8
+Haruka... what should I...%K%P
+
+0x245C
+... ... ...%K%P
+
+0x24A4
+And I have one last remaining hope... The helicopter%Nheading towards the clinic transporting the blood.%K%P
+
+0x24B0
+... ... ...%K%P
+
+0x24C4
+Haruka lies down on the bed, her face pale...%K%P
+
+0x2510
+Makoto「I'm going to look for Haruka!」%K%P
+
+0x2524
+Kurumi「Huh?」%K%P
+
+0x2530
+Makoto「I'll be back soon, so wait in the lodge!」%K%P
+
+0x25BC
+That's right...%K%N
+
+0x25C8
+When I left the lodge, I definitely said that.%K%P
+
+0x25D4
+"Wait at the lodge!" ...%K%P
+
+0x25E0
+Entrusting everything on my last hope, I ride to the%Nlodge...%K%P
+
+0x2678
+Just a little more, and I'll be at the lodge...%K%N
+
+0x2684
+But... If Kurumi isn't there either...%K%N
+
+0x2690
+I can think nothing but bad thoughts.%K%P
+
+0x269C
+―Just then, someone calls out!%K%P
+
+0x26A8
+Okuhiko「OI! ISHIHARAAA!!! I FOUND HER, OVER HERE!!」%K%P
+
+0x26B4
+Okuhiko's shouting voice brings me to my senses.%K%N
+
+0x26C0
+I pedal towards the direction of his voice with enough%Nforce to break the bike's pedals!%K%P
+
+0x26CC
+Makoto「OKUHIKO!! WHERE ARE YOU!?」%K%P
+
+0x26D8
+My vision is obstructed by the heavy rain, so I can only%Nadvance in the direction of his voice.%K%P
+
+0x26E4
+Okuhiko「Over here! Towards the lodge!!」%K%P
+
+0x2724
+Kurumi and Okuhiko descend the lodge's stairs huddling%Nclose together.%K%N
+
+0x2730
+She's restlessly holding a large umbrella...%K%P
+
+0x2750
+Kurumi「Ah! Where did you go, Onii-chan!?」%K%P
+
+0x275C
+Makoto「I was... looking for you!!!」%K%P
+
+0x2780
+Kurumi「For Kurumi? ... But Onii-chan, you left so suddenly...」%K%P
+
+0x278C
+The umbrella Kurumi is holding out is designed for men.%K%N
+
+0x2798
+Could it be... that she went outside to try to give it to me?%K%P
+
+0x27A4
+But now's not the time to think about things like that!%K%P
+
+0x27B0
+Makoto「Kurumi! Ride in the back!」%K%P
+
+0x27C4
+Kurumi「Huh, huh? Don't be pushy, Onii-chan～」%K%P
+
+0x27D0
+Makoto「Look, just hurry!!」%K%P
+
+0x27E4
+Once I confirm Kurumi is riding on the luggage carrier,%K%N
+
+0x27F0
+I pedal the bike faster than I ever have before.%K%P
+
+0x280C
+Okuhiko「I'll leave the rest to you!」%K%P
+
+0x2860
+Dammit! Can I make it in time!?%K%N
+
+0x286C
+Now that Kurumi's riding with me, I head straight for the%Nclinic.%K%P
+
+0x2878
+On the way, Kurumi's umbrella gets blown away by the%Nwind, but I can't worry about that.%K%N
+
+0x2884
+It seems Kurumi has also realized that I'm not my usual%Nself right now, and so she remains quiet.%K%P
+
+0x28B0
+... ... ...%K%P
+
+0x28BC
+I was so focused on pedaling that I don't know what%Nhappened after that...%K%P
+
+0x28E0
+When I come to my senses, the clinic is right before my%Neyes.%K%P
+
+0x28EC
+But the bike's chain has become wrecked, so it can%Nnever be used again.%K%P
+
+0x28F8
+Makoto「... Kurumi... go into that clinic...」%K%P
+
+0x2904
+Makoto「... I'm counting on you... please save her...」%K%P
+
+0x2918
+Kurumi「...! Got it!!」%K%P
+
+0x2970
+And then, my consciousness drifts far away from reality...%K%P
+
+0x297C
+(Haruka... please... live...)%K%P
+
+0x29D0
+When I wake up, I see Haruka's peaceful sleeping face%Nbefore my eyes...%K%P
+
+0x29DC
+That face... it's like she's Sleeping Beauty herself.%K%P
+
+0x29E8
+No... "sleeping face" might not be the correct%Nexpression...%K%P
+
+0x29F4
+Perhaps... Haruka's...%K%P
+
+0x2A00
+I stare at Haruka's face for a short time.%K%P
+
+0x2A0C
+... How much time has passed?%K%P
+
+0x2A18
+Unable to hold it in, hot tears spill over and fall from my%Neyes.%K%N
+
+0x2A24
+My endless flood of tears begins to fall from my eyes%Nonto Haruka's face...%K%P
+
+0x2A30
+Makoto「Haruka...」%K%P
+
+0x2A3C
+Before I know it, I forget the pain in my whole body, and%Nkiss Haruka on her lips.%K%P
+
+0x2A58
+... It's warm...%K%N
+
+0x2A64
+... Haruka's breath... is warm...%K%N
+
+0x2A70
+―WARM!?%K%P
+
+0x2AA0
+Haruka「... Good morning.」%K%P
+
+0x2AAC
+Makoto「Haruka...」%K%P
+
+0x2AB8
+Haruka「Sleeping Beauty... was awakened by a kiss, right?」%K%P
+
+0x2AC4
+Makoto「...」%K%P
+
+0x2AFC
+... ... ...%K%P
+
+0x2B08
+There's so much I want to talk to her about.%K%N
+
+0x2B14
+There's so much I want to ask her.%K%N
+
+0x2B20
+But first and foremost, I just want to tell her this.%K%P
+
+0x2B2C
+Makoto「I'm so glad... that you're alive...」%K%P
+
+0x2B38
+Makoto「Because you're my irreplaceable... most precious...%Nperson...」%K%P
+
+0x2B44
+And then, I gently embrace Haruka.%K%N
+
+0x2B50
+Her body's warmth is ensuring her existence...%K%P
+
+0x2C10
+Makoto「!!」%K%P
+
+0x2C1C
+Saki is way ahead on the street...%K%P
+
+0x2C28
+The puppy, having found its master, goes running%Ntowards her from the opposite side.%K%P
+
+0x2C60
+And then, the headlights cut through the darkness...%K%P
+
+0x2C6C
+... From thereon out, it's the second coming of my former%Nnightmare.%K%N
+
+0x2C78
+Everything is the same as that time, as that night...%K%P
+
+0x2C84
+Makoto「HARUKAAAAA!!!!!」%K%P
+
+0x2C90
+I wring out a loud scream from within my body...%K%N
+
+0x2C9C
+I failed again... I couldn't save her...%K%P
+
+0x2CA8
+I... I... couldn't protect Haruka...%K%P
+
+0x2D10
+... ... ...%K%P
+
+0x2D24
+With his skillful handling, the doctor performs%N"hemostasis treatment", which seems to have at least%Nsuccessfully stopped the bleeding.%K%P
+
+0x2D30
+However, by the looks of things, I know that it's too early%Nto jump to conclusions.%K%P
+
+0x2D58
+Doctor「... I hate to tell you this, but... She's already lost most of%Nthe blood in her body. ... Her blood pressure is already%Nconsiderably low...」%K%P
+
+0x2D64
+Doctor「She only... has an hour or two left...」%K%P
+
+0x2D70
+Saki「No way!」%K%P
+
+0x2D7C
+Doctor「A blood transfusion... As long as she has a blood%Ntransfusion, she might recover somehow.」%K%P
+
+0x2D88
+Doctor「... Her blood type is B-... Are either of you B- or O-?」%K%P
+
+0x2D94
+Makoto「...」%K%P
+
+0x2DA0
+Saki「...」%K%P
+
+0x2DAC
+I now know that our blood types are incompatible.%K But%Nthere's nothing I can do about it anymore.%K%N
+
+0x2DB8
+I can't do anything about it...%K%P
+
+0x2DD4
+I touch Haruka's hand.%K%P
+
+0x2DE0
+Haruka, who was energetic just a few hours ago... Haruka,%Nwho was smiling just hours ago... Haruka, who was looking%Nat me just a few hours ago...%K%P
+
+0x2DF4
+At that moment, Haruka's eyes suddenly open.%K%P
+
+0x2E00
+Makoto「...!」%K%P
+
+0x2E0C
+Haruka「Makoto...?」%K%P
+
+0x2E18
+Haruka's eyes are blank.%K She stares into space, not%Nnoticing me.%K%P
+
+0x2E24
+Makoto「I'm right here... Haruka...」%K%P
+
+0x2E30
+I grasp Haruka's hand. I grasp it strongly, stronger than%Never before, hoping that she'll notice my existence...%K%P
+
+0x2E3C
+Haruka「That hurts...」%K%P
+
+0x2E48
+She says it in a weak voice. I frantically lessen the%Npower of my grip.%K%P
+
+0x2E54
+Makoto「S-Sorry...」%K%P
+
+0x2E60
+Haruka「No, don't be...」%K%P
+
+0x2E6C
+She continues staring into space. She might not even%Nhave the power to turn her own head...%K%P
+
+0x2E94
+Makoto「Haruka... Haruka...%K I... I don't want to lose you...」%K%P
+
+0x2EA0
+Guh. A thick sound comes from inside my chest. My voice%Nhas become tearful, bursting out of me like water%Ngushing from a dam.%K%P
+
+0x2EAC
+Makoto「I don't want that. I couldn't bear it...」%K%P
+
+0x2EB8
+Haruka「... It's all right, Makoto.」%K%P
+
+0x2EC4
+Haruka「Because soon, we'll go fishing together again...」%K%P
+
+0x2ED0
+Makoto「...」%K%P
+
+0x2EDC
+Haruka「... I'm sorry, Makoto. I'm a little tired... I guess I shouldn't%Nhave taken that evening stroll after all...」%K%P
+
+0x2EE8
+Makoto「... Ha... Haruka...」%K%P
+
+0x2EF4
+Haruka「I've got to sleep... Yuka's going to scold me for this%Ntomorrow...」%K%P
+
+0x2F10
+Her eyes slowly begin to close...%K%P
+
+0x2F1C
+No... Wait... Wait... Haruka...%K%P
+
+0x2F28
+Haruka「I'm going to sleep now, okay...? Good... night...」%K%P
+
+0x2F3C
+Haruka「...」%K%P
+
+0x2F48
+Haruka's hand limply slips out of my own and dangles...%K%P
+
+0x2F54
+In the next instant... Something slips out of it.%K%P
+
+0x2F7C
+The object lying on the floor... is...%K%P
+
+0x2FB8
+It's that bell again...%K%P
+
+0x2FC4
+Makoto「!!」%K%P
+
+0x2FE8
+I look at Haruka's face. It looks peaceful, so very%Npeaceful.%K%P
+
+0x2FF4
+Her eyes will never open again...%K%P
+
+0x3000
+(Damn this thing, damn this thing...!)%K%P
+
+0x3028
+I kick the fallen bell away.%K%N
+
+0x3034
+The bell rings as it recoils off the wall.%K%P
+
+0x306C
+My field of vision clouds.%K And in that instant, I break down%Nweeping.%K%N
+
+0x3078
+The tears pour out of me one after another.%K I can't stop.%K I%Ndon't want them to stop.%K%P
+
+0x3084
+In the end, I couldn't change anything.%K%N
+
+0x3090
+Although I knew everything beforehand, I couldn't%Nchange anything.%K%P
+
+0x30B8
+(... So history will repeat countless times...?)%K%P
+
+0x30C4
+And so, I will probably go to meet Haruka again.%K%N
+
+0x30D0
+―A Haruka who doesn't know me...%K%P
+

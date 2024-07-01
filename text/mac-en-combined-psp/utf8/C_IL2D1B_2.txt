@@ -1,0 +1,192 @@
+text area offset and size:
+0x670
+0xB50
+0x9C
+I open the door to Lunabeach.%K%P
+
+0xA8
+Standing there are Yuka, Haruka, Kurumi, Okuhiko... and%NIzumi-san.%K%P
+
+0xB4
+Everyone's gazes are focused on me.%K%P
+
+0xC0
+Makoto「A-Ah... Umm...」%K%P
+
+0xD4
+Kurumi「Oh! You're the guy from earlier!」%K%P
+
+0xE0
+Makoto「... Huh?」%K%P
+
+0xF4
+Kurumi「Kurumi's very sorry about back then.」%K%P
+
+0x100
+Kurumi「She didn't know that you were an acquaintance of%NOnee-chan's...」%K%P
+
+0x10C
+Makoto「...」%K%P
+
+0x120
+Kurumi「It's 'Makoto-kun', right?」%K%P
+
+0x134
+Kurumi「Don't worry! Kurumi remembers now!」%K%P
+
+0x140
+Makoto「...」%K%P
+
+0x154
+Kurumi「You're one of the students at Onee-chan's school,%Nright?」%K%P
+
+0x160
+Makoto「???」%K%P
+
+0x16C
+Oh, right...%K%N
+
+0x178
+Izumi-san is a graduate from my college...%K%P
+
+0x184
+Makoto「... Well, that's pretty much right.」%K%P
+
+0x1A0
+Okuhiko「But is it really all right, Professor?」%K%P
+
+0x1AC
+―Professor!?%K%P
+
+0x1C0
+I carefully follow Okuhiko's gaze, which is fixed on...%K%P
+
+0x1D4
+Izumi「Yes, since there's nothing that can be done about it.」%K%P
+
+0x1E0
+... I-Izumi-san!?%K%P
+
+0x1EC
+Izumi「After all, you spilled the beans, right, Okuhiko?」%K%P
+
+0x200
+Okuhiko「B-But, it was unavoidable at that time!」%K%P
+
+0x20C
+Okuhiko「Ishihara threatened me! Using such a cowardly method%Nlike violence-」%K%P
+
+0x218
+Izumi「It's fine now.」%K%P
+
+0x224
+Izumi「What's done is done, after all...」%K%P
+
+0x230
+Izumi-san says this, and looks at me.%K%P
+
+0x244
+She's smiling...%K%N
+
+0x250
+But it's a fake, awkward smile.%K%P
+
+0x26C
+Yuka「H-Hold on... What do you mean!?」%K%P
+
+0x278
+Yuka「You let it out... Okuhiko-kun, you're not talking about 'that',%Nare you?」%K%P
+
+0x28C
+Okuhiko「No, that's not it.」%K%P
+
+0x298
+Okuhiko「None of you... know anything.」%K%P
+
+0x2AC
+Yuka「???」%K%P
+
+0x2B8
+Haruka「???」%K%P
+
+0x2C4
+Kurumi「???」%K%P
+
+0x2D8
+Okuhiko「Ah, damn, how should I explain this?」%K%P
+
+0x2EC
+Okuhiko「In short, the two of us...」%K%P
+
+0x2F8
+Okuhiko「―Were trying to deceive all of you.」%K%P
+
+0x314
+Haruka「... All of us?」%K%P
+
+0x328
+Okuhiko「Yeah, that's right.」%K%P
+
+0x334
+Okuhiko「As Sun Tzu once said...」%K%P
+
+0x340
+Okuhiko「'In order to deceive your enemies, first deceive your%Nallies.'」%K%P
+
+0x34C
+Okuhiko「It's likely none of you knew anything, but... we had%Nplanned for you to become... our assistants.」%K%P
+
+0x368
+Yuka「Assistants... for what?」%K%P
+
+0x37C
+Okuhiko「I mean...」%K%P
+
+0x398
+Okuhiko「You were to be our assistants for this 'experiment'!」%K%P
+
+0x3A4
+... Exper... iment...???%K%P
+
+0x3D4
+Makoto「Hey... what the hell... is that...?」%K%P
+
+0x3E0
+Makoto「... What the hell are you saying... Okuhiko?」%K%P
+
+0x3EC
+Makoto「What do you mean...?」%K%P
+
+0x3F8
+Makoto「... 'Professor'... Why are you calling Izumi-san 'Professor'?」%K%P
+
+0x404
+Makoto「What the hell... is this experiment...?」%K%P
+
+0x410
+Makoto「―What is this fucking experiment!!?」%K%P
+
+0x41C
+My legs are trembling.%K%P
+
+0x428
+I don't even know what I'm shouting, but I don't care; my%Nhead feels like it's going to explode.%K%P
+
+0x43C
+Izumi「Makoto-kun... come with me.」%K%P
+
+0x448
+Izumi-san takes my hand tightly as she mutters this.%K%P
+
+0x454
+Gradually, her gentle warmth permeates through me.%K%P
+
+0x460
+Makoto「Izumi-san...」%K%P
+
+0x474
+Just like that, Izumi-san takes me by hand, and opens%Nthe door to Lunabeach...%K%P
+
+0x4D8
+... ... ...%K%P
+

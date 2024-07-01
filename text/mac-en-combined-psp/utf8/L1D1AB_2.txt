@@ -1,0 +1,417 @@
+text area offset and size:
+0xB78
+0x1D2E
+0x54
+Yuka and I ate all of the "Mysterious Object", along with%Ntwo pieces each of the "charcoal", including Haruka and%NOkuhiko's share.%K%P
+
+0x60
+Right now, Yuka is happily humming while washing the%Ndishes.%K%P
+
+0x6C
+I think it's more of the fact that she can now say that%Nsomeone actually ate her cooking, rather than being full,%Nthat's the cause of her happiness.%K%P
+
+0x78
+In short, I became the sole sacrifice for that purpose.%K%P
+
+0x84
+Makoto「Ugh...」%K%P
+
+0x90
+I feel sick...%K%P
+
+0x9C
+I can feel my chest and throat filling up with nausea.%K%P
+
+0xA8
+I would rush to the bathroom as fast as I could, but if I%Nthrew up, I'd have to look at the monstrosity that nobody%Nshould ever have to suffer through seeing twice.%K%P
+
+0xB4
+I have to endure it... I have to wait until my stomach calms%Ndown.%K%P
+
+0xC0
+I swear that I'll never let Yuka cook ever again!%K%N
+
+0xCC
+I repeat this vow to myself 21 times.%K%P
+
+0xF4
+Just then, the doorbell rings from the front door.%K%P
+
+0x100
+―Huh?%K%P
+
+0x10C
+Our group has four members. Nobody else was%Nscheduled to come here except for us, right...?%K%P
+
+0x118
+As I squat down on the floor, I survey the surrounding%Narea restlessly.%K%P
+
+0x124
+Haruka is brushing her teeth in front of the sink.%K%P
+
+0x130
+Where's Okuhiko...?%K%P
+
+0x13C
+Okuhiko「Hey, Ishihara! Get the door. Our hands are full right now.」%K%P
+
+0x148
+I hear his voice coming from the kitchen.%K%P
+
+0x154
+It seems that Okuhiko is helping Yuka with the cleanup.%K%P
+
+0x17C
+Yuka「Come on Makoto, hurry up and answer it!」%K%P
+
+0x188
+Man...%K%P
+
+0x194
+(I don't want to cover the floor in vomit!)%K%P
+
+0x1A0
+Like an old man, I slowly wobble to my feet and stand up.%K%P
+
+0x1AC
+I take little steps to the front door while hunching over%Njust like one, too.%K%P
+
+0x1B8
+Makoto「Okay, I'm on it.」%K%P
+
+0x1C4
+I massage my stomach with my left hand while opening%Nthe door with my right.%K%P
+
+0x25C
+??「Thank you very much for your continued patronage～♪」%K%P
+
+0x268
+Makoto「... Huh?」%K%P
+
+0x274
+Standing in the doorway is an innocent-looking girl.%K%P
+
+0x280
+Judging from her appearance... I'd say she's probably a%Nmiddle-school student.%K%P
+
+0x28C
+Riding on top of her right palm is a square, silver colored%Nbag.%K%P
+
+0x2A8
+??「Here's the seafood pizza you ordered!」%K%P
+
+0x2B4
+Makoto「Seafood pizza? I never ordered anything like that...」%K%P
+
+0x2C0
+??「What!?」%K%P
+
+0x2CC
+A disturbed expression clouds her face as she%Nsearches through her pocket with her free hand until%Nshe pulls out a scrap of paper.%K%P
+
+0x2D8
+??「But the receipt definitely says you ordered a 'Seafood%NPizza', didn't you?」%K%P
+
+0x2E4
+Suddenly, she stops speaking formally, making her feel%Nlike a little kid on an errand.%K%P
+
+0x2F0
+Makoto「No, that's not what I mean. You see, I didn't order anything.」%K%P
+
+0x2FC
+??「But...」%K%P
+
+0x308
+She checks the receipt again.%K%P
+
+0x314
+??「... This is definitely the right address.」%K%P
+
+0x320
+As she says this, she shows me the receipt.%K%P
+
+0x32C
+However, there's no way I would have memorized the%Nlodge's address.%K%P
+
+0x338
+Makoto「Then wait a second.」%K%P
+
+0x344
+After telling her this, I turn around towards the kitchen.%K%P
+
+0x37C
+Makoto「Hey, Yuka? Did you order a pizza?」%K%P
+
+0x388
+Yuka「Why would I do that?」%K%P
+
+0x394
+Makoto「What about you, Okuhiko?」%K%P
+
+0x3A0
+With his back turned to me, Okuhiko lightly waves his palm,%Nindicating a "no."%K%P
+
+0x3AC
+All that's left is Haruka...%K%P
+
+0x3B8
+Makoto「Hey, Haruka!」%K%P
+
+0x3C4
+I shout inside towards the sink.%K%P
+
+0x3D0
+Haruka, who is still brushing her teeth, shakes her head.%K%P
+
+0x3DC
+Makoto「Didn't think so...」%K%P
+
+0x3E8
+Makoto「Well then, do any of you know this address?」%K%P
+
+0x3F4
+Yuka「It should be written on the nameplate, shouldn't it?」%K%P
+
+0x400
+Makoto「Nameplate?」%K%P
+
+0x40C
+Yuka「Yeah. It should be attached besides the front door...」%K%P
+
+0x418
+Makoto「I see. The nameplate, huh...」%K%P
+
+0x424
+I mutter this, and turn around again.%K%P
+
+0x45C
+I stick my head out of the door and check besides it.%K%P
+
+0x468
+She was right; there's a wooden nameplate there...%K%P
+
+0x474
+Makoto「Umm, could you show me that receipt again?」%K%P
+
+0x480
+??「Won't the pizza... get cold?」%K%P
+
+0x48C
+As she says this, she hands over the receipt.%K%P
+
+0x498
+I take it from her and compare it to the nameplate.%K%P
+
+0x4A4
+The nameplate says, "District 3, House 8, #1".%K%P
+
+0x4B0
+And written on the receipt is "3-8-1".%K%P
+
+0x4BC
+Makoto「Huh?」%K%P
+
+0x4C8
+I take a closer look at them.%K%P
+
+0x4D4
+"District 3, House 8, #1" and "3-8-1".%K%P
+
+0x4E0
+... What's this???%K%P
+
+0x4EC
+Makoto「... I don't think this is a '1', but a '7', right?」%K%P
+
+0x4F8
+??「What!?」%K%P
+
+0x504
+She immediately snatches the receipt from my hands.%K%P
+
+0x510
+??「3 and 8 and... 7?」%K%P
+
+0x51C
+??「Then, this isn't the Asakura house...」%K%P
+
+0x528
+...%K%P
+
+0x534
+Makoto「Aha ha ha ha ha!」%K%P
+
+0x540
+I unintentionally laugh.%K%P
+
+0x54C
+Of course! Why didn't I just check that first? Had I just%Nasked for the receiver's name, I could have cleared up%Nthis misunderstanding immediately!%K%P
+
+0x558
+Geez, I'm such a blockhead...%K%P
+
+0x564
+Makoto「Sorry, there isn't anyone here named Asaku...」%K%P
+
+0x570
+Okuhiko「Hold it right there!」%K%P
+
+0x57C
+That abrupt shout surprises the girl.%K%P
+
+0x5BC
+Makoto「What is it, Okuhiko?」%K%P
+
+0x5C8
+Okuhiko had walked over without me noticing it, and is%Ncurrently standing next to me.%K%P
+
+0x5DC
+Okuhiko「Ah, thank you for all your trouble～」%K%P
+
+0x5E8
+Makoto「Huh?」%K%P
+
+0x5FC
+Okuhiko「I'm Okuhiko Asakura.」%K%P
+
+0x608
+Makoto「What the hell are you saying? You're the Iida...」%K%P
+
+0x61C
+Okuhiko instantly shuts me up with a dirty glare...%K%P
+
+0x630
+Okuhiko「Right, right, I'm the Iida Lumber Store's part-time clerk,%NOkuhiko Asakura.」%K%P
+
+0x63C
+The girl watches our little exchange with curiosity...%K%P
+
+0x658
+??「Ah... Hello...」%K%P
+
+0x664
+... And mutters this, a little overwhelmed.%K%P
+
+0x678
+Okuhiko「So, where's the pizza?」%K%P
+
+0x684
+??「R-Right...」%K%P
+
+0x6A0
+Slightly flustered, the girl pulls a thin box out of the%Nsilver bag.%K%P
+
+0x6B4
+??「Here is your order!」%K%P
+
+0x6C0
+Okuhiko reverently accepts the box before asking her...%K%P
+
+0x6D4
+Okuhiko「How much is it?」%K%P
+
+0x6E8
+??「1200 yen.」%K%P
+
+0x6F4
+Okuhiko takes some money out of his pocket, and gives%Nit to the girl.%K%P
+
+0x700
+After she takes it...%K%P
+
+0x714
+??「Thank you very much♪」%K%P
+
+0x728
+... she gives a deep bow before energetically running off.%K%P
+
+0x73C
+Okuhiko gives a smug smile as he sees off the girl's%Nretreating figure.%K%P
+
+0x748
+I see, so that's how it is...%K%P
+
+0x754
+I'm finally beginning to understand Okuhiko's ulterior%Nmotive for coming here.%K%P
+
+0x7D8
+Yuka「Hold on, hold on. Just what is going on here?」%K%P
+
+0x7E4
+Well, I can't blame Yuka for getting sulky.%K%P
+
+0x7F0
+The slightly cold seafood pizza has been placed on top%Nof the glass table in front of the sofa.%K%P
+
+0x804
+Yuka「Okuhiko-kun... wasn't your stomach not feeling very%Ngood?」%K%P
+
+0x820
+Okuhiko「Yeah, but somehow... *munch munch*... before I knew it...%N*munch munch*... it looks like it got better.」%K%P
+
+0x834
+As he says this, Okuhiko reaches out for another slice%Nof pizza.%K%P
+
+0x840
+Yuka「Haruka... didn't you say that you weren't hungry earlier?」%K%P
+
+0x85C
+Haruka「Yes, earlier.」%K%P
+
+0x868
+She monotonously declares this with an unwavering%Nexpression.%K%P
+
+0x874
+She nibbles at a slice of pizza with her small mouth.%K%P
+
+0x880
+Yuka「What do you mean, 'earlier'...?」%K
+
+0xB50
+I'll back up Haruka.
+
+0xB5C
+I'll back up Yuka.
+
+0x8C8
+Makoto「She means she's hungry now, but wasn't earlier.」%K%P
+
+0x8D4
+Haruka gives a small nod in agreement.%K%P
+
+0x8E8
+Yuka「Geez―」%K%P
+
+0x8F4
+Defeated, Yuka sullenly drops down onto the sofa.%K%P
+
+0x910
+Makoto「Haruka... you're being rude to Yuka.」%K%P
+
+0x91C
+Yuka nods in agreement.%K%P
+
+0x928
+Haruka「...」%K%P
+
+0x934
+Haruka seemingly ignores me as she reaches out for%Nanother slice of pizza.%K%P
+
+0x948
+Yuka「Geez... Well, I'm over it now...」%K%P
+
+0x954
+With a defeated look, Yuka drops down onto the sofa.%K%P
+
+0x968
+I find that I can't really stay mad at Haruka, who is calmly,%Nyet intently, eating her food.%K%P
+
+0x974
+She's just like any other honest, simple girl. At least,%Nthat's how I see it.%K%P
+
+0x980
+My frustration dies down as I observe the placid girl.%K%P
+
+0x98C
+Before I know it, all signs of irritation are washed away.%K%P
+

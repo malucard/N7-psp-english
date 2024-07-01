@@ -1,0 +1,492 @@
+text area offset and size:
+0xE00
+0x2108
+0x40
+When we return to the lodge, I take a bath, brush my%Nteeth, and lie down on the bed.%K%P
+
+0x4C
+I'm planning on going out tonight, so I don't change into%Nmy nightclothes.%K%P
+
+0x58
+Wearing my normal clothes, I blankly stare at the ceiling.%K%P
+
+0x64
+Just then...%K%P
+
+0x8C
+Someone knocks on my door.%K%P
+
+0xA4
+The quiet, gentle knock is like a whisper.%K%P
+
+0xB0
+Now that I think about it, around this time on the last 2nd, I%Ninvited Haruka to go fishing with me.%K%P
+
+0xBC
+... Which means... this is Haruka?%K%P
+
+0xC8
+Makoto「Come on in.」%K%P
+
+0xF0
+As soon as I speak, the person opens the door,%Nrevealing themselves to be...%K%P
+
+0x138
+Makoto「I-Izumi-san!?」%K%P
+
+0x14C
+Izumi「Shh! Keep your voice down!」%K%P
+
+0x158
+Makoto「W-Why are you here, Izumi-san?」%K%P
+
+0x17C
+Izumi「Well... I thought you might be concerned...」%K%P
+
+0x188
+Makoto「Huh?」%K%P
+
+0x194
+Izumi「The conversation we had this afternoon... Don't you want%Nto hear the rest of it?」%K%P
+
+0x1A0
+Makoto「Y-Yeah... so you came here to finish it?」%K%P
+
+0x1AC
+Izumi「Besides that, I know you wanted to hear it no matter%Nwhat...」%K%P
+
+0x1B8
+Izumi「You wanted to know... my thoughts...」%K%P
+
+0x1CC
+As she says this, Izumi-san slowly sits down by the%Nbedside.%K%P
+
+0x1E0
+Izumi「However, I didn't get a chance to talk to you.」%K%P
+
+0x1EC
+Makoto「The truth is, I was thinking of going to Lunabeach tonight.」%K%P
+
+0x1F8
+Makoto「So it's actually pretty good that you came here...」%K%P
+
+0x20C
+Izumi-san lightly nods countless times, and gently looks%Ninto my eyes.%K%P
+
+0x218
+However, for a brief moment, I catch a glimpse of a%Nshadow within that kindness.%K%P
+
+0x224
+It seems that there's a pain lurking deep in her heart%Nthat she's enduring with all she's got...%K%P
+
+0x238
+Izumi「Makoto-kun? Ready?」%K%P
+
+0x244
+Makoto「Y-Yeah...」%K%P
+
+0x258
+Izumi「Concerning this story, I'm not sure how to talk about it...」%K%P
+
+0x264
+Izumi「It's very... complex.」%K%P
+
+0x270
+Izumi「The cause of the time travel...」%K%P
+
+0x27C
+Izumi「The issue of your memories...」%K%P
+
+0x288
+Izumi「This situation we've been placed in now...」%K%P
+
+0x294
+Izumi「It all comes from a phenomenon that cannot be%Nexplained from just one perspective.」%K%P
+
+0x2A0
+Makoto「...」%K%P
+
+0x2B4
+Izumi「That's why, for sure... I don't think you'll understand this.」%K%P
+
+0x2C8
+Izumi「No, I don't mean that I think it'll be too difficult to%Nunderstand...」%K%P
+
+0x2D4
+Izumi「It's just... extremely remote from common sense...」%K%P
+
+0x2E0
+Makoto「...」%K%P
+
+0x2F4
+Izumi「First... about 'Cur▲ Syndrome'...」%K%P
+
+0x300
+Izumi「I'll begin by talking about that...」%K%P
+
+0x30C
+Makoto「W-Wait a minute!」%K%P
+
+0x318
+Makoto「'Cur▲ Syndrome'...」%K%P
+
+0x324
+Makoto「Is that somehow connected to the time travel?」%K%P
+
+0x338
+Izumi「I think that's something you can judge for yourself after%NI'm done talking.」%K%P
+
+0x344
+Izumi「If you don't believe this story, then it's fine...」%K%P
+
+0x350
+Makoto「???」%K%P
+
+0x35C
+Izumi「Anyway, will you listen to my story all the way to the end?」%K%P
+
+0x368
+Makoto「... Y-Yes.」%K%P
+
+0x38C
+Izumi-san firmly grips the bed sheets.%K%P
+
+0x398
+She straightens them, messes them, and keeps%Nrepeating these monotonous actions while searching%Nfor the chance to open up.%K%P
+
+0x3A4
+Her eyes dart around the room as she runs a hand%Nthrough her hair. Finally, Izumi-san takes a small breath,%Nand begins talking.%K%P
+
+0x3D4
+Izumi「This is something that I haven't told Okuhiko...」%K%P
+
+0x3E0
+Izumi「I only mentioned two traits of Cur▲ Syndrome%Nyesterday...」%K%P
+
+0x3EC
+Izumi「But there's actually one more...」%K%P
+
+0x3F8
+Izumi「The very essential 'Third Trait'...」%K%P
+
+0x404
+Makoto「The Third... Trait...?」%K%P
+
+0x410
+Izumi-san nods.%K%P
+
+0x41C
+Her gaze is so serious that it's almost frightening...%K%P
+
+0x428
+Izumi「Makoto-kun, do you remember?」%K%P
+
+0x434
+Izumi「Yesterday, I summed up the First and Second Traits as%Nthe 'spreading of delusions', right?」%K%P
+
+0x440
+Izumi「But you know what? The phenomenon of the 'spreading%Nof delusions' isn't actually something that uncommon.」%K%P
+
+0x44C
+Izumi「Because the symptoms had already been categorized%Nas a type of another illness, Dr. Cabin didn't have to%Ndefine them anew.」%K%P
+
+0x458
+Makoto「Izumi-san, sorry, but can you put that in layman's terms?」%K%P
+
+0x46C
+Izumi「Hmm... in short, it was...」%K%P
+
+0x478
+Izumi「'The delusion that someone embraces begins to be%Nprojected onto another person.'」%K%P
+
+0x484
+Izumi「But that mental illness was already called 'Shared%NPsychotic Disorder', so it wasn't anything particularly%Nnew or unusual either.」%K%P
+
+0x490
+Makoto「So then... it was like this?」%K%P
+
+0x49C
+Makoto「In short, when examining Tom's symptoms, Dr. Cabin%Ndiscovered a different trait that wasn't part of 'Shared%NPsychotic Disorder'―'The Third Trait'.」%K%P
+
+0x4A8
+Makoto「That's precisely why he had to define it with a new name:%N'Cur▲ Syndrome'.」%K%P
+
+0x4BC
+Izumi「Yes, that's right...」%K%P
+
+0x4C8
+Makoto「So? What's this 'Third Trait'?」%K%P
+
+0x4D4
+Izumi「...」%K%P
+
+0x4E0
+Makoto「...?」%K%P
+
+0x4F4
+Izumi「I don't think you'll believe this, but...」%K%P
+
+0x500
+Makoto「'Won't believe this'... You said that earlier too...」%K%P
+
+0x50C
+Makoto「Is it that incredible?」%K%P
+
+0x520
+Izumi「... Yes...」%K%P
+
+0x52C
+Izumi「... To put it in one word...」%K%P
+
+0x538
+Izumi「... It's an abnormality...」%K%P
+
+0x544
+Makoto「What?」%K%P
+
+0x550
+Izumi「If 'The Third Trait' is actually true, then it might overturn%Nthe foundation of the way things are in this world...」%K%P
+
+0x55C
+Makoto「...」%K%P
+
+0x570
+Izumi「Makoto-kun...」%K%P
+
+0x57C
+Izumi「Calmly listen to me.」%K%P
+
+0x588
+Izumi「About Cur▲ Syndrome's 'Third Trait'.」%K%P
+
+0x594
+Izumi「The truth is, it's related to the 'Schr▼dinger's cat' Kurumi%Nwas talking about.」%K%P
+
+0x5A0
+Makoto「Schr▼dinger's cat!?」%K%P
+
+0x5C4
+―Then, just before she can reply!%K%P
+
+0x618
+Haruka「Ah...」%K%P
+
+0x624
+Makoto「H-Haruka!」%K%P
+
+0x640
+Izumi「Haruka-chan!」%K%P
+
+0x654
+Haruka「Why are... you here?」%K%P
+
+0x660
+Haruka furrows her eyebrows, and tilts her head slightly.%K%P
+
+0x66C
+Her gaze alternates between Izumi-san and I.%K%P
+
+0x680
+Izumi「E-Er... umm...」%K%P
+
+0x694
+Haruka「???」%K%P
+
+0x6A0
+Makoto「I brought her with me!」%K%P
+
+0x6AC
+I instinctively blurt these words out of my mouth.%K%P
+
+0x6C0
+Haruka「You did?」%K%P
+
+0x6CC
+Makoto「Y-Yeah...」%K%P
+
+0x6D8
+Haruka「Why?」%K%P
+
+0x6E4
+Makoto「Well, um...」%K%P
+
+0x6F0
+Makoto「... You see, I had a lot of things I wanted to ask her about%Nthe Seminar Camp...」%K%P
+
+0x6FC
+Haruka「Hmm...」%K%P
+
+0x710
+Izumi「Haruka-chan, is something wrong?」%K%P
+
+0x71C
+Haruka「I have something to ask Makoto.」%K%P
+
+0x728
+Makoto「M-Me?」%K%P
+
+0x734
+Makoto「Could you be talking about... fishing?」%K%P
+
+0x748
+Haruka「Y-Yes... that's right...」%K%P
+
+0x754
+Haruka「I wanted you to teach me how to fish...」%K%P
+
+0x760
+Haruka「But how did you know that?」%K%P
+
+0x76C
+Makoto「Huh?」%K%P
+
+0x778
+Makoto「Th-That's... well, how do I put it...」%K%P
+
+0x784
+Makoto「Intuition... I suppose?」%K%P
+
+0x798
+(Great...)%K%P
+
+0x7A4
+(Why do we have to keep getting interrupted like this?)%K%P
+
+0x7B0
+(Just when we were getting to the most important part of%Nall times...)%K%P
+
+0x7E0
+Yuka must have heard us talking, for she comes in next.%K%P
+
+0x7F4
+Yuka「Ah! Izumi-san! What are you doing here!?」%K%P
+
+0x810
+Haruka「Makoto... brought her to his room.」%K%P
+
+0x81C
+Makoto「D-Don't put it like that!」%K%P
+
+0x84C
+Yuka「Hold on, what's with that?」%K%P
+
+0x858
+Yuka「Is this true, Izumi-san?」%K%P
+
+0x874
+Izumi「Y-Yes... in a way...」%K%P
+
+0x880
+Makoto「I-Izumi-san, why are you-」%K%P
+
+0x89C
+Haruka「But didn't you say... that you brought her here?」%K%P
+
+0x8A8
+Makoto「Yes, but that's all I said! The way you said makes it%Nsound like Izumi-san and I were... going to...」%K%P
+
+0x8C4
+Yuka「Geez, Makoto! There's no use in arguing!」%K%P
+
+0x8D0
+Yuka「Bringing the 'Professor' to your room, of all people...」%K%P
+
+0x8E4
+Yuka「For God's sake, you've got some nerve...」%K%P
+
+0x8F0
+Makoto「...」%K%P
+
+0x904
+Yuka「There, there, Izumi-san, you're not hurt, are you?」%K%P
+
+0x910
+Yuka「It's late now, so come and sleep in my room.」%K%P
+
+0x924
+Izumi「H-Huh? Th-That's all right, you don't need to...」%K%P
+
+0x930
+Izumi「Besides, if I don't go back to the shop, Kurumi will-」%K%P
+
+0x94C
+Kurumi「Onee-chan, why did you come here?」%K%P
+
+0x960
+Izumi「K-Kurumi...」%K%P
+
+0x96C
+Kurumi「You disappeared so suddenly! Kurumi was looking for%Nyou!」%K%P
+
+0x988
+Yuka「As you can see, there's no need to worry.」%K%P
+
+0x994
+Yuka「Well? What do you say, Izumi-san?」%K%P
+
+0x9A0
+Izumi「...」%K%P
+
+0x9AC
+Makoto「...」%K%P
+
+0x9C8
+Okuhiko「Huh? What's going on?」%K%P
+
+0x9D4
+Okuhiko「Why is everyone gathered here?」%K%P
+
+0xA1C
+... ... ...%K%P
+
+0xA44
+And so, Izumi-san and Kurumi decide to sleep in Yuka's%Nroom tonight.%K%P
+
+0xA50
+I promise to go fishing with Haruka, and crawl under the%Ncovers of my bed.%K%P
+
+0xA5C
+"Time travel."%K
+
+0xA68
+"The infinite loop."%K
+
+0xA74
+"The mystery of our memories."%K%N
+
+0xA80
+"The true nature of the bell."%K
+
+0xA8C
+"The Third Trait."%K
+
+0xA98
+"Schr▼dinger's cat."%K%P
+
+0xAA4
+Just how are they all connected?%K%P
+
+0xAB0
+I want to ask Izumi-san about the truth right now.%K%P
+
+0xABC
+But even though I want to, I can't.%K%P
+
+0xAC8
+She's asleep now, stuck between Yuka and Kurumi like a%Nsandwich.%K%P
+
+0xAD4
+(Ah... just what is this "Schr▼dinger's cat"!?)%K%P
+
+0xAE0
+(What is "The Third Trait"!!?)%K%P
+
+0xAEC
+(How are they related the infinite loop!!!?)%K%P
+
+0xAF8
+Makoto「Haah...」%K%P
+
+0xB04
+Alone in the dark, all I can do is sigh...%K%P
+

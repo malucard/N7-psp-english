@@ -1,0 +1,648 @@
+text area offset and size:
+0x1108
+0x2BFA
+0x28
+Izumi「Oh, I know!」%K%P
+
+0x34
+Suddenly, Izumi-san stands up.%K%P
+
+0x48
+Izumi「This is a good time, so why don't we all go on a drive%Ntogether?」%K%P
+
+0x54
+Makoto「What!?」%K%P
+
+0x60
+Izumi「At any rate, it doesn't seem like many customers will be%Ncoming today, so...」%K%P
+
+0x74
+Izumi「I'll just temporarily close down the shop... okay?」%K%P
+
+0x80
+Izumi-san pulls her car key out of her pocket.%K%P
+
+0x9C
+Okuhiko「Wh-What are you saying, Izumi-san!?」%K%P
+
+0xA8
+Okuhiko「The car... it shouldn't be... working, right!?」%K%P
+
+0xB4
+(Shouldn't be... working???)%K%P
+
+0xC8
+Izumi「Y... Yes... now that you mention it... That's true.」%K%P
+
+0xD4
+Izumi「How careless of me... to forget...」%K%P
+
+0xE0
+Izumi-san slips the key back into her pocket.%K%P
+
+0xF4
+And, at that time...%K%P
+
+0x11C
+Something... falls...%K%P
+
+0x128
+It's the echo of a high pitched metallic sound that I've%Nheard before.%K%P
+
+0x150
+A restless feeling creeps up on me as chills begin to%Nspread down my spine.%K%P
+
+0x15C
+(I-Impossible...)%K%P
+
+0x168
+Izumi-san bends over and picks up what she dropped to%Nher feet.%K%P
+
+0x174
+In her palm...%K%P
+
+0x180
+... is...%K%P
+
+0x194
+―The bell!!%K%P
+
+0x1A0
+There's no doubt about it!%K%N
+
+0x1AC
+It's definitely that bell!%K%P
+
+0x1B8
+The bell I saw... in my dream.%K%P
+
+0x1C4
+The bell that should have sunk under the ocean... on the%Nnight of the 1st.%K%P
+
+0x1D0
+What's...%K%N
+
+0x1DC
+What's... it doing here!?%K%P
+
+0x1F0
+Makoto「I-Izumi-san...」%K%P
+
+0x1FC
+Makoto「That... bell...」%K%P
+
+0x210
+Izumi「Oh... this?」%K%P
+
+0x224
+Izumi「Kurumi gave this to me.」%K%P
+
+0x230
+Makoto「Kurumi did!?」%K%P
+
+0x23C
+Izumi「I tied it to the key, but I guess it got undone.」%K%P
+
+0x248
+Makoto「When... did you get it?」%K%P
+
+0x25C
+Izumi「It was the night of the 4th. Kurumi said she 'picked it up%Nat Princess Beach'...」%K%P
+
+0x268
+Makoto「Princess Beach...」%K%P
+
+0x274
+Now that I think about it, on the morning of the 4th, Kurumi%Nand I went to Princess Beach...%K%P
+
+0x280
+At that time, when she caught crabs at the rock wall,%NKurumi said this.%K%P
+
+0x2C8
+Kurumi「Kurumi just picked up something a little interesting...」%K%P
+
+0x2DC
+It was... that bell?%K%P
+
+0x2E8
+―Impossible!%K%P
+
+0x2F4
+―Why!? ―Why!?%K%P
+
+0x300
+―Why Izumi-san, of all people!!?%K%P
+
+0x330
+Izumi「M-Makoto-kun... what's wrong? Your face is scary...」%K%P
+
+0x33C
+Makoto「Please let me have that bell for a bit.」%K%P
+
+0x348
+Izumi「'Let you have it'... I don't really mind... but what are you%Ngoing to do with it?」%K%P
+
+0x354
+Makoto「It's fine, just give it to me! Quickly!」%K%P
+
+0x370
+Okuhiko「Hey, Ishihara, is that how you ask someone a favor?」%K%P
+
+0x37C
+Makoto「Shut up! Just shut up!」%K%P
+
+0x388
+I no longer have any time to act calmly.%K%P
+
+0x39C
+Izumi-san nervously stretches her palm out, frightened%Nby my angry voice.%K%P
+
+0x3A8
+I quickly snatch the bell from her palm.%K%P
+
+0x3BC
+And then, with all my might―I throw it to the ground!%K%P
+
+0x3C8
+―Clang!%K%N
+
+0x3D4
+―Ring, ring...%K%P
+
+0x3E0
+Haruka「Huh...!?」%K%P
+
+0x3EC
+Okuhiko「I-Ishihara...」%K%P
+
+0x3F8
+Yuka「Hold on... What the hell are you doing, Makoto!?」%K%P
+
+0x404
+The bell rolls on the floor...%K%P
+
+0x410
+Even though I threw it that hard, it's still in its original%Nform, not even a single scratch on it.%K%P
+
+0x41C
+(Damn...)%K%P
+
+0x428
+(At this rate, I'll have to do it again and again...)%K%P
+
+0x434
+I quickly walk over to where the bell lays.%K%P
+
+0x440
+However...%K%N
+
+0x454
+... Izumi-san stands in my way.%K%P
+
+0x460
+Izumi「Why...?」%K%P
+
+0x474
+Izumi-san slowly picks up the bell.%K%P
+
+0x488
+Izumi「Why did you... do that?」%K%P
+
+0x494
+She grips the bell in her hand tightly.%K%P
+
+0x4A0
+Makoto「It's fine... let me have it.」%K%P
+
+0x4B4
+Izumi「No...」%K%P
+
+0x4C0
+Izumi「Kurumi went to all the trouble of giving this to me.」%K%P
+
+0x4CC
+Izumi「You need to properly explain yourself, or I can't%Nunderstand.」%K%P
+
+0x4D8
+Makoto「There's no time to explain it!」%K%P
+
+0x4E4
+Makoto「Just give it to me!!」%K%P
+
+0x4F0
+My irritation has reached its limit.%K%P
+
+0x504
+Izumi「Makoto-kun...」%K%P
+
+0x510
+Makoto「Fine! Then I'll explain it!」%K%P
+
+0x51C
+Makoto「If you...」%K%P
+
+0x528
+Makoto「If you have that bell...」%K%P
+
+0x534
+Makoto「If you have it...」%K%P
+
+0x540
+Makoto「Then you...」%K%P
+
+0x54C
+Makoto「―might die!!」%K%P
+
+0x560
+Izumi「...!?」%K%P
+
+0x56C
+Yuka「...!?」%K%P
+
+0x578
+Haruka「...!?」%K%P
+
+0x594
+Okuhiko「Hey, Ishihara, what's your basis for that?」%K%P
+
+0x5A0
+Makoto「A premonition!」%K%P
+
+0x5B4
+Okuhiko「Huh? A premonition?」%K%P
+
+0x5C0
+Makoto「Yeah, that's right. Say what you like, but it was definitely%Na premonition.」%K%P
+
+0x5CC
+Makoto「I admit that even I was rather dubious...」%K%P
+
+0x5D8
+Makoto「Up until now, I thought it'd be fine if I tried not to believe it,%Nbut...」%K%P
+
+0x5E4
+Makoto「But... this is my limit.」%K%P
+
+0x5F0
+Makoto「That bell...」%K%P
+
+0x5FC
+Makoto「That bell is, above all... proof.」%K%P
+
+0x618
+Izumi「'Bell'... This bell?」%K%P
+
+0x624
+Makoto「I... saw it...」%K%P
+
+0x630
+Makoto「Izumi-san, I saw you collapsed in the rain...」%K%P
+
+0x63C
+Makoto「And in your palm...」%K%P
+
+0x650
+Izumi「Was this bell?」%K%P
+
+0x65C
+I slowly nod.%K%P
+
+0x670
+Okuhiko「Hey, Ishihara, why don't you just cut the crap?」%K%P
+
+0x67C
+Okuhiko「In the first place, stuff like premonitions don't...」%K%P
+
+0x6A0
+Izumi「Okuhiko-kun!」%K%P
+
+0x6AC
+For some reason, Izumi-san suddenly interrupts Okuhiko.%K%P
+
+0x6C0
+Izumi「That's enough...」%K%P
+
+0x6D4
+Okuhiko「What???」%K%P
+
+0x6E0
+Izumi「Why don't we just end it already...?」%K%P
+
+0x6EC
+Okuhiko「'End it'...?」%K%P
+
+0x6F8
+Okuhiko「... But the plan was to end it exactly at midnigh-」%K%P
+
+0x70C
+Izumi「It's fine!」%K%P
+
+0x720
+Izumi「That's enough...」%K%P
+
+0x72C
+Izumi「That's... enough...」%K%P
+
+0x738
+Izumi「If things were going to turn out this way... then we%Nshouldn't... have done this from the beginning.」%K%P
+
+0x74C
+Izumi「We shouldn't... have done this.」%K%P
+
+0x758
+... "This"...?%K%P
+
+0x780
+My heart starts trembling.%K%P
+
+0x78C
+Damp sweat is running down my palms.%K%P
+
+0x798
+Makoto「Izumi-san... what do you mean?」%K%P
+
+0x7A4
+Makoto「What do you mean by 'we shouldn't have done this'...?」%K%P
+
+0x7B0
+Izumi「Makoto-kun... I'm so sorry.」%K%P
+
+0x7BC
+Izumi「It's not something I can ever apologize for...」%K%P
+
+0x7C8
+Izumi「But I never thought... that things would turn out this way...」%K%P
+
+0x7D4
+Izumi-san hangs her head down in defeat.%K%P
+
+0x7E0
+Yuka and Haruka seem to be just as clueless as I am;%Nthey both look horribly confused.%K%P
+
+0x7F4
+Only Okuhiko is smiling, a daring smirk rising to his face...%K%P
+
+0x800
+Okuhiko「Can't be helped, huh...?」%K%P
+
+0x80C
+Okuhiko「Then allow me to reveal all of the tricks.」%K%P
+
+0x818
+Okuhiko「Allow me to cut to the chase...」%K%P
+
+0x824
+Okuhiko「Ishihara, you've been...」%K%P
+
+0x830
+Okuhiko「―deceived by us!」%K%P
+
+0x83C
+Makoto「Deceived... me...?」%K%P
+
+0x848
+Okuhiko「Yeah, that's right.」%K%P
+
+0x854
+Okuhiko「But don't misunderstand us.」%K%P
+
+0x860
+Okuhiko「It's not like we were doing any of it to ridicule you,%NIshihara.」%K%P
+
+0x86C
+Okuhiko「We were forced to do it for a logical goal.」%K%P
+
+0x878
+None of this makes any sense to me.%K%P
+
+0x884
+Despite that, those words make my legs grow weak to%Nthe point where I feel like I'm going to collapse.%K%P
+
+0x898
+Okuhiko「Well, that was rather out of the blue; you don't have an%Ninkling of what's what, right?」%K%P
+
+0x8AC
+Okuhiko「Oh well. I'd better start explaining it to you%Nstep-by-step...」%K%P
+
+0x8B8
+Okuhiko「First, I'll tell you about how we did specific stuff.」%K%P
+
+0x8C4
+Makoto「...」%K%P
+
+0x8D0
+Okuhiko「Ishihara, you see...」%K%P
+
+0x8DC
+Okuhiko「We were just pretending as if all your premonitions%Nturned out to be really true.」%K%P
+
+0x8E8
+Okuhiko「By doing that... we made you yourself firmly believe that%Nyou had precognition: that is, the power to receive%Npremonitions.」%K%P
+
+0x8F4
+Okuhiko「But if we'd gone overboard with praising you by saying%Nstuff like, 'You're amazing! You're incredible!', it wouldn't%Nhave been convincing.」%K%P
+
+0x900
+Okuhiko「In order to make this story possess a sense of reality,%Nwe needed someone who would always unsparingly%Ndeny your premonitions, no matter what.」%K%P
+
+0x90C
+Makoto「In other words, that was... you, Okuhiko?」%K%P
+
+0x918
+Okuhiko「Bingo.」%K%P
+
+0x924
+Makoto「... Since when?」%K%P
+
+0x938
+Okuhiko「Ha ha♪ 'Since when', you ask?」%K%P
+
+0x944
+Okuhiko「Isn't it obvious? The whole time!」%K%P
+
+0x950
+Okuhiko「This whole time, ever since this Seminar Camp began.」%K%P
+
+0x95C
+Okuhiko「In the first place, the goal of this Seminar Camp has been%N'To deceive Ishihara'.」%K%P
+
+0x968
+Makoto「... You're lying...」%K%P
+
+0x97C
+Okuhiko「I'm not lying!」%K%P
+
+0x988
+Okuhiko「For example, let's take the time when you said 'Making%Npaella will be impossible because there's no rice,'...」%K%P
+
+0x994
+Okuhiko「Izumi-san just pretended that there was no rice left.」%K%P
+
+0x9A0
+Okuhiko「Then when you said 'The car's battery's dead, so we%Ncan't drive,'...」%K%P
+
+0x9AC
+Okuhiko「Izumi-san purposely pulled the key back right when she%Nturned it in the ignition so that it would sound like the car%Nwasn't working, pretending the battery really was dead.」%K%P
+
+0x9F0
+Okuhiko「And remember when you asked 'Aren't we having curry%Ntonight?'...」%K%P
+
+0xA04
+Okuhiko「And remember when you asked 'Aren't we having stew%Ntonight?'...」%K%P
+
+0xA18
+Okuhiko「And remember when you asked 'Aren't we having meat%Npotatoes tonight?'...」%K%P
+
+0xA24
+Okuhiko「I quickly ran out to buy the ingredients, and Izumi-san%Nswiftly made the food.」%K%P
+
+0xA38
+Okuhiko「Long story short, the futures that you predicted were%Nmerely forced to become so by us cooperating to%Nmanipulate you.」%K%P
+
+0xA44
+Okuhiko「So it's only natural that there's no way that event where%NIzumi-san dies will happen.」%K%P
+
+0xA50
+Izumi「I'm so sorry... Makoto-kun...」%K%P
+
+0xA5C
+Makoto「...」%K%P
+
+0xA68
+Izumi「...」%K%P
+
+0xA74
+Yuka「...」%K%P
+
+0xA80
+Haruka「...」%K%P
+
+0xA9C
+Makoto「... 'Sorry'? ... SORRY!?」%K%P
+
+0xAA8
+Makoto「Cut the goddamn crap...」%K%P
+
+0xABC
+Izumi「... M-Makoto-kun...」%K%P
+
+0xAE4
+Makoto「Enough with that '-kun' crap! Don't talk to me with that%Nover-familiar term!!!」%K%P
+
+0xAF0
+Makoto「So everything was a lie!?」%K%P
+
+0xAFC
+Makoto「You're telling me that everything that happened in the%Nlast six days was all planned!?」%K%P
+
+0xB08
+My sense of reasoning snaps.%K%P
+
+0xB14
+I'm unable to hold the violent, endless rage welling up%Ninside me.%K%P
+
+0xB20
+Makoto「Saki falling into the ocean...」%K%P
+
+0xB2C
+Makoto「Revealing that Haruka was a clone...」%K%P
+
+0xB38
+Makoto「Kurumi's disappearance...」%K%P
+
+0xB44
+Makoto「... Everyone... everyone was lying to me, right!?」%K%P
+
+0xB58
+Izumi「You're wrong, Makoto-kun! Please, won't you listen to me!?」%K%P
+
+0xB64
+Makoto「I see, I see... so that was it...」%K%P
+
+0xB70
+Makoto「When you said 'Don't worry' during the Test of Courage,%Nthat's what you meant...」%K%P
+
+0xB7C
+Makoto「And that night... The words you told me at Viewpoint Park...」%K%P
+
+0xB88
+Makoto「―From the beginning to the end, was everything a lie!?」%K%P
+
+0xB9C
+Izumi「... You're wrong... You're wrong...」%K%P
+
+0xBA8
+Makoto「Then why don't you tell me where I'm wrong!?」%K%P
+
+0xBBC
+Okuhiko「Hey, Ishihara... you shouldn't get this angr-」%K%P
+
+0xBC8
+Makoto「Shut your fucking mouth!!!」%K%P
+
+0xC14
+I kick Okuhiko, who falls to the ground along with his chair.%K%P
+
+0xC20
+Makoto「What the hell...」%K%P
+
+0xC2C
+Makoto「Then, up until now, for what reason have I...」%K%P
+
+0xC38
+Makoto「Those words you told me back then...」%K%P
+
+0xC44
+Makoto「I trusted them!!」%K%P
+
+0xC50
+Izumi「...」%K%P
+
+0xC5C
+Makoto「In the end, you tricked me and made me dance to your%Ntune...」%K%P
+
+0xC68
+Makoto「I was nothing more than a plaything for your own%Namusement...」%K%P
+
+0xC74
+Makoto「When you saw this man younger than you worrying%Nendlessly, you secretly snickered at him behind his%Nback! Isn't that right!?」%K%P
+
+0xCD0
+A sharp pain runs across my cheek.%K%P
+
+0xCE4
+Izumi-san's trembling hand is raised overhead.%K%P
+
+0xCF0
+Her eyes are absolutely overflowing with tears...%K%P
+
+0xD04
+Izumi「Goodbye...」%K%P
+
+0xD60
+Izumi-san violently throws open the door, and rushes%Nout into the downpour.%K%P
+
+0xD6C
+The rest of us are dumbfounded, and just stare at the%Ndoor Izumi-san ran out of.%K%P
+
+0xD78
+I still feel that hot pain in my cheek...%K%P
+
+0xD84
+That pain finally brings me back to reality.%K%P
+
+0xDA4
+Izumi「The truth is, what's more important than whether it's true%Nor not...」%K%P
+
+0xDB0
+Izumi「... is whether you can believe it or not, isn't it...?」%K%P
+
+0xDC4
+Izumi-san's words from back then come back to me.%K%P
+
+0xDD0
+―Izumi-san!%K%P
+
+0xE08
+I fly out of the shop, chasing after Izumi-san as fast as%Nlightning!%K%P
+

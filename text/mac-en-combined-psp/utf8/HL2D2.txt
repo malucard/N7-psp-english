@@ -1,0 +1,219 @@
+text area offset and size:
+0x8D0
+0x106B
+0x150
+I know that Saki will be swallowed up by that monstrous%Nwave today.%K%N
+
+0x15C
+I have to find some way to prevent it...%K%P
+
+0x168
+When I think about it, it was because of this incident%Nwhen everything started going wrong...%K%P
+
+0x174
+Well, it's great and all that I've decided to try to prevent%Nit, but where do I begin and how?%K%P
+
+0x180
+In the end, I went with the flow along with everyone else,%Nand now we've finally arrived here.%K%P
+
+0x18C
+We walk to the pier while carrying our fishing rods. At this%Nrate, the result will be the same as last time.%K%P
+
+0x198
+No way...! I can't let that happen...!%K%N
+
+0x1A4
+Absolutely not...!!%K%P
+
+0x1B0
+Anyway, I need to stop Saki from going out towards the%Npier... No, before that, should I stop Saki and Haruka's%Nquarrel...?%K
+
+0x8A8
+Call out to Saki.
+
+0x8B4
+Call out to Haruka.
+
+0x1F0
+I call out to Saki.%K%P
+
+0x20C
+Makoto「Hey, Saki!」%K%P
+
+0x23C
+Saki「What?」%K%P
+
+0x248
+Makoto「Um...」%K%P
+
+0x254
+Makoto「Err...」%K%P
+
+0x260
+Makoto「Well...」%K%P
+
+0x274
+Saki「Geez, spit it out already.」%K%P
+
+0x280
+(D-Dammit...! I can't think of anything to say...!)%K%P
+
+0x28C
+Umm... What to say, what to say...%K%P
+
+0x2B0
+Yuka「Hey, Makoto?」%K%P
+
+0x2E0
+Just then, Yuka calls out to me.%K%P
+
+0x2EC
+Makoto「I'm a little busy right now!」%K%P
+
+0x2F8
+Yuka「I have something important to talk about.」%K%P
+
+0x304
+Makoto「I told you, I'm busy!」%K%P
+
+0x310
+Yuka「I have a bad feeling...」%K%P
+
+0x31C
+Makoto「I know that!」%K%P
+
+0x328
+Makoto「I told you... right now, I'm...」%K%P
+
+0x344
+I call out to Haruka.%K%P
+
+0x350
+Makoto「Say, Haruka? Would you like me to teach you how to fish?」%K%P
+
+0x380
+Haruka「...」%K%P
+
+0x38C
+Makoto「When it comes to fishing, I'm not the greatest, but I can%Nstill...」%K%P
+
+0x3B0
+Okuhiko「Hey, Ishihara!」%K%P
+
+0x3E0
+Okuhiko「You're getting way too friendly with Haruka-chan.」%K%P
+
+0x3EC
+Makoto「It doesn't concern you!」%K%P
+
+0x400
+Okuhiko「It does concern me!」%K%P
+
+0x40C
+Makoto「Look, just piss off! I'm busy right now!」%K%P
+
+0x418
+Okuhiko「With what!?」%K%P
+
+0x424
+Makoto「Instead of wasting time with you, I could be...!!」%K%P
+
+0x438
+At that time, I hear the echo of Saki's voice. Saki and%NHaruka had started quarreling without me noticing. I%Nimmediately start running...%K%P
+
+0x44C
+Saki「AAAAAH!」%K%P
+
+0x474
+Saki screams at the same time as the booming roar of a%Nwave breaks out.%K%P
+
+0x480
+I didn't make it in time. The unbelievably large wave%Nstrikes the pier with a large sheet of water!%K%P
+
+0x494
+As it strikes, the wave devours Saki and drags her into%Nthe ocean!%K%P
+
+0x4A0
+I'm frozen in place.%K%P
+
+0x4AC
+(Dammit...)%K%P
+
+0x4B8
+(I couldn't prevent it... Even though I knew about it, I%Ncouldn't prevent it...)%K%P
+
+0x4E0
+Izumi-san runs and dives into the ocean off of the tip of%Nthe pier!%K%P
+
+0x4EC
+(Izumi-san...!)%K%P
+
+0x508
+(―No, she should be all right...)%K%P
+
+0x514
+... ... ...%K%P
+
+0x558
+In the end, Izumi-san saves her again.%K%N
+
+0x564
+I stand stock-still on the beach.%K%P
+
+0x59C
+(I tried to change this... I tried hard to change this...)%K%P
+
+0x5A8
+But the reality is that the incident happened again.%K%N
+
+0x5B4
+Then is it impossible for just my will to change history...?%K%P
+
+0x60C
+On the way back, everyone seems to be at ease.%K I%Nguess you could say that the tension in the%Natmosphere somehow unwinded.%K%P
+
+0x618
+Everybody seems to be relieved that everything turned%Nout all right.%K%P
+
+0x624
+The fiery, red sunset is also probably contributing to%Nthe reason why everyone's hearts are calming down.%K%P
+
+0x630
+However...%K However, I'm probably the only one still%Nanxious...%K%P
+
+0x698
+"How can I change history? Is it even possible?" ...%NThat's the question endlessly revolving in my mind.%K%P
+
+0x6C0
+When I get into bed, I can only continue thinking the same%Nthing.%K%P
+
+0x6CC
+I failed to prevent Saki from being swallowed up by that%Nmonstrous wave.%K%P
+
+0x6D8
+Still, it's not like this past is exactly the same as my%Nmemories of the one before...%K%P
+
+0x6E4
+No, in the first place, is it accurate to consider this the%N"past"?%K%N
+
+0x6F0
+After all, events you experience at points ahead in time%Nare not the "past", but the "future"...%K%P
+
+0x6FC
+Either way, it doesn't change that tomorrow will be a%Nchallenge. The day Haruka was revealed to be a clone...%K%N
+
+0x708
+I have to find some way to stop that from happening.%K%P
+
+0x714
+But can my will alone really change history...!?%K%P
+
+0x720
+Or is the future, being what it is, just something I cannot%Ncomprehend, and therefore cannot change...?%K%P
+
+0x72C
+I think as hard as I can, but I am unable to settle my%Ndisordered thoughts.%K%P
+
+0x738
+And then...%K And then, before I know it, I fall into a deep%Nsleep...%K%P
+

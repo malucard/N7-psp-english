@@ -1,0 +1,411 @@
+text area offset and size:
+0xE90
+0x203A
+0x134
+―*Knock*, *knock*! *Knock*, *knock*! Someone's%Nknocking on the door.%K%P
+
+0x140
+(Mmm... Mmm～...)%K%P
+
+0x14C
+(Who would come over... so late at night...?)%K%P
+
+0x158
+I get up from the bed while I rub my sleepy eyes.%K%P
+
+0x180
+The knocking continues.%K%N
+
+0x18C
+I walk over to the door, and open it.%K%P
+
+0x3B0
+―Wham!%K%P
+
+0x3BC
+Makoto「!?」%K%P
+
+0x3E4
+It's Haruka.%K%N
+
+0x3F0
+It seems she'd banged her forehead on the door, as%Nshe's now rubbing it with a sheepish smile.%K%P
+
+0x3FC
+Makoto「Ah... Did I do that just now?」%K%P
+
+0x410
+Haruka「No, that's not it. I was slightly half-asleep...」%K%P
+
+0x41C
+Makoto「Really? You were knocking rather loudly for someone%Nwho was just 'half-asleep'...」%K%P
+
+0x430
+Haruka「Ah, th-that's...」%K%P
+
+0x43C
+She falls silent.%K%P
+
+0x448
+Haruka's acting kind of funny right now.%K%N
+
+0x454
+She's obviously in some kind of hurry.%K%N
+
+0x460
+She probably fell silent because she sees that I didn't%Nbuy her act, and now doesn't know what to say next.%K%P
+
+0x46C
+Makoto「Sorry. I was just teasing you there.」%K%P
+
+0x480
+Haruka「'Teasing'?」%K%P
+
+0x48C
+Makoto「Yeah, exactly.」%K%P
+
+0x498
+Haruka「... I see.」%K%P
+
+0x4A4
+Makoto「So, what's up?」%K%P
+
+0x4B0
+Haruka「Forget it.」%K%P
+
+0x4BC
+Makoto「Huh? Why are you telling me to forget it when you've%Ncome all the way here...?」%K%P
+
+0x4C8
+Haruka「Well, it seems like you were sound asleep.」%K%P
+
+0x4D4
+Makoto「Well, yeah... it's really late and I value my sleep.」%K%P
+
+0x4E0
+Haruka「I see... just because I can't sleep doesn't mean that%Nothers can't either...」%K%P
+
+0x4EC
+Makoto「Of course. It's considered rude to wake people up like%Nthat, you know.」%K%P
+
+0x500
+Haruka「I'm... sorry.」%K%P
+
+0x50C
+Makoto「Hmm... well, if you understand, it's fine.」%K%P
+
+0x518
+Haruka「Well then, good night.」%K%P
+
+0x52C
+As Haruka turns her back towards me, I impulsively call%Nout for her to stop.%K%P
+
+0x538
+Makoto「H-Hey! Hold on!」%K%P
+
+0x54C
+Haruka「Huh?」%K%P
+
+0x558
+Makoto「You can't sleep, right? And besides, didn't you have%Nsomething you wanted to say to me?」%K%P
+
+0x564
+Haruka「Just now, I said good night. And you also said that you%Nwere sound asleep.」%K%P
+
+0x570
+Haruka's words sting, as if they had slapped me right%Nacross the face. I gawk at her, speechless.%K%P
+
+0x57C
+Makoto「...」%K%P
+
+0x590
+Haruka「Isn't this what you call being 'teased'?」%K%P
+
+0x59C
+Haruka turns around to give me a wide, impish smile.%K%P
+
+0x5A8
+She's beaming. It's the first time I've ever seen an%Nexpression like that on her face.%K%P
+
+0x5B4
+Makoto「You pick up on things way too easily...」%K%P
+
+0x5C0
+When she sees how embarrassed I am, Haruka covers%Nher mouth and giggles. I heave a sigh.%K%P
+
+0x5CC
+Makoto「So, what's up?」%K%P
+
+0x5E0
+Haruka「There's a favor I'd like to ask you...」%K%P
+
+0x5EC
+Haruka... wants to ask me a favor? Just what could it be?%K%P
+
+0x5F8
+Haruka「U-Umm... I couldn't sleep last night either. So when I took a%Nwalk outside by myself... I saw some shiranui. I think it was%Nabout 4:30 in the morning...」%K%P
+
+0x604
+Makoto「Shiranui? You mean like will-o'-the-wisps?」%K%P
+
+0x610
+Haruka「Right, shiranui... They were very pretty... That's why I was%Nthinking of going to see them again tonight.」%K%P
+
+0x61C
+Makoto「And you want me to go with you?」%K%P
+
+0x628
+Haruka「... Yes.」%K%P
+
+0x634
+Well, I don't see why not. I turn on my watch light to check%Nthe time.%K%P
+
+0x640
+Makoto「Sure, but it's only 1:00. Isn't that too early? I think it'd be%Nbest if we got some more sleep, even if it's only for a%Nlittle bit.」%K%P
+
+0x64C
+Makoto「Because I'm sure tomorrow will also get busy... I can lend%Nyou my watch, if you'd like.」%K%P
+
+0x658
+Haruka「No, I'll be fine. Well then, I'll let you sleep for a bit, then%Ncome to wake you up afterwards.」%K%P
+
+0x664
+Makoto「Okay. I'll leave the door unlocked so that you can wake%Nme up if I'm still asleep.」%K%P
+
+0x670
+Haruka「All right, I understand. It's a promise.」%K%P
+
+0x67C
+Makoto「... It's a promise.」%K%P
+
+0x6AC
+A smile rises on Haruka's lips at those words. Satisfied,%Nshe leaves the room.%K%P
+
+0x6B8
+4:30, huh... I set my watch alarm to that time before I%Ncollapse on the bed...%K%P
+
+0x738
+My watch alarm... When I hear that sound, I immediately%Nwake up. And, at the same time...%K%P
+
+0x760
+... I hear the sound of knocking on the door.%K%P
+
+0x794
+Haruka「... Are you awake?」%K%P
+
+0x7A0
+She slowly asks this in a quiet voice.%K%P
+
+0x7AC
+Makoto「Ah... I'm awake! Wait a minute!」%K%P
+
+0x7B8
+Haruka「... Okay.」%K%P
+
+0x7C4
+I quickly get off the bed and head out to the living room,%Nwhere Haruka is waiting...%K%P
+
+0x820
+I let out a sigh in the quiet, empty room.%K%N
+
+0x82C
+I can hear Okuhiko snoring from up in the loft.%K%P
+
+0x838
+Makoto「Well then, shall we go?」%K%P
+
+0x844
+I ask this with a nod, and Haruka follows suit.%K%P
+
+0x858
+I start to reach out for the doorknob on the front door.%K%N
+
+0x874
+And, at that moment...%K%P
+
+0x880
+Okuhiko「Hey! Wait!」%K%P
+
+0x88C
+... Okuhiko suddenly shouts in a roaring voice.%K%N
+
+0x898
+When I look up in surprise...%K%P
+
+0x914
+Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
+
+0x928
+Okuhiko「Neutrino Energy, Power On! ... Trans～form! ... There! ...%NZzz...」%K%P
+
+0x93C
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+
+0x950
+Okuhiko「Good work... Zzz...」%K%P
+
+0x964
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+
+0x978
+... It seems he's just sleeptalking.%K%P
+
+0x984
+(Whew... man, what kind of dream is he having anyway...?)%K%P
+
+0x990
+I ignore Okuhiko and open the front door...%K%P
+
+0xA04
+Haruka and I begin to walk side-by-side down the hill%Nroad that leads to the shoreline.%K%N
+
+0xA10
+On the way, Haruka suddenly mutters this.%K%P
+
+0xA24
+Haruka「They're so pretty...」%K%P
+
+0xA30
+Haruka stares at the night sky as a smile graces her lips.%K%P
+
+0xA68
+I also look up at the sky.%K%P
+
+0xA74
+It's completely covered in stars.%K%N
+
+0xA80
+They shine brightly, their light raining down onto the%Nearth.%K%P
+
+0xA9C
+My eyes turn to Haruka.%K%P
+
+0xAA8
+There's a cool and clear beauty to her face as she%Nlooks up at the stars.%K%N
+
+0xAB4
+It looks as if all the filthy things the world has burdened%Nher with are starting to be dispelled by the light of the%Nstars...%K%P
+
+0xAC0
+That's when it hits me.%K ―What does Haruka mean to%Nme...?%K%P
+
+0xACC
+My heart clutches at the thought.%K%PThe memories of the time I've spent with Haruka here over%Nthe past few days rush through my mind.%K%P
+
+0xAD8
+At first, I felt like she was just a little girl, unable to get a%Ngrip on the world.%K%P
+
+0xAE4
+That's right... I sometimes felt as if I were her father.%K%N
+
+0xAF0
+No, even now, I still have those protective feelings%Ntowards her.%K%P
+
+0xAFC
+But is that truly it?%K%N
+
+0xB08
+Is that really all it is...?%K%P
+
+0xB40
+When Haruka and I reach the shoreline, the stars twinkle%Nwith a beautiful intensity, as if they've reached the time%Non this night where they shine their brightest.%K%P
+
+0xB54
+As Haruka faces the sea, she looks up towards the%Nstarlit sky as if she's yearning to become part of it.%K%N
+
+0xB60
+Her face seems anxious, and it feels like she's trying to%Nforce herself to smile.%K%P
+
+0xB6C
+It's like I'm seeing the bottom of Haruka's heart.%K%P
+
+0xB78
+I start to feel a little guilty, so I shift my gaze towards the%Nocean.%K%N
+
+0xB84
+At that moment...%K%P
+
+0xB90
+Countless lights with tinges of red and yellow rise above%Nthe water's surface.%K%N
+
+0xB9C
+They approach us before bobbing away, flickering.%K%P
+
+0xBA8
+They resemble giant fireflies hovering above the water,%Nswaying to and fro in straight lines.%K%P
+
+0xBB4
+Makoto「Th-this is...?」%K%P
+
+0xBC0
+Haruka「... Shiranui.」%K%P
+
+0xBCC
+Haruka「They move as if they're guiding sailors on ships. No one%Nknows where they came from or why they sway the way%Nthey do. That's why they're called shiranui, or 'unknown%Nfire'...」%K%P
+
+0xBD8
+Makoto「Wow...」%K%P
+
+0xBE4
+Makoto「But if I remember correctly... aren't shiranui lights from the%Nshore that refract abnormally due to cold air around the%Nwater's surface? That's why they appear to shapeshift,%Nright?」%K%P
+
+0xBF0
+Haruka「That's wrong...」%K%P
+
+0xBFC
+Makoto「'Wrong'...? But surely you must have known that. You're%Nway smarter than me, after a-」%K%P
+
+0xC08
+Haruka「That's wrong...!」%K%P
+
+0xC14
+Makoto「Haruka...」%K%P
+
+0xC20
+Haruka「It has nothing to do with being smart.」%K%P
+
+0xC2C
+Makoto「...」%K%P
+
+0xC38
+Haruka「That's wrong.」%K%P
+
+0xC44
+Makoto「...」%K%P
+
+0xC50
+Haruka「No one knows why they light up.」%K%P
+
+0xC5C
+Makoto「...」%K%P
+
+0xC68
+Haruka「Nobody knows that.」%K%P
+
+0xC74
+Makoto「...」%K%P
+
+0xC80
+Haruka「It'll always remain a mystery...」%K%P
+
+0xC8C
+Makoto「That's why... it's shiranui?」%K%P
+
+0xC98
+Haruka「Yes... That's why it's shiranui...」%K%P
+
+0xCA4
+Cool and clear...%K%N
+
+0xCB0
+Haruka really does give off that kind of feeling.%K%P
+
+0xCBC
+She has something that normal people don't.%K%N
+
+0xCC8
+I don't know whether or not it's related to her being a%Nclone, but I believe that.%K%P
+
+0xCD4
+(It's like Haruka came from a faraway parallel universe...)%K%P
+

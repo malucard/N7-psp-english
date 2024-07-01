@@ -1,0 +1,621 @@
+text area offset and size:
+0x14D0
+0x2863
+0x68
+She bolts open the door and runs outside.%K%N
+
+0x74
+I look for Kurumi, looking left and right.%K%P
+
+0x80
+Step, step, step, step...%K%N
+
+0x8C
+I can hear footsteps on the sand.%K%N
+
+0x98
+―She's at Moon Beach!%K%P
+
+0xD0
+I jump over the banks, and land on the sandy beach.%K%N
+
+0xDC
+I see Kurumi's back as she runs south down the beach...%K%P
+
+0xE8
+I start running, kicking off the sand.%K%P
+
+0xF4
+I fill my body with strength as I run...%K%N
+
+0x100
+The sand flies up behind me as I run across it...%K%N
+
+0x10C
+Kurumi's getting closer and closer...%K%P
+
+0x118
+Makoto「Kurumi!」%K%P
+
+0x124
+... I firmly grab her slim arm.%K%N
+
+0x130
+The two of us stagger and pitch forward.%K%N
+
+0x13C
+I regain my balance, and turn Kurumi around...%K%P
+
+0x16C
+Makoto「Kurumi...」%K%P
+
+0x178
+Kurumi is crying.%K%N
+
+0x184
+Large teardrops begin to pour out of her eyes...%K%P
+
+0x190
+She keeps wiping them away with her palms, but more%Ntears just keep on coming.%K%P
+
+0x1B8
+Kurumi「O... Onii-chan...」%K%P
+
+0x1C4
+Kurumi「Onii-chan...」%K%P
+
+0x1D0
+Her shoulders repeatedly tremble as she tries as hard%Nas she can to hold back her weeping...%K%N
+
+0x1DC
+... Kurumi's desperately... trying to say something...%K%P
+
+0x1E8
+Kurumi「You're... You're the... You're the same... as...」%K%P
+
+0x1F4
+Kurumi「Onii-chan... you're the same as him...」%K%P
+
+0x200
+Kurumi「You're the same... as... that... senpai...」%K%P
+
+0x20C
+Senpai...?%K%P
+
+0x218
+By "senpai"... she must be referring to that guy from her%Nmiddle school days...%K%P
+
+0x224
+Kurumi「Everyone's... Everyone's... lying...」%K%P
+
+0x230
+Kurumi「Even... Onii-chan...」%K%P
+
+0x23C
+Kurumi「Even though... Kurumi trusted you...」%K%P
+
+0x248
+Makoto「Kurumi... what are you talking about!? I-」%K%P
+
+0x254
+Kurumi「Kurumi... heard you just now!」%K%P
+
+0x260
+Makoto「'Heard'...?」%K%P
+
+0x26C
+Kurumi「'It was much more horrifying... than I ever could have%Nimagined...'」%K%P
+
+0x278
+Kurumi「Horrifying... you said that, didn't you!?」%K%P
+
+0x284
+I feel like a dagger has been thrust into my heart...%K%P
+
+0x290
+I definitely... said that.%K%N
+
+0x29C
+"Horrifying"...%K%N
+
+0x2A8
+"Horrifying"... I said that.%K%P
+
+0x2B4
+Kurumi「Everyone... everyone... everyone Kurumi loves... just%Ndoes nothing but...」%K%P
+
+0x2C0
+Kurumi「Always... deceive Kurumi...」%K%P
+
+0x2CC
+Makoto「We're not decei-」%K%P
+
+0x2D8
+Kurumi「Stop lying already!」%K%P
+
+0x2E4
+Kurumi「Papa... Mama... Onee-chan... and Onii-chan...」%K%P
+
+0x2F0
+Kurumi「... Kurumi hates them...」%K%P
+
+0x2FC
+Kurumi「... Kurumi hates...」%K%P
+
+0x308
+Makoto「Kurumi... you're wrong. We were just thinking of y―」%K%P
+
+0x314
+Kurumi「I hate you!」%K%P
+
+0x320
+Kurumi「I HATE EVERYONE!!」%K%P
+
+0x32C
+Makoto「Kurumi―」%K%P
+
+0x338
+Kurumi「Leave me alone! JUST LEAVE ME ALONE ALREADY!!」%K%P
+
+0x378
+Kurumi breaks off into a run.%K%N
+
+0x384
+Rain begins to fall from the sky...%K%P
+
+0x390
+(I have to go after her!)%K%P
+
+0x39C
+(If I let her go now, then...)%K%P
+
+0x3A8
+(... She'll never recover!)%K%P
+
+0x3B4
+―I pick up the pursuit.%K%P
+
+0x3C0
+Makoto「Kurumi!」%K%P
+
+0x3CC
+I call out to her to stop, but she doesn't turn around.%K%N
+
+0x3D8
+Kurumi climbs up the bank...%K%N
+
+0x3E4
+She jumps down to the other side, and vanishes.%K%N
+
+0x3F0
+I race to the top of the bank.%K%P
+
+0x3FC
+Once I'm there, my eyes scan the beach.%K%P
+
+0x408
+...%K%N
+
+0x414
+She's gone...!%K%N
+
+0x420
+She's nowhere to be found!%K%N
+
+0x42C
+I look everywhere, but there's no sign of her!%K%P
+
+0x464
+I descend the bank.%K%N
+
+0x470
+I run to the west, down the road alongside the coastline...%K%N
+
+0x47C
+... I continue to run for a while, but there's still no trace of%Nher in this direction.%K%P
+
+0x4B4
+I go back the way I came.%K%P
+
+0x4C0
+Makoto「KURUMIIII!!」%K%P
+
+0x4CC
+I scream, even though I know there's no way she'll%Nanswer...%K%P
+
+0x4E8
+...%K%P
+
+0x520
+In the end, I'm back in front of Lunabeach...%K%P
+
+0x52C
+(Kurumi...)%K%P
+
+0x538
+(Where did you go... Kurumi...)%K%P
+
+0x5D0
+Something cold and wet hits me on the forehead over%Nand over again...%K%P
+
+0x5DC
+(Rain, huh...?)%K%P
+
+0x5E8
+It's beginning to drizzle... In order to avoid it, I go under%Nthe overhang of Lunabeach.%K%P
+
+0x5F4
+I look at the rain for a while...%K%P
+
+0x600
+(A place Kurumi would go... a place Kurumi would go... a%Nplace Kurumi would go...)%K%P
+
+0x60C
+(A place Kurumi would go... Come to think of it...)%K%P
+
+0x618
+Kurumi「Kurumi... remembers this place.」%K%P
+
+0x624
+Kurumi「Kurumi's... been here before...」%K%P
+
+0x630
+Kurumi「That shrine... had a very nostalgic scent to it.」%K%P
+
+0x63C
+Kurumi「It was the smell of the traditional clothes... that Kurumi%Ngot as hand-me-downs from Onee-chan when she was%Nyounger...」%K%P
+
+0x648
+I start running once more...%K%P
+
+0x6DC
+By the time I arrive in front of the long staircase, the%Ndrizzle has become a constant rain.%K%P
+
+0x6E8
+I wipe off the raindrops from my soaked forehead with%Nthe back of my hand.%K%P
+
+0x6F4
+(Kurumi is definitely up ahead...)%K%P
+
+0x700
+I begin to run up the stairs...%K%P
+
+0x760
+In the deep darkness, the shrine stands out like%Nsomething faintly white against a dark background.%K%N
+
+0x76C
+The raindrops pelting the roof become a thin mist that%Nenvelops the shrine.%K%P
+
+0x778
+Its faint and gray appearance makes it look like a mirage.%K%P
+
+0x784
+I tumble into the illusion-like shrine while slipping across%Nthe stone paving, wet from the rain.%K%P
+
+0x824
+―She's not here.%K%N
+
+0x830
+She's not here...%K%N
+
+0x83C
+Kurumi isn't here either...%K%P
+
+0x848
+Frustrated, I can feel my blood rush through my body.%K%N
+
+0x854
+I'm enraged for running all this way for nothing and being%Nunable to voice my frustrations.%K%P
+
+0x860
+My restlessness reaches nearly unrestrainable levels,%Nand just seems to burst open.%K%P
+
+0x86C
+I vent my irritation by kicking one of the shrine's pillars%Nas hard as I can.%K%N
+
+0x878
+Even so, I'm still mad...%K%P
+
+0x884
+I wander aimlessly around the shrine.%K%P
+
+0x890
+Suddenly, I look at my watch.%K%P
+
+0x89C
+"6 SAT 12:54 A.M."%K%P
+
+0x8EC
+The sound... of that bell...?%K%P
+
+0x8F8
+(No... that's wrong!)%K%P
+
+0x904
+That's a different sound than the bell in my dream.%K%P
+
+0x910
+It's an altar bell―a bell dangling from a small building%Nmodeled after a small Shinto shrine that rests on the%Naltar.%K%P
+
+0x91C
+There's probably a draft blowing from somewhere that's%Ncausing the bell to swing...%K%P
+
+0x928
+"Bell"...%K%N
+
+0x934
+"Bell"...%K%N
+
+0x940
+"Bell"...%K%N
+
+0x94C
+It can't be...%K%P
+
+0x994
+What if, by any chance, Kurumi has that bell right now...?%K%N
+
+0x9A0
+At that moment, cold shivers run up my spine.%K%P
+
+0x9AC
+No, that's impossible!%K%N
+
+0x9B8
+I definitely threw that bell into the ocean on the night of%Nthe 1st!%K%P
+
+0x9C4
+But... what if that bell were washed ashore to the beach%Nby waves...?%K%P
+
+0x9D0
+Today is Saturday, April 6th.%K%N
+
+0x9DC
+If that dream was a prophetic dream, then...%K%P
+
+0xA0C
+I violently shake my head to shake off that delusion.%K%P
+
+0xA18
+(There's no way...)%K%P
+
+0xA24
+(No matter what... that's absolutely impossible!)%K%P
+
+0xA30
+I bite down on my lip hard.%K%P
+
+0xA3C
+The shrine's exterior... I stare at the edge of the rooftop,%Nwhere rain is flowing down like a waterfall.%K%P
+
+0xA48
+Rage surges in my heart like billows.%K%P
+
+0xA54
+I try to wash away that hopeless dream, but it just won't%Ndisappear.%K%P
+
+0xA60
+Like a deep stain, whenever I try to wipe it away, it just%Nspreads even more throughout my mind...%K%P
+
+0xA6C
+(Anyway... I need to keep looking...)%K%P
+
+0xA78
+(There's no way I can leave her alone as she is right%Nnow...)%K%P
+
+0xA84
+The cold rain... I run once again in the rumbling, roaring%Ndownpour...%K%P
+
+0xB50
+I keep running as fast as I can as the rain beats on me.%K%N
+
+0xB5C
+I keep looking for Kurumi...%K%P
+
+0xB94
+Princess Beach... the sand on the shore has become%Nhardened from all the water.%K%P
+
+0xBA0
+Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with%NKurumi?」%K%P
+
+0xBAC
+Suddenly, I hear Kurumi's voice.%K%N
+
+0xBB8
+I turn around and survey my surroundings.%K%P
+
+0xBC4
+However... no one's there...%K%N
+
+0xBD0
+Kurumi's nowhere to be found...%K%P
+
+0xBDC
+The cold rain is stealing away more and more of my body%Nheat.%K%N
+
+0xBE8
+My field of vision becomes hazy, and I'm unable to focus%Non anything.%K%N
+
+0xBF4
+My consciousness becomes dim due to the dizziness in%Nmy head.%K%P
+
+0xC00
+(Kurumi...)%K%P
+
+0xC0C
+Kurumi「Huh?」%K%P
+
+0xC18
+Kurumi「No... it's nothing!」%K%P
+
+0xC24
+Kurumi「Kurumi just picked up something a little interesting!」%K%P
+
+0xC30
+Something... interesting...%K%P
+
+0xC74
+It couldn't be that the thing...%K%N
+
+0xC80
+... That she picked up back then...%K%N
+
+0xC8C
+was the "bell"...?%K%P
+
+0xC98
+Is that it...?%K%N
+
+0xCA4
+Is that really it...?%W%W%W%K%P
+
+0xCB0
+I shiver in fear.%K%N
+
+0xCBC
+The strength throughout my body begins to disappear...%K%P
+
+0xCC8
+Against my will, I struggle to take a step forward.%K%P
+
+0xCD4
+Just like that, I stagger as I leave Princess Beach...%K%P
+
+0xD50
+Kurumi「Ah, Onii-chan♪」%K%P
+
+0xD5C
+Kurumi「Kurumi came here to meet Onii-chan!」%K%P
+
+0xD68
+Kurumi「So let's go watch some crab sumo♪」%K%P
+
+0xDE8
+Kurumi「Onii-chan?」%K%P
+
+0xDF4
+Kurumi「Wanna go see an interesting place?」%K%P
+
+0xE00
+Kurumi「You'll see♪ Come with Kurumi♪」%K%P
+
+0xE38
+My bedroom...%K%N
+
+0xE44
+An empty bedroom...%K%N
+
+0xE50
+So she didn't come to the lodge after all...%K%P
+
+0xE5C
+Kurumi「Onii-chan!」%K%P
+
+0xE68
+Kurumi「Hey, Onii-chan!」%K%P
+
+0xE74
+Kurumi「Geez, if you don't wake up soon, aren't you going to be%Nlate!?」%K%P
+
+0xE80
+... These auditory hallucinations still won't stop.%K%N
+
+0xE8C
+Kurumi's voice continues to echo in my eardrums.%K%N
+
+0xE98
+It's like they're rebuking me...%K%P
+
+0xF20
+Moon Beach...%K%P
+
+0xF58
+The shopping district...%K%P
+
+0xF90
+The harbor...%K%P
+
+0xFC8
+She's nowhere to be found...%K%N
+
+0xFD4
+I've wandered all around the island, searching for Kurumi...%K%P
+
+0xFE0
+I drag along my numb feet...%K%P
+
+0x10D4
+I finally arrive at Viewpoint Park, but in the end, I'm unable%Nto find Kurumi.%K%P
+
+0x10E0
+In the darkness, I hear the sound of the waves crashing%Nagainst the cape.%K%P
+
+0x10EC
+It seems like the "darkness" itself that's enveloped the%Nworld is letting out a furious roar.%K%P
+
+0x1104
+Viewpoint Park...%K%N
+
+0x1110
+This is where I first...%K%P
+
+0x11CC
+... saw Kurumi's eyes clouded by sadness.%K%P
+
+0x11D8
+Kurumi「Did you know? Kurumi loves floating in the water... Like a%Njellyfish...」%K%P
+
+0x11E4
+Kurumi「When she does that, it feels kinda nostalgic...」%K%P
+
+0x11F0
+Kurumi「The truth is... Kurumi... really wanted to go with everyone...」%K%P
+
+0x11FC
+Kurumi「To the pool... and the hot springs...」%K%P
+
+0x126C
+I called Kurumi's scar "horrifying." I'd intended to take%Nthat pain away... but the truth is, I was avoiding it.%K%P
+
+0x1278
+I loathe that scar. I can't even touch it. I can't heal%NKurumi's scar.%K%P
+
+0x1284
+Her true scar―is the one that's been very deeply%Nengraved into the innermost depths of her heart...%K%P
+
+0x1290
+(I wonder what she's... thinking about right now.)%K%P
+
+0x129C
+(The scar... her relation by blood... both of those were%Nhuge shocks to her...)%K%P
+
+0x12A8
+...%K%N
+
+0x12B4
+No... if that's the case...%K%N
+
+0x12C0
+If that's the case, then is Kurumi really at the shrine...!?%K%P
+
+0x12CC
+The scar and her blood relationship... and the fact that%Nthere's no doubt that the shrine's connected to her%Nsomehow.%K%N
+
+0x12D8
+Kurumi probably already knows that... I said something%Nsimilar in my talk with Izumi-san.%K%P
+
+0x12E4
+When I was making those enquiries to Izumi-san, Kurumi%Nheard me say those things, and thought to herself...%K%P
+
+0x12F0
+(I'll try going to the shrine one more time...)%K%P
+
+0x12FC
+The instant I think that, the eastern sky starts to%Nbecome bright.%K%N
+
+0x1308
+The morning sun slowly creeps overhead.%K%P
+
+0x1314
+However, its light is completely shrouded by heavy rain%Nclouds...%K%P
+

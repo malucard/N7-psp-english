@@ -1,0 +1,306 @@
+text area offset and size:
+0xAB8
+0x1958
+0x40
+We all ran away, back to Lunabeach.%K%P
+
+0x4C
+In the half hour we've been here, I've been thinking about%N"that" this whole time...%K%P
+
+0x58
+"Haruka falling down on Moon Beach", "The shortage of%Nrice"... and this time, "The earthquake and Izumi-san%Nfalling into the pool."%K%P
+
+0x64
+"An earthquake's coming." ... No one has paid any%Nattention to what I said back there.%K%P
+
+0x70
+Right now, they're engaged in a conversation about%Nsomething else entirely.%K%P
+
+0xA0
+Okuhiko「Thank god♪ For a moment, I thought we were screwed...」%K%P
+
+0xBC
+Saki「I thought the security guard would catch Izumi-san,%Nsince she was falling behind...♪」%K%P
+
+0xD8
+Kurumi「If it weren't for Haruka-san's quick thinking, we'd all be%Ncaught right now♪」%K%P
+
+0xF4
+Okuhiko「No one else would have thought to take off that guard's%Nhat～♪」%K%P
+
+0x108
+Saki「Normally, you wouldn't have noticed that he was wearing%Na wig under there either♪」%K%P
+
+0x124
+Kurumi「And then Haruka-san threw it into the center of the%Npool♪」%K%P
+
+0x140
+Okuhiko「I still remember the look on his face...♪」%K%P
+
+0x14C
+Everyone「Ha ha ha ha ha ha ha ha ha...!♪」%K%P
+
+0x168
+Haruka's trying very hard not to get flustered, but her%Nface is clearly starting to flush.%K%P
+
+0x17C
+Just then...%K%P
+
+0x1A0
+Saki「Huh? What's wrong, Makoto-kun?」%K%P
+
+0x1AC
+... Suddenly, Saki says this, having noticed my change in%Nbehavior.%K%P
+
+0x1D4
+Makoto「No... it's just...」%K%P
+
+0x1F0
+Kurumi「Are you thinking about something?」%K%P
+
+0x1FC
+Makoto「I guess you could say that...」%K%P
+
+0x208
+Kurumi「Huh?」%K%P
+
+0x214
+Makoto「How do I put this... Earlier... I experienced an unusual%Nphenomenon...」%K%P
+
+0x230
+Haruka「An unusual... phenomenon?」%K%P
+
+0x23C
+Hmm... how do I explain it to them?%K
+
+0xA90
+Simply say "I had a premonition."
+
+0xA9C
+Express it in vaguer terms.
+
+0x27C
+Makoto「If I had to put it in a word... it was a 'premonition'.」%K%P
+
+0x288
+I simply tell them this.%K%P
+
+0x294
+I don't know why, but all of the sudden, I've been given%Nthe power to receive premonitions.%K%P
+
+0x2A0
+No matter how I think about how to explain this%Nphenomenon, the only way I can think of how to express%Nit is, "I've been given the power to receive premonitions."%K%P
+
+0x2B4
+Makoto「Somehow, I had a premonition of the future...」%K%P
+
+0x2C0
+I vaguely mumble this.%K%P
+
+0x2CC
+I don't know why, but all of the sudden, I've been given%Nthe power to receive premonitions.%K%P
+
+0x2D8
+No matter how I think about how to explain this%Nphenomenon, the only way I can think of how to express%Nit is, "I've been given the power to receive premonitions."%K%P
+
+0x2F4
+Okuhiko「Huh???」%K%P
+
+0x300
+Okuhiko jeers at my claim.%K%P
+
+0x30C
+Makoto「Right... I said it earlier, didn't I? Before Izumi-san fell into%Nthe pool... I said 'An earthquake's coming'...」%K%P
+
+0x328
+Kurumi「Ah... now that you mention it...」%K%P
+
+0x334
+Makoto「Also, this afternoon, I somehow knew that the shop was%Nout of rice...」%K%P
+
+0x350
+Saki「Right...」%K%P
+
+0x35C
+Makoto「I didn't mention this before, but I also knew Haruka was%Ngoing to fall on Moon Beach...」%K%P
+
+0x378
+Haruka「Huh...?」%K%P
+
+0x394
+Okuhiko「Hey, hey, is this your idea of a joke, Ishihara?」%K%P
+
+0x3A0
+Okuhiko looks at me with a sharp, piercing glare.%K%P
+
+0x3B4
+Okuhiko「Or could it be that you're trying to trick us?」%K%P
+
+0x3C0
+Makoto「You idiot! Why would I want to do that?!」%K%P
+
+0x3CC
+Okuhiko「Why else would you say all that crap unless you had%Nsomething you wanted to gain from it?」%K%P
+
+0x3F0
+Okuhiko「In other words, so you could just be mocking us for your%Nsick entertainment...」%K%P
+
+0x3FC
+Makoto「... What?」%K%P
+
+0x408
+Okuhiko「After all, today is April Fool's Day...」%K%P
+
+0x414
+Okuhiko「I didn't know you still practiced that obsolete tradition.」%K%P
+
+0x420
+Makoto「You're wrong! That's not it at all! This isn't an April Fool's%NDay joke, dammit!」%K%P
+
+0x434
+Okuhiko「Yes, yes... I get it, I get it...」%K%P
+
+0x440
+Makoto「Bullshit! You clearly don't believe me!」%K%P
+
+0x454
+Okuhiko「Really, I do. I'll try believing you.」%K%P
+
+0x460
+Okuhiko「Well then, Great Teacher Ishihara. What premonitions%Nhave you received about tomorrow?」%K%P
+
+0x46C
+Makoto「W-Well...」%K%P
+
+0x480
+Okuhiko「Huh? With all due respect, shouldn't you know that,%NTeacher?」%K%P
+
+0x48C
+Makoto「...」%K%P
+
+0x4A0
+Okuhiko「In that case, what about ones regarding what will%Nhappen in one hour... no, in one minute...?」%K%P
+
+0x4AC
+Makoto「...」%K%P
+
+0x4C0
+Okuhiko「Huh!? Could it be you can't even receive premonitions%Nabout that?」%K%P
+
+0x4CC
+Makoto「... I-I don't think it works that way...」%K%P
+
+0x4E0
+Okuhiko「Ha ha ha ha ha ha ha ha ha!♪」%K%P
+
+0x510
+Okuhiko「See? It's exactly as I thought after all.」%K%P
+
+0x524
+Okuhiko「I don't mind if you want to trick us, but it's no fun if you%Nuse such a flimsy lie.」%K%P
+
+0x530
+Okuhiko「That's the kind of stuff that not even a child would be%Nfooled by...」%K%P
+
+0x54C
+Saki「But wait a second...」%K%P
+
+0x558
+Saki「I don't think he could have lied about the rice and the%Nearthquake...」%K%P
+
+0x564
+Thankfully, Saki comes to my rescue.%K%P
+
+0x570
+However...%K%P
+
+0x57C
+Okuhiko「You're wrong, Saki-chan...」%K%P
+
+0x590
+Saki「???」%K%P
+
+0x59C
+Okuhiko「This afternoon, when we first came in, what was it that%Nyou said, Kurumi-chan?」%K%P
+
+0x5A8
+Okuhiko「I believe it was, 'Today, we had a party of tourists come%Nin for lunch...'」%K%P
+
+0x5C4
+Kurumi「Yeah, you're right...」%K%P
+
+0x5D0
+Okuhiko「From those words, Ishihara probably deduced, 'They%Nmust have used up a ton of rice.'」%K%P
+
+0x5EC
+Haruka「Well then... what about the earthquake...?」%K%P
+
+0x5F8
+Okuhiko「That one barely needs an explanation.」%K%P
+
+0x604
+Okuhiko「It's simply because 'The first person to notice the start%Nof the earthquake was Ishihara.'...」%K%P
+
+0x610
+Makoto「Huh?」%K%P
+
+0x624
+Okuhiko「Ha ha! Are you trying to play dumb?」%K%P
+
+0x638
+Okuhiko「Basically, when Ishihara shouted, 'An earthquake's%Ncoming,' it had already started.」%K%P
+
+0x644
+Okuhiko「We were all so focused on Izumi-san and Kurumi-chan's%Ngame, so we didn't notice...」%K%P
+
+0x650
+Okuhiko「But if Ishihara wasn't, then he might have felt some light%Nshaking that we didn't―In other words, the preliminary%Ntremors.」%K%P
+
+0x65C
+Okuhiko「Naturally, if you notice the preliminary tremors,then it's%Nsimple to guess right about the arrival of the main tremor.」%K%P
+
+0x668
+Haruka「Hmm...」%K%P
+
+0x684
+Saki「I get it now...」%K%P
+
+0x6A0
+Kurumi「So that's what happened...」%K%P
+
+0x6BC
+Okuhiko「Ishihara... wouldn't it be better for you to confess now?」%K%P
+
+0x6D0
+I say nothing.%K%P
+
+0x6DC
+I've lost the will to.%K%P
+
+0x6E8
+There's nothing more depressing than nobody believing%Nyou when you're telling the truth.%K%P
+
+0x6F4
+I feel like an innocent suspect who's been accused of%Nmurder.%K%P
+
+0x700
+(It's not like they've lost faith in me, so I guess it's fine...)%K%P
+
+0x70C
+This still sucks.%K%P
+
+0x718
+Just then...%K%P
+
+0x73C
+Izumi「Whew... that was refreshing♪」%K%P
+
+0x748
+Izumi-san rejoins us after finishing her shower.%K%P
+
+0x75C
+Izumi「I have some strawberries in the fridge, would you like%Nsome?」%K%P
+
+0x768
+In the end, the topic of my premonitions is quickly%Nforgotten...%K%P
+

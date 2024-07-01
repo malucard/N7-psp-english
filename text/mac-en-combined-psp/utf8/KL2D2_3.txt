@@ -1,0 +1,432 @@
+text area offset and size:
+0xCC8
+0x1B0E
+0x74
+After we finish the delicious dinner Izumi-san cooked for%Nus... everyone goes to Moon Beach.%K%P
+
+0x80
+Kurumi also tries to follow the others and go outside, but%NI decide to grab her by the arm and pull her back.%K%P
+
+0x94
+Kurumi「Huh? What?」%K%P
+
+0xA0
+Kurumi turns around, questioning me.%K%P
+
+0xAC
+Makoto「No, I just wanted to talk...」%K%P
+
+0xB8
+Of course, I have nothing to talk about.%K%P
+
+0xC4
+I just absolutely can't let Kurumi go to Moon Beach.%K%P
+
+0xD0
+Soon, Izumi-san will probably start telling the others the%Nstory of the "Shiki no Mori Shrine."%K%P
+
+0xDC
+If possible, I want these seven days to end without%NKurumi learning about the shrine.%K%P
+
+0xE8
+What's Kurumi's connection to the shrine? ―I still%Ndon't know...%K%P
+
+0xF4
+Kurumi「Talk?」%K%P
+
+0x100
+Makoto「Umm... how do I put this... err...」%K%P
+
+0x114
+Kurumi「... Oh, got it! You're trying to talk about your prediction%Nearlier, right?」%K%P
+
+0x120
+Makoto「Ah, um... well... didn't I tell you so?」%K%P
+
+0x12C
+Kurumi「But Kurumi already figured out the trick.」%K%P
+
+0x138
+Makoto「What trick?」%K%P
+
+0x144
+Kurumi「You planned it with Yuka-san from the start, right?」%K%P
+
+0x150
+Makoto「...」%K%P
+
+0x164
+Kurumi「Geez, it's useless to play dumb, you know? It has to be%Nthat! Kurumi can't think of any other way than that!」%K%P
+
+0x170
+Makoto「... I guess you got me?」%K%P
+
+0x17C
+Kurumi「Kurumi knew it♪ That's what she thought♪」%K%P
+
+0x190
+Kurumi「Then Kurumi will head to Moon Be-」%K%P
+
+0x19C
+Makoto「Hold it!」%K%P
+
+0x1A8
+Just as Kurumi tries to go outside, I grab her arm again.%K%P
+
+0x1B4
+Izumi-san's story has probably only just begun.%K%P
+
+0x1C0
+Makoto「Hey... Kurumi, do you love scary stories?」%K%P
+
+0x1D4
+Kurumi「Yep♪ She loves them♪」%K%P
+
+0x1E0
+Makoto「Then I shall tell you a scary story!」%K%P
+
+0x1EC
+Kurumi「Sure♪ Maybe next time?」%K%P
+
+0x1F8
+Kurumi says this, and turns around.%K%P
+
+0x204
+I hold her back by the arm yet again.%K%P
+
+0x210
+Makoto「I'm telling you to wait!」%K%P
+
+0x224
+Kurumi「Geez, what is it!?」%K%P
+
+0x230
+Makoto「I can't tell you next time. If I don't tell you this time, I'll... I'll%Nforget it...」%K%P
+
+0x244
+Kurumi「Hmm... then Kurumi'll listen just for a little bit.」%K%P
+
+0x250
+Makoto「All right. Then I'll begin.」%K%P
+
+0x264
+Kurumi「Okay.」%K%P
+
+0x270
+Makoto「I heard this from my friend...」%K%P
+
+0x27C
+Makoto「There's this mountain trail on a pass... with this loooong%Ntunnel-」%K%P
+
+0x290
+Kurumi「Oh, Kurumi's heard that one already...」%K%P
+
+0x29C
+With that, Kurumi turns around.%K%P
+
+0x2A8
+I reach out to hold her back...%K%N
+
+0x2B4
+... but I miss.%K%P
+
+0x2C0
+Kurumi evades my grasp, and rushes out the door...%K%P
+
+0x2CC
+(C-Crap...!)%K%P
+
+0x334
+I run after her, but by the time I get there...%K%P
+
+0x364
+Kurumi「Hey, what were you talking about?」%K%P
+
+0x378
+Saki「There's a shrine nearby.」%K%P
+
+0x394
+Okuhiko「Izumi-san was in the middle of telling us a rumor about%Nthat shrine.」%K%P
+
+0x3A0
+Kurumi「Hmm...」%K%P
+
+0x3AC
+Okuhiko「Kurumi-chan, you've never heard of that shrine before?」%K%P
+
+0x3B8
+Kurumi「Nope. First time Kurumi's ever heard of it!」%K%P
+
+0x3C4
+Okuhiko「Well then, isn't that exciting?」%K%P
+
+0x3D0
+It isn't exciting at all...%K%P
+
+0x3EC
+Saki「Well then, Izumi-san, will you continue?」%K%P
+
+0x408
+Izumi「Y-Yes...」%K%P
+
+0x414
+Izumi「...」%K%P
+
+0x420
+Saki「Izumi... san?」%K%P
+
+0x42C
+Izumi「Umm...」%K%P
+
+0x438
+Izumi「Where was I?」%K%P
+
+0x444
+Saki「You were up to the part where you initially thought it was%Nnothing more than a myth.」%K%P
+
+0x450
+Izumi「I see... Yes, that's right. When I first heard that story, I%Nwas also doubtful. But then...」%K%P
+
+0x4D4
+Haah...%K%N
+
+0x4E0
+But there's nothing more that can be done here,%Nanyway...%K%N
+
+0x4EC
+Just because Kurumi's heard the story of the shrine%Nnow doesn't necessarily mean that history will repeat%Nitself..%K%N
+
+0x4F8
+This is only the trigger for that incident...%K%N
+
+0x504
+No, it might not actually be the trigger in the first place.%K%P
+
+0x518
+What really caused it was Kurumi overhearing my%Nconversation with Izumi-san.%K%N
+
+0x524
+If it hadn't happened, then that incident would never%Nhave happened.%K%N
+
+0x530
+That means that if I can prevent that conversation, then%NI can avert that tragedy.%K%N
+
+0x53C
+I can't do anything about events that have already%Noccurred, after all.%K%P
+
+0x548
+―Anyway, I've got to think positively!%W%W%N%N
+
+0x554
+I immediately pull myself together.%K%P
+
+0x5B4
+Izumi「No way! Absolutely not!」%K%P
+
+0x5C0
+Izumi-san's shout abruptly brings me back to reality.%K%P
+
+0x5D4
+Kurumi「Huh, why not?」%K%P
+
+0x5E0
+Izumi「'Why not'!?」%K%P
+
+0x5EC
+Izumi「Weren't you listening, Kurumi? That story I told you just%Nnow wasn't a joke. Do you understand that?」%K%P
+
+0x5F8
+Kurumi「Kurumi understands... But... if we only look at it from a%Ndistance, then...」%K%P
+
+0x604
+Izumi「See, you don't understand. You don't understand at all!」%K%P
+
+0x610
+Kurumi「But...」%K%P
+
+0x61C
+Izumi「No buts! No means no!」%K%P
+
+0x628
+Izumi「All right? Do you understand?」%K%P
+
+0x63C
+Kurumi「Boo...」%K%P
+
+0x6B0
+Yuka「Well then, goodnight, Izumi-san, Kurumi-chan.」%K%P
+
+0x6CC
+Izumi「Goodnight. Please be careful on your way back, okay?」%K%P
+
+0x6D8
+Kurumi「Bye bye♪」%K%P
+
+0x6E4
+Once everyone finishes saying their goodbyes, the two%Nsisters disappear into the shop.%K%P
+
+0x6F8
+Or so I think...%K%P
+
+0x704
+Kurumi「Oh!! Almost forgot!」%K%P
+
+0x734
+Kurumi comes out again, throwing open the door with all%Nher might...%K%P
+
+0x740
+(Huh? This is strange...)%K%P
+
+0x74C
+Didn't Kurumi come back out last time because she had%Nforgotten to deliver Saki's message?%K%P
+
+0x758
+But this time, nothing happened to Saki...%K%P
+
+0x764
+Kurumi「You know what? Kurumi remembered there's something%Nshe had to tell you!」%K%P
+
+0x770
+Everyone「???」%K%P
+
+0x77C
+Kurumi「From now on, Kurumi has decided to call Okuhiko-kun%N'Okkun'♪」%K%P
+
+0x788
+Okuhiko「... Huh?」%K%P
+
+0x794
+Kurumi「And she's decided to call Makoto-kun 'Onii-chan'♪」%K%P
+
+0x7A0
+Okuhiko「Onii-chan?」%K%P
+
+0x7AC
+Yuka「Onii-chan?」%K%P
+
+0x7B8
+Haruka「Onii-chan?」%K%P
+
+0x7C4
+Kurumi「Is that all right, Onii-chan?」%K%P
+
+0x7D0
+Makoto「Yeah, it's all right.」%K%P
+
+0x7DC
+I answer positively.%K%P
+
+0x7E8
+"Onii-chan"...%K%N
+
+0x7F4
+I've missed being called that.%K%N
+
+0x800
+Those words soothe my heart...%K%P
+
+0x814
+Kurumi「Eheh♪ That's good♪」%K%P
+
+0x820
+Kurumi「Well then, goodnight everyone♪」%K%P
+
+0x82C
+Kurumi goes back into Lunabeach while waving her hand%Nwidely.%K%P
+
+0x838
+So she came out here just to tell us that...%K%P
+
+0x844
+I instinctively break out into a grin.%K%P
+
+0x8AC
+When we return to the lodge, I take a bath, brush my%Nteeth, change into my nightclothes, and lie down on the%Nbed.%K%P
+
+0x8B8
+Makoto「Aaah...」%K%P
+
+0x8C4
+As I yawn...%K%P
+
+0x8EC
+... I hear a knock on the door.%K%P
+
+0x8F8
+Makoto「Yes, come in.」%K%P
+
+0x934
+Haruka「Um...」%K%P
+
+0x940
+Makoto「Haruka? What's wrong?」%K%P
+
+0x94C
+Haruka「Makoto... can you fish?」%K%P
+
+0x968
+Makoto「Fish?」%K%P
+
+0x974
+Ah, now that I think about it, tomorrow is the day Haruka%Nand I went fishing...%K%P
+
+0x980
+Makoto「Yeah! I'm great at fishing!」%K%P
+
+0x98C
+I answer cheerfully.%K%P
+
+0x998
+Haruka「Then... will you teach me tomorrow?」%K%P
+
+0x9A4
+Makoto「Of course!」%K%P
+
+0x9B0
+Haruka「Really?」%K%P
+
+0x9BC
+Makoto「Really!」%K%P
+
+0x9C8
+Haruka「...」%K%P
+
+0x9D4
+Makoto「...?」%K%P
+
+0x9E8
+Haruka「Thank you.」%K%P
+
+0x9F4
+Makoto「No, no... I haven't even taught you yet...」%K%P
+
+0xA00
+Makoto「Isn't it too early to be thanking me?」%K%P
+
+0xA0C
+Haruka「Yes... but... thank you.」%K%P
+
+0xA18
+Makoto「... Well then, tomorrow?」%K%P
+
+0xA24
+Haruka「Yes.」%K%P
+
+0xA38
+Haruka leaves the room.%K%P
+
+0xA44
+I look back on my previous thoughts...%K%P
+
+0xA50
+"The next seven days will be happy ones."%K%P
+
+0xA5C
+"I will guide them to happiness..."%K%P
+
+0xA68
+... That's my other important duty.%K%P
+
+0xA74
+I didn't even hesitate to accept Haruka's offer to go%Nfishing...%K%P
+

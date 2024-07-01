@@ -1,0 +1,582 @@
+text area offset and size:
+0x10C8
+0x338C
+0x5C
+In the morning... I wake up, my head feeling kinda blank.%K%P
+
+0x68
+It might be because a whole lot of things happened%Nyesterday.%K%P
+
+0x74
+I'm in a dreamy state of mind, unable to sort things out in%Nmy head.%K%P
+
+0x80
+When I absentmindedly enter the living room, I find Yuka%Nwith a very sharp expression.%K%P
+
+0x94
+Yuka「Good morning.」%K%P
+
+0xA0
+Makoto「Morning... Where are Haruka and Okuhiko?」%K%P
+
+0xAC
+Yuka「They've already left.」%K%P
+
+0xB8
+Makoto「Both of them?」%K%P
+
+0xC4
+Yuka「Yes, both of them... Does it bother you?」%K%P
+
+0xD0
+Makoto「No... Just surprised that Haruka would be in the mood to%Ngo with Okuhiko...」%K%P
+
+0xDC
+Yuka「It seems that Okuhiko-kun is kinda serious about Haruka,%Nhuh?」%K%P
+
+0xE8
+Makoto「Serious? That's guy's a clear menace to women.」%K%P
+
+0xF4
+Yuka「Up until now, yeah. But if he seriously falls in love with a%Ngirl, then maybe she'll start to return his feelings.」%K%P
+
+0x100
+Makoto「Well, he's rich.」%K%P
+
+0x10C
+Yuka「That's not it. He just really understands women!」%K%P
+
+0x118
+Makoto「Ah ha... So Yuka... you like Oku...」%K%P
+
+0x12C
+Yuka「Idiot. It's not like that.」%K%P
+
+0x140
+Yuka「Anyway, what are you going to do from now on?」%K%P
+
+0x14C
+Makoto「Well... I'm a bit concerned about something...」%K%P
+
+0x158
+Yuka「You mean Saki...?」%K%P
+
+0x164
+Makoto「Well, yeah.」%K%P
+
+0x170
+Yuka「Why are you so concerned about her? She's just a...」%K%P
+
+0x17C
+Makoto「Yuka, do you ever think you may simply be%Nmisunderstanding Saki?」%K%P
+
+0x190
+Yuka「If that's the case, the why don't you bring her here and%Nsolve the misunderstanding, huh?」%K%P
+
+0x19C
+Makoto「Hey, why are you mad...」%K%P
+
+0x1B0
+Yuka「Hurry up and bring her here.」%K%P
+
+0x1BC
+It seems Yuka's still upset about the barbecue%Nyesterday.%K%P
+
+0x1C8
+Our friendships are falling apart because of something%Nthis stupid...%K%P
+
+0x1D4
+Particularly Saki and Yuka's, who were old friends from%Nmiddle school.%K%P
+
+0x1E0
+If possible, I want the two of them to make up.%K%P
+
+0x1EC
+Makoto「All right, I understand. Then I'll go invite her over.」%K%P
+
+0x1F8
+Makoto「... Will you wait for a bit?」%K%P
+
+0x204
+Yuka「Fine...」%K%P
+
+0x218
+I quickly head for Saki's summer house.%K%P
+
+0x278
+When I arrive at the front door, I hear sounds from the%Nbackyard.%K%P
+
+0x284
+Perhaps Saki might be there.%K%P
+
+0x290
+I circle around the house.%K%P
+
+0x29C
+Makoto「Yo, Saki!」%K%P
+
+0x2CC
+Saki「M-Makoto-kun...!」%K%P
+
+0x2D8
+Makoto「Can you come to the lodge now?」%K%P
+
+0x2EC
+Saki「... All right. I'll go later.」%K%P
+
+0x2F8
+Makoto「Why? I have come here as your escort, Your Highness.」%K%P
+
+0x30C
+Saki「It's fine, just go ahead!」%K%P
+
+0x318
+Saki's acting strangely restless.%K%P
+
+0x324
+When I see that, I suddenly realize it.%K%P
+
+0x330
+Saki's waiting for that puppy...%K%P
+
+0x33C
+It will come here seeking breakfast...%K%P
+
+0x348
+I close in on Saki's ear and whisper this.%K%P
+
+0x354
+Makoto「So you're waiting for it?」%K%P
+
+0x368
+Saki「Huh!?」%K%P
+
+0x374
+Startled, she backs away from me and glares at me.%K%P
+
+0x380
+Makoto「I saw what happened last night. You gave it meat, didn't%Nyou?」%K%P
+
+0x394
+Saki「... You saw it?」%K%P
+
+0x3A0
+Makoto「It was cute.」%K%P
+
+0x3AC
+Saki「That was just... I dropped it on the floor, and just thought%Nit'd be a bit of a a waste, so I gave the beef to it.%NBesides... it's a really dirty puppy. It's not cu-」%K%P
+
+0x3B8
+Makoto「No, when I said 'it was cute', I was talking about you, Saki.」%K%P
+
+0x3CC
+Saki「... Huh?」%K%P
+
+0x3D8
+Makoto「That puppy will definitely come again. It's become a sort%Nof habit for it, after all.」%K%P
+
+0x3EC
+Saki「I-If it comes again, then I'll just send it away. I don't want%Na stray dog clinging to me, you know.」%K%P
+
+0x414
+Makoto「... Oh, here it is.」%K%P
+
+0x420
+I hear rustling in the bushes, and then the puppy shows%Nup.%K%P
+
+0x448
+When it recognizes Saki, it dashes towards her.%K%P
+
+0x454
+And then, it jumps at her feet.%K%P
+
+0x47C
+It lively wags its tail as it begins to whine and beg.%K%P
+
+0x488
+It seems that it's completely attached to Saki.%K%P
+
+0x494
+It's obvious the puppy has known her for a long time.%K%P
+
+0x4A0
+Despite this, Saki stands stock still.%K%P
+
+0x4AC
+Now that she's said she "doesn't want it clinging to me,",%Nshe's reached the point where she can't back out.%K%P
+
+0x4B8
+Well, this is just typical of her...%K%P
+
+0x4C4
+Makoto「I see. I thought there was something weird about the%Nwhole pizza thing.」%K%P
+
+0x4D8
+Saki「What are you talking about?」%K%P
+
+0x4E4
+Makoto「I'm talking about the day we met at Lunabeach. Kurumi%Nmade a mistake with the pizza delivery. You were%Nplanning on giving it to this little guy, right?」%K%P
+
+0x4F0
+Saki「No way...」%K%P
+
+0x4FC
+Makoto「I thought you were really overreacting back then,%Ngetting so angry over a late pizza. Now I see that's also%Nbecause you wanted to feed this little guy...」%K%P
+
+0x510
+Saki「You're wrong!」%K%P
+
+0x51C
+Makoto「Furthermore, it took you six hours to go to complain for%Ncompensation. Why? Were you having so much fun%Nplaying with it that you didn't want to leave?」%K%P
+
+0x528
+Saki「You're wrong! That's not it!」%K%P
+
+0x534
+Makoto「All this time... you've been taking care of it way before we%Ncame to this island, haven't you?」%K%P
+
+0x548
+Saki「I said you're wrong, dammit! Didn't I tell you that I don't%Nwant this wild dog to be clinging to me!?」%K%P
+
+0x554
+Saki steps back and tries to run away from the puppy at%Nher feet. She waves her hand, as if to say "Shoo!"%K%P
+
+0x560
+The puppy innocently approaches Saki.%K%P
+
+0x56C
+When it does this, Saki gets desperate and tries to drive%Nit away with more force than last time.%K%P
+
+0x578
+Makoto「You don't have to hide it.」%K%P
+
+0x58C
+Saki「I'm not hiding anything!」%K%P
+
+0x5A0
+Suddenly, she crouches down. She picks the puppy up%Nand lightly throws it.%K%P
+
+0x5AC
+Saki「Shoo! Go away!」%K%P
+
+0x5D4
+The puppy misunderstands, thinking that Saki is trying to%Nplay with it. It happily returns to her feet.%K%P
+
+0x5E0
+Saki lightly throws it again.%K%P
+
+0x5EC
+The puppy returns to Saki.%K%P
+
+0x5F8
+Saki「Stay away from me! Leave now!」%K%P
+
+0x604
+She tries again and again to drive it away, but the%Npuppy always returns.%K%P
+
+0x610
+It gets so playful at times that it's starting to get Saki's%Nclothes dirty with mud and dust.%K%P
+
+0x624
+Saki「Go ahead to the lodge. When I've sent it away, I'll go%Nthere as soon as I can!」%K%P
+
+0x638
+Saki's eyes are faintly blurred as she says this.%K%P
+
+0x644
+As usual, the dog jumps up on her.%K%P
+
+0x650
+The puppy's muddy footprint get on Saki's chest. It's like%Nit's pressing a stamp on her...%K%P
+
+0x65C
+(All right...)%K%P
+
+0x668
+I just got a good idea.%K%P
+
+0x674
+In the first place, Saki is being too much of a hypocrite.%NAn occasional drastic measure is all right.%K%P
+
+0x680
+Makoto「Ah! Don't I... have to exact revenge?」%K%P
+
+0x68C
+I pick the dog up in my arms, and I lightly hit it several%Ntimes.%K%P
+
+0x6E0
+H-Huh? I'm going easy on it, but...%K%P
+
+0x6F4
+Saki「What the hell are you doing!?」%K%P
+
+0x700
+Saki's face turns pale when she hears the puppy's%Nscream.%K%P
+
+0x70C
+I gently let go of the puppy. The puppy runs away,%Nfrightened of me...%K%P
+
+0x718
+Saki tries to chase it, and it jumps on her chest, wiping%Nmore mud on it.%K%P
+
+0x724
+Makoto「I can't forgive any living creature that gets mud on you.」%K%P
+
+0x730
+Saki「But it's just a puppy, right!?」%K%P
+
+0x73C
+Makoto「I made a vow. It doesn't matter if it's a puppy or not!」%K%P
+
+0x750
+The puppy timidly comes back.%K%P
+
+0x75C
+I lightly kick it with my tiptoes...%K%P
+
+0x784
+... That was my intention, but the puppy is knocked down%Nfor a third time and lets out a sharp yelp.%K%P
+
+0x7AC
+Saki「STOP!!」%K%P
+
+0x7B8
+Saki holds the fallen over puppy in her arms. It's like a%Nmother protecting her child from a life-and-death%Nsituation...%K%P
+
+0x7CC
+The puppy cries into Saki's chest.%K%P
+
+0x7D8
+Saki turns around and looks at me. Her glare is sharply%Npiercing me.%K%P
+
+0x7E4
+Makoto「... N-No, it's just, I kinda lost my head back there, no,%Nthat's not it, uh, how do I put it...」%K%P
+
+0x854
+My excuses prove futile, as I receive a slap from Saki.%K%P
+
+0x894
+The Saki before my eyes is trembling with rage.%K%P
+
+0x8A0
+Saki「Go away! I don't want to see the face of someone who%Nwould be so cruel to this puppy!」%K%P
+
+0x8B4
+Still holding the dog, Saki runs into her house.%K%P
+
+0x8C0
+I stand frozen in place, dumbfounded...%K%P
+
+0x8CC
+My cheek is hotly stinging with pain.%K%P
+
+0x940
+When I return to the lodge, Yuka is waiting on the terrace.%K%P
+
+0x980
+Yuka「Judging by that face, you crashed and burned, huh?」%K%P
+
+0x98C
+Makoto「What, did the swelling give it away?」%K%P
+
+0x998
+Yuka「Huh? That's not what I meant, but... What, did she hit you?」%K%P
+
+0x9A4
+Makoto「Well, it was just some petty revenge...」%K%P
+
+0x9B8
+Yuka「Somehow, I thought that was the case. Saki hasn't%Nchanged from the past. She's selfish, and never%Napologizes even when she knows she's wrong.」%K%P
+
+0x9C4
+Makoto「Wait a minute! You've got it all wrong, it wasn't because of%Nthat. It was my fault that it happened.」%K%P
+
+0x9D0
+Yuka「It just sounds like you're spoiling her and letting her get%Nfull of herself.」%K%P
+
+0x9DC
+Makoto「I'm telling you, that's wrong! You really are%Nmisunderstanding Saki.」%K%P
+
+0x9F0
+Yuka「You think so?」%K%P
+
+0x9FC
+Makoto「Of course.」%K%P
+
+0xA10
+Yuka「But Saki's still obsessed about the Magician's Portrait%Nincident.」%K%P
+
+0xA1C
+Makoto「Magician's Portrait?」%K%P
+
+0xA28
+Now that I think about it... didn't Saki said something to%NYuka on the 3rd...?%K%P
+
+0xA34
+"Shut up, Yuka! Why don't you just go draw your little%Npictures like you did back then...!?"%K%P
+
+0xA48
+Yuka「It was during our middle school culture festival. The%Nclass was drawing a picture called the Magician's%NPortrait. I wonder how long we drew it for?」%K%P「Anyway, it covered one of the walls of our classroom.%NEveryone divided the work by coloring their own portion%K%Pof it.」%K%P
+
+0xA54
+Makoto「Saki was in your class at the time?」%K%P
+
+0xA60
+Yuka「Yeah. You need a rough sketch before the coloring,%Nright? Saki and I each drew one. We disagreed over%Nwhich to use, so we left it up to a class vote.」%K%P
+
+0xA6C
+Makoto「So in the end, they picked yours, Yuka?」%K%P
+
+0xA80
+Yuka「Saki looked very bitter. She was almost scary to look at.%NThat's when, when it happened...」%K%P
+
+0xA8C
+Makoto「When what happened?」%K%P
+
+0xAA0
+Yuka「The completed painting was totally destroyed...%Nsomeone snuck into the school in the middle of the night%Nand did it!」%K%P
+
+0xAAC
+Makoto「Huh!?」%K%P
+
+0xAB8
+Yuka「Everyone blamed her, though she insisted they were%Nwrong. Even though the homeroom teacher gave her a%Nwarning, she absolutely refused to apologize. And that's%Nnot all.」%K%P
+
+0xAC4
+Makoto「...」%K%P
+
+0xAD0
+Yuka「She told me, 'No matter what you draw, it'll never be called%Nart. But if you like drawing so badly, then go ahead and%Ndraw forever' ... She said that in front of the whole class!」%K%P
+
+0xADC
+Makoto「...」%K%P
+
+0xAF0
+Yuka「I didn't want to talk about that that incident, but... Saki's%Nbeen obssessed with it the whole time. That's why she%Nlunges at me whenever something happens.」%K%P
+
+0xAFC
+Makoto「... Did Saki really do it?」%K%P
+
+0xB10
+Yuka「It seems a janitor on patrol saw her running! I don't know%Nif Saki really did it, but she hasn't grown out of being so%Nstubborn.」%K%P
+
+0xB1C
+Makoto「...」%K%P
+
+0xB28
+Yuka「Argh, it's giving me a headache! Okay? Could you just%Nforget about the whole Saki thing?」%K%P
+
+0xB34
+Makoto「But, she's... Saki's really a nice person, right?」%K%P
+
+0xB48
+Yuka「I said to just forget about Saki!」%K%P
+
+0xB54
+Makoto「No, I can't!」%K%P
+
+0xB68
+Yuka「...」%K%P
+
+0xB74
+Makoto「Since before we came to this island, she's been taking%Ncare of this stray puppy the whole time.」%K%P
+
+0xB80
+Makoto「It's a very small puppy. She took the beef yesterday%Nbecause she wanted to give it to the puppy.」%K%P
+
+0xB94
+Yuka「... Well then, why didn't she just say that in the first pla-」%K%P
+
+0xBA0
+Makoto「She wouldn't. She's the kind of person who would never%Nsay that.」%K%P
+
+0xBAC
+Makoto「Don't you understand? It's part of that stubborn%Npersonality you were talking about...」%K%P
+
+0xBC0
+Yuka「Makoto...」%K%P
+
+0xBCC
+Makoto「She really is a nice person.」%K%P
+
+0xBD8
+Yuka「...」%K%P
+
+0xBE4
+Makoto「Destroying a picture... she's not the kind of person who%Ncould do that...」%K%P
+
+0xBF0
+Yuka「I get it...」%K%P
+
+0xBFC
+Yuka「I get it, so... will you call Saki here? One more time...」%K%P
+
+0xC34
+I give her a deep nod, and run down the short staircase.%K%P
+
+0xC90
+When I start walking towards Saki's summer house... I hear%Nthe cheerful voices of a man and woman.%K%P
+
+0xC9C
+When I look towards the forest path, I see Haruka and%NOkuhiko returning.%K%P
+
+0xCA8
+Over there, I see Haruka with an expression I've never%Nseen on her before.%K%P
+
+0xCB4
+An expression brimming with emotion... Up until now, I've%Nnever could have imagined such a human-like%Nexpression from Haruka.%K%P
+
+0xCC0
+To be honest, I'm shocked...%K%P
+
+0xCCC
+My mental state is like that of a a father who is watching%Nhis daughter with a boyfriend for the first time.%K%P
+
+0xCD8
+I probably feel something close to that.%K%P
+
+0xCEC
+Okuhiko「Hey, Ishihara. You're sure up late. You ought to rise early%Non beautiful days like this! Or maybe it's you they speak%Nof in 'In spring, one sleeps a sleep that knows no dawn.'」%K%P
+
+0xCF8
+Makoto「Shut up... I don't need your help!」%K%P
+
+0xD0C
+Okuhiko「Being jealous is unsightly for a man. You should try%Nacting a little cooler.」%K%P
+
+0xD18
+Makoto「Didn't I just say I didn't need your help!? Don't speak until%NI say so!」%K%P
+
+0xD2C
+Okuhiko「Oh? I guess this is where 'Those that lie down with dogs%Nshall get up with fleas,' applies, huh?」%K%P
+
+0xD38
+Makoto「What!?」%K%P
+
+0xD4C
+Okuhiko「I recommend that you shouldn't get influenced so much%Nby hysterical rich girls, though it seems like she really%Npulled a number on you.」%K%P
+
+0xD58
+Makoto「What was that, Okuhiko!? Who did you hear that fr-...!?」%K%P
+
+0xD74
+I am taken aback when I notice Haruka's stare...%K%P
+
+0xD80
+Her glare coldly pierces me, even more unnerving now%Nthat her expression isn't its usual deadpan self.%K%P
+
+0xD8C
+Makoto「Haruka...」%K%P
+
+0xDA0
+Haruka suddenly averts her glare, slips past me, and%Nwalks up the stairs.%K%P
+
+0xDAC
+Okuhiko follows her lead.%K%P
+
+0xDB8
+I turn towards the departing Haruka, unable to say%Nanything.%K%P
+
+0xDC4
+A very unpleasant feeling grabs my heart, and I turn to%Ngo towards Saki's summer house once again...%K%P
+

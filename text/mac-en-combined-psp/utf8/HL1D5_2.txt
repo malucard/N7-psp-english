@@ -1,0 +1,210 @@
+text area offset and size:
+0x770
+0xD3E
+0x4C
+??「Makoto... Makoto...」%K%P
+
+0x58
+Someone's calling my name.%K%P
+
+0x64
+... Who is it?%K%N
+
+0x70
+Is this... Haruka's voice?%K%P
+
+0x7C
+Haruka「Makoto! Makoto!」%K%P
+
+0x88
+(Ugh... let me sleep a little longer. I went to sleep late last%Nnight.)%K%P
+
+0x94
+As I try to turn over in my sleep, I am met with resistance.%K%P
+
+0xA0
+Haruka「Hey, Makoto! Makoto!」%K%P
+
+0xAC
+Haruka grabs my shoulders and rocks them back and%Nforth.%K%P
+
+0xB8
+I-I get it...%K%N
+
+0xC4
+I'm up, I'm up, so...%K%P
+
+0xD8
+Wh-Whoa!%K%P
+
+0xF4
+When I raise my upper body and open my eyes, I see,%Nmere inches away from me, Haruka's... face!?%K%P
+
+0x100
+Haruka「Kyaa...!」%K%P
+
+0x334
+Owww... We bump our foreheads into each other.%K%P
+
+0x340
+I can see stars flying around me.%K%P
+
+0x39C
+Haruka「Ow...」%K%P
+
+0x3A8
+Haruka frowns as she nurses her sore forehead.%K%P
+
+0x3B4
+Makoto「... Wh-What were you doing, Haruka?」%K%P
+
+0x3C8
+Haruka「Makoto... you were having trouble waking up, so...」%K%P
+
+0x3D4
+Makoto「That's not it, I'm asking why your face was right in front of%Nmine when I opened my eyes.」%K%P
+
+0x3E0
+Haruka「Have you ever read... 'Sleeping Beauty'?」%K%P
+
+0x3EC
+Makoto「W-well... a little... It's that fairytale by the Grimm Brothers,%Nright?」%K%P
+
+0x3F8
+I've never read it before, but I do have a very vague%Nmemory of seeing it in a picture book once...%K%P
+
+0x404
+Haruka「The Grimm Brothers' story is 'Briar Rose'―'Sleeping%NBeauty' was written by Perrault.」%K%P
+
+0x410
+Makoto「Huh? Oh, really?」%K%P
+
+0x41C
+Haruka「They're the same story, however.」%K%P
+
+0x428
+I'm crushed. If that's the case, then don't tell me that...%K%P
+
+0x434
+Haruka「There was this princess who slept for hundreds of%Nyears, right?」%K%P
+
+0x440
+Makoto「Yeah, that's right. And then, a prince finally came to the%Nprincess in order to wake her up, and then...」%K%P
+
+0x44C
+When I get to that point, I stop dead in my tracks.%K%P
+
+0x458
+H-Hold on! Then that means...%K%P
+
+0x464
+Haruka「...」%K%P
+
+0x470
+(Haruka... she didn't say "That part doesn't matter," this%Ntime...)%K%P
+
+0x47C
+...%K%P
+
+0x490
+Haruka「Now that you're awake, let's go.」%K%P
+
+0x49C
+Haruka tugs at my arm as if nothing had happened.%K%P
+
+0x4A8
+Makoto「G-Go... Where?」%K%P
+
+0x4B4
+I try my best to calmly ask this, even though my heart is%Nracing.%K%P
+
+0x4C0
+Haruka「Fishing.」%K%P
+
+0x4CC
+Makoto「Fishing?」%K%P
+
+0x4D8
+Haruka nods firmly as if it were natural.%K%P
+
+0x4E4
+This will make the third day in a row we've gone fishing%Ntogether...%K%N
+
+0x4F0
+It seems Haruka's gotten really hooked on it...%K%P
+
+0x4FC
+Haruka「Hurry, let's go.」%K%P
+
+0x508
+It seems that to Haruka, it's already been decided that%NI'm to go fishing with her.%K%N
+
+0x514
+Even though I still haven't said anything...%K%N
+
+0x520
+Well, it's fun, so I'm okay with that.%K%P
+
+0x52C
+I quickly begin to get ready.%K%N
+
+0x538
+Haruka firmly watches me.%K%P
+
+0x544
+Makoto「Haruka... I'm going to change my clothes soon...」%K%P
+
+0x550
+Haruka「Right.」%K%P
+
+0x55C
+Makoto「... I'll be naked, so, uh...」%K%P
+
+0x570
+Haruka「R-Right...」%K%P
+
+0x57C
+Having finally realized it, she quickly averts her eyes%Nand gazes at the floor.%K%N
+
+0x588
+A slight blush rises to her cheeks.%K%P
+
+0x594
+Haruka「I'll be waiting by the front door...」%K%P
+
+0x5A8
+Just like that, she tries to leave the room.%K%P
+
+0x5B4
+Makoto「Haruka...」%K%P
+
+0x5C0
+I call out to her just as she starts leaving.%K%N
+
+0x5CC
+There's something I have to tell her.%K%P
+
+0x5E0
+Haruka「... What?」%K%P
+
+0x5EC
+Makoto「It was the prince that kissed the princess in 'Sleeping%NBeauty', not the other way around.」%K%P
+
+0x5F8
+Haruka「...」%K%P
+
+0x604
+Makoto「... That's it.」%K%P
+
+0x610
+Haruka「Yes, I understand.」%K%P
+
+0x61C
+Makoto「I wouldn't try to wake up anyone else with that method.」%K%P
+
+0x628
+Haruka「All right... If you say so, then I won't.」%K%P
+
+0x63C
+With those words, Haruka leaves the room.%K%P
+

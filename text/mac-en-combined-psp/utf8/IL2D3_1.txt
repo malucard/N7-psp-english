@@ -1,0 +1,744 @@
+text area offset and size:
+0x1680
+0x3634
+0x11C
+I still haven't confessed to Izumi-san. I still haven't told%Nher my feelings.%K%P
+
+0x15C
+The clear morning light shines in.%K%P
+
+0x168
+I sit up in my bed, and check the date on my watch.%K%P
+
+0x184
+(3 WED 10:00 A.M.)%K%P
+
+0x190
+That's right... today is April 3rd.%K%P
+
+0x19C
+Actually, it's April 8th, but to us, today must be April 3rd.%K%P
+
+0x1A8
+In order to keep up our act to deceive Okuhiko, we have%Nto act as we did on that day.%K%P
+
+0x1B4
+I enter the living room.%K%P
+
+0x22C
+Yuka's there.%K%P
+
+0x238
+Makoto「Good morning.」%K%P
+
+0x244
+Yuka「Oh, Makoto. Good morning.」%K%P
+
+0x258
+I check the old VCR's digital display.%K%P
+
+0x264
+The date there says April 3rd.%K%P
+
+0x270
+When we got back to the lodge yesterday, we changed%Nall of the dates in the lodge so that they read April 3rd.%K%N
+
+0x27C
+Of course, we didn't forget about Okuhiko's watch.%K%P
+
+0x288
+As I take my breakfast, I survey the whole room to check%Neverything over again.%K%P
+
+0x294
+Everything's okay. We haven't overlooked anything.%K%P
+
+0x2A0
+We need to be careful to make sure that Okuhiko doesn't%Nwatch TV or talk to any of the locals.%K%P
+
+0x2AC
+... Well, judging from what I saw of his state yesterday,%Nthere's probably no need to worry.%K%P
+
+0x2B8
+Unless he somehow manages to figure everything out,%Nhe should move just as predicted.%K%P
+
+0x2C4
+Rather, I think that Okuhiko will take the same actions he%Ndid in the past to reproduce history as accurately as%Npossible so that something unexpected doesn't occur.%K%P
+
+0x2D0
+Sometimes, even I don't know which one is doing the%Ndeceiving anymore.%K%P
+
+0x2DC
+But all's well.%K Today's plan should go off without a hitch.%K%P
+
+0x2EC
+... Before long, I hear Okuhiko's footsteps and voice.%K%P
+
+0x2F8
+Okuhiko「Promise? What promise?」%K%P
+
+0x30C
+Haruka「... I'm going fishing today.」%K%P
+
+0x328
+Haruka comes rushing into the living room, with Okuhiko%Nhot on her heels.%K%P
+
+0x33C
+Okuhiko「Huh? Haruka-chan, what do you mean by that? Isn't%Ntoday the day we go to the pool?」%K%P
+
+0x348
+Makoto「What are you saying, Okuhiko? We went to the pool%Nyesterday, right?」%K%P
+
+0x354
+Okuhiko「... Huh?」%K%P
+
+0x370
+Yuka「Okuhiko-kun... are you all right? You were acting strange%Nthe day before yesterday as well...」%K%P
+
+0x384
+Okuhiko「But... today's... W... WHAAAAAAAT!!!?」%K%P
+
+0x390
+Okuhiko is taken aback when he looks at his watch, his%Nface contorted with shock.%K%P
+
+0x39C
+Okuhiko「T... T-T-Then, today's April 3rd...」%K%P
+
+0x3B0
+Yuka「Today, we're scheduled to play tennis♪」%K%P
+
+0x3BC
+Yuka answers shamelessly.%K%P
+
+0x3C8
+But.. our future has now been entrusted to Okuhiko, and%Neverything depends on his responses.%K%P
+
+0x3DC
+Okuhiko「Th... That's right... Wh-What the hell am I saying...」%K%P
+
+0x3F0
+Okuhiko「Right... today's the day we play tennis and have the%NTest of Courage, isn't it...?」%K%P
+
+0x404
+Yuka「Huh? Test of Courage? Haruka, is this true?」%K%P
+
+0x420
+Haruka「... I don't know about it.」%K%P
+
+0x42C
+Makoto「What's wrong, Okuhiko?」%K%P
+
+0x440
+Okuhiko「Uh... u-uh... umm... What... indeed? ... I wonder why I thought%Nthat?」%K%P
+
+0x44C
+Okuhiko「For some reason, I felt like we were having a Test of%NCourage today.」%K%P
+
+0x460
+Okuhiko「Ha ha ha... I wonder if your premonition powers are%Ncontagious, Ishihara?」%K%P
+
+0x46C
+Heh heh heh... He's desperately trying to play dumb.%K%P
+
+0x478
+But he messed up. This was obviously an error on his%Npart.%K%P
+
+0x48C
+Okuhiko「Huh? Now that I think about it, where's Kurumi-chan? I%Ndon't see her anywhere.」%K%P
+
+0x498
+Crap! He finally noticed...%K%P
+
+0x4B4
+Yuka「Ah... umm... err...」%K%P
+
+0x4D0
+Haruka「Kurumi went home... yesterday... She hadn't finished her%Nspring break homework yet...」%K%P
+
+0x4DC
+Haruka instantly backs up Yuka.%K%N
+
+0x4E8
+But...%K%P
+
+0x4FC
+Okuhiko「Huh? Really?」%K%P
+
+0x518
+Yuka「Yeah, yeah! That's right. Did you forget, Okuhiko-kun?」%K%P
+
+0x534
+This is bad... He probably thought it was already strange%Nenough that he had no memory, but...%K%P
+
+0x540
+We should have told him this yesterday.%K%P
+
+0x54C
+Okuhiko is clearly starting to get suspicious!%K%P
+
+0x560
+Okuhiko「Could it be... that you're all deceiving me?」%K%P
+
+0x574
+―Shit!!%K%N
+
+0x580
+H-Have we been found out!?%K%P
+
+0x5B0
+Okuhiko「... Nah, there's no way it's like that. Ha ha ha!」%K%P
+
+0x5BC
+... He really is a naive guy...%K%P
+
+0x5D0
+Okuhiko「Ah... but you said you were going fishing, Haruka-chan.」%K%P
+
+0x5EC
+Yuka「Hold on. We're scheduled to play tennis today.」%K%P
+
+0x600
+Haruka「Huh? ... Tennis?」%K%P
+
+0x614
+Yuka「Haruka, you can't just say '%CFF8FI%CFFFF'll pass' today. That'd be%Ngoing against the group leader's orders.」%K%P
+
+0x628
+Haruka looks at me with a troubled expression.%K%P
+
+0x634
+It feels like I'm watching a recording of that incident from%Nthe real 3rd.%K%P
+
+0x650
+Okuhiko「That's right, Haruka-chan. As planned, we're playing%Ntennis. Fishing is just for old geezers anyway.」%K%P
+
+0x65C
+Haruka「I made a promise...」%K%P
+
+0x670
+... Everything after that happens the same way as last%Ntime.%K%P
+
+0x67C
+Okuhiko is even more resilient in his efforts to keep us%Nfrom going than before, but before long, Saki appears%Nwith a basket, and practically drags him away to go play%Ntennis with her.%K%P
+
+0x688
+Then, Haruka and I leave to go fishing as planned.%K%P
+
+0x69C
+Okuhiko「... S-Sounds good. Fishing is just for old geezers%Nanyway, I don't want to do that.」%K%P
+
+0x6B0
+Saki「Huh, fishing?」%K%P
+
+0x6C4
+Okuhiko「Ah, it's nothing. I'm impressed, Saki-chan. You knew I liked%Ntennis?」%K%P
+
+0x6D0
+Okuhiko, spiteful as always, can only think of saying the%Nsame lines he used last time.%K%P
+
+0x6DC
+I wolfishly grin.%K%N
+
+0x6E8
+He's not as smooth as he thinks he is... Is that the best%Nhe's got...?%K%P
+
+0x76C
+By the time we finish fishing, half a day has already%Npassed.%K%P
+
+0x778
+The sky is dyed a beautiful mad red.%K%P
+
+0x784
+Makoto「Aaaaah... I didn't catch anything～」%K%P
+
+0x798
+Haruka「... Doesn't seem like it.」%K%P
+
+0x7A4
+―Whoa!%K%P
+
+0x7B0
+She spoke so suddenly that it surprised me.%K%N
+
+0x7BC
+She probably didn't mean anything bad by it, though...%K%P
+
+0x7C8
+Like last time, I caught nothing.%K%N
+
+0x7D4
+On the other hand, Haruka got a bite almost every time%Nshe cast, and caught quite a lot of big catches.%K%P
+
+0x7E0
+(Of course, she let all of them go after reeling them in...)%K%P
+
+0x7EC
+Anyway, just why is there such a big difference%Nbetween us?%K%P
+
+0x7F8
+Do I just suck that much? Or does Haruka have excellent%Nsenses?%K%P
+
+0x804
+Makoto「Mmm...」%K%P
+
+0x810
+I can't help but groan...%K%P
+
+0x82C
+Just then...%K%P
+
+0x838
+Haruka「Hey, Makoto?」%K%P
+
+0x844
+... Haruka suddenly calls out to me.%K%P
+
+0x850
+However, her eyes remain fixed on the tip of the pole.%K%P
+
+0x85C
+Makoto「Yeah?」%K%P
+
+0x868
+Haruka「... There's something I want to ask you.」%K%P
+
+0x874
+Makoto「Me?」%K%P
+
+0x880
+Haruka nods.%K%P
+
+0x88C
+Makoto「What?」%K%P
+
+0x898
+Haruka「Umm...」%K%P
+
+0x8B4
+For some reason, Haruka goes silent after she says%Nthat.%K%P
+
+0x8DC
+The only sound I can hear is the crashing of the waves%Nagainst the pier.%K%P
+
+0x8E8
+Several silent seconds later, Haruka finally speaks in a%Nsoft voice.%K%P
+
+0x8F4
+Haruka「Makoto... have you ever kissed someone before?」%K%P
+
+0x900
+Makoto「Wh-What!?」%K%P
+
+0x914
+Haruka「... Will you kiss me?」%K%P
+
+0x920
+Makoto「...」%K%P
+
+0x934
+Haruka「Let's kiss.」%K%P
+
+0x950
+Haruka draws her face close to mine. Her expression%Nbegins to overwhelm my senses.%K%P
+
+0x978
+My heart feels like it's bursting out of my chest.%K%P
+
+0x984
+This event... it's happened before somewhere...%K%N
+
+0x990
+... Wait, this is exactly what happened on the 3rd after we%Nfinished fishing, isn't it!?%K%P
+
+0x99C
+Makoto「H-Hey, Haruka... Y-You... don't have to do this...」%K%P
+
+0x9A8
+Makoto「It's not like Okuhiko... is watching us...」%K%P
+
+0x9B4
+Haruka「... That... has nothing to do with it.」%K%P
+
+0x9C0
+This is starting to make me feel alarmingly uncomfortable.%K%P
+
+0x9CC
+I try to open my mouth and speak, but no words come%Nout...%K%P
+
+0x9D8
+Haruka「Makoto... I want you to kiss me.」%K%P
+
+0xA08
+Haruka「... You don't want to?」%K%P
+
+0xA14
+Haruka's eyes seem to be cloudy with tears.%K%P
+
+0xA20
+I-Impossible... She's never acted this way before up until%Nnow...%K%P
+
+0xA2C
+This is all incomprehensible to me.%K%P
+
+0xA38
+I had no idea.%K I had no idea that Haruka saw me this way...%K%P
+
+0xA44
+... But I'm a man. I can manage a little kiss!%K%P
+
+0xA50
+Makoto「On the... forehead?」%K%P
+
+0xA5C
+I somehow manage to speak.%K%P
+
+0xA68
+All right! I've got to keep it together.%K%P
+
+0xA84
+But... Haruka...%K shakes her head, denying my words.%K%P
+
+0xA90
+H-Hey... you don't mean...%K%P
+
+0xA9C
+Haruka「I want you to kiss me... on the lips...」%K%P
+
+0xAA8
+... ... ... ... I'm at a loss for words.%K%P
+
+0xAB4
+Haruka「I want you to teach me... how to do a real kiss.」%K%P
+
+0xAC0
+I shamelessly gawk at her...%K%P
+
+0xACC
+My heart's pounding. I can't breathe.%K%P
+
+0xAD8
+... No way.%K%P
+
+0xAE4
+She's serious about this. She's completely serious%Nabout kissing me!!%K%P
+
+0xAF0
+I feel dizzy from the lack of air.%K%P
+
+0xAFC
+Haruka「I want you to teach me... Makoto.」%K%P
+
+0xB2C
+Haruka quietly brings her face close to mine.%K%P
+
+0xB38
+... Stop... stop...%K%P
+
+0xB44
+I have... Izumi-san. Izumi-san already told me... that she%Nloves me!!%K%P
+
+0xB50
+B-But... Right now, I could die from a lack of oxygen.%K%P
+
+0xB5C
+... I-I definitely... learned about this in class.%K%P
+
+0xB68
+When your own life is in danger, then it's not a crime to%Nkiss someone else to save your life...%K%P
+
+0xB74
+That's right! This is just self-preservation!!%K%P
+
+0xB80
+My heart beats faster and faster from the lack of%Noxygen.%K%P
+
+0xB8C
+Haruka's lips are right in front of me.%K%N
+
+0xB98
+Haruka's sweet lips are right in front of me.%K%N
+
+0xBA4
+Haruka's pink lips are right in front of me.%K%P
+
+0xBB0
+Izumi-san's face and Haruka's face overlap.%K%P
+
+0xBBC
+I... I...%K
+
+0x1658
+Perform the self-preservation technique.
+
+0x1664
+I can't betray Izumi-san.
+
+0xC30
+I gradually... blank out.%K%P
+
+0xC3C
+Haruka... Haruka...%K%N
+
+0xC48
+Before long... my shadow becomes one with Haruka's%Nshadow...%K%P
+
+0xC64
+...%K%N
+
+0xC70
+Did I... do... it?%K%P
+
+0xC84
+(... Izumi-san!!)%K%P
+
+0xC90
+I tighten my hands into fists, and speak up.%K%P
+
+0xC9C
+Makoto「I'm very sorry... but I... can't.」%K%P
+
+0xCB0
+Haruka's eyes begin to well up with sadness.%K%P
+
+0xCBC
+Makoto「Umm... it's not like... I hate you or anything, Haruka.」%K%P
+
+0xCC8
+Makoto「It's just... well... I don't think we have that kind of%Nrelationship...」%K%P
+
+0xCD4
+I'm talking frantically. It's as if I'm desperately making an%Nexcuse to justify myself.%K%P
+
+0xCE0
+Yeah, that's probably it... my heart's throbbing so much%Nbecause I feel guilty.%K%P
+
+0xD0C
+Haruka「I see...」%K%P
+
+0xD18
+Haruka mutters this regretfully.%K%P
+
+0xD24
+Makoto「I'm sorry...」%K%P
+
+0xD30
+I apologize again.%K%N
+
+0xD3C
+There must be someone more appropriate out there for%NHaruka than me... At least, that's what I hope.%K%P
+
+0xD48
+Haruka「Makoto... do you like sea roaches?」%K%P
+
+0xD78
+Haruka「I... like them.」%K%P
+
+0xD84
+Haruka returns to her normal self as if nothing ever%Nhappened.%K%P
+
+0xD90
+No, it's more like she's forcing herself to...%K%N
+
+0xD9C
+It's very painful being with Haruka right now.%K%P
+
+0xDA8
+Haruka「Then... I have a different favor.」%K%P
+
+0xDB4
+Makoto「What is it?」%K%P
+
+0xDD0
+... Haruka's favor:%K%N
+
+0xDDC
+"Catch a lot of sea roaches and place them in a plastic%Nbag."%K%P
+
+0xDE8
+I feel like I'm going to faint just hearing that.%K%P
+
+0xE30
+I don't remember what happened after that.%K%N
+
+0xE3C
+Before I know it, I'm in my room in the lodge.%K%P
+
+0xE48
+Did my consciousness fly out of my body to protect it%Nfrom the shock I felt back then?%K%N
+
+0xE54
+Who knows...%K%P
+
+0xE60
+... Another strange thing happened too. ... Haruka's%Ncompletely back to normal.%K%P
+
+0xE6C
+She's acting as if what happened earlier never%Noccurred.%K%P
+
+0xEB4
+... I wonder how long it's been since then.%K%P
+
+0xEC0
+I throw myself onto the bed. Haruka's face faintly forms%Non the ceiling.%K%P
+
+0xECC
+What do I think of Haruka?%K%P
+
+0xED8
+Up until now, I assumed that I thought of her as%Nsomething like a daughter.%K%P
+
+0xEE4
+(But... what about now? What do I think about her now?)%K%P
+
+0xF00
+I kissed... her...%K%N
+
+0xF0C
+And it was on the lips this time, too... No, I'm not sure if I%Nactually kissed her there or not.%K%P
+
+0xF18
+All this thinking about kissing reminds me of the%Nsensation of Haruka's lips...%K%P
+
+0xF24
+Haah...%K%N
+
+0xF30
+Yeah... I definitely kissed her there...%K%P
+
+0xF44
+I managed to stop myself from kissing her.%K%P
+
+0xF50
+I didn't betray Izumi-san.%K%P
+
+0xF5C
+... Didn't betray her? Is that really true? I remember my%Nthrobbing heartbeat from back then. It wasn't a fluke%Nthat I felt that.%K%P
+
+0xF68
+In other words, it means that a part of me wanted to kiss%NHaruka...%K%P
+
+0xF74
+In some corner of my mind, I've thought about kissing%Nher...%K%P
+
+0xF80
+Haah... I really am... a mentally unfaithful bastard.%K%P
+
+0xF8C
+I begin to hate myself.%K%P
+
+0xF98
+... Hold on. Just wait a minute.%K%P
+
+0xFA4
+I still haven't confessed to Izumi-san. I still haven't told%Nher my feelings.%K%P
+
+0xFB0
+Even so, why am I worrying about this? Normally, wouldn't I%Nonly be worried if I had confessed to her?%K%P
+
+0xFBC
+This situation is steadily heading in a direction I don't%Nwant it to go at all...%K%P
+
+0xFC8
+Why... Why is this happening?%K%P
+
+0xFD4
+(Anyway, I need to tell Izumi-san my feelings as quickly%Nas possible!)%K%P
+
+0xFE0
+I fortify my newfound determination.%K%P
+
+0xFFC
+―At that moment, I hear Okuhiko's voice.%K%P
+
+0x1008
+(I see, it's that time already...)%K%P
+
+0x1014
+I shake off my thoughts, and rush out of my room.%K%P
+
+0x1064
+... ... ...%K%P
+
+0x10C0
+For a while, the two of us continue to fish silently.%K%P
+
+0x10CC
+As I focus on the tip of my fishing rod, I absently think%Nabout Haruka, who is sitting next to me.%K%P
+
+0x10D8
+(What do I think of Haruka?)%K%P
+
+0x10E4
+Up until now, I thought that I thought of her as something%Nlike a daughter.%K%P
+
+0x10F0
+(But... what about now? What do I think about her now?)%K%P
+
+0x1114
+Yesterday... I kissed... her...%K%P
+
+0x1120
+And it was on the lips this time too... No, I'm not sure if I%Nactually kissed her there.%K%P
+
+0x112C
+But it feels like my lips came in contact with Haruka's...%K%P
+
+0x1138
+Haah...%K%N
+
+0x1144
+Yeah... I definitely kissed her there...%K%P
+
+0x1158
+Yesterday, I managed to stop myself from kissing her.%K%P
+
+0x1164
+I didn't betray Izumi-san.%K%P
+
+0x1170
+... Didn't betray her? Is that really true? I remember my%Nthrobbing heartbeat from back then. It wasn't a fluke%Nthat I felt that.%K%P
+
+0x117C
+Some part of me wanted to kiss Haruka...%K%P
+
+0x1188
+In some corner of my mind, I've thought about kissing%Nher...%K%P
+
+0x1194
+Haah... I really am... a mentally unfaithful bastard.%K%P
+
+0x11A0
+I begin to hate myself.%K%P
+
+0x11AC
+... Hold on. Just wait a minute.%K%P
+
+0x11B8
+I still haven't confessed to Izumi-san. I still haven't told%Nher my feelings.%K%P
+
+0x11C4
+Even so, why am I worrying about this? Normally, wouldn't I%Nonly be worried if I had confessed to her?%K%P
+
+0x11D0
+The situation is steadily advancing in the opposite%Ndirection I want it to go...%K%P
+
+0x11DC
+Why... Why is this happening?%K%P
+
+0x11E8
+(Anyway, I need to tell Izumi-san my feelings as quickly%Nas possible!)%K%P
+
+0x11F4
+This time, it will happen.%K%P
+
+0x1260
+Before long, we finish fishing, and return to the lodge.%K%P
+
+0x126C
+I lie down on my bed while waiting for the next event to%Noccur.%K%P
+
+0x1278
+―And then, I hear Okuhiko's voice...%K%P
+
+0x1284
+I run out of my room faster than a hurricane.%K%P
+

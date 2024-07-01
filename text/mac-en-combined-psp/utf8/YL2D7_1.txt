@@ -1,0 +1,300 @@
+text area offset and size:
+0xA70
+0xF5C
+0xA0
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+
+0xAC
+Still half asleep, I blankly stare at the ceiling.%K%P
+
+0xB8
+It's a familiar... ceiling...%K%P
+
+0xC4
+I realize I'm freezing, my body soaked with sweat all over.%K%P
+
+0xD0
+I take a deep breath and slowly exhale.%K%P
+
+0xDC
+The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+
+0xE8
+It takes me three more breaths until...%K%P
+
+0x11C
+Makoto「Huh...?」%K%P
+
+0x128
+Makoto「N-No way...」%K%P
+
+0x134
+Makoto「There's no way...」%K%P
+
+0x140
+Makoto「There's just no way...」%K%P
+
+0x14C
+I slowly get up from the bed.%K%P
+
+0x158
+I stand in the center of the room, and look around.%K%P
+
+0x164
+―It can't be...%K%P
+
+0x19C
+Suddenly, I hear a sound as violent as an explosion!%K%P
+
+0x1A8
+I turn around, and standing there, I see...%K%P
+
+0x1B4
+I see...%K%P
+
+0x204
+Yuka「Wh... What's going on!?」%K%P
+
+0x210
+Yuka...%K%P
+
+0x21C
+Yuka「Why...!?」%K%P
+
+0x248
+(Calm down...)%K%P
+
+0x254
+(I've got to calm down...)%K%P
+
+0x260
+(First of all, what should I do...?)%K%P
+
+0x26C
+(The date... we've got to confirm today's date!)%K%P
+
+0x284
+I timidly raise my left arm.%K%P
+
+0x290
+Yuka leans in close as we both look at my watch's face.%K%P
+
+0x2BC
+(―1―)%K%P
+
+0x2C8
+Makoto「Th-That's impossible!!!」%K%P
+
+0x2D4
+No...%K%P
+
+0x2E0
+I stare at it carefully one more time.%K%P
+
+0x2EC
+(―7―)%K%P
+
+0x2F8
+(7 SUN 5:03 A.M.)%K%P
+
+0x304
+The number isn't a "1", it's a "7"...%K%P
+
+0x310
+A "7"!?%K%P
+
+0x31C
+Makoto「Yuka... we...」%K%P
+
+0x328
+Yuka「Were... saved?」%K%P
+
+0x334
+Makoto「...」%K%P
+
+0x340
+Yuka「...」%K%P
+
+0x34C
+Yuka and I exchange glances.%K%P
+
+0x358
+Makoto「No, hold on...」%K%P
+
+0x364
+Makoto「It's possible that my watch could be busted...」%K%P
+
+0x378
+Yuka nods...%K%P
+
+0x384
+In the next instant, Yuka and I, flustered and still%Nintertwined, quickly rush out to the living room.%K%P
+
+0x3E0
+Kurumi「O-Onii-chan!!」%K%P
+
+0x3EC
+Makoto「K... Kurumi!」%K%P
+
+0x408
+Saki「H-Hold on, what's the meaning of this!?」%K%P
+
+0x424
+Izumi「When did... you two... get back!?」%K%P
+
+0x430
+Yuka「Huh...?」%K%P
+
+0x44C
+Haruka「We've been looking for you...」%K%P
+
+0x468
+Kurumi「Geez, where did you go!?」%K%P
+
+0x474
+Makoto「'Where'... even if you say that...」%K%P
+
+0x490
+Okuhiko「Sheesh, don't worry us like that...」%K%P
+
+0x4AC
+Saki「If you went out, then you should have at least told us%Nsomething!」%K%P
+
+0x4B8
+Yuka looks like she can't grasp the situation, a%Nbewildered expression forming on her face.%K%P
+
+0x4CC
+Makoto「Umm...」%K%P
+
+0x4D8
+Makoto「... There's something we have to ask you...」%K%P
+
+0x4E4
+Everyone「???」%K%P
+
+0x4F0
+I glance over towards Yuka and nod.%K%P
+
+0x4FC
+Yuka「What's today's date?」%K%P
+
+0x508
+Everyone「!?!?!?」%K%P
+
+0x558
+Izumi「Huh!?」%K%P
+
+0x574
+Okuhiko「Hey, Yuka-chan? Are you really all right?」%K%P
+
+0x580
+Okuhiko「You asked me that some time ago as well, didn't you...?」%K%P
+
+0x58C
+Some time ago as well...!?%K%P
+
+0x598
+That means...!?%K%P
+
+0x5BC
+Haruka「It's Sunday, April 7th...」%K%P
+
+0x5C8
+Makoto「...」%K%P
+
+0x5D4
+Yuka「...」%K%P
+
+0x5E8
+Makoto「Sunday...」%K%P
+
+0x5FC
+Yuka「...April 7th.」%K%P
+
+0x608
+Makoto「Then, we really were...」%K%P
+
+0x61C
+Yuka「... Saved!」%K%P
+
+0x64C
+Yuka and I instinctively embrace each other.%K%P
+
+0x658
+Yuka buries her face into my chest, and I bring my lips to%NYuka's soft hair.%K%P
+
+0x664
+That bewitching, sweet scent captivates me completely.%K%P
+
+0x670
+We embrace each other even tighter...%K%P
+
+0x67C
+Everyone「...」%K%P
+
+0x688
+... It takes me a moment to realize that everyone is%Nblatantly staring at us.%K%P
+
+0x694
+Yuka and I rapidly break off like nothing happened.%K%P
+
+0x6A0
+Yuka's cheeks are bright red.%K%P
+
+0x6B4
+Izumi「Ah ha... I see. So that's what it was～」%K%P
+
+0x6C8
+Saki「So the two of you eloped for a night and two days?」%K%P
+
+0x6E4
+Kurumi「What!? Is that true, Onii-chan?」%K%P
+
+0x6F8
+Makoto「M-Mmm...」%K%P
+
+0x704
+Makoto「... Wait, before that, where did you go in the first place!?」%K%P
+
+0x718
+Kurumi「'Where'?」%K%P
+
+0x724
+Makoto「Yesterday morning!」%K%P
+
+0x738
+Kurumi「Oh, that?」%K%P
+
+0x744
+Kurumi「Kurumi was looking for that puppy.」%K%P
+
+0x750
+Kurumi「It was out in that downpour, so she felt sorry that it had%Nto be outside...」%K%P
+
+0x764
+...%K%P
+
+0x770
+I can't even let out a sigh.%K%P
+
+0x77C
+All of the sudden...%K%P
+
+0x790
+Yuka「Ah, Makoto!」%K%P
+
+0x79C
+... Yuka speaks up.%K%P
+
+0x7A8
+Makoto「Hmm???」%K%P
+
+0x7B4
+Yuka「If we don't hurry and go, we won't make it!」%K%P
+
+0x7C0
+Makoto「'Won't make it'... won't make what?」%K%P
+
+0x7CC
+The instant I ask that, Yuka wordlessly grabs my arm,%Nand rushes out the front door as fast as a hurricane...%K%P
+

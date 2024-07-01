@@ -1,0 +1,144 @@
+text area offset and size:
+0x590
+0xDF9
+0xAC
+After that...%K%N
+
+0x108
+Yuka and I go shopping for rice.%K%P
+
+0x11C
+Haruka and I go shopping for rice.%K%P
+
+0x130
+Saki and I go shopping for rice.%K%P
+
+0x13C
+After we finish Izumi-san's meal, we go to the pool at%NTsukiya Hotel, where an earthquake happens, just like%Nthe last 1st.%K%N
+
+0x148
+Of course, Izumi-san avoids falling into the pool this time,%Nbut we end up being chased around by the security%Nguard again anyway.%K%P
+
+0x15C
+When we return to Lunabeach from Tsukiya Hotel, we tell%Neach other stories, tell each other stupid jokes, and%Nbefore we know it, we're all chatting like the best of%Nfriends despite it only being our first meeting.%K%N
+
+0x168
+No... now that I think about it, it might only be natural.%K%N
+
+0x174
+After all, to Izumi-san and I, this isn't our first meeting.%K%N
+
+0x180
+Before long...%K%P
+
+0x194
+「"... Oh! If that's the case, then I've got an idea!」%K%N
+
+0x1A0
+「"Why don't we try going to the pool tomorrow?」%K%N%N
+
+0x1AC
+We promise to go to the pool tomorrow, and leave%NLunabeach...%K%N
+
+0x1B8
+... ... ...%K%P
+
+0x1C4
+In the end, I've decided to do everything I can to try%Nletting these six days pass by without changing much.%K%N
+
+0x1D0
+Still, there are a few things I want to interfere with.%K%N
+
+0x1DC
+There are some events that I don't want to happen%Ntwice... For example, Saki getting swallowed by that%Nmonstrous wave, Saki and Haruka's fight... I have no%Nintention of letting things like that happen again.%K%P
+
+0x1F0
+There's also that one horrific event that I don't ever%Nwant to happen again...%K%N
+
+0x1FC
+―I must prevent that terrible conclusion no matter%Nwhat, if nothing else!%K%N%N
+
+0x208
+But this is something that doesn't concern the others.%K%N
+
+0x214
+This is me and Izumi-san's problem alone...%K%N
+
+0x220
+That's why I can't get the others involved.%K%P
+
+0x234
+If Izumi-san and I cooperate, then it should be nearly%Nimpossible for that horrible event to happen again.%K%N%N
+
+0x240
+Judging from Izumi-san's state today, it seems she's%Nprobably thinking the same thing I am.%K%P
+
+0x254
+Now that we've confirmed that we "time traveled", we%Nknow that getting flustered won't help anything.%K%N%N
+
+0x260
+We were suddenly thrown into this incomprehensible,%Nstrange world, but nevertheless, nothing will be solved if%Nall we do is hesitate and worry.%K%P
+
+0x274
+Anyway, I've got to try to stay positive.%K%N%N
+
+0x280
+"The reason for the time travel" and "the cause me%Ngetting stuck in the infinite loop"...%K%N%N
+
+0x28C
+There's still a lot of mysteries left, but at least, there's a%Nlot less compared to the number I had this morning.%K%N
+
+0x298
+If I continue to move forward carefully one step at a time,%Nthen, sooner or later, all the mysteries will probably be%Nunravelled.%K%P
+
+0x2AC
+Though I've no basis for this theory, I'm starting to%Nbelieve that it's true; as it is, I'm stumped about the%Ncurrent state of affairs.%K%N
+
+0x2B8
+Still, I ought to keep my mind open to other possibilities...%K%P
+
+0x430
+The next day...%K%N
+
+0x43C
+As promised, we go to the pool.%K%P
+
+0x458
+Like last time, only Kurumi stays behind at Lunabeach,%Npretending to be sick.%K%P
+
+0x46C
+Like last time, only Kurumi stays behind at Lunabeach,%Nsaying she has a headache.%K%P
+
+0x478
+At the pool, despite me and Izumi-san's efforts, Yuka%Ndrinks a lot of beer.%K%P
+
+0x484
+Naturally, when we get back to the shop, Yuka...%K%P
+
+0x490
+Yuka「To... To... To...」%K%P
+
+0x49C
+Yuka「Toro.」%K%P
+
+0x4A8
+Yuka「Eye wanna eat toro...」%K%P
+
+0x4B4
+Yuka「I wanna eat shum toro!!」%K%P
+
+0x4C0
+... turns into a nearly uncontrollable, intoxicated%Ndrunkard...%K%P
+
+0x4CC
+However, in spite of that, there's no way we can go along%Nwith Yuka's selfish request.%K%P
+
+0x4D8
+If we did that, then Saki might nearly drown again.%K%P
+
+0x4E4
+Izumi-san and I manage to talk her out of it, and we invite%Neveryone to go see the cherry blossoms instead.%K%P
+
+0x500
+... ... ...%K%P
+

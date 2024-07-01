@@ -1,0 +1,405 @@
+text area offset and size:
+0xD68
+0x1F07
+0x88
+Izumi「All right, it's ready～!」%K%P
+
+0x9C
+As Izumi-san says this, she places down many different%Ndishes. I can see just by looking that they're all of%Nsuperb quality.%K%P
+
+0xA8
+There is a charming, rich aroma coming from the steaming%Npumpkin soup...%K%P
+
+0xB4
+The Italian salad is garnished with dressing, and the%Nplates of garlic and olive oil have an amazing smell...%K%P
+
+0xC0
+There are a wide variety of fish included with the paella,%Nmany adorned with the characteristic seashore scent%Nof bouillabaisse.%K%P
+
+0xCC
+My mouth quickly begins to water like crazy as I breathe%Nin those delicious scents.%K%P
+
+0xD8
+Makoto「Let's eat!」%K%P
+
+0xE4
+I instantly begin to stuff my face with the steaming%Npumpkin soup.%K%P
+
+0x128
+Makoto「Ooooooh...!」%K
+
+0xD28
+It feels like I'm going to faint.
+
+0xD34
+Faint.
+
+0x170
+Makoto「Ooooooh...!」%K%P
+
+0x17C
+It feels like I'm going to faint.%K%N
+
+0x188
+It's too damn good...%K%P
+
+0x194
+There's a world of difference between this and the food%NYuka made for lunch (if you could call that food).%K%P
+
+0x1A0
+The difference between the two is overwhelming.%K%P
+
+0x1AC
+Makoto「Izumi-san, this is amazing!」%K%P
+
+0x1B8
+I eagerly shout this.%K%P
+
+0x21C
+I'm fainting. It's too damn good...%K%P
+
+0x228
+I pass out momentarily, and before long, I wake up to the%Nsight of the others hovering over me.%K%P
+
+0x234
+Izumi「A-Are you all right, Makoto-kun?」%K%P
+
+0x248
+Makoto「Oh, yeah, I'm all right. It's just that your food was tastier%Nbeyond my imagination...」%K%P
+
+0x25C
+Yuka「Aren't you overreacting? It seems kinda contrived...」%K%P
+
+0x268
+Yuka looks stunned.%K%P
+
+0x274
+Well, after making me eat that crap you call food, this is%Nlike a feast cooked by the gods!%K%P
+
+0x280
+I didn't say that, but I sure as hell thought of it.%K%P
+
+0x29C
+Izumi「Oh, so that's all. I thought for certain that because I%Nused a few expired vegetables, you had gotten food%Npoisoning.」%K%P
+
+0x2A8
+...!!%K%P
+
+0x2B4
+Those words make us all shudder.%K%P
+
+0x2C0
+Makoto「I... Izumi-san... Is that true?」%K%P
+
+0x2CC
+Okuhiko's face twitches with a frightened expression.%K%P
+
+0x2E0
+Izumi「N... No! I'm just kidding! Geez, it's no good if you all take me%Nseriously.」%K%P
+
+0x2EC
+Izumi-san frantically waves her hands, desperately%Ntrying to explain herself.%K%P
+
+0x308
+Yuka「Come on, don't scare me like that, Izumi-san! I even had%Nseconds!」%K%P
+
+0x314
+Well, with your iron stomach, you have nothing to fear.%K%P
+
+0x330
+Kurumi「Onee-chan, you've got a sick mind!」%K%P
+
+0x33C
+Kurumi pouts in protest.%K%P
+
+0x350
+Izumi「Geez, I know that was wrong... I'm sorry, everyone.」%K%P
+
+0x35C
+Makoto「It's fine. But this cooking is seriously the best I've ever%Nhad!」%K%P
+
+0x368
+I try to back her up.%K%P
+
+0x38C
+Izumi「I'm so glad that you like it.」%K%P
+
+0x398
+Izumi-san happily watches us eat.%K%P
+
+0x3B4
+Yuka「With this, even you can't complain, right, Saki?」%K%P
+
+0x3C0
+Yuka then speaks to Saki.%K%P
+
+0x3DC
+Saki「Hmm, well... it's not bad.」%K%P
+
+0x3E8
+As she says this, she eats seconds after seconds%Nenthusiastically.%K%N
+
+0x3F4
+Since her pizza never arrived, she might not have eaten%Nany lunch.%K%P
+
+0x400
+As Saki is eating heartily, Izumi-san is indeed satisfied.%K%P
+
+0x41C
+Diagonally from me, Haruka and Kurumi are sitting next to%Neach other.%K%P
+
+0x428
+Kurumi「Hey? Isn't Onee-chan's cooking the best?」%K%P
+
+0x434
+The smiling Kurumi asks Haruka this.%K%P
+
+0x440
+Just then...%K%P
+
+0x45C
+... Haruka suddenly stops moving,
+
+0x484
+and then quietly places the spoon in her right hand on%Ntop of the plate.%K%P
+
+0x490
+All of us fall silent...%K%P
+
+0x49C
+Makoto「What's wrong, Haruka?」%K%P
+
+0x4A8
+I ask her this, but Haruka's lips remain firmly shut and%Ndon't move.%K%P
+
+0x4B4
+Kurumi observes Haruka's expression with wonder.%K%P
+
+0x4F0
+Haruka「... I'm sorry.」%K%P
+
+0x4FC
+She says this in a quiet voice that's like a whisper.%K%P
+
+0x528
+Okuhiko「Are you not feeling well?」%K%P
+
+0x534
+Okuhiko asks this in concern.%K%P
+
+0x540
+Haruka「... Y-Yes.」%K%P
+
+0x54C
+Her face certainly looks pretty pale.%K%P
+
+0x558
+Now that I think about it, when we got here, it felt like%NHaruka was acting a little weird.%K%P
+
+0x56C
+Haruka「... I'm really... sorry about this.」%K%P
+
+0x580
+Haruka leaves her seat as she says this.%K%P
+
+0x58C
+Izumi「Are you all right?」%K%P
+
+0x598
+Worried, Izumi-san nestles over next to Haruka.%K%P
+
+0x5A4
+Haruka leans on Izumi-san's arm as she is led far away%Nfrom the table... and quietly sits down in the seat at the%Nfarthest corner of the counter.%K%P
+
+0x5B8
+Kurumi「Did... Kurumi say something wrong...?」%K%P
+
+0x5C4
+Kurumi looks puzzled, as if she doesn't know what to do.%K%P
+
+0x5D0
+Her bright, large eyes are still filled with innocence.%K%P
+
+0x608
+Yuka「Ha ha! That's not it. It's all right, Kurumi-chan, it's not your%Nfault!」%K%P
+
+0x61C
+Yuka's gentle voice dispels the gloomy atmosphere for%Nthe time being.%K%P
+
+0x678
+We returned to sitting around the huge table, fully%Nenjoying our wonderful dinner.%K%P
+
+0x684
+Haruka has also calmed down, and is now sitting in her%Noriginal seat.%K%P
+
+0x6C8
+Izumi-san clears everything away when we've finished,%Nand serves us some after-dinner black tea.%K
+
+0xD40
+"Is it all right to accept this?"
+
+0xD4C
+I have nothing in particular to say.
+
+0x710
+Izumi-san clears everything away when we've finished,%Nand serves us some after-dinner black tea.%K%P
+
+0x72C
+Makoto「Is it all right for us to accept this?」%K%P
+
+0x738
+I speak up.%K%P
+
+0x74C
+Izumi「I told you, it's fine! It's the least I could do to make up for%Nearlier.」%K%P
+
+0x758
+Izumi-san's probably talking about the pizza incident.%K%P
+
+0x764
+But while I can understand her repaying Saki, I don't think%Nwe deserve such hospitality...%K%P
+
+0x780
+Izumi「Is this enough tea?」%K%P
+
+0x78C
+Izumi-san makes sure we all have teacups.%K%P
+
+0x798
+Just then...%K%P
+
+0x7B4
+Okuhiko「I'm really sorry about all the trouble.」%K%P
+
+0x7C0
+... Okuhiko says this.%K%P
+
+0x7CC
+It doesn't seem like there's much shyness in the way he%Nsaid that...%K%P
+
+0x7D8
+Okuhiko「By the way, Izumi-san?」%K%P
+
+0x7E4
+Izumi「Hmm?」%K%P
+
+0x7F0
+Okuhiko「You said this earlier, didn't you? 'When it's night time, the%Nshop is both a restaurant and a bar.'...」%K%P
+
+0x7FC
+Izumi「I did, what of it?」%K%P
+
+0x808
+Okuhiko「Then could it be that you closed the shop earlier today%Nfor us?」%K%P
+
+0x81C
+Izumi「Huh?」%K%P
+
+0x828
+Now that he mentions it, he's right.%K%P
+
+0x834
+In the time it took us to eat, there hasn't been a single%Ncustomer...%K%P
+
+0x840
+Makoto「Then does that mean you reserved the place just for%Nus?」%K%P
+
+0x864
+Kurumi「Kyahahahaha! Wrong, wrong!」%K%P
+
+0x870
+Kurumi suddenly bursts out into laughter, holding her%Nsides.%K%P
+
+0x87C
+Kurumi「We've been completely open this whole time! This is%Nnormal for the shop!」%K%P
+
+0x888
+Kurumi「In other words, we're open, but not getting any business.」%K%P
+
+0x89C
+Izumi「Well... it is night.」%K%P
+
+0x8B0
+Kurumi「True... but we don't get many customers even during the%Nday, you know?」%K%P
+
+0x8BC
+Izumi「Well... it's off season.」%K%P
+
+0x8C8
+Izumi-san doesn't look happy to admit it.%K%P
+
+0x8E4
+Saki「But it's strange that this place doesn't get much%Nbusiness in spite of the great food...」%K%P
+
+0x8F8
+Kurumi「That's because almost everyone goes to... Tsukiya.」%K%P
+
+0x904
+Saki「'Tsukiya'?」%K%P
+
+0x910
+Kurumi「You can see it from here. It's that huge building!」%K%P
+
+0x91C
+Looking in the direction Kurumi's pointing, we can see a%Nbrightly lit white wall structure in the darkness.%K%P
+
+0x928
+Kurumi「That's Tsukiya Hotel. It's this shop's main competition.」%K%P
+
+0x934
+Makoto「Hmm...」%K%P
+
+0x940
+Kurumi「It may look extravagant, but it's actually an%Neconomically priced hotel.」%K%P
+
+0x94C
+Kurumi「On the top floor is a viewpoint restaurant, which is not%Nonly cheaper than here, but the view is simply amazing...」%K%P
+
+0x958
+Saki「But it has no dignity.」%K%P
+
+0x964
+Saki boldly states this.%K%P
+
+0x970
+Saki「The scenery here is just as good. That place is nothing%Nbut gaudy...」%K%P
+
+0x97C
+Saki「All they have is what's called 'affectation'.」%K%P
+
+0x998
+Izumi「Right? That's very very very very true!」%K%P
+
+0x9AC
+Izumi「Impressive, Saki-chan. You have a good eye!」%K%P
+
+0x9B8
+Izumi-san showers Saki with praise.%K%P
+
+0x9CC
+Saki「... No, it's not like I'm defending this shop of anything.」%K%P
+
+0x9D8
+However, it's obvious she's lying.%K%P
+
+0x9E4
+She dislikes being agreed with, so she's denying it...%K%P
+
+0x9F0
+She's definitely just the kind of person who says the%Nopposite of what she means.%K%P
+
+0xA04
+Izumi-san smiles cheerfully as her hands fiddle with a%Nteaspoon.%K%P
+
+0xA10
+She seems to understand the true meaning behind%NSaki's words.%K%P
+
+0xA2C
+Kurumi「Besides, they've got a heated pool there as well!」%K%P
+
+0xA38
+Kurumi's seems to be the only serious one here.%K%P
+
+0xA44
+Immediately after hearing that random statement, we all%Nspontaneously laugh out loud...%K%P
+

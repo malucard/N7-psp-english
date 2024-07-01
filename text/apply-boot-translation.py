@@ -6,7 +6,8 @@ import re
 
 elf_head_size = 0xA0
 
-text_area     = [0x12116c, 0x128698]
+#text_area     = [0x12116c, 0x128698]
+text_area     = [0x11d118, 0x123bc0]
 # text_tables   = [0x12bb8c, 0x136aa0]
 
 # relocation_area = [0x137528, 0x141520]

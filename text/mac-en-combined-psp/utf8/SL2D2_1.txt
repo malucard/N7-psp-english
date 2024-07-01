@@ -1,0 +1,234 @@
+text area offset and size:
+0x910
+0xF5B
+0x180
+"This time, I'll definitely save Saki." ―I promise myself%Nthis.%K%P
+
+0x18C
+(But just where should I start from?)%K%P
+
+0x198
+I'm lost.%K%P
+
+0x1A4
+In order to save Saki, I have to get rid of her distrust of%Nhumans...%K%P
+
+0x1B0
+The problem isn't just her opposition towards Yuka%Nabout the Magician's Portrait incident from their middle%Nschool days.%K%P
+
+0x1BC
+Perhaps she also has a more psychological problem.%K%P
+
+0x1C8
+Anyway, I need to quickly establish an emotional bond%Nwith Saki.%K%P
+
+0x1D4
+Though I think that, not one thing worthwhile has%Nhappened today.%K%P
+
+0x1E0
+I haven't found a single opportunity to naturally bond%Nwith her at this Camp.%K%P
+
+0x1EC
+In the end, I just dragged myself along as I went with the%Nflow, and now we've all finally arrived at the pier.%K%P
+
+0x1F8
+No, wait! Doesn't this mean that incident will...!?%K%P
+
+0x220
+―It's starting.%K%N
+
+0x22C
+Saki and Haruka's quarrel, that is...%K%N
+
+0x238
+I immediately start running.%K%P
+
+0x244
+Saki shakes off Haruka.%K%P
+
+0x250
+She then runs to the tip of the pier.%K%P
+
+0x26C
+Saki「AAAAAH!」%K%P
+
+0x294
+Saki screams at the same time as the booming roar of a%Nwave breaks out.%K%P
+
+0x2A0
+What a monstrous wave!%K%P
+
+0x2AC
+The same unbelievably large wave from that day strikes%Nthe pier with a large sheet of water!%K%P
+
+0x2B8
+As it strikes, the wave devours Saki and drags her into%Nthe ocean!%K%P
+
+0x2C4
+(How the hell did I forget about something so important!!?)%K
+
+0x8E8
+Dive into the sea.
+
+0x8F4
+Watch for a bit.
+
+0x350
+This time, I don't hesitate.%K%P
+
+0x35C
+I continue to run, then jump off the tip of the pier into the%Nocean!%K%P
+
+0x3FC
+I desperately grab Saki's body as she starts to sink%Ntowards the maelstrom.%K%N
+
+0x408
+Her weight is straining my arm.%K%N
+
+0x414
+Ocean water floods into my throat.%K%N%N
+
+0x420
+―I'll be damned if I die here!%K%P
+
+0x470
+When I finally raise our heads out in an interval between%Nthe waves, I hear the group's voices.%K%P
+
+0x47C
+Kurumi「ONII-CHAAAAAAAN!」%K%P
+
+0x488
+Yuka「SAKIII!」%K%P
+
+0x494
+While holding Saki, I aim for the banks.%K%P
+
+0x4D8
+I finally barely manage to make it to shore, and I lift Saki's%Nbody up onto the top of the pier.%K%P
+
+0x4E4
+At that time... I see a light in Saki's hand.%K%P
+
+0x508
+It's that bell, isn't it...?%K%P
+
+0x514
+I quickly grab the bell and stick it in my pocket.%K%P
+
+0x550
+When I also quickly get up on the pier, I hold Saki in my%Narms.%K%P
+
+0x55C
+Saki's face is pale, and she's completely lost%Nconsciousness.%K%P
+
+0x568
+For some reason, her expression is strikingly beautiful.%K%P
+
+0x574
+Makoto「Saki! Saki!」%K%P
+
+0x59C
+I slap Saki's cheeks.%K%P
+
+0x5A8
+Saki's eyelids faintly move.%K%P
+
+0x5B4
+Makoto「Have you come to your senses? Do you know who I am?」%K%P
+
+0x5C8
+Saki's eyes flutter open, and she blankly stares at me.%K%P
+
+0x5D4
+I turn around, and see everyone approaching...%K%P
+
+0x5E0
+Izumi「Has Saki-chan come to her senses?」%K%P
+
+0x5EC
+I give Izumi-san a nod, then turn my attention back to%NSaki.%K%P
+
+0x5F8
+She's still firmly staring at me...%K%P
+
+0x604
+It's here that I first realize it.%K%N
+
+0x610
+History is easy to change...%K%P
+
+0x624
+I decide to watch for a bit.%K%P
+
+0x630
+Immediately afterwards... Izumi-san runs and dives into%Nthe ocean off of the tip of the pier!%K%P
+
+0x63C
+(Damn it! ... This is all the same as last time, isn't it!?)%K%P
+
+0x648
+Izumi-san grabs Saki.%K%N
+
+0x654
+While holding her with one arm, she desperately swims%Nback.%K%P
+
+0x660
+And then, she finally arrives at the edge of the pier.%K%P
+
+0x66C
+I immediately lift up the limp Saki.%K%N
+
+0x678
+Izumi-san crawls up to the top of the banks with her own%Nstrength.%K%P
+
+0x6EC
+Saki's face is pale, and she's completely lost%Nconsciousness.%K%P
+
+0x6F8
+For some reason, her expression is strikingly beautiful.%K%P
+
+0x704
+Izumi「L-Look after her for a while. I'm going to go get some help!」%K%P
+
+0x710
+Kurumi「K-Kurumi will too!」%K%P
+
+0x71C
+Kurumi tails Izumi-san.%K%P
+
+0x728
+Makoto「Saki! Saki!」%K%P
+
+0x734
+I shake Saki's body.%K%P
+
+0x740
+At that time... I see a light in Saki's hand.%K%P
+
+0x754
+It's that bell, isn't it...?%K%P
+
+0x760
+I quickly grab the bell and stick it in my pocket.%K%P
+
+0x774
+Makoto「Are you all right? Do you know who I am?」%K%P
+
+0x780
+I slap Saki's cheeks.%K%N
+
+0x78C
+Saki's eyelids faintly move.%K%P
+
+0x7A0
+Saki's eyes flutter open, and she blankly stares at me.%K%P
+
+0x7AC
+I gaze back at her.%K%P
+
+0x7B8
+Her gaze is bewitching...%K%N
+
+0x7C4
+I can't quite look away...%K%P
+

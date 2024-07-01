@@ -1,0 +1,1143 @@
+text area offset and size:
+0x1A18
+0x427B
+0x44
+I suddenly notice Haruka, who's sitting on the steps of%Nthe slide.%K%P
+
+0x50
+She doesn't seem to be doing anything in particular%Nother than hugging her knees while gazing at the%Nsparkling sunlight reflecting off the pool's surface.%K%P
+
+0x98
+Makoto「Yo! What's up?」%K%P
+
+0xA4
+I call out to Haruka.%K%P
+
+0xB0
+Haruka「...」%K%P
+
+0xBC
+She doesn't reply... Her eyes are glued on the the%Nwater's surface.%K%P
+
+0xC8
+Makoto「This is the water slide. Do you want to ride it too?」%K%P
+
+0xD4
+Haruka「...」%K%P
+
+0xE0
+... Not a word. She seems so terribly focused.%K%P
+
+0xEC
+I follow suit and stare at the water.%K%P
+
+0xF8
+... There's nothing interesting or unusual about it.%K%P
+
+0x104
+Makoto「... Say, what are you looking at?」%K%P
+
+0x110
+I ask another question.%K%P
+
+0x11C
+Haruka「...」%K%P
+
+0x128
+She's still looking at the water...%K%P
+
+0x134
+Makoto「...」%K%P
+
+0x140
+Makoto「... Say, Haruka. I don't see anything but water...」%K%P
+
+0x14C
+Haruka「...」%K%P
+
+0x158
+Makoto「It couldn't be that you're just looking at the water, right?」%K%P
+
+0x164
+I try asking this, but even I think it's a stupid question.%NThere's no way she'd...%K%P
+
+0x170
+Haruka「... The water.」%K%P
+
+0x17C
+Haruka finally speaks. She's still fixated on the water's%Nsurface.%K%P
+
+0x188
+Makoto「Huh...?」%K%P
+
+0x194
+Haruka「I was looking... at the water...」%K%P
+
+0x1A0
+Haruka replies as if it's normal to do.%K%P
+
+0x1AC
+Makoto「...」%K%P
+
+0x1B8
+I'm dumbfounded.%K%P
+
+0x1C4
+Could she be mocking me?%K
+
+0x18A0
+Act like I understand.
+
+0x18AC
+Ignore Haruka.
+
+0x20C
+Makoto「I see... You were looking at the water... Yeah... yeah, I get%Nit...」%K%P
+
+0x218
+For the time being, I try to act like I understand her.%K%P
+
+0x224
+However, I feel pretty bad about lying...%K%P
+
+0x230
+Haruka「I like... looking at the water...」%K%P
+
+0x23C
+She's still staring at it.%K%P
+
+0x248
+I observe her face.%K%P
+
+0x254
+She has a very apathetic expression.%K%P
+
+0x260
+I don't see any signs of her mocking me, however.%K%P
+
+0x26C
+Now that I think about it... I remember something.%K%P
+
+0x278
+Yesterday morning, she also stared at the water%Ndripping from that faucet.%K%P
+
+0x294
+She also soaked her bare feet in the waves on Princess%NBeach yesterday.%K%P
+
+0x2A0
+Makoto「...」%K%P
+
+0x2AC
+Haruka「...」%K%P
+
+0x2B8
+The two of us fall silent again. This silence is getting%Nuncomfortable.%K%P
+
+0x2C4
+I want to as her "Why do you like water so much?"%K%P
+
+0x2D0
+... But I decide not to. At any rate, I don't think she'll%Nanswer me anyway.%K%P
+
+0x2DC
+I should change the topic.%K%P
+
+0x2E8
+I need to bring up a topic that'll interest Haruka.%K%P
+
+0x2F4
+... Umm, what topic would interest her... Mmm...%K%P
+
+0x300
+... Hmm?%K%P
+
+0x30C
+Then it hits me.%K%P
+
+0x318
+What topic would interest Haruka?%K%P
+
+0x324
+I can't think of anything... because I don't know anything%Nabout her yet, right?!%K%P
+
+0x330
+I should ask her questions about herself. Well, she might%Nnot answer me, but...%K%P
+
+0x33C
+Haruka「...」%K%P
+
+0x348
+Well, it can't hurt to try!%K%P
+
+0x354
+If things stay this awkward, I'm going to suffocate to%Ndeath.%K%P
+
+0x360
+Makoto「Hey, Haruka?」%K%P
+
+0x36C
+Haruka「...」%K%P
+
+0x378
+Like always, she doesn't turn to face me, but I know%Nshe's listening.%K%P
+
+0x384
+Well then, what should I try asking her...?%K
+
+0x18B8
+Comment on how she skipped a grade.
+
+0x18C4
+What do you do on your days off?
+
+0x18D0
+What are your favorite foods?
+
+0x18DC
+What's your type?
+
+0x3F4
+Makoto「Haruka... you're one year younger than us, right?」%K%P
+
+0x418
+Haruka「...」%K%P
+
+0x424
+She doesn't respond, but I continue to talk anyway.%K%P
+
+0x430
+Makoto「But you're in the same grade we are. ... So that means%Nyou've skipped a grade, right?」%K%P
+
+0x43C
+Haruka「...」%K%P
+
+0x448
+Makoto「Skipping a grade... that's amazing. Only top notch%Nstudents can accomplish that!」%K%P
+
+0x454
+Haruka「...」%K%P
+
+0x460
+Makoto「Seriously, that's amazing. You're a year younger than%Nus, yet you're just as smart as we are... No, you might%Neven be smarter than us.」%K%P
+
+0x46C
+I keep saying "amazing."%K%P
+
+0x478
+Being praised makes everyone feel good.%K%P
+
+0x484
+With this, I feel that the mood has now lightened enough%Nfor us to talk normally...%K%P
+
+0x490
+Haruka「...」%K%P
+
+0x49C
+Haruka「... Is that rare?」%K%P
+
+0x4A8
+Makoto「... Huh?」%K%P
+
+0x4B4
+Haruka「Is that rare? Is that not normal?」%K%P
+
+0x4C0
+Makoto「Ah... that's, umm...」%K%P
+
+0x4CC
+Her unexpected reply has left me at a loss for words.%K%P
+
+0x4D8
+Makoto「... Hmm, well, I wouldn't call it normal...」%K%P
+
+0x4E4
+Haruka「I see...」%K%P
+
+0x4F0
+Makoto「Ah, but isn't that something to be proud of? Because it's%Nnot normal, it means you're not an ordinary human...」%K%P
+
+0x4FC
+I decided I had to follow up on that.%K%P
+
+0x508
+Haruka「It doesn't... matter to me.」%K%P
+
+0x514
+Makoto「Oh... I see...」%K%P
+
+0x520
+I kinda feel like I've suffered an magnificent, honorable%Ndefeat.%K%P
+
+0x54C
+... I'll change the topic.%K
+
+0x18E8
+What do you do on your days off?
+
+0x18F4
+What are your favorite foods?
+
+0x1900
+What's your type?
+
+0x59C
+Makoto「Haruka, what do you do on your days off?」%K%P
+
+0x5C0
+Haruka「...」%K%P
+
+0x5CC
+Makoto「The image I have of you is somewhat of an honor%Nstudent, but not one who's glued to her desk 24/7...」%K%P
+
+0x5D8
+Makoto「On the other hand, I can't see you doing sports...」%K%P
+
+0x5E4
+Makoto「And you don't really strike me as someone with a part%Ntime job either...」%K%P
+
+0x5F0
+Makoto「... So, what is it that you really do?」%K%P
+
+0x5FC
+Haruka「...」%K%P
+
+0x608
+Makoto「Ah... Umm... If you don't want to answer that, that's fine.」%K%P
+
+0x614
+There goes another failed attempt... As I'm about to%Nchange the subject, Haruka speaks.%K%P
+
+0x620
+Haruka「... I go home.」%K%P
+
+0x62C
+Makoto「... Home?」%K%P
+
+0x638
+Haruka「Right, home. ... Because I live at my dorm most of the time.」%K%P
+
+0x644
+Makoto「Ah... I see.」%K%P
+
+0x650
+Haruka「When I go home, I help my mother out...」%K%P
+
+0x65C
+Makoto「I see. You're great, Haruka.」%K%P
+
+0x668
+It feels like I'm praising a child.%K%P
+
+0x674
+Haruka「Makoto...」%K%P
+
+0x680
+Makoto「... Hmm?」%K%P
+
+0x68C
+Haruka「Makoto... do you like... your father and mother?」%K%P
+
+0x698
+Makoto「U-Umm...」%K%P
+
+0x6A4
+I'm bewildered by her sudden question.%K%P
+
+0x6B0
+How should I answer that?%K
+
+0x190C
+"I like them."
+
+0x1918
+"I don't really like them."
+
+0x6F8
+Makoto「Yeah, I like them.」%K%P
+
+0x704
+Those are my true feelings.%K%P
+
+0x710
+They occasionally have fights, and sometimes make me%Nfeel depressed,%K
+
+0x71C
+but they're my parents, and to me, are people who%Nshould be loved.%K%P
+
+0x728
+Makoto「People who hate their parents... well, they definitely%Nexist, but... I think most people who claim to hate their%Nparents still love them deep down, you know?」%K%P
+
+0x734
+Haruka「... I see.」%K%P
+
+0x740
+Makoto「What about you?」%K%P
+
+0x74C
+Haruka「... I also... like them.」%K%P
+
+0x758
+Haruka looks at me as she says this.%K%P
+
+0x764
+Makoto「I see...」%K%P
+
+0x770
+Haruka「... Because they... are my only bond.」%K%P
+
+0x77C
+Makoto「...」%K%P
+
+0x788
+For some reason, I feel that I mustn't pry any further.%K%P
+
+0x7B4
+... I'll change the topic.%K
+
+0x1924
+Comment on how she skipped a grade.
+
+0x1930
+What are your favorite foods?
+
+0x193C
+What's your type?
+
+0x804
+Makoto「Hmm... I don't really like them.」%K%P
+
+0x810
+I don't really feel this way. I'm just embarrassed to admit%Nit.%K%P
+
+0x81C
+They sometimes drive me insane...%K%P
+
+0x828
+... But they're my parents, and to me, are people who%Nshould be loved.%K%P
+
+0x834
+Makoto「Well, I am grateful to them for a lot things, but sometimes, I%Nfeel they can be so irritating.」%K%P
+
+0x840
+Makoto「For example, I'm already 20 years old, but they still treat%Nme like I'm a kid. I wish they'd just cut it out.」%K%P
+
+0x84C
+Haruka「... I see.」%K%P
+
+0x858
+Makoto「Haruka, do you feel that way too?」%K%P
+
+0x864
+Haruka「... I... like them.」%K%P
+
+0x870
+Haruka looks at me as she speaks.%K%P
+
+0x87C
+Makoto「... I-I see.」%K%P
+
+0x888
+Haruka「... Because they... are my only bond.」%K%P
+
+0x894
+Makoto「...」%K%P
+
+0x8A0
+I begin to feel extremely awkward.%K%P
+
+0x8C4
+... I'll change the topic.%K
+
+0x1948
+Comment on how she skipped a grade.
+
+0x1954
+What are your favorite foods?
+
+0x1960
+What's your type?
+
+0x934
+Makoto「I'm not really picky; I'll eat just about anything.」%K%P
+
+0x940
+Makoto「Still, I have some favorites.」%K%P
+
+0x94C
+Makoto「What I'm trying to ask is, well, do you have any favorite%Nfoods?」%K%P
+
+0x960
+Haruka「...」%K%P
+
+0x96C
+Haruka silently lowers her head.%K%P
+
+0x978
+Makoto「Ah... what am I saying? If you don't want to answer, that's%Nfine...」%K%P
+
+0x984
+Haruka「Cabbage cores...」%K%P
+
+0x990
+She says this with her head still down.%K%P
+
+0x99C
+Makoto「... H-Huh?」%K%P
+
+0x9A8
+Haruka「Cabbage cores... are delicious.」%K%P
+
+0x9B4
+Haruka looks at me. There's no signs that she's joking.%K%P
+
+0x9C0
+Haruka「The day before yesterday... The day we arrived at the%Nlodge, Yuka made... yakisoba... It was quite salty.」%K%P
+
+0x9CC
+Makoto「So are you saying that there were cabbage cores in%Nthe yakisoba...?」%K%P
+
+0x9D8
+Haruka nods.%K%P
+
+0x9E4
+Makoto「I... I see...」%K%P
+
+0x9F0
+I'm a little shocked. I'm surprised that Haruka likes%Ncabbage cores... but I'm even more surprised that Yuka%Nactually cooked something edible.%K%P
+
+0x9FC
+If I had arrived at the lodge earlier that day, I might have%Nseen it too... I'm a bit disappointed.%K%P
+
+0xA08
+Makoto「Th-Then... what do you dislike?」%K%P
+
+0xA14
+Pretending to be calm, I ask her another question.%K%P
+
+0xA20
+Haruka「... Eggs and milk.」%K%P
+
+0xA2C
+Makoto「Huh, why's that?」%K%P
+
+0xA38
+Haruka「... Because they're gooey.」%K%P
+
+0xA44
+Makoto「Gooey?」%K%P
+
+0xA50
+Haruka「They make me feel sick...」%K%P
+
+0xA6C
+I find it strange how someone who can't drink their milk%Nand eat eggs can happily look at creatures like sea%Nroaches.%K%P
+
+0xA78
+Well, I guess those simply might be a part of her likes and%Ndislikes, but still...%K%P
+
+0xA84
+Makoto「You don't eat them at all...?」%K%P
+
+0xA90
+Haruka「... No.」%K%P
+
+0xA9C
+Makoto「You can't be picky. If you don't have eggs or milk, your%Nbody won't grow up big and...」%K%P
+
+0xAA8
+I abruptly stop talking.%K%P
+
+0xAB4
+What the hell am I saying? Haruka's a college student. I%Nwas treating her like a kid just now, wasn't I...?%K%P
+
+0xAC0
+I become kind of embarrassed, and look away from%NHaruka.%K%P
+
+0xACC
+Haruka「... Yes.」%K%P
+
+0xAD8
+Makoto「...?」%K%P
+
+0xAE4
+Haruka「... I'll try to have them more often.」%K%P
+
+0xAF0
+Makoto「A-Ah... Yeah.」%K%P
+
+0xAFC
+I'm a little surprised by her declaration, but also pleased%Nthat she took my advice.%K%P
+
+0xB20
+... I'll change the topic.%K
+
+0x196C
+Comment on how she skipped a grade.
+
+0x1978
+What do you do on your days off?
+
+0x1984
+What's your type?
+
+0xB88
+Makoto「Haruka, what kind of guy is your type?」%K%P
+
+0xB94
+... Wait, isn't this question a little bit too personal?%K%P
+
+0xBA0
+Haruka「...」%K%P
+
+0xBAC
+Of course she doesn't want to answer... That's only%Nnatural.%K%P
+
+0xBB8
+Makoto「Nevermind, sorry...」%K%P
+
+0xBC4
+I decide to change the topic.%K%P
+
+0xBD0
+Haruka「What about you...?」%K%P
+
+0xBDC
+Makoto「Huh...?」%K%P
+
+0xBE8
+Haruka「Makoto, what's your type...?」%K%P
+
+0xBF4
+Wha...!!!%K%P
+
+0xC00
+I wasn't expecting this.%K%P
+
+0xC0C
+Makoto「Umm... Umm...」%K%P
+
+0xC18
+Haruka is waiting for my answer with a serious%Nexpression.%K%P
+
+0xC24
+I need to answer properly, or this could be bad...%K%P
+
+0xC30
+I answered.%K
+
+0x1990
+An active girl like Yuka
+
+0x199C
+A quiet girl like you
+
+0x19A8
+A determined girl like Saki
+
+0x19B4
+A sisterly girl like Kurumi
+
+0x19C0
+An adult woman like Izumi-san
+
+0xCA0
+Makoto「An active girl like Yuka... I guess?」%K%P
+
+0xCAC
+Haruka「...」%K%P
+
+0xCB8
+I mutter.%K%P
+
+0xCC4
+Her expression is hard to read.%K%P
+
+0xCE0
+Makoto「A quiet girl like you... I guess?」%K%P
+
+0xCEC
+Haruka「... Like... me...?」%K%P
+
+0xCF8
+Haruka repeats my words.%K%P
+
+0xD0C
+Haruka「...」%K%P
+
+0xD18
+She silently lowers her head.%K%P
+
+0xD24
+Her expression is hard to read.%K%P
+
+0xD40
+Makoto「A determined girl like Saki... I guess?」%K%P
+
+0xD4C
+Haruka「...」%K%P
+
+0xD58
+I mutter.%K%P
+
+0xD64
+Her expression is hard to read.%K%P
+
+0xD78
+Makoto「A sisterly girl like Kurumi... I guess?」%K%P
+
+0xD84
+Haruka「...」%K%P
+
+0xD90
+I mutter.%K%P
+
+0xD9C
+Her expression is hard to read.%K%P
+
+0xDB0
+Makoto「An adult woman like Izumi-san... I guess?」%K%P
+
+0xDBC
+Haruka「...」%K%P
+
+0xDC8
+I mutter.%K%P
+
+0xDD4
+Her expression is hard to read.%K%P
+
+0xDE0
+Makoto「...」%K%P
+
+0xDEC
+Haruka「...」%K%P
+
+0xDF8
+The two of us are dead silent.%K%P
+
+0xE04
+Hmm. I guess it's time to move on to another topic.%K%P
+
+0xE28
+... I'll change the topic.%K
+
+0x19CC
+Comment on how she skipped a grade.
+
+0x19D8
+What do you do on your days off?
+
+0x19E4
+What are your favorite foods?
+
+0xE88
+Haruka「... Why?」%K%P
+
+0xE94
+Makoto「Huh?」%K%P
+
+0xEA8
+Haruka「... Why are you so curious about me?」%K%P
+
+0xEB4
+She asks me this with a truly confused expression and%Nvoice.%K%P
+
+0xEC0
+Makoto「U... Umm, that's because...」%K%P
+
+0xECC
+I can't answer. The truth is, even I don't understand it%Nvery well myself.%K%P
+
+0xED8
+Haruka「Why?」%K%P
+
+0xEE4
+Haruka asks again.%K
+
+0x19F0
+Because I'm interested in you.
+
+0x19FC
+Because I like you.
+
+0xF2C
+Makoto「It's because... I'm interested in you.」%K%P
+
+0xF38
+Haruka「You're interested... in me?」%K%P
+
+0xF44
+Makoto「I want to know more about you, Haruka.」%K%P
+
+0xF50
+Haruka「...」%K%P
+
+0xF64
+I look at Haruka.%K%P
+
+0xF70
+Makoto「...」%K%P
+
+0xF7C
+I stare firmly into her eyes.%K%P
+
+0xF90
+Haruka「...!」%K%P
+
+0xF9C
+Flustered, she averts her gaze from me.%K%P
+
+0xFA8
+Though she's trying to hide it, Haruka is blushing...%K%P
+
+0xFBC
+Makoto「It's because... I like you.」%K%P
+
+0xFC8
+Like? I like Haruka?%K%P
+
+0xFD4
+Is that true?%K%P
+
+0xFE0
+Even though we're just acquaintances? Even though I%Nknow nothing about her?%K%P
+
+0xFF4
+Haruka「... 'Like'?」%K%P
+
+0x1000
+Makoto「Y... Yeah.」%K%P
+
+0x100C
+I nod before forcing myself to say this.%K%P
+
+0x1018
+Haruka「...」%K%P
+
+0x1024
+Haruka lowers her head again.%K%P
+
+0x1030
+Makoto「Ah... Umm...」%K%P
+
+0x103C
+I'm on edge. Am I annoying her?%K%P
+
+0x1048
+Makoto「Ah... err... it was just a joke, ahahaha... don't take it%Nseriously.」%K%P
+
+0x1054
+I desperately try to smooth this over.%K%P
+
+0x1060
+Haruka「It was... a joke?」%K%P
+
+0x106C
+Makoto「Y... Yeah.」%K%P
+
+0x1078
+Haruka「I see... I'm glad...」%K%P
+
+0x1084
+Makoto「...」%K%P
+
+0x1090
+As I thought, I was pestering her...%K%P
+
+0x109C
+I try to hide my shock.%K%P
+
+0x10B0
+Haruka「Because I don't know... The meaning of the word 'like'...」%K%P
+
+0x10BC
+Makoto「Huh...?」%K%P
+
+0x10C8
+Haruka「Because if someone told me they liked me, I wouldn't%Nknow... how to react...」%K%P
+
+0x10D4
+Haruka「Because if someone told me they liked me, I wouldn't%Nknow... what to think...」%K%P
+
+0x10E0
+Makoto「...」%K%P
+
+0x10F4
+We fall silent again.%K%P
+
+0x1100
+Once again, the atmosphere is awkward...%K%P
+
+0x110C
+Makoto「Hey, do you want to go on the slide?」%K%P
+
+0x1118
+For the time being, in order to break this deadlock%Nbetween us, I've got to act.%K%P
+
+0x112C
+Haruka「... The slide?」%K%P
+
+0x1138
+Makoto「See, this is the slide. You didn't notice?」%K%P
+
+0x1144
+Haruka nods.%K%P
+
+0x1150
+Makoto「Do you want to ride it?」%K%P
+
+0x1164
+Haruka「...」%K%P
+
+0x1170
+She seems hesitant.%K%P
+
+0x117C
+Makoto「Let's do it! I know you're gonna love it, it feels great!」%K%P
+
+0x1188
+Haruka「Feels great...?」%K%P
+
+0x1194
+Makoto「Yeah, when you're sliding, you can't think about%Nanything...」%K%P
+
+0x11A0
+I keep on insisting, exaggerating it a little bit. No, scratch%Nthat, I'm really overexaggerating...%K%P
+
+0x11AC
+Haruka「Can't think... about anything...?」%K%P
+
+0x11B8
+Makoto「Yeah.」%K%P
+
+0x11C4
+Haruka「...」%K%P
+
+0x11D8
+Haruka「Then I'll do it.」%K%P
+
+0x11E4
+Haruka answers clearly.%K%P
+
+0x11F8
+Haruka「...」%K%P
+
+0x1204
+Makoto「Haruka...? What's wrong?」%K%P
+
+0x1210
+Haruka「...」%K%P
+
+0x121C
+She's expressionless. ... No, would it be better to say%Nthat her expression has gone stiff?%K%P
+
+0x1228
+Makoto「Haruka... could it be that you're nervous?」%K%P
+
+0x1234
+Haruka「...」%K%P
+
+0x1240
+She nods.%K%P
+
+0x1254
+Haruka「Hey...」%K%P
+
+0x1260
+Suddenly, Haruka grabs my hand, startling me.%K%P
+
+0x126C
+Haruka「Let's go on the slide together...」%K%P
+
+0x1280
+... ... ...%K%P
+
+0x128C
+In the end, it's come down to the two of us sliding%Ntogether.%K%P
+
+0x12A0
+Haruka sits down between my legs as I hold her from%Nbehind.%K%P
+
+0x12AC
+The warm water flowing from behind me feels pleasant%Nagainst my back.%K%P
+
+0x12B8
+But... at this rate...%K%P
+
+0x12C4
+Makoto「D-Don't you... think this is a little dangerous...?」%K%P
+
+0x12D0
+Haruka「It's all right... You're holding me tight enough...」%K%P
+
+0x12DC
+Makoto「No... that's not what I meant...」%K%P
+
+0x12E8
+Haruka「Let's go...!」%K%P
+
+0x12F4
+Makoto「W-Wait, not ye...!」%K%P
+
+0x1300
+But Haruka doesn't wait. We take a deep breath.%K%P
+
+0x130C
+As we ride the flowing water, we slide down with great%Nspeed.%K%P
+
+0x1318
+Haruka「!!...」%K%P
+
+0x1324
+Haruka can't help but shout.%K%P
+
+0x1330
+Makoto「...!!」%K%P
+
+0x133C
+I yell for a totally different reason.%K%P
+
+0x1348
+While Haruka is intoxicated by the exhilarating feeling of%Nsliding down, I don't share her sentiments.%K%P
+
+0x1354
+We're two adults on a water slide. The fact that we're%Npractically glued together as well causes me to feel%Nuneasy.%K%P
+
+0x138C
+We finally reach the end point. Our bodies are flung into%Nthe pool's water.%K%P
+
+0x1398
+Makoto「Whew...」%K%P
+
+0x13A4
+Haruka turns towards me with water dripping from her%Nhead.%K%P
+
+0x13B8
+Makoto「... Ah!」%K%P
+
+0x13C4
+Haruka「Hee hee...」%K%P
+
+0x13D0
+What the... Haruka just smiled...%K%P
+
+0x13DC
+It was just a small grin, but I've never seen her smile like%Nthat before.%K%P
+
+0x13E8
+Haruka「Hey... one more time.」%K%P
+
+0x13F4
+Makoto「... Huh?」%K%P
+
+0x1400
+Haruka「Let's go... one more time.」%K%P
+
+0x140C
+Makoto「...」%K%P
+
+0x1418
+We took so many trips down the slide together that I lost%Ntrack.%K%P
+
+0x1468
+... ... ...%K%P
+
+0x1474
+Once I leave Haruka, I head over to the drink stand to%Nquench my thirst.%K%P
+
+0x14F8
+Yuka「Huh? Well, if it isn't Makoto.」%K%P
+
+0x1504
+Makoto「Oh... Yuka.」%K%P
+
+0x1510
+Yuka「You look kinda beat.」%K%P
+
+0x151C
+Makoto「Y... Yeah. I was riding on the slide together with Haruka...」%K%P
+
+0x1528
+Yuka「Huh...?」%K%P
+
+0x1534
+I tell Yuka what we were doing just now.%K%P
+
+0x1540
+Yuka「Hmm, that sounds kinda childish.」%K%P
+
+0x154C
+Makoto「Agreed. Perhaps this is the first time Haruka's ever been%Non a slide?」%K%P
+
+0x1558
+Yuka「Wrong, wrong... I was talking about you.」%K%P
+
+0x1564
+Makoto「Huh? Me? Why?」%K%P
+
+0x1570
+Yuka「Because weren't you the one who invited her in the first%Nplace? You're 20 years old, and yet you're doing things%Nthat only kids do.」%K%P
+
+0x157C
+Makoto「Ugh...!」%K%P
+
+0x1588
+I have no comeback. Certainly, what I did was pretty%Nchildish...%K%P
+
+0x1594
+Yuka「Anyway, are you thirsty? It's on me.」%K%P
+
+0x15A0
+Makoto「Oh! Looks like I got lucky! Thank you very much!」%K%P
+
+0x15B4
+(This is no good...)%K%P
+
+0x15C0
+I'll just ignore Haruka for now. It's extremely unlikely I can%Nhold up a conversation with her anyway.%K%P
+
+0x15CC
+Makoto「Haruka... I'm going on the slide now.」%K%P
+
+0x15D8
+Haruka「...」%K%P
+
+0x15E4
+With those final words, I run up the stairs to the slide.%K%P
+
+0x1608
+... ... ...%K%P
+
+0x1614
+Whooooosh...%K%P
+
+0x163C
+Makoto「...」%K%P
+
+0x1648
+I went on the slide, but for some reason, it wasn't as fun%Nas I thought it'd be.%K%P
+
+0x1654
+Even though it was much more fun when I was a kid...%K%P
+
+0x1660
+Makoto「That's enough... I'll go now.」%K%P
+
+0x166C
+I head over to the drink stand to quench my thirst.%K%P
+
+0x16A8
+Yuka「Huh? Well, if it isn't Makoto.」%K%P
+
+0x16B4
+Makoto「Oh... Yuka.」%K%P
+
+0x16C0
+Yuka「Anyway, are you thirsty? It's on me.」%K%P
+
+0x16CC
+Makoto「Oh! Looks like I got lucky! Thank you very much!」%K%P
+
+0x1724
+... ... ...%K%P
+

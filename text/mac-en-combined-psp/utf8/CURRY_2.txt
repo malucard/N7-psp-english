@@ -1,0 +1,102 @@
+text area offset and size:
+0x488
+0x77A
+0x54
+After dinner, we all thank Izumi-san again for cooking.%K%P
+
+0x60
+Of course, her cooking was as good as always, but what%Nhappened between Haruka and Saki was still bothering%Nme.%K%P
+
+0x6C
+I think everyone else feels the same way.%K%P
+
+0x78
+Now that the meal's ended, we're stuck once again in an%Nunpleasant silence...%K%P
+
+0xB8
+Kurumi「Hey, Kurumi just got a good idea.」%K%P
+
+0xCC
+Okuhiko「What is it?」%K%P
+
+0xD8
+Kurumi「There's an old graveyard close by♪」%K%P
+
+0xEC
+Okuhiko「Huh?」%K%P
+
+0x100
+Kurumi「How about having a Test of Courage there!!?」%K%P
+
+0x10C
+As I thought, Kurumi too probably couldn't stand the%Nawkward atmosphere any longer.%K%N
+
+0x118
+This is probably her way of taking us into consideration.%K%P
+
+0x12C
+Kurumi「Are you listening, Onii-chan!? Doesn't it sound fun!?」%K%P
+
+0x138
+Makoto「Huh? Ah, sure, I don't mind.」%K%P
+
+0x14C
+Kurumi「Yay―! Then it's decided!」%K%P
+
+0x168
+Yuka「Huu―uuh!? Hold on!」%K%P
+
+0x17C
+Kurumi「Huh? Don't tell me you're scared, Yuka-san?」%K%P
+
+0x190
+Yuka「I-It's not like that at all!」%K%P
+
+0x1A4
+Kurumi「Then it's settled!!」%K%P
+
+0x1B0
+In the end, it's decided that we'll go with Kurumi's plan and%Nhave a Test of Courage.%K%P
+
+0x244
+However, the whole Saki issue is still bugging me.%K%N
+
+0x250
+Is it really impossible to convince Saki to come along%Nwith us?%K%P
+
+0x25C
+I start to toy with the idea, but after considering how%Nstubborn she is, I wonder whether or not just to forget%Nabout it.%K%N
+
+0x268
+It'll probably be better to just leave her alone for a while%Nso she can cool her head off.%K%P
+
+0x274
+Well then, what should I do?%K
+
+0x460
+Go to the Test of Courage with everyone.
+
+0x46C
+I'm worried about Saki after all.
+
+0x2B4
+Well, it'd probably be safer not to concern myself with%Nher for now.%K%P
+
+0x2C0
+Content with my decision, I follow Kurumi and the others.%K%P
+
+0x2E8
+Makoto「I'll pass. I'm worried about Saki.」%K%P
+
+0x2F4
+Makoto「I feel kinda bad for her...」%K%P
+
+0x308
+Kurumi「What!? Onii-chan, you're just scared, right?」%K%P
+
+0x314
+Makoto「Yeah, maybe.」%K%P
+
+0x320
+I head for Saki's summer house once again, leaving%Nbehind a sulky Kurumi.%K%P
+

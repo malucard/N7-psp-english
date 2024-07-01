@@ -1,0 +1,399 @@
+text area offset and size:
+0xE88
+0x1979
+0x118
+When we finish talking about the stars, it's already past%N11.%K%P
+
+0x124
+Izumi-san told me a variety of stories regarding them,%Nfrom Greek mythology to black holes.%K%P
+
+0x130
+Right now, she's sleeping on the second floor.%K%P
+
+0x13C
+I...%K%P
+
+0x148
+Makoto「Is it all right if I stay here a little longer?」%K%P
+
+0x154
+... asked Izumi-san this, as I'd decided to stay here.%K%P
+
+0x160
+"A little longer" is a bit of an exaggeration.%K%P
+
+0x16C
+I plan to stay here all the way until dawn.%K%P
+
+0x178
+I sit down at one of the chairs at the counter, and lie my%Nhead on the table.%K%P
+
+0x184
+The shop is absolutely silent...%K%P
+
+0x190
+Suddenly, I hear faint sound of something hitting against%Nthe windows.%K%P
+
+0x19C
+Makoto「Rain, huh...?」%K%P
+
+0x1A8
+I look out the window.%K%P
+
+0x1B4
+The vague image of white raindrops in the darkness,%Nilluminated by the street lights, pops up.%K%P
+
+0x1C0
+The rain...%K%N
+
+0x1CC
+The gently falling... rain...%K%P
+
+0x1D8
+Now that I think about it, in that premonition I had... the%Nrain...%K%P
+
+0x224
+... was falling.%K%P
+
+0x250
+I frantically shake my head.%K%P
+
+0x25C
+That's just a hallucination, a horrible delusion; I quickly%Ndismiss it.%K%P
+
+0x268
+Makoto「I don't believe in... premonitions.」%K%P
+
+0x274
+I assert this in my mind.%K%P
+
+0x280
+Makoto「I don't believe in... premonitions.」%K%P
+
+0x28C
+I repeat it like a mantra.%K%P
+
+0x298
+My attention is drawn to the watch wrapped around my%Nleft wrist.%K%P
+
+0x2A4
+―12:30 A.M.%K%P
+
+0x2B0
+The date's already changed to the 6th...%K%P
+
+0x2E8
+... ... ...%K%P
+
+0x34C
+The rain has gone from a drizzle to a downpour.%K%P
+
+0x358
+The heavy rain smashes into the ground, forming a thin%Nmist that dyes the surrounding area white.%K%P
+
+0x364
+Every time I take a breath, the cold, damp air enters my%Nchest.%K%P
+
+0x370
+The rainfall sounds like a roar...%K%P
+
+0x37C
+I gaze into the dark sky from the empty shop.%K%P
+
+0x388
+Before long...%K%P
+
+0x3A0
+Izumi「M-Makoto-kun!」%K%P
+
+0x3B4
+Izumi「Hold on... why are you here!?」%K%P
+
+0x3C0
+... Izumi-san descends the staircase leading to the 2nd%Nfloor.%K%P
+
+0x3CC
+Makoto「Oh, Izumi-san...」%K%P
+
+0x3D8
+Makoto「Good morning.」%K%P
+
+0x3FC
+Izumi「Don't say 'Good morning'...」%K%P
+
+0x408
+Izumi「Why are you here?」%K%P
+
+0x414
+Izumi「Didn't you go home yesterday?」%K%P
+
+0x420
+Makoto「No... you see, before I realized it... I fell asleep...」%K%P
+
+0x42C
+That's a lie.%K%P
+
+0x438
+Last night, I didn't get a wink of sleep.%K%P
+
+0x444
+It's not that I couldn't; I just didn't want to.%K%P
+
+0x458
+Izumi「In that case, you should have told me...」%K%P
+
+0x464
+Izumi「Last night, Kurumi was sleeping over at the lodge, so we%Nhad an extra futon here.」%K%P
+
+0x470
+Makoto「But... that would have been...」%K%P
+
+0x47C
+Izumi「...?」%K%P
+
+0x488
+Makoto「Well, what I mean is...」%K%P
+
+0x494
+Makoto「Wouldn't that mean I would have had to... sleep next to%Nyou?」%K%P
+
+0x4A8
+Izumi「Y-Yes...」%K%P
+
+0x4B4
+Makoto「...」%K%P
+
+0x4C0
+Izumi「...」%K%P
+
+0x4CC
+Makoto「...」%K%P
+
+0x4E8
+Izumi「I might...」%K%P
+
+0x4F4
+Izumi「... not have minded that...」%K%P
+
+0x500
+Makoto「... What?」%K%P
+
+0x50C
+Just when I'm about to ask her to repeat herself...%K%P
+
+0x53C
+The shop's door opens.%K%P
+
+0x564
+Izumi-san reflexively shifts her gaze towards the%Nentrance.%K%P
+
+0x5AC
+Yuka「Good morning♪」%K%P
+
+0x5B8
+It's Yuka.%K%P
+
+0x5C4
+(What is she doing here so early...?)%K%P
+
+0x5D0
+Before I can think any further...%K%P
+
+0x5FC
+Haruka「Good morning.」%K%P
+
+0x618
+Okuhiko「Damn, this is the pits. It's really raining hard.」%K%P
+
+0x624
+... Haruka and Okuhiko come in after her.%K%P
+
+0x640
+Izumi「You're all soaked to the bone.」%K%P
+
+0x654
+Izumi「Will you wait a minute? I'll go get towels.」%K%P
+
+0x668
+Leaving with those words, Izumi-san heads upstairs.%K%P
+
+0x674
+Makoto「So, what'd you come here for, Yuka?」%K%P
+
+0x688
+Yuka「Hey, what's with that way of talking!?」%K%P
+
+0x694
+Yuka「It makes it sound like you didn't want us to come here at%Nall!」%K%P
+
+0x6A0
+Makoto「No... that's not what I...」%K%P
+
+0x6BC
+Haruka「Breakfast...」%K%P
+
+0x6C8
+Makoto「Huh?」%K%P
+
+0x6D4
+Haruka「We thought we'd come here... to have breakfast.」%K%P
+
+0x6F0
+Okuhiko「There's nothing in the fridge, you see.」%K%P
+
+0x6FC
+Okuhiko「We thought it'd probably be much quicker if we just went%Nhere.」%K%P
+
+0x708
+Makoto「I see...」%K%P
+
+0x714
+Makoto「... Oh, but now that I think about it, where's Kurumi?」%K%P
+
+0x730
+Yuka「Kurumi-chan's...」%K%P
+
+0x73C
+Haruka「... Looking for a dog.」%K%P
+
+0x748
+Makoto「A dog???」%K%P
+
+0x754
+Yuka「Did you know? There's this wild dog that lives around%Nhere.」%K%P
+
+0x760
+Yuka「Well, I say 'wild dog', but it's actually a little puppy,%Napparently...」%K%P
+
+0x77C
+Okuhiko「It's really raining hard, so she probably felt bad for it%Nsince it had to be outside.」%K%P
+
+0x788
+Makoto「I see... a puppy...」%K%P
+
+0x79C
+Just then...%K%P
+
+0x7A8
+―*Thump thump thump thump thump thump*...%K%P
+
+0x7B4
+... Izumi-san returns from upstairs.%K%P
+
+0x7C8
+Izumi「Thank you for waiting!」%K%P
+
+0x7DC
+Izumi「Here's the towels.」%K%P
+
+0x7F8
+Yuka「Sorry about this, Izumi-san.」%K%P
+
+0x80C
+Izumi「It's fine, you don't have to thank me...」%K%P
+
+0x818
+Izumi「Anyway... have you had breakfast?」%K%P
+
+0x834
+Okuhiko「No. The truth is, we were hoping you could make some...」%K%P
+
+0x840
+Izumi「I see, I understand.」%K%P
+
+0x854
+Izumi「Then I'll get to making it right away, so will you sit here%Nand wait?」%K%P
+
+0x868
+With that, Izumi-san promptly disappears into the kitchen.%K%P
+
+0x8B8
+... ... ...%K%P
+
+0x928
+After eating breakfast, we relax and idly pass the time.%K%P
+
+0x93C
+Yuka「Even so... there's no customers coming at all, huh?」%K%P
+
+0x948
+Izumi「There's nothing that can be done about that. It's still too%Nearly.」%K%P
+
+0x954
+Izumi「Besides... with this rain...」%K%P
+
+0x968
+Yuka「Aah... I'm feeling kinda melancholic～」%K%P
+
+0x974
+Yuka「Ever since I was little, I've hated rain.」%K%P
+
+0x980
+Yuka「It just suspends all my outings and athletic meets...」%K%P
+
+0x99C
+Haruka「I... like rain.」%K%P
+
+0x9B8
+Okuhiko「Wow. It's rare to like rain, Haruka-chan.」%K%P
+
+0x9CC
+Haruka「Is it strange?」%K%P
+
+0x9E0
+Okuhiko「N-No... it's not strange, but...」%K%P
+
+0x9FC
+Izumi「I like rain too...」%K%P
+
+0xA08
+Makoto「Huh? You too?」%K%P
+
+0xA14
+Izumi「Yes.」%K%P
+
+0xA20
+Izumi「It's a bit troublesome that no customers are coming... But%NI really love... rainy days...」%K%P
+
+0xA2C
+Izumi「I'll sit down by the window and read a book, or go driving%Nwithout a destination in mind.」%K%P
+
+0xA38
+Makoto「... Driving?」%K%P
+
+0xA4C
+Izumi「Yes... driving on rainy days...」%K%P
+
+0xA58
+Izumi「Driving on rainy days, in the middle of the night...」%K%P
+
+0xA64
+Izumi「I'll turn off the car radio, and I'll strain my ears in the%Ndarkness to hear the sound of the cold rain falling, and%Nlet it gently echo into my body.」%K%P
+
+0xA70
+Everyone「...」%K%P
+
+0xA7C
+Izumi「The sound of the tires turning against the water on the%Nroad...」%K%P
+
+0xA88
+Izumi「The sound of the rain striking against the car's hood...」%K%P
+
+0xA94
+Izumi「The sound of rain... A world wrapped up only in the sound%Nof rain...」%K%P
+
+0xAA8
+Izumi「When I hear all of that, for some reason, it's very...%Ncalming to my heart...」%K%P
+
+0xAB4
+Izumi「It's as if my own body becomes a transparent drop of%Nwater...」%K%P
+
+0xAC0
+Everyone「...」%K%P
+
+0xADC
+Haruka「I... feel like I understand that.」%K%P
+
+0xAE8
+Yuka「You're right. When you put it that way, then I guess rainy%Ndays aren't all that bad.」%K%P
+

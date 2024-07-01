@@ -1,0 +1,297 @@
+text area offset and size:
+0x848
+0x1701
+0x20
+Makoto「Hey, Okuhiko?」%K%P
+
+0x2C
+I address him again.%K%P
+
+0x40
+Okuhiko「Yeah?」%K%P
+
+0x4C
+I'm bored; I might as well attempt to strike a conversation.%NHe seems interested enough.%K%P
+
+0x58
+Makoto「It's just... What exactly are we trying to achieve at this%Nso-called 'Seminar Camp' here?」%K%P
+
+0x6C
+Okuhiko「Ishihara, didn't you read the board?」%K%P
+
+0x78
+Okuhiko「It's 'an informal social gathering between each member%Nof each group'. That's what was written, right? In short,%Nwe don't have a goal.」%K%P
+
+0x8C
+Okuhiko「If we all get along and become friends, then it's all okay.」%K%P
+
+0x98
+Makoto「That's it? ... If that's the case, then don't you think that a%Nweek is too long for that?」%K%P
+
+0xA4
+Okuhiko「Don't fuss over minor details. I don't think this is so bad.」%K%P
+
+0xB0
+As if to emphasize his point, Okuhiko continues with this:%K%P
+
+0xBC
+Okuhiko「Don't you think so, Haruka-chan?」%K%P
+
+0xC8
+―Haruka!?%K%N
+
+0xD4
+―I see, so "Haruka" is that girl's name!%K%P
+
+0xF8
+Okuhiko「Don't you think so?」%K%P
+
+0x104
+Okuhiko gives Haruka an attempt of a smile that's%Nrefined, yet halfhearted.%K%P
+
+0x110
+Just then...%K%P
+
+0x11C
+Haruka「This smell... I hate it.」%K%P
+
+0x128
+... She suddenly speaks.%K%P
+
+0x13C
+Okuhiko「Huh??」%K%P
+
+0x148
+His jaw drops. I don't think he's used to being so utterly%Nignored.%K%P
+
+0x154
+Haruka「This smell...」%K%P
+
+0x160
+Haruka glares at the aluminum ashtray that I placed on%Ntop of the round table earlier.%K%P
+
+0x174
+Okuhiko「It's a cigarette... I see, so you hate the smell of%Ncigarettes, Haruka-chan?」%K%P
+
+0x188
+Haruka gives a slight nod.%K%P
+
+0x194
+Makoto「Now that you mention it, shouldn't the flames have%Nalready gone out a long time ago?」%K%P
+
+0x1A8
+Okuhiko「Ishihara～, do you really think that the smell of%Ncigarettes is something that simply disappears just like%Nthat?」%K%P
+
+0x1B4
+Okuhiko「A frequent smoker may not realize it, but a non-smoker%Ncan notice it instantly.」%K%P
+
+0x1C0
+Makoto「???」%K%P
+
+0x1CC
+Okuhiko「You should be a little more careful so you don't bother%Nothers...」%K%P
+
+0x1D8
+Makoto「H-Hey, hold on! I don't smoke!」%K%P
+
+0x1EC
+Okuhiko「Damn, you don't have a speck of decency, do you...?」%K%P
+
+0x1F8
+Makoto「I-I'm telling you, it wasn't me!」%K%P
+
+0x20C
+Okuhiko「... Ha ha, don't try to fool us.」%K%P
+
+0x218
+Okuhiko「Let me ask you something... Who was the first person to%Nenter the room this morning?」%K%P
+
+0x224
+Makoto「I was... But when I came in, that ashtray was already%Nthere, on top of the sofa...」%K%P
+
+0x230
+Okuhiko「Oh-ho～... So that's it...」%K%P
+
+0x23C
+Makoto「...」%K%P
+
+0x250
+Okuhiko「Well, I guess I can believe you...」%K%P
+
+0x25C
+Okuhiko「In return, I declare that from today onwards, the inside of%Nthe lodge is strictly a non-smoking area... You'll abide by%Nthat, won't you?」%K%P
+
+0x268
+(Damn it, you don't believe me at all!) Just as I'm about to%Nretort...%K%P
+
+0x27C
+... Haruka quietly stands up.%K%P
+
+0x288
+We watch in silent anticipation as she slowly takes the%Naluminum ashtray and walks towards the kitchen, just like%Nthat.%K%P
+
+0x29C
+Though I can only see her face in profile, I can clearly%Ntell that she's angry.%K%P
+
+0x2A8
+There's a cold, harsh glint in her eyes...%K%P
+
+0x348
+Yuka「Good morning!」%K%P
+
+0x354
+The Yuka who enters the living room looks like a%Ncompletely different person from before.%K%P
+
+0x360
+Her fixed up hair is now lightly bouncing, and she has%Nchanged out of her clothes into a neat, pink dress.%K%P
+
+0x36C
+But the biggest change is her face... She looks like an%Nexcited kid about to leave for a field trip.%K%P
+
+0x378
+For a second, our eyes meet. Remembering what%Nhappened this morning, I spontaneously break out into a%Nsmile.%K%P
+
+0x38C
+Still feeling a little embarrassed, Yuka breaks eye%Ncontact while playing with her hair.%K%P
+
+0x398
+Makoto「Good morning.」%K%P
+
+0x3A4
+Okuhiko「Hey there!」%K%P
+
+0x3B0
+Okuhiko returns her greeting as well.%K%P
+
+0x3BC
+Haruka, needless to say, doesn't reply at all.%K%P
+
+0x3C8
+Instead, she is now sitting quietly in a dining chair in%Nfront of the kitchen after having cleaned up the ashtray.%K%P
+
+0x3DC
+Yuka「Have any of you had breakfast yet?」%K%P
+
+0x3E8
+Yuka says this while turning her head to survey the%Nthree of us.%K%P
+
+0x3F4
+Makoto「No, not yet...」%K%P
+
+0x408
+Yuka「I see. Well then, I guess I'll make some.」%K%P
+
+0x414
+Makoto「What!?」%K%P
+
+0x428
+Yuka「What, is there something wrong?」%K
+
+0x820
+"Yuka, you can cook?"
+
+0x82C
+"That's not it... Do we have ingredients?"
+
+0x470
+Makoto「Yuka, you can cook?」%K%P
+
+0x484
+Yuka「... You're not doubting me, are you?」%K%P
+
+0x490
+Makoto「No... it's not like that...」%K%P
+
+0x4A4
+Yuka「Well then, there's no problem, right?」%K%P
+
+0x4B0
+Makoto「R-Right...」%K%P
+
+0x4BC
+Yuka and cooking...%K%P
+
+0x4C8
+For a while, I get lost in my fantasies as I connect the two%Ntogether.%K%P
+
+0x4D4
+A girl's cooking...%K%P
+
+0x4E0
+It's impossible to describe just how overjoyed I am as a%Nman by this situation.%K%P
+
+0x4EC
+Makoto「Is there anything I can do to help?」%K%P
+
+0x4F8
+I try asking her this, as I feel like it's the right thing to do.%K%P
+
+0x504
+Yuka「Huh? No, it's okay. Just wait and watch some TV. I can do%Nthis all by myself!」%K%P
+
+0x518
+Makoto「That's not it... Do we have ingredients?」%K%P
+
+0x524
+Yuka「Oh, that's not a problem. The previous group left a bunch%Nbehind.」%K%P
+
+0x530
+Makoto「I see.」%K%P
+
+0x53C
+Yuka「I think it'll probably take about 15 minutes. Um, toast's%Nokay, right?」%K%P
+
+0x548
+Okuhiko gives her a quick nod as if to say "I'll leave it to%Nyou". I follow suit.%K%P
+
+0x554
+Yuka「What about you, Haruka?」%K%P
+
+0x560
+Yuka「Are you okay with toast as well?」%K%P
+
+0x56C
+Haruka gives her a slight nod, not taking her gaze off of%Nthe table's surface.%K%P
+
+0x580
+Yuka「Well then, I'll be done soon, so wait a bit.」%K%P
+
+0x594
+Yuka begins to go into the kitchen.%K%P
+
+0x5A0
+At that moment...%K%P
+
+0x5AC
+Makoto「Oh, that's right!」%K%P
+
+0x5B8
+... I remember something, and instantly try to draw Yuka's%Nattention.%K%P
+
+0x5CC
+Yuka「What is it?」%K%P
+
+0x5D8
+Makoto「There's something I'd like to ask you... do you smoke?」%K%P
+
+0x5EC
+Yuka「There's no way I'd do something like smoking...」%K%P
+
+0x600
+Yuka「If you look at my perfect skin, it's obvious～♪」%K%P
+
+0x614
+Yuka comically places her hands to her cheeks,%Nmuttering to herself in agreement as she enters the%Nkitchen...%K%P
+
+0x620
+If she didn't do it, then just who was it that smoked?%K%P
+
+0x62C
+Yuka, Haruka, Okuhiko... which one of those three is lying?%K%P
+
+0x638
+Makoto「Mmm...」%K%P
+
+0x644
+I moan in frustration.%K%P
+

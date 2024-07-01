@@ -1,0 +1,528 @@
+text area offset and size:
+0xC98
+0x2D97
+0x70
+Makoto「... That's... ridiculous...」%K%P
+
+0x84
+Izumi「Ridiculous... yes, I think so as well.」%K%P
+
+0x90
+Izumi「But if that's not it, then you can't explain everything.」%K%P
+
+0x9C
+Izumi「For example, the card incident...」%K%P
+
+0x104
+Izumi「Makoto-kun, do you actually think it's possible for you to%Nhave memorized the position of all 46 cards?」%K%P
+
+0x110
+Makoto「...」%K%P
+
+0x11C
+Izumi「That's definitely impossible. There's no way that could%Nhappen.」%K%P
+
+0x128
+Izumi「Makoto-kun, you weren't 'remembering' the numbers of%Nthe cards there.」%K%P
+
+0x134
+Izumi「Instead... you were just 'creating' the numbers on those%Ncards.」%K%P
+
+0x140
+Izumi「The instant you flipped a card, you decided reality so%Nthat it became the same numbers.」%K%P
+
+0x154
+Izumi「It's just like the instant you open the lid to decide the%Ncat's life or death status... From within the 'coexisting'%Npossibilities, you picked that one with your own intention.」%K%P
+
+0x160
+Makoto「...」%K%P
+
+0x16C
+Izumi「And I think that it's likely that your other premonitions...%Nwere the result of the same phenomenon.」%K%P
+
+0x180
+Izumi「Because you said 'there's no rice', there was no more%Nrice.」%K%P
+
+0x194
+Izumi「Because you said 'an earthquake's coming', the%Nearthquake came.」%K%P
+
+0x1E0
+Izumi「'Because you said 'Dinner will be curry', dinner became%Ncurry...」%K%P
+
+0x1EC
+Izumi「But on the other hand... if you had said 'Dinner will be%Nstew' at that time...」%K%P
+
+0x1F8
+Izumi「Then it might have become a reality where 'Dinner was%Nstew'.」%K%P
+
+0x20C
+Izumi「'Because you said 'Dinner will be stew', dinner became%Nstew...」%K%P
+
+0x218
+Izumi「But on the other hand... if you had said 'Dinner will be%Nmeat potatoes' at that time...」%K%P
+
+0x224
+Izumi「Then it might have become a reality where 'Dinner was%Nmeat potatoes'.」%K%P
+
+0x238
+Izumi「'Because you said 'Dinner will be meat potatoes', dinner%Nbecame meat potatoes...」%K%P
+
+0x244
+Izumi「But on the other hand... if you had said 'Dinner will be%Ncurry' at that time...」%K%P
+
+0x250
+Izumi「Then it might have become a reality where 'Dinner was%Ncurry'.」%K%P
+
+0x264
+Izumi「Even now, in this very instant, you are continuing to%Ncreate a new reality.」%K%P
+
+0x270
+Makoto「...」%K%P
+
+0x284
+Izumi「On Saturday, April 6th, that worst possible incident%Noccurred... But Makoto-kun, no matter what, you were%Nunable to accept that fact known as death.」%K%P
+
+0x2BC
+Izumi「And so, I think you decided to freshly create a 'history%Nwith a past where I didn't die'.」%K%P
+
+0x2C8
+Izumi「At first, you completely erased all the memories from%Nwithin your head about experiencing those six days to%Nattempt to create a different history.」%K%P
+
+0x2DC
+Izumi「But that didn't go well.」%K%P
+
+0x2E8
+Izumi「The reason why is because all your memories didn't%Nexist, so in the reality within your delusion, you just%Nrepeated the same actions.」%K%P
+
+0x30C
+Izumi「And so, you thought like this next.」%K%P
+
+0x318
+"I'll decide to try remembering just a little about the%Nevents of these six days."%K%P
+
+0x324
+Izumi「'Just a little...'」%K%P
+
+0x330
+Izumi「That's why you decided to erase the specific details in%Nrelation to the 'memories called death', and decided to%Nonly remember a vague, abstract figure of 'someone%Ndead'.」%K%P
+
+0x368
+Izumi「But even so, you were unable to change the history%Nwithin your delusion.」%K%P
+
+0x374
+Izumi「Reluctantly... you finally decided to use your last resort.」%K%P
+
+0x380
+"I'll try undertaking all my memories."%K%P
+
+0x38C
+Izumi「However, you decided to hide one thing: The fact that%Nthis 'is a distorted past'.」%K%P
+
+0x398
+Izumi「A delusion is something that exists with a perfectly%Nsound rationality in the mind of the person who has it.」%K%P
+
+0x3A4
+Izumi「Likewise, you also absolutely couldn't have remembered%Nthe fact that 'You yourself were having a delusion'.」%K%P
+
+0x3F0
+Izumi「That's because you had to give rationale and%Npersuasiveness to this imaginary past. And then, you%Ndecided to produce the fictional story of an 'infinite%Nloop'.」%K%P
+
+0x3FC
+"Everything in these endlessly repeating six days were%Nreal events."%K%P
+
+0x458
+Izumi「It was in order to make yourself firmly believe that 'this%Nwas definitely not a delusion or something'.」%K%P
+
+0x464
+Makoto「... Then...」%K%P
+
+0x470
+Makoto「... then, right now...」%K%P
+
+0x47C
+Makoto「... the Izumi-san before my eyes is also...」%K%P
+
+0x488
+Makoto「... nothing more than a... character from my fantasy...?」%K%P
+
+0x494
+Makoto「... Right now... the details you're telling me...」%K%P
+
+0x4A0
+Makoto「... Aren't actually... being spoken by Izumi-san...」%K%P
+
+0x4AC
+Makoto「... But just something... I'm willfully imagining in my head...?」%K%P
+
+0x4B8
+Izumi「In your mind, huh?」%K%P
+
+0x4C4
+Izumi「Yes, I think that it's probably in your mind.」%K%P
+
+0x4D0
+Izumi「The moment you create a history in which I don't die, you%Ngo back to the true, real world.」%K%P
+
+0x4DC
+Izumi「In the instant that's done, the infinite loop will come into%Nexistence as an real event.」%K%P
+
+0x4E8
+Izumi「This means the world you exist in will reach the point%Nwhere it becomes reality and exists as the true, real%Nhistory.」%K%P
+
+0x4F4
+Makoto「... Within me... in the world I exist in...」%K%P
+
+0x500
+Makoto「I don't understand what you're saying, Izumi-san!」%K%P
+
+0x50C
+Makoto「In the first place, you've just explained me, but what%Nabout you!?」%K%P
+
+0x518
+Makoto「The reason you time traveled... you're not saying that%Neven that's a delusion, are you!?」%K%P
+
+0x524
+Makoto「If that's the case, then what about my existence!?」%K%P
+
+0x530
+Makoto「Are you saying the person known as me is nothing but%Nan existence in your delusion!?」%K%P
+
+0x554
+Izumi「... Yes...」%K%P
+
+0x560
+Makoto「―It's not 'yes', is it!?」%K%P
+
+0x588
+Makoto「I'm a human who has his own personality!」%K%P
+
+0x594
+Makoto「I'm not a fictional character created by your%Nconsciousness!」%K%P
+
+0x5A0
+Izumi「... Makoto-kun?」%K%P
+
+0x5AC
+Izumi「In the first place, reality is something that can only be%Njudged subjectively, right?」%K%P
+
+0x5B8
+Izumi「The reality within you is can only be seen by you... and%Nthe reality within me can only be seen by me.」%K%P
+
+0x5C4
+Izumi「The world around you is your own world... and the world%Naround me is my own world.」%K%P
+
+0x5D0
+Izumi「If your consciousness was annihilated, that would also%Nmark the end of your world... If my consciousness was%Ndestroyed, then my world would also disappear.」%K%P
+
+0x5DC
+Izumi「It's the same with this reality...」%K%P
+
+0x5E8
+Izumi「To you, it's the delusion that sprouted within you... and to%Nme, it's the delusion that sprouted within me.」%K%P
+
+0x5F4
+Makoto「...」%K%P
+
+0x600
+Izumi「Although I witnessed 'the scene of Makoto-kun dead',%Nright now, I'm trying to create another history...」%K%P
+
+0x60C
+Izumi「The moment I create a history in which you, Makoto-kun,%Ndon't die, I'll go back to the true, real world...」%K%P
+
+0x618
+Izumi「In my world, the one afflicted with Cur▲ Syndrome wasn't%Nyou...」%K%P
+
+0x624
+Izumi「―It was me.」%K%P
+
+0x630
+Makoto「...」%K%P
+
+0x63C
+Izumi「Even though I hadn't done anything to you yet,%NMakoto-kun, you correctly guessed future events one%Nafter another.」%K%P
+
+0x648
+Izumi「When I saw that, I realized it was a phenomenon that%Ncould only be described as a 'miracle'.」%K%P
+
+0x654
+Izumi「... That's right... I actually witnessed a 'miracle'.」%K%P
+
+0x660
+Izumi「As a matter of course, I reached the point where I firmly%Nbelieved in The Third Trait of Cur▲ Syndrome.」%K%P
+
+0x66C
+Izumi「In other words, I reached the point where I embraced the%Ndelusion that 'delusions become reality'.」%K%P
+
+0x678
+Makoto「...」%K%P
+
+0x68C
+Izumi「Before long, the 'worst situation' arrived...」%K%P
+
+0x698
+Izumi「... your...」%K%P
+
+0x6A4
+Izumi「... death...」%K%P
+
+0x6B0
+Izumi「The me who saw that scene strongly wished this.」%K%P
+
+0x6BC
+"I want to go back to the past. I want to go back to the%Npast and completely change history."%K%P
+
+0x6C8
+"And now, I know that this is possible."%K%P
+
+0x6D4
+"I know delusions can become reality."%K%P
+
+0x6E0
+"A strong thought can produce a new reality."%K%P
+
+0x6F4
+Izumi「The next instant, it was arranged so that my delusion to%Nseek another possibility began.」%K%P
+
+0x700
+Izumi「I had no doubts that Cur▲ Syndrome had already%Nsettled within me.」%K%P
+
+0x70C
+Izumi「I just firmly believed... from the bottom of my heart...」%K%P
+
+0x718
+Izumi「That my intention could change history...」%K%P
+
+0x734
+Makoto「...」%K%P
+
+0x740
+Izumi「...」%K%P
+
+0x74C
+Makoto「...」%K%P
+
+0x758
+Izumi「...」%K%P
+
+0x764
+A heavy silence reigns between us.%K%P
+
+0x770
+The wind suddenly stops blowing.%K%P
+
+0x77C
+Our surroundings are wrapped up in a complete silence,%Nwhere not even the leaves make noise.%K%P
+
+0x788
+The clouds slowly stream by... The moonlight begins to%Ndisappear...%K%P
+
+0x794
+Darkness slowly creeps through the cracks on the%Ntombstones.%K%P
+
+0x7A0
+Izumi-san is across the deep darkness...%K%N
+
+0x7AC
+Her features slowly dissolve into it...%K%P
+
+0x7B8
+―Like she's a delusion.%K%N
+
+0x7C4
+―A fantasy.%K%N
+
+0x7D0
+―An illusion.%K%P
+
+0x7DC
+Makoto「Bullshit!」%K%P
+
+0x7E8
+I instinctively stand up.%K%P
+
+0x7F4
+Makoto「There's no way some bullshit like that is true!」%K%P
+
+0x800
+Makoto「It has nothing to do with Cur▲ Syndrome or%NSchr▼dinger!」%K%P
+
+0x80C
+Makoto「I'm currently existing here right now, and Izumi-san is%Nreally here, in the flesh, sitting down before me!」%K%P
+
+0x818
+Makoto「That's the truth!」%K%P
+
+0x824
+Makoto「That's the only reality!」%K%P
+
+0x838
+I reach out my hands, and firmly grab Izumi-san's%Nshoulders.%K%P
+
+0x860
+Her thin shoulders...%K%N
+
+0x86C
+They almost feel like they could break right now...%K%P
+
+0x878
+Makoto「See...」%K%P
+
+0x884
+I mutter this, and embrace Izumi-san.%K%P
+
+0x898
+I hug her... tightly...%K%N
+
+0x8A4
+So that she doesn't go anywhere...%K%N
+
+0x8B0
+Like this, she can't disappear...%K%P
+
+0x8BC
+Makoto「You're here, aren't you...?」%K%P
+
+0x8C8
+Makoto「You're here, right...?」%K%P
+
+0x8D4
+Makoto「You're actually by my side right now, right...?」%K%P
+
+0x8E0
+Warmth is overflowing into my arms.%K%N
+
+0x8EC
+Her warm breaths permeated through my chest.%K%P
+
+0x8F8
+Izumi「Makoto-kun...」%K%P
+
+0x904
+Izumi「Thank you...」%K%P
+
+0x910
+Izumi「It's all right...」%K%P
+
+0x91C
+Izumi「Because... I understand...」%K%P
+
+0x928
+Izumi「Because... I'll always believe...」%K%P
+
+0x934
+Izumi「That's why I said it at the beginning...」%K%P
+
+0x940
+Izumi「That's why I wanted to say it in advance no matter what%Nbefore we began talking...」%K%P
+
+0x94C
+Izumi「'What's more important than whether it's true or not is%Nwhether you can believe it or not'...」%K%P
+
+0x958
+Makoto「Regulus, huh...」%K%P
+
+0x964
+While embracing Izumi-san, I raise my head and look up.%K%P
+
+0x978
+Even though the moonlight is blocked by the clouds, the%Nstars are still shining brightly.%K%P
+
+0x984
+The many radiant lights are spread out in the deep, dark%Nblue darkness.%K%P
+
+0x990
+Why does the distant, endless starry sky feel so%Nextremely close right now?%K%P
+
+0x99C
+It feels like if I reached out my hand, I could touch those%Nlights.%K%P
+
+0x9A8
+The stars are definitely shining.%K%P
+
+0x9B4
+At this very instant, those stars are shining.%K%P
+
+0x9C8
+Izumi「Makoto-kun...」%K%P
+
+0x9D4
+Izumi「Everything I've said up until now have been the words of%Nthe me as a psychologist.」%K%P
+
+0x9E0
+Izumi「The real me will always only believe in this reality before%Nme.」%K%P
+
+0x9EC
+Izumi「Because I don't want to lose you...」%K%P
+
+0x9F8
+Izumi「Because I want to believe in this warmth...」%K%P
+
+0xA04
+Izumi-san presses her forehead against my chest.%K%P
+
+0xA10
+She rubs it against me countless times, like a spoiled%Nkitten.%K%P
+
+0xA1C
+The tip of her nose tickles my chest.%K%P
+
+0xA28
+"Don't forget this warmth, all right?"%K%P
+
+0xA34
+"Don't forget... my existence, all right?"%K%P
+
+0xA40
+Those are the words Izumi-san said to me just a little%Nwhile ago.%K%P
+
+0xA4C
+I finally understand the true meaning behind those words.%K%P
+
+0xA58
+Makoto「Izumi-san...」%K%P
+
+0xA64
+Makoto「I believe it too...」%K%P
+
+0xA70
+Makoto「I believe in your warmth...」%K%P
+
+0xA7C
+Makoto「Because I'll always be there...」%K%P
+
+0xA88
+Makoto「I'll always be there by your side...」%K%P
+
+0xA94
+Makoto「That's why I don't want to talk about any more foolish%Nthings...」%K%P
+
+0xAA0
+Makoto「To me, you're neither a psychologist or a professor...」%K%P
+
+0xAAC
+Makoto「Just a...」%K%P
+
+0xAB8
+Makoto「... goddess...」%K%P
+
+0xAC4
+Izumi「... What?」%K%P
+
+0xAD0
+Izumi-san asks me to repeat myself, but I don't answer.%K%P
+
+0xADC
+I don't think I need to answer.%K%P
+
+0xAE8
+I just embrace her harder... I feel that's all the answer I%Nneed.%K%P
+
+0xAF4
+When I come to my senses, the wind has returned.%K%P
+
+0xB00
+The night wind carries the scent of her hair, a sweet%Nsmell that I could melt into.%K%P
+
+0xB14
+We continue to silently embrace each other as Leo%Nwatches over us...%K%P
+

@@ -1,0 +1,150 @@
+text area offset and size:
+0x3E8
+0xE82
+0x64
+I return to my room, and think about Haruka.%K%P
+
+0x70
+Yuka's words are bothering me.%K%N
+
+0x7C
+Haruka's under the impression that she's a special%Nbeing?%K%N
+
+0x88
+That's ridiculous!%K%P
+
+0xB0
+At that time, I hear someone knock on the door.%K%P
+
+0xD8
+When I let out a flat "it's open", Izumi-san opens the door.%K%P
+
+0x120
+Izumi「Can I come in?」%K%P
+
+0x12C
+Makoto「Yeah, go ahead... What is it?」%K%P
+
+0x138
+Izumi「I heard the story from Yuka-chan about Haruka...」%K%P
+
+0x154
+Makoto「Yeah, it doesn't matter anymore... We were just a little%Nshocked to hear the truth about Haruka... No, I think that%NHaruka is Haruka.」%K%P
+
+0x160
+Izumi「Do you want to think that there's no difference between%Nhumans and clones?」%K%P
+
+0x16C
+Makoto「Do you think there's a difference?」%K%P
+
+0x178
+Izumi「No, but there was a time where people clearly thought%Ndifferently.」%K%P
+
+0x184
+Makoto「No, but...!」%K%P
+
+0x190
+Izumi「Makoto-kun, do you know what the trigger was that made%Nclone fertilization legal?」%K%P
+
+0x19C
+Makoto「No...」%K%P
+
+0x1A8
+Izumi「Even though the Clone Control Law was still in effect, a%Nscientist made a clone of his son, who died in an%Naccident. He just wanted to see his son again, no matter%Nthe cost...」%K%P
+
+0x1B4
+Makoto「...」%K%P
+
+0x1C0
+Izumi「But when his secret leaked out, he was put on trial. He%Nwas sentenced to life imprisonment. That much was%Nconsidered to be an extremely serious crime...」%K%P
+
+0x1CC
+Makoto「No way...」%K%P
+
+0x1D8
+Izumi「However, when the contents of the cloned boy's%Ntestimony was reported, there was a complete turnover%Nof public opinion, which grew powerful enough to lead to%Nthe amendment of the law.」%K%P
+
+0x1E4
+Makoto「What did that cloned boy say?」%K%P
+
+0x1F0
+Izumi「'Papa didn't do anything wrong. I'm so grateful to Papa.%NBecause Papa is the one who gave me this life...'」%K%P
+
+0x1FC
+Makoto「That was nine years ago... Izumi-san, you remember this%Nquite well.」%K%P
+
+0x208
+Izumi「My father is currently the authority on genetic%Nengineering. I'm... I'm just repeating what he told me.」%K%P
+
+0x234
+(Her father is the authority on genetic engineering...?)%K%P
+
+0x240
+... Morino...%K%N
+
+0x24C
+... Morino...%K%N
+
+0x258
+... Morino... no way...%K%P
+
+0x264
+Izumi-san's father is...%K%N
+
+0x270
+―Dr. Shigezo Morino!?%K%P
+
+0x27C
+If I'm not mistaken, several decades ago, Dr. Morino%Nparticipated in the Human Genome Project, and was the%None who discovered the ground breaking analysis for%Nthe DNA sequence, right?%K%P
+
+0x288
+I guess it's a small world after all... wait, I have no time to%Nthink about that! I need to get back on topic...%K%P
+
+0x294
+Makoto「But aren't we past that era already? It's all in the past,%Nisn't it? They've been freed. Human or clone, there's%Nnothing we need to worry about anymore.」%K%P
+
+0x2A0
+Izumi「That... might not quite be right.」%K%P
+
+0x2AC
+Makoto「Huh?」%K%P
+
+0x2B8
+Izumi「My friend was also a clone. Her name was Yumemi-chan,%Nbut I called her Yume-chan... When she confessed the%Ntruth to me, she was quite solemn...」%K%P
+
+0x2C4
+Makoto「Makes sense.」%K%P
+
+0x2D0
+Izumi「That's why I told Yume-chan not to worry about it, that%NYume-chan was Yume-chan. That's really what I thought.%NWhen I did that, Yume-chan's face grew a little sad.」%K%P
+
+0x2DC
+Makoto「Why?」%K%P
+
+0x2E8
+Izumi「Now, I think it's probably... because Yume-chan felt like%Nshe had lost herself somehow.」%K%P
+
+0x2F4
+Makoto「I don't get it...」%K%P
+
+0x300
+Izumi「Because she'd given up. The law said it was all right, but%Npeople's feelings don't change that simply...」%K%P
+
+0x30C
+Makoto「Then would it have been better to give her special%Ntreatment?」%K%P
+
+0x318
+Izumi「I don't think it was like that, but... Hmm, maybe I should%Nhave done so?」%K%P
+
+0x324
+Makoto「Even if you ask me...」%K%P
+
+0x330
+Izumi「Right... But to Yume-chan, as clone, being told that it%Ndidn't matter may have been an even bigger shock.」%K%P
+
+0x344
+I'm at a loss for words. Once again, Haruka appears in my%Nmind.%K%P
+
+0x350
+So back then, did Haruka lie when she said she was%Nhappy?%K%P
+

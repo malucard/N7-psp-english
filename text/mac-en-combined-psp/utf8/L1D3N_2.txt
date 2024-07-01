@@ -1,0 +1,2220 @@
+text area offset and size:
+0x41A0
+0xA20C
+0x80
+The road to the graveyard appears to be west from%Nhere.%K
+
+0x8C
+Well, I say "road," but I doubt you could even call it that.%K%P
+
+0x98
+Up until Kurumi told us of its existence, I thought it was%Njust a part of the thicket.%K%P
+
+0xA4
+Is there really something like a graveyard at the other%Nend of that thing?%K%P
+
+0xB0
+If it really does exist, then it's almost certain that it%Ncould be a dangerous place.%K%P
+
+0xBC
+Everyone seemed so enthusiastic and excited about it%Nup until now, but that's all been replaced with nervous%Nanxiety.%K%P
+
+0x190
+Only Kurumi seems to be enthusiastic as she leads the%Ngroup into the forest.%K%P
+
+0x19C
+Everyone tails closely behind her, as if they were%Nscared of some unknown horror hiding in the bushes.%K%P
+
+0x1A8
+Just as I'm about to enter the thicket...%K%P
+
+0x1BC
+Kurumi「Ah! Hold on!」%K%P
+
+0x1C8
+... Suddenly, our fearless leader Kurumi halts.%K%P
+
+0x1D4
+It seems like everyone is about to fall one after the%Nother, but they manage to regain their balance.%K%P
+
+0x1F0
+Yuka「G-Geez... what was that all about, Kurumi-chan!?」%K%P
+
+0x204
+Kurumi「Sorry, sorry...」%K%P
+
+0x210
+Kurumi「You see, it seems like Kurumi forgot something at the%Nlodge.」%K%P
+
+0x224
+Yuka「Forgot something?」%K%P
+
+0x230
+Kurumi「Yep. So go on ahead, guys!」%K%P
+
+0x244
+Yuka「'G-Go on ahead'... you say that, but... Who will... lead us...?」%K%P
+
+0x250
+Makoto「I guess I can.」%K%P
+
+0x264
+Kurumi「No way! Onii-chan, you're going to go with Kurumi to get%Nwhat she forgot!」%K%P
+
+0x270
+It doesn't seem like she's going to let me have a say in%Nthis...%K%P
+
+0x28C
+Kurumi「It'll be fine. With the exception of Onii-chan, there's still%None person here reliable enough, right!?」%K%P
+
+0x298
+Everyone「...?」%K%P
+
+0x2A4
+Kurumi「Will you protect everyone, Okkun?」%K%P
+
+0x2B8
+Okuhiko「M-M-M-ME!?」%K%P
+
+0x2C4
+Kurumi「You're a guy, so it's only natural, right?」%K%P
+
+0x2D8
+...%K%P
+
+0x2E4
+In the end, Okuhiko leads the group through the forest%Nas he loudly complains...%K%P
+
+0x350
+Kurumi and I have returned to the lodge.%K%P
+
+0x35C
+Kurumi looks like she's trying to suppress a mischievous%Ngrin. What's she up to...?%K%P
+
+0x370
+Makoto「Hey, Kurumi? What did you forget?」%K%P
+
+0x37C
+Kurumi「Kurumi lied♪」%K%P
+
+0x388
+Makoto「Huh?」%K%P
+
+0x39C
+Kurumi「Kurumi lied about forgetting something♪」%K%P
+
+0x3A8
+Makoto「Th-Then why did you have us come back here?」%K%P
+
+0x3B4
+Kurumi「Heh heh heh heh heh...」%K%P
+
+0x3C0
+Makoto「?」%K%P
+
+0x3CC
+Kurumi「Nahahahahahaha...」%K%P
+
+0x3D8
+Makoto「That's it, I'm leaving.」%K%P
+
+0x3EC
+Kurumi「Hold on!」%K%P
+
+0x3F8
+Kurumi firmly grabs my arm and pulls me back.%K%P
+
+0x40C
+Kurumi「Now that we're alone, Kurumi will promptly brief you on the%Ndetails of our strategy.」%K%P
+
+0x418
+Makoto「Strategy?」%K%P
+
+0x42C
+Kurumi「Right, strategy!」%K%P
+
+0x438
+Kurumi「Did you know that there are two types of ways to enjoy%Na Test of Courage?」%K%P
+
+0x444
+Makoto「No, I didn't.」%K%P
+
+0x458
+Kurumi「Huh? Really?」%K%P
+
+0x46C
+Kurumi「One: try to get scared to your heart's content.」%K%P
+
+0x478
+Kurumi「Two: scare others to their heart's content.」%K%P
+
+0x484
+Makoto「Oh, I get it.」%K%P
+
+0x498
+Kurumi「Right? And you see, Kurumi was thinking she'd like to fully%Nenjoy it by trying the latter method.」%K%P
+
+0x4A4
+Makoto「You want to scare the others?」%K%P
+
+0x4B0
+Kurumi「Bingo. But in order for the mission to work, Kurumi needs%Na partner in crime.」%K%P
+
+0x4BC
+Makoto「And for that role, you picked... me?」%K%P
+
+0x4C8
+Kurumi「That's right!」%K%P
+
+0x4D4
+Makoto「Hmm...」%K%P
+
+0x4E8
+Kurumi「Therefore, Kurumi has deducted that step one of the%Noperation is for you and her to become a pair.」%K%P
+
+0x4F4
+Makoto「A pair?」%K%P
+
+0x500
+Kurumi「Right! In Tests of Courage, it's a general rule of thumb for%Npeople to be paired up in groups of two, right?」%K%P
+
+0x50C
+Makoto「Well, that's true.」%K%P
+
+0x518
+Kurumi「That's why, when the time comes, Kurumi will suggest,%N'Let's try dividing people into pairs through%NRock-Paper-Scissors!'...」%K%P
+
+0x52C
+Kurumi「If we do that and it's your turn for 'Rock, Paper,%NScissors'... use rock, okay?」%K%P
+
+0x538
+Makoto「Huh?」%K%P
+
+0x544
+Kurumi「Because Kurumi is also going to be using rock.」%K%P
+
+0x550
+Makoto「Ah, I see... By doing that, that means as long as we%Ncontinue using rock, no matter how many rounds we go%Nfor, you and I will eventually become a pair?」%K%P
+
+0x564
+Kurumi「Well? Don't you think it's a good idea?」%K%P
+
+0x570
+Calling it a good idea is a bit of a stretch, but it's pretty%Nsolid...%K%P
+
+0x57C
+Makoto「Well then, what's step two?」%K%P
+
+0x590
+Kurumi「W-Well...」%K%P
+
+0x5A4
+Kurumi「Kurumi will have to wing it once we get there.」%K%P
+
+0x5B0
+Makoto「Some plan... you've already hit a dead end.」%K%P
+
+0x5C4
+Kurumi「But we need to go, since Kurumi doesn't know what kind%Nof props are lying around.」%K%P
+
+0x5D0
+"Props"...?%K%P
+
+0x5DC
+Makoto「Well, whatever. I understand. So you'll think about it?」%K%P
+
+0x5F0
+Kurumi「Yep. Expect an amazing plan♪」%K%P
+
+0x604
+Departing with those words, I once again force my way%Nthrough the thicket.%K%P
+
+0x610
+Kurumi「W-Wait up～」%K%P
+
+0x61C
+Kurumi jogs right after me.%K%N
+
+0x628
+Everyone else has gone so far ahead that we can no%Nlonger see them.%K%P
+
+0x68C
+Kurumi「Ta-da♪」%K%P
+
+0x698
+Kurumi「Well then, now that we're here, Kurumi will explain the rules.」%K%P
+
+0x6A4
+For some reason, Kurumi seems really impatient.%K%N
+
+0x6B0
+It feels like she wants to just hurry up and begin.%K%P
+
+0x6BC
+Kurumi「According to the Japanese Test of Courage Awareness%NClub Official Rulebook, first edition... 'A Test of Courage is%Na trial held in a scary place to test one's courage.'」%K%P
+
+0x6C8
+Kurumi「This time around, the 'scary place' has been decided to%Nbe an old well in the graveyard♪」%K%P
+
+0x6D4
+Kurumi「The judge who will see whether or not you make it there,%Nan official referee appointed by the Japanese Test of%NCourage Awareness Club, is none other than I, Kurumi!」%K%P
+
+0x6E0
+Makoto「Hey, hey, then you're not participating, Kurumi?」%K%P
+
+0x6F4
+Kurumi「That's not true. From the start, she'll be judging the%Nresults of the match!」%K%P
+
+0x700
+Makoto「That's unfair, isn't it?」%K%P
+
+0x714
+Kurumi「But Kurumi always goes, so it's not scary at all for her♪」%K%P
+
+0x720
+Makoto「Well, that's true.」%K%P
+
+0x72C
+Kurumi「Besides, it'd be more scary for one of you guys to be%Nwaiting over there by yourself, you know?」%K%P
+
+0x748
+Okuhiko「That's also true. Well then, we'll leave it to you,%NKurumi-chan.」%K%P
+
+0x75C
+Yuka「All right.」%K%P
+
+0x778
+Haruka「...」%K%P
+
+0x78C
+Izumi「Geez, do you have to be so self-centered...?」%K%P
+
+0x878
+Kurumi「Well then, let's go～♪」%K%P
+
+0x884
+Only Kurumi seems to be enthusiastic as she leads the%Ngroup into the forest.%K%P
+
+0x898
+Everyone tails closely behind her, as if they're begging%Nher not to leave them behind.%K%P
+
+0x8A4
+Just as I'm about to step into the thicket...%K%P
+
+0x8B0
+??「H-Hey... Makoto...」%K%P
+
+0x8BC
+... I turn around when someone behind me suddenly calls%Nme.%K%P
+
+0x8D0
+Makoto「Yuka... Huh, I thought you were ahead of me...」%K%P
+
+0x8DC
+Makoto「Aha, lost your nerve?」%K%P
+
+0x8F0
+Yuka「N-No way, there's no way... that's it...」%K%P
+
+0x8FC
+Makoto「Well then... what is it?」%K%P
+
+0x910
+Yuka「R-Right... U-Umm?」%K%P
+
+0x91C
+Makoto「What?」%K%P
+
+0x928
+Yuka「So we're really going to do this... Test of Courage?」%K%P
+
+0x934
+Makoto「Yeah.」%K%P
+
+0x940
+Yuka「And... in a Test of Courage... people usually get put into%Npairs... right?」%K%P
+
+0x94C
+Makoto「Well, that's how it's usually done.」%K%P
+
+0x958
+Yuka「B-But you know what? I was thinking a bit...」%K%P
+
+0x964
+Makoto「?」%K%P
+
+0x970
+Yuka「There's... six of us... aren't there?」%K%P
+
+0x97C
+Yuka「And since Kurumi-chan will be the judge, that means%Nthere's essentially five of us, right?」%K%P
+
+0x988
+Yuka「Five people... that's an odd number, isn't it?」%K%P
+
+0x994
+Makoto「Hey, Yuka? Stop stalling and get to the point!」%K%P
+
+0x9A0
+Yuka「R-Right... So you know? When it's... time for...%NRock-Paper-Scissors, I'll use rock...」%K%P
+
+0x9AC
+Makoto「Huh?」%K%P
+
+0x9C0
+Yuka「Ma-Makoto, I thought... if you... used... rock... at that time%Nas well... it would be nice...」%K%P
+
+0x9CC
+Makoto「... So let's see if I'm thinking what you're thinking.」%K%P
+
+0x9D8
+Makoto「When we have to divide into pairs via%NRock-Paper-Scissors, we'll keep using rock. That way, in%Ncase we're divided into pairs of 2-2-1, you won't be the%None all alone, right?」%K%P
+
+0x9E4
+Yuka「You... may be right.」%K%P
+
+0x9F0
+Makoto「It's not 'may be' right, it is right, isn't it?」%K%P
+
+0x9FC
+Yuka「... Y... Yeah.」%K%P
+
+0xA08
+Although she hesitates to say this, she gives me a quiet%Nnod.%K%P
+
+0xA14
+Makoto「See! You really are scared, aren't you!?」%K%P
+
+0xA28
+Yuka「T-T-T-There's no way in hell I'm scared!」%K%P
+
+0xA34
+Her tone says otherwise...%K%P
+
+0xA40
+Makoto「Ok, I get it, I get it. Well, I'll think about it.」%K%P
+
+0xA54
+Yuka「'Think about it'... are you going to or not!?」%K%P
+
+0xA60
+Makoto「Who knows...?」%K%P
+
+0xA6C
+Makoto「Well, it sounds fun, so maybe I'll give it a try.」%K%P
+
+0xA80
+Departing with those words, I once again step into the%Nthicket.%K%P
+
+0xA8C
+Yuka「W-Wait up～」%K%P
+
+0xA98
+Yuka jogs after me.%K%P
+
+0xAA4
+Everyone else has gone so far ahead that we can no%Nlonger see them.%K%P
+
+0xAD4
+Kurumi「Well then, let's go♪」%K%P
+
+0xAE0
+Only Kurumi seems to be enthusiastic as she leads the%Ngroup into the forest.%K%P
+
+0xAEC
+Everyone tails closely behind her, as if they're begging%Nher not to leave them behind.%K%P
+
+0xAF8
+Just as I'm about to step into the thicket...%K%P
+
+0xB04
+??「Hey, Makoto-kun...」%K%P
+
+0xB10
+... I turn around when someone behind me suddenly calls%Nmy name.%K%P
+
+0xB24
+Makoto「Izumi-san... is something up?」%K%P
+
+0xB30
+Izumi「Y-Yes... Umm?」%K%P
+
+0xB44
+Izumi「So we're really going to do this Test of Courage, right?」%K%P
+
+0xB50
+Makoto「Yeah.」%K%P
+
+0xB5C
+Izumi「And in a Test of Courage, people usually get put into%Npairs, right?」%K%P
+
+0xB68
+Makoto「Well, that's how it's usually done.」%K%P
+
+0xB74
+Izumi「Isn't it? And I think that when we get there, it's likely that%Nwe'll be divided into pairs via Rock-Paper-Scissors...」%K%P
+
+0xB80
+Makoto「Right, those who have the same hand become pairs...%Nisn't that right?」%K%P
+
+0xB8C
+Izumi「Yes, it is...」%K%P
+
+0xBA0
+Izumi「Therefore... I wanted to discuss something with you.」%K%P
+
+0xBAC
+Makoto「?」%K%P
+
+0xBB8
+Izumi「Makoto-kun, would you use rock during%NRock-Paper-Scissors?」%K%P
+
+0xBC4
+Makoto「Wh-What!?」%K%P
+
+0xBD0
+Izumi「I'll also use rock like you.」%K%P
+
+0xBDC
+Makoto「Huh...? Wait, are you saying...」%K%P
+
+0xBE8
+In other words, if we continue to use rock, me and%NIzumi-san will eventually become a pair.%K%P
+
+0xBF4
+Izumi「Yes, you seem to have realized it.」%K%P
+
+0xC00
+Makoto「...」%K%P
+
+0xC0C
+I'm at a loss for words.%K%P
+
+0xC18
+I don't know what Izumi-san's true intentions are.%K%P
+
+0xC24
+Does she think she'll be safer if she's with a guy?%K%P
+
+0xC30
+Or could it be...%K%P
+
+0xC3C
+That she's taking a proactive motion towards wanting to%Npair up with me?%K%P
+
+0xC50
+Izumi「W-Well... if you don't want to, that's fine...」%K%P
+
+0xC5C
+Makoto「No, that's not it...」%K%P
+
+0xC68
+Izumi「Anyway, I'll be going with rock.」%K%P
+
+0xC7C
+Izumi「Makoto-kun... will you think about it?」%K%P
+
+0xC90
+Departing with those words, Izumi-san jogs after%Neveryone.%K%P
+
+0xC9C
+Makoto「O-Okay...」%K%P
+
+0xCA8
+I mumble to myself, bewildered.%K%P
+
+0xCB4
+I feel my face grow hot as I try settle my nerves...%K%P
+
+0xCE4
+Kurumi「Well then, let's go♪」%K%P
+
+0xCF0
+Only Kurumi seems to be enthusiastic as she leads the%Ngroup into the forest.%K%P
+
+0xCFC
+Everyone tails closely behind her, as if they're begging%Nher not to leave them behind.%K%P
+
+0xD08
+Just as I'm about to step into the thicket...%K%P
+
+0xD14
+Someone pokes me from behind. I turn around, and see%Nit's Haruka.%K%P
+
+0xD28
+Haruka「Hey, Makoto...」%K%P
+
+0xD34
+Haruka「I'll always go with paper...」%K%P
+
+0xD40
+Makoto「Huh?」%K%P
+
+0xD4C
+Haruka「I won't use anything but paper...」%K%P
+
+0xD58
+I don't really get what she's trying to say, but I give her%Na nod as a safe, suitable response.%K%P
+
+0xE08
+The graveyard is dimly lit by the pale moon. Half of the%Nmoss-covered tombstones are either half-fallen or%Ncompletely fallen to the ground.%K%P
+
+0xE14
+The air is cool and damp, in spite of the relatively warm%Nweather we've had over the past few days.%K%P
+
+0xE28
+Kurumi「Did you know? Everyone buried here is a 'muenbotoke',%Nsomeone who died without family or friends to bury them!」%K%P
+
+0xE34
+Yuka「Muen... botoke?」%K%P
+
+0xE40
+Kurumi「Right. For example, unidentified drowned corpses that%Nwash up on the beach, old-timers with no relatives who%Nhang themselves in the forest...」%K%P
+
+0xE4C
+Kurumi「Innocent 'criminals' thrown to the bottom of deep holes%Nwhile still alive... Let's see, what else...」%K%P
+
+0xE58
+Yuka「Th-Thanks, Kurumi-chan... That's... enough...」%K%P
+
+0xE6C
+The instant we hear, "unidentified drowned corpses", we%Nall instinctively take a half step backwards.%K%P
+
+0xE88
+Kurumi「Well then, let's get this show on the road♪」%K%P
+
+0xE94
+None of us answer Kurumi, who seems indifferent to our%Nplight.%K%P
+
+0xEA0
+Everyone exchanges worried glances with each other.%K%P
+
+0xEAC
+"Is it too late to turn back now?" ... is a question we all%Nseem to be asking ourselves.%K%P
+
+0xEC0
+Kurumi「Geez, everyone's so scared. It's all right...」%K%P
+
+0xECC
+Kurumi「Even if, by any chance, you happen to get possessed%Nby a ghost, Kurumi will refer you to a famous spirit medium!」%K%P
+
+0xED8
+Kurumi's "reassurance" only scares us further, clearly%Nher intent.%K%P
+
+0xF10
+Kurumi「Well then, let's get right to dividing the pairs through%NRock-Paper-Scissors, okay?」%K%P
+
+0xF1C
+Kurumi「If two people have the same hand, those two will become%Na pair.」%K%P
+
+0xF28
+Kurumi「But if there are three, four, or five people with the same%Nhand, they have to go through another round.」%K%P
+
+0xF34
+Kurumi「Got it?」%K%P
+
+0xF40
+Everything's completely going at Kurumi's pace...%K%P
+
+0xF4C
+This is no longer a situation we can just back out of%Nanymore.%K%P
+
+0xF58
+Makoto「Can't be helped. Well then, let's go.」%K%P
+
+0xFD4
+At that instant, Yuka and I make eye contact.%K%P
+
+0xFE8
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K
+
+0x40A0
+Rock!
+
+0x40AC
+Scissors!
+
+0x40B8
+Paper!
+
+0x1048
+Makoto「... Go!」%K%P
+
+0x1054
+Everyone releases their hands simultaneously.%K%P
+
+0x1060
+I have rock, Haruka has scissors, Izumi-san has%Nscissors, Okuhiko also has scissors...%K%N
+
+0x106C
+... And just as she had planned earlier, Yuka has rock.%K%P
+
+0x1078
+Kurumi「Ah... For now, one pair has been decided, Onii-chan and%NYuka-san.」%K%P
+
+0x108C
+Yuka looks towards me and mouths a silent "thanks."%K%P
+
+0x1098
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+
+0x10AC
+Makoto「... Go!」%K%P
+
+0x10B8
+Everyone releases their hands simultaneously.%K%N
+
+0x10C4
+True to her word, Yuka releases a tight fist- rock.%K%P
+
+0x10D8
+When I release scissors, Yuka mouths a silent "What the%Nhell!?".%K%P
+
+0x10E4
+I immediately avoid her cold glare while checking the%Nothers' hands.%K%P
+
+0x1148
+Haruka has rock, and Okuhiko also has rock...%K%N
+
+0x115C
+And like me, Izumi-san also has scissors.%K%P
+
+0x1168
+Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+
+0x118C
+Izumi-san has rock, Okuhiko also has rock...%K%N
+
+0x11A0
+And like me, Haruka also has scissors.%K%P
+
+0x11AC
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+
+0x11C0
+Makoto「... Go!」%K%P
+
+0x11CC
+Everyone releases their hands simultaneously.%K%N
+
+0x11D8
+True to her word, Yuka releases a tight fist- rock.%K%P
+
+0x11EC
+When I release paper, Yuka mouths a silent "What the%Nhell!?".%K%P
+
+0x11F8
+I immediately avoid her cold glare while checking the%Nothers' hands.%K%P
+
+0x125C
+Haruka has rock, and Okuhiko also has rock...%K%N
+
+0x1270
+And like me, Izumi-san also has paper.%K%P
+
+0x127C
+Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+
+0x12A0
+Izumi-san has rock, and Okuhiko also rock...%K%N
+
+0x12B4
+And like me, Haruka also has paper.%K%P
+
+0x12C0
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+
+0x12EC
+At that instant, Kurumi and I make eye contact.%K%P
+
+0x12F8
+Just as we had planned earlier, we prepare to release%Nrock.%K%P
+
+0x1304
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K%P
+
+0x1310
+Kurumi「... Go!」%K%P
+
+0x131C
+Everyone releases their hands simultaneously.%K%P
+
+0x1328
+I have rock, Haruka has scissors, Yuka also has%Nscissors, Izumi-san has paper, and Okuhiko also has%Npaper...%K%N
+
+0x133C
+... As expected, Kurumi has rock.%K%P
+
+0x1348
+Kurumi「Ah... For now, the pairs are Haruka-san and Yuka-san,%NOnii-chan and Kurumi, and Onee-chan and Okkun.」%K%P
+
+0x135C
+Kurumi looks towards me and mouths a silent "thanks."%K%P
+
+0x1378
+Yuka「Let's do our best, Haruka!」%K%P
+
+0x1384
+Haruka「Y-Yes...」%K%P
+
+0x13B8
+And in that instant, me and Izumi-san make eye contact.%K%P
+
+0x13CC
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K
+
+0x40C4
+Rock!
+
+0x40D0
+Scissors!
+
+0x40DC
+Paper!
+
+0x142C
+Makoto「... Go!」%K%P
+
+0x1438
+Everyone releases their hands simultaneously.%K%P
+
+0x1444
+I have rock, Haruka has paper, Yuka has paper, and%NOkuhiko also has paper...%K%N
+
+0x1458
+... Just as she had planned earlier, Izumi-san releases%Nrock.%K%P
+
+0x1464
+Kurumi「Ah... For now, one pair has been decided, Onee-chan and%NOnii-chan.」%K%P
+
+0x1478
+Izumi-san looks towards me and mouths a silent "thank%Nyou."%K%P
+
+0x1484
+Kurumi「Well then, it's time for another round for Okkun, Yuka-san,%Nand Haruka-san.」%K%P
+
+0x1498
+Makoto「... Go!」%K%P
+
+0x14A4
+Everyone releases their hands simultaneously.%K%N
+
+0x14B0
+True to her word, Izumi-san releases a tight fist for rock.%K%P
+
+0x14C4
+When I release scissors, Izumi-san throws me a slightly%Ndisheartened look.%K%P
+
+0x14D0
+(I feel kinda bad for turning her down...)%K%P
+
+0x14DC
+Although I feel a little guilty, I avoid her gaze and check%Nthe others' hands.%K%P
+
+0x1510
+Haruka has rock, and Okuhiko also has rock...%K%N
+
+0x1524
+And like me, Yuka has scissors.%K%P
+
+0x1530
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+
+0x1554
+Yuka has rock, and Okuhiko also has rock...%K%N
+
+0x1568
+And like me, Haruka also has scissors.%K%P
+
+0x1574
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+
+0x1588
+Makoto「... Go!」%K%P
+
+0x1594
+Everyone releases their hands simultaneously.%K%N
+
+0x15A0
+True to her word, Izumi-san releases a tight fist for rock.%K%P
+
+0x15B4
+When I release scissors, Izumi-san throws me a slightly%Ndisheartened look.%K%P
+
+0x15C0
+(I feel kinda bad for turning her down...)%K%P
+
+0x15CC
+Although I feel a little guilty, I avoid her glance and check%Nthe others' hands.%K%P
+
+0x1600
+Haruka has rock, and Okuhiko also has rock...%K%N
+
+0x1614
+And like me, Yuka has paper.%K%P
+
+0x1620
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+
+0x1644
+Yuka has rock, Okuhiko has rock...%K%N
+
+0x1658
+And like me, Haruka also has paper.%K%P
+
+0x1664
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+
+0x1680
+In that instant, Haruka and I make eye contact.%K%P
+
+0x1694
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K
+
+0x40E8
+Rock!
+
+0x40F4
+Scissors!
+
+0x4100
+Paper!
+
+0x16E4
+Kurumi「... Go!」%K%P
+
+0x16F0
+Everyone releases their hands simultaneously.%K%N
+
+0x16FC
+True to her word, Haruka releases her stretched out%Npalm for paper.%K%P
+
+0x1710
+When I release rock, Haruka throws a slightly lonely%Nglance at me.%K%P
+
+0x171C
+(I feel kinda bad for turning her down...)%K%P
+
+0x1728
+Although I feel a little guilty, I avoid her glance and check%Nthe others' hands.%K%P
+
+0x1784
+Izumi-san has paper, and Okuhiko also has paper...%K%N
+
+0x17A0
+And like me, Yuka has rock.%K%P
+
+0x17AC
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+
+0x17D8
+Yuka has paper, and Okuhiko also has paper...%K%N
+
+0x17EC
+And like me, Izumi-san has rock.%K%P
+
+0x17F8
+Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+
+0x1814
+Kurumi「... Go!」%K%P
+
+0x1820
+Everyone releases their hands simultaneously.%K%N
+
+0x182C
+True to her word, Haruka releases her stretched out%Npalm for paper.%K%P
+
+0x1840
+When I release scissors, Haruka throws a slightly lonely%Nglance at me.%K%P
+
+0x184C
+(I feel kinda bad for turning her down...)%K%P
+
+0x1858
+Although I feel a little guilty, I avoid her glance and check%Nthe others' hands.%K%P
+
+0x18BC
+Izumi-san has paper, and Okuhiko also has paper...%K%N
+
+0x18D0
+And like me, Yuka has scissors.%K%P
+
+0x18DC
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
+
+0x1908
+Yuka has rock, Okuhiko has rock...%K%N
+
+0x191C
+And like me, Izumi-san also has scissors.%K%P
+
+0x1928
+Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+
+0x1954
+Makoto「... Go!」%K%P
+
+0x1960
+Everyone releases their hands simultaneously.%K%P
+
+0x196C
+I have paper, Yuka has rock, Izumi-san has rock, and%NOkuhiko also has rock...%K%N
+
+0x1980
+... Just as she had planned earlier, Haruka releases%Npaper.%K%P
+
+0x198C
+Kurumi「Ah... For now, one pair has been decided, Haruka-san%Nand Onii-chan.」%K%P
+
+0x19A0
+Haruka looks towards me and mouths a silent, "thank%Nyou."%K%P
+
+0x19AC
+Kurumi「Well then, this time around, Yuka-san, Okkun, and%NOnee-chan can only use rock or paper, okay?」%K%P
+
+0x19F4
+Okuhiko「Huh? Why's that? Can't we just form a group of three?」%K%P
+
+0x1A2C
+Kurumi「Bzzt Bzzt! Wrongamundo!」%K%P
+
+0x1A38
+Kurumi「According to the Japanese Test of Courage Awareness%NClub Rulebook, this year's Edition... 'During a Test of%NCourage, there may only be groups of one or two'...%Nthat's how it is.」%K%P
+
+0x1A4C
+Okuhiko「Y-You've gotta be kidding me...」%K%P
+
+0x1A58
+Kurumi「Ready, Set! Rock, Paper, Scissors...」%K%P
+
+0x1A6C
+Okuhiko「Go...」%K%P
+
+0x1A80
+Okuhiko「... Dammit, why did I pick that one!?」%K%P
+
+0x1A8C
+When I quickly peep into the ring of three hands, I see%Nthat while Okuhiko picked rock, the other two picked%Npaper.%K%P
+
+0x1AA0
+Kurumi「So in conclusion, we have our pairs. Kurumi will now%Nexplain the rest of the rules♪」%K%P
+
+0x1AAC
+Okuhiko dejectedly sits down on a nearby tombstone...%K%P
+
+0x1B40
+Yuka seems to be relieved, as if she's saying "I'm so%Nglad I'm not alone." She takes a deep breath, and sighs...%K%P
+
+0x1B54
+Yuka seems to be relieved, as if she's saying "I'm so%Nglad I'm not alone." She takes a deep breath, and sighs...%K%P
+
+0x1B68
+Yuka seems to be relieved, as if she's saying "I'm so%Nglad I'm not alone." She takes a deep breath, and sighs...%K%P
+
+0x1BD4
+Kurumi lays out the rules.%K%P
+
+0x1BE0
+"There's an old well somewhere in this graveyard. Two of%Nyou will team up to look for it."%K%P
+
+0x1BEC
+"If you find it, sign your names on the wall of the well with%Na pebble as proof."%K%P
+
+0x1BF8
+"If you can do that, you can return to the start point."%K%P
+
+0x1C04
+It was decided that we should play%NRock-Paper-Scissors to pick a representative to%Nchoose which pair goes first.%K%P
+
+0x1C10
+They would also decide when the next pair will leave ten%Nminutes after the first.%K%P
+
+0x1C1C
+Incidentally, I won the match.%K%P
+
+0x1C28
+When I heard that I could pick whatever order I liked, I%Nimmediately picked to go first, since I wanted to get this%Nover with.%K%P
+
+0x1C34
+Though I guess now that I think about it, it doesn't really%Nmatter if I go first or last...%K%P
+
+0x1CF0
+Yuka, on the other hand, thinks otherwise...%K%P
+
+0x1CFC
+Yuka「What possessed you to make us go first!?」%K%P
+
+0x1D08
+... She's not joking, she's seriously angry.%K%P
+
+0x1D14
+Makoto「Well then, would you have preferred to go last?」%K%P
+
+0x1D28
+Yuka「That's out of the question! Normally, you'd pick to go in%Nthe middle, right!?」%K%P
+
+0x1D4C
+Yuka「Haah... I was an idiot to team up with you, Makoto...」%K%P
+
+0x1D58
+Makoto「Hey, hey, how about a little gratitude?」%K%P
+
+0x1D64
+Makoto「If I had picked paper, you would have ended up%Nwandering around this graveyard all alone, wouldn't you?」%K%P
+
+0x1D70
+Yuka「If I were picking, I'd prefer to be alone and in the middle...」%K%P
+
+0x1D7C
+Makoto「... Geez... Listen to yourself.」%K%P
+
+0x1D90
+Makoto「Huh? Are you... are you scared?」%K%P
+
+0x1DA4
+Yuka「Th-Th-Th-There's no way that I'm sc-scared!」%K%P
+
+0x1DB0
+Her tone completely betrays her words...%K%P
+
+0x1DE8
+Just how long has it been since we started walking?%K%P
+
+0x1DF4
+We've taken countless turns, and we already lost sight%Nof the others a long time ago.%K%P
+
+0x1E00
+It's difficult to find the well in this darkness.%K%P
+
+0x1E0C
+To think I thought this was going to be easy...%K%P
+
+0x1E50
+―Suddenly,the sound of rustling leaves comes from%Nthe bushes between the tombstones.%K%P
+
+0x1E5C
+Yuka「H-hey, Makoto... Did you... hear something just now?」%K%P
+
+0x1E68
+Makoto「It's probably just the wind.」%K%P
+
+0x1E74
+Yuka「Y-You think so?」%K%P
+
+0x1E9C
+Yuka「L-Listen! There really is something here!」%K%P
+
+0x1EA8
+Makoto「It's all right.」%K%P
+
+0x1EB4
+Yuka「It's NOT all right!」%K%P
+
+0x1EC0
+Makoto「...」%K%P
+
+0x1EDC
+Yuka「...」%K%P
+
+0x1EE8
+Makoto「...」%K%P
+
+0x1EF4
+Yuka「H-Hey... why aren't you saying anything?」%K%P
+
+0x1F00
+Makoto「'Why'...? Is this even the time to be chatting?」%K%P
+
+0x1F0C
+Yuka「Don't just ignore me!」%K%P
+
+0x1F34
+Makoto「Huh?」%K%P
+
+0x1F40
+Yuka「Say something!」%K%P
+
+0x1F4C
+Makoto「Something...? Like what?」%K%P
+
+0x1F58
+Yuka「Anything's fine! It doesn't matter, just talk about%Nsomething cheerful!」%K%P
+
+0x1F64
+Makoto「Something cheerful, huh...?」%K
+
+0x410C
+Talk about the latest idol.
+
+0x4118
+Talk about a rumor from college.
+
+0x1FA4
+Makoto「Oh, I know!」%K%P
+
+0x1FB0
+Makoto「Recently, there was this idol who hung herself in her own%Napartment... umm, what was her name again...」%K%P
+
+0x1FC4
+Makoto「Oh, I know!」%K%P
+
+0x1FD0
+Makoto「Recently, I heard that there was this student at our%Ncollege who hung himself in the auditorium... um, what%Ndepartment were they from again...」%K%P
+
+0x1FDC
+Yuka「S-Sorry. Maybe you shouldn't talk.」%K%P
+
+0x1FE8
+Makoto「What? Didn't you want me to?」%K%P
+
+0x1FF4
+Yuka「It's fine, just be quiet!」%K%P
+
+0x202C
+Makoto「...」%K%P
+
+0x2038
+Yuka「...」%K%P
+
+0x2044
+Makoto「...」%K%P
+
+0x2050
+Yuka「I can't take it! Talk to me!」%K%P
+
+0x205C
+Makoto「Y-You...」%K%P
+
+0x2068
+Yuka「B-But, could you talk about something else?」%K%P
+
+0x2074
+Makoto「I don't have any other stories.」%K%P
+
+0x2080
+Yuka「Well then... could you sing a song?」%K%P
+
+0x208C
+Makoto「A song?」%K%P
+
+0x2098
+Yuka「Do you think you can sing something cheerful?」%K%P
+
+0x20A4
+Makoto「A cheerful song...」%K
+
+0x4124
+"Requiem for the Grim Reaper."
+
+0x4130
+"I Love Dolls♪"
+
+0x20E4
+Makoto「Fresh blood dripping in the twilight～♪」%K%P
+
+0x20F0
+Makoto「He'll cut your head off with his scythe～♪」%K%P
+
+0x2104
+Makoto「I love dolls, papapaya-♪」%K%P
+
+0x2110
+Makoto「My favorite straw doll-♪ Carrying a mallet in one hand%Nand nails in the other-♪」%K%P
+
+0x211C
+Makoto「It'll curse that guy I hate most-♪ I'll try to kill him with that%Ncurse-♪」%K%P
+
+0x2128
+Yuka「H-how was that cheerful!?」%K%P
+
+0x2134
+Makoto「Idiot! If you'd have listened to the whole thing, you'd%Nhave known it gets more cheerful after that!」%K%P
+
+0x2140
+Yuka「Enough!」%K%P
+
+0x214C
+Yuka「Haah... Geez...」%K%P
+
+0x2158
+Yuka lets out a weary sigh.%K%P
+
+0x21D4
+I check my watch to find that it's past 9:00.%K%N
+
+0x21E0
+Everyone's gone off to look for the well by now.%K%N
+
+0x21EC
+If that's true, then why can't I hear their voices or their%Nfootsteps?%K%P
+
+0x21F8
+It's possible that they might have already reached the%Ngoal.%K%P
+
+0x2204
+Kurumi and Izumi-san probably know where the well is...%K%N
+
+0x2210
+If that's the case, then we're probably headed the%Nwrong way.%K%P
+
+0x221C
+Makoto「Hey, Yuka? Why don't we just head back to the starting%Npoint?」%K%P
+
+0x2228
+Yuka「?」%K%P
+
+0x2234
+Makoto「I think we're going the wrong way... The well might be in%Nanother direction...」%K%P
+
+0x2240
+Yuka「R-Right... Okay...」%K%P
+
+0x224C
+Thus we head back the way we came.%K%P
+
+0x2258
+Actually, since we took so many turns, I can't really tell if%Nwe are going the right way or not.%K%P
+
+0x2264
+(We're not... lost, are we?)%K%P
+
+0x2270
+Even though this Test of Courage doesn't scare me like%Nit does Yuka, it's not like I don't feel discouraged by this%Nturn of events.%K%P
+
+0x227C
+The lingering clouds slowly cover the moon.%K%N
+
+0x2288
+Before I realize it, the darkness around me has grown%Nthicker...%K%N
+
+0x2294
+―And, at that time!%K%P
+
+0x22F4
+Once again, I hear something moving in the grass.%K%P
+
+0x2300
+Yuka「A-Again...?」%K%P
+
+0x230C
+Makoto「Y-Yeah...」%K%P
+
+0x2318
+Yuka「Hey? Doesn't it feel like... that ever since earlier...%Nsomeone's been following us?」%K%P
+
+0x2324
+Makoto「Following us?」%K%P
+
+0x2330
+Yuka「It feels like someone... is watching us...」%K%P
+
+0x233C
+Makoto「...」%K%P
+
+0x2348
+I can't just laugh off what she said.%K%N
+
+0x2354
+It does feel like a pair of mysterious and cold eyes are%Nspying at us from the bushes in the shadow of the%Ntombstones.%K%P
+
+0x2360
+... Suddenly, a moist breeze gently strokes the back of%Nmy neck.%K%N
+
+0x236C
+It's like the warm sigh of a living human.%K%P
+
+0x23A4
+Yuka「H-Hey... Makoto?」%K%P
+
+0x23B0
+Yuka「U-Um, can I ask you something?」%K%P
+
+0x23BC
+Makoto「?」%K%P
+
+0x23C8
+Yuka「Could you... hold my hand?」%K%P
+
+0x23D4
+Makoto「Huh?」%K%P
+
+0x23E0
+Yuka「It's not like I mean anything by it, but...」%K
+
+0x413C
+Silently hold out my hand.
+
+0x4148
+Silently take Yuka's hand.
+
+0x4154
+Refuse.
+
+0x2438
+I silently hold out my hand.%K%P
+
+0x244C
+Yuka hesitates before slowly reaching for my open palm.%K%P
+
+0x2470
+I silently take Yuka's hand.%K%P
+
+0x247C
+Her arm trembles the moment I touch her.%K%P
+
+0x2490
+Makoto「No way!」%K%P
+
+0x249C
+I can't help but exclaim this.%K%P
+
+0x24A8
+Makoto「Didn't you say you weren't scared?」%K%P
+
+0x24B4
+Yuka「...」%K%P
+
+0x24C0
+Surprisingly, Yuka doesn't object.%K%N
+
+0x24CC
+I guess she can't even try to talk tough here.%K%P
+
+0x24E0
+Just then, Yuka suddenly―no, it's sudden, but it also%Nfeels natural, as if it were a completely normal%Naction―takes my hand.%K%P
+
+0x24FC
+Her hand is very soft.%K%N
+
+0x2508
+It's damp with sweat... but faintly warm...%K%N
+
+0x2514
+... And it's shaking slightly.%K%P
+
+0x2520
+Her hand brushes against mine, tickling my palm.%K%P
+
+0x252C
+I realize in alarm that my heart is pounding violently.%K%N
+
+0x2538
+She's not the one who's trembling; I am...%K%P
+
+0x25A4
+We've been holding hands for the past ten minutes.%K%N
+
+0x25B0
+We walk and walk, but we still can't find the well.%K%P
+
+0x25BC
+(Have we been duped?)%K%P
+
+0x25C8
+(Maybe there was no well from the start...)%K%P
+
+0x25D4
+... My doubt steadily grows.%K%P
+
+0x25E0
+Maybe the truth is that the others sent us out before%Nreturning to the lodge. Perhaps they're all relaxing right%Nnow in the living room, watching TV.%K%P
+
+0x25EC
+Okuhiko「Heh heh heh... They completely bought it!」%K%P
+
+0x25F8
+(Okuhiko would say something like that...)%K%P
+
+0x2604
+Before long... the clouds in the sky part, and the moon%Nreappears.%K%N
+
+0x2610
+The moon's light dispels the darkness we'd been walking%Nthrough.%K%P
+
+0x261C
+Thanks to that, we can now clearly see our surroundings.%K%N
+
+0x2628
+As my eyes adjust...%K%P
+
+0x2634
+Yuka「Ah! Found it!」%K%P
+
+0x2640
+... Yuka begins to drag me to whatever it is she has%Ndiscovered.%K%P
+
+0x264C
+Makoto「F-Found it... Found what?」%K%P
+
+0x2680
+Yuka「This!」%K%P
+
+0x268C
+Yuka stops, and in front of her lies our target―the%Nwell.%K%N
+
+0x2698
+Her face was stiff with fear a few moments ago, but now%Na broad grin is stretched across her face.%K%P
+
+0x26A4
+Her delight at finding the well has overshadowed her%Nprevious fear.%K%P
+
+0x26B0
+Yuka「Well then, let's just get this over with right away so we%Ncan go back.」%K%P
+
+0x26C4
+Yuka bends over, and begins to look for a small pebble%Nin order to carve her name into the well.%K%P
+
+0x26D0
+Yuka「I can't find anything to carve with...」%K%P
+
+0x26DC
+With her hands on her knees, Yuka takes two steps%Naway from me.%K%P
+
+0x26E8
+I'm starting to grow uneasy.%K%N
+
+0x26F4
+My intuition is telling me that something is wrong.%K%P
+
+0x2700
+How is it that only the area around the well got this clean%Nwhen the rest of the graveyard is like a ruin?%K%P
+
+0x270C
+Even though this is a place where it wouldn't be%Nunnatural to find a pebble or two on the ground, there%Nare trees; there ought to be fallen branches.%K%P
+
+0x2718
+―An old graveyard and an old well.%K%N
+
+0x2724
+For some reason, I remember Kurumi's words from just%Nbefore we left...%K%P
+
+0x2740
+"Or innocent 'criminals' who were thrown to the bottom of%Na deep hole while they were still alive."%K%P
+
+0x274C
+(A deep hole?)%K%P
+
+0x2758
+(Could it be...?)%K%P
+
+0x2780
+The bushes shake.%K%N
+
+0x2794
+Yuka freezes.%K%N
+
+0x27A0
+Our eyes peel onto the bushes as we listen warily.%K%P
+
+0x27C8
+Whatever it is, it's in front of Yuka.%K%N
+
+0x27D4
+There's definitely something lurking in the overgrown%Nbushes.%K%P
+
+0x27E0
+Makoto「... Yuka.」%K%P
+
+0x27EC
+I whisper hoarsely.%K%P
+
+0x27F8
+Makoto「Walk towards me... slowly.」%K%P
+
+0x2804
+However, Yuka is frozen in fear.%K%P
+
+0x2810
+The tension in the air is like a strung up string...%K%N
+
+0x281C
+Shivers run up my spine...%K%P
+
+0x2860
+??「WAH!!!」%K%P
+
+0x286C
+Suddenly, a white, freshly severed head appears out of%Nthe bushes.%K%P
+
+0x2878
+The stiff, bent over Yuka...%K%N
+
+0x2884
+... slowly raises her head...%K%N
+
+0x2890
+... and looks at it. In that instant...!%K%P
+
+0x28B4
+Yuka「KYAAAAAAAAAAAA!!!」%K%P
+
+0x28C0
+... Her agonized scream is piercing, like that of a dying%Nperson.%K%P
+
+0x28CC
+A flashlight from underneath the severed head's chin is%Nthen turned off...%K%P
+
+0x2904
+Kurumi「Were you surprised? Were you surprised?」%K%P
+
+0x2910
+... and Kurumi gleefully asks this.%K
+
+0x4160
+"A little."
+
+0x416C
+"I'm not a kid, you know."
+
+0x2958
+Makoto「A little...」%K%P
+
+0x2964
+I decide to pretend to be a little surprised after seeing%Nhow delighted Kurumi was.%K%P
+
+0x2970
+Of course, I had a hunch that this was going to happen...%K%P
+
+0x297C
+Makoto「I'm fine, but I think Yuka soiled herself...」%K%P
+
+0x2988
+I glance towards Yuka.%K%P
+
+0x2994
+Right now, she is standing completely still in a daze, like%Na deer in the headlights.%K%P
+
+0x29A8
+I figured that something like this was going to happen.%K%P
+
+0x29B4
+Makoto「I'm not a kid, so there's no way such worn out tricks will%Nwork.」%K%P
+
+0x29C0
+I tell Kurumi this.%K%P
+
+0x29CC
+However, out of the corner of my eye, I see Yuka%Nstanding completely still.%K%P
+
+0x29D8
+Makoto「Well, that's more than I can say for her.」%K%P
+
+0x29E4
+I add.%K%P
+
+0x29F0
+Kurumi「Teehee♪ Sorry, Yuka-san.」%K%P
+
+0x2A04
+Yuka「... Ku... Kurumi... chan...」%K%P
+
+0x2A10
+Yuka「... Wh... Why... is Kurumi... chan...?」%K%P
+
+0x2A1C
+She still doesn't seem to understand what's going on.%K%P
+
+0x2A30
+Yuka「Ah!」%K%P
+
+0x2A3C
+She's finally snapped out of it...%K%P
+
+0x2A48
+Yuka「K-Kurumi-chan! H-Hurry, we've got to get out of here!」%K%P
+
+0x2A5C
+Kurumi「Huh?」%K%P
+
+0x2A68
+Yuka「Th-Th-Th-There's a possessed head!」%K%P
+
+0x2A74
+Guess I spoke too soon...%K%P
+
+0x2A88
+Kurumi「Kyahahahahahahaha♪ Geez, Yuka-san, you're the%Ngreatest!」%K%P
+
+0x2A94
+Kurumi is delighted for having scared Yuka so much.%K%P
+
+0x2AA0
+―However!!%K%P
+
+0x2AE4
+For some reason, the bushes rustle again...%K%N
+
+0x2AF0
+It's from a different place than where Kurumi was hiding.%K%P
+
+0x2AFC
+Makoto「... Ha ha, I see. Who's your accomplice?」%K%P
+
+0x2B08
+Makoto「The first time was for your entrance, so this one... must%Nbe your partner?」%K%P
+
+0x2B1C
+Kurumi「Huh...?」%K%P
+
+0x2B28
+Kurumi mutters this and shakes her head slowly in denial.%K%P
+
+0x2B34
+Makoto「I-I'm wrong? ... Then what was that sound?」%K%P
+
+0x2B48
+Yuka「Geez, what are you saying, Makoto!?」%K%P
+
+0x2B54
+Yuka「Didn't you see it earlier? That possessed head!?」%K%P
+
+0x2B60
+I'll just ignore Yuka for now...%K%P
+
+0x2B6C
+Makoto「Say, Kurumi? Can I ask you one thing?」%K%P
+
+0x2B80
+Kurumi「?」%K%P
+
+0x2B8C
+Makoto「Kurumi... have you been hiding here since the start of%Nthe Test of Courage?」%K%P
+
+0x2B98
+Kurumi「Y-Yeah. That's right.」%K%P
+
+0x2BA4
+Makoto「Which means that you weren't following us, were you...?」%K%P
+
+0x2BB0
+Kurumi「Sh-She never did that.」%K%P
+
+0x2BBC
+Kurumi「Kurumi's been here this whole time.」%K%P
+
+0x2BC8
+She's turned ghastly pale.%K%P
+
+0x2BD4
+Judging by her expression, I don't think she's lying.%K%P
+
+0x2BE8
+When Yuka hears this, her lips go white again, and her%Nthin shoulders slowly start shaking.%K%P
+
+0x2BF4
+Her eyes widen and she looks so frightened that it%Nseems she'll burst into tears any moment.%K%P
+
+0x2C1C
+The leaves shake violently.%K%P
+
+0x2C28
+We all immediately stand on guard.%K%P
+
+0x2C34
+I gulp, and try to focus my eyes in the darkness...%K%P
+
+0x2C70
+Soon enough...%K%P
+
+0x2C98
+... A small head sticks itself out of the base of the%Nbushes.%K%N
+
+0x2CA4
+... It's covered in fur.%K%N
+
+0x2CB0
+... Fur?%K%P
+
+0x2CD8
+Makoto「...」%K%P
+
+0x2CE4
+Kurumi「...」%K%P
+
+0x2CF8
+Yuka「...」%K%P
+
+0x2D04
+Makoto「I-It's a dog...」%K%P
+
+0x2D34
+Kurumi「How cute♪」%K%P
+
+0x2D40
+Kurumi「It's a puppy, a puppy!」%K%P
+
+0x2D4C
+Kurumi shouts in delight.%K%P
+
+0x2D58
+The puppy, however...%K%P
+
+0x2DAC
+... barks once, then runs back into the bushes.%K%P
+
+0x2DB8
+Kurumi「Ah, hey! Wait!」%K%P
+
+0x2DCC
+Kurumi chases after it, and suddenly disappears into%Nthe bushes.%K%P
+
+0x2DD8
+Yuka and I are left behind, and we listen to the sound of%Nthe two of them steadily getting farther away in%Ndumbfoundment.%K%P
+
+0x2DE4
+Makoto「Why was there... a puppy here of all places?」%K%P
+
+0x2DF0
+Yuka「...」%K%P
+
+0x2DFC
+Makoto「H-Huh? Yuka?」%K%P
+
+0x2E08
+Yuka「...」%K%P
+
+0x2E14
+Makoto「Hey!」%K%P
+
+0x2E28
+I wave my hand in front of Yuka.%K%P
+
+0x2E34
+I wave it three more times, but she doesn't even blink.%K%P
+
+0x2E40
+Yuka「H-H-H-H-H-H-H...」%K%P
+
+0x2E4C
+Yuka「H-Head, head, head...」%K%P
+
+0x2E58
+No good... she's completely gone...%K%P
+
+0x2E64
+Yuka「One head... two heads...」%K%P
+
+0x2E70
+Makoto「Haah... Oh brother...」%K%P
+
+0x2EA0
+―After that, I drag Yuka back towards the the lodge%Nas she continues rambling incoherently, like a drunk%Nmiddle-aged salaryman...%K%P
+
+0x2F14
+Kurumi「Well then, Group #1, heading out!♪」%K%P
+
+0x2F20
+Kurumi, in high spirits, grabs my hand and runs ahead.%K%P
+
+0x2F7C
+Kurumi「Good work.」%K%P
+
+0x2F88
+Makoto「Thanks... well then, what will we do?」%K%P
+
+0x2F9C
+Kurumi「About what?」%K%P
+
+0x2FA8
+Makoto「About the plan.」%K%P
+
+0x2FBC
+Kurumi「Truth is...」%K%P
+
+0x2FC8
+Kurumi takes various things out from a pouch she%Nsecretly had.%K%P
+
+0x2FDC
+Kurumi「Ta-da!!」%K%P
+
+0x2FE8
+She takes out a flashlight, string, a scary mask, and...%Nkonnyaku...?%K%P
+
+0x2FF4
+Makoto「Konnyaku?」%K%P
+
+0x3000
+Makoto「Just when did you get all of these things ready?」%K%P
+
+0x300C
+Kurumi「Heh heh, what do you think? It's KuruKuru Kurumi Magic♪」%K%P
+
+0x3018
+Makoto「...」%K%P
+
+0x305C
+Makoto「So what's the plan?」%K%P
+
+0x3068
+Kurumi「First, Kurumi will hide the mask in the well♪」%K%P
+
+0x3074
+Makoto「I see, and then?」%K%P
+
+0x3080
+Kurumi「Then if someone comes, we'll shine the light from below...%NOoooooo-boooooo, woooooo...」%K%P
+
+0x308C
+Makoto「Oh ho, and then?」%K%P
+
+0x3098
+Kurumi「In that instant, Onii-chan-」%K%P
+
+0x30A4
+Makoto「Me?」%K%P
+
+0x30B0
+Kurumi「You'll scare them from behind!」%K%P
+
+0x30BC
+Makoto「How so?」%K%P
+
+0x30C8
+Kurumi「By using the konnyaku and dripping it on their neck!」%K%P
+
+0x30D4
+Makoto「Drip it?」%K%P
+
+0x30E0
+Kurumi「It's called... The Scary Mask and Cold Dripping Konnyaku%NThat's As Effective As A Diet Strategy♪」%K%P
+
+0x30EC
+Makoto「Damn, that's a long name.」%K%P
+
+0x30F8
+Makoto「...」%K%P
+
+0x3104
+Makoto「But how am I supposed to sneak up on them?」%K%P
+
+0x3110
+Makoto「If they turn around when I'm holding the konnyaku, I'll just%Nlook like an idiot!」%K%P
+
+0x311C
+Kurumi「Heh heh, that's what the string's for!」%K%P
+
+0x3128
+Makoto「Oh ho.」%K%P
+
+0x3134
+Kurumi「Onii-chan, find a branch nearby and tie the string to it to%Nhang the konnyaku up!」%K%P
+
+0x3140
+Kurumi「And then, hide in a nearby bush, and then from there, do%Nit... Afterwards, that person will...」%K%P
+
+0x314C
+Kurumi「They'll shake in fear, scream in agony, and horribly sully%Nthemselves...」%K%P
+
+0x3158
+Makoto「...」%K%P
+
+0x3164
+Kurumi「Kurumi'll call it...」%K%P
+
+0x3170
+Makoto「That's enough!!」%K%P
+
+0x3184
+Kurumi「Oh come on! Kurumi spent months perfecting this plan!」%K%P
+
+0x3190
+Makoto「Liar!」%K%P
+
+0x31A4
+Kurumi「But it's a good plan, right?」%K%P
+
+0x31B0
+Makoto「...」%K%P
+
+0x31BC
+How should I answer?%K
+
+0x4178
+It's pretty good.
+
+0x4184
+It's mere child's play.
+
+0x3204
+Makoto「Well, it's pretty good.」%K%P
+
+0x3210
+Makoto「If it's Yuka, she'll be pissing herself.」%K%P
+
+0x321C
+Kurumi「Right, right!」%K%P
+
+0x3228
+Makoto「You've just gained a ton of points in my book!」%K%P
+
+0x3234
+Kurumi「Really?♪」%K%P
+
+0x3240
+Makoto「Yeah, really.」%K%P
+
+0x324C
+Kurumi「Really?♪」%K%P
+
+0x3258
+Makoto「Really.」%K%P
+
+0x3264
+Kurumi「Then how about a reward!?」%K%P
+
+0x3270
+Makoto「Huh?」%K%P
+
+0x327C
+Kurumi「A re-war-d♪」%K%P
+
+0x3288
+Makoto「Um... what kind of reward?」%K%P
+
+0x3294
+Kurumi「Think of it yourself!」%K%P
+
+0x32A0
+Makoto「...」%K%P
+
+0x32AC
+Makoto「Got it. You're such a good girl...」%K%P
+
+0x32B8
+I pet Kurumi's head, like a puppy.%K%P
+
+0x32CC
+Kurumi「Ah, geez, don't treat Kurumi like a kid...」%K%P
+
+0x32D8
+Makoto「Doesn't this sort of thing make you happy?」%K%P
+
+0x32E4
+Kurumi「It doesn't!!」%K%P
+
+0x32F0
+Makoto「Then what would make you happy?」%K%P
+
+0x32FC
+Kurumi「Well, umm-」%K%P
+
+0x3310
+Makoto「It's mere child's play.」%K%P
+
+0x3324
+Kurumi「Hey! Well then, do you have any better ideas?」%K%P
+
+0x3330
+Makoto「Huh? Hmm...」%K%P
+
+0x333C
+Makoto「...」%K%P
+
+0x3348
+Kurumi「Don't ridicule Kurumi's plan if you can't think of anything%Nyourself.」%K%P
+
+0x3354
+Makoto「Hey, I'm still capable of cooking something up.」%K%P
+
+0x3360
+Kurumi「Then think of something better.」%K%P
+
+0x336C
+Makoto「S-Sure.」%K%P
+
+0x3378
+Makoto「...」%K%P
+
+0x3384
+Makoto「Well, if we use this konyakku...」%K%P
+
+0x3390
+Kurumi「If we use the konyakku?」%K%P
+
+0x339C
+(Crap, I've got to think of something...)%K%P
+
+0x33A8
+Makoto「Ummmm-」%K%P
+
+0x33B4
+Kurumi「What do you-」%K%P
+
+0x33C0
+??「Oh, found it!!」%K%P
+
+0x3400
+Kurumi「AHHHHHHHH!!」%K%P
+
+0x341C
+Yuka「It was really loud over here, so I found it quickly.」%K%P
+
+0x3428
+Makoto「Dammit!!」%K%P
+
+0x343C
+Kurumi「Geeeeeeeeez, Onii-chan... YOU IDIOOOOOOOOOOT!!」%K%P
+
+0x3448
+Makoto「...」%K%P
+
+0x34D8
+The stone pavement is pleasantly cool. A breeze stirs%Nthe nearby trees, making me somehow uneasy.%K%P
+
+0x34E4
+Kurumi said that almost everyone buried in this group of%Nmoss-covered tombstones are muenbotoke. I%Nabsolutely don't believe in ghosts or monsters, but%Nbeing here is making me feel strangely insecure.%K%P
+
+0x34F8
+Haruka, who's walking alongside me with her usual stony%Nface, is completely unfazed by this atmosphere. Doesn't%Nshe have an imagination?%K%P
+
+0x3504
+Makoto「Kurumi sure knows this place well. Now that I think about it,%Nshe did say earlier that everyone buried here is a%Nmuenbotoke...」%K%P
+
+0x3510
+The silence is killing me. Sheesh, we shouldn't have done%Nthis Test of Courage.%K%P
+
+0x351C
+Haruka「'Muenbotoke'?」%K%P
+
+0x3528
+Makoto「You don't know? When someone dies and they have no%Nfamily or relatives to bury them, they become muenbotoke.%K%PSee, you write the word with the characters 'nothing' (無),%N'relationship' (縁), and 'deceased' (仏)... a dead person%Nwith no relationships.」%K%P
+
+0x3534
+Haruka「No 'relationships'...」%K%P
+
+0x3540
+Makoto「It sounds very lonely, dying without having a person%Nwho cares about you.」%K%P
+
+0x3554
+Haruka「When I die, it's likely that nobody will care either...」%K%P
+
+0x3560
+Makoto「Haruka... what are you saying?」%K%P
+
+0x356C
+Haruka「It's because I'm just someone's replacement... because%NI'm nothing more than a copy...」%K%P
+
+0x3578
+Makoto「Haruka... I won't forgive her for talking about you that way.」%K%P
+
+0x3584
+Haruka「...?」%K%P
+
+0x3590
+Makoto「I mean Saki. What gives her the idea that she has the%Nright to look down on you like that? That's not right.」%K%P
+
+0x35A4
+Haruka「Do you really think that?」%K%P
+
+0x35B0
+Makoto「Yeah. It pisses me off when I think about the incident at%Nthe ocean yesterday, as well as what happened today...%NBut how did she know that you're a clone in the first%Nplace?」%K%P
+
+0x35BC
+Haruka「...」%K%P
+
+0x35C8
+Makoto「Did something happen between you and Saki? Was the%Nday before yesterday not the first time you had met?」%K%P
+
+0x35D4
+Haruka「...」%K%P
+
+0x35E0
+Haruka begins to step away from me. She moves to a%Nstone paving by a large, conspicuous tombstone.%K%P
+
+0x35EC
+Haruka's face says, "I don't want to talk about Saki."%NIgnoring this, I step towards her. I'm partly surprised that%NI can read emotions off of Haruka's face...%K%P
+
+0x35F8
+Makoto「It wasn't, was it?」%K%P
+
+0x3604
+A sudden gust of wind passes by, making the trees%Nsound like they're in an uproar.%K%P
+
+0x3610
+CRASH! I slip on the stone paving. I catch my breath and%Nlook at Haruka.%K%P
+
+0x3634
+Haruka's eyes are shining with curiosity. She squats%Ndown and begins to crawl.%K%P
+
+0x3640
+Makoto「Stop... stop acting so creepy. Come on, get up...」%K%P
+
+0x364C
+Haruka pays no heed to my words, and I hear the sound%Nof scraping against the stone pavement.%K%PIt's completely dark; I can't see a thing. This is what they%Ncall true darkness.%K%P
+
+0x3658
+I immediately spring to my feet. I would try to run away,%Nbut Haruka grabs one of my ankles before I can do so.%K%P
+
+0x366C
+Haruka「She stole from me.」%K%P
+
+0x3678
+Makoto「Stole?」%K%P
+
+0x3684
+Haruka still clings to my leg as she says this.%K%P
+
+0x3690
+Haruka「It wasn't just that day... she stole from me again...」%K%P
+
+0x369C
+Makoto「What? What did she steal from you?」%K%P
+
+0x36A8
+Haruka「My...」%K%P
+
+0x36B4
+―Then, at that time.%K%P
+
+0x36C8
+??「KYAAAAAAAAAAAAAAAAAAAAA!!!」%K%P
+
+0x36F0
+Haruka and I turn around upon hearing this bloodcurdling%Nscream from behind us.%K%P
+
+0x36FC
+??「WAAAAAAAAAAAHHHHHH!!」%K%P
+
+0x3708
+As the crying gets louder, we see a black shadow%Nrunning towards us with great speed...%K%P
+
+0x371C
+... It's Yuka.%K%P
+
+0x3728
+Makoto「Wh-What's wrong, Yuka!?」%K%P
+
+0x3734
+Yuka「H-H-H-H-H-H...」%K%P
+
+0x3740
+Makoto「Calm down!」%K%P
+
+0x374C
+I firmly grasp Yuka's shoulders, and calm her down.%K%P
+
+0x3760
+Yuka「H-He-Head-Head...」%K%P
+
+0x376C
+Makoto「Head??」%K%P
+
+0x3778
+Soon enough...%K%P
+
+0x3794
+Izumi「Haah, haah... Geez, don't go running off without a word,%NYuka-chan!」%K%P
+
+0x37A0
+... Izumi, who was paired with Yuka, comes up to us, quite%Nout of breath.%K%P
+
+0x37AC
+Izumi「That was a dog! ... It was just a puppy sticking its head%Nout of the bushes!」%K%P
+
+0x37B8
+A puppy...? To think there'd be a puppy in this%Ngraveyard...%K%P
+
+0x37C4
+... Wait a minute, that's what scared Yuka...!?%K%P
+

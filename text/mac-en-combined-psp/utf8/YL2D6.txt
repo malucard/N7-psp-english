@@ -1,0 +1,960 @@
+text area offset and size:
+0x1D28
+0x3771
+0x154
+Suddenly, a clamorous sound echoes.%K%P
+
+0x160
+I open my eyes, and look towards the door...%K%P
+
+0x174
+(I-Izumi-san...)%K%P
+
+0x180
+Izumi「Kurumi's...」%K%P
+
+0x18C
+Izumi「Kurumi's gone!」%K%P
+
+0x200
+Izumi「I suddenly woke up in the middle of the night... and when I%Nlooked around...」%K%P
+
+0x21C
+Saki「Kurumi-chan was gone...」%K%P
+
+0x238
+Izumi「Yes...」%K%P
+
+0x244
+Izumi「I searched alone at first, trying all the places I could%Nthink of...」%K%P
+
+0x250
+Izumi「Inside the shop, the area around Moon Beach, all of it...」%K%P
+
+0x26C
+Saki「Do you know of any other places Kurumi-chan would go?」%K%P
+
+0x278
+Saki「Or do you have any clues...?」%K%P
+
+0x284
+Izumi-san softly closes her eyes, and gently shakes%Nher head.%K%P
+
+0x290
+Saki「Anyway, sitting still here won't get anything solved...」%K%P
+
+0x29C
+Saki rises to her feet, standing upright.%K%P
+
+0x2A8
+Saki「... Why don't we all quickly split up and look for Kurumi?」%K%P
+
+0x2BC
+Everyone files out of the door.%K%P
+
+0x2C8
+Before long, I'm all alone, still sitting on the dining chair as%Nstill as a decaying doll.%K%P
+
+0x2DC
+Haruka「... You're not going?」%K%P
+
+0x2E8
+Haruka「Makoto... you're not going to help look?」%K%P
+
+0x2FC
+Over Haruka's shoulder, I see Izumi-san's small figure.%K%P
+
+0x308
+Her eyes are filled to brim with tears.%K%P
+
+0x314
+She's worried... about Kurumi...%K%P
+
+0x320
+(What...)%K%P
+
+0x32C
+(What the hell am I doing...?)%K%P
+
+0x338
+(Why am I just sitting around like an old, rotten tree and%Ndoing nothing...?)%K%P
+
+0x344
+And, at that time...%K%P
+
+0x37C
+The cuckoo clock chirps five times.%K%P
+
+0x388
+And today's date is...%K%P
+
+0x394
+Makoto「Saturday, April 6th...」%K%P
+
+0x3A0
+Makoto「Saturday, April 6th...」%K%P
+
+0x3AC
+Makoto「Saturday... April... 6th!!!」%K%P
+
+0x3C8
+A flash runs through my mind.%K%P
+
+0x3D4
+I quickly look out the window.%K%P
+
+0x3E0
+―A downpour...%K%P
+
+0x3EC
+The rain clouds covering the whole sky are getting%Nbrighter.%K%P
+
+0x3F8
+(And just where is Kurumi?)%K%P
+
+0x414
+(Where... is she???)%K%P
+
+0x428
+(Where... is she???)%K
+
+0x1CE8
+Don't go help Kurumi.
+
+0x1CF4
+Go help Kurumi.
+
+0x480
+I know...%K%P
+
+0x48C
+I don't even need to think about it.%K%P
+
+0x498
+―Kurumi's in that shrine.%K%P
+
+0x4A4
+―And today is Saturday, April 6th.%K%P
+
+0x4B0
+The earthquake will happen soon...%K%P
+
+0x4BC
+But... But there's no way I can go there.%K%P
+
+0x4C8
+If Yuka and I go over there...%K%P
+
+0x4D4
+...%K%P
+
+0x4E0
+... Yuka?%K%P
+
+0x4EC
+Where's... Yuka?%K%P
+
+0x4F8
+No way...%K%P
+
+0x504
+No way, she couldn't have!!!%K%P
+
+0x53C
+―I kick off the chair and rush outside!%K%P
+
+0x5FC
+I look around for Yuka.%K%P
+
+0x608
+I don't see her amongst the others, who are out by the%Nfront door.%K%P
+
+0x614
+I shift my gaze to the tip of the forest path.%K%P
+
+0x62C
+I see the small retreating figure of Yuka running.%K%P
+
+0x638
+Makoto「Yuka...」%K%P
+
+0x644
+When I come to my senses, I find myself running as fast%Nas I can.%K%P
+
+0x650
+I try to pick up my pace...%K%P
+
+0x6A4
+Saki「Hold on, Makoto-kun! Where are you going?」%K%P
+
+0x6B0
+Saki shouts at me from behind.%K%P
+
+0x6BC
+But there's no longer any time for me to answer.%K%P
+
+0x6C8
+This is a race against the clock...%K%P
+
+0x6D4
+My time limit... is already less than 30 minutes...%K%P
+
+0x6E0
+Although the muddy ground trips me up, I muster all of my%Nstrength and keep running.%K%P
+
+0x718
+History is repeating itself...%K%P
+
+0x724
+If Yuka goes over there right now, nothing will change.%K%P
+
+0x730
+Kurumi―she didn't go missing on the 4th.%K%P
+
+0x73C
+"History changed"... Yuka and I were overjoyed with that%Nthought.%K%P
+
+0x748
+But...%K%N
+
+0x754
+In the end, the same thing is happening.%K%P
+
+0x760
+Kurumi still disappeared. All that's changed is the date.%K%P
+
+0x76C
+"Laplace's demon" is smiling.%K%P
+
+0x778
+"Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable."%K%P
+
+0x784
+So history could never be changed!?%K%P
+
+0x790
+There's no way to change the direction of that giant%Ncurrent!?%K%P
+
+0x79C
+It swallowed us up, toyed with us, and finally made us%Narrive in the same place as last time...%K%P
+
+0x7A8
+(Why... did something this...)%K%P
+
+0x7B4
+My fists tremble with anger.%K%P
+
+0x7F8
+I finally catch up with Yuka in front of the long staircase%Nto the shrine.%K%P
+
+0x814
+Makoto「Wait, Yuka!」%K%P
+
+0x820
+I grab her arm from behind and turn her around.%K%P
+
+0x8B4
+Yuka「Go away!」%K%P
+
+0x8C0
+Yuka「Please... go away!」%K%P
+
+0x8CC
+Yuka「I've got to...」%K%P
+
+0x8D8
+Yuka「I've got to... save Kurumi-chan...」%K%P
+
+0x8E4
+Makoto「Yuka...」%K%P
+
+0x8F0
+Makoto「It's hopeless... There's no way I can let you go there!」%K%P
+
+0x8FC
+Yuka「But Kurumi-chan's going to die...」%K%P
+
+0x908
+Makoto「But... if you go there, the same thing will happen!」%K%P
+
+0x914
+Yuka「I know that... I know that, but...」%K%P
+
+0x920
+Yuka「Kurumi-chan will...」%K%P
+
+0x92C
+Makoto「...」%K%P
+
+0x938
+Makoto「I understand...」%K%P
+
+0x944
+Makoto「In that case, I'll go save Kurumi.」%K%P
+
+0x950
+Yuka「No! I absolutely can't let you... absolutely not...」%K%P
+
+0x95C
+Yuka「Makoto, stay here...」%K%P
+
+0x968
+Yuka「I don't want to lose... another precious person!」%K%P
+
+0x974
+Precious... person...%K%P
+
+0x980
+Yuka「I don't want to lose you...」%K%P
+
+0x98C
+Yuka「You went as far... as risking your own life... trying to%Nsave... mine...」%K%P
+
+0x998
+You're wrong...%K%P
+
+0x9A4
+That's wrong... Yuka...%K%P
+
+0x9B0
+It's the opposite...%K%P
+
+0x9BC
+I hesitated for a moment back then...%K%P
+
+0x9C8
+It's because I thought of myself first...%K%P
+
+0x9D4
+That's why I couldn't save Yuka...%K%P
+
+0x9E0
+I killed Yuka...%K%P
+
+0x9EC
+Yuka「Please... Please...」%K%P
+
+0x9F8
+I don't answer.%K%P
+
+0xA04
+Without a word, I brush past Yuka's shoulder, and walk up%Nto the front of the staircase.%K%P
+
+0xA10
+The rain beats on me...%K%P
+
+0xA1C
+The sound of the heavy rainfall drowns out all other%Nnoise.%K%P
+
+0xA88
+―I kick off the chair and rush outside!%K%P
+
+0xB20
+Saki「Hold on, Makoto-kun! Where are you going!?」%K%P
+
+0xB38
+But there's no longer any time for me to answer.%K%P
+
+0xB44
+This is a race against the clock.%K%P
+
+0xB50
+(Where's Kurumi?)%K%P
+
+0xB5C
+―That's obvious, isn't it!?%K%P
+
+0xB68
+―That shrine!%K%P
+
+0xB74
+And today is Saturday, April 6th.%K%P
+
+0xB80
+The earthquake will happen soon.%K%P
+
+0xB8C
+What if Kurumi's in the shrine at that time...!?%K%P
+
+0xB98
+My time limit... is already less than 30 minutes...%K%P
+
+0xBEC
+Although the the muddy ground trips me up, I muster all of%Nmy strength and keep running.%K%P
+
+0xBF8
+Yuka「MAKOTO! MAKOTO!」%K%P
+
+0xC04
+I hear Yuka shouting from behind.%K%P
+
+0xC10
+I already know what Yuka's trying to say.%K%P
+
+0xC48
+History is repeating itself...%K%P
+
+0xC54
+If I go over there right now, nothing will change.%K%P
+
+0xC60
+Kurumi―she didn't go missing on the 4th.%K%P
+
+0xC6C
+"History changed"... Yuka and I were overjoyed with that%Nthought.%K%P
+
+0xC78
+But...%K%N
+
+0xC84
+In the end, the same thing is happening.%K%P
+
+0xC90
+Kurumi still disappeared. All that's changed is the date.%K%P
+
+0xC9C
+"Laplace's demon" is smiling.%K%P
+
+0xCA8
+"Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable."%K%P
+
+0xCB4
+So history could never be changed!?%K%P
+
+0xCC0
+There's no way to change the direction of that giant%Ncurrent!?%K%P
+
+0xCCC
+It swallowed us up, toyed with us, and finally made us%Narrive in the same place as last time...%K%P
+
+0xCD8
+Even if that's so...%K%N
+
+0xCE4
+Even if that's so...%K%P
+
+0xCF0
+I must go there!!%K%P
+
+0xCFC
+If that boy that I supposedly resemble could risk his life%Nto save Yuka...%K%P
+
+0xD08
+Then so can I!%K%P
+
+0xD14
+(Is this... what you call destiny?)%K%P
+
+0xD58
+I arrive at the long staircase that leads to the shrine.%K%P
+
+0xD64
+Without stopping to take a breath, I begin to rush%Ntowards the staircase.%K%P
+
+0xD70
+Just then...%K%P
+
+0xD9C
+??「Wait!」%K%P
+
+0xDA8
+... Someone suddenly grabs my arm from behind.%K%P
+
+0xE00
+Without giving me time to turn around, that person blocks%Nmy way to the staircase. It's...%K%P
+
+0xE40
+Makoto「Yuka...」%K%P
+
+0xE4C
+Yuka「Don't go!」%K%P
+
+0xE58
+Yuka「Please... don't go!」%K%P
+
+0xE64
+Makoto「Kurumi's... Kurumi's in this shrine.」%K%P
+
+0xE70
+Makoto「So I've got to... go...」%K%P
+
+0xE7C
+Makoto「I've got... to save Kurumi...」%K%P
+
+0xE88
+Yuka「No! I absolutely can't let you... absolutely not...」%K%P
+
+0xE94
+Makoto「Get out of the way, Yuka... There's no time...」%K%P
+
+0xEA0
+Yuka「If you go in there, things will turn out the same way%Nagain...!」%K%P
+
+0xEAC
+Yuka「Nothing will change...」%K%P
+
+0xEB8
+Yuka「We won't be able to return to the free world!」%K
+
+0x1D00
+I can't go back to the past again.
+
+0x1D0C
+We'll have another chance.
+
+0xEF8
+Makoto「Yeah... I get it...」%K%P
+
+0xF04
+Makoto「Certainly, that much is true right now...」%K%P
+
+0xF10
+Makoto「But...」%K%P
+
+0xF1C
+I take the bell out of my pocket.%K%P
+
+0xF28
+Its cool texture seeps into my fingertips.%K%P
+
+0xF50
+I drop... the bell... on the ground.%K%P
+
+0xF5C
+And then...%K%P
+
+0xF84
+... With all of my strength, I stomp on it.%K%P
+
+0xF90
+The smashed pieces of metal shine in a puddle...%K%P
+
+0xF9C
+They're like stardust...%K%P
+
+0xFA8
+In this very instant, I can tear off the chains of the%Ninfinite loop.%K%P
+
+0xFB4
+Makoto「... This is the end.」%K%P
+
+0xFC0
+Yuka「... Makoto...」%K%P
+
+0xFCC
+Makoto「I can't go back again...」%K%P
+
+0xFD8
+Makoto「I can't... go back to the past...」%K%P
+
+0xFE4
+Makoto「I will end... everything here...」%K%P
+
+0xFF0
+Makoto「So―」%K%P
+
+0x1020
+Yuka「No...」%K%P
+
+0x102C
+Yuka「I don't want that!」%K%P
+
+0x1038
+Yuka「No more... I don't... want this!」%K%P
+
+0x1044
+Yuka「I don't want to lose... another precious person!」%K%P
+
+0x1050
+A precious... person...%K%P
+
+0x105C
+Yuka「I don't want to lose you...」%K%P
+
+0x1068
+Yuka「You went as far... as risking your own life... trying to%Nsave... mine...」%K%P
+
+0x1074
+You're wrong...%K%P
+
+0x1080
+That's wrong... Yuka...%K%P
+
+0x108C
+It's the opposite...%K%P
+
+0x1098
+I hesitated for a moment back then...%K%P
+
+0x10A4
+It's because I thought of myself first...%K%P
+
+0x10B0
+That's why I couldn't save Yuka...%K%P
+
+0x10BC
+I killed Yuka...%K%P
+
+0x10C8
+Yuka「Please... Please...」%K%P
+
+0x10D4
+I don't answer.%K%P
+
+0x10E0
+Without a word, I brush past Yuka's shoulder, and walk up%Nto the staircase...%K%P
+
+0x10EC
+... And then, just before I can take a single step...%K%P
+
+0x1114
+Yuka「I love you...」%K%P
+
+0x1120
+Yuka「I've loved you... all this time...」%K%P
+
+0x112C
+Yuka「It's true that I went to this shrine because I couldn't%Nforget that boy. But...」%K%P
+
+0x1138
+Yuka「But I realized it was wrong... That feeling was wrong...」%K%P
+
+0x1144
+Yuka「Makoto, I love you...」%K%P
+
+0x1150
+Yuka「From the beginning, from that moment where everything%Nbegan, I've loved you!!」%K%P
+
+0x1178
+The rain beats against me...%K%P
+
+0x1184
+The sound of rainfall drowns out all other noise.%K%P
+
+0x1190
+Those words comfort me...%K%P
+
+0x119C
+Just hearing those words alone is enough.%K%P
+
+0x11A8
+They're enough...%K%P
+
+0x11B4
+But unlike that boy, I'm not going to say a pretentious%Nline...%K%P
+
+0x11DC
+Makoto「Yeah... I get it...」%K%P
+
+0x11E8
+Makoto「But it's all right...」%K%P
+
+0x11F4
+Makoto「Because I'll get another chance...」%K%P
+
+0x1200
+Makoto「That's why―」%K%P
+
+0x120C
+Yuka「No! I absolutely can't let you... absolutely not...」%K%P
+
+0x1218
+Yuka「Makoto, stay here...」%K%P
+
+0x1224
+Yuka「I don't want to lose... another precious person!」%K%P
+
+0x1230
+Precious... person...%K%P
+
+0x123C
+Yuka「I don't want to lose you...」%K%P
+
+0x1248
+Yuka「You went as far... as risking your own life... trying to%Nsave... mine...」%K%P
+
+0x1254
+You're wrong...%K%P
+
+0x1260
+That's wrong... Yuka...%K%P
+
+0x126C
+It's the opposite...%K%P
+
+0x1278
+I hesitated for a moment back then...%K%P
+
+0x1284
+It's because I thought of myself first...%K%P
+
+0x1290
+That's why I couldn't save Yuka...%K%P
+
+0x129C
+I killed Yuka...%K%P
+
+0x12A8
+Yuka「Please... Please...」%K%P
+
+0x12B4
+I don't answer.%K%P
+
+0x12C0
+Without a word, I brush past Yuka's shoulder, and walk up%Nto the front of the staircase.%K%P
+
+0x12CC
+The rain beats on me...%K%P
+
+0x12D8
+The sound of the heavy rainfall drowns out all other%Nnoise.%K%P
+
+0x1354
+I move my still legs again.%K%P
+
+0x1360
+Yuka「MAKOTO!!」%K%P
+
+0x136C
+I begin to run up the staircase at full speed...%K%P
+
+0x1378
+I slip on the wet stone steps, falling on my knees, but%Nthere's no pain at all.%K%P
+
+0x13B0
+I reach the top of the stairs and and run like the wind%Npast the shrine's grounds.%K%P
+
+0x13DC
+Yuka「WAIT!」%K%P
+
+0x13E8
+I turn towards that voice.%K%P
+
+0x13F4
+Yuka's come chasing after me.%K%P
+
+0x1400
+Makoto「Stay away!」%K%P
+
+0x140C
+Makoto「Stay here...」%K%P
+
+0x1418
+But Yuka ignores me and runs past me, plunging into the%Nshrine.%K%P
+
+0x1424
+Makoto「Yuka!」%K%P
+
+0x147C
+I survey my surroundings, but I don't see Kurumi%Nanywhere.%K%P
+
+0x1488
+―Where's Yuka!?%K%P
+
+0x1494
+Right now, Yuka's trying to go through the small hole in%Nthe front wall.%K%P
+
+0x14A0
+Makoto「Hey! Yuka!」%K%P
+
+0x14AC
+Ignoring my shouts, Yuka disappears beyond the hole.%K%P
+
+0x14EC
+In the end, we've arrived here again.%K%P
+
+0x14F8
+Kurumi isn't here either.%K%P
+
+0x1504
+Only Yuka looks towards me, with eyes that seem to be%Nasking me something.%K%P
+
+0x1560
+―CRASH!%K%P
+
+0x156C
+―Rumble rumble!%K%P
+
+0x1578
+The slanting shrine's wall... slowly draws near us.%K%P
+
+0x1584
+Over the panicked Yuka's shoulder, I see segments of%Nthe thick pillars breaking up into small wood chips as%Nthey blow up in the air.%K%P
+
+0x15AC
+In the next instant, I hear the sound of the shrine%Ncrumbling...%K%P
+
+0x15D4
+―What should I do!?%K%P
+
+0x15E0
+My mind hesitates for a moment as I think this...%K%P
+
+0x15EC
+I'm hesitating again.%K%P
+
+0x15F8
+In this very instant, I'm thinking about my own body's%Nsafety.%K%P
+
+0x1604
+It's too late...%K%P
+
+0x1610
+It's all too late.%K%P
+
+0x161C
+I've fucked up... again...%K%P
+
+0x16A4
+I'm so... cold...%K%P
+
+0x16B0
+My whole body has gone numb. I can't move.%K%P
+
+0x16BC
+Strangely, there's no pain.%K%P
+
+0x16C8
+All there is is the taste of rusty iron in my mouth...%K%P
+
+0x16D4
+All of my other senses are completely paralyzed.%K%P
+
+0x16E0
+Suddenly, I am assaulted with severe nausea.%K%P
+
+0x16EC
+I throw it all up.%K%P
+
+0x16F8
+Blood...%K%P
+
+0x1704
+I threw so much blood that I could drown in it...%K%P
+
+0x1710
+The blood won't stop, as it overflows in my mouth and%Nguzzles down my throat.%K%P
+
+0x171C
+It seems I'm bleeding from other parts besides my mouth.%K%P
+
+0x1728
+My neck?%K%P
+
+0x1734
+Did I cut an artery in my neck?%K%P
+
+0x1740
+The blood begins to flow out of me relentlessly, like a%Nfaucet that's been left on full blast.%K%P
+
+0x174C
+My consciousness slowly begins to fade...%K%P
+
+0x1758
+I close my eyes partly, and focus my faint, dim field of%Nvision.%K%P
+
+0x1764
+Right in front of me...%K%P
+
+0x1770
+... lies Yuka.%K%P
+
+0x1784
+I can see her heavily dangling palm.%K%P
+
+0x1790
+On top of it is a small fragment of light...%K%P
+
+0x179C
+―The bell.%K%P
+
+0x17A8
+I muster the last of my strength to crawl like an insect%Nover to Yuka's side.%K%P
+
+0x17B4
+In my arms, I feel Yuka's skin is wet with slippery blood...%K%P
+
+0x17C0
+Yuka's cheeks are ghastly pale, almost transparent...%K%P
+
+0x17CC
+As if she were a doll made of glass.%K%P
+
+0x17E8
+Yuka「We couldn't... see the sunrise...」%K%P
+
+0x17F4
+Her hoarse voice fills this empty void.%K%P
+
+0x1800
+Before long, from Yuka's palm...%K%P
+
+0x1830
+... the bell falls.%K%P
+
+0x183C
+In that instant...%K%P
+
+0x1848
+―All light fades.%K%N
+
+0x1854
+―I've lost everything.%K%P
+
+0x18FC
+Yuka「I'll go with you, too...」%K%P
+
+0x1908
+―Huh!?%K%P
+
+0x1914
+In Yuka's palm is her bell.%K%P
+
+0x1920
+... Yuka...%K
+
+0x192C
+... throws...%K%N
+
+0x1938
+... the bell...%K
+
+0x1944
+... into the sea...%K%P
+
+0x19C4
+At the same time, I hear the sound of the shrine%Ncrumbling...%K%P
+
+0x19D0
+"I will definitely protect Yuka!"%K%P
+
+0x19DC
+―I don't hesitate for an instant!!%K%P
+
+0x19E8
+With all of my strength, I kick off the ground and leap%Ntowards her!%K%P
+
+0x19F4
+Like that, I push down on the ground and jump...%K%P
+
+0x1A00
+... With that force, we flutter around up in midair.%K%P
+
+0x1A0C
+"If you want to stop time, then it's all right to destroy%Ntime."%K%N
+
+0x1A18
+"If you want to escape from time, it's all right to flap your%Nwings."%K%P
+
+0x1A24
+"If you stay tied down, you can't be free."%K%N
+
+0x1A30
+"If you want to be free, then you mustn't be afraid."%K%P
+
+0x1A3C
+Yuka and I embrace each other as we fall down towards%Nthe black sea...%K%P
+
+0x1A84
+As I hear the faint sound of the bell Yuka threw away%Nclose to my ears...%K%P
+

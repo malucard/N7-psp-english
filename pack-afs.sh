@@ -1,6 +1,8 @@
 #!/bin/bash
-ISO_RES_DIR=r11_iso_extracted/PSP_GAME/USRDIR
-ISO_BIN_DIR=r11_iso_extracted/PSP_GAME/SYSDIR
+set -e 
+
+ISO_RES_DIR=n7_iso_extracted/PSP_GAME/USRDIR
+ISO_BIN_DIR=n7_iso_extracted/PSP_GAME/SYSDIR
 WORKDIR=./workdir
 COMPRESS=./bin/compressbip
 REPACK_AFS=./bin/repack_afs
@@ -22,31 +24,42 @@ fi
 # Repack mac.afs (texts)
 repack_mac_afs () {
 	repack_scene () {
-		$REPACK_SCENE text/tmp/mac-${TL_SUFFIX}-combined-psp/$1.txt r11_mac/$1.SCN r11_mac_${TL_SUFFIX}/$1.SCN
-		$COMPRESS ./r11_mac_${TL_SUFFIX}/$1.{SCN,BIP}
+		[ $# -ge 2 ] && in=$2 || in=text/mac-${TL_SUFFIX}-combined-psp/$1.txt
+		$REPACK_SCENE $in n7_mac/$1.SCN n7_mac_${TL_SUFFIX}/$1.SCN
+		$COMPRESS ./n7_mac_${TL_SUFFIX}/$1.{SCN,BIP}
 	}
 
-	mkdir -p r11_mac_${TL_SUFFIX}/
-	
-	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/SHORTCUT.SCN.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1;
-	# cp -f r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1;
-	$COMPRESS ./r11_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
-	
-	for i in text/tmp/mac-${TL_SUFFIX}-combined-psp/*.txt ; do
+	mkdir -p n7_mac_${TL_SUFFIX}/
+	mkdir -p text/tmp/mac-jp-${TL_SUFFIX}-names-psp
+
+	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/SHORTCUT.SCN.txt n7_mac/SHORTCUT.SCN n7_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1;
+	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/APPEND.SCN.txt n7_mac/APPEND.SCN n7_mac_${TL_SUFFIX}/APPEND.SCN ${TL_SUFFIX} append || exit 1;
+	# cp -f n7_mac/SHORTCUT.SCN n7_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1;
+	$COMPRESS ./n7_mac_${TL_SUFFIX}/SHORTCUT.SCN ./n7_mac_${TL_SUFFIX}/SHORTCUT.BIP
+	$COMPRESS ./n7_mac_${TL_SUFFIX}/APPEND.SCN ./n7_mac_${TL_SUFFIX}/APPEND.BIP
+
+	for i in text/mac-${TL_SUFFIX}-combined-psp/*.txt ; do
 		echo Repacking $i
 		repack_scene `basename $i .txt` #& WAITPIDS="$! "$WAITPIDS
+	done
+	for i in text/tmp/mac-jp-psp/USER*.txt ; do
+		[ `basename $i` = "USER08.txt" ] && continue
+		echo Patching $i
+		f=`basename $i .txt`
+		$PY ./py-src/patch_speaker.py $i text/tmp/mac-jp-${TL_SUFFIX}-names-psp/$f.txt
+		repack_scene $f text/tmp/mac-jp-${TL_SUFFIX}-names-psp/$f.txt
 	done
 	# wait $WAITPIDS &> /dev/null
 	echo "Finished repacking scenes"
 
-	$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./r11_mac_${TL_SUFFIX} || exit 1;
+	$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./n7_mac_${TL_SUFFIX} || exit 1;
 	mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 }
 
 # Compose and repack font
 # compose_font builds the font file 
 compose_font () {
-	mkdir -p r11_etc_${TL_SUFFIX}
+	mkdir -p n7_etc_${TL_SUFFIX}
 	cd text/font/
 	cp -f glyphs-new/* glyphs/
 	if [ "cn" == "${TL_SUFFIX}" ]; then
@@ -54,7 +67,7 @@ compose_font () {
 		mv -f glyphs-cn/* glyphs/
 	fi
 	$PY ../../py-src/extract_font.py repack glyphs/ || exit 1;
-	cp FONT00.NEW ../../r11_etc_${TL_SUFFIX}/FONT00.NEW
+	cp FONT00.NEW ../../n7_etc_${TL_SUFFIX}/FONT00.NEW
 	cd ../..
 }
 
@@ -62,9 +75,9 @@ compose_font () {
 repack_etc_afs () {
 	compose_font
 
-	if [ -f r11_etc_${TL_SUFFIX}/FONT00.NEW ]; then
-	$COMPRESS r11_etc_${TL_SUFFIX}/FONT00.NEW r11_etc_${TL_SUFFIX}/FONT00.FOP
-	$REPACK_AFS $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs r11_etc_${TL_SUFFIX} || exit 1;
+	if [ -f n7_etc_${TL_SUFFIX}/FONT00.NEW ]; then
+	$COMPRESS n7_etc_${TL_SUFFIX}/FONT00.NEW n7_etc_${TL_SUFFIX}/FONT00.FOP
+	$REPACK_AFS $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs n7_etc_${TL_SUFFIX} || exit 1;
 	mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
 	fi
 }

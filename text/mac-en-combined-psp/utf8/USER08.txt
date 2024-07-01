@@ -1,0 +1,657 @@
+text area offset and size:
+0x1968
+0x2EAF
+0x9C
+シャラーン%K%P
+Shalom.%K%P
+0xB0
+僕の名前は飯田億彦。私立大学の３回生にして、あの日本でも有数の財閥、飯田財閥の御曹子だ。%K%P
+The name's Okuhiko Iida. I'm a third-year at a private%Nuniversity, and the heir to the Iida Financial Group, the%Nforefront of financial groups in Japan.%K%P
+0xBC
+僕は今、大学のゼミ合宿でこの孤島に来ている。%K%P
+At the moment, I find myself at a seminar camp on a remote%Nisland.%K%P
+0xC8
+ゼミが始まる前にゼミ生同士が寝食を共にし、相互の親睦を深める……というのがこのゼミ合宿の目的の%N１つなんだが、正直、僕はあまり乗り気でなかった。%K%P
+Before it begins in earnest, we're supposed to spend our%Ntime sleeping and eating around each other to deepen%Nthe bonds of friendship...%K%PThat's the whole goal of the place, but if I'm being frank,%NI really don't find it all that exciting.%K%P
+0xDC
+何が悲しくて貴重な春休みを費やして絶海の孤島に滞在しなくてはならないのか。%K%P
+Why did I have to sadly throw away my precious spring%Nvacation, locked away on some remote island, cut off%Nfrom the world?%K%P
+0xE8
+全くもって、無意味極まりない───そう思っていた。%K%P
+Every bit of it is meaningless... or so I thought.%K%P
+0x184
+しかし、僕はその合宿で１人の天使に出会ったのだ。%K%P
+Despite all that, I happened across a solitary angel.%K%P
+0x190
+天使の名前は『樋口遙』%K%P
+That angel's name is Haruka Higuchi.%K%P
+0x19C
+大学内でも有名な超優等生で、年齢的には２年生なのだが、飛び級して一気に３年生になったほどだ。%K%P
+She's apparently a prodigy in her university, a real model%Nstudent, the kind who skipped her second year straight%Ninto the third.%K%P
+0x1A8
+だが、僕が彼女に惹かれたのそんなとこじゃない。%K%P
+And that's not even why I like her.%K%P
+0x1B4
+彼女と初めて出会ったとき、天使は実在すると、確信したのだ。%K%P
+Our first meeting was like a sign that angels truly existed.%K%P
+0x1EC
+彼女のあまりにも美しい容姿。%K%P
+She was way too beautiful of a woman.%K%P
+0x1F8
+それはとてもこの世の者とは思えなかった。%K%P
+I thought there was no way this woman could be from our%Nworld.%K%P
+0x204
+そして、僕は一瞬で遙ちゃんに恋をしていたのだ。%K%P
+With my darling Haruka-chan, it was love at first sight.%K%P
+0x24C
+……で、当然のことながら僕は遙ちゃんを落とすべく、口説きモードへとチェンジしたわけだが……残念ながら４月２日現在における成果はゼロと言っていい。%K%P
+...So, as you'd expect, I entered seduction mode in a bid to make Haruka-chan mine... Suffice it to say as of April 2nd, my results are zip. Zilch. Nada.%K%P
+0x258
+ともかく駆け引き以前にコミュニケーションが成立しないのである。%K%P
+On top of that, I haven't managed even a speck of%Ngenuine communication with her, so all my strategies for%Nafterwards have gone out the window.%K%P
+0x264
+何をしてもほとんど無反応。%K%P
+She's entirely unresponsive.%K%P
+0x270
+その徹底ぶりは五感全てが麻痺しているのかと思うほどだ。%K%P
+Like all five of her senses are just gone.%K%P
+0x27C
+さすがにいくらモーションをかけても何も答えてくれないのでは、攻めようがない。%K%P
+It's only logical that no matter how many signs I send her%Nway, I can't begin a single plan of attack if she just%Ndoesn't respond.%K%P
+0x2C8
+そして、もう１つは『石原誠』という男の存在だ。%K%P
+The other problem on my hands is a guy named Makoto Ishihara.%K%P
+0x2D4
+容姿、頭脳、運動神経、家柄、全て僕の足元にも及ばないごくごく平凡な庶民の男だが、どうやら奴も%N遙ちゃんを狙っているらしい。%K%P
+He's some run-of-the-mill commoner, paling wholly in%Ncomparison to my brawn, my brains, my reflexes, AND my%Nlineage, yet he still seems to be gunning for my%NHaruka-chan anyway.%K%P
+0x2E0
+ことあるごとに遙ちゃんに話し掛けている。%K%P
+I swear he talks to her any time he gets the chance.%K%P
+0x2EC
+そして、何より許せないのが、そんな三流男にほんの僅かばかりだが、遙ちゃんが心を開いているようなのだ。%K%P
+And what angers me the most? She's actually opening%Nher heart to that third-rate excuse for a man, however%Nslightly that may be.%K%P
+0x2F8
+全くもって信じがたいことだ。%K%P
+It's just unbelievable.%K%P
+0x368
+やはりあの４月１日に２人で海に行かせたのは間違いだった。%K%P
+I should've known it was a mistake letting the two of them%Nhit the ocean together on April 1st.%K%P
+0x374
+このままでは、考えたくもないが、遙ちゃんはアイツのものになってしまう。%K%P
+This is the last thing I wanted on my mind, but that dick%Njust might actually make Haruka-chan his own.%K%P
+0x380
+なんとかしなければ……%K%P
+I have to stop that from happening...%K%P
+0x3D8
+僕はロッジのリビングでソファに沈み込みながら、そう考えていた。%K%P
+I think all of this as I continue sinking into the living room%Ncouch at the lodge.%K%P
+0x3E4
+と、その僕の目の前を遙ちゃんが通り過ぎようとしているではないか！%K%P
+And out of nowhere, Haruka-chan begins to pass by%Nbefore my very eyes!%K%P
+0x3F0
+僕は慌てて立ちあがった。%K%P
+I thrust myself up in a hurry.%K%P
+0x420
+億彦「やぁ！　遙ちゃん！　どこへ行くんだい？」%K%P
+Okuhiko「Heyo! Haruka-chan! Where you off to?」%K%P
+0x42C
+遙「……」%K%P
+Haruka「...」%K%P
+0x438
+遙ちゃんはしばらく無言でそっぽを向いていたが、%Nようやくぽつりとつぶやいた。%K%P
+Haruka-chan silently turns away for a moment before%Nmuttering something.%K%P
+0x444
+遙「誠の……部屋」%K%P
+Haruka「Makoto's... room.」%K%P
+0x458
+億彦「な、なんだってぇー！　なんで、あいつの部屋に！？」%K%P
+Okuhiko「F-For what reason?! The heck is so important about HIS%Nroom?!」%K%P
+0x46C
+遙「釣り……」%K%P
+Haruka「Fishing...」%K%P
+0x480
+億彦「え？」%K%P
+Okuhiko「Huh?」%K%P
+0x48C
+遙「誠に釣り教えてもらえるように頼みに行くの」%K%P
+Haruka「I'm going so I can ask Makoto to teach me about fishing.」%K%P
+0x498
+億彦「つ、釣り？」%K%P
+Okuhiko「F-Fishing, huh?」%K%P
+0x4AC
+そういえば、プールから帰った後、優夏ちゃんの提案で釣りにいったけど、結局沙紀ちゃんが高波にさらわれてうやむやになってしまっていたんだな。%K%P
+Now that she mentions it, Yuka talked about going fishing%Nafter we came back from the pool, but there was the%Nwhole thing with Saki-chan getting carried away by the%Nwaves instead.%K%P
+0x4B8
+そうか、遙ちゃんは釣りに興味があるんだ……%Nって待てよ！%K%P
+So, Haruka-chan wants to go fishing... OH!%K%P
+0x4CC
+億彦「ざ、残念だけど、石原に頼んでも無駄だよ」%K%P
+Okuhiko「W-Well, good luck getting any help from *Ishihara* of all%Npeople.」%K%P
+0x4D8
+僕は明らかに不自然な口調で言葉をつむぎだした。%K%P
+I begin to lay out words with an obviously unnatural tone.%K%P
+0x4E4
+遙「どうして？」%K%P
+Haruka「Why is that?」%K%P
+0x4F0
+億彦「アイツ、釣りなんて全くできないみたいだから。%Nこの前話していた時、そう言ってたよ」%K%P
+Okuhiko「That guy? He couldn't catch a fish to save his life. If%Nwe're being honest, he told me all about it when we last%Ngot together.」%K%P
+0x4FC
+───嘘だ。いや、石原が釣りをできるかどうかは%N知らない。%K%P
+...All a lie, naturally. I have no clue if Ishihara can fish.%NMaybe he can, for all I know.%K%P
+0x508
+だが、僕は石原とそんな話はしていない。とにかく、なんとしてでもこれ以上遙ちゃんをアイツと接触させるわけにはいかなかった。%K%P
+I never talked about anything like that with him anyway.%NMore importantly, I have to give my all in making sure that%Nguy has no way of running into her again.%K%P
+0x51C
+遙「そう、なんだ……」%K%P
+Haruka「I... see.」%K%P
+0x528
+遙ちゃんがつぶやく。こころなしか落ち込んでいるように見える。%K%P
+Haruka-chan mutters this so dejectedly. It's somehow like%Nshe's lost the heart to try fishing anymore.%K%P
+0x534
+それを逃さず僕は畳み掛ける。%K%P
+I keep up the pace, not missing my opening to set up an%Noffer.%K%P
+0x548
+億彦「でも、安心してくれよ。僕が教えてあげるから」%K%P
+Okuhiko「Hey, not to worry. I can teach you just fine.」%K%P
+0x55C
+遙「え……億彦は釣りできるの？」%K%P
+Haruka「Oh... You can fish, Okuhiko?」%K%P
+0x570
+億彦「もちろんさ！　海釣り、川釣りなんでもござれだよ」%K%P
+Okuhiko「I sure can! Across both river and sea, all fish yield to%Nme.」%K%P
+0x57C
+遙「ほんとに？」%K%P
+Haruka「Is that true?」%K%P
+0x588
+億彦「ほんとだって！　僕を信じなよ」%K%P
+Okuhiko「Truer than truth itself! Believe me on this one.」%K%P
+0x594
+遙「信じる……？」%K%P
+Haruka「I should... believe?」%K%P
+0x5A8
+億彦「そうそう。絶対大漁を約束するからさ」%K%P
+Okuhiko「You gotta believe. C'mon, I can promise you the biggest%Ncatch you'll ever get.」%K%P
+0x5B4
+遙「約束……」%K%P
+Haruka「You promise...?」%K%P
+0x5C0
+遙ちゃんは僕をまっすぐみつめてそうつぶやいた。%K%P
+Haruka-chan stares directly at me as she mutters.%K%P
+0x5CC
+こころなしかその瞳に光が宿ったような気がする。%K%P
+It's somehow like she's gained a light in her eyes at%Nhearing this.%K%P
+0x5E8
+そのまましばらくの間、遙ちゃんは僕を見つめていたが、やがてポツリと答えた。%K%P
+She holds her stare for a few moments before finally%Nanswering.%K%P
+0x5FC
+遙「わかった……じゃ、億彦と釣りに行く」%K%P
+Haruka「Okay... I want to go fishing with you, Okuhiko.」%K%P
+0x62C
+億彦（よっしゃぁぁぁっっっ！！！）%K%P
+Okuhiko（YEEEEEEEEEEAAAAAAAAAAAHHH!!!）%K%P
+0x638
+僕は内心でガッツポーズをとった。%K%P
+On the inside, I'm pumping my fists so hard right now.%K%P
+0x644
+ついに遙ちゃんと２人っきりになれるチャンスが訪れたのだ！%K%P
+Finally! Finally has the opportunity presented itself for me%Nto be alone with Haruka-chan!%K%P
+0x650
+フッわるいな、石原。%K%P
+Heh, nothing personal, Ishihara.%K%P
+0x65C
+お前を騙すのは忍びないが、これもまた戦略の１つなのだよ、フフフ。%K%P
+While I am reluctant in being this underhanded about%Nthings, a win is a win regardless of the strategy, hehehe.%K%P
+0x678
+ニヤニヤと笑いを浮かべる僕の前から遙ちゃんがとっくに姿を消していたことに僕が気づいたのはそれからしばらくたってからのことだった……%K%P
+It's not until moments later that I notice Haruka-chan is%Ngone from in front of my sneering face.%K%P
+0x7BC
+僕と遙ちゃんは堤防にやってきていた。%K%P
+She and I eventually end up at the embankment.%K%P
+0x7C8
+ロッジをでてから商店街の釣具屋で釣具をレンタルし、ここに辿りついたというわけだ。%K%P
+When we left the lodge, I'd gone and rented fishing%Nequipment at the tackle shop downtown. I'd made my way%Nhere after that.%K%P
+0x7D4
+本当なら釣具なんて全て買ってもよかったのだが、%N僕のパパのＰＩＳＡのゴールドカードが使えなかったのだ。%K%P
+Rented, not bought, even though I can absolutely afford%Nto buy anything and everything we need. It just so%Nhappened that I wasn't able to use my dad's Pisa Gold%NCard.%K%P
+0x7E0
+生憎と僕はカードでショッピングをほとんど済ますため、現金はあまり持ち歩いていない。%K%P
+I mainly shop using cards, so unfortunately for me, it's%Nrare that I have cash on hand.%K%P
+0x7EC
+おかげで泣く泣くレンタルをするしかなかったのだ。%K%P
+So it was with a heavy heart that I decided to rent%Neverything.%K%P
+0x7F8
+全くクレジットカードも使えないなんて、これだから%N田舎は嫌になる。%K%P
+The barren countryside not having even the slightest%Nability to let me use a credit card is what pisses me off%Nthe most about places like these.%K%P
+0x804
+まぁ、いい。%K%P
+Whatever, I guess.%K%P
+0x810
+とにかく今のこの状況を最大限に活用しなければ……。%K%P
+Regardless of all that, I need to make the most of my%Ncurrent situation...%K%P
+0x81C
+僕はレンタルした道具がつまった袋からロッドと釣り糸、浮き、疑似餌をとりだした。%K%P
+I grab the rods, lines, floats, and lure from the bag%Npacked with rental equipment.%K%P
+0x828
+すばやく、それらを組みあわせ、準備を整える。%K%P
+I swiftly assemble everything and get ready.%K%P
+0x834
+遙ちゃんはそんな僕の様子をじっとみていた。%K%P
+Haruka-chan watches intently as I do all this.%K%P
+0x840
+フッ早くも好感触だな。%K%P
+Heh, smooth sailing already.%K%P
+0x86C
+億彦「じゃ、いいかい？　これから僕がやるのをよくみててね」%K%P
+Okuhiko「Paying attention? Watch what comes next.」%K%P
+0x880
+そういって僕はロッドを振って疑似餌を飛ばした。%K%P
+I swing my rod and let the lure fly.%K%P
+0x8B4
+釣り糸に結び付けられた浮きと疑似餌は綺麗な弧を描いて、遠くの海面にぽちゃんと落ちた。%K%P
+The float and lure fastened to the line draw an amazing%Narc before falling to the sea's surface way off in the%Ndistance.%K%P
+0x8C0
+待つこと数分、予想よりも早く浮きが素早く沈む。%K%P
+A handful of minutes pass and the float suddenly sinks.%K%P
+0x8CC
+億彦「よーし！」%K%P
+Okuhiko「We got a live one!」%K%P
+0x8D8
+すかさず、リールを素早く引く。%K%P
+I swiftly draw the reel without a second to waste.%K%P
+0x8E4
+釣り糸が海面を切ってこっちに近づき、やがて海面から浮きと大き目の魚が１匹飛び出してきた。%K%P
+The line cuts the surface in our direction, soon revealing%Nan immense fish jumping from the sea.%K%P
+0x8F8
+遙「すごい」%K%P
+Haruka「Wow.」%K%P
+0x904
+遙ちゃんが感嘆の声を漏らす。%K%P
+Haruka-chan naturally lets out an expression of%Nastonishment.%K%P
+0x918
+くっくっ、いい感じだ。%K%P
+Oooh yeah, that's the stuff.%K%P
+0x924
+僕はにやけた笑みをうかべながら魚から疑似餌を%Nとり、クーラーボックスに突っ込んだ。%K%P
+A grin grows across my face as I grab the lure from the%Nfish and shove my catch into the cooler.%K%P
+0x940
+……と%K%P
+...But then:%K%P
+0x954
+遙「何してるの？」%K%P
+Haruka「What are you doing?」%K%P
+0x960
+億彦「え？」%K%P
+Okuhiko「Huh?」%K%P
+0x96C
+思いのほかきつい口調の遙ちゃんの声に僕は思わず%N身をすくめる。%K%P
+Her tone is so unexpectedly harsh that it makes me%Nflinch.%K%P
+0x99C
+そんな僕を尻目に遙ちゃんはつかつかとクーラーボックスに歩みよると中から先ほど釣ったばかりの魚を取り出し、再び海の中へと戻してしまった。%K%P
+Shooting a glance at me, she approaches the cooler and%Ntakes out my hard-earned catch, placing it back into the%Nsea.%K%P
+0x9D0
+僕は呆然とその光景をみていたが、あわてて我を取り戻す。%K%P
+I can only look on in shock for a moment, though I do end%Nup regaining control of the situation.%K%P
+0x9E4
+億彦「あ、あぁ。キャッチ＆リリースってやつだね。さすが、遙ちゃん。優しいね」%K%P
+Okuhiko「Right, right. Catch and release, yeah? That's my%NHaruka-chan, the kindest woman who ever lived.」%K%P
+0x9F8
+遙「優しい？」%K%P
+Haruka「I'm kind?」%K%P
+0xA04
+億彦「そうだよ。釣った魚を逃がしてあげるなんて」%K%P
+Okuhiko「You know it. Setting free that poor fish we just caught.」%K%P
+0xA18
+遙「私、わからない……私、心がないから」%K%P
+Haruka「I don't understand... because I have no heart.」%K%P
+0xA24
+遙ちゃんはふいっと海のほうに視線をはずした。%K%P
+Haruka-chan shifts her gaze to the sea before us.%K%P
+0xA30
+その顔からはなにも読み取ることはできなかった。%K%P
+I can't read her expression in the slightest.%K%P
+0xA44
+『心がないから』%K%P
+'Because I have no heart.'%K%P
+0xA50
+僕はその言葉を聞くのは初めてではなかった。%K%P
+I've heard her say that phrase before.%K%P
+0xA5C
+昨日、一昨日にわたる僕の求愛攻勢、それに対して遙ちゃんはほとんど無反応だったが、時折返す言葉はほとんどこのセリフで占められていた。%K%P
+Just yesterday and the day before that, she entirely%Navoided my advances. But the few words she spoke%Nwere almost always that same phrase.%K%P
+0xA68
+一体、どういうことなんだろう？%K%P
+What does she even mean by that?%K%P
+0xA74
+確かに遙ちゃんは感情の起伏は激しいとは決して言えない。%K%P
+Sure, you could easily posit that Haruka-chan doesn't%Nquite experience emotional highs and lows like the rest%Nof us.%K%P
+0xA80
+だが、『心がない』というのは……%K%P
+But to say she doesn't have a heart...%K%P
+0xA94
+僕は海を見つめる遙ちゃんを見据える。%K%P
+I fix my eyes on her as she continues staring at the sea.%K%P
+0xAA0
+どうしてだろうか。%K%P
+Why is she the way that she is?%K%P
+0xAAC
+そっけない態度をとり続けている遙ちゃんに対して諦めようなどという気持ちは全く湧き上がってこない。%K%P
+I'm entirely dedicated to never giving up on Haruka-chan,%Neven with that blunt attitude of hers.%K%P
+0xAB8
+逆になんとしてでも遙ちゃんを落としたいという気持ちは高まるばかりだ。%K%P
+Conversely, my thirst for winning her over is stronger%Nthan ever before.%K%P
+0xAC4
+今まで数え切れないほどの女の子と付き合ってきたが、こんなことはなかった。%K%P
+I've been with so many girls that I've lost count. But this?%NI've never experienced this in my life.%K%P
+0xAD0
+遙ちゃんのことをもっと知りたい。%K%P
+I want to know so much more about her.%K%P
+0xADC
+もっと僕のことを知って欲しい。%K%P
+And I want her to know so much more about me.%K%P
+0xAE8
+心の底からそう思う。%K%P
+Those are the deepest desires of the bottom of my%Nheart.%K%P
+0xAF4
+遙ちゃん、君は一体何者なんだい？…….%K%P
+Haruka-chan, just who on earth are you...?%K%P
+0xB00
+心の中で目の前にいる遙ちゃんに問い掛ける。%K%P
+In my mind's eye, I picture myself asking her this.%K%P
+0xB0C
+だが、当然のことながら答えが返ってくるはずもなかった。%K%P
+Not that I expect a reply from doing that.%K%P
+0xB7C
+遙「……いっぱい釣れたね、億彦」%K%P
+Haruka「...That is a lot of fish you have caught, Okuhiko.」%K%P
+0xB88
+顔をオレンジ色に染めた遙ちゃんが言った。%K%P
+She speaks as the setting sun dyes her face orange.%K%P
+0xB9C
+時はすでに夕刻。%K%P
+It's already evening by now.%K%P
+0xBA8
+周りの景色はすっかり夕焼けに包まれている。%K%P
+The scenery all around us has already been completely%Nenveloped by the sunset's glow.%K%P
+0xBB4
+あれから数時間、僕らはすっかり釣りに夢中になってしまっていた。%K%P
+We spent hours just lost in our own little world as we%Ncontinued fishing together.%K%P
+0xBC0
+ロッドを投げ込む度にいとも簡単にヒットしまくったのだ。%K%P
+Fish would come no sooner than I threw my rod.%K%P
+0xBCC
+遙ちゃんは夢中になって何度も何度も釣っては投げ、釣っては投げを繰り返した。%K%P
+Haruka was so lost in it that she would cast her line over%Nand over and over.%K%P
+0xBD8
+そんな遙ちゃんにつられてか、僕も我を忘れて釣りに没頭してしまっていた。%K%P
+Maybe it's because of Haruka-chan that I found myself%Nso enthralled by fishing.%K%P
+0xBE4
+数時間などという時間は僕らにとってはほんの一瞬でしかなかった。%K%P
+Those hours had felt as mere moments.%K%P
+0xBF0
+そして、今僕らはロッジの入り口にたどり着いた。%K%P
+By now, we've made it the entrance of the lodge.%K%P
+0xBFC
+そのまま中に入ろうとする遙ちゃんを僕は慌てて引き止める。%K%P
+Haruka-chan is on her way inside when I quickly try and%Nstop her.%K%P
+0xC08
+億彦「遙ちゃん！」%K%P
+Okuhiko「Haruka-chan!」%K%P
+0xC1C
+遙「何？」%K%P
+Haruka「Yes?」%K%P
+0xC28
+億彦「あのさ、今日は楽しかったかな？」%K%P
+Okuhiko「You had a whale of a time today, yeah?」%K%P
+0xC34
+遙ちゃんは僕の問に、一瞬、逡巡する様子を見せたがすぐに答えた。%K%P
+She seems to hesitate at my question momentarily before%Ninstantly giving her answer.%K%P
+0xC58
+遙「うん、楽しかったよ。今までにないくらい」%K%P
+Haruka「Yes, I had a fun time. More than ever before.」%K%P
+0xC88
+そういうと遙ちゃんはすばやくドアを開け、ロッジの中へと入っていった。%K%P
+With that, she nimbly opens the door and goes inside.%K%P
+0xC94
+頬を僅かに染めながら。%K%P
+She does this while slightly blushing.%K%P
+0xCA0
+……染めながら！？%K%P
+...WHILE BLUSHING?!%K%P
+0xCD0
+億彦「……う、うぉぉぉっっっ！」%K%P
+Okuhiko「Ooooooohhiiiiee!」%K%P
+0xCDC
+思わず僕は柄にもなく嬌声をあげていた。%K%P
+I instinctively let out a very unusual noise.%K%P
+0xCE8
+あの遙ちゃんが！　何をいっても素っ気無かった遙ちゃんが！　頬を染めて答えてくれた！？%K%P
+Oh, my Haruka-chan! My Haruka-chan, so blunt in%Nresponse to anything I might say! And yet you blush?!%K%P
+0xCFC
+億彦「いける！　これはいけるぞ！」%K%P
+Okuhiko「I am so in! I've got this in the bag!」%K%P
+0xD08
+ついに遙ちゃんの頑なな扉をほんの僅かだが開くことに成功したのだ！%K%P
+That stubborn door of Haruka-chan's has finally been%Nopened! If only just a little!%K%P
+0xD14
+ふっふっふっ！　ざまあみろ、石原！　どうやら１歩リードしたのは僕のほうだな！%K%P
+Mwahahaha! In your face, Ishihara! I am he who is one step%Nahead!%K%P
+0xD20
+やってやるぜ！　遙ちゃんのハートを最終的にゲットするのは俺だ！　はっはっはっ！%K%P
+Let's do this! I'll show you that Haruka-chan's heart%Nbelongs to ME! HAHAHA!%K%P
+0xD44
+優夏「おんや、なんだかたのしそうれすねぇ、億彦たん？」%K%P
+Yuka「Oooh? Yer sure havin' fuuun, huh, Okuhiko-taaan?」%K%P
+0xD60
+億彦「いやーそうなんだよ。実は遙ちゃんが……」%K%P
+Okuhiko「Oh, it's nothing, really. You see, actually, Haruka-chan%Nwas just...」%K%P
+0xD90
+億彦「っておわぁっ！？」%K%P
+Okuhiko「Wha―hey?!」%K%P
+0xD9C
+いきなり目の前に現れた優夏ちゃんの顔に僕は思わずのけぞった。%K%P
+I spontaneously fall backwards at Yuka-chan's face%Nsuddenly appearing in front of my own.%K%P
+0xDCC
+優夏「ん？　なんなんれすかぁ？　ひとのかおみておどろいて。失礼なひとれすねぇ」%K%P
+Yuka「Mm? Whas'a matter? You sheem shocked... at my faysh.%NIsh rude to shtare.」%K%P
+0xDD8
+優夏ちゃんはジト目で僕を睨み、ずずいっとさらに%N僕との距離を詰めた。%K%P
+She glares at me with contempt as she slowly closes the%Ndistance between the two of us.%K%P
+0xDE4
+その口から、いや全身から猛烈なアルコール臭が%N漂う。%K%P
+I can smell the alcohol on her, it's obvious from her%Nbreath... or rather, her whole body.%K%P
+0xDF0
+みればその右手には一升瓶が握られていた。%K%P
+Taking a closer look, I can see a whole 1.8 liter bottle of%Nsake in her right hand.%K%P
+0xDFC
+側面に『地酒　夜叉猿』というラベルが貼られている。%K%P
+It's labeled "Local Sake Yashazaru" on the side.%K%P
+0xE10
+億彦「ゆ、優夏ちゃん、大分酔ってるみたいだね」%K%P
+Okuhiko「Y-Yuka-chan, you seem *really* drunk right now.」%K%P
+0xE24
+優夏「んーあんだってー？」%K%P
+Yuka「Wham'd you jus' shay?」%K%P
+0xE30
+億彦「いや、飲みすぎだって……」%K%P
+Okuhiko「I just mean, you've had too much to drink...」%K%P
+0xE44
+優夏「あー！　はいはい、億彦たんも飲みたいのね。はい、どうじょ」%K%P
+Yuka「Aaah! Riiigh', riiigh'o. O-Okuhiko-tan wan get a little drinky%Ntoo! 'Kaaay, drin' up!」%K%P
+0xE58
+億彦「あ、こりゃどうも」%K%P
+Okuhiko「Wow, thanks.」%K%P
+0xE6C
+億彦「ってちっがーう！　……はぁ。もういいよ。気のすむまで飲んでてください」%K%P
+Okuhiko「...NOT! *Sigh*... I've had enough. Just drink your own%Nshare for all I care.」%K%P
+0xE80
+僕はそう言って優夏ちゃんに背を向けた。%K%P
+I turn around and leave Yuka with those words.%K%P
+0xE8C
+が！%K%P
+But then!%K%P
+0xE98
+優夏「こぉんら、億彦ぉー！　人の勧めた酒を飲めんとは%N何様のつもりじゃあー！　おのれぇ……成敗！」%K%P
+Yuka「'Ow could you, O-Okuhikooo! Who'd you think y'are, turning%Ndown a drink some'n just offered you! I shay... off with yer%Nhead!」%K%P
+0xEA4
+億彦「え？」%K%P
+Okuhiko「Huh?」%K%P
+0xEB0
+何かを振りかぶる音に僕は優夏ちゃんの方を向き直ろうとするが……%K%P
+Upon hearing something in her hands, I try to turn back%Naround, but...%K%P
+0xF04
+ゴインッ%K%P
+*THUMP*%K%P
+0xF10
+億彦「ひゃいっ！」%K%P
+Okuhiko「Aaaaiiiieeee!」%K%P
+0xF40
+後頭部に凄まじい衝撃を受け、僕は床に倒れ付した。%K%P
+An enormous impact reaches the back of my head before%NI simply fall to the floor.%K%P
+0xF4C
+意識を失う寸前、僕が見たものは血痕がついた%N一升瓶を握り締めている優夏ちゃんの姿だった……。%K%P
+As my consciousness leaves me, I'm met with one final%Nsight: Yuka standing before me, clutching one very%Nbloodstained bottle...%K%P
+0xF98
+？？「……くん」%K%P
+??「...-kun.」%K%P
+0xFA4
+？？「……ひこくん」%K%P
+??「...hiko-kun.」%K%P
+0xFB0
+？？「……億彦くん！」%K%P
+??「...Okuhiko-kun!」%K%P
+0xFBC
+耳元で誰かが僕の名前を呼んだ。%K%P
+I can hear someone calling me.%K%P
+0xFC8
+億彦「う、うーん」%K%P
+Okuhiko「Y-Yeah?」%K%P
+0xFD4
+ズキズキする後頭部を抑えながら、僕はなんとか起き上がる。%K%P
+Despite the throbbing pain in my head, I manage to get up.%K%P
+0x1030
+優夏「大丈夫、億彦くん？」%K%P
+Yuka「Are you all right, Okuhiko-kun?」%K%P
+0x103C
+目の前には心配そうな顔をしてこちらを見つめる、テニスウェア姿の優夏ちゃんがいた。%K%P
+Yuka-chan is standing in front of me in tennis attire,%Nwearing an apparently concerned expression.%K%P
+0x1048
+……ってテニスウェア？%K%P
+...Wait, tennis attire?%K%P
+0x105C
+優夏「もぅー心配したよー。ごめんね、ラケット思いっきりぶつけちゃって」%K%P
+Yuka「I was so, so worried! I guess I put a bit too much strength%Ninto my racket, I'm sorry about that.」%K%P
+0x1070
+優夏ちゃんの言葉に慌てて当たりを見渡す。周りには数面のテニスコートが広がっていた。%K%P
+Her words cause me to examine my surroundings in a%Npanic. We're completely encircled by tennis courts.%K%P
+0x108C
+も、もしかして……%K%P
+D-Don't tell me...%K%P
+0x1098
+腕にはめていた時計の日付表示に目を落とす。%K%P
+I look down on my watch and look at the date.%K%P
+0x10C0
+……し、４月１日！？%K%P
+A-April 1st?!%K%P
+0x10D4
+優夏「そういえば、気を失っている間。億彦くん、なんか遙ちゃんがどうとか釣りがどうとかつぶやいていたけど……？」%K%P
+Yuka「You know, you were out for a while. I think you said%Nsomething about... fishing? And Haruka-chan?」%K%P
+0x110C
+億彦「のわぁぁぁぁっ！！！」%K%P
+Okuhiko「NOOOOOOOOOOOOOOOOOOOOOOOOOO!!!」%K%P
+0x1118
+僕は思わず絶叫していた。%K%P
+A scream leaves my body before I even realize it.%K%P
+0x1124
+億彦「い、今までのは全て夢か？　僕はずっと４月１日に優夏ちゃんにテニスラケットで殴られて気を失っていたのか？」%K%P
+Okuhiko「Was all of it just a dream? Had it really just been%Nbecause Yuka had smacked me with a racket on April%N1st?」%K%P
+0x1130
+億彦「せ、せっかく遙ちゃんと少し仲良くなれたと思ってたのにぃ！」%K%P
+Okuhiko「I-I thought I got to know Haruka-chan, even just a little!」%K%P
+0x114C
+優夏「え？　お、億彦くん何言ってるの？」%K%P
+Yuka「Um... O-Okuhiko-kun, what are you talking about?」%K%P
+0x1160
+優夏ちゃんが心配そうに僕に声をかけるが、僕は力なく微笑みを返すだけで精一杯だった。%K%P
+Yuka-chan is clearly worried about me, but the most I can%Ndo is flash a weak smile in response.%K%P
+0x1174
+優夏「うーん、やっぱり打ち所が悪かったのかしら。病院行く？」%K%P
+Yuka「Hmm... Maybe I hit a really critical spot. Should we take%Nyou to the hospital?」%K%P
+0x1180
+億彦「……いや、いいよ。それよりテニス、やろうか？　どうせ石原たちは既に海にいっちゃったんだろ？」%K%P
+Okuhiko「...No, I'm fine. Let's just... play tennis, okay? Ishihara and%Nthe girls are already over near the sea, aren't they?」%K%P
+0x1194
+優夏「う、うん。そうだけど。本当に大丈夫、億彦くん？」%K%P
+Yuka「Y-Yeah. They are, but even... are you *sure* you're all%Nright, Okuhiko-kun?」%K%P
+0x11A0
+億彦「ああ、ばっちりさ！　それよりはやいとこやろうじゃないか」%K%P
+Okuhiko「Yeah, better than ever! Let's get this show on the road.」%K%P
+0x11AC
+僕は半ばヤケクソ気味に叫んだ。%K%P
+Half of me screams this out of sheer desperation.%K%P
+0x11B8
+何か無性にむしゃくしゃして体を動かさなくて気がすまなくなっていたのだ。%K%P
+Being stuck on some irritatingly sexless feeling compels%Nme to get my body moving already before I lose my mind%Nthinking about it.%K%P
+0x11CC
+優夏「わかった。よーしじゃあやろうか！」%K%P
+Yuka「Sure thing, then. Let's get started!」%K%P
+0x11F0
+優夏ちゃんはそう言うとコートに立ち、僕と向かい合った。そしてラケットとボールを構える。%K%P
+Yuka-chan gets herself set facing me as she says this,%Nthen brandishing her racket and the ball.%K%P
+0x1220
+優夏「この日のために開発した新サーブ！　受けるがよい！」%K%P
+Yuka「I have been developing this serve for this day! Take%NTHIS!」%K%P
+0x122C
+億彦「え？　新サーブ」%K%P
+Okuhiko「Huh? A serve you developed?」%K%P
+0x1238
+優夏「名づけて！　『ディープアルマゲドンメテオインパクトサーブ！』」%K%P
+Yuka「Go forth! Deep Armageddon Meteor Impact Serve!」%K%P
+0x1244
+優夏ちゃんは叫ぶと、ボールを空高く舞い上げた！%K%P
+Yuka-chan shouts with all her heart as she launches the%Nball into high orbit.%K%P
+0x1250
+そしてボールが落下してきた次の瞬間！%K%P
+And then, as the ball drops...!%K%P
+0x125C
+優夏「隕石さん、隕石さん！　私が生きてる間は地球にはやってこないで！」%K%P
+Yuka「Meteorite, oh meteorite! So long as I live, stay far above%Nthis earth!」%K%P
+0x1270
+優夏「ドカドカズドズドボコボコドォーン！」%K%P
+Yuka「Bam! Thud! Crash! BOOM!」%K%P
+0x12C4
+まさに隕石のように凄まじいスピードとパワーをもって優夏ちゃんのサーブが放たれた。%K%P
+She delivers her serve with the speed and power of an%Nactual meteorite.%K%P
+0x12D0
+ボールは狙い違わず、億彦の顔面を！　……って、え？%K%P
+The ball perfectly aims for... Okuhiko's face! ...Wait, what?%K%P
+0x1308
+億彦「ぶぎゅるわっ！」%K%P
+Okuhiko「BAGHWAH!」%K%P
+0x1314
+顔面にモロにボールを食らい、僕はあっけなく倒れ伏した。%K%P
+The ball slams against my face and I fall to the ground%Ninstantly.%K%P
+0x134C
+優夏「きゃぁっ！？　億彦くん、大丈夫？」%K%P
+Yuka「Eek! O-Okuhiko-kun, are you all right?」%K%P
+0x137C
+薄れゆく意識の中で、駆け寄ってきた優夏ちゃんが%N懸命に僕を揺り動かすのがわかった。%K%P
+I can feel Yuka-chan running up to me and shaking me as%Nhard as possible as my consciousness starts to fade.%K%P
+0x1388
+（い、いいんだよ。優夏ちゃん。そのままで）%K%P
+(Th-This is fine, Yuka-chan. Really. Things are fine as they%Nare...)%K%P
+0x1394
+僕は胸中で呟いた。%K%P
+I can only groan within my own mind.%K%P
+0x13A0
+（ちょっと、しばらくの間、寝させてくれ……%Wも%Wう、%W%N疲%Wれ%Wた）%K%P
+(Let me lie here for the time being, please...%W%N I'm%W so%W worn%W out...)%K%P
+0x13D8
+ゆっくりと薄れゆく意識の中で僕は最後にこう思った。%K%P
+Those are my final thoughts as my consciousness slowly%Ndims.%K%P
+0x13E4
+（僕にしばらく……%T030しばらくの間……）%K%P
+(For the time being... %T030if only for a minute...)%K%P
+0x1410
+（休みを……%T060ＣＵＲＥ《くれ》）%K%P
+(Because a rest... %T060would be the cure)%K%P

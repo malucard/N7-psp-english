@@ -15,10 +15,13 @@ def read_strings_from_table(all_bytes, seg_table, seg_strings):
   for i, off in enumerate(offsets):
     table_offs = i*4+seg_table[0]
     # [workaround] skip areas which do not have text references:
-    if 0x46a0 <= table_offs < 0x5350: continue
-    if 0x7520 <= table_offs < 0x7610: continue
-    if 0x7f90 <= table_offs < 0x86f8: continue
+    #if 0x46a0 <= table_offs < 0x5350: continue
+    #if 0x7520 <= table_offs < 0x7610: continue
+    #if 0x7f90 <= table_offs < 0x86f8: continue
     # if 0x7f90 <= table_offs < 0x871c: continue
+    if 0x5250 <= table_offs < 0x58f0: continue
+    if 0x7ec8 <= table_offs < 0x7fbc: continue
+    if 0x8820 <= table_offs < 0x92b4: continue
 
     if (seg_strings[0] <= off < seg_strings[1]):
       end = all_bytes.find(b"\x00", off)
@@ -70,8 +73,11 @@ def main():
   seg_chrono_table = [0x90dc, 0xac98]
   seg_chrono = [0x26be8, 0x2c11a]
 
-  seg_all_table = [0x1140, 0xac98]
-  seg_all = [0xba68, 0x2c11a]
+  # seg_all_table = [0x1140, 0xac98]
+  # seg_all = [0xba68, 0x2c11a]
+
+  seg_all_table = [0x1ba8, 0x9904] 
+  seg_all = [0xaf80, 0x2254f]
 
   initbin_path = sys.argv[1] if len(sys.argv) > 1 else "init.dec"
 
@@ -80,12 +86,12 @@ def main():
   f.close()
 
   # these are only extracted for convenience
-  res_init = read_strings_from_table(all_bytes, seg_init_table, seg_init)
-  res_tips = read_strings_from_table(all_bytes, seg_tips_table, seg_tips)
-  res_chrono = read_strings_from_table(all_bytes, seg_chrono_table, seg_chrono)
-  write_results_to_file("init",   res_init)
-  write_results_to_file("tips",   res_tips)
-  write_results_to_file("chrono", res_chrono)
+  # res_init = read_strings_from_table(all_bytes, seg_init_table, seg_init)
+  # res_tips = read_strings_from_table(all_bytes, seg_tips_table, seg_tips)
+  # res_chrono = read_strings_from_table(all_bytes, seg_chrono_table, seg_chrono)
+  # write_results_to_file("init",   res_init)
+  # write_results_to_file("tips",   res_tips)
+  # write_results_to_file("chrono", res_chrono)
 
   # all strings go here
   res_all = read_strings_from_table(all_bytes, seg_all_table, seg_all)

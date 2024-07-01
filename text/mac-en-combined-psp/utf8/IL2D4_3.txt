@@ -1,0 +1,165 @@
+text area offset and size:
+0x628
+0xAD2
+0x5C
+At Princess Beach, everyone makes the preparations%Nfor the barbecue.%K%P
+
+0x68
+At Okuhiko's request, Izumi-san brought some medicine%Nfrom Lunabeach to stop the diarrhea he was suffering%Nfrom.%K%P
+
+0x74
+Right now, Okuhiko is holding the medicine in his hand%Nwhile apparently looking for water.%K%P
+
+0x80
+When Yuka sees Okuhiko like that, she suddenly speaks%Nup.%K%P
+
+0x94
+Yuka「Hey～, Makoto～. Did you steal them?」%K%P
+
+0xA0
+Makoto「Huh?」%K%P
+
+0xAC
+Yuka「You stole the rice balls that I made for lunch, didn't you?」%K%P
+
+0xB8
+Makoto「I didn't know about that.」%K%P
+
+0xC4
+Anyway, there's no way in hell that I'd want to eat your%Ncooking again.%K%P
+
+0xD8
+Yuka「Huh? That's strange. Even though I was so certain that it%Nwas you...」%K%P
+
+0xE4
+Yuka「I placed them on the table in the living room.」%K%P
+
+0x100
+Haruka「If that's the case, then I took them...」%K%P
+
+0x114
+Yuka「Huh?」%K%P
+
+0x120
+Makoto「Then you ate them, Haruka?」%K%P
+
+0x12C
+Haruka shakes her head.%K%P
+
+0x138
+Yuka「Then who was it?」%K%P
+
+0x144
+Haruka「It was...」%K%P
+
+0x160
+Okuhiko「BLEH!」%K%P
+
+0x16C
+Okuhiko tries to take the medicine, but spits it out.%K%P
+
+0x180
+Okuhiko「*cough* *cough* *cough*...」%K%P
+
+0x194
+Yuka「???」%K%P
+
+0x1A0
+Makoto「It must be hard to try to take medicine like that without%Nany water, huh...?」%K%P
+
+0x20C
+Before long, we've reached the climax of the barbecue.%K%P
+
+0x218
+Everyone continues to put on the fine performances%Nthey've done so far.%K%P
+
+0x240
+Saki "messes up" and spills beer on Yuka, just like last%Ntime.%K%P
+
+0x280
+Yuka「... H-Hey, Shakiiiiii...」%K%P
+
+0x294
+Saki「... S-Sorry.」%K%P
+
+0x2A0
+They're going to fight again... Oh brother.%K%P
+
+0x2AC
+Okuhiko, thinking this is a real fight, seems to be%Npanicking.%K%P
+
+0x2B8
+(You'd think he'd be calm the second time...)%K%P
+
+0x2C4
+... At least, that's what I think.%K%P
+
+0x2E0
+Haruka「Only apologizing twice... is hardly what you'd call%N'countless'.」%K%P
+
+0x2F4
+Saki「Twice is enough for this shameful drunkard, right?!」%K%P
+
+0x310
+Yuka「Shameful drunkahd!?」%K%P
+
+0x31C
+(Haah... here it comes...)%K%P
+
+0x328
+(Well, at least it's just acting...)%K%P
+
+0x334
+I stand by on the sidelines, watching as a spectator.%K%N
+
+0x340
+But...%K%P
+
+0x370
+Yuka「Mmmph～～～!! Dash it, eyam pisshed!!!」%K%P
+
+0x384
+Saki「... Huh?」%K%P
+
+0x3AC
+It seems Yuka is really angry.%K%P
+
+0x3B8
+She looks really drunk...%K%P
+
+0x3CC
+Saki「Ow, ow... AGH! You've done it now!!!」%K%P
+
+0x3D8
+Yuka「Kya! Yuu shcratched me wif yer nailsh... Damn yuu～!」%K%P
+
+0x3E4
+And so, a big fight begins between both of them, one%Nthat we had not planned.%K%P
+
+0x3F0
+Makoto「H-Hey... Stop it, you idiots!」%K%P
+
+0x3FC
+Haruka and I restrain Saki, and Izumi-san and Okuhiko%Nrestrain Yuka.%K%P
+
+0x408
+The four of us manage to somehow separate them.%K%P
+
+0x41C
+Yuka「Haah... haah...」%K%P
+
+0x430
+Saki「Aah... Aah...」%K%P
+
+0x43C
+Izumi「Yuka-chan, Saki-chan. P-Please... calm down, okay?」%K%P
+
+0x448
+I grab Saki by the arm.%K%P
+
+0x464
+Makoto「Izumi-san! I'll calm down Saki, so I'll leave Yuka to you!」%K%P
+
+0x470
+After that, I take Saki away from the others, and settle%Ndown by the rock wall...%K%P
+

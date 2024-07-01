@@ -1,0 +1,147 @@
+text area offset and size:
+0x650
+0xB43
+0x134
+The silence is pierced by the sudden sound of my watch%Nalarm going off.%K%P
+
+0x140
+Makoto「M... Mmm...」%K%P
+
+0x15C
+I wiggle my hand out of the covers, and shut my watch%Nalarm off.%K%P
+
+0x168
+Since I didn't get enough sleep, my head is still hazy.%K%P
+
+0x174
+(Geez, asking me to come over this late at night...)%K%P
+
+0x180
+(Izumi-san... just what is it that she wants with me?)%K%P
+
+0x18C
+I don't have the slightest idea what the true reason%Ncould be, but at any rate, there's no way I can break my%Npromise to her...%K%P
+
+0x198
+I force myself to jump out of bed, and stretch my stiff%Nlimbs.%K%P
+
+0x1A4
+Makoto「Well then... time to go...」%K%P
+
+0x1B0
+I mutter to myself as I pass through the empty living room%Nand head for the front door.%K%P
+
+0x1E8
+Of course, there's no one in the living room.%K%P
+
+0x1F4
+I let out a sigh in the quiet, empty room.%K%P
+
+0x200
+I can hear Okuhiko snoring from up in the loft.%K%P
+
+0x20C
+Okuhiko「Hey! Wait!」%K%P
+
+0x218
+... Okuhiko suddenly shouts in a roaring voice.%K%N
+
+0x224
+When I look up in surprise...%K%P
+
+0x2A0
+Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
+
+0x2B4
+Okuhiko「Neutrino Energy, Power On! ... Trans～form! ... There! ...%NZzz...」%K%P
+
+0x2C8
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+
+0x2DC
+Okuhiko「Good work... Zzz...」%K%P
+
+0x2F0
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+
+0x304
+... It seems he's just sleeptalking.%K%P
+
+0x310
+(Whew... Man, what kind of dream is he having anyway...?)%K%P
+
+0x31C
+I ignore Okuhiko and head towards Lunabeach, where%NIzumi-san is waiting.%K%P
+
+0x388
+When I arrive at Lunabeach, Izumi-san is already waiting%Nfor me outside.%K%P
+
+0x394
+Makoto「Good evening, Izumi-san.」%K%P
+
+0x3A8
+Izumi「Good evening, Makoto-kun.」%K%P
+
+0x3B4
+Makoto「You're out early. Were you waiting this whole time?」%K%P
+
+0x3C8
+Izumi「Yes... I was sort of waiting impatiently for you to arrive.」%K%P
+
+0x3D4
+Izumi-san casts her gaze slightly downward as she%Nsays this.%K%P
+
+0x3E0
+Izumi「It's a little cold, huh...?」%K%P
+
+0x3EC
+Izumi-san sighs as she says this.%K%P
+
+0x3F8
+It certainly is cold tonight.%K%P
+
+0x404
+"I'm cold too, so let's hurry up and go inside."%K%P
+
+0x410
+I try to say that, but Izumi-san beats me to the punch.%K%P
+
+0x424
+Izumi「Hey... how about we go to Viewpoint Park, at the cape?」%K%P
+
+0x430
+Makoto「Huh?」%K%P
+
+0x43C
+Makoto「But just now... you said it was cold...」%K%P
+
+0x448
+Izumi「Right. So let's try running for a bit.」%K%P
+
+0x454
+Makoto「Uh... sure...」%K%P
+
+0x468
+Izumi「Come on! Let's go!」%K%P
+
+0x47C
+I don't really get what she's up to, but for now, I just start%Nrunning after Izumi-san.%K%P
+
+0x4DC
+In the middle of running through the cherry blossom%Ntree-lined road, I start to wonder about something.%K%P
+
+0x4E8
+(Izumi-san, what are you thinking...?)%K%P
+
+0x4F4
+(Going to Viewpoint Park in the middle of the night... why%Nare you doing this?)%K%P
+
+0x500
+From time to time, Izumi-san looks over her shoulder to%Nsee if I'm still there.%K%P
+
+0x50C
+However, her expression is unreadable.%K%P
+
+0x56C
+... ... ...%K%P
+

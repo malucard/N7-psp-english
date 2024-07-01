@@ -1,0 +1,264 @@
+text area offset and size:
+0x7E0
+0x138E
+0x154
+The next morning... I wake up, kill time in the living room for%Na little while, then head for Saki's summer house.%K%P
+
+0x160
+The time is "10:12 A.M."%K%N
+
+0x16C
+It should be at this exact time that the puppy comes%Nover to see Saki.%K%P
+
+0x178
+When I head around to the backyard, I see Saki feeding%Nthe puppy, just as expected.%K%P
+
+0x184
+The puppy devours the food while happily wagging its%Ntail.%K%P
+
+0x190
+Makoto「Yo, Saki!」%K%P
+
+0x19C
+I cheerfully call out to her.%K%P
+
+0x1E8
+Saki「M-Makoto-kun...!」%K%P
+
+0x1F4
+Makoto「That puppy's as energetic as always, huh?」%K%P
+
+0x200
+Saki「...」%K%P
+
+0x20C
+Saki gets flustered as she desperately searches for%Nwords.%K%P
+
+0x218
+Before Saki can say anything, I speak first.%K%P
+
+0x224
+Makoto「It's all right. Don't say anything...」%K%P
+
+0x230
+Makoto「I've known this whole time that you've been taking care%Nof this puppy...」%K%P
+
+0x23C
+Saki「... Huh?」%K%P
+
+0x248
+Makoto「I also know that on the 1st, you ordered the pizza for%Nthat puppy's sake.」%K%P
+
+0x254
+Makoto「And also... I might also know why you like animals and%Nplants...」%K%P
+
+0x260
+Saki「...」%K%P
+
+0x26C
+Makoto「You can't trust people... but animals and plants don't tell%Nlies... right?」%K%P
+
+0x280
+Saki「That's right. They don't speak words. They don't need to.」%K%P
+
+0x28C
+Makoto「But Saki... Don't you think that's a little wrong?」%K%P
+
+0x298
+Saki「...」%K%P
+
+0x2B4
+Makoto「The Magician's Portrait...」%K%P
+
+0x2E4
+Saki「!!!」%K%P
+
+0x2F0
+Saki instantly trembles in shock, and turns towards me.%K%P
+
+0x2FC
+Makoto「It was during your cultural festival in middle school, ri-」%K%P
+
+0x310
+Saki「Did you hear about it from Yuka...?」%K%P
+
+0x31C
+I slowly nod. It's partially a lie...%K%P
+
+0x328
+In this timeline, I never heard the story from Yuka.%K%P
+
+0x334
+However, she told it to me last time...%K%P
+
+0x348
+Saki「I... I wanted... to look at it all alone.」%K%P
+
+0x354
+Saki's eyes fill with tears...%K%P
+
+0x360
+Saki「I just wanted to see it alone when no one was around!」%K%P
+
+0x374
+The instant she says this, large tears pour from her%Neyes.%K%P
+
+0x380
+She tries to control herself by standing rigidly as if%Nshe's rooted into the ground, but her thin shoulders%Nquiver.%K%P
+
+0x38C
+She clenches her hands into tight fists.%K%P
+
+0x398
+The tears flying off her face... fall onto those small fists.%K%P
+
+0x3A4
+Makoto「The magician Yuka drew... was really incredible, wasn't it?」%K%P
+
+0x3B0
+Saki looks at me.%K%P
+
+0x3BC
+Her gaze is filled with loneliness.%K%P
+
+0x3C8
+Saki nods while biting her lip.%K%P
+
+0x3D4
+New tears overflow in her eyes.%K%P
+
+0x3F0
+Makoto「Hey, Saki? I know the truth...」%K%P
+
+0x3FC
+Saki「...」%K%P
+
+0x408
+Makoto「You weren't running away because you destroyed the%Npainting...」%K%P
+
+0x41C
+Saki「... Huh?」%K%P
+
+0x428
+Makoto「It's because you just... didn't want anyone to see you%Ncrying...」%K%P
+
+0x458
+Saki「...」%K%P
+
+0x464
+Makoto「... Right?」%K%P
+
+0x470
+Saki gives a lonely nod and mutters this.%K%P
+
+0x47C
+Saki「The only ones who will listen to what I have to honestly%Nsay is this stray cat who lives at my school and this%Ncherry blossom tree on my campus...」%K%P
+
+0x488
+Makoto「... You're wrong, Saki...」%K%P
+
+0x494
+Makoto「There's one more person you can talk honestly to...」%K%P
+
+0x4A0
+Saki「...?」%K%P
+
+0x4AC
+Makoto「He's right here.」%K%P
+
+0x4B8
+Saki「Makoto-kun...」%K%P
+
+0x4C4
+Makoto「You don't need words...」%K%P
+
+0x4D0
+Makoto「I'll become the cat and the cherry blossom tree.」%K%P
+
+0x4DC
+Tears fill up Saki's eyes yet again.%K%P
+
+0x4E8
+I embrace Saki without a word.%K%P
+
+0x4FC
+Makoto「That's enough. I don't want to see you cry...」%K%P
+
+0x508
+Makoto「I told you before- I trust you, Saki.」%K%P
+
+0x514
+Makoto「And from now on, I'll continue to trust you...」%K%P
+
+0x520
+Makoto「No matter what happens... I will only trust you... forever...」%K%P
+
+0x52C
+Saki nods while burying her face into my chest.%K%P
+
+0x538
+Yes... that's right...%K%P
+
+0x544
+No matter what happens, no matter what anyone says, I%Nwon't repeat the same mistake.%K%P
+
+0x550
+I'll definitely continue to believe in Saki...!%K%P
+
+0x55C
+I swear this to myself.%K%P
+
+0x5C4
+Before long, the day ends... Izumi-san and Kurumi come%Nover to the lodge to sleep over.%K%P
+
+0x5D0
+The sisters are as cheerful as ever.%K%P
+
+0x5DC
+Saki doesn't act rude towards them and has fun.%K%P
+
+0x5E8
+Yuka also doesn't seem bothered about the "Magician's%NPortrait" incident, too.%K%P
+
+0x5F4
+Actually, it might be better to say that it's possible that%Nshe's completely forgotten about it.%K%P
+
+0x600
+So as long as the bell itself doesn't show up, there'll be%Nnothing to remind me of those unpleasant memories of%Nmine.%K%P
+
+0x60C
+The right way for me to live is probably for me to leave all%Nthose negative things behind me.%K%P
+
+0x618
+... That's what I think.%K%P
+
+0x640
+Just like last time, Izumi-san came here carrying her%Nbulging handbag around her arm.%K%P
+
+0x64C
+Of course, inside it is today's earnings from Lunabeach.%K%P
+
+0x658
+The fateful day has finally arrived.%K%P
+
+0x664
+Sometime between tonight and tomorrow's sunrise,%Nsomeone will probably come and steal all our money.%K%P
+
+0x670
+This time, I'll prove Saki's innocence!%K%P
+
+0x67C
+If I do that, then that incident tomorrow shouldn't happen!%K%P
+
+0x688
+I sit down by myself on the living room sofa, deciding to%Nstand watch all night.%K%P
+
+0x694
+Everyone else is in their own rooms. Only Saki went back,%Nreturning to her summer house.%K%P
+
+0x6A0
+From Yuka's room, I can hear the sounds of girls' cheerful%Nvoices.%K%P
+
+0x6AC
+As I listen to them chatter, I determinedly continue to wait%Nfor the real criminal to show up...%K%P
+

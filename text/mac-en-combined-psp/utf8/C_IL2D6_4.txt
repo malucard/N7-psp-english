@@ -1,0 +1,105 @@
+text area offset and size:
+0x598
+0x64E
+0x28C
+My head strikes the asphalt.%K%P
+
+0x2A4
+The dull sound of something rupturing echoes inside my%Nbody.%K%P
+
+0x2B0
+My legs have been bent in unnatural directions.%K%P
+
+0x2BC
+Strangely, there's no pain...%K%P
+
+0x2C8
+It's not just pain; I've lost all sensation throughout my%Nentire body.%K%P
+
+0x2D4
+I try to stand up, but I'm not sure where or how to put%Nstrength in my body.%K%P
+
+0x2E0
+I just barely manage to move my head.%K%P
+
+0x2EC
+I see Izumi-san nearby me, also badly wounded.%K%P
+
+0x324
+Izumi「... Makoto... kun...」%K%P
+
+0x330
+A faint voice comes out of Izumi-san's barely opened%Nmouth.%K%P
+
+0x33C
+(―Izumi-san!)%K%P
+
+0x348
+I try to scream this out...%K%P
+
+0x354
+... But instead of words coming out of my mouth...%Noverflowing blood comes out instead.%K%P
+
+0x360
+It flows from my mouth and begins to dissolve in the%Nwater...%K%P
+
+0x36C
+I try to crawl over to Izumi-san's side, as if my body's not%Nlistening to what it's being told.%K%P
+
+0x378
+Izumi「... Makoto... kun...」%K%P
+
+0x384
+Izumi「... This... is... the end...」%K%P
+
+0x390
+Izumi「... With this... it's all... over...」%K%P
+
+0x39C
+Makoto「...」%K%P
+
+0x3A8
+Izumi「... The stars...」%K%P
+
+0x3B4
+Izumi「... were beautiful...」%K%P
+
+0x3C0
+Izumi「... The stars were...」%K%P
+
+0x3CC
+Izumi-san slowly begins to close her eyes...%K%P
+
+0x3D8
+I can't do anything...%K%P
+
+0x3E4
+I can't call out to her or touch her...%K%P
+
+0x3F0
+(Why...)%K%P
+
+0x3FC
+(Why... did... this...)%K%P
+
+0x408
+I writhe in deep sadness.%K%P
+
+0x414
+I feel no anger this time.%K%P
+
+0x420
+In my heart, all I feel is swirling, endless emptiness.%K%P
+
+0x434
+My vague consciousness is fading... Everything before%Nme begins to turn white...%K%P
+
+0x440
+I can vaguely see something faint...%K%P
+
+0x44C
+... A coldly shining... silver... light...%K%P
+
+0x4B4
+In that instant, my consciousness suddenly comes to%Nan end...%K%P
+

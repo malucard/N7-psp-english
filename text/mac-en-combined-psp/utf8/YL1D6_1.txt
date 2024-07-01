@@ -1,0 +1,288 @@
+text area offset and size:
+0xA48
+0x12DD
+0x17C
+I realize that the rain has been pelting the window of my%Nroom without my noticing of it.%K%P
+
+0x188
+It's a terrible downpour.%K%N
+
+0x194
+The sound of rain irritates me for some reason.%K%P
+
+0x1A0
+How long will it be until the night ends?%K%N
+
+0x1AC
+I anxiously await the sunrise.%K%P
+
+0x1B8
+Feeling the urge to move, I jump off the bed...%K%P
+
+0x1FC
+I open the bent door, and enter the living room.%K%N
+
+0x208
+I want to check the eastern skies...%K%P
+
+0x230
+When I approach the window, I hear the cuckoo clock five%Ntimes in a row.%K%P
+
+0x23C
+As the bird chirps, I look out the window to find that the%Nwhole sky is grey.%K%P
+
+0x248
+Daybreak is near.%K%P
+
+0x254
+Knowing that makes me feel a little relieved.%K%N
+
+0x260
+That faint relief makes me feel drowsy.%K%P
+
+0x26C
+I haven't gotten a wink of sleep at all tonight.%K%N
+
+0x278
+Now I might be able to do so.%K%P
+
+0x284
+I'll go back to my room and try again...%K%P
+
+0x29C
+I briskly walk back in front of my room.%K%P
+
+0x2B8
+―Hmm?%K%P
+
+0x2F0
+I suddenly notice it.%K%N
+
+0x2FC
+The door to Yuka's bedroom, which is right next to mine...%Nis slightly ajar.%K%P
+
+0x334
+I quietly open it...%K%P
+
+0x36C
+―She's not here!!!%K%N
+
+0x378
+Yuka isn't here!%K%P
+
+0x384
+Her bed is completely empty.%K%P
+
+0x390
+There's a notepad on top of a white table near the%Nwindow...%K%P
+
+0x3C8
+"Dear Makoto..."%K%P
+
+0x3D4
+"I'm sorry. I'm going there."%K%P
+
+0x3E0
+"I have a reason that means I have to go there, no%Nmatter what. But you mustn't come after me!"%K%P
+
+0x3EC
+"If it's you, you'll understand, right? If you go there, the%Nsame thing will happen again in the end."%K%P
+
+0x3F8
+"History definitely won't change."%K%P
+
+0x414
+"That bet we made at tennis... remember it?"%K%P
+
+0x420
+"Since I won, you have to do any one thing I say."%K%P
+
+0x42C
+"Since I have that right... I'm going to use it now, okay?"%K%P
+
+0x440
+"You swore it, didn't you? 'I'll never again go back to the%Nshrine'..."%K%P
+
+0x44C
+"That's why, okay? Please... you mustn't come after me!"%K%P
+
+0x478
+"The Third Law of Professor Yuka's Love%NFormula:―Promises must be kept―"%K%P
+
+0x484
+"... Yuka."%K%P
+
+0x51C
+I rush out of the lodge.%K%P
+
+0x528
+I run through the furious rain, disregarding my%Nsurroundings.%K%P
+
+0x534
+―If I go there, won't history repeat itself?%K%P
+
+0x540
+But I instantly deny that. I won't falter.%K%P
+
+0x54C
+There's a possibility that Yuka might not have arrived at%Nthe shrine yet.%K%N
+
+0x558
+I've got to stop Yuka by any means necessary before%Nshe gets there.%K%P
+
+0x590
+Why, Yuka...?%K%P
+
+0x59C
+"I'll never come here again either..."%K%N
+
+0x5A8
+You said that, didn't you!?%K%P
+
+0x5B4
+Then why...!?%K%P
+
+0x5C0
+Today―in other words, the 6th―.%K%P
+
+0x5CC
+Even though you said that dream might have occurred in%Nthat shrine!%K%N
+
+0x5D8
+What's so important that you have to put your life at risk%Nand go there!?%K%P
+
+0x5E4
+As I run, I once again remember that scene...%K%P
+
+0x63C
+It can't be...%K%N
+
+0x648
+It can't be that that was Yuka?%K%P
+
+0x654
+Yuka said that she had―"a dream where someone%Ndied".%K%P
+
+0x660
+What if that was a lie?%K%P
+
+0x66C
+She said she threw the bell away at Viewpoint Park...%K%P
+
+0x678
+What if that was also a lie?%K%P
+
+0x6D8
+Before long, I've finally arrived at the shrine's staircase.%K%N
+
+0x6E4
+But Yuka isn't here either.%K%P
+
+0x6F0
+Damn...%K%N
+
+0x6FC
+I click my tongue in frustration.%K%P
+
+0x708
+So Yuka's already arrived at the shrine!?%K%P
+
+0x714
+I put all my strength into running up this staircase.%K%P
+
+0x774
+The rain pours down on the roof of the shrine, which is%Nsurrounded by white fog.%K%P
+
+0x780
+I look for Yuka.%K%N
+
+0x78C
+She's nowhere to be seen or found.%K%P
+
+0x798
+(Is she inside...?)%K%P
+
+0x7A4
+I run over to the front of the shrine.%K%N
+
+0x7B0
+But when I get there, I am once again seized with discord.%K%P
+
+0x7BC
+―Should I go in? ―Should I stop here?%K%P
+
+0x7C8
+If I go in, won't I just repeat history?%K%N
+
+0x7D4
+But even if I stop now and I abide by Yuka's somewhat%Nquestionable words, there's no guarantee that this%Ntragedy won't happen!%K%P
+
+0x7E0
+Yuka「You're kind...」%K%P
+
+0x7EC
+Yuka said that under the tempest of stardust...%K%P
+
+0x7F8
+My chest grows hot, like it's burning.%K%P
+
+0x804
+"Definitely keep your promises."%K%P
+
+0x810
+That's right!%K%N
+
+0x81C
+There's no way I'm going to break my promise!%K%P
+
+0x828
+I made a vow to that starry sky!%K%N
+
+0x834
+―"I will definitely protect Yuka!"%K%P
+
+0x840
+No, but this isn't anything like a sense of duty.%K%N
+
+0x84C
+This is a much larger instinctive impulse than that. It's%Njust...%K%P
+
+0x858
+I don't... want to lose Yuka...%K%P
+
+0x864
+I kick off the ground with all my strength, and burst into%Nthe shrine.%K%P
+
+0x8DC
+However, Yuka isn't here either.%K%P
+
+0x8E8
+She's not here, but I spot something different almost%Ninstantly.%K%P
+
+0x8F4
+Light...%K%N
+
+0x900
+Light from outside is shining from behind the building%Nmodeled after a small Shinto shrine.%K%P
+
+0x90C
+I run towards the side of the building.%K%P
+
+0x918
+The rotting floor creaks loudly beneath my feet, as if it%Nwere about to break.%K%P
+
+0x924
+I notice that there's a wide space between the shrine's%Nwall and the back of the building.%K%N
+
+0x930
+Hidden behind the building is a small hole in the shrine's%Nwall that I wasn't previously aware of.%K%P
+
+0x93C
+It's a square hole that's big enough to let a single%Nperson get through it.%K%N
+
+0x948
+No doubt this hole was what caused the draft I felt two%Ndays ago.%K%P
+
+0x954
+I bend over, and slip through the small hole...%K%P
+

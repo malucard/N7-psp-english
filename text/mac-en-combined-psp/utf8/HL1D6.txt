@@ -1,0 +1,960 @@
+text area offset and size:
+0x1D20
+0x44C0
+0x12C
+(... It's chilly.)%K%P
+
+0x138
+(No, it's worse... it's freezing.)%K%P
+
+0x1C4
+When my eyes snap open, I discover that my whole body%Nis soaked with water and that I'm chilled to the bone.%K%P
+
+0x1D0
+... Rain?%K%N
+
+0x1DC
+... It's raining?%K%N
+
+0x1E8
+Small droplets of water bolt down from the sky.%K%P
+
+0x1F4
+When I look beside me, I see that Haruka is still sleeping.%K%N
+
+0x200
+Although she's sleeping soundly, her body is violently%Nshivering.%K%P
+
+0x20C
+Haruka and I are already wet to the skin.%K%N
+
+0x218
+No wonder we're cold.%K%P
+
+0x230
+(We have to quickly return to the lodge...)%K%P
+
+0x23C
+I shake Haruka.%K%P
+
+0x248
+Makoto「Haruka. Hey, Haruka...」%K%P
+
+0x26C
+Haruka's eyes slowly open.%K%P
+
+0x278
+Haruka「Makoto...?」%K%P
+
+0x2A0
+Makoto「Are you fully awake?」%K%P
+
+0x2AC
+Haruka「Yes... Ah...」%K%P
+
+0x2C0
+It seems that Haruka's also finally noticed that it's%Nraining.%K%P
+
+0x2CC
+Makoto「We're completely soaked.」%K%P
+
+0x2D8
+All I can do is smile.%K%P
+
+0x2EC
+Haruka also smiles a bit and nods.%K%P
+
+0x2F8
+Makoto「Let's go back now.」%K%P
+
+0x304
+I stand up.%K%P
+
+0x318
+I take Haruka's hand and help her up.%K%N
+
+0x324
+I tug at her hand, expecting her to get up.%K%N
+
+0x330
+However, she doesn't budge.%K%P
+
+0x33C
+Makoto「Haruka?」%K%P
+
+0x350
+Haruka looks up at the sky.%K%N
+
+0x35C
+She just seems to be staring at it.%K%P
+
+0x368
+I also look up at the sky.%K%P
+
+0x390
+Only rain clouds can be seen in this darkness.%K%N
+
+0x39C
+No... there's also what's falling down from above... the rain.%K%N
+
+0x3A8
+The rain...?%K%N
+
+0x3B4
+I see...%K%P
+
+0x3C0
+Haruka is staring at the rain.%K%N
+
+0x3CC
+The endlessly pouring rain.%K%P
+
+0x3D8
+"Water."%K
+
+0x3E4
+Haruka is looking at the "water" falling from the sky, not%Nshowing the slightest hint of movement.%K%N
+
+0x3F0
+Her eyes... are focusing intensely on it.%K%P
+
+0x408
+Makoto「... Haruka?」%K%P
+
+0x414
+I call out to her.%K%N
+
+0x438
+Haruka turns towards me.%K%N
+
+0x444
+Her face, wet with "water", has an ethereal beauty to it.%K%P
+
+0x450
+Makoto「...」%K%P
+
+0x45C
+I look at her.%K%N
+
+0x468
+Haruka stares right back at me.%K%P
+
+0x474
+Makoto「... We're going to catch a cold like this, so... shouldn't we%Nhead back?」%K%P
+
+0x480
+I finally say this.%K%N
+
+0x48C
+Haruka continues to stare.%K%P
+
+0x4A0
+She then nods.%K%P
+
+0x4AC
+She walks towards me.%K%N
+
+0x4C0
+I embrace Haruka's body.%K%N
+
+0x4CC
+We hold each other close as we leave leave Princess%NBeach.%K%P
+
+0x538
+The rain grows stronger.%K%P
+
+0x544
+Haruka and I walk towards the lodge. However, we walk%Nslowly because of how long we've been out.%K%P
+
+0x550
+We don't have an umbrella, so we're already completely%Nsoaked. In addition, our clothes are very heavy after%Nabsorbing all of that water.%K%P
+
+0x568
+I encourage Haruka to cheer myself up.%K%P
+
+0x574
+Makoto「When we get back, we can take a bath, change our%Nclothes, and then...」%K%P
+
+0x598
+Haruka「... Sleep for a long time.」%K%P
+
+0x5A4
+Haruka continues for me.%K%P
+
+0x5F4
+Haruka「Ah...!」%K%P
+
+0x600
+Suddenly, Haruka lets out a small gasp.%K%N
+
+0x60C
+It happens just at a point where the forest path is%Nvisible from the coastline road.%K%P
+
+0x618
+Makoto「What's wrong?」%K%P
+
+0x624
+Haruka「Over there...」%K%P
+
+0x630
+Haruka points at the end of the road.%K%P
+
+0x63C
+Makoto「Huh?」%K%P
+
+0x648
+When I shift my attention towards the direction she's%Npointing at...%K%N
+
+0x654
+... I see a lone puppy standing in the corner of the road.%K%P
+
+0x660
+It's become sullied with tons of mud. I notice that it%Ndoesn't have a collar around its neck, so it doesn't%Nseem to be anyone's pet.%K%N
+
+0x66C
+Is it... a stray?%K%P
+
+0x680
+Haruka「That dog...」%K%P
+
+0x68C
+Makoto「Huh? Haruka, do you know that dog?」%K%P
+
+0x698
+Haruka nods. Just like that, she approaches the puppy...%K%N
+
+0x6A4
+She picks it up in her arms, and lovingly pets it on the%Nhead.%K%P
+
+0x6CC
+The puppy barks.%K%P
+
+0x700
+Haruka「This dog... is Saki's.」%K%P
+
+0x70C
+Makoto「Saki's...?」%K%P
+
+0x718
+I'm a bit surprised that Saki owns a dog.%K%P
+
+0x724
+Makoto「Wow... so Saki owns this dog...」%K%P
+
+0x740
+Haruka「It doesn't seem like she... exactly owns it.」%K%P
+
+0x74C
+Makoto「... Huh?」%K%P
+
+0x758
+Haruka「It seems that Saki has always been affectionate to this%Ndog...」%K%P
+
+0x764
+Makoto「...」%K%P
+
+0x770
+Haruka「... It seems she's always giving it food.」%K%P
+
+0x77C
+Haruka「That's why it got incredibly attached to her...」%K%P
+
+0x788
+Makoto「Huh...」%K%P
+
+0x794
+Haruka「Do you remember... the beef?」%K%P
+
+0x7A0
+Makoto「?」%K%P
+
+0x7AC
+Haruka「From the barbecue...」%K%P
+
+0x7B8
+Makoto「Yeah.」%K%P
+
+0x7C4
+I remember.%K%N
+
+0x7D0
+The turmoil from that barbecue... the beef that fell from%NSaki's bag...%K%P
+
+0x7DC
+Haruka「It... seems like she had planned to give it to this puppy.」%K%P
+
+0x7E8
+Makoto「... You think so?」%K%P
+
+0x7F4
+Haruka「Yes... I do.」%K%P
+
+0x800
+Haruka「Saki... She really is a kind girl as well...」%K%P
+
+0x80C
+I look at Haruka's face.%K%P
+
+0x820
+Haruka「But...」%K%P
+
+0x82C
+Haruka stops petting the puppy.%K%P
+
+0x840
+Haruka「But... if so, then why...?」%K%P
+
+0x868
+Her voice is trembling. She's crying.%K%N
+
+0x874
+The rain falling from the sky merges with her tear%Nstricken face...%K%P
+
+0x880
+Haruka had been trying her best to bottle her tears up,%Nbut she's finally releasing them...%K%P
+
+0x88C
+Haruka and Saki. Just what happened between them!?%K%N
+
+0x898
+It disturbs me.%K The bell...?%K Is it because of the bell...?%K%P
+
+0x8A4
+There's got to be a deeper meaning behind their feud%Nthat I'm overlooking or misunderstanding.%K%N
+
+0x8B0
+I need answers.%K I make up my mind and decide to ask%Nabout it.%K%P
+
+0x8CC
+Makoto「Haruka... let me ask you just one thing.」%K%P
+
+0x8D8
+Only Haruka's face turns towards me.%K%P
+
+0x8E4
+Makoto「Would you tell me about the bell?」%K%P
+
+0x8F8
+Haruka「!!!」%K%P
+
+0x904
+Her thin shoulders tremble with a start. Her expression%Ninstantly freezes.%K%P
+
+0x910
+Makoto「You can't...? Is it something you can't tell me...?」%K%P
+
+0x924
+Haruka crosses her arms across her chest as she tries%Nto steady her now trembling body.%K%P
+
+0x930
+Makoto「It might put you at ease if you talk, even if it's just with%Nsomeone as ignorant as me.」%K%P
+
+0x93C
+Haruka「...」%K%P
+
+0x950
+Before long... she turns about towards me, as if having%Nsteeled herself. And then, she nods.%K%P
+
+0x95C
+Haruka「I understand... I'll tell you.」%K%P
+
+0x968
+Makoto「...」%K%P
+
+0x974
+I hold my breath in anticipation, awaiting Haruka's next%Nwords.%K%P
+
+0x98C
+Haruka tries to say something...%K%N
+
+0x998
+... But then, at that exact moment...%K%P
+
+0x9BC
+Haruka's eyes widen.%K%P
+
+0x9C8
+Haruka「...!! ... Saki!?」%K%P
+
+0x9D4
+Makoto「Huh!?」%K%P
+
+0x9E8
+Haruka's gaze is focused behind me.%K%N
+
+0x9F4
+I quickly turn around...%K%P
+
+0xA24
+... To find Saki, frozen in place with an umbrella in hand.%K%P
+
+0xA30
+She stares at us for a while, standing rigidly in place.%K%P
+
+0xA3C
+Saki「...」%K%P
+
+0xA48
+Makoto「Saki...」%K%P
+
+0xA5C
+Suddenly, Saki turns around. She's trying to head back%Nthe way she came.%K%P
+
+0xA94
+When it sees this, the puppy jumps out from Haruka's%Narms..%K%P
+
+0xAA0
+It bolts off to chase Saki.%K%N
+
+0xAAC
+It crosses the wet road diagonally...%K%P
+
+0xAB8
+―And in the next instant!%K%P
+
+0xB00
+A intense flash pierces my eyes.%K%N
+
+0xB0C
+I reflexively put my hand over my eyes and squint.%K%P
+
+0xB6C
+When I look, I see a car with its headlights on...%K%N
+
+0xB78
+―It's approaching from the other side of the curve!%K%P
+
+0xB8C
+Saki「!!!」%K%P
+
+0xB98
+Saki turns around and lets out a small scream.%K%P
+
+0xBA4
+The puppy is running towards Saki at full speed.%K%N
+
+0xBB0
+It hasn't noticed the car! It can only see Saki, who's right%Nbefore its eyes!%K%P
+
+0xBFC
+A sharp honk comes from the car!%K%P
+
+0xC10
+Haruka「!!」%K%P
+
+0xC24
+Haruka suddenly moves.%K%N
+
+0xC30
+She rushes out onto the road, running to the puppy.%K%P
+
+0xC3C
+Makoto「―Haruka!」%K%P
+
+0xC48
+Haruka quickly picks the puppy up in her arms.%K%P
+
+0xC54
+Immediately afterwards, the bright red frame of the car%Ndraws near her!%K%P
+
+0xD20
+Makoto「...!!!!」%K%P
+
+0xD2C
+Saki「!!!!」%K%P
+
+0xD54
+Saki places her hand over her mouth, frozen in place. I%Ncan't... move either.%K%P
+
+0xD60
+Saki and I are watching Haruka's body... which has been%Nsent flying...%K%P
+
+0xD6C
+It all happens as if it's in slow motion. Haruka's body%Nslowly, slowly draws an arc in midair.%K%P
+
+0xDDC
+Her slender body falls onto the asphalt face-up... as if%Nit's been thrown onto it.%K%P
+
+0xDE8
+Makoto「...」%K%P
+
+0xDF4
+Saki「...」%K%P
+
+0xE00
+Time stops.%K%P
+
+0xE34
+Haruka had firmly held the puppy against her chest, and%Nit's still there, completely unharmed.%K%P
+
+0xE40
+The puppy slightly shakes its now soaked head, worms%Nits way out of Haruka's arms, and jumps off of her.%K%P
+
+0xE4C
+It starts to run over towards Saki's feet as if nothing%Nhappened...%K%P
+
+0xE58
+Haruka's body is illuminated by the headlights, her pale%Nfigure sticking out in the downpour.%K%P
+
+0xE74
+My legs won't stop shaking. I can't move my stiffened%Nlimbs.%K%N
+
+0xE80
+Saki is also silently standing stock-still, oblivious to the%Nplayful puppy at her feet.%K%P
+
+0xE8C
+Makoto「... H-Haru... ka...?」%K%P
+
+0xE98
+My voice has never trembled this much before in my life.%K%N
+
+0xEA4
+Saki's eyes well with tears, and she slowly shakes her%Nhead back and forth.%K%P
+
+0xEB0
+This isn't happening. This has got to be some kind of mistake...%K%PI refuse to believe that this is reality.%K%P
+
+0xF18
+A red liquid on the asphalt catches my eye.%K%N
+
+0xF24
+Blood...%K A large quantity of fresh red blood is pouring out%Nof Haruka's body.%K%P
+
+0xF30
+It slowly begins to spread, soaking the already wet%Nasphalt...%K%P
+
+0xF3C
+Makoto「HARUKAAAAAAAAAAAAAAA!!!!!」%K%P
+
+0xF48
+I wring out a loud scream from within my body...%K%P
+
+0xFE0
+Anyway, we need an ambulance.%K%N
+
+0xFEC
+I survey the surrounding area.%K%N
+
+0xFF8
+But there's no pay phones anywhere around here.%K%P
+
+0x1004
+I rush over towards Haruka. Maybe I can stop the%Nbleeding.%K But I don't know how to do that.%K My mind goes%Ncompletely blank again.%K%P
+
+0x1010
+Haruka continues to bleed before my eyes, but all I can%Ndo is numbly stare, dumbfounded.%K%P
+
+0x101C
+The driver of the car is the same.%K%P
+
+0x1028
+But then, I come to my senses.%K%P
+
+0x1040
+Makoto「Please take her to the local clinic!」%K%P
+
+0x104C
+I turn to the driver, and shout this.%K%P
+
+0x1058
+The driver nods countless times as he trembles in horror.%K%P
+
+0x107C
+Saki「Wait! You can't do that!!」%K%P
+
+0x1088
+Makoto「...!?」%K%P
+
+0x1094
+Saki「We can't leave this to the person who did this to Haruka!」%K%P
+
+0x10A0
+Makoto「Now's not the time to be saying that, is it!?」%K%P
+
+0x10AC
+Saki「Have you lost your mind!?」%K%P
+
+0x10B8
+Makoto「Saki!」%K%P
+
+0x10C4
+Saki「Anyway, I'm completely against it!」%K%P
+
+0x10D0
+Makoto「Saki... think carefully. Think about why it is that Haruka%Nwent running out on the road in the first place...」%K%P
+
+0x10E4
+Saki「Makoto-kun...!?」%K%P
+
+0x10F0
+Makoto「Anyway, this isn't the time to argue.」%K%P
+
+0x10FC
+Makoto「We have to get Haruka to the clinic as soon as possible...」%K%P
+
+0x1110
+Saki「But, but...」%K%P
+
+0x111C
+Makoto「...」%K%P
+
+0x1128
+I stay silent. There's no longer any time to persuade her.%K%P
+
+0x1134
+Makoto「Help me out!」%K%P
+
+0x1140
+I ignore Saki and ask the driver this. The driver nods and%Nlends me a hand.%K%N
+
+0x114C
+The two of us gently lift Haruka up into our arms and%Nbring her in the car.%K%P
+
+0x1158
+Makoto「Saki, hurry up!」%K%P
+
+0x116C
+Saki「... Understood.」%K%P
+
+0x119C
+Saki and I get into the car.%K The driver slams the%Naccelerator while he desperately tries to calm down his%Nfrantically trembling body.%K%P
+
+0x11C4
+Haruka, Saki, and I ride in the car towards the clinic in the%Npouring rain...%K%P
+
+0x1244
+It's been approximately half an hour since we arrived at%Nthe clinic.%K%P
+
+0x126C
+We woke up the sleeping doctor and quickly brought%NHaruka into the sickroom.%K%P
+
+0x12CC
+With his skillful handling, the doctor performs%N"hemostasis treatment", which seems to have at least%Nsuccessfully stopped the bleeding.%K%P
+
+0x12D8
+However, by the looks of things, I know that it's too early%Nto jump to conclusions.%K%P
+
+0x1300
+Doctor「... I hate to tell you this, but...」%K%P
+
+0x130C
+The doctor says this with a grim expression.%K%P
+
+0x1318
+Doctor「She's already lost most of the blood in her body... Her%Nblood pressure is already considerably low...」%K%P
+
+0x1324
+A chill runs down my spine.%K%N
+
+0x1330
+My throat dries up to the point where I can't even speak.%K%P
+
+0x133C
+... Certainly, Haruka's face is unbelievably pale.%K%N
+
+0x1348
+According to the doctor, if a person loses one-third of%Nthe blood in their body, then they could die of blood loss.%K%P
+
+0x1354
+We don't know how much blood Haruka has lost, but it%Nseems there's no mistake that she's in a considerably%Ncritical condition right now.%K%P
+
+0x1360
+Doctor「She only... has an hour or two left...」%K%P
+
+0x136C
+Saki「No way!」%K%P
+
+0x1378
+Makoto「... Can't you... Can't something be done!?」%K%P
+
+0x1384
+Doctor「A blood transfusion... As long as she has a blood%Ntransfusion, she might recover somehow.」%K%P
+
+0x1390
+Doctor「Her blood type is B-... Are either of you B- or O-?」%K%P
+
+0x139C
+Makoto「...」%K%P
+
+0x13A8
+Saki「...」%K%P
+
+0x13B4
+... How can this be!?%K There's no one here with the same%Nblood type as Haruka!%K%P
+
+0x13C0
+Makoto「C-Can we request for blood...?」%K%P
+
+0x13CC
+Doctor「If they were to transport it via helicopter... in this%Nweather... I estimate that it would roughly take about four%Nhours to arrive.」%K%P
+
+0x13D8
+Makoto「F... Four hours!?」%K%P
+
+0x13E4
+Saki「No way... Then it'd never make it on time...」%K%P
+
+0x13F0
+Saki「This can't... this can't be happening!」%K%P
+
+0x13FC
+Saki's voice is trembling. I instinctively grab the doctor.%K%P
+
+0x1408
+Makoto「Hey! You're a doctor, aren't you!? Do something for her!」%K%P
+
+0x1414
+Doctor「... At the very least, if I had blood of the right blood type,%NI could save her...」%K%P
+
+0x1420
+Makoto「You've got blood too, don't you!? Why don't you do%Nsomething with it!?」%K%P
+
+0x142C
+Doctor「If I had blood of one of the proper blood types, I would,%Nbut... I don't.」%K%P
+
+0x1438
+Makoto「...」%K%P
+
+0x1444
+I let go of the doctor. I then stagger backwards and%Ncollapse to my feet, clutching my head.%K%P
+
+0x1450
+Fuck... Why!? Why did it have to turn out this way...%K%N
+
+0x145C
+If my blood were of the right type...%K and if it meant saving%NHaruka, I would readily give it all to her!!!%K%P
+
+0x1468
+Doctor「Since we don't have any blood of the right types... it's%Nunfortunately... too late...」%K%P
+
+0x1474
+Those words bitterly pierce my heart.%K%P
+
+0x1480
+Saki「Don't give me that bullshit! Why does Haruka have to%Ndie!? Why the hell are you saying something like that!?」%K%P
+
+0x148C
+Saki yells at the doctor. She grabs him by the collar of%Nhis white coat, and glares at him with tears in her eyes.%K%P
+
+0x1498
+Makoto「... Stop it, Saki. Stop it...」%K%P
+
+0x14A4
+I pull Saki away from the doctor.%K%P
+
+0x14B0
+Saki「Makoto-kun...!」%K%P
+
+0x14BC
+Makoto「...」%K%P
+
+0x14C8
+Even... Even I want to yell at him.%K%N
+
+0x14D4
+I can't forgive someone who just simply says, "Haruka will%Ndie."%K%P
+
+0x14E0
+But... What would that accomplish!?%K%N
+
+0x14EC
+Even if we did, Haruka will still...%K%P
+
+0x1508
+Saki「... Why... Why... Haruka...?」%K%P
+
+0x1514
+Saki「Even though... even though we might have finally%Nunderstood each other...」%K%P
+
+0x1520
+Saki approaches Haruka, and falls to her knees.%K%N
+
+0x152C
+Haruka's chest is furiously rising up and down.%K%N
+
+0x1538
+She's suffering...%K%P
+
+0x1560
+%W%W%WDespair... All I can feel is a sense of despair that's%Nbreaking me apart...%K%P
+
+0x156C
+I can't save her...%K Haruka can no longer be saved...%K%P
+
+0x1578
+Everything before my eyes begins to crumble into very%Nsmall pieces...%K%N
+
+0x1584
+They're crumbling apart just like a sand castle...%K%P
+
+0x1590
+Saki「... I-I'll go call them... I'll go call everyone...!」%K%P
+
+0x15E4
+With those words, Saki runs out of the sickroom...%K%PShe's covering her hand with her mouth... It seems like she's%Ntrying desperately not to burst out into loud sobs...%K%P
+
+0x160C
+The doctor, who sees off Saki, also silently leaves the%Nsickroom...%K%P
+
+0x1618
+I also see the driver of the car standing in front of the%Nsickroom with a worried expression as the doctor tries%Nto convince him to leave.%K%P
+
+0x1624
+Only Haruka and I... are left in the sickroom.%K%P
+
+0x1668
+The seconds hand of the clock hanging in the sickroom...%Nvacantly marks the passage of time.%K%P
+
+0x1674
+Time is such a harsh mistress... It passes away%Nheartlessly without sympathy...%K%P
+
+0x168C
+Before I know it, I'm kneeling down by Haruka's side.%K%PHaruka's palms are balled into tight fists.%K%PShe must be suffering. She must be in pain. She must be so%Nscared...%K%P
+
+0x1698
+I touch Haruka's hand.%K%P
+
+0x16A4
+Haruka, who was energetic just a few hours ago... Haruka,%Nwho was smiling just hours ago... Haruka, who was looking%Nat me just a few hours ago...%K%P
+
+0x16C8
+At that moment, Haruka's eyes suddenly open.%K%P
+
+0x16D4
+Makoto「...!」%K%P
+
+0x16E0
+Haruka「Makoto...?」%K%P
+
+0x16EC
+Haruka's eyes are blank.%K She stares into space, not%Nnoticing me.%K%P
+
+0x16F8
+Makoto「I'm right here... Haruka...」%K%P
+
+0x1704
+I grasp Haruka's hand.%K I grasp it strongly, stronger than%Never before, hoping that she'll notice my existence...%K%P
+
+0x1710
+Haruka「That hurts...」%K%P
+
+0x171C
+She says this in a weak voice. I frantically lessen the%Npower of my grip.%K%P
+
+0x1728
+Makoto「S-Sorry...」%K%P
+
+0x1734
+Haruka「No, don't be...」%K%P
+
+0x1740
+She continues staring into space. She might not even%Nhave the power to turn her own head...%K%P
+
+0x1768
+Makoto「Haruka... Haruka... I... I don't want to lose you...」%K%P
+
+0x1774
+Guh. A thick sound comes from inside my chest. My voice%Nhas become tearful, bursting out of me like water%Ngushing from a dam.%K%P
+
+0x1780
+Makoto「I don't want that. I couldn't bear it...」%K%P
+
+0x178C
+Haruka「... It's all right, Makoto.」%K%P
+
+0x1798
+Haruka「... I'm just someone's replacement, so... even if I die, no%None will be hurt by it...」%K%P
+
+0x17A4
+Makoto「Haruka...」%K%P
+
+0x17B0
+Makoto「... You're wrong! ... You're not a substitute for anyone!」%K%P
+
+0x17BC
+Haruka「I'm sorry, Makoto... I'm a little tired... I guess we shouldn't%Nhave gone on that evening stroll after all...」%K%P
+
+0x17C8
+Makoto「... Wh-What are you saying, Haruka!?」%K%P
+
+0x17D4
+Haruka「I've got to sleep... Yuka's going to scold me for this%Ntomorrow...」%K%P
+
+0x17F0
+Her eyes slowly begin to close...%K%P
+
+0x17FC
+No... Wait... Wait... Haruka...%K%P
+
+0x1808
+Haruka「I'm going to sleep now, okay...? Good... night...」%K%P
+
+0x181C
+Haruka「...」%K%P
+
+0x1828
+Haruka's hand limply slips out of my own and dangles...%K%P
+
+0x1834
+In the next instant... Something slips out of it.%K%P
+
+0x185C
+The object lying on the floor... is...%K%P
+
+0x1880
+―It's that bell!!%K%P
+
+0x188C
+Makoto「!!」%K%P
+
+0x1898
+Wh... Why? ... Why does Haruka have that bell?!%K%P
+
+0x18AC
+I look at Haruka's face. It looks peaceful, so very%Npeaceful.%K%P
+
+0x18B8
+Her eyes... will they never open again...?%K%P
+
+0x18C4
+Forget the bell. Something like that doesn't belong here!!!%K%P
+
+0x18EC
+I kick the fallen bell away.%K%P
+
+0x1914
+The bell rings as it recoils off the wall.%K%P
+
+0x1948
+My field of vision clouds. And in that instant, I break down%Nweeping.%K%N
+
+0x1954
+The tears pour out of me one after another. I can't stop. I%Ndon't want them to stop.%K%P
+
+0x1960
+Makoto「Haruka... Haruka...」%K%P
+
+0x196C
+All I have left... is this unbearable sorrow I feel... from%Nlosing Haruka.%K%P
+
+0x1978
+This sadness becomes a pain in my chest that chops%Nup my heart.%K%P
+
+0x19A0
+Suddenly, my watch alarm goes off...%K%N
+
+0x19AC
+The instant I hear that, I am suddenly wrapped up in an%Nintense exhaustion.%K%P
+
+0x19F0
+Everything before my eyes starts to go white.%K%N
+
+0x19FC
+It feels like I'm floating in light.%K%P
+
+0x1A08
+Before long, it feels like I'm getting sucked into the other%Nside of the light...%K%N
+
+0x1A34
+I lose consciousness...%K%P
+

@@ -1,0 +1,321 @@
+text area offset and size:
+0x780
+0x1297
+0x7C
+Kurumi「Wasn't today fun?」%K%P
+
+0x88
+Kurumi「It was an ultra-good day, wasn't it?」%K%P
+
+0x94
+Makoto「You're right.」%K%P
+
+0xA0
+Kurumi「Onii-chan, did you have fun too?」%K%P
+
+0xAC
+Makoto「Of course. It was a lot of fun.」%K%P
+
+0xB8
+I answer by smiling the same way I did last time.%K%P
+
+0xC4
+Kurumi「Yay♪」%K%P
+
+0xD0
+It's cold right now.%K%P
+
+0xDC
+However, I only feel warmth through my hand.%K%P
+
+0xE8
+It's Kurumi's warmth...%K%P
+
+0xF4
+Kurumi「Hey, Onii-chan?」%K%P
+
+0x100
+Makoto「Hmm?」%K%P
+
+0x10C
+Kurumi「Kurumi... wants to show you something, okay?」%K%P
+
+0x118
+Makoto「... What!?」%K%P
+
+0x124
+Kurumi「If it's you, Onii-chan, then she can show you...」%K%P
+
+0x130
+Kurumi says this, then suddenly brings me into a thicket%Non the side of the road.%K%P
+
+0x19C
+It can't be...%K%N
+
+0x1A8
+This is really unexpected.%K%N
+
+0x1B4
+No, was it really?%K%P
+
+0x1C0
+Last night, Kurumi didn't tell me about her scar.%K%P
+
+0x1CC
+Because she didn't tell me, I thought for sure that this%Nevent would never happen.%K%P
+
+0x1D8
+Makoto「...」%K%P
+
+0x1E4
+I can't say a word.%K%N
+
+0x1F0
+My throat is parched.%K%P
+
+0x1FC
+I'm unable to brace myself for what's about to happen.%K%P
+
+0x208
+Kurumi remains silent, her mouth shut... She turns around,%Nher back facing me.%K%P
+
+0x214
+Makoto「...」%K%P
+
+0x220
+Whoosh...%K%N
+
+0x22C
+Kurumi raises all the clothes off the upper half of her%Nbody up to her neck.%K%N
+
+0x238
+It's Kurumi's... small back.%K%N
+
+0x244
+For the second time, I see that deeply engraved "scar".%K%P
+
+0x250
+(Kurumi...)%K%P
+
+0x25C
+But I don't take even a single step back.%K%N
+
+0x268
+I stand my ground, and look at that scar.%K%N
+
+0x274
+It may be ugly and pitiful, but it's also a part of Kurumi.%K%P
+
+0x280
+―The pointy zigzag lines of scars.%K%N
+
+0x28C
+―The rough, protruding bulges.%K%N
+
+0x298
+―That reddish-violet discoloration.%K%P
+
+0x2A4
+This time, I am definitely going to take that sadness from%Nher.%K%N
+
+0x2B0
+It looks like Kurumi is about to pull down her shirt.%K%P
+
+0x2BC
+Before she can...%K%N
+
+0x2C8
+... I embrace her.%K%N
+
+0x2D4
+I embrace Kurumi's back... Tightly... tightly...%K%P
+
+0x2E0
+I've wanted to do this for all this time...%K%P
+
+0x2EC
+Because I'm behind her, I can't see Kurumi's expression.%K%P
+
+0x2F8
+But... her thin shoulders are shaking over and over%Nagain. That alone is enough for me to understand%NKurumi's feelings.%K%P
+
+0x304
+Kurumi「Did you know...? The truth is... Kurumi really wanted to go%Nwith every-」%K%P
+
+0x310
+Makoto「I know...」%K%P
+
+0x31C
+Kurumi「...?」%K%P
+
+0x328
+Makoto「You don't have to say it. I know...」%K%P
+
+0x334
+Kurumi「...」%K%P
+
+0x340
+Makoto「Kurumi...」%K%P
+
+0x34C
+Kurumi「...」%K%P
+
+0x358
+... And for a while longer, we stand in the breaths of the%Nforest as I embrace her.%K%P
+
+0x364
+Kurumi's back is burning hot.%K%P
+
+0x370
+That rough sensation on her back no longer seems sad.%K%P
+
+0x37C
+Kurumi's scar has become my own.%K%P
+
+0x388
+My chest melts into that small back, and they become%None.%K%N
+
+0x394
+There is nothing between Kurumi and I.%K%P
+
+0x3A0
+I can feel Kurumi's warm and pounding heartbeat through%Nmy fingertips.%K%N
+
+0x3AC
+The pain has disappeared from the very frail and kind%Necho of Kurumi's life...%K%P
+
+0x3B8
+... I can feel my feelings for her grow stronger in my heart.%K%N
+
+0x3C4
+I want to hold her like this forever.%K%N
+
+0x3D0
+Always, until the end of time...%K%P
+
+0x3DC
+Kurumi「Thank you...」%K%P
+
+0x3E8
+With those words, my heart seems to burst open...%K%P
+
+0x440
+Kurumi「Ruun, ruun, ruun, Kurumi-chan～, ran, ran, ran, Onii-chan～♪」%K%P
+
+0x44C
+Makoto「Kurumi...?」%K%P
+
+0x458
+Kurumi「Hmm? What, Onii-chan?」%K%P
+
+0x464
+Makoto「Kurumi, you love things like haunted houses, right?」%K%P
+
+0x478
+Kurumi「Huh?」%K%P
+
+0x484
+Makoto「... Do you hate them?」%K%P
+
+0x498
+Kurumi「Nope♪ Kurumi loves them♪」%K%P
+
+0x4A4
+Makoto「All right! Then when we get back to the mainland, let's go%Nto an amusement park!」%K%P
+
+0x4B0
+Kurumi「Huh!? You'll take Kurumi?」%K%P
+
+0x4BC
+Makoto「Yeah...」%K%P
+
+0x4C8
+Kurumi「Yaay～♪」%K%P
+
+0x4D4
+Kurumi「For real?」%K%P
+
+0x4E0
+Makoto「For real.」%K%P
+
+0x4EC
+Kurumi「Don't say 'I forgot' when it happens! You won't, right?」%K%P
+
+0x4F8
+Makoto「I won't.」%K%P
+
+0x504
+Kurumi「Then, let's pinky swear.」%K%P
+
+0x510
+Kurumi takes out her thin pinky and wraps it around mine...%K%P
+
+0x51C
+Kurumi「Cross-my-heart-and-hope-to-die If-you-lie...♪」%K%P
+
+0x528
+Kurumi「Ah... what should we do if you lie?」%K%P
+
+0x534
+Makoto「...」%K%P
+
+0x540
+Kurumi「Let's see...」%K%P
+
+0x54C
+Kurumi「If you lie, kiss Kurumi on the cheek... okay?」%K%P
+
+0x558
+Makoto「Yeah... got it.」%K%P
+
+0x564
+I nod firmly in reply.%K%P
+
+0x578
+...%K%N
+
+0x584
+On our way back... Kurumi and I keep our pinkies wrapped%Naround each other as we walk back to Lunabeach...%K%P
+
+0x5F0
+We meet with Izumi-san, and have dinner at Lunabeach.%K%P
+
+0x5FC
+Kurumi「And so then, Mr. Sumo Crab...♪」%K%P
+
+0x608
+Kurumi excitedly tells Izumi-san about today's events.%K%N
+
+0x614
+Izumi-san quietly listens to her talking while smiling gently.%K%P
+
+0x620
+Such a cheerful dinner...%K%N
+
+0x62C
+There's not a hint of gloominess in the room...%K%N
+
+0x638
+Not from Kurumi... or from Izumi-san...%K%N
+
+0x644
+... All of it is warm.%K%P
+
+0x650
+Izumi「By the way, Kurumi?」%K%P
+
+0x65C
+Kurumi「Hmm?」%K%P
+
+0x668
+Izumi「Do you know what happened to the duck's liver in the%Nfridge?」%K%P
+
+0x674
+Kurumi「W-WHAT!?」%K%P
+
+0x680
+Makoto「... Duck's... liver...」%K%P
+
+0x68C
+My sense of taste is indeed quite bizarre if I like things%Nlike that...%K%P
+

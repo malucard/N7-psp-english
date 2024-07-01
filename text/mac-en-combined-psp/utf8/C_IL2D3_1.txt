@@ -1,0 +1,141 @@
+text area offset and size:
+0x478
+0x985
+0x16C
+I'm on the pier, leisurely dangling my fishing line.%K%P
+
+0x178
+Like the last time, Haruka constantly repeats the cycle%Nof catching a fish, then letting it go.%K%P
+
+0x184
+She stares at her fishing line with a delighted%Nexpression on her face.%K%P
+
+0x190
+Now that I think about it, Haruka's expression feels like%Nit's become much more happier than it was in the last%Nhistory.%K%P
+
+0x19C
+(... Why is that?)%K%P
+
+0x1A8
+The answer hits me; on the last 2nd, she had a quarrel%Nwith Saki at this pier.%K%P
+
+0x1B4
+But this time, that never happened... so Haruka might not%Nbe depressed as she was last time.%K%P
+
+0x1C0
+At any rate, her cheerfulness is helping me relax.%K%P
+
+0x1CC
+Ever since last night, my mind's been endlessly running%Naround in circles because of Izumi-san's words about%Nthe "remaining mysteries".%K%P
+
+0x1D8
+But thanks to this truly pleasant scene, I've almost%Nforgotten about that.%K%P
+
+0x1E4
+...%K%P
+
+0x1FC
+However, there's no way that I can keep thinking like that%Nand act so leisurely forever.%K%P
+
+0x208
+―I need to get the truth from Izumi-san quickly!%K%P
+
+0x214
+If I screw up my timing, then things could turn out the way%Nthey did yesterday.%K%P
+
+0x220
+(Right now, Kurumi and the others are playing tennis, so%NIzumi-san is probably alone at Lunabeach.)%K%P
+
+0x22C
+I gather my resolve, and talk to Haruka.%K%P
+
+0x238
+Makoto「Say, Haruka? I've got a little errand to take care of.」%K%P
+
+0x25C
+Haruka「An errand?」%K%P
+
+0x268
+Makoto「Yeah... I promised to meet up with someone today...」%K%P
+
+0x274
+Haruka「I still want to fish.」%K%P
+
+0x280
+Makoto「Okay. Just wait right here. I'll be back soon.」%K%P
+
+0x28C
+Haruka「How long is 'soon'?」%K%P
+
+0x298
+Makoto「About two hours, perhaps?」%K%P
+
+0x2A4
+Haruka「Two hours... I don't think you'd call that 'soon'.」%K%P
+
+0x2B0
+Makoto「Well, it certainly isn't 'soon', but...」%K%P
+
+0x2BC
+Haruka「It's fine... I don't mind...」%K%P
+
+0x2C8
+Makoto「I'm really sorry about this.」%K%P
+
+0x2D4
+Haruka「You're going to meet with 'her', right?」%K%P
+
+0x2E0
+Makoto「... Huh?」%K%P
+
+0x2EC
+Haruka「The 'Professor'...」%K%P
+
+0x2F8
+Makoto「Y-You're wrong! What are you saying, Haruka!?」%K%P
+
+0x304
+Haruka「It's all right, I won't tell anyone.」%K%P
+
+0x310
+Makoto「I'm telling you, you're wrong!」%K%P
+
+0x31C
+Haruka「Right...」%K%P
+
+0x328
+Makoto「Seriously, you're wrong.」%K%P
+
+0x334
+Haruka「Right...」%K%P
+
+0x340
+Makoto「...」%K%P
+
+0x34C
+Haruka「...」%K%P
+
+0x358
+Makoto「Anyway, I've gotta go now.」%K%P
+
+0x364
+Haruka「Right...」%K%P
+
+0x370
+Makoto「I'll see you later.」%K%P
+
+0x37C
+Haruka「Right...」%K%P
+
+0x388
+Makoto「Say, Haruka? Do you really understand?」%K%P
+
+0x39C
+Haruka「Yes. It's all right.」%K%P
+
+0x3A8
+Haruka「My lips are sealed.」%K%P
+
+0x3B4
+Makoto「Haah... oh brother...」%K%P
+

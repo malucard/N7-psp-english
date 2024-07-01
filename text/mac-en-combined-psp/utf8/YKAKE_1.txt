@@ -1,0 +1,777 @@
+text area offset and size:
+0x1E90
+0x2ACF
+0x5C
+Yuka「All right, here I go♪」%K%P
+
+0x68
+When Yuka returns from changing her clothes, she%Nstands on the opposite side of the net, wearing a daring%Ngrin.%K%P
+
+0x74
+Yuka「Hee hee hee...」%K%P
+
+0x80
+Yuka「I have been secretly developing this serve for this day!」%K%P
+
+0x8C
+Yuka「Lightning Rumble Alexander Thunder Serve!」%K%P
+
+0x98
+Makoto「Stop boasting and serve already!」%K%P
+
+0xA4
+Yuka throws the ball high in the air a few times.%K%P
+
+0xB0
+She bends back as far as she can. Just what kind of%Nserve is she...%K%P
+
+0xBC
+Yuka「O Lighting! O Lightning! Please, don't strike me down!!」%K%P
+
+0xD0
+Yuka「ROARING ELECTRIC STRIKE!」%K%P
+
+0x100
+Makoto「―!?」%K%P
+
+0x128
+―*SLAM!*...%K%P
+
+0x13C
+...%K%P
+
+0x148
+Not even a second has passed...%K%P
+
+0x154
+The ball creates a graceful arc in the air before%Nslamming down into the court as fast as lightning.%K%P
+
+0x160
+(A-Are you serious...?)%K%P
+
+0x16C
+I break into a sweat.%K%P
+
+0x1C8
+Yuka「With this, it's 15-All♪」%K%P
+
+0x1D4
+Yuka「Huuh? Where's all that energy you had just now, I%Nwonder?」%K%P
+
+0x1E0
+Makoto「Haha... Y-You're not half bad...」%K%P
+
+0x1EC
+Yuka「Careful, your smile's slipping.」%K%P
+
+0x1F8
+Makoto「Don't be ridiculous! I was just caught a little unprepared,%Nthat's all!」%K%P
+
+0x204
+No, seriously. I really was.%K%P
+
+0x218
+That wasn't Yuka's first hit.%K%P
+
+0x224
+Her prior serve was a double fault, so this is her third%None.%K%P
+
+0x230
+Her first two hits went all the way over the fence behind%Nme and disappeared into the forest.%K%P
+
+0x23C
+Of course I was caught unprepared; her first two serves%Nwere terrible.%K%P
+
+0x248
+It's clear now that I've got to stop taking her lightly.%K%P
+
+0x25C
+Yuka「What's wrong? Out of bluffs?」%K%P
+
+0x268
+Yuka runs along the baseline, and slowly moves her left%Nhand.%K%P
+
+0x274
+Yuka「Well then, here's the next one♪」%K%P
+
+0x280
+Yuka「Sun's Warmth Kiss of Fire Serve!」%K%P
+
+0x28C
+I take a deep breath as I tightly grasp my racket.%K%P
+
+0x298
+Yuka lightly throws the ball into the air, waits for the ball%Nto reach its peak, and then...!%K%P
+
+0x2A4
+Yuka「O Sun! O Sun! Grant me blessings with your bright rays!」%K%P
+
+0x2B8
+Yuka「BLAZING SCORCHING FIRE BOMB!」%K%P
+
+0x2F0
+She hits the ball with a serve as powerful as a fireball!%K%P
+
+0x2FC
+It's just as fierce as the one earlier...%K%P
+
+0x308
+It's heading straight towards me.%K%P
+
+0x314
+(All right, I'll return it with this!)%K
+
+0x1DC8
+Return crosscourt.
+
+0x1DD4
+Return down the line.
+
+0x1DE0
+Lob her.
+
+0x364
+Just like that, I hit a crosscourt return.%K%P
+
+0x394
+But...%K%P
+
+0x3A0
+Yuka furiously dashes towards the net!%K%P
+
+0x3AC
+(Crap! A serve and volley!)%K%P
+
+0x3DC
+By the time I realize it, Yuka's splendid volley is settled in%Nthe right corner of the court.%K%P
+
+0x3E8
+...%K%P
+
+0x43C
+Yuka「It'll take more than that to beat me, Mr. Echizen.」%K%P
+
+0x448
+(D-Damn it～)%K%P
+
+0x454
+(Now it's "30-15"...)%K%P
+
+0x460
+(... And who the hell is "Mr. Echizen"!?)%K%P
+
+0x46C
+I'm so mortified that I'm struck speechless.%K%P
+
+0x478
+Yuka「Well then...」%K%P
+
+0x484
+Yuka「At this rate, I'll settle it in one blow～♪」%K%P
+
+0x498
+I return the ball down the line.%K%P
+
+0x4C8
+But...%K%P
+
+0x4D4
+Yuka furiously dashes towards the net!%K%P
+
+0x4E0
+(Crap! A serve and volley!)%K%P
+
+0x51C
+By the time I realize it, Yuka's splendid volley is settled in%Nthe right corner of the court.%K%P
+
+0x528
+...%K%P
+
+0x57C
+Yuka「It'll take more than that to beat me, Mr. Echizen.」%K%P
+
+0x588
+(D-Damn it～)%K%P
+
+0x594
+(Now it's "30-15"...)%K%P
+
+0x5A0
+(... And who the hell is "Mr. Echizen"!?)%K%P
+
+0x5AC
+I'm so mortified that I'm struck speechless.%K%P
+
+0x5B8
+Yuka「Well then...」%K%P
+
+0x5C4
+Yuka「At this rate, I'll settle it in one blow～♪」%K%P
+
+0x5D8
+I just barely make it to the baseline, and lob the ball.%K%P
+
+0x608
+Just as I expected, Yuka furiously dashes up to the net%Nas she attempts a serve and a volley.%K%P
+
+0x614
+She quickly turns around, and chases after the ball...%K%P
+
+0x620
+But it's already too late.%K%P
+
+0x62C
+The ball flies over her head and falls inside the baseline.%K%P
+
+0x638
+...%K%P
+
+0x694
+Makoto「Heh heh heh, I've completely figured out your strategy!」%K%P
+
+0x6A0
+Yuka「There you go, acting all cocky again...」%K%P
+
+0x6AC
+Yuka「That was out of bounds, wasn't it?」%K%P
+
+0x6B8
+Makoto「Don't be such a baby. You know it wasn't!」%K%P
+
+0x6C4
+Yuka「Well, either way, you've still got a ways to go.」%K%P
+
+0x6D0
+(Damn, she's so full of herself...)%K%P
+
+0x6DC
+Yuka「With this, it's '15-30'...」%K%P
+
+0x6E8
+Yuka「Here's where it really begins.」%K%P
+
+0x6F4
+Yuka enters her next serving pose without skipping a%Nbeat.%K%P
+
+0x700
+Yuka「Next is the Northern Wind Whirling Kamikaze Serve!」%K%P
+
+0x70C
+Yuka「O Wind! O Wind! Take me far away!」%K%P
+
+0x718
+(Sheesh, just shut up and serve...)%K%P
+
+0x72C
+Yuka「WHIRLING WHIRLING TORNADO SMASH!」%K%P
+
+0x764
+The ball, spinning as fast as a tornado, lands right near%Nthe edge of the service line and bounces back up.%K%P
+
+0x770
+My body moves towards the descending ball.%K%P
+
+0x77C
+My next return will be a...%K
+
+0x1DEC
+Crosscourt.
+
+0x1DF8
+Straight.
+
+0x7BC
+Just like that, I hit a crosscourt return.%K%P
+
+0x7EC
+―Oh crap!%K%P
+
+0x7F8
+I completely screwed up the shot...%K%P
+
+0x804
+The ball slowly flies right straight towards Yuka.%K%P
+
+0x818
+Yuka「I've been waiting for this!」%K%P
+
+0x82C
+Yuka「There!」%K%P
+
+0x864
+With all her strength, Yuka smashes the ball.%K%P
+
+0x870
+The ball slams into the court, then bounces up over the%Nfence and into the forest.%K%P
+
+0x87C
+(Damn, she got me...)%K%P
+
+0x890
+I return the ball down the line.%K%P
+
+0x8C0
+Moving quickly, Yuka quickly catches up with my return%Nserve.%K%P
+
+0x8D4
+Yuka「Yaah!」%K%P
+
+0x90C
+She flawlessly returns the ball.%K%P
+
+0x918
+The ball dives towards the court as if it's being sucked%Nin.%K
+
+0x1E04
+Gotta return it.
+
+0x1E10
+Lob it.
+
+0x958
+Makoto「Hyaa!」%K%P
+
+0x980
+I somehow manage to return the ball, but at this rate, I%Nwon't be able to make any headway.%K%P
+
+0x98C
+(I'll just...)%K
+
+0x1E1C
+Try running to the net.
+
+0x1E28
+Wait for my chance.
+
+0x9D4
+(All right! I'll run up front and volley it!)%K%P
+
+0x9E0
+I immediately charge for the net.%K%P
+
+0x9EC
+―But!%K%P
+
+0xA1C
+(Shit! This is bad!)%K%P
+
+0xA28
+Yuka mimics my moves, and hits the ball high into the air%Nwith a lob.%K%P
+
+0xA34
+It flies over my head...%K%P
+
+0xA40
+... over the baseline...%K%P
+
+0xA4C
+... over the fence behind me...%K%P
+
+0xA58
+... and disappears into the forest...%K%P
+
+0xA6C
+Yuka「Ugh, I missed～」%K%P
+
+0xA78
+I let out a sigh of relief.%K%P
+
+0xA94
+No, I can't be impatient.%K%P
+
+0xAA0
+Until my opponent slips, I have to wait for my chance.%K%P
+
+0xAB4
+Yuka「Take this!」%K%P
+
+0xAEC
+As if it was second nature, Yuka quickly hits a return...%K%P
+
+0xAF8
+The ball arcs in the air and falls right above the sideline.%K%P
+
+0xB04
+Makoto「Shit!」%K%P
+
+0xB10
+I follow the rapidly moving ball.%K%P
+
+0xB38
+I reach out and swing my racket with all my strength.%K%P
+
+0xB44
+The ball weakly curves up into the air as it flies straight%Ntowards Yuka.%K%P
+
+0xB58
+Yuka「I've been waiting for this!」%K%P
+
+0xB6C
+Yuka「There!」%K%P
+
+0xBA4
+With all her strength, Yuka smashes the ball.%K%P
+
+0xBB0
+The ball slams into the court, then bounces up over the%Nfence and into the forest.%K%P
+
+0xBBC
+(Damn, she got me...)%K%P
+
+0xBD0
+(All right! I'll lob it...)%K%P
+
+0xC00
+―Oh crap!%K%P
+
+0xC0C
+I completely screwed up the shot...%K%P
+
+0xC18
+The ball slowly flies right straight towards Yuka.%K%P
+
+0xC2C
+Yuka「I've been waiting for this!」%K%P
+
+0xC40
+Yuka「There!」%K%P
+
+0xC78
+With all her strength, Yuka smashes the ball.%K%P
+
+0xC84
+The ball slams into the court, then bounces up over the%Nfence and into the forest.%K%P
+
+0xC90
+(Damn, she got me...)%K%P
+
+0xD24
+(With this, it's "15-40", huh...)%K%P
+
+0xD30
+(This isn't as hard as I thought...)%K%P
+
+0xD3C
+(That amazing first serve of hers must have been a%Nfluke.)%K%P
+
+0xD48
+Despite Yuka's almost inevitable loss, she's still beaming%Nwith confidence.%K%P
+
+0xD54
+She mischievously smiles, as if she's plotting something...%K%P
+
+0xDA8
+(With this, it's "40-15", huh...)%K%P
+
+0xDB4
+(Yuka only needs one more point to win.)%K%P
+
+0xDC0
+(She's owning me, isn't she...?)%K%P
+
+0xDCC
+Yuka gets ready to serve, triumphant in the face of my%Nalmost inevitable loss.%K%P
+
+0xE20
+(With this, it's "30-30", huh...)%K%P
+
+0xE2C
+(It's all right, there's still a chance to win...)%K%P
+
+0xE40
+Yuka「Well then, warm up time's over...」%K%P
+
+0xE4C
+Yuka「Maybe I should get serious.」%K%P
+
+0xE58
+Her eyes are sparkling with excitement.%K%P
+
+0xE64
+(Hmph, don't take me lightly...)%K%P
+
+0xE70
+Yuka「South Pole Eight Below Emerald Cooler Serve!」%K%P
+
+0xE7C
+Yuka「Jack! Dewey!」%K%P
+
+0xE90
+Yuka「HAWOOOOOOOOO!」%K%P
+
+0xEC8
+Yuka fires a powerfully sharp serve that could smash%Nthrough ice.%K%P
+
+0xED4
+However, her serves have lost their ability to daunt me. I%Ncan do this.%K%P
+
+0xEE0
+(How should I try returning?)%K
+
+0x1E34
+Hit a volley.
+
+0x1E40
+Do a drop shot.
+
+0xF20
+(After my return, I'll move up to the net and prepare for a%Nvolley!)%K%P
+
+0xF2C
+Or so I thought...%K%P
+
+0xF5C
+My arm is frozen with impatience.%K%P
+
+0xF68
+I hit the return with great force, knocking it into orbit...%K%P
+
+0xF74
+... But the ball lands outside the sideline...%K%P
+
+0xF80
+...%K%P
+
+0xF94
+Makoto「Damn...」%K%P
+
+0xFA0
+I suck my teeth.%K%P
+
+0xFAC
+I try to avoid Yuka's gaze as I grip my racket tightly.%K%P
+
+0xFC0
+Yuka「Ah, don't tell me you're going to blame your racket?」%K%P
+
+0xFCC
+Makoto「Dammit, shut the hell up!」%K%P
+
+0xFD8
+Makoto「Just shut up and serve.」%K%P
+
+0xFE4
+Yuka gives a broad grin...%K%P
+
+0xFF0
+Yuka「Suuuure♪」%K%P
+
+0xFFC
+... and replies.%K%P
+
+0x1050
+(The score is "40-30"...)%K%P
+
+0x105C
+(Yuka needs just one more point to win the game.)%K%P
+
+0x109C
+I hit a drop shot close to the net with a scooping motion.%K%P
+
+0x10A8
+The ball shoots up in the air, and loses speed as it%Nunsteadily heads for the ground.%K%P
+
+0x10B4
+Yuka wildly charges towards where it'll fall.%K%P
+
+0x10C0
+(―No way! ―Will she make it!?)%K%P
+
+0x10CC
+And then...%K%P
+
+0x10D8
+The ball brushes past the top of the net, then falls onto%Nthe opposite side of the court.%K%P
+
+0x10E4
+...%K%P
+
+0x10F8
+(Whew... that was close...)%K%P
+
+0x1104
+I sigh in relief.%K%P
+
+0x1118
+Yuka「Aww, this sucks! I was so close...」%K%P
+
+0x1124
+Yuka pouts in frustration.%K%P
+
+0x116C
+(The score is "30-40" now...)%K%P
+
+0x1178
+(I just need one more point to win.)%K%P
+
+0x1184
+Yuka hops back to the base line, and prepares another%Nball.%K%P
+
+0x1198
+Yuka「Here I go～♪」%K%P
+
+0x11A4
+Yuka「From all ages and all countries...」%K%P
+
+0x11B0
+Yuka「... We must name different kinds of liquor♪」%K%P
+
+0x11BC
+Makoto「What???」%K%P
+
+0x11D0
+Yuka「Johnnie Walker!」%K%P
+
+0x1208
+Yuka pays no attention to me as she suddenly launches%Nan ultra-fast serve.%K%P
+
+0x1214
+Makoto「Hey! You can't just change the rules!」%K%P
+
+0x1220
+Even so...%K%P
+
+0x122C
+Makoto「B-B-B-Brandy!」%K%P
+
+0x125C
+...I still play along.%K%P
+
+0x1270
+Yuka「Sake!」%K%P
+
+0x12A8
+(Um, um, what other kinds of liquor are there...?)%K
+
+0x1E4C
+Vodka!
+
+0x1E58
+Beer!
+
+0x1E64
+Gin!
+
+0x1E70
+Shaoxing wine!
+
+0x1330
+Makoto「Vodka!」%K%P
+
+0x1370
+Yuka「Okinawa sake!」%K%P
+
+0x13B0
+Makoto「Beer!」%K%P
+
+0x13F0
+Yuka「Wine!」%K%P
+
+0x1430
+Makoto「Gin!」%K%P
+
+0x1470
+Yuka「Tequila!」%K%P
+
+0x14B0
+Makoto「Shaoxing wine!」%K%P
+
+0x14F0
+Yuka「Rum!」%K%P
+
+0x15C8
+Makoto「Vodka!」%K%P
+
+0x15EC
+Makoto「Beer!」%K%P
+
+0x1610
+Makoto「Gin!」%K%P
+
+0x1634
+Makoto「Shaoxing wine!」%K%P
+
+0x1648
+Makoto「Um, um, um...」%K%P
+
+0x1654
+(No good! I can't think of anything!)%K%P
+
+0x16A8
+―*SLAM!*...%K%P
+
+0x16B4
+The ball flies straight past the court, and crashes in the%Nfence behind me.%K%P
+
+0x16C0
+Yuka, who had hit that superb smash, straightens her%Nposture and...%K%P
+
+0x16D4
+Yuka「Maybe we should have played tee ball instead?」%K%P
+
+0x16E0
+Yuka「Ohohohohohohoho♪」%K%P
+
+0x16EC
+... laughs like a stereotypical haughty English%Nnoblewoman.%K%P
+
+0x16F8
+However, I don't feel insulted.%K%P
+
+0x1704
+Rather, it's kind of heartwarming.%K%P
+
+0x1710
+Her silly laugh makes me smile.%K%P
+
+0x171C
+Before I know it, any frustrations I had were gone.%K%P
+
+0x1740
+In the end, the first set in the first match unfortunately%Nended with Yuka's victory...%K%P
+
+0x1788
+Yuka「Um, um, um...」%K%P
+
+0x1794
+Yuka「Waah! I can't think of anything!」%K%P
+
+0x17A0
+I smirk.%K%P
+
+0x17AC
+But immediately afterwards...!%K%P
+
+0x17C0
+Yuka「Ah, forget it!」%K%P
+
+0x17CC
+Yuka raises her arm overhead with all her strength.%K%P
+
+0x17D8
+Yuka「Time to get...」%K%P
+
+0x17E4
+Yuka「SMASHED!!!」%K%P
+
+0x1814
+Yuka's splendid smash disappears into the forest%Nbehind me.%K%P
+
+0x1820
+...%K%P
+
+0x1834
+Makoto「Hey! Where were you aiming, Yuka!?」%K%P
+
+0x1840
+She sticks out her tongue at me.%K%P
+
+0x184C
+Seeing Yuka act like that makes me smile.%K%P
+
+0x1870
+In the end, the first set in the first match ended with my%Nsplendid victory...%K%P
+
+0x18B0
+... ... ...%K%P
+

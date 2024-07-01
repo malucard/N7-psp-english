@@ -1,0 +1,381 @@
+text area offset and size:
+0xB30
+0x1DAE
+0x74
+And so, in order to prepare for the barbecue, it's been%Ndecided that I'll go to the shopping district to go buy%Nsome things.%K%P
+
+0x80
+The things I must buy are a large quantity of: beef, green%Npeppers, onions, oil, and beer.%K%P
+
+0x8C
+Carrying all of that on the way back while walking would%Nnot be an easy task.%K%P
+
+0x98
+That's why Izumi-san decided to let me borrow her%Nbicycle.%K%P
+
+0xA4
+I sit in the saddle, put my feet on the pedals, and go on%Nmy way...%K%P
+
+0xB0
+... Or so I plan to, but suddenly, I remember something.%K%P
+
+0xBC
+(Now that I think about it, don't we have some leftover%Nonions from yesterday at the lodge?)%K%P
+
+0xC8
+Kurumi asked for no onions in the food, so we didn't use%Nthem for dinner.%K%P
+
+0xD4
+Well then, what should I do?%K
+
+0xB08
+Return to the lodge.
+
+0xB14
+Head for the shopping district.
+
+0x11C
+(Buying more would just be a waste...)%K%P
+
+0x128
+(... I guess I'll just go to the lodge to pick them up.)%K%P
+
+0x134
+I turn the bike's front wheel to the west, and start%Nheading towards the lodge.%K%P
+
+0x174
+I breathlessly ascend the long hill road.%K%P
+
+0x180
+I put the kickstand up, climb the short staircase, and%Nopen the lodge's door.%K%P
+
+0x1D4
+Okuhiko「I... Ishihara!」%K%P
+
+0x1E0
+Okuhiko suddenly shouts this.%K%P
+
+0x1F4
+Okuhiko, who was lying down on the living room sofa,%Njumps to his feet like he's panicking.%K%P
+
+0x200
+Makoto「Huh? Okuhiko... what are you doing here?」%K%P
+
+0x20C
+Okuhiko「'What'? ... I'm allowed to do whatever I want, right?」%K%P
+
+0x218
+As Okuhiko says this, he hides something he was holding%Nbehind his back.%K%P
+
+0x224
+Makoto「Well, that's true...」%K%P
+
+0x238
+Okuhiko「Anyway, Ishihara, why did you come here?」%K%P
+
+0x244
+Makoto「Oh, right, I almost forgot.」%K%P
+
+0x250
+Makoto「I came here for some onions...」%K%P
+
+0x264
+Okuhiko「Huh? ... Onions?」%K%P
+
+0x270
+Makoto「Yeah. Izumi-san wanted them for the barbecue tonight.」%K%P
+
+0x27C
+As I answer, I head into the kitchen.%K%P
+
+0x2D4
+(Oh, here they are...)%K%P
+
+0x2E0
+There's a plastic bag besides the refrigerator with a%Nlarge number of onions in it.%K%P
+
+0x2EC
+I take the plastic bag and return to the living room.%K%P
+
+0x344
+Makoto「See you later, Okuhiko...」%K%P
+
+0x350
+And as I'm talking!%K%P
+
+0x35C
+―Rip!%K%P
+
+0x368
+―Roll, roll, roll, roll...!%K%P
+
+0x374
+Unable to bear the weight of the onions any longer, the%Nhandle of the plastic bag tears off.%K%P
+
+0x380
+The onions inside scatter and roll over the floor.%K%P
+
+0x394
+Okuhiko「Oh... for God's sake...」%K%P
+
+0x3A0
+Okuhiko「Of course that would happen if there were so many in%Nthere.」%K%P
+
+0x3B4
+While grumbling to himself, Okuhiko slowly bends over to%Nhelp.%K%P
+
+0x3C0
+Just then...%K%P
+
+0x3DC
+―Wham.%K%P
+
+0x3E8
+Something falls to the floor.%K%P
+
+0x3F4
+At Okuhiko's feet... is a thick file.%K%P
+
+0x400
+It seems that when Okuhiko bent over, it fell from his back.%K%P
+
+0x414
+Okuhiko「Ah...」%K%P
+
+0x420
+Okuhiko frantically picks up the file and hides it behind%Nhis back.%K%P
+
+0x42C
+Makoto「Huh? Why are you panicking, Okuhiko?」%K%P
+
+0x438
+Okuhiko「I'm not... panicking...」%K%P
+
+0x444
+Makoto「...」%K%P
+
+0x450
+Okuhiko「...」%K%P
+
+0x45C
+Makoto「Ah ha... I see...」%K%P
+
+0x468
+Makoto「It's something you don't want to show me... Is it a%Nscrapbook full of indecent photos?」%K%P
+
+0x47C
+Okuhiko「Y-You're wrong... that's not-」%K%P
+
+0x488
+Makoto「Bulls-eye, huh?」%K%P
+
+0x49C
+Okuhiko「Didn't I say you were wrong!? Mind your own business!」%K%P
+
+0x4A8
+Makoto「If I'm wrong, then when why can't you show me?」%K%P
+
+0x4BC
+As I say this, I reach out behind Okuhiko's back.%K%P
+
+0x4C8
+Okuhiko「I-Idiot! What're you doing!? Stop it, Ishihara!」%K%P
+
+0x4D4
+Our arms become entangled as we struggle for the file.%K%P
+
+0x4E0
+Before long...%K%P
+
+0x4EC
+Bam!%K%P
+
+0x4F8
+... At the end of the fight, I've successfully taken the file%Nfrom Okuhiko's hands.%K%P
+
+0x504
+Makoto「Let's have a look...」%K%P
+
+0x510
+I glance at the first page of the file.%K%P
+
+0x51C
+"Cur▲ Syndrome Inquiry"%K%P
+
+0x528
+It's written in a large, black Gothic font.%K%P
+
+0x534
+Makoto「Cur▲ Syndrome? What the hell's that?」%K%P
+
+0x540
+This time, I flip open to a random page and try reading it.%K%P
+
+0x568
+"2: Paramnesia... (1) False Memory Syndrome."%K%P
+
+0x574
+"Actual experiences are recalled, but in a fictional,%Nexaggerated, dramatized way."%K%P
+
+0x580
+"This is especially the case with those with hysterical%Npersonalities who crave attention, impostors, or%Npossibly liars―the pattern is that they all deceive%Nothers..."%K%P
+
+0x58C
+"While they deliberately mix personal experiences with%Nimaginary, exaggerated stories as they talk..."%K%P
+
+0x598
+"... they become unable to tell if their story was real or%Nfake, and accidentally end up completely turning into%Nthe main character of that story."%K%P
+
+0x5A4
+"This is called Mythomania (Pseudologia Fantastica)."%K%P
+
+0x5C0
+Makoto「... Huh???」%K%P
+
+0x5CC
+Makoto「What the hell is this? Isn't this a psychiatry report?」%K%P
+
+0x5E0
+Okuhiko「That's right. Is there something wrong with a Psychology%Nstudent reading a psychiatry report?」%K%P
+
+0x5EC
+Makoto「No, nothing at all, but... this was just a bit surprising...」%K%P
+
+0x61C
+Okuhiko「Surprising? ... Hey, hey, don't put me in the same%Ncategory as you.」%K%P
+
+0x628
+Okuhiko「I'm a hard worker, despite my looks.」%K%P
+
+0x634
+Okuhiko「I just don't want everyone to see me working so hard.」%K%P
+
+0x640
+Okuhiko says that as he quickly snatches the file from%Nmy hands.%K%P
+
+0x64C
+Makoto「Hmm... a hard worker, huh...」%K%P
+
+0x658
+As I mutter this, I pick up the plastic bag with the torn%Nhandle, and start to gather all of the onions.%K%P
+
+0x664
+Before long, I clean all the onions, stuff them in the bag,%Nand while holding it against my chest...%K%P
+
+0x670
+Makoto「Well then, I'll see you later. Don't miss the meeting time.」%K%P
+
+0x67C
+... With that, I leave the lodge...%K%P
+
+0x6D4
+For now, I'll drop off the onions at Lunabeach, and head%Nfor the shopping district.%K%P
+
+0x70C
+I turn my elbows while steering the handles as I blithely%Nride the bike while thinking about what happened earlier.%K%P
+
+0x718
+(Even so, Okuhiko, of all people...)%K%P
+
+0x724
+(... To think he'd still be studying even while at the camp.)%K%P
+
+0x730
+(...)%K%P
+
+0x73C
+(Huh? Hold on.)%K%P
+
+0x748
+(Now that I think about it, this is a "Seminar" Camp, isn't it?)%K%P
+
+0x754
+(Then isn't it really strange that we're not doing any kind%Nof studying at all?)%K%P
+
+0x760
+(Hmm...)%K%P
+
+0x76C
+(Studying, huh...)%K%P
+
+0x778
+(Even though I'm a Psychology student, I didn't%Nunderstand any of that stuff about False Memory%NSyndrome or Mythomania.)%K%P
+
+0x784
+(Of course, to me, that "Cur▲ Syndrome" stuff may as%Nwell have been gibberish.)%K%P
+
+0x790
+(Cur▲ Syndrome...)%K%P
+
+0x79C
+(Just what is that supposed to mean?)%K%P
+
+0x7A8
+(I guess it's about time I got my shit together and study%Nseriously as well, or I'll be in real trouble...)%K%P
+
+0x7E0
+... ... ...%K%P
+
+0x818
+I arrive at the shopping district, and enter a small%Nsupermarket near the start of the road, where I find what%NI need rather quickly.%K%P
+
+0x824
+Makoto「Beef, green peppers, oil, and beer...」%K%P
+
+0x838
+(It'll just be a pain in the ass to go all the way back to%Nthe lodge...)%K%P
+
+0x844
+(... I'll guess I'll just try to buy the onions at the shopping%Ndistrict.)%K%P
+
+0x850
+With that decided, I immediately turn north and start%Npedaling the bike.%K%P
+
+0x8A8
+I arrive at the shopping district, and enter a small%Nsupermarket near the start of the road, where I find what%NI need rather quickly.%K%P
+
+0x8B4
+Makoto「Beef, green peppers, onions, oil, and beer...」%K%P
+
+0x8C0
+Makoto「... All right, I'm all set.」%K%P
+
+0x8CC
+I mutter this, and straddle over to the bike.%K%P
+
+0x8D8
+I put the food in the cage by the front wheel, and load%Nthe case of beer cans on the luggage carrier on the%Nback wheel.%K%P
+
+0x8E4
+―Why do I have to buy so much beer?%K%P
+
+0x8F0
+Before I went shopping, I asked Izumi-san this.%K%P
+
+0x8FC
+Her answer was...%K%P
+
+0x910
+Izumi「Because Yuka-chan requested it.」%K%P
+
+0x924
+(Oh brother...)%K%P
+
+0x930
+(We're finally having a barbecue, so do we really have to%Nlet Yuka spoil it...?)%K%P
+
+0x93C
+I shake off these uneasy thoughts, and begin to%Nenergetically pedal the bike.%K%P
+
+0x96C
+... ... ...%K%P
+
+0x978
+Before long, the sun is setting, and the promised time%Narrives.%K%P
+
+0x984
+We meet at Lunabeach, where we all pitch in carrying the%Ntools needed for the barbecue to Princess Beach.%K%P
+
+0x990
+And then...%K%P
+

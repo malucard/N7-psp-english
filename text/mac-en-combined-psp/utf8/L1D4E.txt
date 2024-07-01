@@ -1,0 +1,975 @@
+text area offset and size:
+0x1BF0
+0x4860
+0x78
+... The barbecue is finally set up.%K%N
+
+0x84
+Everyone is holding their own paper cup.%K%N
+
+0x90
+Inside them is ice cold beer.%K%P
+
+0x9C
+(However, Kurumi and Haruka have orange juice.)%K%P
+
+0xA8
+Savory smoke begins to rise from the iron plate.%K%P
+
+0xBC
+Izumi「Well then, shall we make a toast?」%K%P
+
+0xC8
+Izumi「The one to lead off the toast will be... right. Leader of the%NKawashima Party, would you do the honors?」%K%P
+
+0xE4
+Yuka「Huh? Me?」%K%P
+
+0xF0
+Everyone's gazes immediately turn to Yuka.%K%P
+
+0x104
+Yuka「All right! Leave it to me!」%K%P
+
+0x118
+Yuka「... But... what should I toast to?」%K%P
+
+0x124
+Kurumi「Geez, you're supposed to think it up yourself, Yuka-san!」%K%P
+
+0x138
+Yuka「I see... You're right.」%K%P
+
+0x14C
+Yuka「Let's see...」%K%P
+
+0x158
+Yuka「All right, then to our chance meeting...」%K%P
+
+0x16C
+Yuka「And it's a little late, but also to Saki's recovery...」%K%P
+
+0x178
+Yuka「Well then, cheers♪」%K%P
+
+0x184
+Everyone「Cheers!」%K%P
+
+0x190
+With their voices in unison, everyone touts their paper%Ncups...%K%N
+
+0x19C
+... They're all smiling...%K%N
+
+0x1A8
+They're... smiling...?%K%P
+
+0x25C
+I only realized it just now...%K%P
+
+0x268
+I must not have realized it because everyone's acting%Nso naturally.%K%P
+
+0x2AC
+Saki and Haruka's happy faces...%K%N
+
+0x2B8
+Why do they seem so happy, even though they fought%Nonly yesterday?%K%P
+
+0x2E0
+Makoto「Kurumi, Kurumi... come here...」%K%P
+
+0x2EC
+Kurumi「Hmm? What?」%K%P
+
+0x2F8
+When everyone else becomes engrossed in%Nconversation with each other, I pick that time to casually%Ncall Kurumi over towards a nook.%K%P
+
+0x330
+Makoto「This may be an abrupt question, but...」%K%P
+
+0x33C
+Kurumi「?」%K%P
+
+0x348
+Makoto「Were Saki and Haruka in this kind of mood before I%Narrived at Lunabeach?」%K%P
+
+0x354
+I quickly glance towards the circle of people that has%Nnow formed by the plate.%K%P
+
+0x360
+Kurumi「Oh, that's right... Onii-chan, you don't know...」%K%P
+
+0x36C
+Makoto「Did something happen?」%K%P
+
+0x378
+Kurumi「Yeah. Guess what?」%K%P
+
+0x384
+When she says that, Kurumi suddenly begins to whisper.%K%P
+
+0x390
+Kurumi「Truth is, it seems Saki-san... had no intention of coming to%NLunabeach.」%K%P
+
+0x39C
+Makoto「?」%K%P
+
+0x3A8
+Kurumi「And then, before you came, Onii-chan... Kurumi thinks it%Nwas just about 4:00.」%K%P
+
+0x3B4
+Kurumi「Onee-chan went to Saki-san's summer house, and%Nmanaged to persuade her somehow...」%K%P
+
+0x3C0
+Makoto「So that put Saki back in a good mood...」%K%P
+
+0x3CC
+Kurumi「That's right. See, that's Onee-chan's specialty, right?」%K%P
+
+0x3D8
+Makoto「... But is Haruka okay?」%K%P
+
+0x3E4
+Kurumi「Yeah. It seems you don't have to worry much about%NHaruka-san.」%K%P
+
+0x3F0
+Makoto「Then those two have made peace?」%K%P
+
+0x3FC
+Kurumi「Hmm... Kurumi wonders about that... Kurumi doesn't think%Nshe would go as far as to say that...」%K%P
+
+0x408
+Kurumi「Saki-san does seem to be a little upset...」%K%P
+
+0x414
+Makoto「Really?」%K%P
+
+0x420
+Kurumi「Ah... it's not like Kurumi can tell if she feels that way or%Nnot...」%K%P
+
+0x42C
+Kurumi「It's just what Kurumi... happens to... think...」%K%P
+
+0x438
+Makoto「Hmm... I see.」%K%P
+
+0x444
+Makoto「Thank you, Kurumi!」%K%P
+
+0x450
+I pat her on the head.%K%P
+
+0x464
+Saki seems happy...%K%N
+
+0x470
+She was fighting with Haruka mere hours ago. How's this%Npossible?%K%P
+
+0x498
+Makoto「Kurumi, Kurumi... come here...」%K%P
+
+0x4A4
+Kurumi「Hmm? What?」%K%P
+
+0x4B0
+When everyone else becomes engrossed in%Nconversation with each other, I pick that time to casually%Ncall Kurumi over towards a nook.%K%P
+
+0x4E8
+Makoto「This may be an abrupt question, but...」%K%P
+
+0x4F4
+Kurumi「?」%K%P
+
+0x500
+Makoto「Was Saki in this kind of mood before Haruka and I arrived%Nat Lunabeach?」%K%P
+
+0x50C
+I quickly glance towards Saki.%K%P
+
+0x518
+Kurumi「Oh, that's right... Onii-chan, you don't know...」%K%P
+
+0x524
+Makoto「Did something happen?」%K%P
+
+0x530
+Kurumi「Yeah. Guess what?」%K%P
+
+0x53C
+When she says that, Kurumi suddenly begins to whisper.%K%P
+
+0x548
+Kurumi「Truth is, it seems Saki-san... had no intention of coming to%NLunabeach.」%K%P
+
+0x554
+Makoto「?」%K%P
+
+0x560
+Kurumi「And then, before you came, Onii-chan... Kurumi thinks it%Nwas just about 4:00.」%K%P
+
+0x56C
+Kurumi「Onee-chan went to Saki-san's summer house, and%Nmanaged to persuade her somehow...」%K%P
+
+0x578
+Makoto「So she brought Saki along...」%K%P
+
+0x584
+Kurumi「That's right. See, that's Onee-chan's specialty, right?」%K%P
+
+0x590
+Makoto「... Then does that mean that completely put Saki in a%Ngood mood?」%K%P
+
+0x59C
+Kurumi「Hmm... Kurumi wonders about that... Kurumi doesn't think%Nshe would go as far as to say that...」%K%P
+
+0x5A8
+(Well... that's a given...)%K%P
+
+0x5B4
+I don't know how Izumi-san managed to persuade Saki.%NGiven that she quarreled with Haruka today, it would%Nhave taken a miracle to cheer her up so much.%K%P
+
+0x5C0
+Kurumi「Ah... it's not like Kurumi can tell if she feels that way or%Nnot...」%K%P
+
+0x5CC
+Kurumi「It's just what Kurumi... happens to... think...」%K%P
+
+0x5D8
+Makoto「Hmm... I see.」%K%P
+
+0x5E4
+Makoto「Thank you, Kurumi!」%K%P
+
+0x5F0
+I pat her on the head.%K%P
+
+0x604
+Saki and Haruka's happy faces...%K%N
+
+0x610
+How are they both so happy when they fought mere%Nhours ago?%K%P
+
+0x638
+Makoto「Kurumi, Kurumi... come here...」%K%P
+
+0x644
+Kurumi「Hmm? What?」%K%P
+
+0x650
+When everyone else becomes engrossed in%Nconversation with each other, I pick that time to casually%Ncall Kurumi over towards a nook.%K%P
+
+0x688
+Makoto「This may be an abrupt question, but...」%K%P
+
+0x694
+Kurumi「?」%K%P
+
+0x6A0
+Makoto「Have Saki and Haruka been in this mood since the%Nbeginning?」%K%P
+
+0x6AC
+I quickly glance towards the circle of people that has%Nnow formed by the plate.%K%P
+
+0x6B8
+Kurumi「Oh, that's right... Onii-chan, you don't know...」%K%P
+
+0x6C4
+Makoto「Did something happen?」%K%P
+
+0x6D0
+Kurumi「Yeah. Guess what?」%K%P
+
+0x6DC
+When she says that, Kurumi suddenly begins to whisper.%K%P
+
+0x6E8
+According to her, Saki originally had no intention of%Ncoming to Lunabeach.%K%P
+
+0x6F4
+But then Okuhiko managed to calm her down, and%Npersuaded her to come along with him.%K%P
+
+0x700
+(Okuhiko actually managed to persuade Saki...)%K%P
+
+0x70C
+(Damn, he's good...!)%K%P
+
+0x718
+I feel a bit of admiration.%K%P
+
+0x724
+Makoto「... But is Haruka okay?」%K%P
+
+0x730
+Kurumi「Yeah. It seems you don't have to worry much about%NHaruka-san.」%K%P
+
+0x73C
+(Don't worry... about Haruka?)%K%P
+
+0x748
+Makoto「Then... are you saying that... those two have made%Npeace?」%K%P
+
+0x754
+Kurumi「Hmm... Kurumi wonders about that... Kurumi doesn't think%Nshe would go as far as to say that...」%K%P
+
+0x760
+Kurumi「To put it some way or another, at the very least, Saki%Ndoes seem a little bothered by it all after all...」%K%P
+
+0x76C
+(Well, that's probably true...)%K%P
+
+0x778
+Given that she quarreled with Haruka today at Viewpoint%NPark, it would have taken a miracle to cheer her up so%Nmuch.%K%P
+
+0x784
+Kurumi「Ah... it's not like Kurumi can tell if she feels that way or%Nnot...」%K%P
+
+0x790
+Kurumi「It's just what Kurumi... happens to... think...」%K%P
+
+0x79C
+Makoto「Hmm... I see.」%K%P
+
+0x7A8
+Makoto「Thank you, Kurumi!」%K%P
+
+0x7B4
+I pat her on the head.%K%P
+
+0x7C8
+Saki and Haruka's happy faces...%K%N
+
+0x7D4
+Why do they seem so happy, even though they fought%Nonly yesterday?%K%P
+
+0x7FC
+Makoto「Kurumi, Kurumi... come here...」%K%P
+
+0x808
+Kurumi「Hmm? What?」%K%P
+
+0x814
+When everyone else becomes engrossed in%Nconversation with each other, I pick that time to casually%Ncall Kurumi over towards a nook.%K%P
+
+0x84C
+Makoto「This may be an abrupt question, but...」%K%P
+
+0x858
+Kurumi「?」%K%P
+
+0x864
+Makoto「Have Saki and Haruka been in this mood since the%Nbeginning?」%K%P
+
+0x870
+I quickly glance towards the circle of people that has%Nnow formed by the plate.%K%P
+
+0x87C
+Kurumi「Oh, that's right... Onii-chan, you don't know...」%K%P
+
+0x888
+Makoto「Did something happen?」%K%P
+
+0x894
+Kurumi「Yeah. Guess what?」%K%P
+
+0x8A0
+When she says that, Kurumi suddenly begins to whisper.%K%P
+
+0x8AC
+According to her, Saki originally had no intention of%Ncoming to Lunabeach.%K%P
+
+0x8B8
+But then Okuhiko managed to calm her down, and%Npersuaded her to come along with him.%K%P
+
+0x8C4
+(Okuhiko actually managed to persuade Saki...)%K%P
+
+0x8D0
+(Damn, he's good...!)%K%P
+
+0x8DC
+I feel a bit of admiration.%K%P
+
+0x8E8
+Makoto「... But is Haruka okay?」%K%P
+
+0x8F4
+Kurumi「Yeah. It seems you don't have to worry much about%NHaruka-san.」%K%P
+
+0x900
+Makoto「Then those two have made peace?」%K%P
+
+0x90C
+Kurumi「Hmm... Kurumi wonders about that... Kurumi doesn't think%Nshe would go as far as to say that...」%K%P
+
+0x918
+Kurumi「Saki-san does seem to be a little upset...」%K%P
+
+0x924
+Makoto「Really?」%K%P
+
+0x930
+Kurumi「Ah... it's not like Kurumi can tell if she feels that way or%Nnot...」%K%P
+
+0x93C
+Kurumi「It's just what Kurumi... happens to... think...」%K%P
+
+0x948
+Makoto「Hmm... I see.」%K%P
+
+0x954
+Makoto「Thank you, Kurumi!」%K%P
+
+0x960
+I pat her on the head.%K%P
+
+0x9B4
+I go back into the circle with everyone.%K%P
+
+0x9C0
+Now that Kurumi's mentioned it, it's easy to tell by Saki's%Nexpression that there's definitely something bothering%Nher about this whole situation.%K%P
+
+0x9CC
+If Kurumi hadn't told me, I wouldn't have noticed it...%K%P
+
+0x9E4
+Just then, Haruka suddenly speaks...%K%P
+
+0xA2C
+Haruka「This...」%K%P
+
+0xA38
+Haruka dangles a slightly dirty, clear plastic bag in front%Nof her.%K%P
+
+0xA44
+Inside is a wriggling group of small, living creatures,%Nclosely packed and jammed in the bag.%K%P
+
+0xA50
+Everyone's jaws drop...%K%P
+
+0xA5C
+Makoto「Wh-What are those...?」%K%P
+
+0xA68
+Resolving myself, I decide to try asking her.%K%P
+
+0xA74
+Haruka「Sea roaches.」%K%P
+
+0xA80
+Haruka quickly answers.%K%P
+
+0xA8C
+Okuhiko「Wh-Wh-Wh-What d-do you intend to do with them,%NHaruka-chan?」%K%P
+
+0xA98
+Soon enough, she responds with...%K%P
+
+0xAB4
+Haruka「Eat them.」%K%P
+
+0xAC0
+Okuhiko「... Huh?」%K%P
+
+0xACC
+Yuka「... Huh?」%K%P
+
+0xAD8
+Izumi「... Huh?」%K%P
+
+0xAE4
+Saki「... Huh?」%K%P
+
+0xAF0
+Makoto「... Huuuh!?」%K%P
+
+0xB0C
+Kurumi「... But they might be surprisingly tasty!」%K%P
+
+0xB18
+Kurumi mutters this.%K%P
+
+0xB24
+Saki「Th-There's no way something like that would be good!」%K%P
+
+0xB40
+Haruka「... Shall I try grilling them?」%K%P
+
+0xB54
+Saki「Hey, listen to what people are saying, dammit!」%K%P
+
+0xB60
+Kurumi「Grill them, grill them, grill the sea roaches♪」%K%P
+
+0xB6C
+Saki「Don't grill them!」%K%P
+
+0xB78
+Haruka ignores her pleas...%K%P
+
+0xB84
+As Saki protests, Haruka has almost finished opening%Nthe plastic bag.%K%P
+
+0xB98
+Izumi「Hold on, Haruka-chan..?」%K%P
+
+0xBB4
+Yuka「Stop it, Haruka!」%K%P
+
+0xBC0
+Yuka reaches her arm out, and tries to snatch the%Nplastic bag out of Haruka's hands.%K%P
+
+0xBCC
+And in that instant!%K%P
+
+0xC20
+The opening to the plastic bag opens up, and the large%Ngroup of sea roaches scatter.%K%P
+
+0xC34
+Okuhiko「GUWAAAAAAA!!!」%K%P
+
+0xC40
+Okuhiko screams in an extremely loud voice.%K%P
+
+0xC54
+We all panic, and begin to frantically run away.%K%P
+
+0xC60
+We're like spiders running away from a fire.%K%N
+
+0xC6C
+Fortunately, none of the sea roaches land on top of the%Niron plate as they scatter away...%K%P
+
+0xC90
+... And before long, they've all disappeared in the%Ndirection of the rocks.%K%P
+
+0xCB8
+Makoto「Heeey, it's all right now!」%K%P
+
+0xCC4
+When they hear my voice, everyone timidly comes back.%K%P
+
+0xCD8
+Yuka「Sheesh! Haruka!? Kurumi-chan!?」%K%P
+
+0xCE4
+As soon as Yuka comes back, she cries in a thunderous%Nvoice.%K%P
+
+0xD00
+Haruka「But...」%K%P
+
+0xD0C
+Kurumi「... We wanted to eat them.」%K%P
+
+0xD18
+Haruka and Kurumi slump their shoulders in%Ndisappointment...%K%P
+
+0xDBC
+About an hour has passed since then.%K%N
+
+0xDC8
+I guess you could say the party's in full swing?%K%P
+
+0xDD4
+On contrary to what you'd expect, it seems that sea%Nroach incident only caused everyone's hearts to%Nbecome heated up.%K%P
+
+0xDE0
+I mean "heated up" in a good way - in other words, it's%Neven livelier than before.%K%P
+
+0xDEC
+Everything is calm as we fool around and poke fun at%Neach other.%K%P
+
+0xDF8
+No, calling it "calm" is too much of a stretch, as there's%Nstill a noisy clamor about.%K%P
+
+0xE20
+Particularly from... Yuka.%K%P
+
+0xE68
+Yuka「Phaaa! Beer goshe well wif barbecuesh, doeshen't it?%NRight? Right?」%K%P
+
+0xE74
+To her, one short hour must be more than enough time to%Nget plastered.%K%P
+
+0xE80
+Yuka「Kurumi-tan, yuu want a drink?」%K%P
+
+0xE8C
+As she says this, she takes Kurumi's paper cup filled%Nwith orange juice and tries to pour in beer.%K%P
+
+0xE98
+Makoto「Hey, hey, don't encourage minors!」%K%P
+
+0xEAC
+Yuka「Sheesh, yer shou shtiff.」%K%P
+
+0xEB8
+Yuka「Yuu haven't had enuff to drink yet, have yuu, Mako-tan?」%K%P
+
+0xEC4
+This time, she thrusts a beer can towards me.%K%P
+
+0xED0
+(Geez, Yuka should be banned from alcohol...)%K%P
+
+0xEDC
+(I should've kept a close eye on her...)%K%P
+
+0xEE8
+Makoto「Haah...」%K%P
+
+0xEF4
+I release a weary sigh.%K%P
+
+0xF08
+Yuka「Ahh, if yer like dat, yer gonna widder away shooooooon.」%K%P
+
+0xF14
+Yuka「Yuu'll bee like a shiitake!」%K%P
+
+0xF20
+Okuhiko「Dahahahaha♪ Aren't shiitakes nice, Yuka-chan?」%K%P
+
+0xF3C
+Thanks to Okuhiko's laugh, I'm kind of pissed off.%K%P
+
+0xF48
+In an attempt to sway off my irritation, I reach my%Nchopsticks out for a grilled piece of beef.%K%P
+
+0xF54
+But just as I'm on the verge of grabbing it, my hand slips%Naccidentally, and the chopsticks fall on top of the iron%Nplate.%K%P
+
+0xF68
+Kurumi「Geez, Onii-chan, you sure you're not drunk?」%K%P
+
+0xF74
+Drunk?%K%N
+
+0xF80
+... Hmm... that's certainly possible.%K%N
+
+0xF8C
+Doing things such as knocking over cups and dropping%Nmy chopsticks are signs that I could be drunk.%K%P
+
+0xF98
+(I need to show a little more self-control...)%K%P
+
+0xFA4
+While I'm thinking this...%K%N
+
+0xFB0
+... I seem to have lost my mind, as I suddenly try to grab%Nmy chopsticks off the iron plate with my bare hands.%K%P
+
+0xFBC
+Makoto「HOT!!」%K%P
+
+0xFC8
+I frantically jerk my hand away.%K%P
+
+0xFDC
+Kurumi「Kyahahaha♪ Geez, you're so helpless... Kurumi will get%Nthem for you♪」%K%P
+
+0xFE8
+Kurumi picks up my chopsticks using her own.%K%P
+
+0x1018
+Just then...%K%P
+
+0x1034
+Yuka「Ahh!!」%K%P
+
+0x1040
+... Suddenly, Yuka tries to bend herself forward, and%Npoints at my lightly burnt hand.%K%P
+
+0x104C
+She points at me using her middle and index fingers...%K%P
+
+0x1074
+Yuka「Eye have jusht come up wif shomefing amashin'!」%K%P
+
+0x1080
+Kurumi「... Huh?!」%K%P
+
+0x1094
+Yuka「Whaa doo yuu call a burnt Ishihara?」%K%P
+
+0x10A0
+Kurumi「... What?」%K%P
+
+0x10AC
+Yuka「Ish a joke, a joke!」%K%P
+
+0x10B8
+Yuka「Whaa doo yuu call a burnt Ishihara? An 'Ishiitakehara'!」%K%P
+
+0x10C4
+Kurumi「...」%K%P
+
+0x10D0
+Makoto「... Th-That's pretty weak...」%K%P
+
+0x10DC
+Kurumi「Hmm... Yuka-san, sorry, but it's not really that funny.」%K%P
+
+0x10F0
+Yuka「Huuuuh! Yer kiddin'! Even dough I fought it wash radder%Nclever! Boo...」%K%P
+
+0x10FC
+She's booing again...%K%P
+
+0x1108
+Well, for the time being, I'm relieved.%K%N
+
+0x1114
+If Yuka and Kurumi were in perfect synch, then I'd fear for%Nthe future of this planet.%K%P
+
+0x1120
+Yuka「Hmmm～～～～～～～mmmm.」%K%P
+
+0x1134
+Yuka「Den haush dish?」%K%P
+
+0x1140
+Yuka's eyes sparkle.%K%P
+
+0x1164
+―And at that time!%K%P
+
+0x11A8
+This time, Saki's the one who commits a blunder.%K%N
+
+0x11B4
+The instant she tries to transfer the paper cup in her%Nright hand to her left hand, her hand slips.%K%P
+
+0x11C0
+Her beer splashes all over Yuka, who was standing right%Nnext to her.%K%P
+
+0x11CC
+From her chest to her lower sections... almost her entire%Nbody has been soaked by a large amount of beer.%K%P
+
+0x11E0
+Yuka「... H-Hey, Shakiiiiii...」%K%P
+
+0x11FC
+Saki「... S-Sorry.」%K%P
+
+0x1208
+Everyone becomes completely silent.%K%P
+
+0x1214
+Okuhiko「But I guess you could say she's 'soaking up the beer',%Nright? That's not much of a difference.」%K%P
+
+0x1220
+Okuhiko makes an unnecessary joke.%K%N
+
+0x122C
+When Saki hears that...%K%P
+
+0x1240
+Saki「Hee hee...」%K%P
+
+0x124C
+... She giggles.%K%P
+
+0x1268
+Yuka「Geesh, dish ish no laffin' matter!」%K%P
+
+0x1284
+Saki「... Really, I'm sorry.」%K%P
+
+0x1290
+Saki「It's just what Okuhiko-kun, hee hee, said was... kinda true...」%K%P
+
+0x12C0
+―The instant she says this, something comes flying%Nfrom a different direction!%K%P
+
+0x12CC
+It's an orange colored liquid... juice.%K%N
+
+0x12D8
+That orange juice flies straight as if it were a living%Nbeing, landing a direct hit on Saki.%K%P
+
+0x12EC
+We all simultaneously look in the direction of where the%Njuice was thrown...%K%P
+
+0x131C
+Standing there is Haruka, holding an empty paper cup.%K%P
+
+0x1338
+Saki「...」%K%P
+
+0x1344
+Saki seems bewildered, as if she doesn't fully%Nunderstand what just happened.%K%P
+
+0x1360
+Haruka「You don't seem... to feel bad about what you did.」%K%P
+
+0x136C
+Saki「...」%K%P
+
+0x1378
+Haruka「I didn't think you'd understand... unless the same thing%Nwas done to you.」%K%P
+
+0x138C
+Saki「Wh... Wh... What the hell's your problem!?」%K%P
+
+0x1398
+Saki「I did feel bad! That's why I apologized countless times!」%K%P
+
+0x13A4
+Haruka「Only apologizing twice... is hardly what you'd call%N'countless'.」%K%P
+
+0x13B0
+Saki「Twice is enough for this shameful drunkard, right?!」%K%P
+
+0x13BC
+Yuka「Shameful drunkahd!?」%K%P
+
+0x13C8
+Yuka「Aren't yuu de drunk wan here!? If yuu weren't, den%Ndere'sh nah wei yuu would have shpilled beer over me!」%K%P
+
+0x13D4
+Yuka「Or ah yuu shayin' yuu did it on purposhe!?」%K%P
+
+0x13E0
+Saki「What kind of person would do that on purpose!?」%K%P
+
+0x13EC
+Saki「That's right! If you're a 'human', then you'd never do%Nsomething like that on purpose!」%K%P
+
+0x13F8
+Saki「But somehow, it seems that 'clones' are different in that%Nregard, aren't they!?」%K%P
+
+0x1414
+Just then...%K%P
+
+0x1430
+Izumi「ENOUGH!!!」%K%P
+
+0x143C
+... Finally, Izumi-san raises her voice, unable to watch any%Nlonger. That same gentle Izumi-san.%K%N
+
+0x1448
+Her roar immediately shuts us up...%K%P
+
+0x1454
+Izumi「You're all adults here, so don't fight over such a trivial%Nthing!」%K%P
+
+0x1460
+The three of them are overwhelmed and can't face%NIzumi-san's deathly glare, staying firmly silent while%Nstaring at the ground.%K%P
+
+0x1474
+This is really awkward...%K%N
+
+0x1480
+Even though I'm a third party, I really want to run away...%K%P
+
+0x148C
+No, I might want to run away exactly because I'm a third%Nparty.%K%P
+
+0x1498
+It couldn't possibly get any worse... Saki breaks the%Nsilence and mutters something.%K%P
+
+0x14C8
+Saki「Anyway...」%K%P
+
+0x14D4
+Saki「... I'm going home now.」%K%P
+
+0x14F0
+Saki picks up her bag, which she'd placed at her feet.%K%P
+
+0x1520
+She accidently drops something.%K%P
+
+0x152C
+I look on top of the sand.%K%N
+
+0x1538
+Sprawled on the beach is the "Beef Bag"... the bag full of%Nbeef that we all paid Izumi-san to buy.%K%P
+
+0x154C
+Why does Saki...?%K%P
+
+0x1568
+Haruka「What are you planning to do... by stealing that?」%K%P
+
+0x1574
+Haruka asks her this unfalteringly.%K%P
+
+0x1588
+Saki「I'm not stealing!」%K%P
+
+0x1594
+Haruka「Then... you're taking it?」%K%P
+
+0x15A0
+Saki「... Shut up! It's not worth worrying over, is it!?」%K%P
+
+0x15B4
+Haruka「You can't do that...」%K%P
+
+0x15C0
+Haruka「Because everyone chipped in... to buy this.」%K%P
+
+0x15D4
+Saki「Geez, shut your damn mouth, you bitch!!」%K%P
+
+0x15E0
+Saki「Then why don't you report me to the police!?」%K%P
+
+0x15F4
+Saki「I won't run or hide, because I'll always be in that summer%Nhouse!」%K%P
+
+0x1608
+Saki turns around as if she's blocking something, and%Nruns towards the hill road while kicking up sand...%K%P
+
+0x162C
+The beef left on the sandy beach looks artificial, like%Nwaxwork.%K%P
+
+0x1638
+The fire under the iron plate seems like it could go out%Nany time now.%K%P
+
+0x166C
+... One minute, two minutes, and even ten minutes pass%Nwithout a single person opening their mouths.%K%P
+
+0x1678
+Why did things turn out this way?%K%N
+
+0x1684
+Just a few mere minutes ago, the air was covered with%Nthe sound of our happy laughter...%K%P
+
+0x1690
+In the end, it seems the tension between Saki and Haruka%Nreally was still weighing heavily on their minds.%K%P
+
+0x169C
+(I need to do something...)%K%P
+
+0x16A8
+(But what can I even do...?)%K%P
+
+0x16B4
+As I think this, my gaze suddenly shifts towards the%Nshadow of a distant rock.%K%P
+
+0x16D0
+Over there, alone and filled with sadness, is Kurumi...%K%P
+
+0x16DC
+Right now, she's curled up her small back while her%Nshoulders shake as she cries.%K%P
+
+0x16E8
+She lets out the sobs that have been welling up inside%Nof her... *Sob*, *sob*... *sob*, *sob*...%K%P
+
+0x16F4
+I understand Kurumi's torment so well that it almost hurts.%NKurumi's the kind of kid who can't bear such an ugly%Nargument like that...%K%P
+
+0x1700
+I think of running up to her and comforting her, but I can't%Nthink of any words I should use to do so.%K%N
+
+0x170C
+Right now... I have no choice but to stay silent...%K%P
+
+0x173C
+The sound of the waves incessantly breaking on the%Nshore is the sound of the sea's lamentations.%K%P
+

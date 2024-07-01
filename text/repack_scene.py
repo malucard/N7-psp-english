@@ -41,7 +41,10 @@ def main():
         new_f.seek(reference_off);
         new_f.write(pos_bytes);
         new_f.seek(pos);
-        new_f.write(en_line);
+        if en_line != b'\x00':
+          new_f.write(en_line)
+        else:
+          new_f.write(jap_line)
       new_f.write(old_mm[-24:]);
       new_f.close();
       old_mm.close();

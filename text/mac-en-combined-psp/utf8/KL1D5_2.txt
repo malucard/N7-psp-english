@@ -1,0 +1,1377 @@
+text area offset and size:
+0x2110
+0x5D93
+0x5C
+I suddenly wake up.%K%P
+
+0x68
+I fell asleep without realizing it...%K%P
+
+0x74
+My watch says "11:38 A.M.".%K%P
+
+0x80
+It's a lot later than when I normally wake up.%K%P
+
+0xC0
+There's no one in the living room.%K%P
+
+0xCC
+I wonder where they've all gone?%K%P
+
+0xD8
+I wash my face, brush my teeth, change my clothes, and%Nhead out.%K%P
+
+0xE4
+My destination is obvious.%K%P
+
+0xF0
+―I'm going to Lunabeach.%K%P
+
+0x130
+With the sky as cloudy as it is, it's hard to believe that it%Nwas so starry last night.%K%P
+
+0x13C
+The multi-layered clouds completely cover the sky... but%Nthey don't seem like rain clouds.%K%P
+
+0x148
+The dreary sky is starting to make me feel gloomy.%K%P
+
+0x154
+At any rate, this weather is unpleasant.%K%P
+
+0x1A4
+The wind is eerily still.%K%P
+
+0x1B0
+The trees aren't swaying and nor are the birds chirping.%NIt's as if time has frozen.%K%P
+
+0x1BC
+The sun is covered by thick clouds, so I don't even cast%Na shadow.%K%P
+
+0x1D8
+Kurumi「Ah, Onii-chan♪」%K%P
+
+0x200
+When I get halfway down the road, I see Kurumi running%Ntowards me from up ahead.%K%P
+
+0x214
+Kurumi「Were you going somewhere now?」%K%P
+
+0x220
+Makoto「Y-Yeah... kinda...」%K%P
+
+0x22C
+There's no way I can tell her I was going to Lunabeach.%K%P
+
+0x238
+If Kurumi ends up tagging along, I can't carry out my plan%Nto ask Izumi-san for the rest of the story.%K%P
+
+0x244
+It's vital that I trick her into going away.%K%P
+
+0x250
+Kurumi「'Kinda'... you say...」%K%P
+
+0x264
+Kurumi「Ah... could it be that you're going to see Onee-chan%Nagain?」%K%P
+
+0x270
+I'm shocked that she guessed it right...%K%P
+
+0x27C
+Makoto「N-No... I was just going to walk around today...」%K%P
+
+0x288
+Makoto「You see, this weather... isn't good, but occasionally, I like%Ntaking walks under the cloudy sky. Strange, huh?」%K%P
+
+0x294
+Kurumi「'Strange'...」%K%P
+
+0x2A0
+Makoto「More importantly, where are you planning on going?%NThere's no one at the lodge.」%K%P
+
+0x2AC
+Kurumi「Kurumi came here to see Onii-chan!」%K%P
+
+0x2B8
+Makoto「Me?」%K%P
+
+0x2DC
+Kurumi「Yeah. You promised to definitely come next time to watch%Nthe crab sumo, right?」%K%P
+
+0x2E8
+Ah... Now that she mentions it, I said that on this road%Nyesterday.%K%P
+
+0x2FC
+Kurumi「Yeah. Yesterday, Kurumi tried to invite you to go see%Ncrab sumo...」%K%P
+
+0x308
+Ah... now that I think about it, Kurumi suddenly ran off%Nangrily yesterday for some reason...%K%P
+
+0x314
+It was definitely on this road as well...%K%P
+
+0x320
+Kurumi「So let's go watch some crab sumo♪」%K%P
+
+0x32C
+Makoto「No, but... I have to go take a wal―」%K%P
+
+0x338
+Kurumi「A walk? It's not like you promised to walk with someone%Nelse, right?」%K%P
+
+0x344
+Makoto「W-Well, that's true, but...」%K%P
+
+0x350
+Kurumi「Then it's no problem at all, right?」%K
+
+0x20D0
+Yes, it is.
+
+0x20DC
+You're right.
+
+0x390
+Makoto「It is a problem! I'm really in the mood for a walk today. I%Ntold myself I was going to do it, so I have to.」%K%P
+
+0x39C
+Makoto「If I don't do it, I think I'll really start to kick myself over it-」%K%P
+
+0x3B0
+Kurumi「Then Kurumi will go with you～♪」%K%P
+
+0x3BC
+Makoto「...」%K%P
+
+0x3C8
+Kurumi「...」%K%P
+
+0x3D4
+Makoto「...」%K%P
+
+0x3E0
+Kurumi「...」%K%P
+
+0x3EC
+Makoto「... Well, that was a joke. In reality, there's no problem at all%Nwhatsoever～」%K%P
+
+0x3F8
+Kurumi「Eheh♪ Well then, it's decided!」%K%P
+
+0x40C
+Makoto「It's no problem at all... maybe.」%K%P
+
+0x418
+Kurumi「Right?」%K%P
+
+0x42C
+Kurumi「Let's go, let's go, let's see the crabs sumo♪」%K%P
+
+0x440
+Kurumi grabs my arm and skips down the hill road...%K%P
+
+0x44C
+At any rate, why is Kurumi so cheerful?%K%P
+
+0x458
+I can't see any signs of the loneliness she showed last%Nnight while looking at the sea.%K%P
+
+0x464
+Did she get over it after sleeping for one night?%K%P
+
+0x470
+No, that's impossible.%K%P
+
+0x47C
+That scar wasn't something that was born just%Nyesterday.%K%P
+
+0x488
+Could it be that she keeps her loneliness locked tightly%Nin the bottom of her heart?%K%P
+
+0x494
+Is she trying too hard to act overly cheerful...?%K%P
+
+0x4A0
+When I think that, I start to wonder if Kurumi's pure%Nlaughter is also completely fake...%K%P
+
+0x4F8
+Kurumi「Gotcha♪」%K%P
+
+0x504
+It hasn't even been five minutes since we arrived at%NPrincess Beach, and yet Kurumi's already caught a crab.%K%P
+
+0x510
+Makoto「Hey! Don't trip!」%K%P
+
+0x51C
+Kurumi grabs the edge of a rock, and peeks down at a%Nditch as I call her from far away.%K%P
+
+0x528
+Kurumi「It's all right!」%K%P
+
+0x534
+Kurumi is acting like a carefree child.%K%P
+
+0x540
+Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with%NKurumi?」%K%P
+
+0x54C
+Kurumi「Ready, set, Rock, Paper, Scissors... Rock!」%K%P
+
+0x558
+Kurumi「Yay, Kurumi won～♪」%K%P
+
+0x564
+(It's like... the Kurumi last night was fake...)%K%P
+
+0x570
+(Could it be... that that was a dream? I was a little drunk,%Nafter all...)%K%P
+
+0x57C
+While looking at Kurumi acting so innocently, I seriously%Nbegin to consider that possibility.%K%P
+
+0x588
+A scar on her back, huh...%K%P
+
+0x594
+Kurumi「Huh?」%K%P
+
+0x5A0
+Makoto「Hmm? What's wrong?」%K%P
+
+0x5AC
+Kurumi「No... it's nothing!」%K%P
+
+0x5B8
+Makoto「?」%K%P
+
+0x5C4
+Kurumi「Kurumi just picked up something a little interesting!」%K%P
+
+0x5D0
+Makoto「Something interesting?」%K%P
+
+0x5DC
+Kurumi suddenly jumps off the rocks onto the sand, and%Nruns over to me.%K%P
+
+0x5F0
+Makoto「What's this something interesting?」%K%P
+
+0x5FC
+Kurumi「You wanna see it?」%K%P
+
+0x608
+Makoto「Yeah...」%K%P
+
+0x614
+Kurumi「Then you can... if you beat Kurumi in%NRock-Paper-Scissors♪」%K%P
+
+0x620
+Makoto「Huh?」%K%P
+
+0x62C
+Kurumi「Let's go～♪ Rock, Paper, Scissors...」%K%P
+
+0x638
+Makoto「Go!」%K%P
+
+0x644
+Kurumi stretches the crab's claw out.%K%P
+
+0x650
+... Incidentally, I have paper.%K%P
+
+0x664
+Kurumi「Yay, Mr. Crab won～♪ Isn't this fun, Sumo Crab? Are you%Nglad?」%K%P
+
+0x670
+Kurumi happily addresses the crab. Geez, don't name it...%K%P
+
+0x67C
+Makoto「... I... have paper.」%K%P
+
+0x688
+Kurumi「Like Kurumi said, you don't get to see it, Onii-chan.」%K%P
+
+0x694
+Kurumi puts the "something interesting" in her pocket.%K%P
+
+0x6BC
+―Huh???%K%P
+
+0x6C8
+Just now, I thought I heard something...%K%P
+
+0x6D4
+Kurumi「Hey, Onii-chan! Hurry up, let's watch the crab sumo!」%K%P
+
+0x6E0
+Makoto「Y-Yeah...」%K%P
+
+0x6F4
+... ... ...%K%P
+
+0x708
+Kurumi「Ready! ... Go!」%K%P
+
+0x714
+Before long, the two crabs begin to sumo on a flat rock%Nbeing used as the arena.%K%P
+
+0x720
+Kurumi is serving as the referee, and I am the audience.%K%P
+
+0x72C
+Kurumi「Go, go!」%K%P
+
+0x738
+Kurumi and I hold our breaths in anticipation.%K%P
+
+0x744
+Kurumi「GOOOO!」%K%P
+
+0x750
+... The small crab pushes off the larger crab with its small%Nclaws!%K%P
+
+0x75C
+Kurumi「Ring out! Sumo Crab wins♪」%K%P
+
+0x768
+Wait, is that the crab that beat me in%NRock-Paper-Scissors earlier? I guess giving it a name%Nwas a good way to distinguish them.%K%P
+
+0x774
+Kurumi pets both the winning and losing crabs equally.%K%P
+
+0x780
+After that, she lets the losing crab go while waving%Nsorrowfully at it...%K%P
+
+0x78C
+... It's quite a pleasant scene.%K%P
+
+0x798
+(It should be all right if ask Izumi-san about that story%Ntonight...)%K%P
+
+0x7A4
+I think this to myself.%K%P
+
+0x7B0
+I'm not giving up, just putting it on hold.%K%P
+
+0x7BC
+I just want to look at Kurumi as she is right now forever.%K%P
+
+0x7C8
+Kurumi's smile seems like an angel's...%K%P
+
+0x7D4
+... That angelic smile has blown away all traces of%Nuneasiness in my heart.%K%P
+
+0x7E0
+Something has begun to sprout within me ―I finally%Nrealize what it is now.%K%P
+
+0x7EC
+It's my want... to watch over Kurumi forever...%K%P
+
+0x844
+After almost an hour, the crab sumo has ended.%K%P
+
+0x850
+It was quite the splendid victory for Mr. Sumo Crab.%K%P
+
+0x85C
+As a reward, we give the crab a year's worth of%Nseaweed by wrapping them around its claws, then return%Nit to the sea...%K%P
+
+0x868
+Having finally reached a point where I can take a break, I%Nam suddenly assaulted by hunger.%K%P
+
+0x874
+Now that I think about it, I still haven't eaten at all today.%K%P
+
+0x880
+Makoto「Ugh, I'm so hungry...」%K%P
+
+0x88C
+I mutter this, groaning.%K%P
+
+0x8A0
+Kurumi「Hee hee hee hee hee...」%K%P
+
+0x8AC
+Makoto「Huh?」%K%P
+
+0x8B8
+Kurumi「Kurumi thought this would happen...」%K%P
+
+0x8C4
+Makoto「?」%K%P
+
+0x8D8
+Kurumi「Ta-da♪ It's a KuruKuru Kurumiracle♪」%K%P
+
+0x8E4
+Kurumi opens a basket she's been holding.%K%P
+
+0x8F0
+Makoto「Whoa! Are those rice balls!?」%K%P
+
+0x904
+Kurumi「Heh heh♪」%K%P
+
+0x910
+Makoto「Was this Izumi-san again!?」%K%P
+
+0x91C
+Kurumi shakes her head.%K%P
+
+0x928
+Makoto「Which means that you made these, Kurumi!?」%K%P
+
+0x934
+Kurumi proudly nods.%K%P
+
+0x940
+Makoto「Oh, thank you! Well then, I'll get to it right away... Time to%Neat♪」%K%P
+
+0x94C
+I take a bite.%K%P
+
+0x958
+Munch, munch... munch, munch... munch, munch...%K%P
+
+0x964
+Huh? What's this texture?%K%P
+
+0x970
+Lying on top of my tongue is something like a small grain...%K%P
+
+0x97C
+When I bite on it, I feel an exquisite, lumpy sensation...%K%P
+
+0x988
+It's has a moderately salty taste with an aroma like the%Nseashore that's spreading all over my mouth...%K%P
+
+0x994
+I've never tasted it up until now, but it's so good that I%Nfeel like I've died and gone to heaven!%K%P
+
+0x9A0
+Makoto「Kurumi... what's... in these?」%K%P
+
+0x9AC
+Kurumi「Caviar.」%K%P
+
+0x9B8
+Makoto「Ah... caviar... so that's why it's so good...」%K%P
+
+0x9C4
+Makoto「Wait, CAVIAR!? You mean one of the three greatest%Ndelicacies of the world!?」%K%P
+
+0x9D0
+Kurumi「That's right.」%K%P
+
+0x9DC
+Makoto「Is it the real deal?」%K%P
+
+0x9E8
+Kurumi「Of course♪ It was in the fridge at the shop, so Kurumi%Nborrowed some♪」%K%P
+
+0x9F4
+Makoto「Does Izumi-san know about this?」%K%P
+
+0xA00
+Kurumi「Nope.」%K%P
+
+0xA0C
+Makoto「'Nope'... then is it all right? Caviar is ridiculously%Nexpensive, isn't it?」%K%P
+
+0xA18
+Kurumi「It's all right, it's all right. Onee-chan isn't the kind of%Nperson who will notice it...」%K%P
+
+0xA24
+Makoto「Even though you say she won't notice, it seems that you%Nused quite a lot. How much caviar did you use anyway?」%K%P
+
+0xA30
+Kurumi「One bottle of it. Kurumi completely used up that bottle♪」%K%P
+
+0xA3C
+Makoto「...」%K%P
+
+0xA48
+Kurumi「But if Kurumi gets rid of the bottle, then on the other%Nhand, Onee-chan won't notice anything, right?」%K%P
+
+0xA54
+Izumi-san... your sister is amazing...%K%P
+
+0xA60
+Kurumi「Ah... Hey, Onii-chan?」%K%P
+
+0xA6C
+Kurumi「When we're done eating, you wanna do something fun?」%K%P
+
+0xA78
+Makoto「Something fun???」%K%P
+
+0xB1C
+My hunger satisfied, we rest for a while, and then walk%Ntowards Viewpoint Park.%K%P
+
+0xB28
+"You wanna do something fun?" We came here because I%Ndecide to abide by Kurumi's words.%K%P
+
+0xB34
+However, as usual, she didn't tell me any details.%K%P
+
+0xB40
+"It'll be more fun to find out when you get there yourself,"%Nshe said...%K%P
+
+0xB4C
+...%K%P
+
+0xB58
+When we walk down the road surrounded by cherry%Nblossom trees, Kurumi suddenly asks me something.%K%P
+
+0xB6C
+Kurumi「Hey? What's your dream, Onii-chan?」%K%P
+
+0xB78
+Dream, huh...%K%P
+
+0xB84
+Makoto「I have something vague, but nothing in particular you%Ncould really call a clear dream...」%K%P
+
+0xB90
+Kurumi「Hmm...」%K%P
+
+0xB9C
+Makoto「What's yours?」%K%P
+
+0xBB0
+Kurumi「Kurumi's dream...」%K%P
+
+0xBBC
+Kurumi「Is to become a wife♪」%K%P
+
+0xBC8
+Makoto「...」%K%P
+
+0xBDC
+Kurumi「Ah... Kurumi bets you think it's rather dull and ordinary,%Ndon't you?」%K%P
+
+0xBE8
+Makoto「No, I don't...」%K%P
+
+0xBF4
+Makoto「I... think it's good. It sounds very girly...」%K%P
+
+0xC00
+Kurumi「Teheh♪」%K%P
+
+0xC14
+Kurumi「Kurumi has always wanted a warm family.」%K%P
+
+0xC20
+Kurumi「You see, with her family, her Papa and Mama do nothing%Nbut research, so they rarely come home...」%K%P
+
+0xC2C
+Makoto「I see...」%K%P
+
+0xC38
+Kurumi「To become a wife... to have a warm family... What an%Nordinary dream...」%K%P
+
+0xC44
+Kurumi「But even though it's 'ordinary', Kurumi thinks that it's a%Nvery happy thing...」%K%P
+
+0xC50
+Makoto「...」%K%P
+
+0xC5C
+Kurumi「When Kurumi's husband comes home from work all%Nexhausted, she'll first give him a bowl of warm soup.」%K%P
+
+0xC68
+Kurumi「She'll prepare a warm bath for him... and pour him a cup of%Nwarm sake...」%K%P
+
+0xC74
+Kurumi「Our kids will get between us, and we'll all have warm%Nsmiles rise to our faces...」%K%P
+
+0xC80
+Makoto「...」%K%P
+
+0xC8C
+Kurumi「In the summer, we'll leave the windows open, and the%Nwhole family will watch a night game on TV while listening%Nto the wind chimes...」%K%P
+
+0xC98
+Kurumi「In the winter, we'll wrap ourselves up in a kotatsu, and%Nwatch cold medicine commercials while eating oranges...」%K%P
+
+0xCA4
+Cold medicine commercials, huh...%K%P
+
+0xCB0
+Kurumi「We won't need anything special... Just ordinary days...%Nas a very plain, ordinary family...」%K%P
+
+0xCBC
+Kurumi「At night, Kurumi will bury her face in her husband's warm%Nchest... and sleep soundly...」%K%P
+
+0xCC8
+Kurumi「That alone will be enough to make Kurumi happy...」%K%P
+
+0xCD4
+Makoto「... Yeah. That's definitely happiness. Something like that%Nis true happiness... probably.」%K%P
+
+0xCE0
+Kurumi listens to me, and gives me a slightly%Nembarrassed smile.%K%P
+
+0xCEC
+The cherry blossom petals flutter and fall down, and one%Nof them lands on the tip of Kurumi's nose.%K%P
+
+0xCF8
+Kurumi gently brushes it off with her fingertip while giving%Nanother embarrassed smile.%K%P
+
+0xD14
+Kurumi「Hey, Onii-chan?」%K%P
+
+0xD20
+Makoto「Hmm?」%K%P
+
+0xD2C
+Kurumi「... Your chest... is it warm?」%K%P
+
+0xD38
+Makoto「... Huh?」%K%P
+
+0xD44
+Kurumi「...」%K%P
+
+0xD50
+Makoto「...」%K%P
+
+0xD5C
+Kurumi「...」%K%P
+
+0xD68
+Makoto「...」%K%P
+
+0xD74
+Kurumi「C'mon, let's hurry up and do that 'something fun'♪」%K%P
+
+0xD88
+Kurumi drags me by my hand, and guides me towards%NViewpoint Park...%K%P
+
+0xD94
+For some reason, although the sky is gray, my heart is%Nas clear as a blue sky on a sunny day...%K%P
+
+0xE30
+Kurumi and I arrive at Viewpoint Park, and sit down on the%Ntiles with a thump.%K%P
+
+0xE3C
+When we do, Kurumi reaches into the bottom of the empty%Nbasket, and slowly takes something out.%K%P
+
+0xE48
+It's something thin and square wrapped up in plastic.%K%P
+
+0xE54
+Makoto「What's that?」%K%P
+
+0xE68
+Kurumi「Ta-da♪ It's KuruKuru Kurumi Magic♪」%K%P
+
+0xE74
+Makoto「Huh?」%K%P
+
+0xE80
+Kurumi「O-R-I-G-A-M-I... It's origami.」%K%P
+
+0xE8C
+Makoto「And what are we doing with it?」%K%P
+
+0xE98
+Kurumi「'What'? ... Isn't it obvious what you do when you have%Norigami?」%K%P
+
+0xEA4
+Makoto「R-Right...」%K%P
+
+0xEB0
+Kurumi「Onii-chan, can you fold origami?」%K
+
+0x20E8
+I can only fold cranes.
+
+0x20F4
+I can't.
+
+0xEF0
+Makoto「If it's folding cranes, I can do that.」%K%P
+
+0xEFC
+Kurumi「What? That's the best you can do?」%K%P
+
+0xF08
+Makoto「Isn't it enough if I just fold cranes?」%K%P
+
+0xF1C
+Kurumi「It's not! ... Guess you're a Level 3 with 514 EXP.」%K%P
+
+0xF28
+Makoto「?」%K%P
+
+0xF3C
+Makoto「I can't.」%K%P
+
+0xF50
+Kurumi「What!? There's someone in these times of recession that%Ncan't fold origami!? Impossible!」%K%P
+
+0xF5C
+What the hell does origami have to do with a recession?%K%P
+
+0xF70
+Kurumi「All right then, Kurumi will teach you!」%K%P
+
+0xF7C
+Makoto「P-Please do so...」%K%P
+
+0xF90
+...%K%P
+
+0xF9C
+And thus, Professor Kurumi's Origami 101 class begins.%K%P
+
+0xFB0
+Kurumi「And you do this over here, and fold it like this...」%K%P
+
+0xFBC
+Makoto「L-Like this?」%K%P
+
+0xFD0
+Kurumi「Wrong! Don't use the mountain folding style, use the%Nvalley folding style!!!」%K%P
+
+0xFDC
+Makoto「Oh, like this?」%K%P
+
+0xFE8
+Kurumi「No! First, you turn it inside out, and only fold the left side%Nlike a valley!」%K%P
+
+0xFF4
+Makoto「...」%K%P
+
+0x1000
+Origami is really hard...%K%P
+
+0x100C
+Fold, fold... fold, fold... fold, fold... bend, bend...%K%P
+
+0x1018
+―Riiiip.%K%P
+
+0x102C
+Kurumi「Aaah! Why is it completely torn off!?」%K%P
+
+0x1038
+Makoto「No, it's not like I was trying to-」%K%P
+
+0x1044
+Kurumi「Oh, geez... Here!」%K%P
+
+0x1050
+Kurumi pulls out a new sheet of origami paper, and gives%Nit to me.%K%P
+
+0x1064
+Kurumi「We'll start again from the top!」%K%P
+
+0x1078
+Professor Kurumi is surprisingly strict...%K%P
+
+0x10F4
+Makoto「All right! It's done!」%K%P
+
+0x1108
+Kurumi「Let's see it!」%K%P
+
+0x1114
+Makoto「Ta-da♪ It's a MakoMako Makoto Masterpiece♪」%K%P
+
+0x1120
+Kurumi「...」%K%P
+
+0x112C
+Makoto「Well? I did a pretty damn good job, wouldn't you say?」%K%P
+
+0x1138
+Kurumi「Hmm... maybe a 62 out of 100?」%K%P
+
+0x1144
+Kurumi「The tail is completely off-mark.」%K%P
+
+0x1150
+Professor Kurumi really is strict.%K%P
+
+0x115C
+Makoto「But for a beginner like me, it's way too difficult to make a%Ngood turtle out of the blue.」%K%P
+
+0x1168
+Kurumi「Well, Kurumi supposes that's true. It seems even%Nveterans fail with turtles sometimes...」%K%P
+
+0x1174
+Kurumi「They say that amongst origami maniacs, it takes about%Nthree years to perfect a peach and chestnut tree, and%Nabout eight years for a turtle...」%K%P
+
+0x1180
+Makoto「...」%K%P
+
+0x118C
+Incidentally, what's Kurumi been up to? Thinking that, I%Nlook towards her...%K%P
+
+0x1198
+Makoto「Whoa! When did you make so many...!?」%K%P
+
+0x11A4
+In a mere ten minutes, Kurumi has folded many different%Norigami.%K%P
+
+0x11B0
+Moreover, everything is so accurately folded that there%Nisn't even an inch of a gap where the two ends of the%Npaper meet.%K%P
+
+0x11BC
+She's a genius...%K%P
+
+0x11D0
+Kurumi「Isn't it amazing?」%K%P
+
+0x11DC
+Kurumi says this proudly.%K%P
+
+0x11E8
+As she says this, I carefully pick up one of them in%Nbetween my fingers.%K%P
+
+0x11F4
+Makoto「What's this?」%K%P
+
+0x1200
+Kurumi「A horned beetle.」%K%P
+
+0x120C
+Makoto「Then what's this?」%K%P
+
+0x1218
+Kurumi「King Girado.」%K%P
+
+0x1224
+Makoto「...」%K%P
+
+0x1230
+Kurumi「And this is 'Takeda Shingen', this is a 'Morning Glory', this%Nis the 'Okinawa Summit'...」%K%P
+
+0x123C
+Wow, there's a lot of variation...%K%P
+
+0x1248
+(Wait, the Okinawa Summit...?)%K%P
+
+0x1254
+Makoto「... Oh... but Kurumi? There's one more left, isn't there?」%K%P
+
+0x1260
+Kurumi「Oh, this?」%K%P
+
+0x126C
+As she says that, Kurumi takes the last one left and%Nplaces it on her palm.%K%P
+
+0x1278
+Makoto「This wrinkled origami... what is it?」%K%P
+
+0x1284
+Kurumi「This is...」%K%P
+
+0x1298
+Kurumi「... Onii-chan.」%K%P
+
+0x12A4
+Makoto「Huh?」%K%P
+
+0x12B0
+Kurumi「This is Onii-chan when he's smiling!」%K%P
+
+0x12BC
+Makoto「...」%K%P
+
+0x12D0
+Kurumi「Eheh♪」%K%P
+
+0x12DC
+Makoto「... It-It doesn't resemble me... No matter how you look at it,%Nit doesn't resemble me at all, does it!?」%K%P
+
+0x12E8
+Makoto「It doesn't look anywhere near as badass as Takeda%NShingen!」%K%P
+
+0x12F4
+Kurumi「Dunno about that... Kurumi thinks you look like it...」%K%P
+
+0x1308
+Kurumi「Well, whatever...」%K%P
+
+0x131C
+Kurumi「Kurumi will give you this... as a commemoration♪」%K%P
+
+0x1328
+Kurumi places "me" on my palm.%K%P
+
+0x1334
+Kurumi「It's a modest present from Kurumi...」%K%P
+
+0x1340
+This wrinkled, smiling face...%K%P
+
+0x134C
+An origami that Kurumi folded herself...%K%P
+
+0x1358
+(... It really doesn't look like me...)%K%P
+
+0x1364
+Although I think this...%K%P
+
+0x1370
+Makoto「Th-Thank you...」%K%P
+
+0x1384
+... I mutter these words, and carefully place "me" in my%Npocket.%K%P
+
+0x1390
+A smile rises to Kurumi's face, and she looks at me with%Nkindness...%K%P
+
+0x140C
+After that, Kurumi and I continue to fold origami for an%Nhour.%K%P
+
+0x1418
+Before I know it, I realize that Kurumi's childlike innocence%Nis rubbing off on me.%K%P
+
+0x1424
+We use up all the origami, the black papers, the silver%Npapers, and the gold papers.%K%P
+
+0x1430
+However, there's one sheet of white origami paper left...%K%P
+
+0x143C
+Kurumi places all of the completed origami works in the%Nempty basket like a mountain.%K%P
+
+0x1448
+She closes the lid, and with a snap, lowers the snap%Nfastener.%K%P
+
+0x1454
+And then, without a word, Kurumi takes the last white%Npaper and begins to fold it.%K%P
+
+0x1460
+I keep my mouth shut and silently watch her skillful%Nhandling.%K%P
+
+0x1474
+Kurumi「It's done♪」%K%P
+
+0x1480
+It's a white paper airplane.%K%P
+
+0x148C
+It hasn't been folded in the traditional style, but rather%Nmade using the Kurumi style's unique folding method.%K%P
+
+0x1498
+Kurumi「Kurumi will call it Kurumi Unit 17!」%K%P
+
+0x14A4
+Makoto「Unit 17?」%K%P
+
+0x14B0
+Kurumi「Yeah. Kurumi spent day and night researching and%Nresearching to come up with the best way to fold it so it%Nwould fly the farthest.」%K%P
+
+0x14BC
+Makoto「In other words, this is Version 17?」%K%P
+
+0x14C8
+Kurumi「That's right♪」%K%P
+
+0x14D4
+Kurumi「Ah... but this folding method is a trade secret. You%Nmustn't tell anyone about it, no matter what.」%K%P
+
+0x14E0
+Kurumi「Kurumi still hasn't told anyone either, so...」%K%P
+
+0x14EC
+Makoto「Yeah... I understand.」%K%P
+
+0x14F8
+When she hears my response, Kurumi lightly nods, and%Nquietly stands up.%K%P
+
+0x1504
+She walks over towards the handrail.%K%P
+
+0x1510
+I also get up and follow after her...%K%P
+
+0x151C
+Kurumi「Hey, take a look.」%K%P
+
+0x1528
+Kurumi says this...%K%P
+
+0x1534
+Kurumi「Go♪」%K%P
+
+0x1558
+... and throws the paper airplane into the sky.%K%P
+
+0x1564
+Unit 17 glides in a straight line... flying above the windless%Nsea...%K%P
+
+0x1570
+Endlessly... endlessly... endlessly flying without%Ndestination...%K%P
+
+0x157C
+It's like it's drawing a straight white line...%K%P
+
+0x1588
+I steadily begin to lose sight of the airplane as it gets%Nsmaller...%K%P
+
+0x1594
+All I see are its triangular wings, and before long, it's%Nnothing more than a dot... I can't even see any ripples.%K%P
+
+0x15A8
+Kurumi「You see?」%K%P
+
+0x15BC
+Kurumi is happy.%K%P
+
+0x15C8
+I don't know why, but I become happy as well.%K%P
+
+0x15D4
+... Kurumi and I spontaneously hold hands, and leave%NViewpoint Park, the park where Unit 17 took off on its first%Nand last flight.%K%P
+
+0x1648
+Kurumi「Wasn't today fun?」%K%P
+
+0x1654
+We're on our way back to Lunabeach.%K%P
+
+0x1660
+Kurumi「It was an ultra-good day, wasn't it?」%K%P
+
+0x166C
+Makoto「You're right.」%K%P
+
+0x1678
+Kurumi「Onii-chan, did you have fun too?」%K%P
+
+0x1684
+Makoto「Of course.」%K%P
+
+0x1690
+I smile as I answer.%K%P
+
+0x16A4
+Kurumi「Yay♪」%K%P
+
+0x16B0
+There's no wind, but because of these clouds, it's cold%Nright now.%K%P
+
+0x16BC
+However, I only feel warmth through my hand.%K%P
+
+0x16C8
+It's Kurumi's warmth.%K%P
+
+0x16D4
+Kurumi「Hey, Onii-chan?」%K%P
+
+0x16E0
+Makoto「Hmm?」%K%P
+
+0x16EC
+Kurumi「Kurumi... wants to show you something, okay?」%K%P
+
+0x16F8
+Makoto「Show me something?」%K%P
+
+0x170C
+Kurumi「If it's you, Onii-chan, then she can show you...」%K%P
+
+0x1720
+Kurumi says this, then suddenly brings me into a thicket%Non the side of the road.%K%P
+
+0x1768
+Makoto「W-What is it...? Why did you suddenly drag me in here...?」%K%P
+
+0x177C
+Kurumi doesn't answer.%K%P
+
+0x1788
+She remains silent... and turns around for some reason,%Nher back facing me.%K%P
+
+0x179C
+Makoto「???」%K%P
+
+0x17A8
+Just then...%K%P
+
+0x17B4
+Whoosh...%K%P
+
+0x17C0
+―All of the sudden, Kurumi raises all the clothes off%Nthe upper half of her body up to her neck...%K%P
+
+0x17CC
+I can now see... Kurumi's small back.%K%P
+
+0x17F4
+On it is that deeply engraved... "scar".%K%P
+
+0x1800
+(Kurumi...)%K%P
+
+0x180C
+I instinctively take a step backwards.%K%P
+
+0x1818
+That's because her scar is so...%K%P
+
+0x1824
+... horrifying...%K%P
+
+0x1830
+No, I mustn't avert my eyes.%K%P
+
+0x183C
+(This is Kurumi's courage.)%K%P
+
+0x1848
+(It's proof that she trusts me.)%K%P
+
+0x1854
+I steady myself, and look at the scar.%K%P
+
+0x1860
+To be honest, it's a scar that makes me sad just seeing%Nit.%K%P
+
+0x186C
+The pointy zigzag lines of scars― lots and lots of%Nsuch lines are running down her tiny, narrow back.%K%P
+
+0x1878
+Rough bulges are protruding unnaturally on the%Notherwise smooth surface of her bare skin.%K%P
+
+0x1884
+It's a reddish-violet discoloration...%K%P
+
+0x1890
+It does nothing but give off a strong sense of sadness.%K%P
+
+0x189C
+I don't know what to say.%K%P
+
+0x18A8
+I can't find the words.%K%P
+
+0x18B4
+"It's no big deal,"... "Don't worry about it,"...%K%P
+
+0x18C0
+―No!%K%P
+
+0x18CC
+Those aren't the words Kurumi wants to hear!%K%P
+
+0x18D8
+But what do I say...?%K%P
+
+0x18E4
+Whoosh...%K%P
+
+0x18F0
+Kurumi lowers her clothes.%K%P
+
+0x18FC
+She turns around to face me.%K%P
+
+0x1908
+Kurumi「It's all right... you don't have to say anything...」%K%P
+
+0x1914
+Kurumi「All you have to do is think 'Kurumi was selfish for wanting%Nto show it to me'...」%K%P
+
+0x1920
+Makoto「...」%K%P
+
+0x192C
+Kurumi「Just seeing it... is enough...」%K%P
+
+0x1938
+Kurumi...%K%P
+
+0x1944
+Kurumi「Well then, shall we hurry back?」%K%P
+
+0x1988
+Kurumi「Ruun, ruun, ruun, Kurumi-chan～, ran, ran, ran, Onii-chan～♪」%K%P
+
+0x1994
+Kurumi is back to the way she was just minutes ago...%K%P
+
+0x19A0
+As if nothing happened...%K%P
+
+0x19AC
+What... What...%K%P
+
+0x19B8
+―What the hell am I doing!?%K%P
+
+0x19C4
+Even though Kurumi courageously showed it to me...%K%P
+
+0x19D0
+Even though she trusted me...%K%P
+
+0x19DC
+Why am I so down!?%K%P
+
+0x19E8
+The scar has nothing to do with anything!%K%P
+
+0x19F4
+Kurumi is Kurumi, isn't she!?%K%P
+
+0x1A00
+I thought to myself that I wanted to watch over her%Nforever, right!?%K%P
+
+0x1A0C
+Then what should I do right now!?%K%P
+
+0x1A18
+Shouldn't I be acting normal, the way I usually am!?%K%P
+
+0x1A24
+I won't... hurt Kurumi any more...%K%P
+
+0x1A30
+Makoto「Kurumi...?」%K%P
+
+0x1A44
+Kurumi「Hmm? What, Onii-chan?」%K%P
+
+0x1A50
+Makoto「Kurumi, you love things like haunted houses, right?」%K%P
+
+0x1A5C
+Kurumi「Huh?」%K%P
+
+0x1A68
+Makoto「... Do you hate them?」%K%P
+
+0x1A7C
+Kurumi「Nope♪ Kurumi loves them♪」%K%P
+
+0x1A88
+Makoto「All right! Then when we get back to the mainland, let's go%Nto an amusement park!」%K%P
+
+0x1A9C
+Kurumi「Huh!? You'll take Kurumi?」%K%P
+
+0x1AA8
+Makoto「Yeah...」%K%P
+
+0x1ABC
+Kurumi「Yaay～♪」%K%P
+
+0x1AD0
+Kurumi「For real?」%K%P
+
+0x1ADC
+Makoto「For real.」%K%P
+
+0x1AE8
+Kurumi「Don't say 'I forgot' when it happens! You won't, right?」%K%P
+
+0x1AF4
+Makoto「I won't.」%K%P
+
+0x1B00
+Kurumi「Then, let's pinky swear.」%K%P
+
+0x1B0C
+Kurumi takes out her thin pinky and wraps it around mine...%K%P
+
+0x1B18
+Kurumi「Cross-my-heart-and-hope-to-die If-you-lie...♪」%K%P
+
+0x1B24
+Kurumi「Ah... what should we do if you lie?」%K%P
+
+0x1B30
+Makoto「... What do you think?」%K%P
+
+0x1B3C
+Kurumi「Let's see...」%K%P
+
+0x1B48
+Kurumi「If you lie, kiss Kurumi on the cheek... okay?」%K%P
+
+0x1B54
+Kiss her on the cheek...%K%P
+
+0x1B60
+... My chest feels hot.%K%P
+
+0x1B6C
+Makoto「Yeah... got it.」%K%P
+
+0x1B78
+I give a deep nod as I answer.%K%P
+
+0x1B8C
+...%K%P
+
+0x1B98
+On our way back... Kurumi and I keep our pinkies wrapped%Naround each other as we walk back to Lunabeach...%K%P
+
+0x1C2C
+We meet up with Izumi-san, and have dinner at%NLunabeach.%K%N%N
+
+0x1C38
+「"And so then, Mr. Sumo Crab...♪"」%K%N%N
+
+0x1C4C
+Kurumi excitedly tells Izumi-san about today's events.%K%N
+
+0x1C58
+Izumi-san quietly listens to her talking while smiling gently.%K%P
+
+0x1C6C
+Such a cheerful dinner...%K%N
+
+0x1C78
+There's not even a single bit of gloominess to be found...%K%N
+
+0x1C84
+Not from the music flowing from the jukebox...%K%N
+
+0x1C90
+Not from the roar of waves, constantly going in and out%Nof the shore...%K%N
+
+0x1C9C
+Not from Izumi-san's homemade corn soup...%K%N
+
+0x1CA8
+Not from Kurumi's face... Not from Izumi-san's face...%K%P
+
+0x1CB4
+... All of them are warm.%K%N
+
+0x1CC0
+I am completely intoxicated by the comfortable mood in%Nthis sunshine-like warmth.%K%P
+
+0x1CD4
+「"By the way, Kurumi?」%K%N%N
+
+0x1CE0
+「"Hmm?」%K%N%N
+
+0x1CEC
+「"Do you know what happened to the caviar in the fridge?」%K%N%N
+
+0x1CF8
+「"...」%K%N%N
+
+0x1D04
+「"...」%K%P
+

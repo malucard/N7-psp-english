@@ -1,0 +1,1761 @@
+text area offset and size:
+0x2FD0
+0x7F32
+0x180
+Just as we promised yesterday, the six of us go to the%Npool.%K%P
+
+0x18C
+Kurumi stays behind this time too, due to her headache.%K%P
+
+0x198
+There isn't even a single cloud visible in the clear blue%Nsky.%K The gentle spring sunlight bathes us with its%Nwarming rays.%K The air contains a faint scent of seawater.%K%P
+
+0x1A4
+Everyone spends the time having fun, like last time.%K%P
+
+0x1B0
+But I...%K I'm... the only one feeling depressed.%K%P
+
+0x1BC
+Right now, I'm lying down on a deck chair while idly%Npassing the time.%K%P
+
+0x1C8
+My mind feels clear and my body's languid...%K%P
+
+0x1D4
+It's as if I'm in the middle of some kind of dream.%K%P
+
+0x1E0
+There's a group of kids playing innocently in the water...%K%P
+
+0x1EC
+It's nothing but a peaceful scene.%K%P
+
+0x1F8
+Yuka「Haah...」%K%P
+
+0x204
+...Even so, a sigh leaks from my mouth.%K%P
+
+0x210
+It feels like a heavy darkness has enveloped my heart.%K%P
+
+0x21C
+Could the irritation I felt yesterday still be bugging me...?%K%P
+
+0x228
+Or did I simply not get enough sleep...?%K%P
+
+0x234
+...%K%P
+
+0x240
+Or could it be both...?%K%P
+
+0x24C
+Well, either way, it doesn't change the fact that I'm feeling%Nmelancholic.%K%P
+
+0x258
+And so I clap my knees, and stand up.%K%P
+
+0x264
+At times like this, it's time for a change in pace.%K%P
+
+0x270
+For starters...%K%P
+
+0x27C
+(Time to get beer♪)%K%P
+
+0x288
+...I make a bee-line for the beverage stand.%K%P
+
+0x294
+Suddenly, I see someone performing a crawl at the%Nracing section of the pool.%K%P
+
+0x2A0
+...It's Makoto.%K%P
+
+0x2AC
+My gaze shifts from Makoto to his goal.%K%P
+
+0x2B8
+I impulsively decide to head over there instead of the%Nstand...%K%P
+
+0x308
+Makoto「FWAAH!」%K%P
+
+0x314
+Makoto reaches the end of the pool, and gasps for air%Nas he shoots his face out of the water.%K%P
+
+0x320
+I peer down on him from the high edge of the pool.%K%P
+
+0x334
+Yuka「Here.」%K%P
+
+0x340
+I bend over and hold out my right hand.%K%P
+
+0x34C
+Makoto「Oh, thank you.」%K%P
+
+0x358
+Makoto thanks me, takes my hand, and step onto the%Npoolside with one foot.%K%P
+
+0x364
+He puts his weight into his hand and looks about ready%Nto climb up.%K%P
+
+0x370
+Naturally, I intend to...%K
+
+0x2F90
+Pull him up.
+
+0x2F9C
+Let go of him midway.
+
+0x3C0
+At that time...%K%P
+
+0x408
+―Whoosh!%K%P
+
+0x414
+...In a completely unexpected turn of events, my arm is%Npulled back with great strength.%K%P
+
+0x448
+For an instant, it feels like Heaven and Earth have been%Nreversed. By the time I come to my senses, I've fallen%Ninto the pool at an awkward angle.%K%P
+
+0x4C4
+Makoto「Gahahahahahahaha♪」%K%P
+
+0x4D0
+I raise my face out of the water to see Makoto, who is%Nnow on top of the poolside, laughing his ass off at me at%Nme.%K%P
+
+0x4DC
+I finally realize that what happened just now was%NMakoto's doing.%K%P
+
+0x4E8
+Yuka「Ba-Bagodo!」%K%P
+
+0x4F4
+My voice sounds weird due to the large amount of water%Nin my nose.%K%P
+
+0x500
+Yuka「Jeesh, whaa ah yuu doin'...!」%K%P
+
+0x50C
+I frown while climbing out of the pool.%K%P
+
+0x528
+Makoto「I can see right through you.」%K%P
+
+0x53C
+Yuka「W-Whaa ah yuu tocking abaut?」%K%P
+
+0x548
+Makoto「You were planning on letting me go, right?」%K%P
+
+0x570
+(―Ugh!)%K%P
+
+0x57C
+Makoto「It was obvious.」%K%P
+
+0x590
+I'm so dejected that my shoulders drop.%K%P
+
+0x59C
+Makoto「So now we're even...」%K%P
+
+0x5A8
+Yuka「...No.」%K%P
+
+0x5B4
+Makoto「Huh?」%K%P
+
+0x5C8
+Yuka「No way, no way! We're not even at all!」%K%P
+
+0x5D4
+Yuka「After all, no matter how you think about it, I haven't done%Nanything to you.」%K%P
+
+0x5E0
+Yuka「I'm the 'victim', and you're the 'assailant', right!?」%K%P
+
+0x5EC
+Makoto「Ugh...!」%K%P
+
+0x5F8
+Makoto「...Th-Then how can I make it up to you?」%K%P
+
+0x60C
+(Hee hee hee... Makoto is so predictable.)%K%P
+
+0x618
+Yuka「Well, if you insist, then...♪」%K%P
+
+0x624
+Makoto suddenly smiles.%K%P
+
+0x630
+Makoto「Yeah, I'll get you one cup of anything... except alcohol.」%K%P
+
+0x63C
+...It seems I'm the one who is predictable...%K%P
+
+0x650
+Makoto「Ah, your nose is dripping with snot... how dirty!」%K%P
+
+0x678
+(―!!!!!)%K%P
+
+0x68C
+Yuka「U-U-Ughhhh...」%K%P
+
+0x698
+As my body trembles with rising anger, I clench my hands%Ninto fists.%K%P
+
+0x6A4
+(Is that any way to treat a girl!?)%K%P
+
+0x6B0
+Makoto「Ah...」%K%P
+
+0x6BC
+Makoto「Are you... mad at me?」%K%P
+
+0x6D0
+Yuka「I'm not!」%K%P
+
+0x6DC
+Pissed off, I shout this in defiance of Makoto's%Ncomposed words and attitude.%K%P
+
+0x6E8
+If say "I'm mad", then it'll kinda feel like I've lost to him.%K%P
+
+0x6F4
+But boy, is his face looking really punchable right about%Nnow...%K%P
+
+0x700
+Makoto「All right! Got it! It can't be helped, so I'll treat you to a%Ndrink!」%K%P
+
+0x70C
+...He said it.%K%P
+
+0x718
+Those simple words "I'll treat you to a drink" have rapidly%Nbrightened my vision.%K%P
+
+0x72C
+Yuka「Huh? Beer?♪」%K%P
+
+0x738
+Makoto「Dumbass! I'm not letting you drink alcohol!」%K%P
+
+0x74C
+Yuka「Whyyyy not...?」%K%P
+
+0x758
+Makoto「You know why!」%K%P
+
+0x764
+Yuka「Boo...」%K%P
+
+0x770
+Makoto「Well, I'll go and buy you something appropriate... so wait%Nhere.」%K%P
+
+0x794
+He says that, and heads over to the drink stand...%K%P
+
+0x7A0
+As I stare at him walking away, I realize something.%K%P
+
+0x7AC
+Right now, I can't feel a single fragment of the%Ndepression I felt earlier...%K%P
+
+0x7B8
+(Hmm...)%K%P
+
+0x7C4
+(Looks like I don't need that beer right now after all...)%K%P
+
+0x7D0
+Having reached that conclusion, I nod to myself.%K%P
+
+0x854
+After I've had lunch, I sit down in the deck chair again,%Nand blankly stare at the scene before my my eyes.%K%P
+
+0x860
+Well, it's slightly different from earlier, as I have a cup of%Nbeer in my hand...%K%P
+
+0x874
+I gulp down the beer while foam covers my lips.%K%P
+
+0x888
+Yuka「Fwah...!」%K%P
+
+0x894
+A comfortable stimulus like an electric shock travels%Ndown my entire body through my throat.%K My whole body%Nis wrapped up in an uplifting feeling.%K%P
+
+0x8A0
+Thanks to that, I stop thinking of unnecessary things.%K%P
+
+0x8AC
+The words "good wine makes good blood" come to mind.%K%P
+
+0x8B8
+(The power of alcohol is really amazing♪)%K%P
+
+0x8C4
+I am embraced by a feeling of ectasy...%K%P
+
+0x8D0
+...%K%P
+
+0x8DC
+Makoto「Ah, Yuka! Not again!」%K%P
+
+0x8E8
+Makoto spots me, then frantically runs over to where I am.%K%P
+
+0x8F4
+Yuka「Ah, Mako-tan♪ Doo yuu wanna drink too?」%K%P
+
+0x900
+Makoto「Hell no! How many times do I have to tell you until you%Nunderstand!?」%K%P
+
+0x90C
+He violently snatches the beer from my hand.%K%P
+
+0x918
+Yuka「Aaaah! Whaa da hell ah yuu doin'!!」%K%P
+
+0x924
+I take the stolen beer back from Makoto.%K%P
+
+0x930
+Yuka「Dish ish maine!」%K%P
+
+0x93C
+Makoto「...」%K%P
+
+0x950
+Yuka「Gulp, gulp...♪」%K%P
+
+0x95C
+Makoto「Hey, Yuka...」%K%P
+
+0x970
+Yuka「Hmm?」%K%P
+
+0x97C
+Makoto「How many have you had?」%K%P
+
+0x988
+Yuka「Huh?」%K%P
+
+0x994
+Makoto「I'm asking you how many cups of beer you've had.」%K%P
+
+0x9A8
+Yuka「Umm... well...」%K%P
+
+0x9B4
+Yuka「1... 2...」%K%P
+
+0x9C0
+Yuka「...」%K%P
+
+0x9D4
+Yuka「Eye dunno.」%K%P
+
+0x9E0
+Makoto「...」%K%P
+
+0x9F4
+Yuka「Gulp, gulp...♪」%K%P
+
+0xA00
+Makoto「Hey... I'll remind you of something so that you don't forget.」%K%P
+
+0xA14
+Yuka「??」%K%P
+
+0xA20
+Makoto「It's about Saki...」%K%P
+
+0xA2C
+He says that, and snatches the cup from my hand a%Nsecond time.%K%P
+
+0xA40
+Yuka「AHH!!!!」%K%P
+
+0xA4C
+Makoto firmly grips my shoulders, looks at me with a%Nserious expression, then quickly begins to explain.%K%P
+
+0xA58
+My mind is fuzzy, so I barely understand anything he%Nsays, but I do catch the words "fishing" and "it'll be a big%Nproblem if we go."%K%P
+
+0xA6C
+Yuka「Ish faine, ish faine!」%K%P
+
+0xA78
+Yuka「If we don't go fishin', then ishent it arright?」%K%P
+
+0xA84
+Even so, Makoto's expression is uneasy...%K%P
+
+0xA90
+Yuka「Eyem tellin' yuu, ish faine!」%K%P
+
+0xA9C
+Makoto「...」%K%P
+
+0xAA8
+Makoto「Fine, I'll trust you...」%K%P
+
+0xAB4
+Makoto holds out the cup while saying this.%K%P
+
+0xAC0
+Yuka「Leef it to me! Nahahahaha...♪」%K%P
+
+0xACC
+And, at that time...%K%P
+
+0xB34
+Izumi「Hello, Makoto-kun, Yuka-chan.」%K%P
+
+0xB40
+...Suddenly, Izumi-san appears from behind us.%K%P
+
+0xB4C
+Makoto「GYAAA!?!?!?」%K%P
+
+0xB80
+He spills the beer all over my head.%K%P
+
+0xB8C
+Yuka「Ug h... yuu shuck...」%K%P
+
+0xBA0
+Izumi「What are you two doing?」%K%P
+
+0xBAC
+Makoto「Ah... no... uh... nothing really.」%K%P
+
+0xBB8
+Makoto「M-More importantly, how long have you been there...?」%K%P
+
+0xBCC
+Izumi「...I got here just now.」%K%P
+
+0xBD8
+Makoto「I-Is that so? ...Whew.」%K%P
+
+0xBE4
+Izumi「??」%K%P
+
+0xBF0
+Makoto「Oh, that's right, Haruka called for me!!」%K%P
+
+0xBFC
+With that, Makoto suddenly runs away.%K%P
+
+0xC10
+Izumi「?????」%K%P
+
+0xC1C
+Izumi-san tilts her head in confusion, while I, being left%Nbehind, make an indignant face, feeling uncomfortable all%Nthe while...%K%P
+
+0xCAC
+After that, I took a shower.%K%P
+
+0xCB8
+Thanks to that, I finally sobered up by the time I got%Nback...%K%P
+
+0xCC4
+Right now, I'm sitting in a deck chair next to Izumi-san.%K%P
+
+0xCD0
+In my right hand is a cup full of beer, while Izumi-san is%Ndrinking black tea.%K%P
+
+0xCDC
+The gentle afternoon begins to pass by ever so slowly...%K%P
+
+0xCE8
+Suddenly, Izumi-san looks over towards the water slide.%K%P
+
+0xCF4
+I do the same.%K%P
+
+0xD00
+...I see Makoto and Haruka sliding down it together.%K%P
+
+0xD0C
+Yuka「...」%K%P
+
+0xD18
+Just when they reach the bottom, Haruka tugs on%NMakoto's arm, and the two of them head to the staircase%Ntogether.%K%P
+
+0xD24
+It seems they're going for a return trip.%K%P
+
+0xD38
+Izumi「Makoto's getting along well with her.」%K%P
+
+0xD44
+Yuka「You're right...」%K%P
+
+0xD50
+Yuka「But it feels like Haruka is dragging Makoto along, doesn't%Nit?」%K%P
+
+0xD5C
+Haruka is dragging along the completely exhausted%NMakoto. I can tell that much from here.%K%P
+
+0xD70
+Izumi「Sorry, I was thinking aloud. When I said 'her', I was%Nreferring to you, Yuka.」%K%P
+
+0xD7C
+Yuka「Huh?」%K%P
+
+0xD88
+Thump...%K My heart gives a little jump.%K%P
+
+0xD9C
+Izumi「You two seem quite close, don't you?」%K%P
+
+0xDA8
+Yuka「...」%K%P
+
+0xDB4
+Izumi「I can't believe it. After all, the two of you only just met%Neach other♪」%K%P
+
+0xDC0
+Yuka「...」%K%P
+
+0xDD4
+Izumi「Hey, what's really going on between you two?」%K%P
+
+0xDE0
+Yuka「N-Nothing...」%K%P
+
+0xDEC
+Izumi「Really...? But earlier, you two were...」%K%P
+
+0xDF8
+Izumi「...Now that I think about it, what were you and Makoto-kun%Ntalking about earlier?」%K%P
+
+0xE04
+Yuka「W-Who knows...?」%K%P
+
+0xE18
+Izumi「Oh? Is it a secret between you two?」%K%P
+
+0xE24
+Yuka「I really don't know. I completely forgot when I sobered%Nup...」%K%P
+
+0xE30
+Izumi「Hmm...」%K%P
+
+0xE44
+I only give a vague answer.%K%P
+
+0xE50
+...Well, half of it's a lie, but...%K%P
+
+0xE5C
+Now that I've sobered up, I can guess the general idea%Nof what he was saying.%K%P
+
+0xE68
+After this comes the incident where Saki almost%Ndrowned...%K%P
+
+0xE74
+What should we do in order to prevent that...?%K%P
+
+0xE80
+...Naturally, I can't tell anyone else about it.%K%P
+
+0xE8C
+I give a sidelong glance at Izumi-san.%K%P
+
+0xE98
+Having fortunately already lost interest in our topic,%NIzumi-san is happily enjoying the fragrance of a new cup%Nof black tea.%K%P
+
+0xEA4
+Before long, our conversation has completely ceased...%K%P
+
+0xEB0
+I casually glance at the other side of the pool.%K%P
+
+0xEBC
+(Oh...?)%K%P
+
+0xEC8
+Having finally part ways with Haruka, Makoto is currently%Ncaught up in conversation with Saki.%K%P
+
+0xED4
+(What are they talking about...?)%K%P
+
+0xEE0
+The two of them burst into laughter.%K%P
+
+0xEEC
+Especially Saki, whose laughing is so loud that I can hear%Nit from all the way over here...%K%P
+
+0xEF8
+Yuka「...」%K%P
+
+0xF04
+I feel a prickling pain in my chest.%K%P
+
+0xF10
+Not only is my chest in pain, but it's also hard to breathe,%Ncausing my body to get hot.%K%P
+
+0xF1C
+For some reason, looking at this scene makes me sick.%K%P
+
+0xF28
+Then all I have to do is not look at it...%K But strangely, I%Ncan't look away from them.%K%P
+
+0xF34
+...%K%P
+
+0xF40
+A little bit later, it seems that Makoto has decided to%Ntreat her to a drink, as he walks towards the drink stand.%K%P
+
+0xF4C
+While my eyes follow Makoto, I speak to Izumi-san.%K%P
+
+0xF58
+Yuka「Hey, Izumi-san?」%K%P
+
+0xF6C
+Izumi「Hmm?」%K%P
+
+0xF78
+Yuka「Do you think there are people... with 'exact%Nresemblances'?」%K%P
+
+0xF8C
+Izumi「Huh?」%K%P
+
+0xF98
+Yuka「...」%K%P
+
+0xFAC
+Izumi「Hmm...」%K%P
+
+0xFB8
+Izumi「I think that there are blood relatives who have similar%Nfaces and personalities, right...?」%K%P
+
+0xFC4
+Yuka「...」%K%P
+
+0xFD0
+Yuka「Then let's just say they don't resemble each other at all%Non the surface...」%K%P
+
+0xFDC
+Yuka「Even so, do you think there are pairs of people like that%Nin this world?」%K%P
+
+0xFF0
+Izumi「Hmm...」%K%P
+
+0xFFC
+Her gaze wanders around for a bit...%K%P
+
+0x1010
+Izumi「Mmm... I wonder, do they really?」%K%P
+
+0x101C
+She quietly looks at the pool.%K%P
+
+0x1030
+Izumi「Yuka-chan, have you met someone like that?」%K%P
+
+0x103C
+Yuka「...」%K%P
+
+0x1048
+The swaying and waving water shimmers in the sunlight.%K%P
+
+0x1054
+...It glitters like that night sky.%K%P
+
+0x1060
+Yuka「...No.」%K%P
+
+0x106C
+Yuka「I just asked out of curiosity...」%K%P
+
+0x1078
+Izumi「...」%K%P
+
+0x1084
+Yuka「Aah, I mustn't get drunk...」%K%P
+
+0x1098
+But despite my words, I end up drinking several cups of%Nbeer.%K%P
+
+0x10A4
+I'm bitter...%K I don't know why, but that's how I feel.%K%P
+
+0x1168
+As the day goes on, the temperature drops%Nconsiderably, and so we get ready to leave for%NLunabeach.%K%N
+
+0x1174
+At that time, I'm so drunk that I can barely walk.%K%N
+
+0x1180
+That's no wonder...%K%N
+
+0x118C
+In total, I drank no less than twenty cups of beer...%K%N%N
+
+0x1198
+But!%K It's all Makoto's fault!!!%K%P
+
+0x11AC
+In the time I've been worrying about everything, Makoto%Nhas been enjoying himself!%K%N
+
+0x11B8
+Because he neglected me like that, I had no choice but%Nto just drink it all away!!!%K%N%N
+
+0x11C4
+As I continue to mentally complain, I force myself to chug%Ndown more beer.%K%N%N
+
+0x11D0
+Before long, my anger and thought processes fly away%Ntowards a distant dimension...%K%P
+
+0x1240
+Just like we did on our way here, we go back through%NMoon Beach.%K%P
+
+0x124C
+On the way back, Makoto grabs my hand while continuing%Nto sprout gibberish.%K%P
+
+0x1258
+Makoto「All right, Yuka? You can't say or have 'toro', got it?」%K%P
+
+0x126C
+Yuka「Huh? ...Did yuu shay 'toro'?」%K%P
+
+0x1280
+Yuka「Shilly Mako-tan, we're naht in a bullfightin' arena!」%K%P
+
+0x128C
+Makoto「...」%K%P
+
+0x12A0
+Makoto makes a sour face and furrows his eyebrows. I%Ncan't tell whether it's from being unable to stomach my%Nreply or from being overwhelmed by the stench of%Nalcohol in my breath.%K%P
+
+0x12AC
+Makoto「Then I'll try saying it another way...」%K%P
+
+0x12B8
+Makoto「All right, Yuka? You must absolutely not say 'I want to eat%Ntuna', okay?」%K%P
+
+0x12C4
+This time, I don't understand him at all...%K%P
+
+0x12D0
+But his whispers are tickling me, so I just give a suitable%Nnod of affirmation.%K%P
+
+0x12DC
+Makoto「Do you really understand?」%K%P
+
+0x12F0
+Yuka「Geesh, don't worree abaut it... Eye got it!」%K%P
+
+0x1304
+So he must mean "toro" as in the fatty part of tuna. Um...%Nso I can't have "toro", right?%K%P
+
+0x1310
+Yeah, yeah, yeah...%K Of course I understand that.%K%P
+
+0x131C
+So the next time I'm at a sushi shop, I'll just order a "sea%Nurchin" instead.%K%P
+
+0x13A0
+Kurumi「Morning!」%K%P
+
+0x13AC
+When we arrive at Lunabeach, we are greeted by the%Nnow completely cheerful Kurumi-chan.%K%P
+
+0x13B8
+I feel jealous of her youth and her quick recovery ability.%K%P
+
+0x13C4
+And then...%K%P
+
+0x13E0
+Yuka「Eye have jusht come up wif shomefing amashin'!」%K%P
+
+0x13EC
+Makoto「Yeah, yeah, when you cross Kurumi and milk, you get%N'Kurumilk'...Now let's move on!」%K%P
+
+0x13F8
+...Makoto's sense of humor is like an old-timer's.%K%P
+
+0x140C
+Kurumi「Kyahahahahahahaha♪ Well done! That's great!」%K%P
+
+0x1420
+Yuka「Gyahahahahahahaha♪ Makoto... yer too funee...♪」%K%P
+
+0x142C
+Yuka「Yuu jusht meid a portmanteau...♪」%K%P
+
+0x1438
+Yuka「Makoto, yer too much...♪」%K%P
+
+0x1444
+Makoto「...」%K%P
+
+0x1458
+And then, when I finish laughing...%K%P
+
+0x1464
+Yuka「Haah...」%K%P
+
+0x1470
+When I finish laughing...%K%P
+
+0x1494
+Yuka「To... to... to...」%K%P
+
+0x14A0
+Suddenly, I feel a certain desire welling up.%K%P
+
+0x14AC
+My whole body shakes with this strong wish, completely%Nstealing away any reason I had left.%K%P
+
+0x14B8
+Yuka「To... to... to...」%K%P
+
+0x14C4
+...Oh?%K Why does Makoto seem to be foaming at the%Nmouth...?%K%P
+
+0x14D0
+...But I ignore him.%K%P
+
+0x14DC
+Yuka「To... to... to...」%K%P
+
+0x14F8
+Yuka「Tower.」%K%P
+
+0x1504
+Makoto「?????」%K%P
+
+0x1510
+Yuka「Eye wanna shee... da lighthoushe tower...」%K%P
+
+0x1524
+Yuka「Eye wanna shee da lighthoushe tower!!」%K%P
+
+0x1590
+And thus, in order to see the lighthouse tower, we go to%NViewpoint Park at the tip of the cape.%K%P
+
+0x159C
+The five besides Kurumi and I are standing by the cherry%Nblossoms before the park.%K%P
+
+0x15A8
+Now that I think about it, this is the first time Saki, Haruka,%Nand Okuhiko-kun have seen the cherry blossoms here.%K%P
+
+0x15B4
+That amazing sight may be overwhelming them.%K%P
+
+0x15C0
+Well, anyway, in order to fulfill my desire, Kurumi-chan and%NI play around the lighthouse tower.%K%P
+
+0x15CC
+Round and round the lighthouse tower...%K%P
+
+0x15D8
+We chase each other like children in a daze.%K%P
+
+0x15E4
+At this moment, I haven't realized it yet.%K%P
+
+0x15F0
+My actions have resulted in preventing that terrible%Nevent from happening...%K%P
+
+0x166C
+We pass the time in Viewpoint Park idly.%K%P
+
+0x1678
+One person admires the cherry blossoms in full bloom...%K%NAnother's thoughts turn to what lies beyond the sea...%K%P
+
+0x1684
+...And yet another person frolics like an innocent child%Nwhile trying to claw their way up the lighthouse...%K%P
+
+0x1690
+Incidentally, the one trying to climb up the lighthouse is...%K%P
+
+0x169C
+...%K%P
+
+0x16A8
+...Well, that's a secret.%K%P
+
+0x16B4
+And so, it's finally the end of the afternoon...%K%P
+
+0x16C0
+By the time I'm gazing at this setting sun, I've completely%Nsobered up.%K%P
+
+0x16CC
+The seven of us are lined in a row by the cape's fence,%Nwatching the bright red sun as it sinks below the horizon.%K%P
+
+0x16D8
+Is it just my imagination, or does it feel like the sun's%Nsetting at a faster speed than usual?%K%P
+
+0x16E4
+It's like a smoothly descending curtain.%K%P
+
+0x16F0
+I feel a little reluctance to see it set and go away...%K%P
+
+0x16FC
+I casually turn my attention towards the scenery around%Nme.%K%P
+
+0x1708
+Because of the setting sun, the scenery is dyed red.%K%P
+
+0x1714
+Everything before my eyes is a bright red color that%Nmakes it look like it's burning...%K%P
+
+0x1720
+The current time is 4:38 P.M.%K%P
+
+0x172C
+The event where Saki nearly drowned has been erased%Nfrom this time axis.%K%P
+
+0x1738
+With this, it's likely that Saki and Haruka's quarrel%Ntomorrow won't happen.%K%P
+
+0x1744
+There's nothing to worry about...%K Even so...%K%P
+
+0x1758
+Even so, what is this growing feeling of anxiety in my%Nchest?%K%P
+
+0x1764
+This red world makes me uneasy...%K It feels like as if the%Nanxiety flowing into my beating heart is like light shining%Nin from the cracks of a ceiling in a dark room...%K%P
+
+0x1770
+My body faintly trembles.%K%P
+
+0x17B0
+...Suddenly, I feel warmth in my left hand.%K%P
+
+0x17BC
+When I look, I see that Makoto is gripping my hand.%K%P
+
+0x17C8
+His face is turned straight towards the setting sun.%K%P
+
+0x17D4
+Pleasant heat passes into my left hand.%K%P
+
+0x17E0
+It's a serene feeling...%K ...Like being wrapped up in a warm,%Nsoft feather.%K%P
+
+0x17EC
+I... gently grasp his hand back.%K I get a strong reaction%Nfrom his hand.%K%P
+
+0x17F8
+Makoto is staring beyond the sea.%K%P
+
+0x1804
+But it doesn't seem like his pink dyed cheeks are from%Nthe setting sunlight alone...%K%P
+
+0x1810
+I find it extremely funny, but I suppress a laugh in my%Nthroat.%K%P
+
+0x181C
+Before I know it, the turbulent ocean in my heart has%Ncalmed down and returned to normal.%K%P
+
+0x1828
+My anxiety has disappeared to parts unknown.%K%P
+
+0x1834
+I look towards the direction of the shrine.%K%P
+
+0x1840
+I think I can stay like this for a little while.%K%P
+
+0x184C
+Even if it's only for an extremely short amount of time...%K%P
+
+0x1858
+Please allow me this peace.%K%P
+
+0x1864
+Please, god of time...%K%P
+
+0x1900
+We wait until the sun has completely set, then return to%NLunabeach.%K%N
+
+0x190C
+This is the third time I've watched the sunset on this%Nisland.%K%N
+
+0x1918
+Suddenly, I remember the promise Makoto and I%Nexchanged.%K%N%N
+
+0x1924
+"We'll see the morning of April 7th together."%K%N%N
+
+0x1930
+I won't stop believing until I see the beauty of the%Nmorning I've never seen.%K%P
+
+0x19CC
+We are treated to dinner at Lunabeach.%K%P
+
+0x19D8
+After dinner, we say goodbye to Izumi-san and%NKurumi-chan, and go outside.%K%P
+
+0x19E4
+Right after that...%K%P
+
+0x19F8
+Kurumi「Oh! Kurumi almost forgot!」%K%P
+
+0x1A04
+Kurumi-chan comes out again alone.%K%P
+
+0x1A10
+Yuka「???」%K%P
+
+0x1A1C
+Makoto「???」%K%P
+
+0x1A30
+Kurumi「From now on, Kurumi has decided to call Okuhiko-kun%N'Okkun'♪」%K%P
+
+0x1A3C
+Kurumi「And she's decided to call Makoto-kun Onii-chan'♪」%K%P
+
+0x1A48
+Both of them accept these nicknames.%K%P
+
+0x1A54
+In fact, Makoto seems to have been looking forward to%Nthis, as he is now smiling.%K%P
+
+0x1A60
+"Okkun"...%K "Onii-chan"...%K%P
+
+0x1A6C
+It's a familiar sound that makes my heart tremble...%K%P
+
+0x1B0C
+Right now, we're walking on Moon Beach.%K%P
+
+0x1B18
+Like last time, the others are returning to the lodge via%Nthe paved road.%K%P
+
+0x1B24
+After we parted from Kurumi-chan, I told Makoto-kun that I%Nwanted "the two of us to talk alone", and so we decided%Ntook a different route from the others.%K%P
+
+0x1B30
+Haruka and Okuhiko-kun seemed kinda curious about%Nwhat we're up to, but they don't seem to be looking into it.%K%P
+
+0x1B3C
+However, just before we parted, Saki let out some%Ndisgruntled words...%K%P
+
+0x1B48
+... ... ...%K%P
+
+0x1B54
+The moon is alone in the sky.%K%P
+
+0x1B60
+Light shines down from it.%K%P
+
+0x1B6C
+The moonlight illuminates the black sea, causing the light%Nto reflect off of it and making the waves breaking on the%Nocean sparkle with a silver sheen.%K%P
+
+0x1B78
+Is the tide rising right now?%K Or is it fading away?%K%P
+
+0x1B84
+The silver waves just come back and forth, back and%Nforth...%K%P
+
+0x1B90
+That dull rhythm keeps repeating itself over and over.%K%P
+
+0x1BA8
+Yuka「Wouldn't you say things are going better than we%Nthought?」%K%P
+
+0x1BB4
+Makoto「Yeah...」%K%P
+
+0x1BC0
+Yes... so far, our plan's running smoothly.%K%P
+
+0x1BCC
+If this continues, everything in these six days will create%Na good history, and nothing bad will happen.%K%P
+
+0x1BD8
+Makoto「Hey...?」%K%P
+
+0x1BE4
+While staring at the ocean, Makoto mutters this.%K%P
+
+0x1C08
+I turn around, as if to say "What?"%K%P
+
+0x1C14
+Makoto「Somewhere in this ocean lies the other bell...」%K%P
+
+0x1C20
+Makoto「Our lifeline...」%K%P
+
+0x1C34
+Yuka「Yeah...」%K%P
+
+0x1C40
+Makoto「And... that bell will wash up on this beach tomorrow%Nafternoon... right?」%K%P
+
+0x1C4C
+Yuka「...Yeah.」%K%P
+
+0x1C58
+I nod while touching the bell in my pocket.%K%P
+
+0x1C64
+In the last loop, I definitely picked up the bell on the%Nafternoon of the 3rd.%K%P
+
+0x1C70
+That's why we decided yesterday that we would resume%Nthe search for that bell tomorrow afternoon.%K%P
+
+0x1C84
+Yuka「We'll look for it tomorrow together, right?」%K%P
+
+0x1C90
+Makoto「...」%K%P
+
+0x1C9C
+Makoto「No... I won't.」%K%P
+
+0x1CA8
+Yuka「...」%K%P
+
+0x1CB4
+Makoto「You know what a time paradox is, right?」%K
+
+0x2FA8
+I know.
+
+0x2FB4
+I don't know.
+
+0x1CF4
+Yuka「Theoretically, it's an inconsistency that could possibly%Nbe created by time travel... right?」%K%P
+
+0x1D00
+Makoto「Y-Yeah...」%K%P
+
+0x1D0C
+Apparently finding it comical to hear me say something%Nlike "theoretically", Makoto nods while holding back a%Nlaugh.%K%P
+
+0x1D18
+Yuka「In other words...」%K%P
+
+0x1D24
+Yuka「Let's say I used a time machine, and went back to a%Nperiod of time way before my own mom was born.」%K%P
+
+0x1D30
+Yuka「And there, I stopped my mom's mom, in other words, my%Ngrandma, from marrying my grandpa...」%K%P
+
+0x1D3C
+Yuka「...Then it's possible my mom wouldn't be born...」%K%P
+
+0x1D48
+Yuka「And, if my mom wasn't born, then naturally, I would never%Nhave been born either.」%K%P
+
+0x1D54
+Yuka「But I'm still existing.」%K%P
+
+0x1D60
+Yuka「So the question is 'Just what am I?'」%K%P
+
+0x1D6C
+Makoto「Yeah...」%K%P
+
+0x1D78
+Makoto「But even if the balance of history is altered by that one%Nstep, there's an easy way to think about it that'll make%Nperfect sense.」%K%P
+
+0x1D84
+Yuka「??」%K%P
+
+0x1D90
+Makoto「In other words, to use your example, even if your%Ngrandmother didn't give birth to your mother...」%K%P
+
+0x1D9C
+Makoto「A different married couple somewhere in the world would%Nstill give birth to your mother, and in the end, your mother%Nand father would still meet...」%K%P
+
+0x1DA8
+Yuka「And I would be born...?」%K%P
+
+0x1DC4
+Yuka「A time paradox...?」%K%P
+
+0x1DD0
+Makoto「Theoretically, it's an inconsistency that could possibly%Nbe created by time travel.」%K%P
+
+0x1DE4
+Yuka「I-I see...」%K%P
+
+0x1DF0
+It's kinda funny hearing the word "theoretically" coming%Nfrom Makoto.%K%P
+
+0x1DFC
+Makoto「To explain it simply...」%K%P
+
+0x1E08
+Makoto「Let's say I had a time machine, and went back in time to a%Nperiod way before my mom was born.」%K%P
+
+0x1E14
+Makoto「And there, I stopped my mom's mom, in other words, my%Ngrandma, from marrying my grandpa...」%K%P
+
+0x1E20
+Makoto「...Then it's possible that my mom wouldn't be born...」%K%P
+
+0x1E2C
+Makoto「And, if my mom wasn't born, it's only natural that I wouldn't%Nbe born either.」%K%P
+
+0x1E38
+Makoto「But I'm still existing.」%K%P
+
+0x1E44
+Makoto「So the question is 'Just what am I'?」%K%P
+
+0x1E50
+Yuka「Huh...」%K%P
+
+0x1E5C
+Makoto「But even if the balance of history is altered by that one%Nstep, there's an easy way to think about it that'll make%Nperfect sense.」%K%P
+
+0x1E68
+Yuka「??」%K%P
+
+0x1E74
+Makoto「In other words, to use my example, even if my gradma%Ndidn't give birth to my mom...」%K%P
+
+0x1E80
+Makoto「A different married couple somewhere in the world would%Nstill give birth to my mom, and in the end, my mom and old%Nman would still meet...」%K%P
+
+0x1E8C
+Yuka「And you'd be born...?」%K%P
+
+0x1E98
+Makoto「That's right... If you think that way, then that means no%Nmatter what happens, history can't change...」%K%P
+
+0x1EA4
+"No matter what happens, history can't change."%K%P
+
+0x1EB0
+Those are very unpleasant words...%K%P
+
+0x1EBC
+Makoto「Of course... this is nothing more than an empty theory,%Nright?」%K%P
+
+0x1EC8
+Makoto says that with a smile, as if he was reading my%Nmind.%K%P
+
+0x1ED4
+Makoto「In short, what I want to say is...」%K%P
+
+0x1EE0
+Yuka「If you also go searching for the bell tomorrow, then we%Nwon't find it?」%K%P
+
+0x1EEC
+Makoto「Right. Of course, there's still a possibility that it won't be%Na problem and that we might find it anyway, but...」%K%P
+
+0x1F00
+Yuka「Hmm... if that's the case, then it doesn't matter which one%Nwe do, as the probability won't change, right?」%K%P
+
+0x1F0C
+Yuka「And besides, the 'us' in this time have done quite%Ndifferent things than last time, correct?」%K%P
+
+0x1F18
+Yuka「Saki didn't nearly drown... and-」%K%P
+
+0x1F24
+Makoto「Yeah, I know. The fact that we're right here itself has%Nalready made things different from the last loop.」%K%P
+
+0x1F38
+Yuka「Then... isn't it okay if we search together?」%K%P
+
+0x1F44
+The thought of me searching for the bell alone is%Nextraordinarily discouraging.%K%P
+
+0x1F50
+That's why I've been by Makoto's side all this time up until%Nnow...%K%P
+
+0x1F5C
+Makoto「Possibly... but you know what?」%K%P
+
+0x1F68
+Makoto「To us, finding the bell is a good event.」%K%P
+
+0x1F74
+Makoto「Think about it. We're doing everything we can to change%Nthe bad events into good ones. But we absolutely don't%Nwant to change anything related to the good events.」%K%P
+
+0x1F80
+Makoto「To reproduce that good event... means repeating the%Nevents of the good event itself!」%K%P
+
+0x1F8C
+Yuka「...?」%K%P
+
+0x1F98
+Makoto「...I have a bad feeling about what could happen if we%Nsearch together.」%K%P
+
+0x1FA4
+Makoto「When it came to the first bell, the time it was looked for%Nand the number of people looking for it changed, so the%None who found it changed...」%K%P
+
+0x1FB0
+Makoto「The next time might be the same.」%K%P
+
+0x1FBC
+Makoto「If we go search together, then we might luckily find it, but...」%K%P
+
+0x1FD0
+Yuka「You're saying someone else might pick it up before us...」%K%P
+
+0x1FDC
+Makoto slowly nods while he continues to talk.%K%P
+
+0x1FE8
+Makoto「This isn't a simple problem.」%K%P
+
+0x1FF4
+Makoto「It's already impossible to even attempt to guess the%Nchanges that will occur in the future as a result of our%Nactions...」%K%P
+
+0x2000
+Makoto「But history will surely change...」%K%P
+
+0x200C
+Makoto「No, we will MAKE history change!」%K%P
+
+0x2018
+Makoto「In order to do that, I think it'd be safest if we repeat%Nevents that created a good result.」%K%P
+
+0x2024
+Makoto「There are parts of history we should change, and parts%Nof history we shouldn't change...」%K%P
+
+0x2030
+Makoto「If the result is unforseeable, then... I want to trust my%Nintuition!」%K%P
+
+0x203C
+Yuka「...」%K%P
+
+0x207C
+I silently gaze at the beach.%K%P
+
+0x2088
+The silver waves just come back and forth, back and%Nforth... This monotonous pattern keeps repeating itself%Nover and over.%K%P
+
+0x2094
+Is the tide rising right now?%K Or is it fading away?%K%P
+
+0x20A0
+I slowly take off my shoes and socks, and step towards%Nthe ocean.%K%P
+
+0x20AC
+The waves drench my feet.%K%P
+
+0x20B8
+It's pleasantly cool...%K ...And it's very comfortable.%K%P
+
+0x20C4
+I slowly turn away from the salty ocean wind.%K%P
+
+0x20E4
+Yuka「...Got it.」%K%P
+
+0x20F0
+Yuka「I'll search for the bell alone tomorrow...」%K%P
+
+0x20FC
+Yuka「And... I'll definitely find it!!」%K%P
+
+0x213C
+I still feel discouraged.%K I still want Makoto's help.%K%P
+
+0x2148
+But... but...%K%P
+
+0x2154
+Makoto「Yeah, I'll leave it to you!」%K%P
+
+0x2160
+...I want to see that smile.%K ...I want to become Makoto's%Nstrength.%K%P
+
+0x216C
+At the very least, I've become Makoto's strength for now.%K%P
+
+0x2178
+Makoto「All right...」%K%P
+
+0x2184
+Suddenly, Makoto also takes off his shoes and socks,%Nand throws them aside.%K%P
+
+0x2190
+He runs over to me.%K%P
+
+0x219C
+Makoto「I'm in a rather good mood now, so I felt like joining you.」%K%P
+
+0x21A8
+Even though I'm making a dubious face, Makoto smiles as%Nhe says this.%K%P
+
+0x21B4
+Suddenly, I notice that our shadows are overlapping%Neach other.%K%P
+
+0x21C0
+The waves just come back and forth, back and forth,%Nrunning over the shadows...%K%P
+
+0x21CC
+The shadows don't sway, and continue to remain in place.%K%P
+
+0x21D8
+Makoto「Ah!」%K%P
+
+0x21E4
+Just then, Makoto speaks up.%K%P
+
+0x21F8
+A shooting star streams across the night sky...%K%P
+
+0x2204
+―I've gotta make a wish!%K%P
+
+0x2210
+I instantly make a firm, powerful wish...%K%P
+
+0x221C
+Before long, the shooting star moves far away and%Ndisappears.%K%P
+
+0x2230
+Makoto「...Yuka?」%K%P
+
+0x2244
+Yuka「Hmm?」%K%P
+
+0x2250
+Makoto「What did you wish for?」%K%P
+
+0x225C
+Yuka「...What about you?」%K%P
+
+0x2268
+Makoto「I-It was...」%K%P
+
+0x2274
+Makoto「...for you to find the bell tomorrow...」%K%P
+
+0x2280
+Yuka「I see.」%K%P
+
+0x228C
+Makoto「...So, what'd you wish for?」%K%P
+
+0x2298
+Yuka「I...」%K%P
+
+0x22A4
+Makoto「...」%K%P
+
+0x22B8
+Yuka「...I'm not telling♪」%K%P
+
+0x22C4
+Makoto「Huh? What's up with that?」%K%P
+
+0x22D0
+Yuka「Heh heh... you want me to tell you?」%K%P
+
+0x22DC
+Makoto「It's because I wanted you to tell me that I asked in the%Nfirst place!」%K%P
+
+0x22F0
+Yuka「Ah! I don't like that attitude of yours!」%K%P
+
+0x22FC
+Yuka「That's it, I'm not telling!」%K%P
+
+0x2308
+Makoto「...Th-That's unfair! So I'm the only one who said it!?」%K%P
+
+0x231C
+Yuka「It wasn't really anything that big, so you're not missing%Nout on much.」%K%P
+
+0x2328
+Makoto「If it's not that big, then you can tell me, can't you?」%K%P
+
+0x233C
+Yuka「...It's a little personal... You understand, right?」%K%P
+
+0x2348
+Makoto「...」%K%P
+
+0x2354
+Makoto「...Then can you promise me something?」%K%P
+
+0x2368
+Yuka「Okay.」%K%P
+
+0x2374
+Makoto「Don't forget these words, all right?」%K%P
+
+0x2388
+Yuka「Sure.」%K%P
+
+0x2394
+Makoto「'Promises must definitely be kept.'」%K%P
+
+0x23A8
+Yuka「Y-Yeah... I know that!」%K%P
+
+0x23B4
+Makoto「Good... Well then, it's high time we head back.」%K%P
+
+0x23C8
+We put on our shoes and start walking towards the%Nlodge.%K%P
+
+0x23D4
+While walking, I mentally repeat the wish I made earlier one%Nore time.%K%P
+
+0x23E0
+The wish I made on that shooting star of hope...%K%P
+
+0x23F4
+"I wish that we'll always be together...!"%K%P
+
+0x2400
+My wish...%K%P
+
+0x240C
+My wish... is something that cannot be conveyed in%Nwords...%K%P
+
+0x2474
+We start climbing up the hill road while exchanging trivial%Nconversation.%K%P
+
+0x24AC
+And then, at the time the lodge begins to come into our%Nfield of vision...%K%P
+
+0x24B8
+??「Welcome back.」%K%P
+
+0x24C4
+Yuka「!?」%K%P
+
+0x24D0
+Makoto「!?」%K%P
+
+0x2500
+Saki is standing there with her arms crossed.%K%P
+
+0x251C
+Yuka「...Huh? Saki, why are you...」%K%P
+
+0x2528
+Makoto「You didn't go back yet...?」%K%P
+
+0x2534
+Saki「It took you quite a long time to come back, so I got%Nworried.」%K%P
+
+0x2548
+Saki undoes her crossed arms, and slowly approaches%Nus.%K%P
+
+0x2554
+Saki「Nevertheless, you two are getting along real well...」%K%P
+
+0x2568
+While she says that, she looks back and forth between%NMakoto and I.%K%P
+
+0x2574
+Her tone seems incredibly sharp and biting...%K%P
+
+0x2580
+Makoto「...What? If you've got something you want to say, say it%Nclearly.」%K%P
+
+0x258C
+When he says that, Saki's tone changes...%K%P
+
+0x25A0
+Saki「Don't get so angry... Now you're making me even more%Nworried...」%K%P
+
+0x25AC
+Makoto「Oh, umm...」%K%P
+
+0x25B8
+Makoto「...Sorry about that... err... We got a little caught up in our%Nconversation...」%K%P
+
+0x25CC
+Saki「No... it's okay. As long as you came back all right, that's%Ngood enough...」%K%P
+
+0x25D8
+Makoto「I-I see...」%K%P
+
+0x25EC
+Yuka「...」%K%P
+
+0x25F8
+I feel a surge of anger flaring up in my chest from of their%Nconversation...%K%P
+
+0x260C
+Yuka「...Well then, your business is all done, isn't it? We're going%Ninside now, so why don't you head on home too?」%K%P
+
+0x2618
+I aggressively tug on Makoto's arm as I try to pass by%NSaki.%K%P
+
+0x262C
+Saki「...Wait! I still haven't finished my business yet.」%K%P
+
+0x2638
+Yuka「?」%K%P
+
+0x2644
+Makoto「?」%K%P
+
+0x2658
+Saki「I... want to talk to Yuka.」%K%P
+
+0x266C
+Yuka「Huh? W-With me...?」%K%P
+
+0x2678
+Saki nods.%K%P
+
+0x2684
+Yuka「Wh-Why...?」%K%P
+
+0x2698
+Saki「...Well, you see...」%K%P
+
+0x26A4
+Just then, Saki glances at Makoto.%K%P
+
+0x26B0
+Makoto「?」%K%P
+
+0x26BC
+Saki「...」%K%P
+
+0x26D0
+Saki「...No, never mind. Maybe next time...」%K%P
+
+0x26DC
+Yuka「Huh?」%K%P
+
+0x26E8
+Makoto「Hmm? Is it me? Am I being a third wheel or something? If%Nthat's the case, I'll go away...」%K%P
+
+0x26F4
+Saki「No... it's fine. I've decided that I need to give this more%Nthought before talking about it.」%K%P
+
+0x2708
+Saki「Yes... I haven't put my thoughts together yet...」%K%P
+
+0x2714
+Yuka「...??」%K%P
+
+0x2728
+Saki「Well then... goodnight.」%K%P
+
+0x273C
+With just those words, she slips right past me.%K%P
+
+0x2748
+When she passes me, I smell a sweet scent wrapped%Naround Saki's body.%K%P
+
+0x2754
+It smells like the sweet aroma of flowers...%K%P
+
+0x2760
+Before long, Saki has disappeared into the darkness.%K%P
+
+0x276C
+Yuka「...」%K%P
+
+0x2778
+Makoto「...」%K%P
+
+0x2784
+All that's left is the two of us, standing there as we%Nexchange glances...%K%P
+
+0x2808
+I take a bath, brush my teeth, change my clothes, and lie%Non my bed.%K%P
+
+0x2814
+I look at the clock, and find it's close to 10:00 P.M.%K%P
+
+0x2820
+Yuka「Fwaah～...」%K%P
+
+0x282C
+I open my mouth widely, and yawn loudly.%K Anyway, I'm%Ndead tired...%K%P
+
+0x2838
+Last night, I almost got no sleep, and on top of that, I've%Nbeen very busy for the last two days.%K%P
+
+0x2844
+I don't even know if I've locked the door, as I'm too tired%Nto check.%K%P
+
+0x2850
+(Tomorrow... what happens tomorrow?)%K%P
+
+0x285C
+I desperately review the facts of tomorrow's events in%Nmy head to affirm.%K%P
+
+0x2868
+(Tomorrow... after breakfast, we went to tennis as%Nscheduled...)%K%P
+
+0x2874
+(...We took a break to eat Saki's sandwiches , we%Ncontinued playing ...I went shopping...)%K%P
+
+0x2880
+(Then I have to go find the bell ...Makoto's lifeline...)%K%P
+
+0x288C
+(And then , we had the dinner that Izumi-san made...)%K%P
+
+0x2898
+(...H - Huh ?) What did we eat?)%K%P
+
+0x28A4
+(...I forgot... )%K%P
+
+0x28B0
+(Anyway, we ate Izumi-san's meal...)%K%P
+
+0x28BC
+(And then...)%K%P
+
+0x28C8
+(And then...)%K%P
+
+0x28D4
+I've reached my limit.%K%P
+
+0x28E0
+I can't think any more...%K%P
+
+0x28EC
+I turn my body, and curl up in the covers.%K%P
+
+0x28F8
+As my consciousness fades, I let my body get%Novertaken by sleep.%K%P
+
+0x2904
+The world in front of me fades into white.%K%P
+
+0x2918
+Before long, my consciousness is taken to the%Ncomfortable world of sleep...%K%P
+
+0x2924
+...And then , I have a different dream than last%Nnight――.%K%P
+

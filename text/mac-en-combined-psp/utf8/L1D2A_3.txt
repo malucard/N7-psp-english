@@ -1,0 +1,276 @@
+text area offset and size:
+0x9B8
+0x15AA
+0xA8
+"Although the sunlight is strong, it's only the start of%Nspring, so it'll be a bit cold to go outside with just a%Nbathing suit on."%K%P
+
+0xB4
+"If we go to the poolside, it'd probably be best to dive%Nstraight for the water."%K%P
+
+0xC0
+... At least, I was thinking that, but to my surprise, it's%Nactually warm outside.%K%P
+
+0xCC
+It's not as hot as it would be in the summer, but it's%Npleasantly warm.%K%P
+
+0xD8
+The hedges surrounding the perimeter probably help%Nkeep out the wind.%K%P
+
+0xEC
+Okuhiko「Wooow, this really nice weather we're having, huh?!」%K%P
+
+0xF8
+Suddenly, Okuhiko looks at the radiant sun while saying%Nan expression you'd expect from an enka singer.%K%P
+
+0x104
+Okuhiko「Anyway, I think we ought to thank Yuka-chan.」%K%P
+
+0x154
+Yuka「Huh? ... Why me?」%K%P
+
+0x168
+Okuhiko「Didn't you say it over the phone before we went to the%NCamp?」%K%P
+
+0x174
+Okuhiko「'Make sure to bring your swimsuit!'」%K%P
+
+0x188
+Yuka「R-Right...」%K%P
+
+0x194
+Okuhiko「No matter how close the ocean is, there's no way you%Ncan go swimming in it in this season, so I was a little%Ncurious why you said to bring one.」%K%P
+
+0x1A0
+Yuka「T-That's true...」%K%P
+
+0x1B4
+Okuhiko「But now it all makes sense. To think there would be a%Nheated pool here...」%K%P
+
+0x1C0
+Yuka「...」%K%P
+
+0x1CC
+Makoto「I see. I probably wouldn't have brought mine either if she%Nhadn't told us to.」%K%P
+
+0x1D8
+Okuhiko「Right. And this is why!」%K%P
+
+0x1E4
+Makoto「But Yuka, how did you know that there was a heated pool%Nhere?」%K%P
+
+0x1F0
+Yuka「Well... that is...」%K%P
+
+0x1FC
+Makoto「?」%K%P
+
+0x210
+Yuka「... I didn't know.」%K%P
+
+0x21C
+Makoto「Huh?」%K%P
+
+0x228
+Yuka「I didn't know there was a heated pool!」%K%P
+
+0x244
+Saki「What!!? Could it be that you actually said 'bring your%Nswimsuits' so that you could swim in the ocean?」%K%P
+
+0x258
+Yuka「Well... Because this is so far south, I just assumed it'd%Nalready be beach going season here...」%K%P
+
+0x26C
+Saki「Ha ha ha ha ha ha♪」%K%P
+
+0x280
+Yuka「Why are you laughing?」%K%P
+
+0x28C
+Saki「Hey, Yuka? Didn't you know that the temperature of the%Nocean is about one or two months behind the air%Ntemperature?」%K%P
+
+0x2A0
+Yuka「Huh? ... Is... that right?」%K%P
+
+0x2AC
+Saki「It is! In other words, right now, the ocean is in the middle%Nof its coldest season of the year!」%K%P
+
+0x2C8
+Izumi「Wow, you're well informed, aren't you, Saki-chan?」%K%P
+
+0x2D4
+Izumi-san praises her almost as if she was a child.%K%P
+
+0x2E0
+Saki「Going into the ocean during this season would be%Nsuicidal.」%K%P
+
+0x2EC
+Saki proudly adds this, encouraged by Izumi-san's%Npraise.%K%P
+
+0x308
+Okuhiko「Well, either way, I'd say everything still turned out well...」%K%P
+
+0x314
+Okuhiko「So I'm grateful to Yuka-chan.」%K%P
+
+0x320
+As he flips his long hair, Okuhiko sends Yuka a flirtatious%Nglance.%K%P
+
+0x334
+Okuhiko「Ah... the sun's brilliant rays are bathing us in it's light... It's%Nfilling my soul with a fiery heat!」%K%P
+
+0x340
+As he says these ridiculous words, he spreads his arms%Nand lifts his face towards the sky...%K%P
+
+0x34C
+Okuhiko「Well then, adios, amigos!」%K%P
+
+0x360
+Okuhiko leaves us with these words, and he suddenly%Nbegins running towards the poolside, diving in...%K%P
+
+0x388
+... With a "magnificent" belly dive...%K%P
+
+0x394
+A sheet of water shoots up into the air as he%Npathetically crashes into the pool.%K%P
+
+0x3A0
+He dived like a clumsy, elementary school girl who can't%Nswim.%K%P
+
+0x3AC
+However, this isn't nearly as comical... Rather, it's just%Nsad.%K%P
+
+0x450
+I look at the analog clock on the wall of the hotel, whose%Nhands are pointing to exactly noon.%K%N
+
+0x45C
+The weather is as good as ever.%K%P
+
+0x468
+Everyone else is scattered around the pool, idly%Npassing the time and having fun.%K%P
+
+0x474
+Well then, I will...%K
+
+0x978
+Get a drink.
+
+0x984
+Swim recklessly.
+
+0x990
+I want to go on the slide.
+
+0x99C
+Dive like a dolphin.
+
+0x51C
+I head over to the drink stand in order to quench my%Nthirst.%K%P
+
+0x528
+On my way there, I see Saki lying down on a deck chair.%K%P
+
+0x59C
+I have the urge to swim recklessly.%K%P
+
+0x5A8
+I don't know why, but my body is just itching to do so.%K%P
+
+0x5B4
+Is it because it's spring...?%K%P
+
+0x5C0
+Whatever the reason, I think this is what Okuhiko meant%Nwhen he said, "My soul is filled with a fiery heat."%K%P
+
+0x5E8
+I immediately dive underwater.%K%P
+
+0x5F4
+Without losing my diving speed, I start crawling up to the%Nsurface.%K%P
+
+0x600
+Rustling water begins to flow from my head to my toes.%K%P
+
+0x60C
+I swim from end to end, then do a quick turn without taking%Na breather...%K%P
+
+0x618
+Even I'm surprised at how nimble my body is.%K%P
+
+0x624
+It feels like I'm smoothly gliding along on the water's%Nsurface.%K%P
+
+0x630
+Makoto「FWAAH!」%K%P
+
+0x63C
+When I return to the start point, I gasp for air.%K%P
+
+0x648
+When I casually look up, I see someone looking down%Nupon me from the high edge of the pool.%K%P
+
+0x6B4
+For some reason, I get the urge to go down the slide.%K%P
+
+0x6C0
+I'm pretty sure I saw it right by the pool.%K%P
+
+0x6CC
+I used to love them as a kid.%K%P
+
+0x6D8
+That time... back when I still did things without thinking%Nabout them...%K%P
+
+0x6E4
+... Back when I thought of only having fun...%K%P
+
+0x6F0
+... Back when I thought I could do anything when I grew%Nup...%K%P
+
+0x6FC
+That time is very nostalgic to me...%K%P
+
+0x708
+... All right! I decide to act on my childish impulses and go%Ndown the slide!%K%P
+
+0x714
+Thankfully, there aren't any kids around right now.%K%P
+
+0x720
+If there were, it'd have been too embarrassing to try.%K%P
+
+0x72C
+... I finally arrive at the slide.%K%P
+
+0x768
+For now, I will become a dolphin...!%K%P
+
+0x790
+I take a deep breath, and dive into the pool.%K%P
+
+0x79C
+I barely avoid hitting the bottom of the pool at the last%Nsecond, and I swim towards the opposite end of the pool.%K%P
+
+0x7A8
+...%K%P
+
+0x7B4
+Air leaks out of my mouth, becoming bubbles.%K%P
+
+0x7C0
+While continuing to hold my breath, I try to make it to the%Nother side without breathing.%K%P
+
+0x7CC
+... Made it!%K%P
+
+0x7D8
+I rise to the surface.%K%P
+
+0x7E4
+Splash!!!%K%P
+
+0x7F0
+Makoto「Aaaah!」%K%P
+
+0x7FC
+I take in a deep breath of air as my face shoots out of%Nthe water.%K%P
+

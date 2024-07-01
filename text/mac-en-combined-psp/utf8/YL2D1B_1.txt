@@ -1,0 +1,561 @@
+text area offset and size:
+0xDF8
+0x2783
+0x5C
+Makoto「Well then... now we can talk all we want, right?」%K%P
+
+0x68
+Yuka and I are sitting down on the bench at the tennis%Ncourt.%K%P
+
+0x74
+Makoto「Is it all right if I ask you something?」%K%P
+
+0x80
+Makoto「Why can't we tell the others? You must have some sort%Nof reason that means we need to keep it a secret...」%K%P
+
+0x94
+Yuka「Yes... But before that, I think it'd be best if we first%Nstraightened several things out.」%K%P
+
+0xA0
+Yuka「I have a feeling that there are lots and lots of things%Nthat we still misunderstand or don't comprehend at all,%Nlike...」%K%P
+
+0xAC
+Yuka「'Just what did we experience, and what are we%Nthinking?'...」%K%P
+
+0xB8
+Yuka「If we don't reach a mutual understanding first, our%Nconversations will clash, and then we'll have no idea%Nwhat the other's saying, right?」%K%P
+
+0xC4
+Well... she might be right.%K%P
+
+0xD0
+I give Yuka a deep nod, and wait for her to start off...%K%P
+
+0xDC
+Yuka「All right then. First off, let's confirm what we do know,%Nokay?」%K%P
+
+0xE8
+Makoto「Yeah.」%K%P
+
+0xF4
+Yuka「I think there's three things that we can definitely say for%Nsure.」%K%P
+
+0x15C
+Yuka「#1―You and I share the same memories from April 1st%Nto the 6th...」%K%P
+
+0x19C
+Yuka「#2―Today's date is definitely Monday, April 1st...」%K%P
+
+0x1D4
+Yuka「#3―On the last April 1st, we had the same dream...」%K%P
+
+0x21C
+Makoto「Hey, Yuka? Don't make this more complicated than it%Nactually is.」%K%P
+
+0x228
+Makoto「In short, this is what you want to say, right?」%K%P
+
+0x234
+Makoto「On Saturday, April 6th, we time traveled at that shrine to%NMonday, April 1st... in other words, to today...」%K%P
+
+0x240
+Yuka「Mmm... time travel, huh...」%K%P
+
+0x24C
+Makoto「... You don't think it's something else, do you?」%K%P
+
+0x28C
+Yuka「No, there's no way that it's something else...」%K%P
+
+0x298
+Yuka「It's just, do you really think that this is a simple problem%Nthat can be explained by those two words...?」%K%P
+
+0x2A4
+Makoto「Hmm?」%K%P
+
+0x2B0
+Yuka「The three facts we know right now... if all we knew were #1%Nand #2, then it'd probably be all right just to say that it%Nwas 'time travel', but...」%K%P
+
+0x2BC
+Yuka「The most important one is #3...」%K%P
+
+0x2C8
+Makoto「That we had the same dream on the last April 1st?」%K%P
+
+0x2D4
+Yuka「Yes... And if I had to say my thoughts on why, then my%Nanswer would be...」%K%P
+
+0x2E8
+Yuka「To us, this wasn't the first time we've experienced time%Ntravel... that's the truth of the matter, right?」%K%P
+
+0x2F4
+Makoto「Yeah...」%K%P
+
+0x300
+Yuka「In other words, we've time traveled before, haven't we?」%K%P
+
+0x30C
+Makoto「Yeah...」%K%P
+
+0x318
+Yuka「Which means that this should be the third time we've%Nexperienced today, the day known as 'Monday, April 1st',%Ncorrect?」%K%P
+
+0x324
+Makoto「'The last April 1st' and 'today'... and the 'forgotten April%N1st' that happened before our dream...」%K%P
+
+0x340
+Yuka「Yeah... That's what I thought, but...」%K%P
+
+0x34C
+Yuka「... Makoto, what day do you think it was before that%N'forgotten April 1st'?」%K%P
+
+0x358
+Makoto「That'd be March 31st, obviously...」%K%P
+
+0x364
+Yuka「You think so?」%K%P
+
+0x370
+Makoto「?」%K%P
+
+0x37C
+Yuka「You really think so?」%K%P
+
+0x388
+Makoto「What do you want to say?」%K%P
+
+0x3D4
+Yuka「I think that the day before the 'forgotten April 1st' was%Nactually the '6th'.」%K%P
+
+0x3E0
+Makoto「Huh???」%K%P
+
+0x3EC
+Yuka「Truthfully, we have no clue how many times we've been%Nthrough today, 'April 1st'.」%K%P
+
+0x448
+Yuka「Even though this is at least the third time, this might%Nactually be the 300th time, or the 300 millionth time...」%K%P
+
+0x454
+Yuka「So trying to count the number of times itself might be%Npointless...」%K%P
+
+0x460
+Makoto「...?」%K%P
+
+0x46C
+Yuka「Perhaps... we've been repeating the days from April 1st%Nthrough the 6th countless times for all eternity.」%K%P
+
+0x478
+Yuka「If there's no beginning, then there's no end―this is%Ndefinitely a part of an infinite loop!」%K%P
+
+0x48C
+An infinite loop...%K%P
+
+0x498
+I'm having a hard time taking it in.%K%P
+
+0x4A4
+An infinite loop...%K%P
+
+0x4B0
+The word repeats itself in my head.%K%P
+
+0x4BC
+If that's the case...%K%P
+
+0x4C8
+If that's the case... then does that mean we're doomed to%Nrepeat the last six days for all eternity?%K%P
+
+0x4D4
+We'll continue living in this world for our whole lives...%K%P
+
+0x4E0
+No, that's not an accurate way of putting it.%K%P
+
+0x4EC
+It's not like our physical bodies traveled through time%Nwith us.%K%P
+
+0x4F8
+Only our consciousnesses have returned to the%Nmorning of the 1st.%K%P
+
+0x504
+Which means that it's completely impossible for our%Nbodies to age.%K%P
+
+0x510
+If we can't age, then our bodies will never rot away.%K%P
+
+0x51C
+In other words, we... won't die?%K%P
+
+0x528
+―That's wrong!%K%P
+
+0x570
+―We CAN'T die!%K%P
+
+0x57C
+Suddenly, I'm hit with a sense of intense despair.%K%P
+
+0x588
+It's a dark world without even a single ray of light.%K%P
+
+0x594
+Time will continue to repeat itself...%K%P
+
+0x5A0
+Are you saying that I have to continue living on%Nendlessly for all eternity in this world, in this time!?%K%P
+
+0x5AC
+Something like that... is nothing short of despair!%K%P
+
+0x5B8
+What will happen to my future!?%K%P
+
+0x5C4
+My prospects!?%K%N
+
+0x5D0
+My dreams!?%K%N
+
+0x5DC
+My hopes!?%K%P
+
+0x5E8
+It's like I'm stuck in a prison!%K%P
+
+0x5F4
+I'm chained down in this small cell where everything%Nrepeats without change.%K%P
+
+0x600
+Where everything repeats without change.%K%N
+
+0x60C
+Where everything repeats without change.%K%N
+
+0x618
+Where everything repeats without change.%K%P
+
+0x624
+Where day after day continues monotonously...%K%P
+
+0x630
+And then...%K%P
+
+0x660
+...I feel a pain that could gouge out my heart.%K%P
+
+0x66C
+I can't escape... from this pain.%K%P
+
+0x678
+I've failed to save her thousands, if not tens of%Nthousands, of times...%K%P
+
+0x684
+I broke my promise.%K%P
+
+0x690
+All because I hesitated for that one moment...%K%P
+
+0x69C
+That's right...! At that time, it happened because I thought%Nof "that"!%K%P
+
+0x6A8
+I thought of myself first!%K%P
+
+0x6B4
+It's because I held my own life dear!%K%P
+
+0x6C0
+So the one...%K%P
+
+0x6CC
+―The one who killed Yuka was me!%K%P
+
+0x6D8
+I've killed her thousands, if not tens of thousands, of%Ntimes!!%K%P
+
+0x6E4
+And from this point onwards, I will continue to kill her%Ncountless times for all eternity!!%K%P
+
+0x6F0
+I will continue to shed blood!!%K%P
+
+0x6FC
+That's...%K%P
+
+0x708
+That's... simply...%K%P
+
+0x740
+I gnash my teeth with a grinding noise.%K%P
+
+0x74C
+The pain in my chest seems to burst open.%K%P
+
+0x758
+Everything... all of these memories... I want to erase them%Nand be rid of them...%K%P
+
+0x764
+All of them...%K%P
+
+0x770
+(Isn't that just escaping?)%K%P
+
+0x77C
+(Am I really planning to run away like that?)%K%P
+
+0x788
+(I'm such... a goddamn coward...)%K%P
+
+0x794
+"If you want to be free, then you mustn't be afraid."%K%P
+
+0x7A0
+―I'll fight!%K%P
+
+0x7AC
+Even if it's a predetermined fate...%K%P
+
+0x7B8
+... I'll just shatter it into pieces!%K%P
+
+0x7C4
+I'll destroy such a ridiculous fate!%K%P
+
+0x7D0
+―I'll break out!%K%N
+
+0x7DC
+―I'll break out from this hellish cell!%K%P
+
+0x7E8
+―From within the darkness of this infinite loop!%K%N
+
+0x7F4
+―I'll tear off these chains!%K%P
+
+0x800
+I'll never repeat this again!%K%P
+
+0x80C
+"I will definitely protect Yuka."%K%P
+
+0x818
+I can't... break that oath... ever again...%K%P
+
+0x864
+I firmly grab Yuka's arm.%K%P
+
+0x870
+And like that, I keep pulling her arm as I begin to walk...%K%P
+
+0x87C
+Yuka「H-Hold on... Where are we going?」%K%P
+
+0x888
+Makoto「We're running away...」%K%P
+
+0x894
+Yuka「R-Running away...? Where to?」%K%P
+
+0x8A0
+Makoto「That's obvious, isn't it...?」%K%P
+
+0x8AC
+Yuka「???」%K%P
+
+0x8B8
+Makoto「To the free world...」%K%P
+
+0x910
+Yuka「Huh? ... The harbor?」%K%P
+
+0x91C
+Yuka「Wait, do you mean...?」%K%P
+
+0x928
+Makoto「That's right. We're going home.」%K%P
+
+0x934
+Yuka「H-How?」%K%P
+
+0x940
+Makoto「We'll take the ferry... Isn't that obvious?」%K%P
+
+0x954
+Yuka「But Makoto―」%K%P
+
+0x960
+Makoto「I'll buy us tickets, so wait here for a bit!」%K%P
+
+0x974
+I leave Yuka, and run towards the ferry boarding area...%K%P
+
+0x9A8
+I go to the ticket booth window.%K%P
+
+0x9B4
+A notice set up against it quickly catches my eye.%K%P
+
+0x9C0
+"Today, ferry service has been suspended due to bad%Nweather."%K%P
+
+0x9CC
+Makoto「Bad weather?? But it's so nice right now. What's going%Non??」%K%P
+
+0x9D8
+I peek into the office next to the window.%K%P
+
+0x9E4
+No one's inside...%K%P
+
+0x9F0
+Makoto「Damn.」%K%P
+
+0x9FC
+I click my tongue, and run over to a nearby docked%Nfishing boat.%K%P
+
+0xA30
+There is a lone fisherman on the boat's deck, performing%Nmaintenance...%K%P
+
+0xA3C
+I call out in an eager voice.%K%P
+
+0xA48
+Makoto「Excuse me! Please let me borrow that boat!」%K%P
+
+0xA54
+Fisherman「Huh!? What're yah sayin'!?」%K%P
+
+0xA60
+Makoto「No, umm... I want to go out on the fishing boat just once!」%K%P
+
+0xA6C
+Fisherman「What, yah goin' fishing?」%K%P
+
+0xA78
+Makoto「No, that's not it... I... I want to return to the mainland!」%K%P
+
+0xA84
+Fisherman「Oh, yah got some business yah got tah do on the%Nmainland, huh?」%K%P
+
+0xA90
+Makoto「W-Well, something like that. That's why―」%K%P
+
+0xA9C
+Fisherman「Ah... but that's too bad.」%K%P
+
+0xAA8
+Makoto「... Huh?」%K%P
+
+0xAB4
+Fisherman「Long story short, there's gonna be some bad weather%Nrollin' in.」%K%P
+
+0xAC0
+Makoto「Bad weather...? Even though it's so clear?」%K%P
+
+0xACC
+Fisherman「Right. A bad trop's comin' in from the open sea.」%K%P
+
+0xAD8
+Makoto「'Trop'?」%K%P
+
+0xAE4
+Fisherman「I mean a tropical cyclone.」%K%P
+
+0xAF0
+Fisherman「After all, this is the season for one of those.」%K%P
+
+0xAFC
+Fisherman「Umm... what's it called... El, El, El...」%K%P
+
+0xB08
+Makoto「...?」%K%P
+
+0xB14
+Fisherman「Right! It's cuz of the El Nyo Nyo.」%K%P
+
+0xB20
+Makoto「El Nino...」%K%P
+
+0xB2C
+Fisherman「Oh! That's right... the Ero Ninyo, right?」%K%P
+
+0xB38
+Makoto「It's El Nino...」%K%P
+
+0xB44
+Fisherman「En Nyo Nyoro?」%K%P
+
+0xB50
+Makoto「...」%K%P
+
+0xB5C
+Fisherman「Well, whatever the name is, it doesn't really matter...」%K%P
+
+0xB68
+Fisherman「Anyway, it's because of it that we're gettin' bad weather%Nfrom the ocean.」%K%P
+
+0xB74
+Makoto「But...」%K%P
+
+0xB80
+Fisherman「Huh? That face... yah don't believe what I said, do yah?」%K%P
+
+0xB8C
+Makoto「It's not that I don't believe you... It's just...」%K%P
+
+0xB98
+Fisherman「Just what?」%K%P
+
+0xBA4
+Makoto「If it's just a little bit of bad weather, then it doesn't seem%Nlike it's impossible to go...」%K%P
+
+0xBB0
+Fisherman「D-Dumbass!!!」%K%P
+
+0xBBC
+The fisherman shouts with an absurdly loud voice.%K%P
+
+0xBC8
+Fisherman「Don't... don't underestimate the ocean!」%K%P
+
+0xBD4
+Fisherman「Yah know nothin' about the ocean, so don't get so%Nconceited...」%K%P
+
+0xBE0
+Makoto「...」%K%P
+
+0xBEC
+Fisherman「Well, when tomorrow comes, yah can see fer yerself.」%K%P
+
+0xBF8
+Makoto「Tomorrow...?」%K%P
+
+0xC04
+Fisherman「Right. Tomorrow, yah can see that there'll be some huge%Nwaves comin'.」%K%P
+
+0xC10
+Tomorrow ― April 2nd.%K%P
+
+0xC1C
+That was the day Saki was swallowed by that large wave.%K%P
+
+0xC28
+This fisherman is right.%K%P
+
+0xC34
+Fisherman「Come on, yah're gettin' in the way of mah work! If yah've%Ngot no business with me, then scram!」%K%P
+
+0xC40
+The fisherman seems to have been angered by my%Nthoughtless words.%K%P
+
+0xC4C
+It feels... like I should apologize to him.%K%P
+
+0xC58
+Makoto「S-Sorry...」%K%P
+
+0xC64
+I give the fisherman a deep bow, then turn away...%K%P
+

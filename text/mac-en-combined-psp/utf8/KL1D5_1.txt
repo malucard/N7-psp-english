@@ -1,0 +1,600 @@
+text area offset and size:
+0xF10
+0x2F4B
+0x134
+Suddenly... I wake up.%K%P
+
+0x140
+It's not that I had a nightmare, or heard a loud sound.%K%P
+
+0x14C
+I just somehow woke up for no reason...%K%P
+
+0x158
+I take a look at my watch, which I'd placed on my bedside.%K%P
+
+0x164
+"2:20 A.M."%K%P
+
+0x170
+It hasn't even been an hour since I went to sleep.%K%P
+
+0x17C
+But I don't feel sleepy at all.%K%P
+
+0x188
+My mind is surprisingly wide awake, so I try to do%Nmultiplication tables in my mind to help me go back to%Nsleep.%K%P
+
+0x194
+I try this countless times...%K%P
+
+0x1A0
+It's no use- I'm too alert.%K%P
+
+0x1AC
+I give up and get out of bed.%K%P
+
+0x1B8
+I'm sure that there's several leftover beer cans from%Ntoday in the fridge.%K%P
+
+0x1C4
+After drinking a can, my sleepiness will surely return.%K%P
+
+0x1D0
+With that thought, I quietly open the door to my room...%K%P
+
+0x24C
+Of course, there's no one in the living room.%K%P
+
+0x258
+I let out a sigh in the quiet, empty room.%K%P
+
+0x264
+I can hear Okuhiko snoring from up in the loft.%K%P
+
+0x270
+Then, all of the sudden...%K%P
+
+0x27C
+Okuhiko「Hey! Wait!」%K%P
+
+0x288
+... Okuhiko suddenly shouts in a roaring voice.%K%N
+
+0x294
+When I look up in surprise...%K%P
+
+0x310
+Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
+
+0x324
+Okuhiko「Neutrino Energy, Power On! ... Trans～form! ... There! ...%NZzz...」%K%P
+
+0x338
+Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
+
+0x34C
+Okuhiko「Good work... Zzz...」%K%P
+
+0x360
+Okuhiko「Hey! ... Kid! ... Get off of the stage! ... Hey, stop it! ... Don't...%Nlower... that zipper! ... Zzz...」%K%P
+
+0x374
+... It seems he's just sleeptalking.%K%P
+
+0x380
+(Whew... Man, what kind of dream is he having anyway...?)%K%P
+
+0x38C
+I sigh as I open the fridge.%K%P
+
+0x3B4
+... Gulp... Gulp... Gulp... Gulp...%K%P
+
+0x3C0
+Makoto「Whew... that's good stuff there...」%K%P
+
+0x3CC
+Huh? That old geezer-esque expression sounds like%Nsomething Yuka would say, not me...%K%P
+
+0x3D8
+Better watch myself...%K%P
+
+0x3E4
+... Gulp... Gulp... Gulp... Gulp... Gulp... Gulp... Gulp... Gulp.%K%P
+
+0x3F0
+Makoto「Man... that was good...」%K%P
+
+0x3FC
+I drink the beer up in one gulp.%K%P
+
+0x408
+I place the empty can on the round table with a clunk.%K%P
+
+0x414
+Suddenly, I feel intoxicated.%K%P
+
+0x420
+It's a really pleasant feeling.%K%P
+
+0x42C
+Although it's not like there's anything I really want to do, I%Ncasually decide to try going outside the lodge.%K%P
+
+0x4B4
+Suddenly, I look up at the sky.%K%P
+
+0x4C0
+Haah... I take a deep breath.%K%P
+
+0x4CC
+Up until now, I've never seen a starry sky as marvelous%Nas this one.%K%P
+
+0x4E0
+I'm bathed in a pool of serene starlight.%K%P
+
+0x4EC
+The twinkling stars shine brightly as they appear to%Ndance.%K%P
+
+0x4F8
+In the bewitching dark blue sky, I can even see the%Ncomplete flickering of nebulas.%K%P
+
+0x504
+Makoto「Ahh...」%K%P
+
+0x510
+I let out an awed sigh.%K%P
+
+0x51C
+The endlessly vast space... that's where the eternal flow%Nof time lies.%K%P
+
+0x528
+I realize the extreme tininess of my own existence.%K%P
+
+0x534
+I feel a bit embarrassed.%K%P
+
+0x540
+But at the same time, I can't help feeling a trembling%Nsense of ecstasy.%K%P
+
+0x54C
+The galaxy... the light of Milky Way's flow is more beautiful%Nthan anything in this world.%K%P
+
+0x558
+I begin to start unconsciously staggering towards the%Nlight, as if it's beckoning me.%K%P
+
+0x598
+I bet that if I keep on going down the hill and head%Nstraight towards the ocean, I might be able to touch it.%K%P
+
+0x5A4
+No matter how far I go, though, the light is always out of%Nmy reach.%K%P
+
+0x5B0
+I get annoyed and quicken my pace.%K%P
+
+0x5BC
+Sometimes, I try to reach out for the stars.%K%P
+
+0x5C8
+They don't respond.%K%P
+
+0x5D4
+Instead, they seem to run across the sky, away from me.%K%P
+
+0x62C
+When I come to my senses, I'm walking on Moon Beach.%K%P
+
+0x638
+I still can't catch the light.%K%P
+
+0x644
+Standing on top of the sand, I try to jump up with all my%Nmight, reaching out as far as I can.%K%P
+
+0x650
+Just a little further...%K%P
+
+0x65C
+I'll try jumping one more time.%K%P
+
+0x668
+I jump again... and again... and again...%K%P
+
+0x674
+Even I know that I'm drunk.%K%P
+
+0x680
+It's because I'm tipsy that I'm acting like such a dumbass.%K%P
+
+0x68C
+I'll try jumping one more time... and again... and again.%K%N
+
+0x6A8
+...???%K%P
+
+0x6B4
+As I attempt to catch the stars, I see someone out of%Nthe corner of my eyes.%K%P
+
+0x6C0
+On the roof of Lunabeach... someone is sitting down,%Nhugging their knees...%K%P
+
+0x6CC
+It's Kurumi...%K%P
+
+0x6D8
+Makoto「Heeeey, Kurumiiii! What're you doing outside in the middle%Nof the night?」%K%P
+
+0x700
+Kurumi「... the sea...」%K%P
+
+0x70C
+Makoto「Huh!? I can't hear you!」%K%P
+
+0x718
+Kurumi「Kurumi's looking at the sea...」%K%P
+
+0x724
+Makoto「I see, I see...」%K%P
+
+0x730
+Makoto「Can I come over there too?」%K%P
+
+0x73C
+Kurumi nods from the top of the roof.%K%P
+
+0x748
+Makoto「Then wait! I'll be there soon!」%K%P
+
+0x780
+Fortunately, the door to Lunabeach is unlocked.%K%P
+
+0x78C
+... No, "carelessly" seems to be a more apt term.%K%P
+
+0x798
+I muse over this as I walk upstairs to the second floor.%K%P
+
+0x7A4
+In that small room, I can hear Izumi-san breathing in her%Nsleep.%K%P
+
+0x7B0
+I stealthily open the window on the ceiling and climb up%Nso that I don't wake her.%K%P
+
+0x7BC
+...%K%P
+
+0x7C8
+The top of the roof feels much higher than I thought it%Nwas when I saw it from below.%K%P
+
+0x7D4
+As I grip onto the roof with both of my hands, I move to%Nthe timid Kurumi, and sit down beside her.%K%P
+
+0x7E8
+Even though the stars are so pretty, Kurumi isn't looking%Nat them, but rather, the vast ocean.%K%P
+
+0x7F4
+There's a trace of loneliness in her gaze...%K%P
+
+0x800
+Yes... her eyes look the same as they did when I saw her%Nthat one time at Viewpoint Park...%K%P
+
+0x80C
+Makoto「Kurumi... you said you were looking at the ocean, didn't%Nyou?」%K%P
+
+0x818
+Kurumi「... Yes.」%K%P
+
+0x824
+Makoto「But the ocean's pitch black, so you can't see anything,%Nright?」%K%P
+
+0x830
+Kurumi「... You can.」%K%P
+
+0x83C
+Makoto「Then what can you see?」%K%P
+
+0x848
+Kurumi「...」%K%P
+
+0x854
+Makoto「...」%K%P
+
+0x870
+Just then, all of the sudden...%K%P
+
+0x8A8
+Kurumi「Do you know why the ocean's water is so salty?」%K%P
+
+0x8B4
+... Kurumi asks me this question.%K
+
+0xEE8
+Yeah.
+
+0xEF4
+No.
+
+0x8F4
+Makoto「Yeah, I know.」%K%P
+
+0x900
+Makoto「The rock salt on mountains were dissolved by rain water,%Nand were carried to the seas by rivers that flowed to%Nthem. It then accumulated over billions of years, so as a-」%K%P
+
+0x914
+Makoto「No... I don't know.」%K%P
+
+0x920
+Kurumi「The ocean's water...」%K%P
+
+0x92C
+Kurumi「The ocean's water is the moon's tears. That's why it's so%Nsalty...」%K%P
+
+0x938
+Kurumi「Because the moon was all alone, it was lonely, and would%Ncry during the night. 'Sob, sob... sob, sob'...」%K%P
+
+0x944
+Makoto「...」%K%P
+
+0x950
+Kurumi「Even so, the moon was still lonely, and so its tears gave%Nbirth to children. A lot of children...」%K%P
+
+0x95C
+Kurumi「The child of the moon and the sea, the jellyfish...」%K%P
+
+0x968
+Makoto「...」%K%P
+
+0x974
+Kurumi「Kurumi was looking at the jellyfish.」%K%P
+
+0x980
+Makoto「Jellyfish...?」%K%P
+
+0x98C
+I try looking out at the vast, pitch black sea, but I can't%Nsee anything.%K%P
+
+0x998
+Kurumi「Kurumi wants to be like a jellyfish...」%K%P
+
+0x9A4
+Kurumi「Just gently floating in the sea from day to night... if she%Nlived like that, she'd be happy...」%K%P
+
+0x9B0
+She appears to be deep in thought as she broods over%Nthis...%K%P
+
+0x9BC
+Does Kurumi have some kind of worries?%K%P
+
+0x9C8
+Secrets she can't tell anyone...%K%P
+
+0x9D4
+Secrets...?%K%P
+
+0x9E0
+In that instant, a flash runs through my mind.%K%P
+
+0x9EC
+Probably because I was drunk... I completely forgot%NKurumi's secret...%K%P
+
+0x9F8
+Izumi「... Kurumi... might not be my real sister...」%K%P
+
+0xA04
+Judging from the way Izumi-san said that... and from how%Nfrantic she got when Kurumi appeared, I don't think that%NKurumi knows this.%K%P
+
+0xA10
+Then what is Kurumi thinking about now...?%K%P
+
+0xA1C
+Kurumi「Did you know? Kurumi loves floating in the water... Like a%Njellyfish...」%K%P
+
+0xA28
+Kurumi「When she does that, it feels kinda nostalgic...」%K%P
+
+0xA34
+Makoto「...」%K%P
+
+0xA40
+Kurumi「The truth is... Kurumi... really wanted to go with everyone...」%K%P
+
+0xA4C
+Kurumi「To the pool... and the hot springs...」%K%P
+
+0xA58
+Makoto「Well, if you wanted to, then why didn't you? It's okay, isn't%Nit...?」%K%P
+
+0xA64
+Kurumi「...」%K%P
+
+0xA70
+Kurumi casts her eyes downwards.%K%P
+
+0xA7C
+She gently brushes the smooth, polished blue roof with%Nher palm...%K%P
+
+0xA88
+Kurumi「She was scared...」%K%P
+
+0xA94
+She mutters this in a lonely voice.%K%P
+
+0xAA0
+Kurumi「She was scared everyone would hate her...」%K%P
+
+0xAAC
+Hate???%K%P
+
+0xAB8
+Kurumi「There's a scar... on Kurumi's back.」%K%P
+
+0xAC4
+Kurumi「It's a deep scar... that looks as if it were cut and gouged%Nout by a saw...」%K%P
+
+0xAD0
+Kurumi「The doctors said she got it when Kurumi was a baby... in%Naddition to that, they say it probably happened shortly%Nafter she was born.」%K%P
+
+0xADC
+Kurumi「But you know what? Papa, Mama, and Onee-chan are%Nlying to Kurumi.」%K%P
+
+0xAE8
+Kurumi「They told Kurumi that she got that scar when she fell%Ndown the stairs when she was three.」%K%P
+
+0xAF4
+Kurumi「Even though no matter how you look at it, there's no way%NKurumi could have gotten that scar... from falling down%Nthe stairs...」%K%P
+
+0xB00
+I don't say anything. I don't know what I should say.%K%P
+
+0xB0C
+After hearing Kurumi's unexpected confession, all I can%Ndo is silently listen to her story.%K%P
+
+0xB18
+Kurumi「And you know what else? This scar... has given Kurumi%Nquite a few painful memories...」%K%P
+
+0xB24
+Kurumi「In middle school... there was this boy Kurumi was into...」%K%P
+
+0xB30
+Kurumi「He was a senpai older than Kurumi, but... whether it was%Nstudying or playing, he taught Kurumi several things...」%K%P
+
+0xB3C
+Kurumi「Every day, when school ended, we would stop by this%Nnearby park, and chat about trivial things...」%K%P
+
+0xB48
+Kurumi「Even though it was just trivial chat, to Kurumi, those were%Nprecious times. Very... precious...」%K%P
+
+0xB54
+Kurumi「Kurumi... loved... that senpai...」%K%P
+
+0xB60
+Kurumi「But you know what? One day, that senpai... stopped%Ntalking to Kurumi... He wouldn't say a single word to her...」%K%P
+
+0xB6C
+Kurumi「He wouldn't even exchange glances with her when we%Npassed in the hallways...」%K%P
+
+0xB78
+Kurumi「After school... Kurumi was all alone at the park, swinging%Non the swing...」%K%P
+
+0xB84
+Kurumi「She stayed there until night... alone all that whole time...%Nswinging away... swinging away...」%K%P
+
+0xB90
+Kurumi「Kurumi heard the reason why that senpai stopped talk%Nto her from her friends later...」%K%P
+
+0xB9C
+... ...%K%P
+
+0xBA8
+Senpai「That girl's got this giant scar on her back!」%K%P
+
+0xBB4
+Senpai「I dunno know how she got it, but... At any rate, I'm%Ncompletely through with her.」%K%P
+
+0xBC0
+Senpai「There's no way in hell I can go with her to the beach with%Nthat disgusting scar! It'd be way too embarrassing...」%K%P
+
+0xBCC
+Senpai「Yes, that's right. That's why I'm ignoring her!」%K%P
+
+0xBD8
+Senpai「She's nothing more than a nuisance to me at this point!」%K%P
+
+0xBE4
+... ...%K%P
+
+0xBF0
+Kurumi「To be honest... it was a great shock...」%K%P
+
+0xBFC
+Kurumi「It left a scar on Kurumi much deeper than the one on her%Nback...」%K%P
+
+0xC08
+Kurumi「Ever since then, Kurumi's been afraid to show her back in%Nfront of other people...」%K%P
+
+0xC14
+Kurumi「Yes... That's the reason... why Kurumi didn't go to the pool%Nand hot springs with everyone else...」%K%P
+
+0xC20
+I'm incredibly angry. So angry that my body is shaking%Nfrom it.%K%P
+
+0xC2C
+I want to drag that senpai here and beat the living shit%Nout of him.%K%P
+
+0xC38
+I want to kick him until his bones break, and throw him to%Nthe bottom of the sea...%K%P
+
+0xC44
+Without realizing it, I clench my hands into tight fists.%K%P
+
+0xC58
+Kurumi「Up until now... Kurumi's never told anyone about this...」%K%P
+
+0xC64
+Kurumi「And Kurumi thinks she probably won't tell it to anyone%Nafter this...」%K%P
+
+0xC70
+Kurumi「You're the only one who knows this, Onii-chan...」%K%P
+
+0xC7C
+Kurumi「Kurumi only told you because you're Onii-chan.」%K%P
+
+0xC88
+Kurumi「... So don't... tell anyone else...」%K%P
+
+0xCF0
+... After that, I am unable to say almost anything to Kurumi.%K%P
+
+0xCFC
+I feel that even if I try to comfort her about the scar,%Nanything I say will sound half-hearted to her.%K%P
+
+0xD08
+In the end, only Kurumi knows her own pain...%K%P
+
+0xD14
+...%K%P
+
+0xD20
+It's clear that Kurumi's emotional scars still haven't%Nhealed yet.%K%P
+
+0xD2C
+But what can I do about it?%K%P
+
+0xD38
+Speaking words of kindness to her... anyone could do%Nthat.%K%P
+
+0xD44
+I'm sure if many people heard this story, a lot of them%Nwould try to gently comfort Kurumi.%K%P
+
+0xD50
+Even so, that wouldn't eliminate Kurumi's scar.%K%P
+
+0xD5C
+It's not something that easy to cure...%K%P
+
+0xD68
+Then what should I do?%K%P
+
+0xD74
+My mind is in extreme chaos.%K%P
+
+0xD80
+I'm thinking about way too much right now...%K%P
+
+0xD8C
+Izumi-san's story is still lurking in my heart as well.%K%P
+
+0xD98
+―The shrine. ―The kidnapping. ―The possibility%Nthat they may not be real sisters.%K%P
+
+0xDA4
+―And the scar on her back...%K%P
+
+0xDB0
+Tomorrow, I'll ask Izumi-san to continue her story.%K%P
+
+0xDBC
+That story might have some connection to the scar on%Nher back.%K%P
+
+0xDC8
+The unbearably long night goes on...%K%P
+

@@ -1,0 +1,552 @@
+text area offset and size:
+0x1000
+0x26D2
+0x80
+... Before long, I arrive at Princess Beach.%K%P
+
+0xC8
+The wrecked ship washed up on the shore...%K%N
+
+0xD4
+Haruka is sitting on the bow of the ship, firmly staring at%Nthe ocean. Her soft hair sways in the sea breeze.%K%P
+
+0xE0
+I'm unable to move, as if my soul had been drained from%Nmy body.%K%N
+
+0xEC
+"You mustn't get any closer."%K%N
+
+0xF8
+... It feels like someone's saying that to me.%K%P
+
+0x11C
+Haruka suddenly looks my way. Our eyes meet.%K%P
+
+0x128
+Haruka「... Why?」%K%P
+
+0x134
+Haruka mutters this.%K%P
+
+0x140
+Haruka「Why are you here?」%K%P
+
+0x14C
+Makoto「I... followed you here.」%K%P
+
+0x158
+Haruka「Why?」%K%P
+
+0x164
+Makoto「... Because I was worried about you.」%K%P
+
+0x170
+Haruka「You don't really need to worry about me...」%K%P
+
+0x17C
+Makoto「...」%K%P
+
+0x188
+Haruka「Because I'm different...」%K%P
+
+0x194
+Makoto「Haruka...」%K%P
+
+0x1A0
+Haruka「Because I'm different, it's fine...」%K%P
+
+0x1AC
+Makoto「Haruka...%K don't say that...%K If you stay like this, then in five%Ndays...」%K%P
+
+0x1B8
+At that time...%K%P
+
+0x1C4
+Yuka「Makoto! Haruka! Where are you...!?」%K%P
+
+0x1D0
+Okuhiko「Haruka-chan...!」%K%P
+
+0x1DC
+... I hear Yuka and Okuhiko's voices in the distance.%K%P
+
+0x1E8
+I turn around to find small human figures walking down the%Ncoastline road.%K%P
+
+0x1F4
+Haruka also seems to have noticed them.%K%N
+
+0x200
+She quickly hides in the shade of the ship...%K%P
+
+0x214
+I follow her lead and hide behind the boat.%K%P
+
+0x24C
+... ... ...%K%P
+
+0x258
+Several minutes later... Yuka and Okuhiko's voices%Ndisappear.%K%P
+
+0x26C
+Haruka「It seems they've gone.」%K%P
+
+0x278
+Haruka places her hand on my shoulder.%K%P
+
+0x28C
+When I nod, she steps out from her hiding place, and%Nstarts walking towards the beach.%K%P
+
+0x2C4
+As she walks on the sand, she takes off her shoes and%Nsocks.%K%P
+
+0x2D0
+Makoto「Haruka!」%K%P
+
+0x2E4
+Haruka「What?」%K%P
+
+0x2F0
+Makoto「...」%K%P
+
+0x2FC
+Haruka「Did you think I was going to strip naked?」%K%P
+
+0x308
+Makoto「N-No...」%K%P
+
+0x340
+Haruka nonchalantly soaks her bare feet into the%Nocean. Her eyes are fixed on the faraway horizon.%K%P
+
+0x34C
+Makoto「... I just wanted to ask why you ran away from Yuka and%NOkuhiko.」%K%P
+
+0x358
+Haruka「I prefer being alone...」%K%P
+
+0x364
+Makoto「Alone...? But that just... sounds too lonely, doesn't it...?」%K%P
+
+0x370
+Haruka「Lonely? What is?」%K%P
+
+0x37C
+Makoto「Thinking something like 'I prefer being alone'...」%K%P
+
+0x388
+Haruka「I don't understand...」%K%P
+
+0x394
+Haruka「Because I... am nothing.」%K%P
+
+0x3A0
+Makoto「Because you have no heart...?」%K%P
+
+0x3AC
+I say this.%K%N
+
+0x3B8
+Taken aback, Haruka turns to face me.%K%N
+
+0x3C4
+A distinctly disturbed expression rises to her face.%K%P
+
+0x3D0
+Haruka「That's right... I have no...」%K%P
+
+0x3DC
+Haruka hesitates midspeech.%K%P
+
+0x3E8
+Haruka「How?」%K%P
+
+0x3F4
+Makoto「... Huh?」%K%P
+
+0x400
+Haruka「How did you...?」%K%P
+
+0x40C
+Makoto「I knew. I know a lot about you...」%K%P
+
+0x418
+Haruka「...」%K%P
+
+0x434
+Haruka firmly stares at me.%K%P
+
+0x474
+I spontaneously embrace Haruka. I wrap my arms tightly%Naround her, holding her close...%K%P
+
+0x480
+Haruka「... That hurts.」%K%P
+
+0x48C
+I frantically loosen my embrace at those words.%K%P
+
+0x4A0
+Makoto「S-Sorry... I was just so...」%K%P
+
+0x4AC
+Haruka「'So'... What's the rest?」%K%P
+
+0x4B8
+Makoto「... happy. So happy... that I got to see you again.」%K%P
+
+0x4C4
+Haruka「What do you mean?」%K%P
+
+0x4D0
+Makoto「No... I doubt you'd believe me even if I told you...」%K%P
+
+0x4DC
+Makoto「The reason doesn't matter. Anyway, it's because I'm%Nhappy...」%K%P
+
+0x4E8
+Haruka「...」%K%P
+
+0x510
+Haruka's stare almost feels like it hurts.%K%N
+
+0x51C
+Her eyes are filled with curiosity.%K%N
+
+0x528
+Complex feelings of bafflement mixed with expectation%Nappear in those eyes.%K%P
+
+0x534
+And then, Haruka suddenly speaks.%K%P
+
+0x540
+Haruka「Have you ever kissed someone?」%K%P
+
+0x54C
+Makoto「Huh?」%K%P
+
+0x558
+Haruka「Have you?」%K%P
+
+0x564
+(What's going on!? This is definitely... definitely...)%K%P
+
+0x570
+I become flustered from Haruka's unexpected question.%K%P
+
+0x57C
+The answer that comes out of my mouth is...%K
+
+0xFD8
+"Of course."
+
+0xFE4
+"O-Once..."
+
+0x5C4
+Makoto「Of course.」%K%P
+
+0x5D8
+Makoto「O-Once...」%K%P
+
+0x5E4
+... That's my answer.%K%N
+
+0x5F0
+I certainly did kiss her on the forehead back then.%K%N
+
+0x5FC
+On that afternoon... on the day Haruka and I went fishing%Ntogether...%K%P
+
+0x608
+Makoto「But you know, you shouldn't really ask something like%Nthat.」%K%P
+
+0x614
+Haruka「Is... that right?」%K%P
+
+0x620
+Makoto「Yeah...」%K%P
+
+0x62C
+Haruka「Then why do people kiss?」%K%P
+
+0x638
+Makoto「It's to demonstrate their love and confirm their feelings%Nfor each other.」%K%P
+
+0x644
+Haruka「Confirm...?」%K%P
+
+0x650
+Makoto「That's right...」%K%P
+
+0x65C
+Haruka「Then... let's kiss.」%K%P
+
+0x668
+Makoto「...」%K%P
+
+0x674
+Haruka「Let's kiss.」%K%P
+
+0x690
+Haruka draws her face close to mine. Her expression%Nbegins to overwhelm my senses.%K%P
+
+0x69C
+For some reason, the event that was supposed to%Nhappen in two days is starting now...%K%P
+
+0x6A8
+Makoto「B-But... I can't kiss you for a reason like that.」%K%P
+
+0x6B4
+I repeat the same words as last time.%K%P
+
+0x6C0
+Haruka「Then does that mean you don't feel any affection for me,%NMakoto...?」%K%P
+
+0x6CC
+Makoto「No! That's not it!」%K%P
+
+0x6D8
+I vigorously declare this.%K%N
+
+0x6E4
+The feelings of affection I have towards Haruka now are%Nso much greater than they were at our last kiss that%Nthere's no way to compare the difference between them.%K%P
+
+0x6F0
+Haruka「... Well then...」%K%P
+
+0x70C
+Makoto「All right, I understand. Well then, close your eyes.」%K%P
+
+0x720
+Haruka quietly shuts her eyes.%K%P
+
+0x72C
+I stare at her face.%K Haruka's cheeks quiver like jelly from%Nnervousness.%K Her beckoning small lips glisten.%K%P
+
+0x738
+I gently kiss Haruka on the forehead.%K It was just a peck%Nand lasted for only an moment.%K%P
+
+0x744
+For some reason, I feel embarrassed, and quickly draw%Nback.%K%P
+
+0x758
+Haruka's eyes snap open as she stares at me.%K%P
+
+0x788
+Haruka「This is...?」%K%P
+
+0x794
+When I return Haruka's gaze, a faint blush appears on%Nher cheeks.%K%P
+
+0x7A0
+I am completely captivated by her eyes.%K%P
+
+0x7C8
+The cold waves loudly splash against our feet.%K%P
+
+0x7D4
+Haruka's cheeks are bathed in sunlight.%K%N
+
+0x7E0
+The sea breeze begins to gently blow in the space%Nbetween us...%K%P
+
+0x7EC
+―I wonder how long I've been watching Haruka like%Nthis.%K%P
+
+0x7F8
+(For Haruka's sake alone, I will live through these next%Nsix days.)%K%P
+
+0x804
+I think this over and over again.%K%P
+
+0x810
+I will never let Haruka say she has "no heart" ever again.%K%N
+
+0x81C
+Because Haruka is her own person...%K%P
+
+0x8B0
+... Afterwards, I once again decide to let everything%Nhappen exactly the way it did before.%K%N%N
+
+0x8BC
+Our meeting with Kurumi, Izumi-san, and Saki...%K%N
+
+0x8C8
+Buying the rice...%K%N
+
+0x8D4
+Our dinner of paella...%K%N
+
+0x8E0
+Going to the pool late at night...%K%N
+
+0x8EC
+And the earthquake...%K%P
+
+0x8F8
+Every single thing is a repeat of the events I%Nexperienced in the past.%K%P
+
+0x90C
+It's like watching a scene from a recording replay in front%Nof me... it's rather surreal.%K%N%N
+
+0x918
+It's not just the events... I think I'm unconsciously%Nrepeating my own actions too.%K%P
+
+0x99C
+Right now, I'm on the open terrace in Lunabeach.%K%N
+
+0x9A8
+We're all excited after the pool incident, discussing%Nwhether or not to go to the pool tomorrow.%K%P
+
+0x9B4
+Since I already know what the final verdict is going to be,%NI stare off into space as I tune out of the conversation.%K%P
+
+0x9C0
+Just... what am I?%K%N
+
+0x9CC
+Even though I have memories of the future, everything%Nelse is exactly the way it was from the past, including my%Nbody and surroundings.%K%P
+
+0x9D8
+I think as hard as I can, but I can't figure out how it's%Npossible. Maybe I've just gone nuts...%K%P
+
+0x9FC
+Yuka「Diving?」%K%P
+
+0xA08
+I hear Yuka's conspicuously high voice.%K%N
+
+0xA14
+I stop thinking and focus on the conversation.%K%P
+
+0xA28
+Okuhiko「Yeah. There seems to be a place in the shopping district%Nwhere you can rent scuba gear...」%K%P
+
+0xA44
+Izumi「You can't, Okuhiko-kun.」%K%P
+
+0xA58
+Okuhiko「Huh, why not? I've already got my license, if that's what%Nyou're worried about.」%K%P
+
+0xA64
+Izumi「That's not it. It's because there'll be high waves%Ntomorrow.」%K%P
+
+0xA78
+Okuhiko「Waves?」%K%P
+
+0xA8C
+Izumi「Right. There's an unseasonable tropical cyclone coming%Nin from the south, so it seems the waves will be high%Ntomorrow.」%K%P
+
+0xA98
+Izumi「I heard about it from Gen-san, the fisherman, so there's%Nno doubt about it.」%K%P
+
+0xAA4
+Izumi「He complained that he wouldn't be able to go out to sea%Nand fish because of the storm.」%K%P
+
+0xAB0
+Izumi「Also, because this cyclone's migration velocity is slow,%Nit'll be like this for about a week.」%K%P
+
+0xAD8
+Makoto「!!!」%K%P
+
+0xAE4
+... This is horrible.%K%N
+
+0xAF0
+I can't believe I forgot about something so important.%K%P
+
+0xAFC
+Taking Haruka and escaping the island...%K%N
+
+0xB08
+That was supposed to be my last resort.%K%P
+
+0xB14
+Makoto「Izumi-san... if that's true, then does that mean the ferry%Nwon't go...?」%K%P
+
+0xB28
+Izumi「That's only natural. Until the sea calms down, service will%Nbe suspended.」%K%P
+
+0xB34
+Makoto「...」%K%P
+
+0xB50
+Yuka「What's wrong, Makoto?」%K%P
+
+0xB64
+Yuka「Geez, it's all right♪ If it's only for about a week, then it%Nshould be up and running again by the time the Camp%Nends, right?」%K%P
+
+0xB70
+Makoto「Y-Yeah... you're right...」%K%P
+
+0xB8C
+Haruka「...」%K%P
+
+0xBA0
+Okuhiko「What's wrong, Haruka-chan?」%K%P
+
+0xBAC
+Haruka「He's acting strange...」%K%P
+
+0xBC0
+Okuhiko「Huh? ... You mean Ishihara? Don't worry about him. He's%Nalways strange...」%K%P
+
+0xBD4
+Haruka「...」%K%P
+
+0xBE0
+Haruka looks at me with concern. I return it with a%Nreassuring smile.%K%P
+
+0xBFC
+(Yes, I'm all right... Even if I can't leave the island, I'll get%Nthrough this somehow! Because this time, I have my%Nmemories!)%K%P
+
+0xC08
+(So don't worry, Haruka... You have nothing to worry%Nabout...)%K%P
+
+0xC7C
+Before long, the time has come for us to return to the%Nlodge.%K%N
+
+0xC88
+We walk down Moon Beach.%K Like last time, we've decided%Nto return by walking down the beach.%K%P
+
+0xCBC
+... Suddenly, I stop walking.%K%N
+
+0xCC8
+I've just remembered something.%K%P
+
+0xCD4
+(That's right... it was definitely around here that I found%Nthat "bell"...)%K%P
+
+0xCFC
+I check my surroundings.%K%N
+
+0xD08
+At the beach, there's a group of lights coming from sea%Nfireflies.%K%P
+
+0xD14
+But unlike that time, I can't find it... That radiance lying in%Nthe beach...%K%PThat cold, stinging light.%K%P
+
+0xD20
+(Is it not here? No, that's impossible.)%K%P
+
+0xD2C
+(Then can history change...?)%K%P
+
+0xD38
+... The changes are slight, but I feel as if this history is a%Nlittle different than the last one.%K%N
+
+0xD44
+For example, Haruka and I kissed two days earlier than%Nexpected...%K%P
+
+0xD50
+But thanks to that, I'm able to feel a sense of security.%K%P
+
+0xD5C
+That small change will mutate into a large alteration of%Nhistory...%K%P
+
+0xD68
+(Because I never found the bell, I never threw it away.%NThat means that Haruka also shouldn't be able to get it!)%K%P
+
+0xD74
+I no longer feel hesitant...%K%P
+

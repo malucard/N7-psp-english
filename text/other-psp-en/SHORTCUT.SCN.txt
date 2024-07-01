@@ -1,180 +1,360 @@
-#;10;22;ココロ編１日目最初から
-;10;22;Kokoro: Day 1 (Beginning)
+;10;24;１日⑳１ｓｔ（初めから）
+April 1 (1st) Beginning
 
-#;44;22;ココロ編１日目途中から
-;44;22;Kokoro: Day 1 (Middle)
+;44;22;１日⑳１ｓｔ（昼から）
+April 1 (1st) Afternoon
 
-#;78;22;ココロ編２日目最初から
-;78;22;Kokoro: Day 2 (Beginning)
+;78;24;１日⑳１ｓｔ（夕方から）
+April 1 (1st) Evening
 
-#;AC;22;ココロ編２日目途中から
-;AC;22;Kokoro: Day 2 (Middle)
+;AC;22;１日⑳１ｓｔ（夜から）
+April 1 (1st) Night
 
-#;E0;22;ココロ編３日目最初から
-;E0;22;Kokoro: Day 3 (Beginning)
+;E0;28;４月２日⑳１ｓｔ（初めから）
+April 2 (1st) Beginning
 
-#;114;22;ココロ編３日目途中から
-;114;22;Kokoro: Day 3 (Middle)
+;114;26;４月２日⑳１ｓｔ（夜から）
+April 2 (1st) Night
 
-#;148;22;ココロ編４日目最初から
-;148;22;Kokoro: Day 4 (Beginning)
+;148;28;４月３日⑳１ｓｔ（初めから）
+April 3 (1st) Beginning
 
-#;17C;22;ココロ編４日目途中から
-;17C;22;Kokoro: Day 4 (Middle)
+;17C;28;４月３日⑳１ｓｔ（夕方から）
+April 3 (1st) Evening
 
-#;1B0;22;ココロ編５日目最初から
-;1B0;22;Kokoro: Day 5 (Beginning)
+;1B0;26;４月３日⑳１ｓｔ（夜から）
+April 3 (1st) Night
 
-#;1E4;22;ココロ編５日目途中から
-;1E4;22;Kokoro: Day 5 (Middle)
+;1E4;28;４月４日⑳１ｓｔ（初めから）
+April 4 (1st) Beginning
 
-#;218;22;ココロ編６日目最初から
-;218;22;Kokoro: Day 6 (Beginning)
+;218;28;４月４日⑳１ｓｔ（夕方から）
+April 4 (1st) Evening
 
-#;24C;22;ココロ編６日目途中から
-;24C;22;Kokoro: Day 6 (Middle)
+;24C;26;４月４日⑳１ｓｔ（夜から）
+April 4 (1st) Night
 
-#;280;22;ココロ編７日目最初から
-;280;22;Kokoro: Day 7 (Beginning)
+;280;22;４月５日⑳／１ｓｔ
+April 5 (1st)
 
-#;2B4;22;ココロ編７日目途中から
-;2B4;22;Kokoro: Day 7 (Middle)
+;2B4;22;４月６日⑳優夏／１ｓｔ
+April 6 (1st)
 
-#;2E8;18;ココロ編エピローグ
-;2E8;18;Kokoro: Epilogue
+;2E8;30;４月１日⑳優夏／２ｎｄ（前編）
+Yuka - April 1 (2nd) (1)
 
-#;31C;22;サトル編１日目最初から
-;31C;22;Satoru: Day 1 (Beginning)
+;31C;30;４月１日⑳優夏／２ｎｄ（後編）
+Yuka - April 1 (2nd) (2)
 
-#;350;22;サトル編１日目途中から
-;350;22;Satoru: Day 1 (Middle)
+;350;22;４月２日⑳優夏／２ｎｄ
+Yuka - April 2 (2nd)
 
-#;384;22;サトル編２日目最初から
-;384;22;Satoru: Day 2 (Beginning)
+;384;22;４月３日⑳優夏／２ｎｄ
+Yuka - April 3 (2nd)
 
-#;3B8;22;サトル編２日目途中から
-;3B8;22;Satoru: Day 2 (Middle)
+;3B8;22;４月４日⑳優夏／２ｎｄ
+Yuka - April 4 (2nd)
 
-#;3EC;22;サトル編３日目最初から
-;3EC;22;Satoru: Day 3 (Beginning)
+;3EC;22;４月５日⑳優夏／２ｎｄ
+Yuka - April 5 (2nd)
 
-#;420;22;サトル編３日目途中から
-;420;22;Satoru: Day 3 (Middle)
+;420;22;４月６日⑳優夏／２ｎｄ
+Yuka - April 6 (2nd)
 
-#;454;22;サトル編４日目最初から
-;454;22;Satoru: Day 4 (Beginning)
+;454;18;エンディング⑳優夏
+Yuka Ending
 
-#;488;22;サトル編４日目途中から
-;488;22;Satoru: Day 4 (Middle)
+;488;20;４月５日⑳遙／１ｓｔ
+Haruka - April 5 (1st)
 
-#;4BC;22;サトル編５日目最初から
-;4BC;22;Satoru: Day 5 (Beginning)
+;4BC;20;４月６日⑳遙／１ｓｔ
+Haruka - April 6 (1st)
 
-#;4F0;22;サトル編５日目途中から
-;4F0;22;Satoru: Day 5 (Middle)
+;4F0;20;４月１日⑳遙／２ｎｄ
+Haruka - April 1 (2nd)
 
-#;524;22;サトル編６日目最初から
-;524;22;Satoru: Day 6 (Beginning)
+;524;20;４月２日⑳遙／２ｎｄ
+Haruka - April 2 (2nd)
 
-#;558;22;サトル編６日目途中から
-;558;22;Satoru: Day 6 (Middle)
+;558;20;４月３日⑳遙／２ｎｄ
+Haruka - April 3 (2nd)
 
-#;58C;22;サトル編７日目最初から
-;58C;22;Satoru: Day 7 (Beginning)
+;58C;20;４月４日⑳遙／２ｎｄ
+Haruka - April 4 (2nd)
 
-#;5C0;22;サトル編７日目途中から
-;5C0;22;Satoru: Day 7 (Middle)
+;5C0;20;４月５日⑳遙／２ｎｄ
+Haruka - April 5 (2nd)
 
-#;5F4;18;サトル編エピローグ
-;5F4;18;Satoru: Epilogue
+;5F4;20;４月６日⑳遙／２ｎｄ
+Haruka - April 6 (2nd)
 
-#;14;46;ココロ編１日目%N“母性の懐で”%Nから開始します
-;14;46;Start from%NKokoro: Day 1,%N"In the Bosom of Motherhood"
+;628;16;エンディング⑳遙
+Haruka Ending
 
-#;48;46;ココロ編１日目%N“自我の解放”%Nから開始します
-;48;46;Start from%NKokoro: Day 1,%N"Liberation of Self"
+;65C;30;４月５日⑳沙紀／１ｓｔ（前編）
+Saki - April 5 (1st) (1)
 
-#;7C;60;ココロ編２日目%N“男性と女性の基本的な違い”%Nから開始します
-;7C;60;Start from%NKokoro: Day 2,%N"Discrepancies Between Genders"
+;690;30;４月５日⑳沙紀／１ｓｔ（後編）
+Saki - April 5 (1st) (2)
 
-#;B0;56;ココロ編２日目%N“異状事態警報発令！？”%Nから開始します
-;B0;56;Start from%NKokoro: Day 2,%N"Alarm!"
+;6C4;22;４月６日⑳沙紀／１ｓｔ
+Saki - April 6 (1st)
 
-#;E4;54;ココロ編３日目%N“変わろうとする欲求”%Nから開始します
-;E4;54;Start from%NKokoro: Day 3,%N"The Desire to Change"
+;6F8;22;４月１日⑳沙紀／２ｎｄ
+Saki - April 1 (2nd)
 
-#;118;60;ココロ編３日目%N“『運命』って信じますか？”%Nから開始します
-;118;60;Start from%NKokoro: Day 3,%N"Do You Believe in 'Fate'?"
+;72C;22;４月２日⑳沙紀／２ｎｄ
+Saki - April 2 (2nd)
 
-#;14C;52;ココロ編４日目%N“磔られた心的外傷”%Nから開始します
-;14C;52;Start from%NKokoro: Day 4,%N"Emotional Trauma, Crucified"
+;760;22;４月３日⑳沙紀／２ｎｄ
+Saki - April 3 (2nd)
 
-#;180;44;ココロ編４日目%N“白い世界”%Nから開始します
-;180;44;Start from%NKokoro: Day 4,%N"White World"
+;794;22;４月４日⑳沙紀／２ｎｄ
+Saki - April 4 (2nd)
 
-#;1B4;46;ココロ編５日目%N“一握の安息”%Nから開始します
-;1B4;46;Start from%NKokoro: Day 5,%N"A Small Respite"
+;7C8;22;４月５日⑳沙紀／２ｎｄ
+Saki - April 5 (2nd)
 
-#;1E8;62;ココロ編５日目%N“怯える存在、怯えられる存在”%Nから開始します
-;1E8;62;Start from%NKokoro: Day 5,%N"Frightens and Is Frightened"
+;7FC;22;４月６日⑳沙紀／２ｎｄ
+Saki - April 6 (2nd)
 
-#;21C;50;ココロ編６日目%N“せめてもの幸福”%Nから開始します
-;21C;50;Start from%NKokoro: Day 6,%N"A Little Bit of Happiness"
+;830;18;エンディング⑳沙紀
+Saki Ending
 
-#;250;50;ココロ編６日目%N“吐露される本音”%Nから開始します
-;250;50;Start from%NKokoro: Day 6,%N"Revealed Feelings"
+;864;24;４月５日⑳くるみ／１ｓｔ
+Kurumi - April 5 (1st)
 
-#;284;48;ココロ編７日目%N“終局への抗い”%Nから開始します
-;284;48;Start from%NKokoro: Day 7,%N"Struggle Against the End"
+;898;24;４月６日⑳くるみ／１ｓｔ
+Kurumi - April 6 (1st)
 
-#;2B8;54;ココロ編７日目%N“生きられなかった影”%Nから開始します
-;2B8;54;Start from%NKokoro: Day 7,%N"The Shadow That Couldn't Live"
+;8CC;24;４月１日⑳くるみ／２ｎｄ
+Kurumi - April 1 (2nd)
 
-#;2EC;54;ココロ編エピローグ%N“籠の中の．．．”%Nから開始します
-;2EC;54;Start from%NKokoro: Epilogue,%N"Within the Cage..."
+;900;24;４月２日⑳くるみ／２ｎｄ
+Kurumi - April 2 (2nd)
 
-#;320;52;サトル編１日目%N“Ｐｒｅｎａｔａｌ”%Nから開始します
-;320;52;Start from%NSatoru: Day 1,%N"Ｐｒｅｎａｔａｌ"
+;934;24;４月３日⑳くるみ／２ｎｄ
+Kurumi - April 3 (2nd)
 
-#;354;56;サトル編１日目%N“Ｔｒｉｃｋ⑳ｓｔａｒ”%Nから開始します
-;354;56;Start from%NSatoru: Day 1,%N"Ｔｒｉｃｋｓｔｅｒ"
+;968;24;４月４日⑳くるみ／２ｎｄ
+Kurumi - April 4 (2nd)
 
-#;388;52;サトル編２日目%N“Ｃａｌｍｎｅｓｓ”%Nから開始します
-;388;52;Start from%NSatoru: Day 2,%N"Ｃａｌｍｎｅｓｓ"
+;99C;24;４月５日⑳くるみ／２ｎｄ
+Kurumi - April 5 (2nd)
 
-#;3BC;60;サトル編２日目%N“Ｒｅｆｌｅｃｔｉｏｎ・Ⅰ”%Nから開始します
-;3BC;60;Start from%NSatoru: Day 2,%N"Ｒｅｆｌｅｃｔｉｏｎ・Ｉ"
+;9D0;24;４月６日⑳くるみ／２ｎｄ
+Kurumi - April 6 (2nd)
 
-#;3F0;50;サトル編３日目%N“Ｒｅｓｐｉｔｅ”%Nから開始します
-;3F0;50;Start from%NSatoru: Day 3,%N"Ｒｅｓｐｉｔｅ"
+;A04;20;エンディング⑳くるみ
+Kurumi Ending
 
-#;424;60;サトル編３日目%N“Ｓａｂｂａｔｈ⑳Ｔｉｍｅ”%Nから開始します
-;424;60;Start from%NSatoru: Day 3,%N"Ｓａｂｂａｔｈ⑳Ｔｉｍｅ"
+;A38;24;４月５日⑳いづみ／１ｓｔ
+Izumi - April 5 (1st)
 
-#;458;56;サトル編４日目%N“Ｎｕｃｌｅｏｔｉｄｅ”%Nから開始します
-;458;56;Start from%NSatoru: Day 4,%N"Ｎｕｃｌｅｏｔｉｄｅ"
+;A6C;24;４月６日⑳いづみ／１ｓｔ
+Izumi - April 6 (1st)
 
-#;48C;44;サトル編４日目%N“Ｒｅａｌ”%Nから開始します
-;48C;44;Start from%NSatoru: Day 4,%N"Ｒｅａｌ"
+;AA0;34;４月１日⑳いづみ／２ｎｄ？（前編）
+Izumi - April 1 (2nd?) (1)
 
-#;4C0;48;サトル編５日目%N“Ｌｅｔｈａｌ”%Nから開始します
-;4C0;48;Start from%NSatoru: Day 5,%N"Ｌｅｔｈａｌ"
+;AD4;34;４月１日⑳いづみ／２ｎｄ？（後編）
+Izumi - April 1 (2nd?) (2)
 
-#;4F4;48;サトル編５日目%N“Ｐｈｏｂｉａ”%Nから開始します
-;4F4;48;Start from%NSatoru: Day 5,%N"Ｐｈｏｂｉａ"
+;B08;26;４月３日⑳いづみ／２ｎｄ？
+Izumi - April 3 (2nd?)
 
-#;528;64;サトル編６日目%N“Ａｎｏｔｈｅｒ⑳Ｓｈａｄｏｗ”%Nから開始します
-;528;64;Start from%NSatoru: Day 6,%N"Ａｎｏｔｈｅｒ⑳Ｓｈａｄｏｗ"
+;B3C;26;４月４日⑳いづみ／２ｎｄ？
+Izumi - April 4 (2nd?)
 
-#;55C;52;サトル編６日目%N“Ｒｅｖｅｎｇｅｒ”%Nから開始します
-;55C;52;Start from%NSatoru: Day 6,%N"Ｒｅｖｅｎｇｅｒ"
+;B70;20;エンディング⑳いづみ
+Izumi Ending
 
-#;590;62;サトル編７日目%N“Ｃｏｎｓｃｉｏｕｓｎｅｓｓ”%Nから開始します
-;590;62;Start from%NSatoru: Day 7,%N"Ｃｏｎｓｃｉｏｕｓｎｅｓｓ"
+;BA4;30;４月５日⑳いづみキュア／１ｓｔ
+Izumi Cure - April 5 (1st)
 
-#;5C4;58;サトル編７日目%N“Ａｍｂｉｖａｌｅｎｃｅ”%Nから開始します
-;5C4;58;Start from%NSatoru: Day 7,%N"Ａｍｂｉｖａｌｅｎｃｅ"
+;BD8;30;４月６日⑳いづみキュア／１ｓｔ
+Izumi Cure - April 6 (1st)
 
-#;5F8;50;サトル編エピローグ%N“Ｄｅｌｔａ”%Nから開始します
-;5F8;50;Start from%NSatoru: Epilogue,%N"Ｄｅｌｔａ"
+;C0C;38;４月１日⑳いづみキュア／２ｎｄ（前編）
+Izumi Cure - April 1 (2nd) (1)
+
+;C40;38;４月１日⑳いづみキュア／２ｎｄ（後編）
+Izumi Cure - April 1 (2nd) (2)
+
+;C74;30;４月２日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 2 (2nd)
+
+;CA8;30;４月３日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 3 (2nd)
+
+;CDC;30;４月４日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 4 (2nd)
+
+;D10;30;４月５日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 5 (2nd)
+
+;D44;30;４月６日⑳いづみキュア／２ｎｄ
+Izumi Cure - April 6 (2nd)
+
+;D78;28;エンディング⑳いづみキュアＡ
+Izumi Cure Ending A
+
+;DAC;28;エンディング⑳いづみキュアＢ
+Izumi Cure Ending B
+
+;14;78;４月６日土曜日──%n絶望に満ちた世界……。%nそして……%n誠は目を覚ました……。
+April 6, Saturday──%nA world full of despair.%nAnd then, Makoto woke up.
+
+;48;82;リビングに揃った皆の前に、%n優夏が作った朝食が出される。%nその料理の出来栄えは？？
+In front of everyone in the living%nroom, a breakfast prepared by%nYuka is served.
+#%nHow good is that food?
+
+;7C;80;テニス組と海組に分かれた%n誠達２組は、夕方合流し、%n商店街に繰り出すことに……。
+The ocean and the tennis groups%nmeet up in the evening%nand decide to go out to the%nshopping district...
+
+;B0;84;買い出しから帰ってきた誠達。%nあとはいづみさんの料理を%n待つばかり。⑳さて、お味は？
+Makoto and his friends return from%nshopping. All we have to do now is%nto wait for Izumi-san's cooking.
+
+;E4;102;悪夢で見たあの『鈴』%nそれと同じものを拾った誠は%n不安で長い夜を過ごす。%n翌朝、約束のプールに向かう。
+Makoto picks up that same "bell" he%nsaw in his nightmare and spends a%nlong night in anxiety. The next%nmorning, he heads for the promised%nswimming pool.
+
+;118;84;プールからルナビーチに戻り、%n皆は会話に華を咲かせる。%n夕食後、みんなで月浜へ……。
+Back at Lunabeach from the pool%neveryone is in good conversation.%nAfter dinner, everyone goes to%nMoon Beach...
+
+;14C;84;『無いから……心が……』%nそんな遙に、釣りを教えると%n約束する誠。そして、翌朝……。
+『Because I don't have a heart...』%nMakoto promises to teach Haruka%nhow to fish.%nThen, the next morning...
+
+;180;96;釣った魚をすぐに逃がす遙。%nそんな遙を、%n守ってあげたいと感じる誠。%nそして、辺りは夕闇に……。
+Haruka immediately lets go of the fish%nshe catches. Makoto feels like%nprotecting Haruka. And then,%nthe evening darkness falls...
+
+;1B4;106;沙紀の口から発せられた、%n遙がクローンだという事実。%nそんな中、いづみさんは%nクローン法改正の経緯を話す。
+The fact that Haruka is a clone was%nuttered from Saki's mouth. In the%nmidst of all this, Izumi tells the story%nof the revision of the cloning law.
+
+;1E8;104;気まずい夕食のなか、%nくるみが肝試しを提案する。%nそれは、くるみなりの気配り%nだったのかもしれない……。
+During an awkward dinner, Kurumi%nsuggests a test of courage%nMaybe that was Kurumi's way of%nbeing considerate...
+
+;21C;114;自由な時間を過ごした各人。%nその後、ルナビーチに集合した%n一同は、姫ヶ浜へ集合する。%nバーベキュー大会の始まりだ。
+After spending their free time,%neveryone gather at Lunabeach,%nand then at Princess Beach.%nThe barbecue is about to begin.
+
+;250;86;些細なことから、%n再び遙と沙紀は衝突。%nバーベキューは重苦しい%n空気のまま終わり……。
+Haruka and Saki clash again over%nnothing.%nThe barbecue ends with heavy air...
+
+;284;102;夜、行方不明になったくるみを%n神社で見つけた優夏と誠。%nその後、疲労困ぱいのまま%n眠りについたが……。
+Yuka and Makoto find Kurumi, who%nhas gone missing, at the shrine.%nTired, they go to sleep.
+
+;2B8;110;優夏と誠は今後一切、神社には%n近寄らないと誓い合った。%Nやがて……日付は６日──%n運命の日が、やってきた──。
+Yuka and Makoto vowed%nto stay away from the shrine for%nthe rest of their lives.%nThe fateful day has arrived...
+
+;2EC;90;神社と共に優夏は失われた。%nそして、ふたりの手から%nこぼれ落ちた鈴…………。%nそして──。
+The shrine collapses, taking Yuka%nwith it. The bell falls from their hands.%nThen...
+
+;320;102;目覚めると、そこは、%n２度目の４月１日……。%n誠と優夏は混乱しながらも、%nテニスコートへと足を向ける。
+Upon waking up, they find%nthemselves in April 1 again...%nStill confused, they go to the tennis%ncourt.
+
+;354;80;『良い歴史はそのままに』。%nそう優夏と画策した誠は、%n前回と同様プールへ向かう。
+The good history is still intact.%nMakoto heads to the swimming pool%nas he did before.
+
+;388;94;釣りを教えて欲しいと言う遙。%n前回と同じように、誠は%n威勢良く承諾するのだった。%nそして……。
+Haruka asks Makoto to teach her%nhow to fish. Makoto eagerly agrees.%nThen...
+
+;3BC;98;３日に沙紀は溺れず、%n平穏な１日が生まれた。%n計画どおりで安堵する誠。%nそして、４日を迎えた……。
+Saki does not drown on Day 3.%nMakoto is relieved that everything%nwent as planned.%nAnd then comes the 4th...
+
+;3F0;94;バーベキューでも、%n悪い歴史は良く変わった。%n良い流れを感じながら、%n２人は５日を迎える……。
+
+;424;94;沙紀から優夏の過去を聞き、%n誠は自分の発言を悔いる。%n部屋で胸を痛ませる誠……%nそのとき……！
+
+;458;100;倒壊する神社……。%n誠と優夏は抱き合ったまま、%n漆黒の海原に落ちて行く。%n鈴の音を聞きながら……。%n
+
+;48C;110;遙と沙紀──ふたりの過去に、%nいったい何があったのか？%nそんなことを考えながら、%n誠は眠りに落ちていった……。
+
+;4C0;92;夜の姫ヶ浜で、寄りそいながら%n海を見る誠と遙。%nそのまま、まどろみの%n彼方へいざなわれて……
+
+;4F4;102;病室で息をひきとった遙。%nその手からこぼれる鈴……。%n失意の中、誠の意識は%n遠のいていき、そして──。
+
+;528;108;２度目の４月１日に目覚めた誠。%n２度と遙を失わないよう、%n歴史を変える決意をする。%n頼れるのは、前回の記憶！
+
+;55C;100;沙紀が高波にさらわれる事は%n変えることができなかった。%n誠は本当に歴史を%n変えることができるのか！？
+
+;590;108;遙に、自分という存在の%n尊さに気づいてもらうため、%n誠は、遙とくるみの決定的な%n差異を見つけようと決意する。
+
+;5C4;106;遙と共に釣りをした誠は、%n彼女の決定的な存在理由を%n見つけられなかった。%nタイムリミットは、２４時間……。
+
+;5F8;68;ロッジの外に飛び出した遙を、%n必死に探す誠。%nそして、遂に…………。
+
+;62C;80;くるみの輸血で命を留めた遙。%n──眠り姫は、ついに、%n眠りから目覚めたのだ……。
+
+;660;108;沙紀と遙、ふたりの過去に、%nいったい何があったのか？%nそんなことを考えながら、%n誠は眠りに落ちていった……。
+
+;694;80;優夏は沙紀を誤解している。%nふたりの誤解を解くため、%n再び沙紀の別荘へ向かった。
+
+;6C8;102;遙か沙紀……そのどちらかが%n『鈴は持っていない』と%n嘘をついている……。%n誠は強い葛藤に身悶える……。
+
+;6FC;70;漆黒の闇へ落ちていった沙紀。%n彼女を失った誠は闇に叫ぶ。%nそして──。
+
+;730;116;目覚めると２度目の１日だった。%n２度と沙紀を失わないよう、%n歴史を変える決意をした誠。%n前回の記憶だけを頼りに……。
+
+;764;102;沙紀と遙、お互いの真実を%nはっきりさせる必要があると%n思った誠は、ふたりを%n会わせようと思案する……。
+
+;798;104;歴史は繰り返し、再び沙紀が%nバスケットを壊してしまった。%n夜中にそれを直した誠は、%n沙紀の別荘へ向かう。
+
+;7CC;100;バーベキュー後、沙紀は%nバスケットの件を感謝する。%n歴史は変わりつつある……%nそう確信した誠だった。
+
+;800;80;沙紀の潔白を証明するため、%n売上金窃盗犯を探す誠。%nいったい犯人は誰なのか……？
+
+;834;86;ついに信じあえた誠と沙紀。%nお互いの気持ちを確かめ合い、%nふたりはついに７日を迎えた。
+
+;868;92;行方不明になったくるみは%n神社で見つかった。%nその後、疲労困ぱいのまま%n眠りについたが……。
+
+;89C;108;癒えない身体と心の傷を、%nくるみは誠に告白した。%nそれでも明るく振舞うくるみを%n誠はずっと見守りたいと誓う。
+
+;8D0;100;非業の死を遂げたくるみ。%n彼女の手に握られた鈴が%n虚しい音色を奏でた。%n意識を失う誠……そして──。
+
+;904;118;目覚めると２度目の１日だった。%n２度とくるみを失わないよう、%n歴史を変える決意をした誠。%n誠の孤独な戦いが始まる……。
+
+;938;112;誠の健闘空しく、くるみは%n再び神社の話を知ってしまう。%nだが、悲劇は防せごうと誓う。%nやがて、日付は３日に……。
+
+;96C;100;３日は平穏に過ぎて行った。%nそして、４日……。%nついに、くるみの秘密が%n明かされようとしている……。
+
+;9A0;116;今回、くるみは失踪しなかった。%nすやすやと眠るくるみを見て、%n穏やかな気持ちになる誠。%nこうして夜はふけていく……。
+
+;9D4;106;再び背中の傷を見せたくるみ。%n誠はその悲しみを受け止める。%nそして、ふたたび遊園地に%n行く約束をする……。
+
+;A08;100;タイムスリップ、自分の気持ち、%nその全てを話す誠に、%nくるみは応えた。%nそして運命の日を迎える……。
+
+;A3C;94;行方不明になったくるみを%n神社で見つけた誠。%nその後、いづみさんに%n夜中に会いたいと誘われる。
+
+;A70;98;ロッジに泊まることになった%nくるみといづみさん。%nそして、皆でカードゲームを%nすることになり……。
+
+;AA4;98;どしゃ降りの雨の中、%n崖から落ちたいづみさん。%n冷たくなった手のひらから、%n鈴がこぼれ落ちた……。
+
+;AD8;108;億彦を騙すことになり、%n４月１日を演じ続ける班員達。%nやがてテニスの時間になり、%n一行はコートへと足を運ぶ。
+
+;B0C;104;順調に億彦を騙してはいたが、%n誠は告白できないでいた。%nあせる誠をよそに、%n次は３日を演じることに……。
+
+;B40;104;どうしてもいづみさんと%nふたりきりになれない誠。%nタイムリミットが迫る中、%n誠は気持ちを伝えられるか！？
+
+;B74;96;億彦に真相を話し、%n楽しかった『合宿』は終わった。%nだが、誠にはまだ%nやり残していることがある。
+
+;BA8;94;行方不明になったくるみを%n神社で見つけた誠。%nその後、いづみさんに%n夜中に会いたいと誘われる。
+
+;BDC;110;予知を気に病むいづみさんの%n微笑みを取り戻すため、%n星の話をしようと提案する。%nこうして、夜はふけていく……。
+
+;C10;98;どしゃ降りの雨の中、%n崖から落ちたいづみさん。%n冷たくなった手のひらから、%n鈴がこぼれ落ちた……。
+
+;C44;98;誠が絶望の中で目覚めると、%n世界は４月１日だった──。%n誠はその事実に%nただ混乱するばかりで……。
+
+;C78;94;あの『鈴』を壊そうとする誠。%nだが潰したはずの鈴は、%n跡形も無く消えてしまう……。%nなぜ……？
+
+;CAC;94;キュレイシンドロ－ムの%n『第３の特徴』。%nその内容を聞けなかった誠は、%n眠れぬ夜を過ごす……。
+
+;CE0;96;この現実は、誠の妄想に%n過ぎないかもしれない。%n──そう告げるいづみさんを%n誠は抱きしめる……。
+
+;D14;76;遙がビールをかけられ、%nくるみも失踪しなかった。%n穏やかな雰囲気が続く……。
+
+;D48;94;消えた鈴……消えた神社……%n消えたトランプ……。%n妄想か？⑳真実か？%n混乱したまま夜を迎える。
+
+;D7C;98;いづみさんをかばって、%n車に弾き飛ばされた誠。%n皆の無事を確認すると、%n誠は意識を……失った……。
+
+;DB0;102;いづみさんをかばって、%n車に弾き飛ばされた誠。%n彼女の悲痛な声を聞きながら、%n意識は途切れる…………。
 

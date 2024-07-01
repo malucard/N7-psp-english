@@ -1,0 +1,213 @@
+text area offset and size:
+0x668
+0x11A4
+0x5C
+Even though Yuka had said it would only take her about%Nfifteen minutes, it's been almost an hour.%K%P
+
+0x68
+Just what the hell is Yuka cooking in there anyway?%K%P
+
+0x74
+It's now almost 11, so it's too late to even call it brunch.%K%P
+
+0x80
+While waiting, the three of us decided to wash our faces%Nand change our clothes.%K%P
+
+0x8C
+Currently, we are watching the TV that's sitting in the%Ncorner of the room.%K%P
+
+0x98
+There's a health show on called "A Healthy YOUtopia."%K%P
+
+0xA4
+Judging from its subtitle, "Good Green Vegetables To%NEat," it's basically a cooking show.%K%P
+
+0xB0
+Of course, none of us want to watch this.%K%P
+
+0xBC
+Unfortunately, this island only has two channels, both of%Nwhich are local broadcasting.%K%P
+
+0xC8
+The other channel happens to be featuring a short%Ndocumentary on "Natural Streams All Over the Country."%K%P
+
+0xD4
+Though both of the shows are boring, I think the one%Nabout streams might have been a better candidate for%Ndistracting us from our hunger.%K%P
+
+0xE0
+My stomach is rumbling. I don't think I can last much%Nlonger.%K%P
+
+0xF4
+Yuka「Sorry to keep you waiting～」%K%P
+
+0x100
+Finally, Yuka peeks her head out from the kitchen.%K%P
+
+0x10C
+Yuka「I've already set the food on the table. Let's eat!」%K%P
+
+0x128
+At these words, Haruka immediately stands up.%K%P
+
+0x134
+I'm kind of surprised.%K%P
+
+0x148
+I find it odd that the usually indifferent Haruka is this%Ndetermined about eating breakfast.%K%P
+
+0x154
+I guess she must be practically starving.%K%P
+
+0x18C
+Upon arriving at the table, our eyes widen.%K%P
+
+0x198
+Our wondrous vision of food rivaling a 4-star restaurant%Nin Southern France...%K%N
+
+0x1A4
+... is gloriously shattered into pieces.%K%P
+
+0x1B8
+There's a "Mysterious Object" that I've never seen%Nbefore in my life heaped up into a pile at the center of%Nthe table.%K%P
+
+0x1C4
+Next to that are four plates with toast (T-That thing... IS%Ntoast... right?) placed on them.%K%P
+
+0x1D0
+As if it had come from outer space, this "Mystery%NObject" has a complicated and mysterious pattern of%Nspots, and is shaped like some kind of viscous jelly mold.%K%P
+
+0x1DC
+As for Yuka's "toast", it's a solid black mass (It might as%Nwell be called "charcoal"...).%K%P
+
+0x1E8
+Yuka「Well then, go ahead and eat up～♪」%K%P
+
+0x204
+Yuka urges us on with a large, proud smile.%K%P
+
+0x210
+At the same time, she takes the "Mysterious Object",%Nplaces it on the "Charcoal", and smacks her lips.%K%P
+
+0x21C
+We watch her, dumbstruck...%K%P
+
+0x228
+Before long...%K%P
+
+0x234
+Yuka「Huh? Guys, what's wrong?」%K%P
+
+0x240
+... Yuka tilts her head.%K%P
+
+0x268
+Okuhiko「S-Sorry... my stomach's not feeling so good...」%K%P
+
+0x274
+Wow, that's cheap, Okuhiko!%K%P
+
+0x288
+Haruka「I'm... not hungry.」%K%P
+
+0x294
+Haruka! Not you too!%K%P
+
+0x2A8
+Yuka「Whaaat――!? But I just finished it and everything!」%K%P
+
+0x2B4
+Yuka「I remade it countless times, you know!」%K%P
+
+0x2C0
+I don't think the quality of food has anything to do with%Nhow many times you remake it...%K%P
+
+0x2CC
+Furthermore, if it's true that "this is the result of all my%Ntime and effort for the last hour, including the countless%Ntimes I remade it," then I just can't understand.%K%P
+
+0x2D8
+If that's the case, then just what kind of thing was her%Ninitial result? ... Just trying to imagine it makes my hair%Nstand on end.%K%P
+
+0x2E4
+Suddenly, as if she's reading my mind, Yuka says this:%K%P
+
+0x2F8
+Yuka「Makoto, you're hungry... right?」%K%P
+
+0x304
+She makes it sound as if I'm completely obliged to eat%Nthis.%K
+
+0x640
+"Y-Yeah..."
+
+0x64C
+"N-No..."
+
+0x34C
+Makoto「Y-Yeah...」%K%P
+
+0x358
+I hopelessly nod...%K%P
+
+0x374
+Makoto「N-No...」%K%P
+
+0x380
+Somehow, I manage to shake my head.%K%P
+
+0x394
+Yuka「Whaaat... Makoto... you too?」%K%P
+
+0x3A0
+Makoto「...」%K%P
+
+0x3E0
+Yuka「Even though I worked so hard...」%K%P
+
+0x3EC
+She sadly looks down at her cooking.%K%P
+
+0x3F8
+Yuka「I thought that you would at least try some...」%K%P
+
+0x414
+I look back to find Haruka and Okuhiko shooting me%Ncriticizing glares..%K%P
+
+0x420
+(Hey, no fair... You two have no right to judge me!!!)%K%P
+
+0x434
+I look at Yuka, who is still hanging her head, before%Nfocusing on the "Mysterious Object" on the table.%K%P
+
+0x440
+Makoto「Ugh...!」%K%P
+
+0x44C
+I close my eyes. I try to convince myself that the%Nfood(?) is so delicious that it makes my mouth water just%Nthinking about it.%K%P
+
+0x458
+(... All right!)%K%P
+
+0x464
+After a brief moment of silence, I steel my resolution.%K%P
+
+0x478
+Makoto「Yuka... To be honest, I'm starving. I've decided I will eat%Nthis after all...」%K%P
+
+0x48C
+Yuka instantly calms down upon hearing this, wiping%Naway any signs of her previous depression.%K%P
+
+0x498
+Her change is so sudden and genuine that I curse%Nmyself for not being able to say "no".%K%P
+
+0x4AC
+In the end, let's just say that Yuka's food drove me to%Nhell and back.%K%P
+
+0x4B8
+...%K%P
+
+0x4C4
+I never did figure out what the recipe of the "Mysterious%NObject" was.%K%P
+
+0x4D0
+In all honesty, I'm too terrified to ask.%K%P
+

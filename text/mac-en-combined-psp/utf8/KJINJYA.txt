@@ -1,0 +1,537 @@
+text area offset and size:
+0xE40
+0x2B6F
+0x74
+... We arrive in front of an incredibly long flight of%Nmoss-covered stone steps.%K%P
+
+0x80
+Makoto「This is it...?」%K%P
+
+0x94
+Kurumi「C'mon, hurry up♪」%K%P
+
+0xA0
+Kurumi grabs my hand, and tries to drag me up the stairs.%K%P
+
+0xAC
+Makoto「H-H-H-Hold on, Kurumi!」%K%P
+
+0xB8
+Makoto「Could it be that this place is...」%K%P
+
+0xC4
+Kurumi「Right! This is the 'Shiki no Mori' Onee-chan mentioned in%Nher story yesterday!」%K%P
+
+0xD0
+Kurumi boldly declares this.%K%P
+
+0xDC
+Kurumi「Well? This an interesting place, isn't it?」%K%P
+
+0xE8
+Makoto「W-Well, I'd be lying if I said I wasn't interested in it...」%K%P
+
+0xF4
+Kurumi「Right? So hurry up and let's go.」%K%P
+
+0x100
+Makoto「But yesterday, Izumi-san said specifically not to go%Nhere, didn't she...?」%K%P
+
+0x10C
+Kurumi「It's fine! Onee-chan's just a scaredy cat, that's all!」%K%P
+
+0x118
+Kurumi「It's stupid to believe in an old legend... A superstition is%Nnothing more than superstition, after all.」%K%P
+
+0x124
+Makoto「Hmm...」%K%P
+
+0x130
+Kurumi「Huh? ... Don't tell Kurumi that even you believe that story%Nabout 'The God of Demons'...?」%K%P
+
+0x13C
+Makoto「It's not like I really believe it. It's just...」%K%P
+
+0x148
+Kurumi「Then let's go!」%K%P
+
+0x154
+Kurumi tugs at my arm again.%K%P
+
+0x160
+Makoto「W-Wait! We shouldn't be so rash!」%K%P
+
+0x16C
+Kurumi「... Then we'll wait, but only for a minute.」%K%P
+
+0x178
+One minute... that sounds like something a child would%Nsay...%K%P
+
+0x184
+But for now, I'll humor her.%K%P
+
+0x190
+In that short period of time, I try to make my decision.%K%P
+
+0x19C
+―Should I go? ―Or should I not?%K%P
+
+0x1A8
+It's not like I completely believe Izumi-san's story, but%Nthat's not the real part that bothers me.%K%P
+
+0x1B4
+It's that Izumi-san was incredibly threatening last night.%K%P
+
+0x1C0
+She had a furious tone, as if she were intimidating us by%Nsaying "You must never go to that shrine!"...%K%P
+
+0x1CC
+Now that I remember it, it feels like those words weren't%Naimed towards me and the rest of the Seminar members,%Nbut rather just Kurumi.%K%P
+
+0x1D8
+In other words, Izumi-san doesn't want Kurumi to go to%Nthe shrine, no matter what...%K%P
+
+0x1E4
+Is it because it's dangerous? Was it because Izumi-san%Ndoesn't want to put her beloved little sister in danger?%K%P
+
+0x1F0
+... I can't figure out a clear reason.%K%P
+
+0x1FC
+But at any rate, if Kurumi goes up to the shrine now, it%Nmight feel like I'm betraying Izumi-san.%K%P
+
+0x208
+What should I do...?%K
+
+0xE00
+Go.
+
+0xE0C
+Don't go.
+
+0x250
+Makoto「... All right. Since you're so set on this, let's go together.」%K%P
+
+0x25C
+I give her this answer.%K%P
+
+0x268
+Kurumi「Yay!♪ That's the spirit!」%K%P
+
+0x274
+Makoto「But on one condition.」%K%P
+
+0x280
+Kurumi「What's that?」%K%P
+
+0x28C
+Makoto「You must absolutely... not tell Izumi-san that we went to%Nthe shrine!」%K%P
+
+0x298
+Kurumi「Kyahaha! What, that's all it was...?」%K%P
+
+0x2A4
+Kurumi「You didn't have to say anything! Kurumi wasn't gonna tell%Nher in the first place!」%K%P
+
+0x2B0
+Kurumi「It's because of last night. After you and the others left,%NKurumi thought she'd try asking Onee-chan to tell the%Nstory of the shrine once more in detail...」%K%P
+
+0x2BC
+Kurumi「But when Kurumi did that, Onee-chan got angry, though%Nnot as much as she was back on Moon Beach...」%K%P
+
+0x2C8
+Kurumi「Even so, Kurumi won't say anything. Not even if she's%Nbeing held at gunpoint...」%K%P
+
+0x2D4
+Makoto「No, it's fine, I trust you won't...」%K%P
+
+0x2E0
+Kurumi「Well then, those things don't matter, so let's hurry up and%Ngo, okay?」%K%P
+
+0x2EC
+Kurumi urges me on, and we begin to climb up the long%Nstaircase.%K%P
+
+0x324
+... Shortly afterwards, the two of us are standing at the%Ntop of the staircase, staring at the infamous shrine.%K%P
+
+0x330
+Every part of the shrine, from the outer walls, pillars, and%Neven the large roof, have rotted away extensively,%Nprobably due to many years of being subjected to the%Nsea breeze.%K%P
+
+0x33C
+I wouldn't be surprised if it collapsed this very second...%K%P
+
+0x348
+Nevertheless, despite its decrepit appearance, the%Nbuilding being bathed with moonlight still gives off the%Nimpression of being surrounded by an imposing air.%K%P
+
+0x354
+It's an intimidating atmosphere that feels like it could%Nscare off anyone who tried to trespass on this ground.%K%P
+
+0x360
+Kurumi「Hey, wanna try going in?」%K%P
+
+0x36C
+Makoto「S-Sure...」%K%P
+
+0x378
+We've already come this far, so we can't turn back.%K%P
+
+0x384
+Kurumi and I walk across the stone paving towards the%Nshrine.%K%P
+
+0x390
+We're still holding each other's hands.%K%P
+
+0x3A4
+Kurumi「Onii-chan?」%K%P
+
+0x3B0
+Makoto「Yeah?」%K%P
+
+0x3BC
+Kurumi「If... If by any chance, something happens to Kurumi...」%K%P
+
+0x3C8
+Kurumi「... Onii-chan, will you save her?」%K%P
+
+0x3D4
+Makoto「From what...?」%K%P
+
+0x3E8
+Kurumi「Hmm... for example, ah, got it...」%K%P
+
+0x3F4
+Kurumi「For example, what if that God of Demons appears in the%Nshrine and tries to grab Kurumi?」%K
+
+0xE18
+I'd save you.
+
+0xE24
+I wouldn't save you.
+
+0x43C
+Makoto「Of course I'd save you.」%K%P
+
+0x448
+Makoto「Don't ask me something so obvious...」%K%P
+
+0x45C
+Kurumi「Eheh♪」%K%P
+
+0x468
+Kurumi smiles happily.%K%P
+
+0x47C
+Makoto「If that happened, then there's no way I could save you,%Nright?」%K%P
+
+0x488
+Makoto「My first priority would be protecting myself...」%K%P
+
+0x49C
+Kurumi「... Huh?」%K%P
+
+0x4A8
+A sad look appears in Kurumi's eyes.%K%P
+
+0x4B4
+Makoto「I-Idiot... I'm kidding!」%K%P
+
+0x4C0
+Makoto「Don't take it seriously!」%K%P
+
+0x4CC
+Kurumi「... Were you really... kidding?」%K%P
+
+0x4D8
+Makoto「Isn't that obvious? If anything happened, I would risk my%Nlife to save you, Kurumi!」%K%P
+
+0x4E4
+Kurumi「...」%K%P
+
+0x4F0
+The troubled look in Kurumi's eyes has cleared away.%K%P
+
+0x530
+... Before long, we arrive at the front of the shrine.%K%P
+
+0x53C
+For some reason, I can feel a lukewarm breeze coming%Nfrom the shrine.%K%P
+
+0x548
+It's as if it's the sigh of someone trying to tempt us to go%Nin.%K%P
+
+0x55C
+Kurumi「Well then, shall we... go in?」%K%P
+
+0x568
+And then, in the instant Kurumi mutters this!%K%P
+
+0x574
+??「HEY!!!」%K%P
+
+0x588
+―A shout that could pierce the darkness breaks out%Nlike a roar!%K%P
+
+0x594
+??「Who the hell are you damn kids!!!?」%K%P
+
+0x5A0
+Startled, we look around us, but we can't find the owner%Nof the voice which has caused even the surrounding%Ntrees to shake.%K%P
+
+0x5AC
+Forget it... we've got to get out of here now!%K%P
+
+0x5C0
+I run through the grounds while clasping Kurumi's hand%Nwith all my might...%K%P
+
+0x5CC
+... We descend the stone staircase, going so fast that%Nit's like we're rolling down it...%K%P
+
+0x5E0
+Makoto「I don't think we should do this after all, Kurumi...」%K%P
+
+0x5EC
+Kurumi「W-What!? Whyyyy!?」%K%P
+
+0x5F8
+Makoto「Izumi-san... she sounded pretty serious. There really%Nmust be something at that shrine.」%K%P
+
+0x604
+Kurumi「Kurumi said it's fine!」%K%P
+
+0x610
+Kurumi「Geez, what's wrong? Maybe you're getting cold feet...%NThat's not like you at all, Onii-chan...」%K%P
+
+0x61C
+Makoto「No, it's not that I'm getting cold feet.」%K%P
+
+0x628
+Makoto「It has nothing to do with the story of the God of Demons%Neither.」%K%P
+
+0x634
+Makoto「It's just... how should I put this?」%K%P
+
+0x640
+Makoto「... There's probably something here. That's my reason for%Nwhy we can't go...」%K%P
+
+0x64C
+Kurumi「That's not an explanation.」%K%P
+
+0x658
+Makoto「That's fine, the reason doesn't matter. Anyway, let's try%Ngoing back for today...」%K%P
+
+0x664
+Kurumi「Whaaaaat...?」%K%P
+
+0x6D0
+I pull Kurumi's hand in the opposite direction, trying to go%Nback through the thicket we just came out of.%K%P
+
+0x6DC
+However...%K%P
+
+0x6F0
+Kurumi「Fine then! Kurumi will go by herself!」%K%P
+
+0x704
+... Kurumi violently shakes off my hand and turns around.%K%P
+
+0x710
+She runs up the stone stairs at top speed.%K%P
+
+0x71C
+Makoto「Hey! Wait, Kurumi!」%K%P
+
+0x728
+I follow after her, ascending the stairs...%K%P
+
+0x734
+When I finally reach the top, I catch up with Kurumi, and%Nfirmly grab her arm.%K%P
+
+0x790
+Kurumi「Hee hee hee... just as planned♪」%K%P
+
+0x79C
+Kurumi has a triumphant expression.%K%P
+
+0x7A8
+So when Kurumi said that she'd go by herself, that was a%Nbluff?%K%P
+
+0x7B4
+She predicted from the beginning that I'd follow her?%K%P
+
+0x7C0
+Geez... cut me a break.%K%P
+
+0x7F0
+... Shortly afterwards, the two of us are standing at the%Ntop of the staircase, staring at the infamous shrine.%K%P
+
+0x7FC
+Every part of the shrine, from the outer walls, pillars, and%Neven the large roof, have rotted away extensively,%Nprobably due to many years of being subjected to the%Nsea breeze.%K%P
+
+0x808
+I wouldn't be surprised if it collapsed this very second...%K%P
+
+0x814
+Nevertheless, despite its decrepit appearance, the%Nbuilding being bathed with moonlight still gives off the%Nimpression of being surrounded by an imposing air.%K%P
+
+0x820
+It's an intimidating atmosphere that feels like it could%Nscare off anyone who tried to trespass on this ground.%K%P
+
+0x834
+Kurumi「Hey, wanna try going in?」%K%P
+
+0x840
+Makoto「Didn't I tell you that we shouldn't?」%K%P
+
+0x854
+Kurumi「Fine then! Kurumi will go by herself!」%K%P
+
+0x860
+Kurumi desperately tries to violently shake off my hand,%Nbut I'm not falling for the same trick again.%K%P
+
+0x86C
+I firmly grab Kurumi by the arm and don't let go.%K%P
+
+0x878
+Makoto「Heh heh heh. Too bad...」%K%P
+
+0x88C
+Kurumi「O-Oww...」%K%P
+
+0x898
+Makoto「Huh?!」%K%P
+
+0x8A4
+Kurumi「... That hurts... Onii-chan...」%K%P
+
+0x8B0
+This is bad. Did I use too much strength...?%K%P
+
+0x8BC
+Makoto「Ah, sorry...」%K%P
+
+0x8C8
+I instantly let go of her.%K%P
+
+0x8DC
+Kurumi「Heh heh♪ Just as planned yet again♪」%K%P
+
+0x8E8
+Makoto「Wha...」%K%P
+
+0x8F4
+I reach out for her again, but it's too late.%K%P
+
+0x900
+Kurumi is running towards the entrance of the shrine...%K%P
+
+0x90C
+Makoto「Damn you... Kurumi!」%K%P
+
+0x918
+And then, in the instant I yell this!%K%P
+
+0x924
+??「HEY!!!」%K%P
+
+0x938
+―A shout that could pierce the darkness breaks out%Nlike a roar!%K%P
+
+0x944
+??「Who the hell are you damn kids!!!?」%K%P
+
+0x950
+Startled, we look around us, but we can't find the owner%Nof the voice which has caused even the surrounding%Ntrees to shake.%K%P
+
+0x95C
+Forget it... we've got to get out of here now!%K%P
+
+0x968
+Kurumi has also turned around, and runs my way at full%Nspeed.%K%P
+
+0x974
+Her face is twisted in fear, looking like a kid who's prank%Nhas gone horribly wrong.%K%P
+
+0x980
+Kurumi rushes straight towards me...%K%P
+
+0x98C
+I take her hand, and we descend the stone staircase,%Ngoing so fast that it's like we're rolling down it...%K%P
+
+0xA08
+... Having made our getaway somehow, we walk towards%Nthe lodge from the coastline.%K%P
+
+0xA1C
+Kurumi「Kurumi told you, right? That it was an 'interesting place'...」%K%P
+
+0xA28
+Kurumi flashes me a satisfied grin filled with triumph, which%Nseems to shine and grow bigger by the second...%K%P
+
+0xAAC
+Yuka「Geez, where did you go!? Don't worry us!」%K%P
+
+0xAB8
+As soon as we go through the front door, Yuka begins%Nto scold us.%K%P
+
+0xAC4
+It's seems they got back from the hot springs quite%Nsome time ago.%K%P
+
+0xAD0
+Everyone's hair is already completely dry.%K%P
+
+0xADC
+Makoto「Sorry. We went for a little walk...」%K%P
+
+0xAE8
+I pretend to be contemplating my actions.%K%P
+
+0xB04
+Kurumi「You see, Onii-chan wanted to see the ocean at night no%Nmatter what, but didn't listen to Kurumi!」%K%P
+
+0xB10
+Makoto「... Huh???」%K%P
+
+0xB1C
+Kurumi「Even though Kurumi said 'Don't do this, you'll make%Neveryone worried sick' over and over again!」%K%P
+
+0xB30
+Yuka「Hold on Makoto, what's the meaning of this!?」%K%P
+
+0xB3C
+It seems she completely bought it...%K%P
+
+0xB48
+Having said that, there's no way I can say what we really%Ndid in front of Izumi-san...%K%P
+
+0xB54
+(Geez, Kurumi, you didn't have to make me look bad...)%K%P
+
+0xB68
+...%K%N
+
+0xB74
+... Before long, Kurumi and Izumi-san leave to return to%NLunabeach.%K%P
+
+0xB80
+At the end, Kurumi...%K%P
+
+0xB94
+Kurumi「Bye bye♪」%K%P
+
+0xBA0
+... Looks at me with a grin as she waves goodbye.%K%P
+
+0xBB4
+Makoto「Well then, time to go to bed...」%K%P
+
+0xBC0
+I walk towards my bedroom.%K%P
+
+0xBCC
+But three steps later, someone forcefully grabs me by%Nmy collar.%K%P
+
+0xBE0
+Yuka「Makoto-kun...? We have a lot to talk about...」%K%P
+
+0xBEC
+... For two hours afterwards, I become stuck with Yuka,%Nwho interrogates me under suspect of abducting a%Nminor...%K%P
+

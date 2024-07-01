@@ -1,0 +1,378 @@
+text area offset and size:
+0x958
+0x1E03
+0x5C
+Ten minutes have already passed since the crab's last%Nsumo match.%K%P
+
+0x68
+Kurumi and I are crouching down by the shore, blankly%Nstaring at the ocean.%K%P
+
+0x74
+Endless waves come on after another from beyond the%Nhorizon, each one being different from the last.%K%P
+
+0x80
+I wonder why it is that I never get tired of staring at%Nthem?%K%P
+
+0x8C
+A group of small white bubbles wash up on the beach%Nwith each wave...%K%P
+
+0x98
+Then the next approaching wave will swallow them up,%Nleaving no trace of them behind.%K%P
+
+0xAC
+Kurumi「Hey, Onii-chan?」%K%P
+
+0xB8
+Makoto「... Hmm?」%K%P
+
+0xCC
+Kurumi「Onii-chan, do you like... water?」%K%P
+
+0xD8
+Makoto「Water?」%K%P
+
+0xE4
+Kurumi「Yeah... like playing in the water or taking a bath... Do you%Nlike those things?」%K
+
+0x930
+I do.
+
+0x93C
+I don't.
+
+0x124
+Makoto「Hmm... I guess I would say that I like it.」%K%P
+
+0x130
+Makoto「When I was a kid, I used to love pulling pranks with water%Nguns and water balloons...」%K%P
+
+0x144
+Kurumi「Hmm...」%K%P
+
+0x150
+Makoto「But why are you asking me this?」%K%P
+
+0x164
+Kurumi「Umm... well, you see... Err... err...」%K%P
+
+0x170
+Makoto「...?」%K%P
+
+0x184
+Kurumi「Kurumi likes it!」%K%P
+
+0x190
+Kurumi「Kurumi also loves water!」%K%P
+
+0x1A4
+Makoto「Hmm... well, I guess I would say that I don't like it.」%K%P
+
+0x1B0
+Makoto「Baths are so troublesome that if possible, I'd rather not%Nhave them...」%K%P
+
+0x1C4
+Kurumi「Hmm... is that so...」%K%P
+
+0x1D0
+Makoto「But why are you asking me this?」%K%P
+
+0x1E4
+Kurumi「Umm... well, you see... Err... err...」%K%P
+
+0x1F0
+Makoto「...?」%K%P
+
+0x204
+Kurumi「Kurumi likes it!」%K%P
+
+0x210
+Kurumi「Kurumi loves water!」%K%P
+
+0x224
+Kurumi「Kurumi loves floating in the water.」%K%P
+
+0x238
+Kurumi「Like a jellyfish... calmly... leisurely...」%K%P
+
+0x244
+Kurumi「When she does that, it feels kinda nostalgic...」%K%P
+
+0x250
+Kurumi「It's so warm and calm... Being like that makes Kurumi want%Nto dissolve into the water...」%K%P
+
+0x25C
+Makoto「...」%K%P
+
+0x268
+Kurumi「That's why Kurumi... really wanted to go with everyone.」%K%P
+
+0x274
+Kurumi「To the pool... and the hot springs...」%K%P
+
+0x280
+Makoto「Well, if you wanted to, then why didn't you? It's okay, isn't%Nit...?」%K%P
+
+0x294
+The instant I say this, Kurumi's expression suddenly%Ngrows dim.%K%P
+
+0x2A0
+Her shoulders drop, her eyes go down, and she plays%Nwith the sand by her feet with her fingertips.%K%P
+
+0x2B8
+Kurumi「She was scared...」%K%P
+
+0x2C4
+Kurumi「She was scared everyone would hate her...」%K%P
+
+0x2D0
+Hate???%K%P
+
+0x308
+Kurumi「There's a scar... on Kurumi's back.」%K%P
+
+0x314
+Kurumi「It's a deep scar... that looks as if it were cut and gouged%Nout by a saw...」%K%P
+
+0x320
+Kurumi「The doctors said she got it when Kurumi was a baby... in%Naddition to that, they say it probably happened shortly%Nafter she was born.」%K%P
+
+0x32C
+Kurumi「But you know what? Papa, Mama, and Onee-chan are%Nlying to Kurumi.」%K%P
+
+0x338
+Kurumi「They told Kurumi that she got that scar when she fell%Ndown the stairs when she was three.」%K%P
+
+0x344
+Kurumi「Even though no matter how you look at it, there's no way%NKurumi could have gotten that scar... from falling down%Nthe stairs...」%K%P
+
+0x350
+I don't say anything. I don't know what I should say.%K%P
+
+0x35C
+After hearing Kurumi's unexpected confession, all I can%Ndo is silently listen to her story.%K%P
+
+0x368
+Kurumi「And you know what else? This scar... has given Kurumi%Nquite a few painful memories...」%K%P
+
+0x374
+Kurumi「In middle school... there was this boy Kurumi was into...」%K%P
+
+0x380
+Kurumi「He was a senpai older than Kurumi, but... whether it was%Nstudying or playing, he taught Kurumi several things...」%K%P
+
+0x38C
+Kurumi「Every day, when school ended, we would stop by this%Nnearby park, and chat about trivial things...」%K%P
+
+0x398
+Kurumi「Even though it was just trivial chat, to Kurumi, those were%Nprecious times. Very... precious...」%K%P
+
+0x3A4
+Kurumi「Kurumi... loved... that senpai...」%K%P
+
+0x3B0
+Kurumi「But you know what? One day, that senpai... stopped%Ntalking to Kurumi... He wouldn't say a single word to her...」%K%P
+
+0x3BC
+Kurumi「He wouldn't even exchange glances with her when we%Npassed in the hallways...」%K%P
+
+0x3C8
+Kurumi「After school... Kurumi was all alone at the park, swinging%Non the swing...」%K%P
+
+0x3D4
+Kurumi「She stayed there until night... alone all that whole time...%Nswinging away... swinging away...」%K%P
+
+0x3E0
+Kurumi「Kurumi heard the reason why that senpai stopped%Ntalking to her from her friends later...」%K%P
+
+0x3F4
+... ...%K%P
+
+0x400
+Senpai「That girl's got this giant scar on her back!」%K%P
+
+0x40C
+Senpai「I dunno know how she got it, but... at any rate, I'm%Ncompletely through with her.」%K%P
+
+0x418
+Senpai「There's no way in hell I can go with her to the beach with%Nthat disgusting scar!」%K%P
+
+0x424
+Senpai「It'd be way too embarrassing...」%K%P
+
+0x430
+Senpai「Yes, that's right. That's why I'm ignoring her!」%K%P
+
+0x43C
+Senpai「She's nothing more than a nuisance to me at this point!」%K%P
+
+0x448
+... ...%K%P
+
+0x488
+Kurumi「To be honest... it was a great shock...」%K%P
+
+0x494
+Kurumi「It left a scar on Kurumi much deeper than the one on her%Nback...」%K%P
+
+0x4A0
+Kurumi「Ever since then, Kurumi's been afraid to show her back in%Nfront of other people...」%K%P
+
+0x4AC
+Kurumi「Yes... That's the reason... why Kurumi didn't go to the pool%Nand hot springs with everyone else...」%K%P
+
+0x4B8
+I'm incredibly angry. So angry that my body is shaking%Nfrom it.%K%P
+
+0x4C4
+I want to drag that senpai here and beat the living shit%Nout of him.%K%P
+
+0x4D0
+I want to kick him until his bones break, and throw him to%Nthe bottom of the sea...%K%P
+
+0x4DC
+Without realizing it, I clench my hands into tight fists.%K%P
+
+0x4E8
+Kurumi「Up until now... Kurumi's never told anyone about this...」%K%P
+
+0x4F4
+Kurumi「And Kurumi thinks she probably won't tell it to anyone%Nafter this...」%K%P
+
+0x500
+Kurumi「You're the only one who knows this, Onii-chan...」%K%P
+
+0x514
+Kurumi「Kurumi only told you because you're Onii-chan.」%K%P
+
+0x520
+Kurumi「... So don't... tell anyone else...」%K%P
+
+0x534
+When she finishes speaking, Kurumi grows silent.%K%P
+
+0x540
+I'm... searching for the right words.%K%P
+
+0x54C
+I have to say something.%K%P
+
+0x558
+But no matter how hard I try, I can't find the right words.%K%P
+
+0x564
+It feels like it would be wrong if I tried to cheerfully%Nencourage her, or to try comforting her by being%Nsympathetic...%K%P
+
+0x570
+I grow more and more quiet as I struggle over thinking up%Nways to distract Kurumi from her pain.%K%P
+
+0x58C
+―And, right after that!%K%P
+
+0x5E8
+―WHAM!%K%P
+
+0x5F4
+The earth abruptly rumbles from a violent shock wave.%K%P
+
+0x614
+Kurumi「Kyaa!」%K%P
+
+0x628
+Kurumi lets out a short scream, and plunges towards my%Nchest.%K%P
+
+0x634
+Surprised by this unforeseen shock wave, I quickly lose%Nmy balance, and fall onto the sand.%K%P
+
+0x640
+Kurumi is tightly clinging to my chest...%K%P
+
+0x64C
+Before I realize it, I'm embracing her body.%K%P
+
+0x658
+Before long...%K%P
+
+0x6A8
+... The ground's shaking finally fades away, and all is%Nsilent.%K%P
+
+0x6B4
+The only evidence of it having occurred... is the two of%Nus, lying on top of each other.%K%P
+
+0x6C0
+My palm is touching Kurumi's back.%K%P
+
+0x6CC
+Though my hand is on top of her clothes, I can clearly%Nfeel something through it.%K%P
+
+0x6D8
+―It's a very deeply engraved scar.%K%N
+
+0x6E4
+―I can feel rough bulges protruding unnaturally on%Nthe otherwise smooth surface of her bare skin.%K%P
+
+0x6F0
+Kurumi's sadness is passing itself through my palm.%K%P
+
+0x6FC
+It manifests as a throbbing pain coming from my chest.%K%P
+
+0x708
+Makoto「Kurumi...」%K%P
+
+0x714
+Kurumi「It's all right...」%K%P
+
+0x720
+Kurumi「Please... don't say anything...」%K%P
+
+0x72C
+Makoto「...」%K%P
+
+0x738
+Kurumi「In exchange...」%K%P
+
+0x744
+Kurumi「Can we...」%K%P
+
+0x750
+Kurumi「Can we stay like this... for just a little while?」%K%P
+
+0x75C
+Makoto「...」%K%P
+
+0x768
+Kurumi「When we're like this... Kurumi feels very calm...」%K%P
+
+0x774
+Kurumi「Like she's floating... in the water...」%K%P
+
+0x780
+Makoto「...」%K%P
+
+0x78C
+Kurumi「Onii-chan, your chest is...」%K%P
+
+0x798
+Kurumi「... warm...」%K%P
+
+0x7A4
+The feeling of Kurumi's scar wraps up around my hand.%K%P
+
+0x7B0
+I feel myself boiling with rage from within.%K%P
+
+0x7BC
+(―This thing should just disappear!)%K%P
+
+0x7C8
+This strong thought can't help but worm its way into my%Nhead.%K%P
+
+0x7D4
+The scorching sun beats down on me...%K%P
+
+0x7E0
+All I'm able to do right now is continue to hold her like this.%K%P
+
+0x818
+... ... ...%K%P
+

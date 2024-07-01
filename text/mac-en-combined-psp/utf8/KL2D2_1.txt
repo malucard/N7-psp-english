@@ -1,0 +1,222 @@
+text area offset and size:
+0x7A0
+0x1111
+0x138
+It's noon.%K%P
+
+0x144
+Kurumi and I are alone in Lunabeach.%K%P
+
+0x150
+That's right... In the end, Kurumi didn't go to the pool.%K%P
+
+0x15C
+I told Izumi-san "I didn't really want to go to the pool%Nanyway," ... In other words, I told her I'd stay behind and%Nnurse Kurumi.%K%P
+
+0x168
+(Of course, I already know she's faking her headache...)%K%P
+
+0x17C
+Izumi-san hesitated about accepting my proposal for a%Nwhile, but...%K%P
+
+0x188
+Izumi「Well, I'll leave Kurumi to you then.」%K%P
+
+0x19C
+... Shortly after she said that, everyone left to go to the%Npool...%K%N
+
+0x1A8
+...%K%P
+
+0x1D8
+Kurumi「Hey? Are... you hungry?」%K%P
+
+0x1E4
+Kurumi「Kurumi's starving...」%K%P
+
+0x1F0
+Makoto「I haven't had anything to eat all morning.」%K%P
+
+0x204
+Kurumi「Well then, shall Kurumi make something?」%K%P
+
+0x210
+Makoto「I'd be happy if you did, but... is your headache any%Nbetter?」%K%P
+
+0x21C
+I decide to feign ignorance.%K%P
+
+0x230
+Kurumi「Yep. It's completely gone♪」%K%P
+
+0x244
+Kurumi「... Anyway... what do you want to eat?」%K%P
+
+0x250
+I immediately respond.%K%P
+
+0x25C
+Makoto「Carbonara!!」%K%P
+
+0x270
+Kurumi「All right♪ Leave it to Kurumi♪」%K%P
+
+0x27C
+With those words, Kurumi disappears into the kitchen.%K%P
+
+0x310
+Kurumi's homemade carbonara tastes even more%Ndelicious than it did last time.%K%N
+
+0x31C
+I feel that her carbonara definitely outclasses%NIzumi-san's cooking from yesterday.%K%N
+
+0x328
+After we finish eating, we talk about Shigezo Morino and%Nthe rodents.%K%P
+
+0x33C
+... Several hours later, Kurumi seems very energetic%Nagain.%K%N
+
+0x348
+No, she never had a headache in the first place... She%Nwas just feeling lonely from not being able to go to the%Npool, but I can't feel any of that from her now.%K%N
+
+0x354
+Is Kurumi trying to act as cheerful as she can right now?%K%N
+
+0x360
+Or maybe she's not lonely at all because I've been by%Nher side the whole time.%K%P
+
+0x374
+%N
+
+0x380
+(Her scar... I wonder what Kurumi is thinking about right%Nnow?)%K%N%N
+
+0x38C
+It goes without saying that there's no way I can just%Nbring it up...%K%N
+
+0x398
+Not until Kurumi wants to bring it up herself... Until that time%Ncomes, I'll just continue to wait patiently.%K%P
+
+0x3A4
+Then, during that beautiful starry night on Lunabeach's%Nrooftop, Kurumi will quietly begin to talk about it...%K%P
+
+0x428
+Having completed phase one of my plan, I find that we%Nstill have plenty of time to spare.%K%P
+
+0x434
+Just then, I am struck with a good idea...%K%P
+
+0x440
+Makoto「Hey, Kurumi?」%K%P
+
+0x454
+Kurumi「Huh?」%K%P
+
+0x460
+Makoto「Do you believe in the power of premonitions?」%K%P
+
+0x46C
+Kurumi「The power of premonitions? By the 'power of%Npremonitions'... are you talking about precognition?」%K%P
+
+0x478
+Precog what...? What's that?%K%P
+
+0x484
+Makoto「Well, anyway, I'm talking about the special ability to%Nperceive specific events in the future before they%Noccur.」%K%P
+
+0x490
+Makoto「Kurumi, do you believe that such a special ability exists?」%K%P
+
+0x4A4
+Kurumi「Kurumi thinks it would be cool if it did～」%K%P
+
+0x4B0
+Kurumi「But... why are you asking?」%K%P
+
+0x4BC
+Makoto「Heh heh heh heh heh...」%K%P
+
+0x4D0
+Kurumi「?」%K%P
+
+0x4DC
+Makoto「The truth is, I have that power myself...」%K%P
+
+0x4F0
+Kurumi「Huh?」%K%P
+
+0x4FC
+Makoto「I guess just saying that isn't enough for you to believe%Nme, huh?」%K%P
+
+0x508
+Kurumi「Mmm...」%K%P
+
+0x514
+Makoto「All right then. Why don't I just prove it to you...?」%K%P
+
+0x520
+Kurumi「Are you going to accurately guess something that's%Ngoing to happen in the future?」%K%P
+
+0x52C
+Makoto「That's right.」%K%P
+
+0x540
+Kurumi「You're lying! That kinda thing's impossible for you～!」%K%P
+
+0x54C
+All right... Everything's going exactly as planned...%K%P
+
+0x558
+Makoto「Then how about we make a bet?」%K%P
+
+0x564
+Kurumi「A bet?」%K%P
+
+0x570
+Makoto「Yeah. If my predictions are correct, there's something I%Nwant you to do for me.」%K%P
+
+0x584
+Kurumi「???」%K%P
+
+0x590
+Kurumi tilts her head, and I explain the details of the bet%Nand the events that will happen in the near future.%K%P
+
+0x59C
+Here's my prediction...%K%P
+
+0x5A8
+"When Yuka returns to Lunabeach, she'll definitely be%Ndrunk."%K%P
+
+0x5B4
+"And then Yuka will point to a mug in your hand, and make%Na dumb joke that ends with the phrase 'Kurumilk'."%K%P
+
+0x5C0
+"After that, Yuka will say 'I want to eat fresh toro.'"%K%P
+
+0x5CC
+... I tell her those three events.%K%P
+
+0x5D8
+The bet itself is simple.%K%P
+
+0x5E4
+"If I'm right, then when Yuka talks about 'toro', you must%Nnot say 'let's go fishing!'"%K%P
+
+0x5F0
+And Kurumi...%K%P
+
+0x604
+Kurumi「All right, got it♪ You're on♪」%K%P
+
+0x610
+... cheerfully consents.%K%P
+
+0x61C
+If everything goes according to the plan, then none of%Nus will go fishing today.%K%P
+
+0x628
+And if we don't go fishing... that's right... the incident%Nwhere Saki gets swallowed up by that wave won't happen%K%P
+
+0x634
+―But will my plan succeed???%K%P
+

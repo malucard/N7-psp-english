@@ -1,0 +1,135 @@
+text area offset and size:
+0x450
+0x90B
+0x28
+... All that's left is to prevent Haruka's accident.%K%P
+
+0x34
+That'll be simple.%K%P
+
+0x40
+I just have to stop Haruka from going on that walk with%Nme...%K%N
+
+0x4C
+And then history should change.%K%P
+
+0xD0
+"8:43 P.M."―Haruka knocks on my door at the same%Ntime as last time.%K%P
+
+0xDC
+However, there's no way that I can accept Haruka's%Ninvitation.%K%P
+
+0xE8
+Haruka will be a little hurt by that, but that's unavoidable.%K%P
+
+0xF4
+Anything is preferable to that tragedy repeating...%K%P
+
+0x108
+Haruka「... Outside.」%K%P
+
+0x114
+Haruka「Would you like... to go outside?」%K%P
+
+0x120
+Haruka immediately invites me.%K%P
+
+0x12C
+It really hurts me to deceive Haruka, but the ends justify%Nthe means, as they say.%K%P
+
+0x138
+Well then, what should I say...?%K
+
+0x428
+I have a little headache.
+
+0x434
+I don't feel like it right now.
+
+0x180
+Makoto「... Sorry, I have a little headache...」%K%P
+
+0x194
+Makoto「... Sorry, I don't feel like it right now...」%K%P
+
+0x1A0
+Haruka「Huh...!?」%K%P
+
+0x1B4
+Haruka「Why not...?」%K%P
+
+0x1C0
+A very bewildered expression rises to Haruka's face.%K%P
+
+0x1CC
+(This is bad... could it be that she misunderstood me...?)%K%P
+
+0x1D8
+It looks like I'll have to use a more convincing excuse...%K%P
+
+0x1E4
+Makoto「Well, the truth is, I have a little headache...」%K%P
+
+0x1F8
+Haruka「What... really!? Are you all right?」%K%P
+
+0x204
+Makoto「No, it's pretty bad...」%K%P
+
+0x218
+Haruka「... I see... then, maybe next time?」%K%P
+
+0x22C
+She says that, and tries to leave the room.%K%P
+
+0x238
+Makoto「... W-Wait a minute!」%K%P
+
+0x24C
+I frantically reach out to her, grabbing her by the sleeve.%K%P
+
+0x258
+Makoto「Haruka... don't tell me that you're thinking about taking a%Nwalk alone, are you?」%K%P
+
+0x26C
+Haruka「Huh? Is that not good?」%K%P
+
+0x278
+Makoto「It isn't.」%K%P
+
+0x28C
+Haruka「Why's that...?」%K%P
+
+0x298
+Makoto「Because I'm worried...」%K%P
+
+0x2A4
+Makoto「Isn't it dangerous for a girl to take a walk at night?」%K%P
+
+0x2B0
+Makoto「If... If, by any chance, something were to happen to you, I%Ncouldn't go on living...」%K%P
+
+0x2C4
+Haruka「Yes... I understand... If you say so, Makoto...」%K%P
+
+0x2D0
+It seems that my last words were effective.%K%N
+
+0x2DC
+After all, those words were my emotions straight from my%Nheart...%K%P
+
+0x2E8
+Makoto「Then you absolutely won't go outside today?」%K%P
+
+0x2FC
+Haruka「Yes... Well then, I hope you sleep well.」%K%P
+
+0x310
+After Haruka leaves the room, I really do get a little%Nheadache.%K%P
+
+0x31C
+It seems like it's the accumulation of my prolonged%Nanxiety.%K%P
+
+0x328
+I crawl into my bed, and mere seconds later, I fall asleep...%K%P
+

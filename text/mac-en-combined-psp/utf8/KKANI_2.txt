@@ -1,0 +1,240 @@
+text area offset and size:
+0x690
+0x103C
+0x40
+Having been ditched by Kurumi, I go to Lunabeach to%Nsatisfy my hunger.%K%P
+
+0x4C
+Of course, I'm also concerned about what Kurumi said%Nearlier...%K%P
+
+0x60
+Izumi「Oh, Makoto-kun. Welcome♪」%K%P
+
+0x88
+When I enter the shop, Izumi-san greets me, smiling as%Nalways.%K%P
+
+0x94
+Izumi「Where's Kurumi? I heard the two of you were together.」%K%P
+
+0xA0
+Kurumi... Right. Kurumi said that Izumi-san has some sort%Nof connection to my college...%K%P
+
+0xAC
+Curious, I stare at Izumi-san's face.%K%P
+
+0xB8
+Izumi「...? Is there something on my face?」%K%P
+
+0xC4
+Makoto「Oh, no... there isn't.」%K%P
+
+0xD0
+Izumi「...」%K%P
+
+0xDC
+Makoto「...」%K%P
+
+0xE8
+Izumi「... So there really is something?」%K%P
+
+0xF4
+What should I do...?%K%P
+
+0x100
+Well, there's no harm in asking, I suppose...%K%P
+
+0x10C
+Makoto「Hey, I heard it from Kurumi, but...」%K%P
+
+0x118
+Izumi「...?」%K%P
+
+0x124
+Makoto「... Izumi-san, do you have some connection to my%Ncollege?」%K%P
+
+0x130
+Izumi-san instantly averts her gaze from me, and%Nanswers.%K%P
+
+0x13C
+Izumi「Hee hee hee... Geez, if Kurumi said it, I guess it can't be%Nhelped...」%K%P
+
+0x148
+Makoto「???」%K%P
+
+0x154
+Izumi「... The truth is, I'm a graduate from your college,%NMakoto-kun.」%K%P
+
+0x160
+Makoto「Huh!?」%K%P
+
+0x16C
+Izumi「Are you surprised?」%K%P
+
+0x178
+Makoto「Y-Yes... It was quite unexpected.」%K%P
+
+0x184
+Izumi「It's not like it was something I was trying to hide, but I%Nnever felt it was necessary to mention it...」%K%P
+
+0x190
+Izumi「Though I feel like I should have done so earlier...」%K%P
+
+0x19C
+Izumi「I suppose it's because it's embarrassing to think that%Nwe could have unwittingly missed each other on campus%N...」%K%P
+
+0x1A8
+(Oh... so that's all it was...)%K%P
+
+0x1B4
+(Izumi-san is a graduate from my college...)%K%P
+
+0x1C0
+(It really is a small world...)%K%P
+
+0x1CC
+What are the odds of that?%K%P
+
+0x214
+... ... ...%K%P
+
+0x24C
+Makoto「Whew～, thanks for the meal!」%K%P
+
+0x258
+Izumi-san's shrimp pilaf has finally satisfied my hunger.%K%P
+
+0x288
+Izumi-san cleans up the plates I ate off of with a happy%Nface.%K%P
+
+0x29C
+Izumi「By the way...」%K%P
+
+0x2A8
+Makoto「Yes?」%K%P
+
+0x2B4
+Izumi「Are you free from now on?」%K%P
+
+0x2C0
+Makoto「Huh? Y-Yeah, I'm free...」%K%P
+
+0x2CC
+Izumi「Have you heard from Yuka-chan? Everyone's gathering%Nhere at 5:00 today.」%K%P
+
+0x2D8
+Makoto「Yeah... What's happening at 5:00?」%K%P
+
+0x2EC
+Izumi「Hee hee hee... We're all having a barbecue♪」%K%P
+
+0x2F8
+Makoto「Wow.」%K%P
+
+0x304
+Izumi「So there's a lot of preparations that must be made...」%K%P
+
+0x310
+Makoto「I see, I see.」%K%P
+
+0x31C
+Izumi「But I'm running the shop, you know?」%K%P
+
+0x328
+Makoto「Yes.」%K%P
+
+0x334
+I have no idea where she's trying to go with this, so I just%Nnod my head.%K%P
+
+0x348
+Izumi「That's why I want you to help with the preparations as%Nwell.」%K%P
+
+0x354
+Makoto「I see...%T060 What?」%K%P
+
+0x3A0
+Izumi「Could you please help out?」%K
+
+0x668
+"Leave it to me."
+
+0x674
+"... I've got an errand."
+
+0x3F0
+Makoto「Yes, leave it to me, Izumi-san!」%K%P
+
+0x404
+Izumi「Really? You're a lifesaver～♪」%K%P
+
+0x418
+Izumi「Thank you, Makoto-kun♪」%K%P
+
+0x424
+Izumi-san takes my hand and grasps it tightly as she%Nsays this.%K%P
+
+0x430
+But maybe she's gripping it a little too tightly...%K%P
+
+0x43C
+(Is this really something to get overjoyed about?)%K%P
+
+0x448
+Although I think that, seeing Izumi-san's beaming smiling%Nface causes my heart to skip a beat.%K%P
+
+0x484
+Izumi「Can you do a favor for me?」%K%P
+
+0x490
+Makoto「... Crap! I just remembered! The truth is, there's something%NI have to do. Sorry, Izumi-san!」%K%P
+
+0x4A4
+Izumi「Whaaaat, really?」%K%P
+
+0x4B0
+Izumi-san pouts.%K%P
+
+0x4BC
+Of course, I have nothing to do. I just quickly came up%Nwith an excuse.%K%P
+
+0x4C8
+I don't think it's fair if I'm the only one helping out with%Npreparations.%K%P
+
+0x4D4
+Long story short... it's too much of a hassle.%K%P
+
+0x4E8
+Izumi「... I see. Then it can't be helped.」%K%P
+
+0x4F4
+Makoto「I'm really sorry.」%K%P
+
+0x500
+Izumi「No, it doesn't really matter. I was planning to go on my%Nown, anyway.」%K%P
+
+0x50C
+Izumi「Besides, as you can see, the shop's as empty as%Nalways... There's more than enough time to take care of%Neverything, so it should be okay.」%K%P
+
+0x518
+Makoto「... Right. Well, good luck. Thanks for the food.」%K%P
+
+0x52C
+Izumi「Yes. Well then, don't be late for the meeting time, okay?」%K%P
+
+0x538
+Makoto「Ha ha, I'll be fine.」%K%P
+
+0x544
+With those words, I leave Lunabeach.%K%P
+
+0x574
+... ... ...%K%P
+
+0x580
+Before long, the sun is setting, and the promised time%Narrives.%K%P
+
+0x58C
+We meet at Lunabeach, where we all pitch in carrying the%Ntools needed for the barbecue to Princess Beach.%K%P
+
+0x598
+And then...%K%P
+

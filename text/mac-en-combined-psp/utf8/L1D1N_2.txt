@@ -1,0 +1,606 @@
+text area offset and size:
+0x1110
+0x2CEB
+0x30
+"Then let's sneak in and check it out!"%K%N
+
+0x3C
+... To tell the truth, I was the one who said that, as an%Nicebreaker.%K%P
+
+0x48
+Nearly everyone agrees, but there's still one person%Nwho relentlessly protests.%K%P
+
+0x90
+Izumi「There, now you've seen it, right? Now let's hurry on back!」%K%P
+
+0xA4
+Izumi-san's hesitation is a little surprising.%K%P
+
+0xB0
+Then again, I'm also surprised that the others all agreed%Nto this.%K%P
+
+0xBC
+I only meant that proposal as a joke.%K%P
+
+0xC8
+Even so, to think we'd actually be doing this...%K%P
+
+0xDC
+Yuka「Somehow, this is a lot easier than I thought it'd be.」%K%P
+
+0xE8
+Yuka says this.%K%P
+
+0xF4
+Although she's whispering, I can tell she's excited.%K%P
+
+0x100
+Makoto「Well? What did I tell you?」%K%P
+
+0x10C
+I respond proudly.%K%P
+
+0x118
+This pool doesn't have a fence.%K%P
+
+0x124
+Instead, it's surrounded by hedges, so after we found a%Ngap, it was extremely easy for us to sneak in.%K%P
+
+0x130
+Fortunately, there's no one else here except for us...%K%P
+
+0x144
+Yuka「Ah! I know!」%K%P
+
+0x150
+Yuka's voice rises, as if she's just thought of something.%K%P
+
+0x15C
+Makoto「???」%K%P
+
+0x170
+Yuka「I'll go get my swimsuit!♪」%K%P
+
+0x17C
+Makoto「W-What!?」%K%P
+
+0x190
+Yuka「After all, we broke in successfully, so it'd be a complete%Nwaste if we didn't go swimming.」%K%P
+
+0x19C
+Makoto「...」%K%P
+
+0x1A8
+Yuka「Well then, I'll go back to the lodge and get my swimsuit...%Ntell the others for me!」%K%P
+
+0x1BC
+Makoto「Hey! Yuka, wait!」%K%P
+
+0x1C8
+Yuka leaves the pool without hearing me...%K%P
+
+0x1D4
+("I'll go back to the lodge"...)%K%P
+
+0x1E0
+Easier said than done. I think a round trip will take nearly%Nan hour...%K%P
+
+0x1EC
+Does she think we're just going to stay here that long?%K%P
+
+0x1F8
+Man... that Yuka... She's so selfish sometimes...%K%P
+
+0x20C
+... As I'm thinking, Saki comes over.%K%P
+
+0x218
+Suddenly, she starts talking to me.%K%P
+
+0x224
+Saki「It seems that all Japanese hotels are the same.」%K%P
+
+0x230
+Makoto「Huh?」%K%P
+
+0x23C
+Saki「The manager here clearly doesn't understand the%Nbeauty of Moon Beach...」%K%P
+
+0x248
+Saki's eyes are so passionate that they're scary.%K%P
+
+0x254
+Saki「No matter how hard humans try, they can't match up to%Nnatural beauty.」%K
+
+0x10B8
+"You're right."
+
+0x10C4
+"You think so?"
+
+0x29C
+Makoto「You're right.」%K%P
+
+0x2A8
+For the time being, I'll agree with her.%K%P
+
+0x2BC
+Saki「Aren't I...? These things are nothing more than worldly%Nrecreational facilities. Glad you get it.」%K%P
+
+0x2C8
+Satisfied, Saki leaves me with those words.%K%P
+
+0x2DC
+However, the truth is...%K%P
+
+0x2F0
+Makoto「You think so?」%K%P
+
+0x304
+Saki「Of course. These things are nothing more than crappy%Nrecreational facilities.」%K%P
+
+0x310
+Saki leaves me with those words.%K%P
+
+0x324
+I can't really sympathize with her.%K%P
+
+0x330
+All I can think of is how romantic this is, quite%Nuncharacteristic of me.%K%P
+
+0x33C
+By romantic, I mean the pool... The lights at the bottom of%Nit make the water look like it's glowing.%K%P
+
+0x348
+The scattering bundle of lights that shine to the sky%Nfrom the bottom of the pool make it closely resemble the%Ngates to Heaven.%K%P
+
+0x354
+The tips of light passing through the water are like a%Ndazzling, expanding country of light...%K%P
+
+0x368
+Okuhiko「Well, I guess this is nice...」%K%P
+
+0x374
+Okuhiko suddenly appears and says this, but he%Nspeaks in a somewhat affected tone.%K%P
+
+0x380
+Thanks to that, I am brought back to reality.%K%P
+
+0x39C
+Kurumi「Well? Now do you understand what Kurumi meant?」%K%P
+
+0x3A8
+This time, Kurumi speaks...%K%P
+
+0x3B4
+I respond to her question with a smile.%K%P
+
+0x3C8
+―Wait, where's Haruka...?%K%P
+
+0x3D4
+Glancing around, I quickly spot Haruka.%K%P
+
+0x3E0
+She's sitting alone by the poolside, dipping her feet in%Nthe water.%K%P
+
+0x424
+Every time she moves her slender legs, she creates tiny%Nripples that spread.%K%P
+
+0x430
+The flickering, wavering light reflects and shines on%NHaruka's entire body.%K%P
+
+0x43C
+I slowly walk towards her, as if I'm being drawn in.%K%P
+
+0x450
+I say nothing and silently sit down next to her.%K%P
+
+0x45C
+With the exception of the sound of splashing water, we%Nare wrapped up in stillness.%K%P
+
+0x468
+Kurumi「Geez, c'mon, try and catch Kurumi!」%K%P
+
+0x474
+Izumi「Hold on Kurumi, don't shout.」%K%P
+
+0x480
+On the opposite side of the pool, the two happy sisters%Nare playing together...%K%P
+
+0x48C
+As I think, the gentle evening breeze brushes against%Nmy skin...%K%P
+
+0x498
+It's filled with the scent of spring...%K%P
+
+0x4A4
+And Haruka... her nearly transparent figure, bathed by%Nthe pale light, is beautiful.%K
+
+0x10D0
+Ask her, "Does this feel good?"
+
+0x10DC
+Say nothing, just look at Haruka's face.
+
+0x4EC
+Makoto「Does this feel good?」%K%P
+
+0x4F8
+I ask this as I glance at her tiptoes, soaked in the water.%K%P
+
+0x504
+Haruka「... Yes.」%K%P
+
+0x510
+With that one word, my heart tightens up.%K%P
+
+0x51C
+Up until now, there hasn't been a single ounce of warmth%Nin her voice.%K%P
+
+0x528
+This might be the first time I've felt something like this%Nfrom Haruka.%K%P
+
+0x534
+... I don't know why, but my heart is filled with emotion.%K%P
+
+0x540
+When I realize my mind is in a flutter, I turn my gaze%Nacross the water's surface.%K%P
+
+0x554
+I say nothing and just look at Haruka's face.%K%P
+
+0x560
+She doesn't seem to notice I'm sitting next to her, as she%Ncontinues to dip her tiptoes in the water.%K%P
+
+0x56C
+Splash, splash...%K%P
+
+0x578
+Gazing at her face from the side, I suddenly notice%Nthere's something different in the way she's carrying%Nherself.%K%P
+
+0x584
+How do I put it in words...%K%P
+
+0x590
+It's like she's broken free of her bonds... as if she's%Nattained enlightenment...%K%P
+
+0x59C
+Those sad eyes... her pupils are like an optical illusion%Nthat I feel like I'm being sucked into.%K%P
+
+0x5A8
+Haruka「... This feels good.」%K%P
+
+0x5B4
+Makoto「Huh?」%K%P
+
+0x5C0
+I am caught off-guard by her sudden statement.%K%P
+
+0x5CC
+I don't quite know how to reply. ... Well, it's more than that.%K%P
+
+0x5D8
+With those words, my heart has tightened up.%K%P
+
+0x5E4
+Up until now, there hasn't been a single echo of warmth in%Nher words.%K%P
+
+0x5F0
+This might be the first time I've seen something like this%Nfrom Haruka.%K%P
+
+0x5FC
+... I don't know why, but my heart is filled with emotion.%K%P
+
+0x608
+When I realize my mind is in a flutter, I turn my gaze%Nacross the water's surface.%K%P
+
+0x61C
+The shimmering lights dance before my eyes, blurring%Nthem.%K%P
+
+0x628
+The swaying water makes me dizzy.%K%P
+
+0x634
+The country of light... feels like it could swallow me up at%Nany time...%K%P
+
+0x66C
+My field of vision slowly begins to grow hazy...%K%P
+
+0x678
+A drifting sense of fatigue wraps up my body.%K%P
+
+0x684
+My consciousness becomes faint.%K%P
+
+0x690
+(... Just where... am I...?)%K%P
+
+0x724
+Suddenly, I come to my senses.%K%P
+
+0x730
+On the opposite side of the pool, Izumi-san and Kurumi%Nare still playing with each other.%K%P
+
+0x73C
+Izumi「Hey! If you don't cut it out, I'll get mad!」%K%P
+
+0x748
+Kurumi「Heh heh, catch Kurumi if you can!」%K%P
+
+0x754
+Kurumi stands close by the pool's edge, egging%NIzumi-san on.%K%P
+
+0x760
+Izumi-san, trying to catch Kurumi, begins to carefully%Nclose the distance between them.%K%P
+
+0x76C
+Soon enough...%K%P
+
+0x778
+Izumi「There, I've got you now!」%K%P
+
+0x784
+... Izumi-san finally grabs Kurumi by her sleeve.%K%P
+
+0x790
+―Just then, at that exact moment!%K%P
+
+0x7D0
+The ground suddenly begins to shake.%K%P
+
+0x7DC
+The calm surface of the water is disturbed by ripples%Nthat begin to violently form.%K%P
+
+0x7E8
+The bundle of light shatters into pieces as it scatters%Nout in all directions.%K%P
+
+0x7F4
+By the time I notice it, it's already too late.%K%P
+
+0x81C
+A giant sheet of water shoots up as Izumi-san falls into%Nthe pool.%K%P
+
+0x828
+Only Kurumi remains on the poolside, looking like she%Nsacrificed Izumi-san to save herself (is this what you'd%Ncall "determination"?).%K%P
+
+0x834
+Izumi-san's face, sticking out of the pool's surface, has%Nan expression like that of a scared stiff little kid...%K%P
+
+0x88C
+Suddenly, I come to my senses.%K%P
+
+0x898
+On the opposite side of the pool, Izumi-san and Kurumi%Nare playing with each other.%K%P
+
+0x8A4
+(What!?)%K%P
+
+0x8B0
+Izumi「Hey! If you don't cut it out, I'll get mad!」%K%P
+
+0x8BC
+Kurumi「Heh heh, catch Kurumi if you can!」%K%P
+
+0x8C8
+Kurumi stands close by the pool's edge, egging%NIzumi-san on.%K%P
+
+0x8F0
+(It's happening again...)%K%P
+
+0x8FC
+I understand it now.%K%P
+
+0x908
+(This is the same thing that happened earlier...)%K%P
+
+0x914
+(It's the same thing that happened when Haruka fell down%Non Moon Beach...)%K%P
+
+0x920
+As I'm thinking all of this, Izumi-san begins to carefully%Nclose the distance between her and Kurumi.%K%P
+
+0x92C
+I quickly call out to her.%K%P
+
+0x938
+Makoto「Don't do it, Izumi-san!」%K%P
+
+0x944
+Izumi-san glances in my direction.%K%P
+
+0x950
+However, soon enough, she looks back at Kurumi, her%Nlegs still in motion.%K%P
+
+0x95C
+Makoto「Izumi-san!」%K%P
+
+0x968
+Makoto「Kurumi!」%K%P
+
+0x974
+I try raising my voice even more, but it doesn't seem like%Neither of them can hear me.%K%P
+
+0x9C8
+This isn't working out. I have to give them a more general%Nwarning. With that, I...%K
+
+0x10E8
+"Izumi-san, an earthquake's coming!!"
+
+0x10F4
+Run over to them.
+
+0xA08
+This isn't working out. I have to give them a more general%Nwarning. With that, I...%K%P
+
+0xA14
+Makoto「Izumi-san, an earthquake's coming!!」%K%P
+
+0xA20
+... try shouting.%K%P
+
+0xA2C
+Hearing my words, Kurumi turns towards me.%K%P
+
+0xA38
+But by taking that chance...%K%P
+
+0xA44
+Izumi「There, I've got you now!」%K%P
+
+0xA50
+... Izumi-san finally... grabs Kurumi by the sleeve.%K%P
+
+0xABC
+I already know what's going to happen...%K%P
+
+0xAC8
+The ground shakes, the pool ripples, and the lights fly%Naround in random directions.%K%P
+
+0xAD4
+By now, it's too late...%K%P
+
+0xAFC
+A giant sheet of water shoots up as Izumi-san falls into%Nthe pool.%K%P
+
+0xB08
+Her face emerges from the pool... with a frightened look%Non it. Absolutely nothing has changed from what I saw...%K%P
+
+0xB48
+... Soon enough, the ground calms down...%K%N
+
+0xB7C
+... The surface of the pool is once again still.%K%P
+
+0xB88
+Izumi-san has climbed out of the pool, and is completely%Nsoaked from head to toe.%K%P
+
+0xB94
+The completely dry Kurumi, and the utterly soaked%NIzumi-san...%K%P
+
+0xBA0
+The sisters stare at each other's faces...%K%P
+
+0xBAC
+... And suddenly, they begin to laugh.%K%P
+
+0xBC8
+Their happy laughter feels like a testament of their%Nrelationship.%K%P
+
+0xBD4
+Those two continue to laugh with no signs of stopping...%K%P
+
+0xBE0
+(Haah... Oh brother...)%K%P
+
+0xBEC
+I let out a sigh, and face the other side of the pool.%K%P
+
+0xBF8
+If they continue like this, their laughter may reach the%Nsun.%K%P
+
+0xC04
+Their two voices reverberate off the wall of the hotel,%Nresounding louder and louder.%K%P
+
+0xC10
+As a result, we soon hear a security guard shouting as%Nloud as thunder...%K%P
+
+0xC3C
+I run towards them.%K%P
+
+0xC48
+I know what's going to happen. This is probably... Anyway,%NI have to save them!%K%P
+
+0xC54
+Izumi-san slowly approaches Kurumi.%K%P
+
+0xC60
+... Will I make it?%K%P
+
+0xC6C
+Makoto「Izumi-san, wait!!」%K%P
+
+0xC78
+I shout.%K%P
+
+0xC8C
+Izumi「Kurumi, prepare yourself!」%K%P
+
+0xCA0
+But Izumi-san doesn't hear me.%K%P
+
+0xCAC
+Makoto「Kurumi, an earthquake's coming! Get away from the pool%Nright now!」%K%P
+
+0xCB8
+This time, I shout at Kurumi.%K%P
+
+0xCCC
+Kurumi「Huh? What did... you say?」%K%P
+
+0xCE0
+Kurumi's attention shifts from Izumi-san to me.%K%P
+
+0xCEC
+... But, at that moment!%K%P
+
+0xCF8
+Izumi「There, I've got you now!」%K%P
+
+0xD04
+... Izumi-san finally... grabs Kurumi by the sleeve.%K%P
+
+0xD70
+I already know what's going to happen...%K%P
+
+0xD7C
+The ground shakes, the pool ripples, and the lights fly%Naround in random directions.%K%P
+
+0xD88
+By now, it's too late...%K%P
+
+0xDB0
+A giant sheet of water shoots up as Izumi-san falls into%Nthe pool.%K%P
+
+0xDBC
+Her face emerges from the pool... with a frightened look%Non it. Absolutely nothing has changed from what I saw...%K%P
+
+0xDFC
+... Soon enough, the ground calms down...%K%N
+
+0xE30
+... The surface of the pool is once again calm.%K%P
+
+0xE3C
+(Hah... Oh brother...)%K%P
+
+0xE48
+I let out a sigh, and run over to where Izumi fell.%K%P
+
+0xEA8
+Izumi-san has climbed out of the pool, and is completely%Nsoaked from head to toe.%K%P
+
+0xEB4
+The dry Kurumi, and the soaked Izumi-san...%K%P
+
+0xEC0
+The sisters stare at each other's faces...%K%P
+
+0xECC
+... And suddenly, they begin to laugh.%K%P
+
+0xED8
+Their happy laughter feels like a testament of their%Nrelationship.%K%P
+
+0xEE4
+Those two continue to laugh with no signs of stopping...%K%P
+
+0xEF0
+If they continue like this, their laughter may reach the%Nsun.%K%P
+
+0xEFC
+Their two voices reverberate off the wall of the hotel,%Nresounding loudly and loudly.%K%P
+
+0xF08
+As a result, we soon hear a security guard shouting as%Nloud as thunder...%K%P
+

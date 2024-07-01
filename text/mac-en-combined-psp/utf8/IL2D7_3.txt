@@ -1,0 +1,165 @@
+text area offset and size:
+0x7F0
+0xA42
+0xC0
+Makoto「Izumi-san...」%K%P
+
+0xCC
+Makoto「There's something I have to tell you, Izumi-san.」%K%P
+
+0xD8
+Izumi「... All right.」%K%P
+
+0xF4
+Makoto「Right now... I have my answer to what you told me that%Nnight, so here it is...」%K%P
+
+0x100
+Makoto「Right here... right now...」%K%P
+
+0x11C
+Makoto「Izumi-san... I... love you too.」%K%P
+
+0x128
+Izumi「...」%K%P
+
+0x134
+Makoto「'Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.'」%K%P
+
+0x148
+Izumi「You... remembered...」%K%P
+
+0x154
+Makoto「...」%K%P
+
+0x168
+Izumi-san doesn't wait for my reply.%K%N
+
+0x174
+She suddenly throws aside the umbrella...%K%P
+
+0x1FC
+Makoto「...」%K%P
+
+0x208
+... and kisses me... on the lips.%K%P
+
+0x214
+Makoto「Izumi... san...」%K%P
+
+0x220
+This is the goddess'... gentle kiss...%K%P
+
+0x22C
+We're currently... carrying out... our feelings.%K%P
+
+0x378
+Makoto「Izumi-san... sorry♪」%K%P
+
+0x38C
+Izumi「... Huh!?」%K%P
+
+0x398
+Makoto「I betrayed you♪」%K%P
+
+0x3A4
+Izumi「What do... you mean?」%K%P
+
+0x3B0
+Makoto「Ha ha, ha ha, ha ha ha ha ha...」%K%P
+
+0x3BC
+Izumi「...」%K%P
+
+0x3D0
+Izumi-san's shoulders shake.%K%P
+
+0x3DC
+I... I...%K%P
+
+0x3FC
+―All I can do is continue to fake laughing.%K%P
+
+0x408
+Just then...%K%P
+
+0x42C
+Kurumi「Fooled you♪」%K%P
+
+0x454
+Makoto「UWAAAAAA～～～～～!!!!!」%K%P
+
+0x460
+My heart nearly leaps out of my chest in shock.%K%P
+
+0x474
+Kurumi「Were you surprised? Were you surprised?」%K%P
+
+0x480
+Kurumi asks this gleefully.%K%P
+
+0x49C
+Izumi「Hee... hee hee...」%K%P
+
+0x4A8
+Izumi-san's shaking shoulders...%K%N
+
+0x4B4
+... Were because she was trying to hide her laughter???%K%P
+
+0x4C8
+In quick succession, everyone reveals themselves.%K%P
+
+0x510
+Yuka, Saki, and Haruka... Everyone is laughing their guts%Nout.%K%P
+
+0x51C
+(Wh-What's going on?)%K%P
+
+0x528
+... They then explain it to me.%K%P
+
+0x534
+All the events that have happened up until now has%Nbeen planned by Kurumi, in her "Twisty Twist With Yet%NAnother Twist Candid Camera-esque Plan".%K%P
+
+0x540
+In other words, "Extending the lodge in order to deceive%NOkuhiko" was part of it...%K%P
+
+0x54C
+"Kurumi leaving after the first day" was part of it...%K%N
+
+0x558
+"Yuka, Haruka, and Saki tempting Makoto one by one"%Nwas part of it...%K%P
+
+0x564
+―Everything was planned out!!%K%P
+
+0x570
+However, Okuhiko was the only one who didn't know%Nabout this, so he really was being deceived.%K%P
+
+0x57C
+In other words, there had been two Candid%NCamera-esque plans going on simultaneously in the%Npast four days.%K%P
+
+0x588
+I stand there completely dumbfounded.%K%N
+
+0x594
+I'm just like Okuhiko last night...%K%P
+
+0x5B8
+Suddenly, as they continue to laugh, Izumi-san catches%Nmy attention.%K%P
+
+0x5C4
+There are tears in her eyes.%K%P
+
+0x5D0
+I-Is how I look right now really that funny!?%K%P
+
+0x5DC
+... But within her face, I see a twinge of sorrow appearing%Nand disappearing. Is it just my imagination...?%K%P
+
+0x5F0
+At that moment, a "bell" falls from Izumi-san's hand...%K%P
+
+0x5FC
+It's that "bell"...%K%P
+

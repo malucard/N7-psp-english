@@ -1,0 +1,753 @@
+text area offset and size:
+0x14C0
+0x3AB3
+0x70
+As her back is turned to me, I can't see Haruka's face,%Nbut Saki's has a strange frown on it.%K%P
+
+0x7C
+I rush over to them, the incident from two days ago%Nrushing around in my head.%K%P
+
+0x88
+Makoto「What are you two talking about!?」%K%P
+
+0x94
+When she hears my voice, Saki turns her back away as if%Nintending to run away.%K%P
+
+0xA8
+Makoto「Saki!」%K%P
+
+0xB4
+Without turning around, she starts to run towards her%Nsummer house.%K%P
+
+0xC0
+Feeling it's not worth the chase, I turn about to Haruka.%K%P
+
+0xD4
+What I see leaves me dumbfounded.%K%P
+
+0xE0
+Haruka is smiling widely.%K%P
+
+0xEC
+Makoto「Haruka... what happened?」%K%P
+
+0xF8
+Haruka「You're late, Makoto. Come on, let's go.」%K%P
+
+0x10C
+When I look towards her smiling face, Haruka lightly walks%Nout onto the forest road.%K%P
+
+0x118
+Haruka「Hurry, hurry!」%K%P
+
+0x124
+Makoto「Y-Yeah... I'm coming.」%K%P
+
+0x130
+As I follow Haruka, I fall into deep thought.%K%P
+
+0x13C
+So something did happen between them.%K%P
+
+0x148
+But she doesn't want to bring it up.%K%P
+
+0x154
+That means Haruka's...%K%P
+
+0x1D8
+When we arrive at the pier, I try set up the fishing gear,%Njust like yesterday.%K%P
+
+0x1E4
+However, I only do so half-heartedly, since my mind's%Npressed on other matters, such as what happened this%Nmorning. Just what happened between Haruka and Saki,%Nanyway?%K%P
+
+0x1F0
+Haruka, who doesn't know about my speculating, is%Nhaving a lot of fun.%K%P
+
+0x1FC
+While I'm spacing out, she quickly starts setting up her%Nown fishing gear. I know very well that she's excited.%K%P
+
+0x208
+It seems that yesterday's session got her completely%Nhooked on fishing.%K%P
+
+0x214
+She grips her fishing rod, and after finishing setting it up,%Nshe casts it out into the ocean, just like me.%K%P
+
+0x220
+She's a fast learner. As expected from an honor%Nstudent like her. I force myself to think about trivial%Nthings liked that.%K%P
+
+0x22C
+Even so, I can't stop myself from thinking about Haruka%Nand Saki.%K%P
+
+0x240
+Haruka「All right, let's go.」%K%P
+
+0x24C
+Makoto「Say... Haruka...?」%K%P
+
+0x258
+Haruka「What?」%K%P
+
+0x264
+"I want you to tell me what really happened between you%Nand Saki." But before I can say this...%K%P
+
+0x2DC
+We hear a tremendous noise breaking out from the%Nbottom of the earth.%K%P
+
+0x2E8
+*Rumble, Rumble, Rumble!* The pier shakes intensely.%K%P
+
+0x2F4
+―It's an earthquake.%K%P
+
+0x308
+Haruka「Aah...!」%K%P
+
+0x31C
+Haruka gulps in astonishment and staggers. I've got to%Nhold on to her!%K%P
+
+0x328
+At the same moment I think that, the ground sways%Nintensely.%K%P
+
+0x334
+Haruka and I embrace each other, then we're thrown into%Nthe air. We crash onto the ground and roll. We can't stop.%K%P
+
+0x340
+As we continue to roll, we try to get caught between the%Npier's stairs to stop ourselves. The tremors also slowly%Nfade...%K%P
+
+0x390
+Once I calm down, I help Haruka sit up, and look at her. I've%Nbeen left speechless.%K%P
+
+0x39C
+Haruka's black pupils have completely captivated me.%K I%Njust stand there paralyzed by their mesmerizing beauty,%Neven though it feels like she could faint or shut her%Neyes at any moment.%K%P
+
+0x3A8
+Makoto「...」%K%P
+
+0x3B4
+Haruka「...」%K%P
+
+0x3C0
+Makoto「Ah... Umm...」%K%P
+
+0x3CC
+Haruka「...」%K%P
+
+0x3D8
+Makoto「Err... I, uh...」%K%P
+
+0x418
+Haruka「... Th-That was surprising.」%K%P
+
+0x424
+Makoto「Huh?」%K%P
+
+0x430
+Haruka「Weren't you surprised?」%K%P
+
+0x43C
+Makoto「Y-Yeah... didn't see that coming...」%K%P
+
+0x448
+Haruka「Right...」%K%P
+
+0x478
+Haruka silently nods, and we let go of each other's%Nhands as she stands up.%K%P
+
+0x48C
+Haruka「Umm...」%K%P
+
+0x498
+Makoto「Err...」%K%P
+
+0x4A4
+We say it at the same time. We look away from each other,%Nand fall silent.%K%P
+
+0x4B0
+A flock of seagulls come flying from the ocean, and let%Nout a loud cry all at once. I nervously open my mouth.%K%P
+
+0x4BC
+Makoto「... What were you going to say?」%K%P
+
+0x4D0
+Haruka「No, it's nothing, nothing at all...」%K%P
+
+0x4DC
+Makoto「That's not true, is it?」%K%P
+
+0x4F0
+Haruka「Then you go first.」%K%P
+
+0x4FC
+Makoto「No, go ahead...」%K%P
+
+0x508
+Haruka「I'm fine.」%K%P
+
+0x514
+Makoto「'I'm fine,' you say...」%K%P
+
+0x520
+Haruka「...」%K%P
+
+0x52C
+Makoto「...」%K%P
+
+0x5A0
+―In the time that exchange happened, the morning%Npassed by.%K%P
+
+0x5AC
+As usual, we went to Lunabeach for lunch, then returned%Nto the pier.%K%P
+
+0x5B8
+In that time, the awkwardness between us has faded%Naway as Haruka regained her cheerfulness.%K%P
+
+0x5C4
+As usual, Haruka is enthusiastically fishing, and as%Nusual, she releases all of the fish she catches.%K%P
+
+0x5D0
+As for me... my fishing rod isn't even twitching, as usual%N(to use the phrase one more time).%K%P
+
+0x5E4
+Haruka「You're not doing too well. You have no talent for this, do%Nyou?」%K%P
+
+0x5F0
+Damn. She's saying that even though she started%Nfishing yesterday...%K%P
+
+0x5FC
+But the truth is that I haven't caught a single fish, while%NHaruka seems to be learning so many skills that she's%Ndeveloping her own technique...%K%P
+
+0x608
+She really is an unbelievably fast learner... I'm jealous.%K%P
+
+0x640
+Haruka「Here, look here, Makoto♪」%K%P
+
+0x64C
+It seems she caught another fish.%K%N
+
+0x658
+I look at it while gripping my fishing rod.%K%P
+
+0x664
+The fish violently scatters water around.%K%N
+
+0x670
+A drop of water hits Haruka in the face.%K%N
+
+0x67C
+Haruka grimaces from the cold.%K%P
+
+0x688
+Seeing that takes me aback, and it feels like my heart's%Nbeen pierced.%K%P
+
+0x694
+Haruka's smile, accompanying the blush on her face, is%Ntruly human.%K%N
+
+0x6A0
+I would never have expected to see that from the%NHaruka of three days ago...%K%P
+
+0x6AC
+Before long, Haruka releases the fish and faces me.%K%P
+
+0x6FC
+Haruka「Makoto, do you think fish also have hearts?」%K
+
+0x1480
+"I do."
+
+0x148C
+"I wouldn't know."
+
+0x744
+Makoto「Yeah, I definitely do.」%K%P
+
+0x750
+Haruka「... I see.」%K%P
+
+0x764
+Makoto「I wouldn't know... I'm not a fish.」%K%P
+
+0x770
+Haruka「... That's true.」%K%P
+
+0x77C
+Makoto「Well... that doesn't necessarily mean that they don't.」%K%P
+
+0x7A4
+Haruka「Have you ever read... 'The Little Mermaid'?」%K%P
+
+0x7B0
+Makoto「W-Well... a little...」%K%P
+
+0x7BC
+I've never read it, but it's that story by Andersen, right?%NFor the time being, I'll pretend I know it.%K%P
+
+0x7C8
+Haruka「You know there was this mermaid princess who fell in%Nlove with a human prince, right?」%K%P
+
+0x7D4
+Makoto「Yeah, that's right. She struck a deal with a sea witch to%Nbecome human in exchange for her most important%Npossession... What about it?」%K%P
+
+0x7E0
+Haruka「That part doesn't matter...」%K%P
+
+0x7EC
+Makoto「Oh, I see...」%K%P
+
+0x7F8
+I'm heartbroken. Even though I did my best to remember%Nall of that...%K%P
+
+0x804
+Haruka「In the end, she dissolves into foam in the ocean...」%K%P
+
+0x810
+Makoto「...」%K%P
+
+0x81C
+Haruka「She sacrificed herself to save the prince's life. But%Nbecause she wasn't human, because she had no soul,%Nshe couldn't go to heaven. She just became foam. That's%Nall...」%K%P
+
+0x828
+Makoto「N-No, but she saved the prince she loved...」%K%P
+
+0x834
+Haruka「The prince never realized that the mermaid princess%Nloved him, or that she saved his life...」%K%P
+
+0x840
+Makoto「...」%K%P
+
+0x84C
+I understand. I really do understand. A fish's heart? The%Nmermaid princess' feelings?%K%P
+
+0x858
+They don't mean anything. That's not what Haruka wants%Nto say!%K%P
+
+0x864
+But because I understand what she's alluding to, I can't%Nseem to find the right words to respond.%K%P
+
+0x870
+Haruka「I'm a little thirsty.」%K%P
+
+0x87C
+Her voice is cracked. I force myself to reply in a cheerful%Ntone.%K%P
+
+0x888
+Makoto「Okay then, leave it to me! Wait here, will you?」%K%P
+
+0x8D0
+I stand up, and head towards the market.%K%P
+
+0x8DC
+It's as if I'm trying to avoid looking at Haruka.%K%P
+
+0x8E8
+No, I might not want to look at her.%K%P
+
+0x8F4
+I only want to look at the cheerful Haruka.%K%P
+
+0x900
+I want her to look away from the problem she thinks she%Nhas from being a clone.%K%P
+
+0x90C
+... Before long, I return to the pier...%K%P
+
+0x918
+... And am left standing stock-still and dumbfounded.%K%P
+
+0x924
+Haruka... has disappeared...%K%P
+
+0x930
+I come to my senses, and look at the water from the tip%Nof the bank.%K%P
+
+0x93C
+I desperately stare...%K%P
+
+0x948
+Wait, what the hell am I thinking?%K%P
+
+0x954
+Of course Haruka didn't turn into foam in the water...%K%P
+
+0x9C0
+I enter the shopping district to look for Haruka.%K%P
+
+0x9CC
+A fisherman told me "It seems that she was headed%Ntowards the shopping district."%K%P
+
+0x9D8
+However, I can't find Haruka even in this narrow street.%K%P
+
+0x9E4
+(Could it be... that she's running away from me?)%K%P
+
+0x9F0
+(... Why would she go that far?)%K%P
+
+0x9FC
+My mind is thrown into intense disorder.%K%P
+
+0xA84
+While searching for Haruka, I ended up here before I%Neven knew it.%K%P
+
+0xA90
+As I look around aimlessly and restlessly, Kurumi calls%Nout to me.%K%P
+
+0xAA4
+Kurumi「Huh? Onii-chan, weren't you with Haruka-san?」%K%P
+
+0xAB0
+Makoto「Hmm? W-Well, not really...」%K%P
+
+0xABC
+It'd be troublesome to explain the situation to Kurumi.%K%N
+
+0xAC8
+So that's why I'm lying to her.%K%P
+
+0xAD4
+Kurumi「Oh, so Kurumi was wrong. Then she should have called%Nout to her.」%K%P
+
+0xAE0
+Makoto「Huh? By 'should have called out to her', does that mean%Nyou 'didn't call out to her'? What do you mean?」%K%P
+
+0xAEC
+Kurumi「What are you saying? Isn't it obvious? Kurumi should%Nhave called out to Haruka-san.」%K%P
+
+0xAF8
+Makoto「Kurumi! You met up with Haruka!?」%K%P
+
+0xB04
+Kurumi「Not really. Kurumi only saw her.」%K%P
+
+0xB10
+Makoto「Why didn't you say that earlier!? Where did she go!?」%K%P
+
+0xB1C
+Kurumi「What's this... so you two really were together?」%K%P
+
+0xB28
+Makoto「It doesn't matter, where is she!?」%K%P
+
+0xB34
+Kurumi「She went that way, towards Moon Beach.」%K%P
+
+0xB48
+Without another word, I start running. Kurumi's half-angry%Nvoice reaches my ears.%K%P
+
+0xB54
+Kurumi「Hey, why is it just 'Haruka-san this, Haruka-san that'?%NStupid Onii-chan!」%K%P
+
+0xB60
+I have far more important problems right now. Now's not%Nthe time to hang out with this spoiled kid.%K%P
+
+0xBB0
+I jump down to Moon Beach.%K%P
+
+0xBBC
+I instantly spot Haruka. When I look around, I can see the%Nentire white, sandy beach that stretches out as far as%Nthe eye can see.%K%PThere is nothing blocking my field of vision, save for a lone,%Nconspicuous figure near a rock wall.%K%P
+
+0xBC8
+Although the sand is tripping me up, I run to the rock wall%Nas fast as I can.%K%P
+
+0xBD4
+Just then...%K%N
+
+0xBE0
+Saki shows up on the opposite side of the beach.%K%P
+
+0xBEC
+She's closer to Haruka than I am.%K%N
+
+0xBF8
+Saki heads straight towards Haruka, who steels herself%Nand goes out to meet Saki once she notices her.%K%P
+
+0xC04
+They instantly begin to quarrel about something, just like%Nthey did back then, just before the high wave struck the%Npier.%K%P
+
+0xC10
+I feel my heart beating hard. I take a large roundabout%Npath so they don't notice me, and hide myself on the%Nopposite side of the shade of the rock.%K%P
+
+0xC1C
+I can hear them arguing.%K%P
+
+0xC38
+Saki「Stop accusing me. I don't have it anymore.」%K%P
+
+0xC44
+Haruka「You're lying. You took it away.」%K%P
+
+0xC50
+"Took it away"? Took what?%K%P
+
+0xC5C
+Saki「Ow! Let me go!」%K%P
+
+0xC68
+Haruka「No, I won't.」%K%P
+
+0xC74
+Saki「Do you intend to threaten me forever?」%K%P
+
+0xC80
+Haruka「Then just give it back to me.」%K%P
+
+0xC8C
+Saki「I didn't want to see it again!」%K%P
+
+0xC98
+Haruka「Please, stop lying!」%K%P
+
+0xCA4
+Saki「I'm not lying!」%K%P
+
+0xCB0
+Haruka「You're lying! You're lying! Give it back! Give me back that%N'bell'!」%K%P
+
+0xCD8
+―"Bell"!? Did she just say "bell"!?%K%N
+
+0xCE4
+The thing Saki stole from Haruka was a "bell"!?%K%P
+
+0xCF0
+And in that instant!%K%P
+
+0xD04
+A scene flies by my mind...%K%P
+
+0xD10
+That hopeless... dream I had... on the morning of the 1st...%K%P
+
+0xD1C
+(It couldn't be that the bell they're talking about... is THAT%Nbell!?)%K%P
+
+0xD28
+No, that's impossible...%K%N
+
+0xD34
+That's impossible...%K%P
+
+0xD48
+I shake my head countless times to shake off that%Ndelusion.%K%P
+
+0xD54
+(Anyway, right now, I've got to do something about this%Nsituation...)%K%P
+
+0xD60
+When I think that, I peek out from the shade of the rock%Nwall, and observe those two.%K%P
+
+0xD6C
+Their quarrel has now gotten to a physical level, for the%Ntwo are grappling.%K%P
+
+0xD78
+Saki manages to shake Haruka's hands off her, and%Nslowly draws back.%K%P
+
+0xD84
+Haruka steadily closes the distance between her and%NSaki as she throws a furious glare at her.%K%P
+
+0xD90
+Saki slowly shakes her head.%K%P
+
+0xD9C
+Haruka grabs Saki's hand again, but this time― Saki%Nthrusts Haruka away with all her strength!%K%P
+
+0xDA8
+Haruka falls flat on her back.%K%N
+
+0xDB4
+A cloud of sand blows up and rolls into a small ball, like a%Nshrimp.%K%P
+
+0xDC0
+Saki shakes her head once again, trembling slightly, and%Nimmediately breaks off into a run.%K%P
+
+0xDCC
+I run out from behind the rock wall and immediately rush%Nover to Haruka's side.%K It seems she's lost%Nconsciousness.%K%P
+
+0xDD8
+I lift Haruka up in my arms and shake her body.%K%P
+
+0xDE4
+Makoto「Haruka! Haruka! Hang in there!」%K%P
+
+0xDF0
+While I shake her, my mind flashes back to the night of%Nthe 1st.%K%P
+
+0xDFC
+It was definitely here... on Moon Beach. Back then, I%Npicked up the "bell"... I threw it into the ocean because it%Nscared me for no reason.%K%P
+
+0xE08
+If that "bell" is connected to Haruka and Saki somehow,%Nthen what is the meaning of the dream I had?%K%P
+
+0xE14
+Makoto「Haruka!」%K%P
+
+0xE20
+Suddenly, Haruka's eyes open and move around%Nrestlessly.%K%P
+
+0xE3C
+Haruka「Makoto...?」%K%P
+
+0xE50
+I silently nod. Haruka raises half her body up, and blankly%Nstares into my eyes as I do the same to her.%K
+
+0x1498
+Offer my hand to Haruka.
+
+0x14A4
+Continue to look at Haruka.
+
+0xEB4
+I stretch my hand out to Haruka.%K%P
+
+0xEC0
+Haruka quickly yet calmly takes my hand into her own...%K%P
+
+0xECC
+I grasp Haruka's hand tightly...%K%N
+
+0xED8
+As if to wrap her up in kindness...%K%P
+
+0xEE4
+Makoto「I was looking for you...」%K%P
+
+0xEF8
+In that moment, Haruka's eyes suddenly overflow with%Ntears.%K%P
+
+0xF30
+Haruka firmly squeezes back.%K%P
+
+0xF3C
+I stroke her soft cheeks with my other hand.%K%P
+
+0xF48
+During this, Haruka lets out small sobs...%K%P
+
+0xF54
+Her tears fall onto the back of my hand one by one.%K%P
+
+0xF60
+Such... warm tears...%K%P
+
+0xF6C
+Makoto「Haruka...」%K%P
+
+0xF9C
+I continue to look at Haruka.%K%P
+
+0xFA8
+Haruka averts her gaze from me.%K%P
+
+0xFB4
+Makoto「...」%K%P
+
+0xFC0
+Haruka「...」%K%P
+
+0xFCC
+Even so, I continue to peer into Haruka's eyes.%K%P
+
+0xFD8
+As if I don't want to lose sight of them again...%K%N
+
+0xFE4
+As if I don't want her to forget about me...%K%P
+
+0xFF0
+Makoto「I was looking for you...」%K%P
+
+0x1004
+In that moment, Haruka's eyes suddenly overflow with%Ntears.%K%P
+
+0x103C
+She lets out small sobs...%K%P
+
+0x1048
+Her teardrops fall onto the the sandy beach, falling%Ndown one by one...%K%P
+
+0x1054
+Makoto「Haruka...」%K%P
+
+0x10DC
+Haruka and I head towards Lunabeach.%K%P
+
+0x10E8
+It's almost time to meet Yuka and the others.%K%P
+
+0x10F4
+―After that incident, Haruka and I just quietly passed%Nthe time together.%K%P
+
+0x1100
+All while listening to the sea breeze and the roar of the%Nwaves...%K%P
+
+0x110C
+We just let time flow by, and even though there was%Nnothing at the beach, the calmness slowly healed%NHaruka's heart.%K%P
+
+0x1118
+I didn't ask Haruka anything.%K%P
+
+0x1124
+Nothing about the bell, about Saki, or why she even left%Nme at the pier. None of that mattered anymore.%K%P
+
+0x1130
+I just watched over Haruka.%K%P
+
+0x113C
+I felt that that was all I could do...%K%P
+
+0x1148
+Haruka, who's walking beside me, suddenly grabs my arm.%K%P
+
+0x1154
+Makoto「...?」%K%P
+
+0x1184
+Haruka「Will you... will you always help me?」%K%P
+
+0x1190
+Makoto「What's with this all of the sudden...?」%K%P
+
+0x119C
+Haruka「Will you protect me?」%K%P
+
+0x11A8
+Makoto「Well, if it's you...」%K%P
+
+0x11B4
+In the instant I'm about to say "Then of course I will,"%NHaruka laughs loudly.%K%P
+
+0x11C8
+Haruka「Forget I ever said anything. I need to stop right here!」%K%P
+
+0x11D4
+I'm dumbfounded. It's happening again. She's beginning%Nto act strangely cheerful.%K%P
+
+0x11E0
+Haruka「Did I surprise you? Sorry for saying something so weird.」%K%P
+
+0x11EC
+Makoto「...」%K%P
+
+0x11F8
+Haruka「I'll be fine. I have to at least deal with my own problems%Nsomehow by myself.」%K%P
+
+0x1204
+Makoto「Haruka...」%K%P
+
+0x1218
+Haruka「Because Makoto is Makoto, and I'm me... isn't that right?」%K%P
+
+0x1224
+I look at Haruka, but I've been left at a loss for words.%K%P
+
+0x125C
+Haruka and I arrive at Lunabeach almost exactly on time.%K%P
+
+0x1268
+Over there, Izumi-san and Kurumi are busy slicing and%Ndicing meat and vegetables.%K%P
+
+0x1274
+It seems that a barbecue has been planned from 5:00%Ntoday...%K%P
+

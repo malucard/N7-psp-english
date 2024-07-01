@@ -1,0 +1,303 @@
+text area offset and size:
+0x898
+0x137A
+0x64
+Yuka and I have a light tennis match, and after we finish,%Nwe decide to talk about what we're going to do next.%K%P
+
+0x94
+Yuka「This is around the time when we went searching for the%Ntennis balls, right?」%K%P
+
+0xA0
+Makoto「Yeah, that's right... but we don't have time for that.%K We%Nneed to talk about what we're going to do after we meet%Nup with Haruka and Okuhiko soon.」%K%P
+
+0xAC
+Yuka「... And then you challenged me to a rematch...」%K%P
+
+0xB8
+However, Yuka keeps the talk strictly on tennis. Dammit...%Ndo you even listen to others?%K%P
+
+0xC4
+Makoto「Look, we don't have time for this now...」%K%P
+
+0xD8
+Yuka「Oh! And then we made our bet!」%K%P
+
+0xE4
+Ugh...%K I'd have preferred if she didn't remember that...%K%P
+
+0xF0
+Makoto「Ah... You remember the most trivial of things...」%K%P
+
+0x104
+Yuka「What's trivial!?」%K%P
+
+0x110
+Yuka「You're just saying that because you lost that match,%Nremember?!」%K%P
+
+0x11C
+Makoto「Yeah, yeah... Then, as promised, I'll do whatever you say,%Nso spit it out...」%K%P
+
+0x130
+Yuka「Hey! What's with that irresponsible tone of yours!」%K%P
+
+0x13C
+Yuka「I'll really make you do the craziest thing I can think of!」%K%P
+
+0x148
+Oh crap... I have a bad feeling about this...%K%P
+
+0x154
+Yuka「Let's see, let's see...」%K%P
+
+0x160
+Yuka is seriously thinking hard...%K%N
+
+0x16C
+D-Double crap...%K Now I have a REALLY bad feeling about%Nthis...!%K%P
+
+0x190
+Yuka「...」%K%P
+
+0x19C
+Makoto「Huh?」%K%P
+
+0x1A8
+Suddenly, Yuka looks at my face.%K%P
+
+0x1B4
+Is it just me, or are her eyes somewhat blurred...?%K%P
+
+0x1C8
+Yuka「Makoto...」%K%P
+
+0x1D4
+Makoto「Y-Yes...?」%K%P
+
+0x1E0
+I am swallowed up by the atmosphere.%K%P
+
+0x1F4
+Yuka「If... If...」%K%P
+
+0x200
+Yuka seems to have a slight blush on her face.%K%P
+
+0x20C
+Yuka「If I were to say 'Kiss me...', what would you do?」%K%P
+
+0x218
+... ... ... ... What?%K%P
+
+0x224
+Yuka「...」%K%P
+
+0x230
+H-Hold on...%K%P
+
+0x23C
+HOLD ON!!!!!%K%P
+
+0x248
+How did things come to this?!%K%P
+
+0x254
+Makoto「Y-Yuka...?」%K%P
+
+0x260
+My voice has been turned inside out.%K%P
+
+0x26C
+I don't know why, but I'm thinking that this is a joke.%K%P
+
+0x278
+No, I want to believe she'll tell me that.%K%P
+
+0x2A8
+Yuka「Idiot! There's no way that I'd say that!!」%K%P
+
+0x2B4
+She'd laugh as she said it. ... But that's merely what I'd%Nhoped she say, not what she's actually doing.%K%P
+
+0x2D8
+After all, there's Izumi-san. ... I already have someone...%Nwho told me they love me!%K%P
+
+0x2E4
+But...%K%P
+
+0x314
+Yuka「...」%K%P
+
+0x320
+Yuka's eyes are serious...%K%P
+
+0x32C
+Huh...? Is she serious?%K%N
+
+0x338
+I feel like I could cry.%K%P
+
+0x34C
+Yuka「... Makoto...」%K%P
+
+0x358
+... It seems she's serious.%K%P
+
+0x364
+Why... Why is Yuka doing this now...?%K%N
+
+0x370
+Now I really want to cry.%K%P
+
+0x37C
+My heart is beating very fast.%K%P
+
+0x388
+Yuka's lips...%K%N
+
+0x394
+Yuka's small lips...%K%N
+
+0x3A0
+Yuka's soft, trembling lips...%K%P
+
+0x3AC
+Izumi-san's face and Yuka's face overlap.%K%P
+
+0x3B8
+I... I...%K
+
+0x870
+When petticoats woo, breeks may come speed.
+
+0x87C
+I have Izumi-san!
+
+0x42C
+I gradually... blank out.%K%P
+
+0x438
+Yuka... Yuka...%K%N
+
+0x444
+Before long... my shadow becomes one with Yuka's%Nshadow...%K%P
+
+0x460
+...%K%N
+
+0x46C
+... Did I... do... it?%K%P
+
+0x480
+(Izumi-san...!!)%K%P
+
+0x48C
+I clench my hands into fists, and barely manage to%Nsqueeze my voice out.%K%P
+
+0x498
+Makoto「I'm sorry... I... can't.」%K%P
+
+0x4AC
+Yuka's face is sad.%K%P
+
+0x4B8
+Makoto「Um... it's not like... I hate you or anything, Yuka.」%K%P
+
+0x4C4
+Makoto「It's just... well... I don't think we have that kind of%Nrelationship...」%K%P
+
+0x4D0
+I'm talking frantically, as if I'm desperately making an%Nexcuse to justify myself.%K%P
+
+0x4DC
+Yes, that's probably it... My heart's throbbing so much%Nbecause I feel guilty.%K%P
+
+0x4F8
+Yuka「I see...」%K%P
+
+0x504
+Yuka mutters this regretfully.%K%P
+
+0x510
+Makoto「I'm sorry... but that's... my final word on it...」%K%P
+
+0x51C
+I apologize once more.%K%P
+
+0x54C
+Yuka「Well then, what shall I have you do～...」%K%P
+
+0x558
+Yuka returns to her normal self as if nothing ever%Nhappened.%K%P
+
+0x564
+No, on the contrary, it kinda feels like she's forcing%Nherself...%K%P
+
+0x570
+It's very painful being with Yuka right now.%K%P
+
+0x584
+Yuka「Then let's do this!」%K%P
+
+0x590
+Makoto「What?」%K%P
+
+0x5AC
+... Yuka presents me with this order.%K%P
+
+0x5B8
+"You must try my cooking one more time."%K%P
+
+0x5C4
+Oh God, help me...%K%P
+
+0x604
+I don't remember what happened after that.%K%P
+
+0x610
+Before I know it, I've met up with Haruka and Okuhiko.%K%P
+
+0x61C
+For some reason, I was lying sprawled on the banks of%NMoon Beach.%K%P
+
+0x628
+Did I start sleepwalking when I wasn't paying attention...?%K%N
+
+0x634
+No, I was probably just distracted with something else...%K%P
+
+0x640
+... Another strange thing happened too. ... Yuka's%Ncompletely back to normal.%K%P
+
+0x64C
+She's acting as if what happened earlier never%Noccurred.%K%P
+
+0x6B0
+After that...%K%N
+
+0x6BC
+We arrive at Lunabeach.%K%P
+
+0x6C8
+Kurumi, Izumi-san, and Saki show up one by one. They're%Nall putting on a remarkable spectacle, reenacting their%Nexchanges from last time.%K%P
+
+0x6D4
+The shop has a lot of rice this time, but I go out to buy%Nsome to keep up the act.%K%P
+
+0x6E0
+Izumi-san's paella is even better than last time, and I%Nalmost faint again.%K%P
+
+0x6EC
+So far, everything's been going well.%K%N
+
+0x6F8
+Okuhiko seems to completely be under the impression%Nthat today is April 1st, to the point where he no longer%Nshows any signs of doubting it.%K%P
+
+0x704
+(If he'd doubted it even the slightest, then this wouldn't%Neven be half as fun...)%K%P
+
+0x710
+Even I begin to think this way.%K%N
+
+0x71C
+And while all of this goes on...%K%P
+

@@ -1,8 +1,9 @@
-#!/bin/sh
+#!/bin/bash
 
-rm -rf r11_mac/ r11_etc/ r11_iso_extracted/ r11_mac_en/ r11_etc_en/
+rm -f iso/{n7binarin.xdelta,n7-repacked.iso}
+rm -rf n7_mac/ n7_etc/ n7_iso_extracted/ n7_mac_en/ n7_etc_en/
 rm -rf bin/
 rm -f workdir/{mac.afs,etc.afs,init.*,BOOT.BIN*}
-rm -rf text/tmp/{mac-jp-psp,mac-en-combined-psp,mac-cn-combined-psp}
 rm -rf text/tmp
+rm -rf text/mac-en-combined-psp/{*.txt,old}
 rm -f text/font/FONT00.{FNT,mod}

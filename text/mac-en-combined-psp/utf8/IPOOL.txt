@@ -1,0 +1,972 @@
+text area offset and size:
+0x1668
+0x4061
+0x18
+??「Hee hee...」%K%P
+
+0x58
+I turn to find Izumi-san, giggling as she watches me by%Nthe edge of the pool.%K%P
+
+0x64
+Izumi「You're a good swimmer.」%K%P
+
+0x70
+Makoto「You think so?」%K%P
+
+0x7C
+Izumi「Yes, and you do a good job at holding your breath. It's%Nnot that easy to do.」%K%P
+
+0x88
+Makoto「... I don't think that's true.」%K%P
+
+0x94
+Though my words are humble, I feel far from modest. Who%Nwouldn't feel proud after being praised like that?%K%P
+
+0xA0
+Especially when it's given by a beautiful woman like%NIzumi-san.%K%P
+
+0xB4
+Izumi「... But.」%K%P
+
+0xC0
+Makoto「?」%K%P
+
+0xD4
+Izumi「Even so, I think I'm a better swimmer than you are,%NMakoto-kun.」%K%P
+
+0xE0
+Makoto「Wanna test that theory?」%K%P
+
+0xEC
+I challenge Izumi-san.%K%P
+
+0xF8
+She nods in agreement.%K%P
+
+0x104
+Izumi「Do you want to bet?」%K%P
+
+0x110
+Makoto「Sure thing.」%K%P
+
+0x11C
+It's not that I'm confident in my own swimming.%K%P
+
+0x128
+It's just that the way this conversation is going, it feels%Nlike the right thing to do...%K%P
+
+0x13C
+Izumi「So what if I win?」%K%P
+
+0x148
+Makoto「I... will give you a day's worth of shoulder massages.」%K%P
+
+0x15C
+Izumi「That's stingy... Why don't you make it one week?」%K%P
+
+0x168
+Makoto「Huh? Do you really need it for that long?」%K%P
+
+0x17C
+Izumi「Yes. Lately, my shoulders have been so stiff... I wonder if%Nage is catching up with me...?」%K%P
+
+0x188
+Makoto「No... that's not...」%K%P
+
+0x194
+Of course... Izumi-san has been managing that%Nrestaurant alone.%K%P
+
+0x1A0
+That's why her shoulders are stiff. All right... in that case...%K%P
+
+0x1AC
+Makoto「Izumi-san, if I lose, then I'll help out at Lunabeach for one%Nday... Sound good?」%K%P
+
+0x1C0
+Izumi「Huh, really?」%K%P
+
+0x1CC
+Makoto「A man never goes back on his word!」%K%P
+
+0x1E0
+Izumi「Hmm... then if you win, I'll...」%K
+
+0x15F8
+"Let me rest my head on your lap!"
+
+0x1604
+Leave it to Izumi-san.
+
+0x230
+Makoto「Let me rest my head on your lap!」%K%P
+
+0x23C
+I immediately declare this.%K%P
+
+0x250
+Izumi「What!?」%K%P
+
+0x25C
+Makoto「... Agh!!」%K%P
+
+0x268
+What the hell am I saying? Wouldn't that be considered%Nsexual harassment?%K%P
+
+0x27C
+However, Izumi-san smiles sweetly at me, and answers.%K%P
+
+0x288
+Izumi「All right. However, if I win...」%K%P
+
+0x294
+Makoto「Huh?」%K%P
+
+0x2A0
+She's totally okay with it?%K%P
+
+0x2AC
+Is she really this confident...? Or is it...?%K%P
+
+0x2C0
+Izumi「Well then, I'll let you rest your head in my lap while I pick%Nyour ears♪」%K%P
+
+0x2CC
+Makoto「Huh? Really!?」%K%P
+
+0x2D8
+It's like she doesn't even care about the meaning of%Nthose words. Laying my head in her lap as she picks my%Nears.%K%P
+
+0x2E4
+Hell yeah! I've gotta win!!%K%P
+
+0x2F0
+I get fired up.%K%P
+
+0x304
+Izumi「I'll let you have a year's supply of free food from%NLunabeach.」%K%P
+
+0x310
+Makoto「WHAT!? Really?」%K%P
+
+0x324
+Izumi「Yes.」%K%P
+
+0x330
+Makoto「All right～! I've gotta win!!」%K%P
+
+0x33C
+I get fired up.%K%P
+
+0x350
+...%K%P
+
+0x35C
+We stand on the diving boards used for swimming races%Nat the pool.%K%P
+
+0x370
+Izumi「Well then, let's go.」%K%P
+
+0x37C
+Makoto「Ready... Set...」%K%P
+
+0x388
+??「GOOOO!」%K%P
+
+0x394
+Makoto「Huh?」%K%P
+
+0x3D4
+Someone pushes me from behind, and I fall head first into%Nthe pool.%K%P
+
+0x3FC
+Izumi-san starts swimming in that interval...%K%P
+
+0x438
+Yuka「Kyahahahaha...♪」%K%P
+
+0x444
+... The culprit was Yuka.%K%P
+
+0x450
+She is holding her sides with laughter. In her hand, she is%Nholding a glass of... beer!%K%P
+
+0x45C
+Makoto「A-Are you... drunk...?」%K%P
+
+0x478
+Yuka「Huh? Shouldn't you hurry up and swim?」%K%P
+
+0x484
+Makoto「... Huh?」%K%P
+
+0x490
+In the time I've been floating here, Izumi-san has almost%Nreached the other end of the pool.%K%P
+
+0x49C
+Makoto「AAHH!!」%K%P
+
+0x4B8
+Makoto「...Y-YOU JUST COST ME MY HEAD REST AND MY EAR PICKING!!」%K%P
+
+0x4CC
+Yuka「Huh～?」%K%P
+
+0x4E0
+I frantically start swimming.%K%P
+
+0x4F4
+Makoto「... Y-YOU JUST COST ME MY YEAR'S SUPPLY OF FOOD!!」%K%P
+
+0x508
+Yuka「Huh?」%K%P
+
+0x51C
+I frantically start swimming.%K%P
+
+0x554
+I desperately swim after Izumi-san.%K%P
+
+0x560
+I desperately crawl, paddle, and breaststroke.%K%P
+
+0x56C
+I desperately try every fast swimming technique in the%Nbook...%K%P
+
+0x578
+... But even so, Izumi-san is faster.%K%P
+
+0x584
+By the time I'm halfway there, Izumi-san has already%Nreached the goal.%K%P
+
+0x590
+... I reach the finishing point soon after.%K%P
+
+0x5A4
+Izumi「... Well? Are you impressed?」%K
+
+0x1610
+"Yeah, I am..."
+
+0x161C
+"Th-That didn't count!"
+
+0x5EC
+Makoto「Yeah, I am...」%K%P
+
+0x5F8
+I honestly admit defeat.%K%P
+
+0x604
+Even if Yuka hadn't interfered, I probably still would have%Nlost.%K%P
+
+0x610
+Izumi-san is simply unbelievably fast.%K%P
+
+0x624
+Izumi「You're an honest one, Makoto-kun.」%K%P
+
+0x638
+Makoto「Th-That didn't count!」%K%P
+
+0x64C
+Izumi「Huh～, why not～?」%K%P
+
+0x658
+Makoto「Because...」%K%P
+
+0x664
+Izumi「Men don't go back on their word!」%K%P
+
+0x670
+Makoto「Ugh...!!」%K%P
+
+0x67C
+Makoto「... B-Because Yuka came and got in my way.」%K%P
+
+0x690
+Izumi「Hmm...」%K%P
+
+0x69C
+Izumi「So you're saying that you would've won if she hadn't%Ngotten in your way?」%K%P
+
+0x6A8
+Makoto「Of course!」%K%P
+
+0x6BC
+Izumi「... Very well. Then let's have a rematch.」%K%P
+
+0x6C8
+... Bring it on.%K%P
+
+0x6DC
+... ... ...%K%P
+
+0x6E8
+... It was foolish for me to accept her challenge.%K%P
+
+0x6F4
+I lost. She completely trashed me.%K%P
+
+0x700
+Even if Yuka hadn't interfered earlier, I probably still%Nwould have lost.%K%P
+
+0x70C
+Izumi-san is simply too fast.%K%P
+
+0x718
+Izumi「... Are you satisfied now?」%K%P
+
+0x724
+I can't do anything but nod.%K%P
+
+0x738
+Izumi「Hee hee hee... then you have to work at Lunabeach as%Npromised, Makoto-kun.」%K%P
+
+0x744
+Makoto「... Okay.」%K%P
+
+0x750
+Izumi「Whenever's fine♪ Whichever is the most convenient day%Nfor you.」%K%P
+
+0x75C
+Makoto「... Okay.」%K%P
+
+0x770
+We get out of the pool and sit down on the edge of the%Npool.%K%P
+
+0x78C
+I dip my feet into the water. Just like Haruka last night...%K%P
+
+0x7BC
+Izumi「Hee hee hee...」%K%P
+
+0x7C8
+Makoto「? ... What's up?」%K%P
+
+0x7D4
+Izumi「Now that I think about it, it's been a long time since I've%Nhad time in private to enjoy myself.」%K%P
+
+0x7E0
+Izumi「I've almost no time to spend with people as young as%Nyour group.」%K%P
+
+0x7EC
+Makoto「... Are you saying you're a workaholic or something?」%K%P
+
+0x7F8
+Izumi「Hmm... Well, I wouldn't say that it's like that.」%K%P
+
+0x804
+Izumi「Well, full fledged adults have lots of troubles.」%K%P
+
+0x810
+Makoto「Hmm...」%K%P
+
+0x81C
+Full fledged adults, huh... In two years, I guess I'll be right%Nup there with them.%K%N
+
+0x828
+... Ah, but I've got to go job hunting before that...%K%P
+
+0x834
+It doesn't feel real.%K%P
+
+0x840
+What will I do when I go out into society?%K%P
+
+0x84C
+Izumi「What's wrong? You suddenly fell silent.」%K%P
+
+0x858
+Makoto「No... it's just that I'll be a full fledged adult as well in just%Ntwo years.」%K%P
+
+0x864
+Makoto「It doesn't feel real. On the contrary, I don't even know%Nwhat I'll be doing then...」%K%P
+
+0x870
+Izumi「Hmm... well, won't you know at that time?」%K%P
+
+0x87C
+Makoto「Perhaps...」%K%P
+
+0x888
+Izumi「It's fine. You'll be a fine adult, Makoto-kun♪」%K%P
+
+0x894
+Makoto「... You think so?」%K%P
+
+0x8A0
+Izumi「I do.」%K%P
+
+0x8AC
+Makoto「Why's that?」%K%P
+
+0x8B8
+Izumi「Huh?」%K%P
+
+0x8C4
+Makoto「How can you assert that 'I'll become a splendid adult'?」%K%P
+
+0x8D0
+Izumi「Ah ha, judging from that response, you don't have a lot%Nof self-confidence, do you?」%K%P
+
+0x8DC
+Makoto「Confidence, huh...」%K%P
+
+0x8E8
+Makoto「You're right, I don't have any.」%K%P
+
+0x8F4
+Makoto「In the first place, I don't know if I'll even be able to%Ngraduate or not.」%K%P
+
+0x900
+Izumi「You don't attend your classes much?」%K%P
+
+0x90C
+Makoto「'Much' is an overstatement. Try 'not at all'.」%K%P
+
+0x918
+Izumi-san just sympathetically smiles as I deride myself.%K%P
+
+0x924
+Makoto「I've obtained virtually no credits, and I should have to%Nrepeat a year.」%K%P
+
+0x930
+Makoto「But I practically prostrated myself and begged before%Nmy course of study official...」%K%P
+
+0x93C
+Izumi「And so, somehow, you were able to temporarily advance%Nto your junior year?」%K%P
+
+0x948
+Makoto「Pretty much.」%K%P
+
+0x954
+Izumi-san still smiles at me.%K%P
+
+0x960
+It's like the smile of an elementary school teacher who's%Nlistening to one her students with bad grades tell her%Ntheir worries... It's a very kind one.%K%P
+
+0x96C
+Izumi「But that's certainly difficult...」%K%P
+
+0x978
+Izumi「The Psychology major has the strictest advancement%Ncriteria in the Literature Department, right?」%K%P
+
+0x984
+Makoto「Huh?」%K%P
+
+0x990
+Makoto「Yeah... it sure seems that way...」%K%P
+
+0x99C
+Makoto「But Izumi-san... how did you know I was going for a%NPsychology major?」%K%P
+
+0x9A8
+Izumi「... Huh?!」%K%P
+
+0x9BC
+Izumi「A-Ah... that's...」%K%P
+
+0x9C8
+Makoto「???」%K%P
+
+0x9D4
+Izumi「... because I heard about it.」%K%P
+
+0x9E8
+Izumi「That's right, I heard it from Yuka-chan!」%K%P
+
+0x9F4
+Izumi-san's expression momentarily stiffens.%K%P
+
+0xA08
+She lowers her head and kicks her legs, splashing the%Nwater.%K%P
+
+0xA1C
+Izumi「Hey, Makoto-kun?」%K%P
+
+0xA28
+She stops kicking, and looks at me.%K%P
+
+0xA34
+But immediately afterwards...%K%P
+
+0xA48
+Izumi「No... it's nothing.」%K%P
+
+0xA54
+... she says this, and averts her gaze.%K%P
+
+0xA60
+Makoto「???」%K%P
+
+0xA6C
+Izumi-san falls completely silent.%K%P
+
+0xA78
+It's like she's deep in thought about something...%K%P
+
+0xA84
+... Should I change the topic?%K
+
+0x1628
+"Kurumi's quite a strange girl."
+
+0x1634
+"What are your hobbies?"
+
+0x1640
+"Who do you respect most?"
+
+0x164C
+"Do you have a boyfriend?"
+
+0xAEC
+Makoto「Kurumi's quite a strange girl.」%K%P
+
+0xB00
+Izumi「Huh? How so?」%K%P
+
+0xB0C
+Makoto「Hmm, how do I put it... err...」%K%P
+
+0xB18
+Makoto「Normally, she's very childish, but from time to time... she%Nlooks very mature...」%K%P
+
+0xB24
+Izumi「...」%K%P
+
+0xB30
+Makoto「... Ah, no... it's just, um, what I think.」%K%P
+
+0xB3C
+Izumi「...」%K%P
+
+0xB48
+Makoto「... U-Um... Please don't think too much about it.」%K%P
+
+0xB54
+Izumi「... Hee hee, Makoto-kun... are you interested in Kurumi?」%K%P
+
+0xB60
+Makoto「What?」%K%P
+
+0xB6C
+Izumi「Bullseye!」%K%P
+
+0xB78
+Makoto「Y-You're wrong... Wh-What are you saying?」%K%P
+
+0xB84
+Izumi「Hee hee♪ You're getting embarrassed.」%K%P
+
+0xB90
+Izumi「Ge～ez, guess I have no choice. At times like these, it's%Nthe big sister's duty to pitch in and help～」%K%P
+
+0xB9C
+Makoto「P-Please stop...」%K%P
+
+0xBA8
+Izumi「Heh heh～♪ Just honestly confess to her.」%K%P
+
+0xBB4
+Izumi-san says this with an impish face while poking me%Nwith her index finger.%K%P
+
+0xBC0
+... I had no idea that Izumi-san had this childish side...%K%P
+
+0xBD4
+Makoto「Um... what are your hobbies, Izumi-san?」%K%P
+
+0xBE8
+Izumi「Huh?」%K%P
+
+0xBF4
+Makoto「Ah, no... I was just wondering... that's all.」%K%P
+
+0xC00
+Izumi「Hee hee! That sounds kinda like a question at an%Narranged marriage interview.」%K%P
+
+0xC0C
+Makoto「I... I suppose so.」%K%P
+
+0xC18
+Izumi「... Let's see... Lately, I've been into swimming.」%K%P
+
+0xC24
+Izumi「I often use this pool for that.」%K%P
+
+0xC30
+Makoto「I see... So that's why you're a fast swimmer...」%K%P
+
+0xC3C
+Izumi「In college, I became obsessed with cars...」%K%P
+
+0xC48
+Makoto「Wow... so you have your license?」%K%P
+
+0xC54
+Izumi「Of course♪ I may not look like it, but I did a lot of these%Ntypes of things when I was young.」%K%P
+
+0xC60
+Makoto「You're still pretty young now...」%K%P
+
+0xC74
+Izumi「But...」%K%P
+
+0xC80
+Makoto「?」%K%P
+
+0xC8C
+Izumi「It's already been six times...」%K%P
+
+0xC98
+Makoto「Huh?」%K%P
+
+0xCA4
+Izumi「That I've had my license suspended.」%K%P
+
+0xCB0
+Makoto「... Come again?」%K%P
+
+0xCC4
+Izumi「It's strange～. Even though I have every intention of%Nbeing a safe driver...」%K%P
+
+0xCD0
+A suspended license...%K%N
+
+0xCDC
+In other words, because she violated traffic laws, she's%Nbeen unable to use her driver's license and forbidden%Nto drive by penal regulations.%K%P
+
+0xCE8
+Makoto「Wh-What did you do?」%K%P
+
+0xCF4
+Izumi「Huh? Nothing really... I was just driving normally.」%K%P
+
+0xD00
+Makoto「If that's the case, then why were you pulled over?」%K%P
+
+0xD0C
+Izumi「Well... you see... my blood got riled up.」%K%P
+
+0xD18
+Makoto「...?」%K%P
+
+0xD24
+Izumi「I saw a white motorcycle... and my blood got riled up...」%K%P
+
+0xD30
+Izumi「But then, I suddenly regained my senses...」%K%P
+
+0xD3C
+Makoto「That's enough... I get it...」%K%P
+
+0xD48
+...%K%P
+
+0xD54
+Some "safe driver" she was...%K%N
+
+0xD60
+She raced the white motorcycle, and went completely%Nover the speed limit, didn't she?%K%P
+
+0xD6C
+The same gentle Izumi-san who is tilting her head right%Nnow...%K%N
+
+0xD78
+The scene of Izumi-san racing the white motorcycle%Ninstantly flashes in my head.%K%P
+
+0xD8C
+Makoto「... Who do you respect the most?」%K%P
+
+0xDA0
+Izumi「Huh?」%K%P
+
+0xDAC
+... Wait, wh-what am I asking her!!?%K%P
+
+0xDB8
+Izumi「... Let's see.」%K%P
+
+0xDC4
+Izumi-san takes my question seriously and thoughtfully%Nponders on an answer.%K%P
+
+0xDD0
+Izumi「... Sherlock Holmes.」%K%P
+
+0xDDC
+Makoto「Huh?」%K%P
+
+0xDE8
+Izumi「Sherlock Holmes. That's the person I respect the most.」%K%P
+
+0xDF4
+Makoto「... Ah, but...」%K%P
+
+0xE00
+He's not real, he's just a fictional character created by%NArthur Conan Doyle, isn't he?%K%N
+
+0xE0C
+I'm about to say this, but Izumi-san continues without%Nmissing a beat.%K%P
+
+0xE18
+Izumi「I admired him. There was a time where I thought I wanted%Nto become a detective in the future...」%K%P
+
+0xE24
+Izumi「His excellent perception that would allow him to not%Noverlook even the smallest amount of evidence...」%K%P
+
+0xE30
+Izumi「His endless deductive skills, which he would use to%Nderive tricks from those small amounts of evidence...」%K%P
+
+0xE3C
+Izumi「And his fortitude, which wouldn't allow him to give up until%Nthe end...」%K%P
+
+0xE48
+Izumi「Ah... He's so amazing～. Don't you think so?」%K%P
+
+0xE54
+Makoto「Y-Yeah... sure.」%K%P
+
+0xE60
+I never read the stories, so I can't really relate.%K%N
+
+0xE6C
+This isn't helping me to get to know Izumi-san better.%K%P
+
+0xE88
+Makoto「Izumi-san, do you have a boyfriend?」%K%P
+
+0xE9C
+Izumi「Huh～? Normally, you shouldn't ask such an insensitive%Nquestion without a lead-in.」%K%P
+
+0xEB0
+Izumi「What if I had been dumped recently? That question would%Nhave reopened sore wounds.」%K%P
+
+0xEBC
+... Right. That's what I thought... wait, what? Dumped?%K%P
+
+0xEC8
+Makoto「Izumi-san... were you dumped recently?」%K%P
+
+0xEDC
+Izumi「Hee hee... Do you want to know?」%K%P
+
+0xEE8
+I eagerly nod.%K%P
+
+0xEF4
+Izumi「Unfortunately, I haven't been been dumped.」%K%P
+
+0xF00
+Makoto「Unfortunately... Wait, isn't that a good thing?」%K%P
+
+0xF0C
+Izumi「Not really... I never said I was going out with someone,%Nafter all...」%K%P
+
+0xF18
+Makoto「Huh? You don't have a boyfriend?」%K%P
+
+0xF24
+Izumi「Well, sorry to disappoint you.」%K%P
+
+0xF30
+Izumi-san objects with a pout.%K%P
+
+0xF3C
+It kinda reminds me of something Kurumi would do.%K%P
+
+0xF48
+Makoto「No... that's not what I...」%K%P
+
+0xF54
+Izumi「Hee hee♪ Just kidding!」%K%P
+
+0xF60
+Izumi「Well, I don't have one right now... But I'm so busy%Neveryday anyway that I'm not really interested in one at%Nthe moment...」%K%P
+
+0xF6C
+Izumi「Hee hee... but perhaps that's a good thing?」%K%P
+
+0xF78
+Izumi-san tilts her head and gives me a mischievous%Nsmile.%K%P
+
+0xF84
+... A thought occurs to me as I look at her.%K%P
+
+0xF90
+(How does Izumi-san see me?)%K%P
+
+0xFA4
+... Izumi... Morino...%K%P
+
+0xFB0
+... Huh?%K%P
+
+0xFBC
+It then hits me. I remember where I've heard the name%N"Morino" before.%K%N
+
+0xFC8
+That was why I thought her name was familiar.%K%P
+
+0xFD4
+... I've finally remembered!%K%P
+
+0xFE0
+Makoto「... Now that I think about it, your last name is 'Morino', right?」%K%P
+
+0xFEC
+Makoto「You have the same last name as Dr. Morino, the world%Nfamous authority on genetic engineering.」%K%P
+
+0x1000
+Izumi「Wow, you're well informed.」%K%P
+
+0x100C
+Makoto「Yes, I learned about it at school...」%K%P
+
+0x1018
+Izumi「Hmm...」%K%P
+
+0x1024
+Izumi「He's my father.」%K%P
+
+0x1030
+Makoto「Oh, so that's it. It's only natural you'd have the same last%Nname then...」%K%P
+
+0x103C
+... Wait, her father?%K%P
+
+0x1048
+WHAAAAAAAAAAAT!!!?%K%P
+
+0x1054
+Makoto「You said 'my father'... so THE Dr. Morino is your father!?」%K%P
+
+0x1060
+Izumi「Is that... strange?」%K%P
+
+0x106C
+Makoto「No... It's not that...」%K%P
+
+0x1078
+It's just surprising...%K%P
+
+0x1084
+No, this is quite possibly the most startling thing I've%Never heard in my entire life.%K%P
+
+0x1090
+Izumi「It seems like he's a very famous person, but at home,%Nhe's just a normal father... probably.」%K%P
+
+0x109C
+Izumi「After getting out of the bath, he loiters around in his%Nunderwear...」%K%P
+
+0x10A8
+... I guess it's a small world after all...%K%P
+
+0x10B4
+No, but Izumi-san said "it seems like he's a very famous%Nperson"... Doesn't she know just how famous he is...?%K%P
+
+0x111C
+Izumi「... Ah!!」%K%P
+
+0x1128
+Suddenly, Izumi-san springs to her feet.%K%P
+
+0x1134
+Makoto「Is something wrong?」%K%P
+
+0x1140
+Izumi「Well... you see... I have to make a phone call.」%K%P
+
+0x114C
+Makoto「A phone call?」%K%P
+
+0x1160
+Izumi「I might have forgotten to lock the backdoor. I have to%Ncall Kurumi just to make sure.」%K%P
+
+0x116C
+Makoto「If Kurumi's there, then shouldn't it be all right?」%K%P
+
+0x1178
+Izumi「Yes... But I just want to be safe.」%K%P
+
+0x1184
+Izumi「Well then, I'll see you later, Makoto-kun♪」%K%P
+
+0x11A8
+Yuka「Huh～? Makoto?」%K%P
+
+0x11D8
+... After parting with Izumi-san, I'm feeling thirsty, so I go to%Nget a drink.%K%P
+
+0x11E4
+And there, I met up with Yuka.%K%P
+
+0x11F0
+She's still holding a glass of beer in her hand...%K%P
+
+0x11FC
+Yuka「What's wrong? Your face looks scary.」%K%P
+
+0x1208
+Makoto「... Have you already forgotten?!」%K%P
+
+0x1214
+Yuka「?」%K%P
+
+0x1220
+Makoto「Earlier, when Izumi-san and I were racing in the pool...」%K%P
+
+0x1234
+Yuka「Oh～～! Right right right right right...」%K%P
+
+0x1240
+Makoto「... You really get on my nerves sometimes, you know?」%K%P
+
+0x124C
+Yuka「Hey... that was just a harmless little joke...」%K%P
+
+0x1258
+Makoto「Because of your 'harmless little joke', I... I...」%K%P
+
+0x1264
+My shoulders are shaking.%K%N
+
+0x1270
+DAMMIT! You'll pay for that!!!%K%P
+
+0x1284
+Yuka「Gee～ez! It's so unmanly for you to mope over trivial%Nthings forever.」%K%P
+
+0x1290
+Yuka「Even though I apologized to you in good faith...」%K%P
+
+0x129C
+... What apology, you damn bi... wait a minute.%K%P
+
+0x12A8
+Makoto「Oh ho... Then why don't you show me that good faith?」%K%P
+
+0x12BC
+Yuka「Huh?」%K%P
+
+0x12C8
+Makoto「Get me a drink.」%K%P
+
+0x12DC
+Yuka「Sure, all right♪」%K%P
+
+0x12E8
+Makoto「... What?」%K%P
+
+0x12F4
+I didn't think Yuka would agree so quickly.%K%P
+
+0x1300
+Yuka「Well then, just wait in that deck chair, and I'll get one for%Nyou.」%K%P
+
+0x130C
+Makoto「Okay♪」%K%P
+
+0x1354
+... ... ...%K%P
+

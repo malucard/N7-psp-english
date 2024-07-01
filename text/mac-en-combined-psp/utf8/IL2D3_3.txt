@@ -1,0 +1,639 @@
+text area offset and size:
+0x11B0
+0x263D
+0x40
+Everyone goes outside, and enters the forest one by%None in succession.%K%P
+
+0x4C
+Just as I'm about to enter the thicket...%K%P
+
+0x58
+??「H-Hey... Makoto...」%K%P
+
+0x6C
+... I turn around when someone behind me suddenly calls%Nme. It's Yuka.%K%P
+
+0xA4
+Makoto「No way!」%K%P
+
+0xB0
+I immediately reply.%K%P
+
+0xC4
+Yuka「Wh-What the hell!? I haven't said anything yet!」%K%P
+
+0xD0
+Makoto「But I already know. You asked me last time, right? For us%Nto become a pair.」%K%P
+
+0xE4
+Yuka「Ugh...」%K%P
+
+0xF0
+Makoto「If you're that scared, then you shouldn't have%Nparticipated to begin with.」%K%P
+
+0xFC
+Yuka「B-But then Okuhiko-kun would start getting suspicious...」%K%P
+
+0x108
+Makoto「Oh brother...」%K%P
+
+0x11C
+Yuka「I-It's fine! It's not like I wanted to just pick you%Nspecifically!」%K%P
+
+0x128
+Makoto「There was another way.」%K%P
+
+0x13C
+Yuka「Huh?」%K%P
+
+0x148
+Makoto「You could just have gotten drunk, like always.」%K%P
+
+0x15C
+Yuka「What do you mean by that...?」%K%P
+
+0x170
+Makoto「Yuka, what is it?」%K%P
+
+0x17C
+Yuka「R-Right... u-um?」%K%P
+
+0x188
+Yuka「So we're really going to do this... Test of Courage?」%K%P
+
+0x194
+Makoto「Yeah.」%K%P
+
+0x1A0
+Yuka「And... if this is like last time... then we'll be put... into pairs,%Nright?」%K%P
+
+0x1AC
+Makoto「Well, obviously.」%K%P
+
+0x1B8
+Yuka「B-But you know what? I was thinking a bit...」%K%P
+
+0x1C4
+Makoto「!!!」%K%P
+
+0x1D8
+Yuka「Wh-What's wrong, Makoto?」%K%P
+
+0x1E4
+Makoto「... This is my chance.」%K%P
+
+0x1F0
+Yuka「Huh?」%K%P
+
+0x1FC
+Makoto「Sorry Yuka, but I can't form a pair with you.」%K%P
+
+0x210
+Yuka「Wh-Why not!?」%K%P
+
+0x258
+Before Yuka can start objecting, I immediately head into%Nthe forest.%K%P
+
+0x264
+Thanks to Yuka, I got a good idea.%K%P
+
+0x270
+I quicken my pace, and before long, I've caught up to%NIzumi-san.%K%P
+
+0x2A0
+Izumi「What's wrong, Makoto-kun?」%K%P
+
+0x2AC
+Makoto「Izumi-san, we're really going to do this Test of Courage?」%K%P
+
+0x2B8
+Izumi「Yes.」%K%P
+
+0x2C4
+Makoto「And are we going to do pairs, like in the last one?」%K%P
+
+0x2D0
+Izumi「Well, that's only natural.」%K%P
+
+0x2DC
+Makoto「Isn't it? And I think that when we get there, it's likely that%Nwe'll divide the pairs via Rock-Paper-Scissors...」%K%P
+
+0x2E8
+Izumi「Yes, yes.」%K%P
+
+0x2F4
+Makoto「Therefore... I wanted to discuss something with you.」%K%P
+
+0x300
+Izumi「?」%K%P
+
+0x30C
+Makoto「Izumi-san, will you use scissors during%NRock-Paper-Scissors?」%K%P
+
+0x320
+Izumi「Huh...? Wait, are you saying...」%K%P
+
+0x32C
+Makoto「Yes, that's it.」%K%P
+
+0x340
+Izumi「...」%K%P
+
+0x34C
+Makoto「W-Well... if you don't want to, that's fine...」%K%P
+
+0x358
+Izumi「No, that's not it...」%K%P
+
+0x364
+Makoto「Anyway, I'll be going with scissors.」%K%P
+
+0x378
+Izumi「... I understand. I'll do as you say, Makoto-kun.」%K%P
+
+0x384
+Makoto「Izumi-san, thank you!」%K%P
+
+0x3A8
+I leave with these words, and catch up with the others.%K%P
+
+0x3B4
+The chance I've been waiting for has finally arrived.%K%P
+
+0x3C0
+If Izumi-san and I become a pair, then we'll be out of%NOkuhiko's eyesight, and I'll be able to tell Izumi-san%Nwhatever I want.%K%P
+
+0x3CC
+O-Of course... I intend...%K t-to confesses to her...%K%P
+
+0x3D8
+I can't hold back the loud pounding of my heart.%K%P
+
+0x3EC
+Suddenly, when I look up ahead, I see Okuhiko whispering%Nsomething to Haruka.%K%P
+
+0x400
+When Okuhiko notices my glance, he quickly moves away%Nfrom her.%K%P
+
+0x414
+(What are you planning, Okuhiko?)%K%P
+
+0x420
+I'm a little concerned about it, but all I can think about%Nright now is Izumi-san.%K%P
+
+0x42C
+Okuhiko and Haruka are of no concern to me right now.%K%P
+
+0x47C
+We arrive at the graveyard.%K%P
+
+0x488
+As always, this place has a spooky atmosphere.%K%P
+
+0x494
+Izumi-san insists that this place is completely safe, but%Nwe can't believe those words.%K%P
+
+0x4A0
+Yuka especially doesn't. She'll probably never grow%Naccustomed to here no matter how many times she visits.%K%P
+
+0x4AC
+We then begin to divide the pairs through%NRock-Paper-Scissors.%K%P
+
+0x4DC
+Okuhiko「Ready, Set! Rock, Paper, Scissors...」%K%P
+
+0x4F0
+Okuhiko eagerly leads us off, and we all make fists with%Nour dominant hands.%K%P
+
+0x4FC
+Makoto「... Go!」%K%P
+
+0x508
+Like I said earlier, I have scissors.%K%P
+
+0x51C
+Izumi-san also has scissors.%K%P
+
+0x528
+(It's decided...)%K%P
+
+0x534
+With that, I turn my hand so that my fingers turn into a%Npeace sign.%K%P
+
+0x548
+But I am shocked when I see everyone else's hands.%K%P
+
+0x554
+Yuka, Okuhiko, and Haruka all have scissors.%K%P
+
+0x560
+(Huh? What's... the meaning of this?)%K%P
+
+0x574
+Okuhiko「O-One more time. Ready, Set! Rock, Paper, Scissors...」%K%P
+
+0x588
+Makoto「... Go!」%K%P
+
+0x594
+Again, everyone has scissors...%K%P
+
+0x5A0
+Everyone「...」%K%P
+
+0x5AC
+For a few more rounds after that, everyone continues to%Ngo with scissors.%K%P
+
+0x5C0
+Okuhiko「Damn... there's no other choice... Scissors is banned from%Nnow on!」%K%P
+
+0x5CC
+Makoto「What!?」%K%P
+
+0x5E8
+Izumi「I guess it can't be helped...」%K%P
+
+0x5F4
+Dammit! Goddammit!!%K%P
+
+0x600
+In other words, I won't know what Izumi-san's next hand%Nwill be...%K%P
+
+0x624
+Okuhiko「Rock, Paper, Go!」%K%P
+
+0x638
+Okuhiko's voice cruelly echoes in the graveyard.%K%P
+
+0x644
+In the end, the pairs are decided as so.%K%P
+
+0x650
+Me - Yuka.%K%N
+
+0x65C
+Haruka - Izumi-san.%K%N
+
+0x668
+Okuhiko ― all alone.%K%P
+
+0x67C
+Okuhiko dejectedly sits down on a nearby tombstone...%K%P
+
+0x6E8
+Reluctantly, I go with Yuka to find the well.%K%P
+
+0x6F4
+We already know where it is. I want to just hurry up and%Nget this over with...%K%P
+
+0x708
+Yuka「Whew... I thought I was going to have to go alone for a%Nlittle while.」%K%P
+
+0x714
+Makoto「Good for you.」%K%P
+
+0x728
+Yuka「Wh-What the hell!? In the first place, if you hadn't%Nrejected me, then...」%K%P
+
+0x760
+―Suddenly, the bushes shake.%K%P
+
+0x774
+Yuka「KYAAAAA!」%K%P
+
+0x788
+Yuka is so surprised by the sound that she latches%Nonto me.%K%P
+
+0x7AC
+Makoto「Uwaa!」%K%P
+
+0x7B8
+I lose balance, and end up embracing Yuka in order to%Nstand my ground.%K%P
+
+0x7CC
+Yuka「...」%K%P
+
+0x7D8
+Makoto「...」%K%P
+
+0x7E4
+We silently stare into each other's eyes...%K%P
+
+0x80C
+Yuka's cloudy eyes make me instinctively tremble.%K%N
+
+0x818
+Her body is trembling too.%K%P
+
+0x824
+I can't move; my body's gone numb.%K%P
+
+0x830
+No... maybe it's more like I don't want to move.%K%P
+
+0x83C
+Yuka「See...」%K%P
+
+0x848
+Yuka「You're scared too...」%K%P
+
+0x854
+Makoto「...」%K%P
+
+0x860
+Yuka「...」%K%P
+
+0x86C
+Makoto「...」%K%P
+
+0x878
+Yuka「...」%K%P
+
+0x884
+Makoto「H-Hey, Yuka? ... That's why we should just hurry up and%Nget this over with, so if you would just let go of me...」%K%P
+
+0x898
+But Yuka's too shaken.%K%P
+
+0x8A4
+Makoto「Yuka...」%K%P
+
+0x8B0
+Yuka「I can't... my legs are too frozen to move...」%K%P
+
+0x8BC
+Makoto「...」%K%P
+
+0x8D0
+Yuka「B-But...」%K%P
+
+0x8DC
+Makoto「?」%K%P
+
+0x8E8
+Yuka「There might be one method that can get me walking%Nagain...」%K%P
+
+0x8F4
+Makoto「... What method?」%K%P
+
+0x900
+Yuka「If... If...」%K%P
+
+0x90C
+Yuka「If I were to say that I needed your help, Makoto... would%Nyou do it...?」%K%P
+
+0x918
+Makoto「Y-Yeah...」%K%P
+
+0x924
+I want to get out of this situation as quickly as possible.%K%P
+
+0x930
+Yuka and I are embracing each other... if Izumi-san were%Nto see us, then...%K%P
+
+0x93C
+Yuka「Then...」%K%P
+
+0x960
+Yuka says this, and quietly brings her face close to mine.%K%N
+
+0x96C
+The scent of sweet shampoo from her hair drifts in the%Nair.%K%P
+
+0x978
+Yuka「That method... is for you to kiss me... Makoto.」%K%P
+
+0x984
+... ... ... ... What?%K%P
+
+0x998
+Yuka「...」%K%P
+
+0x9A4
+H-Hold on...%K%N
+
+0x9B0
+HOLD ON!!!!!%K%N
+
+0x9BC
+How did things come to this?!%K%P
+
+0x9C8
+Makoto「Y-Yuka...?」%K%P
+
+0x9D4
+My voice is full of disbelief.%K%N
+
+0x9E0
+For some unknown reason, this has to be a joke.%K%N
+
+0x9EC
+At least, that's what I want to believe.%K%P
+
+0xA00
+Yuka「Idiot! There's no way that I'd say that!!」%K%P
+
+0xA14
+She'd laugh as she said it... But that's merely what I'd%Nhoped she say, not what she's actually doing.%K%P
+
+0xA20
+After all, there's Izumi-san. ... I already have someone...%Nwho told me they love me!%K%P
+
+0xA2C
+But...%K%P
+
+0xA5C
+Yuka「...」%K%P
+
+0xA68
+Yuka's eyes are serious...%K%N
+
+0xA74
+Huh...? Is she serious?%K%N
+
+0xA80
+I feel like I could cry.%K%P
+
+0xA8C
+Yuka「Please... give me... courage.」%K%P
+
+0xA98
+... She's serious.%K%N
+
+0xAA4
+Why... Why is Yuka doing this now...?%K%N
+
+0xAB0
+Now I really want to cry...%K%P
+
+0xAC4
+Yuka「... Makoto...」%K%P
+
+0xAD0
+My heart is beating very fast.%K%P
+
+0xADC
+Yuka's lips...%K%N
+
+0xAE8
+Yuka's small lips...%K%N
+
+0xAF4
+Yuka's soft, trembling lips...%K%P
+
+0xB00
+Izumi-san's face and Yuka's face overlap.%K%P
+
+0xB0C
+I... I...%K
+
+0x1188
+When petticoats woo, breeks may come speed.
+
+0x1194
+I have Izumi-san...!
+
+0xB80
+I gradually...blank out.%K%P
+
+0xB8C
+Yuka... Yuka...%K%N
+
+0xB98
+Before long... my shadow becomes one with Yuka's%Nshadow...%K%P
+
+0xBB4
+...%K%P
+
+0xBC0
+(... Did I... do... it?)%K%P
+
+0xBCC
+My consciousness grows faint, and I suddenly fall into a%Nwhite world...%K%P
+
+0xBE0
+(Izumi-san...!!)%K%P
+
+0xBEC
+I clench my hands into fists, and barely manage to%Nsqueeze my voice out.%K%P
+
+0xBF8
+Makoto「I'm sorry... I... can't.」%K%P
+
+0xC0C
+Yuka's face is sad.%K%P
+
+0xC18
+Makoto「Um... it's not like... I hate you or anything, Yuka.」%K%P
+
+0xC24
+Makoto「It's just... well... I don't think we have that kind of%Nrelationship...」%K%P
+
+0xC30
+I'm talking frantically. It's as if I'm desperately making an%Nexcuse to justify myself.%K%P
+
+0xC3C
+Yes, that's probably it... my heart's throbbing so much%Nbecause I feel guilty.%K%P
+
+0xC58
+Yuka「I see...」%K%P
+
+0xC64
+Yuka mutters this with regret.%K%P
+
+0xC70
+Makoto「I'm sorry... but that's... my final word on it...」%K%P
+
+0xC7C
+I apologize once more.%K%P
+
+0xC90
+Yuka「Oh, looks like I stopped trembling when I wasn't paying%Nattention. ... Geez, I guess it was nothing after all.」%K%P
+
+0xC9C
+Yuka returns to her normal self as if nothing ever%Nhappened.%K%P
+
+0xCA8
+Her swift change in attitude slightly throws me off...%K%P
+
+0xCB4
+Well, it doesn't matter.%K%N
+
+0xCC0
+Anyway, I need to get out of this situation, pronto!%K%P
+
+0xCCC
+Makoto「H-Hey... Yuka...」%K%P
+
+0xCE0
+Yuka「Oh... S-Sorry...」%K%P
+
+0xCFC
+Yuka lets go of me.%K%P
+
+0xD08
+Makoto「Now let's get going.」%K%P
+
+0xD14
+Once again, we begin walking towards the old well.%K%P
+
+0xD28
+... ... ...%K%P
+
+0xD34
+―Suddenly!!%K%P
+
+0xD78
+The bushes shake violently.%K%N
+
+0xD84
+We immediately stand on guard.%K%N
+
+0xD90
+Just then, out of the bushes comes...%K A cute puppy.%K%P
+
+0xD9C
+Even though... it's just a cute puppy...%K%P
+
+0xDB0
+Yuka「KYAAAAAAAAAAAA!!!」%K%P
+
+0xDBC
+... Yuka screams as if she's being murdered.%K%P
+
+0xDD0
+And then, it jumps towards me...%K%P
+
+0xDDC
+Whoooooooooooooosh!!!%K%P
+
+0xDE8
+With all its strength, it wrings my neck.%K%P
+
+0xDF4
+Makoto「!!!!!!!!!!!!!!!!」%K%P
+
+0xE00
+My trachea is crushed, and I can't breathe.%K%N
+
+0xE0C
+I do my best to fight it off.%K%P
+
+0xE20
+Yuka「D-Damn you! You damned severed head!! I'll punish you%Nso badly so that you'll never come back again!!!」%K%P
+
+0xE2C
+(Y-You're... You're wrong... Yuka...)%K%P
+
+0xE38
+(That's... not a severed head, it's my head!!)%K%P
+
+0xE44
+As I gradually begin to pass out, I desperately try to%Nspeak.%K%N
+
+0xE50
+But my voice won't come out...%K%P
+
+0xE98
+... Suddenly, my consciousness sinks into darkness...%K%P
+

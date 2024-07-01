@@ -1,0 +1,420 @@
+text area offset and size:
+0xE58
+0x1BC9
+0x134
+The morning has arrived.%K%P
+
+0x140
+When I enter the living room, everything goes the same%Nway it did last time.%K%P
+
+0x14C
+When I begin to eat the toast Kurumi brought, Haruka%Ncomes in the same way she did last time.%K%P
+
+0x158
+Okuhiko is chasing after her...%K%P
+
+0x16C
+Okuhiko「Promise? What promise?」%K%P
+
+0x190
+Haruka「... I'm going fishing today.」%K%P
+
+0x1A4
+Haruka「... Today, I'm...」%K%P
+
+0x1C0
+Yuka「Hold on. We're scheduled to play tennis today.」%K%P
+
+0x1D4
+Haruka「Huh? ... Tennis?」%K%P
+
+0x1E8
+Yuka「Haruka, you can't just say 'I'll pass' today. That'd be%Ngoing against the group leader's orders.」%K%P
+
+0x1FC
+Haruka looks at me with a troubled expression.%K%P
+
+0x218
+Okuhiko「That's right, Haruka-chan. As planned, we're playing%Ntennis.」%K%P
+
+0x22C
+Haruka「I made a promise...」%K%P
+
+0x238
+Okuhiko「It's fine, just cancel that promise.」%K%P
+
+0x244
+Haruka「I have to keep my promise, no matter what!」%K%P
+
+0x260
+Kurumi「Haruka-san, who did you make that promise with?」%K%P
+
+0x27C
+Haruka「It was...」%K%P
+
+0x288
+Makoto「... With me.」%K%P
+
+0x2B8
+Kurumi「Huh?」%K%P
+
+0x2C4
+Haruka「...」%K%P
+
+0x2E8
+Makoto「Haruka and I are going fishing today. We're not going to%Nplay tennis.」%K%P
+
+0x2FC
+Makoto「Haruka and I are going out today. We're not going to play%Ntennis.」%K%P
+
+0x310
+Okuhiko「Wh-Why is Ishihara saying that? Is this true,%NHaruka-chan?」%K%P
+
+0x32C
+Haruka「Yes.」%K%P
+
+0x338
+Makoto「So we'll be going now. Sorry Yuka, but we're going to%Nhave to ignore your orders.」%K%P
+
+0x354
+Yuka「Well, that's fine... The leader's not a dictator, after all...」%K%P
+
+0x370
+Okuhiko「Just hold on, Yuka-chan. You can't just let them off this%Neasy. Ishihara, you still don't understand? The basis of%Nthis seminar is group activities, isn't it?」%K%P
+
+0x37C
+Makoto「You have no right to say that.」%K%P
+
+0x390
+Okuhiko「What was that!?」%K%P
+
+0x3A4
+I leave the living room.%K%N
+
+0x3B0
+Haruka quickly follows me.%K%P
+
+0x3C4
+Okuhiko「Wait, Haruka-chan. What happened between you and%NIshihara?」%K%P
+
+0x3D0
+Haruka「... We made a promise.」%K%P
+
+0x3DC
+Okuhiko「That's not an explanation. What happened between you%Nand Ishihara yesterday?」%K%P
+
+0x3E8
+Haruka「I'm not going to tell you.」%K%P
+
+0x3F4
+Okuhiko「Why not?」%K%P
+
+0x400
+Haruka「This is something between me and Makoto... It doesn't%Nconcern you, Okuhiko.」%K%P
+
+0x41C
+Okuhiko「Why are you going fishing with Ishihara? What do you%Nsee in that asshole?」%K%P
+
+0x430
+Okuhiko「Why are you going with Ishihara? What do you see in that%Nasshole?」%K%P
+
+0x43C
+Haruka「Makoto... trusts me...」%K%P
+
+0x448
+Okuhiko「Trust? Ishihara? It's clear as day that this vulgar%Nbastard has some kind of ulterior motive.」%K%P
+
+0x454
+Haruka「We trust each other. You wouldn't understand...」%K%P
+
+0x460
+Okuhiko「You're the one who doesn't understand about Ishihara.」%K%P
+
+0x46C
+Haruka「What's going on between me and Makoto is none of your%Nconcern.」%K%P
+
+0x480
+Okuhiko「You're wrong! It does concern me! Haruka-chan, I-!」%K%P
+
+0x48C
+Makoto「Okuhiko, stop making a fool of yourself.」%K%P
+
+0x4A0
+Okuhiko「Shut up. You don't have the right to say anything.」%K%P
+
+0x4AC
+Makoto「Whatever... Haruka, shall we go?」%K%P
+
+0x4C8
+Haruka「Wait. Tell him straight.」%K%P
+
+0x4D4
+Makoto「Huh?」%K%P
+
+0x4E0
+Haruka「About how you and I... trust each other, no matter what%Nhappens... isn't that right?」%K%P
+
+0x4EC
+Makoto「...」%K%P
+
+0x4F8
+Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're%Nthe only ones who understand.」%K%P
+
+0x504
+Hold on...%K%N
+
+0x510
+Where did this turn of events... come from...?%K%P
+
+0x51C
+Haruka「Why aren't you saying anything?」%K%P
+
+0x528
+Makoto「No, I...」%K%P
+
+0x534
+Haruka「Are you saying we can't trust each other?」%K%P
+
+0x540
+Makoto「That's not it, that's not it at all.」%K%P
+
+0x54C
+Okuhiko「Haruka-chan, what's so good about this irresponsible%Nbastard?」%K%P
+
+0x558
+Makoto「Irresponsible!?」%K%P
+
+0x564
+You don't even know the circumstances!%K%P
+
+0x570
+Makoto「I trust Haruka!」%K%P
+
+0x57C
+Makoto「We made a promise last night. I trust Haruka. That's why%NHaruka trusts me, too!」%K%P
+
+0x5D0
+―Suddenly, a dry sound echoes.%K%P
+
+0x5DC
+Taken aback, we all turn towards the sound. Saki is%Nstanding frozen at the front door...%K%P
+
+0x5E8
+Laying at her feet is her basket.%K%P
+
+0x604
+Saki「I see... so you really trust her after all...」%K%P
+
+0x610
+Makoto「!!!」%K%P
+
+0x61C
+Shit! Now that I think about it... this is around the time Saki%Narrived last time!%K%P
+
+0x628
+Makoto「Hold on, Saki!」%K%P
+
+0x634
+Saki「I-I'll be going now... Farewell.」%K%P
+
+0x648
+Makoto「Y-You're wrong. There's a reason for-!」%K%P
+
+0x654
+I rush over to Saki as she tries to run.%K%P
+
+0x660
+I reach my hand out, but Saki violently slaps it aside.%K%P
+
+0x66C
+She gives me a piercing glare.%K%P
+
+0x694
+Just then, she suddenly crushes the basket.%K%P
+
+0x708
+She's crushing it!%K%N
+
+0x714
+――The sound of wood snapping is heard.%K%N
+
+0x720
+――The basket has now broken apart.%K%P
+
+0x72C
+Plastic tableware scatters everywhere. Sandwiches%Ncome flying out.%K%P
+
+0x744
+Even though I made preparations to prevent it this time...%K%P
+
+0x750
+Haruka throws a powerful glance at Saki, then gets%Ncloser and closer to her.%K%P
+
+0x75C
+Haruka「Saki! You're wrong!」%K%P
+
+0x780
+Saki「Stay away from me!」%K%P
+
+0x78C
+Even so, Haruka doesn't stop walking.%K%P
+
+0x7A0
+Saki「What is it? Get the hell away from me! I have no business%Nwith you, you damn clone!」%K%P
+
+0x7AC
+Haruka「!!!」%K%P
+
+0x7C8
+Okuhiko「Ah...」%K%P
+
+0x7DC
+Yuka「Huh?」%K%P
+
+0x7F8
+Kurumi「... Clone?」%K%P
+
+0x804
+...%K%P
+
+0x810
+In the end, the same thing happened.%K%P
+
+0x81C
+It happened quite a bit earlier than last time, but...%K%P
+
+0x828
+I don't really remember what happened after that.%K%P
+
+0x834
+I'm unable to think of anything.%K%P
+
+0x840
+The shock from this time is nowhere as big as it was last%Ntime, but...%K%P
+
+0x84C
+At any rate, this time, I ended up only hurting both Saki%Nand Haruka...%K%P
+
+0x8B8
+When I come to my senses, it's already nighttime.%K%P
+
+0x8C4
+After what happened, I've been hiding out in my room.%K%P
+
+0x8D0
+I still haven't found a way to change Saki's situation.%K%P
+
+0x8DC
+As time passes on, I start to get impatient.%K%P
+
+0x8E8
+Despite history somewhat changing, it seems like it's still%Nheaded in a similar direction.%K%P
+
+0x8F4
+Lying down on the floor of my room is Saki's broken%Nbasket...%K%P
+
+0x900
+(I should... try to fix it.)%K%P
+
+0x90C
+This time, I'll fix it myself.%K%P
+
+0x918
+The current me is the only one who can do something%Nthat trivial...%K%P
+
+0x960
+... ... ...%K%P
+
+0x9DC
+As I'm fixing the basket, Haruka suddenly comes in.%K%P
+
+0x9E8
+Haruka「Is that Saki's?」%K%P
+
+0x9F4
+Makoto「Yeah...」%K%P
+
+0xA00
+Haruka「Have you been fixing it all this time?」%K%P
+
+0xA0C
+Makoto「... Well, yeah.」%K%P
+
+0xA18
+Haruka「I'll help.」%K%P
+
+0xA24
+Makoto「It's fine...」%K%P
+
+0xA30
+Haruka「It's my fault... right?」%K%P
+
+0xA3C
+Makoto「That's not true.」%K%P
+
+0xA48
+Haruka「You don't have to cover for me.」%K%P
+
+0xA54
+Makoto「No, it really isn't your fault.」%K%P
+
+0xA68
+Haruka「I'll help.」%K%P
+
+0xA74
+Makoto「I said it's fine.」%K%P
+
+0xA80
+Haruka「What you're feeling isn't irresponsible, right?」%K%P
+
+0xA8C
+Makoto「...」%K%P
+
+0xA98
+Haruka「Even I understand at least that much...」%K%P
+
+0xAA4
+Makoto「...」%K%P
+
+0xAB0
+Haruka「That's why...」%K%P
+
+0xABC
+Makoto「Haruka... just what happened between you and Saki?」%K%P
+
+0xAC8
+Makoto「You... need to talk properly to her.」%K%P
+
+0xAD4
+Haruka「...」%K%P
+
+0xAE0
+Makoto「I hate it when I see the two of you like you are right now...」%K%P
+
+0xAEC
+Makoto「Your relationship is strained over a simple%Nmisunderstanding.」%K%P
+
+0xAF8
+Makoto「Don't you find that strange?」%K%P
+
+0xB04
+Haruka「...」%K%P
+
+0xB10
+Makoto「You might be scared, but I want you to leave it to me...」%K%P
+
+0xB1C
+Haruka「... All right.」%K%P
+
+0xB28
+As I nod, I hold up the basket I'm fixing.%K%P
+
+0xB34
+Makoto「I think it'll take until tomorrow morning to fix... It's a really%Nbig job, you know?」%K%P
+
+0xB48
+Haruka「I understand...」%K%P
+
+0xB5C
+Haruka gives me a little smile...%K%P
+

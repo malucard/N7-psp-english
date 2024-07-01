@@ -1,0 +1,174 @@
+text area offset and size:
+0x730
+0x8CC
+0x7C
+Izumi「... Please...」%K%P
+
+0x88
+Izumi「... Wake up...」%K%P
+
+0x94
+Izumi「... Wake up...」%K%P
+
+0xA0
+Izumi「... Makoto-kun, if you're gone...」%K%P
+
+0xAC
+Izumi「... I don't want that...」%K%P
+
+0xB8
+Izumi「... That's no good...」%K%P
+
+0xC4
+Izumi「... I... couldn't go on living...」%K%P
+
+0xD0
+Izumi「... I want to always...」%K%P
+
+0xDC
+Izumi「... be by your side...」%K%P
+
+0xE8
+Izumi「... I don't want you to die...」%K%P
+
+0xF4
+Izumi「... Hey, wake up...」%K%P
+
+0x100
+Izumi「... I said wake up...」%K%P
+
+0x10C
+Izumi「... Just one more time...」%K%P
+
+0x118
+Izumi「... I want to see... the stars with you...」%K%P
+
+0x124
+Izumi「... The stars... The stars...」%K%P
+
+0x130
+(... Izumi... san...)%K%P
+
+0x168
+I open my eyes.%K%P
+
+0x174
+The rain is falling.%K%N
+
+0x180
+I see a gray sky.%K%N
+
+0x18C
+Countless drops of water are flying down.%K%P
+
+0x1A4
+Izumi「―Ma-Makoto-kun!!!」%K%P
+
+0x1B0
+Makoto「...」%K%P
+
+0x1BC
+Izumi「Are you all right!? Hang in there!」%K%P
+
+0x1D8
+Makoto「...」%K%P
+
+0x1E4
+Izumi-san...%K%N
+
+0x1F0
+She's crying.%K%P
+
+0x1FC
+Beyond her, I see the tip of a tall cliff.%K%P
+
+0x208
+I feel the sensation of slippery mud on my back.%K%P
+
+0x214
+Makoto「... What... am I doing...」%K%P
+
+0x220
+Makoto「... In a place... like this...?」%K%P
+
+0x22C
+I try to stand up as I say this, but as I thought, my body%Nwon't move.%K%P
+
+0x238
+Every time I take a breath, a large amount of blood%Ncomes overflowing from my mouth.%K%P
+
+0x244
+Izumi「... Because, Makoto-kun... Makoto-kun, you...」%K%P
+
+0x250
+Izumi「... saved... me...」%K%P
+
+0x25C
+Izumi「... from falling off that cliff...」%K%P
+
+0x268
+Izumi「... Makoto-kun... you...」%K%P
+
+0x274
+Izumi「... protected... me...」%K%P
+
+0x280
+(―Cliff?)%K%P
+
+0x28C
+I muster my strength and raise my left hand.%K%P
+
+0x2A8
+(6 SAT 10:26 A.M.)%K%P
+
+0x2B4
+The former Izumi-san's words faintly pop into my mind.%K%P
+
+0x300
+Izumi「The moment you create the history in which 'I don't die',%Nyou go back to the true, real world.」%K%P
+
+0x32C
+Makoto「... Izumi... san...」%K%P
+
+0x338
+Makoto「... The star...」%K%P
+
+0x344
+Izumi「Huh?」%K%P
+
+0x350
+Makoto「... The star... sand...」%K%P
+
+0x35C
+Izumi「Star sand...」%K%P
+
+0x368
+Izumi「Star sand...」%K%P
+
+0x384
+Izumi「... What are you talking about?」%K%P
+
+0x390
+... ... ...%K%P
+
+0x3B8
+The cold rain falls.%K%P
+
+0x3C4
+Beyond the sound of rain, I hear an ambulance siren.%K%P
+
+0x3D0
+Though my left hand is numb, I use it to search my%Npocket, despite my body's complaints.%K%P
+
+0x3DC
+And I take out...%K%P
+
+0x408
+―The three grains of star sand.%K%N
+
+0x414
+They're in the blue, transparent water...%K%N
+
+0x420
+The three stars, as if nestling together, shine...%K%P
+

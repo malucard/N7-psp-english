@@ -1,0 +1,279 @@
+text area offset and size:
+0x920
+0x165F
+0x50
+Okuhiko「Why did you go fishing with Ishihara? What do you see in%Nthat asshole?」%K%P
+
+0x5C
+Haruka「Makoto... is kind to me...」%K%P
+
+0x68
+Okuhiko「Kind? Ishihara? He's nothing but a vulgar bastard. In any%Ncase, it's clear as day that he has a ulterior motive.」%K%P
+
+0x74
+Makoto「Who's a vulgar bastard?」%K%P
+
+0x98
+Okuhiko「AHHH!!」%K%P
+
+0xA4
+I appear before the two of them.%K%P
+
+0xB0
+According to my memories, I wasn't supposed to appear%Nfor a little while longer, but whatever.%K%N
+
+0xBC
+My timing won't really affect anything... Probably.%K%P
+
+0xD0
+Okuhiko「H-Hey! Ishihara...!? A-Aren't you here... a little too early?」%K%P
+
+0xDC
+Makoto「What are you talking about, Okuhiko...?」%K%P
+
+0xE8
+I ignore Okuhiko's question, and slowly approach him.%K%P
+
+0x104
+Okuhiko「H-Hey, wait, Ishihara! What's wrong!? ... C-Calm down... We%Ncan talk this out... right?」%K%P
+
+0x110
+Okuhiko is panicking.%K%N
+
+0x11C
+... Do I really look that scary?%K%P
+
+0x128
+Probably.%K All of my frustrations and resentment towards%NOkuhiko have been accumulating so much that they're%Non the verge of exploding right now...%K%P
+
+0x134
+Makoto「Listen, Okuhiko. ... If you're going to call me a 'vulgar%Nbastard'... then take this!」%K%P
+
+0x140
+Okuhiko「U-UWAAAAAAAAAAAAAA!!!!!」%K%P
+
+0x14C
+With all my might, I lunge my fist towards Okuhiko's face...!!%W%W%K%P
+
+0x168
+...%K%P
+
+0x174
+Makoto「...」%K%P
+
+0x180
+Haruka「...」%K%P
+
+0x18C
+Okuhiko「... Aah!」%K%P
+
+0x198
+... My fist stops short inches away from Okuhiko's nose.%K%P
+
+0x1C8
+Okuhiko's eyes go blank as he collapses, exchanging a%Npassionate kiss with the floor.%K%P
+
+0x1D4
+Makoto「Phew...」%K%P
+
+0x1E0
+I lower my arm as I breath a sigh of relief.%K%P
+
+0x1EC
+Sorry, Okuhiko...%K%N
+
+0x1F8
+Well, I didn't actually hit him, so I guess that's something%Nhe should be grateful for.%K%P
+
+0x204
+Haruka「... Why?」%K%P
+
+0x234
+Makoto「Huh?」%K%P
+
+0x240
+Haruka「Why did you do that? Your actions... weren't the same as%Nlast time.」%K%P
+
+0x24C
+Haruka looks at me with a sharp, accusing glare.%K%P
+
+0x258
+Makoto「Because I was pissed off.」%K%P
+
+0x264
+Haruka「...」%K%P
+
+0x270
+Makoto「When I thought about how he's responsible for all of my%Nfrustrations, I couldn't take it any longer.」%K%P
+
+0x27C
+Makoto「And he had the nerve to call me a vulgar bastard for a%Nsecond time.」%K%P
+
+0x290
+Haruka「I don't understand...」%K%P
+
+0x29C
+Makoto「Humans aren't always logical... It's because we%Nsometimes act on our emotions that makes us alive.」%K%P
+
+0x2A8
+Haruka「Emotions...」%K%P
+
+0x2B4
+Makoto「Haruka, you should also try living your life by being more%Nhonest to yourself.」%K%P
+
+0x2C0
+Haruka「... But-」%K%P
+
+0x2CC
+Makoto「That's enough... I'm not in the mood to answer anything%Nelse right now.」%K%P
+
+0x2E8
+Haruka「That's not it... Isn't it bad if you make Okuhiko faint... right%Nhere?」%K%P
+
+0x2F4
+... Huh?%K%N
+
+0x300
+Now that she mentions it, Saki's supposed to come any%Nminute now...%K%P
+
+0x314
+When I look down at my feet, I see that Okuhiko shows no%Nsigns of waking up.%K%P
+
+0x320
+(D-Did I... screw it up?)%K%P
+
+0x32C
+When I look up, Saki enters my field of vision.%K%N
+
+0x338
+Saki is a little bit away from the lodge, holding rackets%Nand her basket, and looks at me with a criticizing glare...%K%P
+
+0x3A4
+... Okuhiko comes to around ten minutes later.%K%P
+
+0x3B0
+However, to Okuhiko, it probably won't be a pleasant%Nawakening.%K%P
+
+0x3BC
+As for why...%K%P
+
+0x3D0
+Okuhiko「U... Ugh...」%K%P
+
+0x3DC
+Okuhiko「Wh-What happened to me...?」%K%P
+
+0x3E8
+He shakes his head a few times, and slowly stands up%Nas he blinks his eyes.%K%P
+
+0x3F4
+It's possible that his memories of the moments before he%Nfainted might be fuzzy.%K%P
+
+0x410
+Okuhiko then sees Saki standing in front of him, her eyes%Nburning with repulsion...%K%P
+
+0x45C
+Okuhiko「Ahh!! S-Saki... chan!?」%K%P
+
+0x48C
+... He drops to the floor again, unable to stand up due to%Nhis fear.%K%P
+
+0x498
+Saki「I heard you...」%K%P
+
+0x4A4
+Okuhiko「Huh? Huh? H-Heard what?」%K%P
+
+0x4B8
+Saki「!!」%K%P
+
+0x4E8
+Suddenly, Saki throws the basket to the floor.%K%P
+
+0x4F4
+Okuhiko「EEEEEEEEEEEEEEEEEEEK!!!」%K%P
+
+0x51C
+She crushes it! The sound of wood snapping is heard.%K%P
+
+0x528
+The basket has now broken apart. Plastic tableware%Nscatters everywhere.%K%P
+
+0x534
+Okuhiko's eyes are so wide that it looks like they could%Npop out of their sockets. His mouth drops widely, to the%Npoint that he could dislocate his chin, as he watches%Nthis scene unfold.%K%P
+
+0x558
+Saki「So you like playing with people's feelings, you dipshit!?」%K%P
+
+0x564
+Saki glares at him.%K%P
+
+0x570
+Okuhiko's shoulders shoot up with a start.%K%P
+
+0x57C
+It seems he's finally realized the meaning behind this%Nscene.%K%P
+
+0x588
+Her intensity that seems too strong for acting has left%Neven us dumbfounded.%K%P
+
+0x594
+The basket starts to become cruelly tattered...%K%P
+
+0x5A8
+Interestingly enough, the events that follow more or less%Nhappen in the same way as last time.%K%P
+
+0x5B4
+The enraged Saki revealed that Haruka is a clone, and%Nthen, caught up by the awkward atmosphere, left us%Nbehind and returned to her summer house.%K%P
+
+0x5C0
+Of course, that was all acting...%K%P
+
+0x5CC
+Okuhiko, knowing none of this, is caught by feelings of%Nremorse, like last time.%K%P
+
+0x5D8
+Izumi-san arrives at the lodge with the ingredients to%Nmake dinner, and things after that are pretty much the%Nsame until we get around to the Test of Courage idea...%K%P
+
+0x620
+... ... ...%K%P
+
+0x694
+Izumi「Hey, I just got a good idea.」%K%P
+
+0x6A0
+Izumi-san speaks up after we finish eating.%K%P
+
+0x6B4
+Okuhiko「What is it?」%K%P
+
+0x6C0
+Okuhiko is keenly interested, probably because he%Nwants a distraction from his depression from what%Nhappened with Saki.%K%P
+
+0x6D4
+Izumi「There's an old graveyard close by♪」%K%P
+
+0x6E8
+Okuhiko「Huh?」%K%P
+
+0x6F4
+Izumi「Why don't we have a Test of Courage there?」%K%P
+
+0x700
+This time, the one who suggests the Test of Courage%Nisn't Kurumi, but rather Izumi-san.%K%P
+
+0x70C
+Out of all the members here, only Izumi-san is familiar with%Nthe local geography.%K%P
+
+0x718
+It might be pushing Okuhiko's suspension of disbelief a%Nbit, but he might also think that we've arranged this to%Ncheer him up.%K%P
+
+0x72C
+Indeed, Okuhiko doesn't look suspicious at all, and he%Nagrees.%K%P
+
+0x738
+In fact, a daring smirk has risen to his face.%K%P
+
+0x744
+(Just what is he planning...?)%K%P
+

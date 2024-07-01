@@ -1,0 +1,222 @@
+text area offset and size:
+0x758
+0xDBF
+0x170
+??「Onii-chan!」%K%P
+
+0x17C
+??「Hey, Onii-chan!」%K%P
+
+0x188
+Makoto「Hmm? ... Zzz...」%K%P
+
+0x194
+??「Geez, if you don't wake up soon, aren't you going to be%Nlate!?」%K%P
+
+0x1A0
+I slowly open my eyes...%K%P
+
+0x1E8
+Makoto「Kurumi...」%K%P
+
+0x1F4
+Kurumi「Eheh♪」%K%P
+
+0x200
+Makoto「...」%K%P
+
+0x20C
+Kurumi「...」%K%P
+
+0x218
+Makoto「...」%K%P
+
+0x224
+Kurumi「...」%K%P
+
+0x230
+Makoto「Huh? Where's my morning kiss?」%K%P
+
+0x244
+Kurumi「W-WHAT!?」%K%P
+
+0x250
+Makoto「Well, you see this kind of situation often in games, right...?」%K%P
+
+0x25C
+Kurumi「O-Onii-chan...」%K%P
+
+0x2E0
+Once I finish eating my ham and mozzarella cheese%Nsandwich in the living room, I immediately set out to%NLunabeach.%K%P
+
+0x2EC
+Kurumi「Onii-chaan! Waaait!」%K%P
+
+0x2F8
+Kurumi chases after me as I walk down the forest road%Ntowards the ocean.%K%P
+
+0x30C
+Kurumi「Haah... finally caught up to you...」%K%P
+
+0x318
+Makoto「Yes, yes... I understand...」%K%P
+
+0x324
+Kurumi「Huh? Understand what?」%K%P
+
+0x330
+Makoto「You plan to invite me to go catch crabs on Princess%NBeach! Am I right?」%K%P
+
+0x33C
+Kurumi「Bzzt! Wrong answer～」%K%P
+
+0x348
+Makoto「Huh? Then what is it?」%K%P
+
+0x35C
+Kurumi「The correct answer was 'Kurumi was thinking of inviting%Nyou to watch crab sumo on Princess Beach'～♪」%K%P
+
+0x368
+Makoto「...」%K%P
+
+0x374
+Kurumi「Well? Let's watch some crab sumo!」%K%P
+
+0x380
+Makoto「About that... I actually have to go help Izumi-san all day.」%K%P
+
+0x394
+Kurumi「Huh... you're going to Onee-chan's place...」%K%P
+
+0x3A0
+Makoto「Yeah.」%K%P
+
+0x3AC
+Kurumi「You can help Onee-chan whenever, right? Like tomorrow,%Nor the day after that...」%K%P
+
+0x3B8
+Makoto「I can't! If I don't do it today, then Izumi-san will go extinct!」%K%P
+
+0x3CC
+Kurumi「What?」%K%P
+
+0x3D8
+Makoto「Okay, I was just kidding there. But seriously, I've already%Ndecided that's what I'm doing.」%K%P
+
+0x3E4
+Makoto「Okay? So I'll come watch the crab sumo with you%Ntomorrow...」%K%P
+
+0x3F0
+Kurumi「Tomorrow...?」%K%P
+
+0x3FC
+Makoto「Yeah. Tomorrow.」%K%P
+
+0x408
+Kurumi「You'll definitely come tomorrow?」%K%P
+
+0x414
+Makoto「Of course. It's fate that I will...」%K%P
+
+0x420
+Kurumi「Fate...? Kurumi doesn't really get what you're on about,%Nbut will you promise to come?」%K%P
+
+0x42C
+Makoto「Yeah.」%K%P
+
+0x438
+Kurumi「Got it♪ Well then, see you later, Onii-chan!」%K%P
+
+0x44C
+Kurumi runs ahead towards Princess Beach...%K%P
+
+0x4D0
+Makoto「Hello there!」%K%P
+
+0x4DC
+I open the door to Lunabeach.%K%P
+
+0x4E8
+Izumi「Oh, Makoto-kun... welcome.」%K%P
+
+0x4F4
+Makoto「There's no need to greet me as a customer today.」%K%P
+
+0x500
+Izumi「Huh? Why?」%K%P
+
+0x50C
+Makoto「Because I came to help you... For today, I will be an%Nemployee of Lunabeach.」%K%P
+
+0x518
+Makoto「Of course, I'll do it for free. I'm just volunteering...」%K%P
+
+0x524
+Izumi「Really?」%K%P
+
+0x530
+Makoto「Yeah.」%K%P
+
+0x53C
+Izumi「... All right! Well then, I'll accept your offer. What would you%Nlike to help with?」%K%P
+
+0x548
+Makoto「About that...」%K%P
+
+0x554
+Izumi「?」%K%P
+
+0x560
+Makoto「You see, even I have my physical limits...」%K%P
+
+0x56C
+Izumi「Huh?」%K%P
+
+0x578
+Makoto「For example...」%K%P
+
+0x584
+Makoto「I can't wash plates, clean windows, mop or wax the floor,%Nsweep outside the front of the shop, refill sugar or fresh%Ncream, change dead light bulbs, or go shopping for the%Nbarbecue.」%K%P
+
+0x590
+Makoto「... So if those things come up, could you please excuse%Nme from them?」%K%P
+
+0x59C
+Izumi「Huh? ... Really?」%K%P
+
+0x5A8
+Makoto「Huh?」%K%P
+
+0x5B4
+Izumi「... You can't?」%K%P
+
+0x5C0
+Makoto「What?」%K%P
+
+0x5CC
+Izumi「I guess it's impossible for you, Makoto-kun...」%K%P
+
+0x5D8
+Crap...%K%P
+
+0x5E4
+Izumi「If it were Gen-san, the fisherman, he'd have it all done in%Nan hour...」%K%P
+
+0x5F0
+Double crap...%K%P
+
+0x5FC
+Izumi「But I guess this island is lacking in able men...」%K%P
+
+0x608
+... Dammit!%K%P
+
+0x614
+Makoto「I understand! I'm a man too, you know! I'll take care of it all!」%K%P
+
+0x620
+Izumi「Huh? Really? You're a lifesaver～♪」%K%P
+
+0x62C
+Izumi「Thank you, Makoto-kun♪」%K%P
+

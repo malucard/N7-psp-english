@@ -1,0 +1,84 @@
+text area offset and size:
+0x2A8
+0x522
+0x40
+We eat dinner at Lunabeach, thank Izumi-san, and leave%Nthe shop.%K%P
+
+0x4C
+In the end, Izumi-san and I don't get the chance to talk all%Nalone.%K%P
+
+0x58
+Which means, naturally, that I don't get to hear the%Ncontinuation of her story...%K%P
+
+0x64
+(But... it was inevitable...)%K%P
+
+0x70
+(So tonight, I will sneak out of the lodge and come here%Nagain.)%K%P
+
+0x7C
+(I'll wait until Kurumi is sleeping, then I'll have all the time I%Nneed to hear the story.)%K%P
+
+0x88
+As I think about this, I begin to start walking towards the%Nlodge.%K%P
+
+0x94
+And, at that time...%K%P
+
+0xA0
+Kurumi「Oh!! Almost forgot!」%K%P
+
+0xD0
+Kurumi slams open the door and comes out.%K%P
+
+0x104
+Kurumi「You know what? Kurumi remembered there's something%Nshe had to tell you!」%K%P
+
+0x110
+Everyone「???」%K%P
+
+0x11C
+Kurumi「Kurumi has decided to call Okuhiko-kun 'Okkun' from now%Non♪」%K%P
+
+0x128
+Okuhiko「... Huh?」%K%P
+
+0x134
+Kurumi「And she's decided to call Makoto-kun 'Onii-chan'♪」%K%P
+
+0x140
+Okuhiko「Onii-chan?」%K%P
+
+0x14C
+Yuka「Onii-chan?」%K%P
+
+0x158
+Haruka「Onii-chan?」%K%P
+
+0x17C
+Kurumi「Is that all right, Onii-chan?」%K%P
+
+0x188
+Makoto「Y-Yeah... I don't mind...」%K%P
+
+0x194
+Kurumi「Eheh♪ That's good♪」%K%P
+
+0x1A8
+Kurumi「Well then, goodnight guys♪」%K%P
+
+0x1BC
+Kurumi goes back into Lunabeach while waving her hand%Nwidely.%K%P
+
+0x1C8
+("Onii-chan"... huh.)%K%P
+
+0x1D4
+A somewhat nostalgic feeling flows through me.%K%P
+
+0x1E0
+I slowly walk back to the lodge...%K%P
+
+0x228
+... ... ...%K%P
+

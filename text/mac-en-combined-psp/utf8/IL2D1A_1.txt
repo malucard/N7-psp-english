@@ -1,0 +1,315 @@
+text area offset and size:
+0x960
+0x16F8
+0xA0
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+
+0xAC
+Still half asleep, I blankly stare into space.%K%P
+
+0xB8
+A familiar... ceiling...?%K%P
+
+0xC4
+Makoto「What!?」%K%P
+
+0xD0
+This is my room in the lodge.%K%P
+
+0xDC
+What the hell's going on?%K%P
+
+0xE8
+Just seconds ago, I was outside. I was right next to%NIzumi-san.%K%P
+
+0xF4
+Was it a dream...? No, that's impossible.%K%P
+
+0x100
+My memory is clear about what happened... But if that%Nwas a dream, then maybe I'm still dreaming now.%K%P
+
+0x10C
+Just then... a thought hits me.%K%P
+
+0x118
+(After I lost consciousness, someone might have found%Nme and brought me back here.)%K%P
+
+0x124
+I force my languid body to move, and check the time on%Nmy watch.%K%P
+
+0x130
+(1 MON 8:47 A.M.)%K%P
+
+0x13C
+It's morning... huh. I slept pretty well...%K%P
+
+0x148
+...%K%P
+
+0x154
+... Huh?%K%P
+
+0x160
+I frantically check my watch one more time.%K%P
+
+0x17C
+(1 MON 8:47 A.M.)%K%P
+
+0x1A4
+... My eyes aren't deceiving me.%K%P
+
+0x1B0
+From what I can see, according to my watch, today is%Nunmistakably April 1st.%K%P
+
+0x1BC
+I shift my eyes towards the window.%K%N
+
+0x1C8
+If my memories are correct, then the weather is certainly%Nthe same as it was on the day I woke up from that%Nnightmare.%K%P
+
+0x1D4
+I'm still half asleep, but... I must have...%K%P
+
+0x1E0
+Makoto「Time traveled...!」%K%P
+
+0x1EC
+I blurt out my thoughts.%K%P
+
+0x1F8
+Impossible! I can't accept this way of thinking.%K%P
+
+0x204
+And... and besides...%K%N
+
+0x210
+It doesn't change the fact that I failed to protect%NIzumi-san!%K%P
+
+0x21C
+Once again, despair and intense rage well up inside me.%K%P
+
+0x228
+My nails dig into my palm as I clench my hand tightly.%K%N
+
+0x234
+My lips start to bleed as I bite them hard.%K%P
+
+0x240
+But then I rethink the situation.%K%P
+
+0x24C
+"Before getting depressed or punishing myself, I have%Nto confirm this!"%K%P
+
+0x258
+Did I really time travel...?%K%N
+
+0x264
+If not, then why was I brought back here...?%K%P
+
+0x270
+What happened to Izumi-san...?%K%P
+
+0x27C
+I get out of my bed and try to head to the living room.%K%P
+
+0x298
+―And at that time!%K%P
+
+0x2C0
+The door to my room is violently thrown open with enough%Nforce to break it.%K%P
+
+0x2CC
+Oh, that's right. Of course that would happen.%K%P
+
+0x2D8
+If I've really time traveled, then this was going to happen.%K%P
+
+0x2E4
+I slowly shift my gaze to the one who opened the door.%K%P
+
+0x2F0
+Standing there, I see...%K%N
+
+0x2FC
+I see...%K%P
+
+0x310
+... Izumi-san?%K%P
+
+0x338
+Makoto「A-AAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHH!!」%K%P
+
+0x540
+I scream, and fall back down on my bed.%K%P
+
+0x54C
+I'm thrown into a state of confusion by this%Nincomprehensible situation.%K%P
+
+0x558
+W... Why...? Why is Izumi-san here?%K%P
+
+0x564
+It's no longer a problem of whether I've time traveled or%Nnot. This is a paradox!%K%P
+
+0x570
+If I really time traveled, then I shouldn't be acquainted%Nwith Izumi-san yet!%K%P
+
+0x57C
+But if I didn't time travel, then Izumi-san should be dead!%K%P
+
+0x5A4
+Izumi-san shuts the door behind her, and approaches%Nme.%K%P
+
+0x5B0
+Makoto「A... ah...」%K%P
+
+0x5BC
+I step back in order to get as far away from Izumi-san as%Npossible.%K%P
+
+0x5C8
+However, there's nowhere to run, and Izumi-san slowly%Napproaches to close the distance between us.%K%P
+
+0x5D4
+Makoto「G-Ghost...」%K%P
+
+0x5E0
+My voice is trembling like the heroine in some B-horror%Nmovie.%K%P
+
+0x5F4
+Izumi-san approaches me as close as possible, and%Nthen starts to restrain me.%K%P
+
+0x600
+Makoto「AAH... Mmph!」%K%P
+
+0x60C
+I try to scream again, but Izumi-san covers my mouth, as%NI squirm in place.%K%P
+
+0x628
+Izumi「Calm down, Makoto-kun.」%K%P
+
+0x634
+Izumi「All right? Just calm down and listen to me.」%K%P
+
+0x640
+Izumi-san talks in a gentle, yet authoritative voice that%Nleaves no room for denial.%K%P
+
+0x64C
+I nod, but Izumi-san still keeps her hand over my mouth.%K%P
+
+0x660
+Izumi「First of all... today is not April 1st, but April 7th.」%K%P
+
+0x66C
+Makoto「!?」%K%P
+
+0x678
+Izumi「The truth is...」%K%P
+
+0x684
+And then, Izumi-san begins to explain.%K%P
+
+0x698
+...%K%P
+
+0x6C0
+On that day, it seems that Izumi-san only fainted when%Nshe fell from the cliff.%K%P
+
+0x6CC
+When I followed suit, Okuhiko and the others found us%Nand took us back to the lodge.%K%P
+
+0x6D8
+In other words, I've been asleep for a whole day.%K%P
+
+0x6E4
+But the most surprising thing is that Okuhiko has started%Nto try to deceive me again!%K%P
+
+0x6F0
+As for exactly what he's up to, according to Izumi-san,%Nit's something like this.%K%P
+
+0x6FC
+...%K%P
+
+0x708
+Okuhiko and the others chased after us, and found us%Ncollapsed at the bottom of the cliff.%K%P
+
+0x714
+Izumi-san woke up shortly afterwards, but I wouldn't wake%Nup at all.%K%P
+
+0x720
+When they brought me back to the lodge, they had%Ncalled a doctor to examine me... but it wasn't serious.%K%P
+
+0x72C
+It seems I had lost consciousness due to strain and%Nmental shock, and I'd wake up by the next morning.%K%P
+
+0x738
+But Okuhiko took this chance to come up with an%Ninteresting idea.%K%P
+
+0x744
+The group would pretend it was April 1st once more, and%Nrepeat the same things they did that day.%K%P
+
+0x750
+And so, he changed the date on my watch yesterday%Nwhile I was unconscious so that it would read "April 1st"%Ntoday.%K%P
+
+0x75C
+But Izumi-san could no longer stand continuing to%Ndeceive me, and so decided to secretly tell me%Neverything... that's how it is.%K%P
+
+0x768
+...%K%P
+
+0x774
+Also, it seems Izumi-san had a justifiable reason to%Ndeceive me.%K%P
+
+0x780
+To put it simply, she was threatened by Okuhiko.%K%P
+
+0x78C
+"If you don't obey me, then I'll reveal Kurumi-chan's%Nsecret."%K%P
+
+0x798
+That's how it went down.%K%P
+
+0x7A4
+(Kurumi's secret???)%K%P
+
+0x7B0
+I'm curious, but Izumi-san doesn't tell me.%K%P
+
+0x7CC
+But I can let that matter go for now.%K%P
+
+0x7D8
+More importantly than anything else, I can't help but feel%Nintense hatred towards the cowardly Okuhiko.%K%P
+
+0x7E4
+Makoto「Okuhiko, you bastard...!」%K%P
+
+0x7F0
+I need to get even with him, no matter what!!%K%P
+
+0x820
+Izumi「Hey. If you want revenge, then how about this?」%K%P
+
+0x82C
+Makoto「?」%K%P
+
+0x838
+Izumi「Why not turn Okuhiko's plan against him, and deceive him%Nusing the same trick!?」%K%P
+
+0x844
+In other words, she's saying "After Okuhiko wakes up,%Nwe'll act like it's April 1st."%K%P
+
+0x850
+Makoto「Izumi-san, that's brilliant! You're a genius!」%K%P
+
+0x864
+Izumi「Hee hee hee... aren't I?」%K%P
+
+0x870
+Izumi-san laughs impishly.%K%P
+
+0x87C
+Makoto「... All right. Then let's wake everyone up immediately and%Nbegin mobilizing them!」%K%P
+
+0x888
+Makoto「Heh heh heh... Payback's a bitch, Okuhiko.」%K%P
+

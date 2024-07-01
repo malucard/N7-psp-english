@@ -1,0 +1,66 @@
+text area offset and size:
+0x230
+0x4BD
+0x40
+Kurumi passes the afternoon telling silly stories.%K%P
+
+0x4C
+When everyone gets back, it's been over three hours%Nsince lunch ended...%K%P
+
+0x88
+Yuka「Gyahahahahahahaha♪」%K%P
+
+0x94
+I don't know what happened, but Yuka is laughing loudly%Nlike an old lady on a shopping show.%K%P
+
+0xA0
+Makoto「Hey, Yuka? Could you keep it down?」%K%P
+
+0xBC
+Yuka「Oh!! Eyam sho shorry!」%K%P
+
+0xC8
+Yuka smashes me on the shoulders as a response.%K%P
+
+0xD4
+(Dammit, what the hell is wrong with her...)%K%P
+
+0xE0
+I try asking Izumi-san, who's sitting next to me, about%NYuka.%K%P
+
+0xFC
+Just then...%K%P
+
+0x108
+Izumi「It seems she had quite a lot of beer to drink...」%K%P
+
+0x114
+... Izumi-san says this while looking a little disturbed.%K%N
+
+0x120
+According to her, Yuka drank about ten-odd cups of%Nbeer at the poolside.%K%P
+
+0x12C
+(Yuka's that resistant to alcohol, huh...)%K%P
+
+0x138
+(And to think that Yuka's this bad of a drunkard...)%K%P
+
+0x144
+I'm kind of amazed.%K%P
+
+0x198
+Yuka「Kurumi-tan... Hau aah yuu feelin'?」%K%P
+
+0x1A4
+Kurumi「Good! After Kurumi had a nap, she got completely better.」%K%P
+
+0x1B0
+Of course, I'm the only one who knows those words are a%Nlie.%K%P
+
+0x1BC
+But as promised, I don't say a word about it.%K%P
+
+0x1C8
+Kurumi, pretending to be recovering right now, holds a%Nmug in her right hand with a thin film of hot milk in it.%K%P
+

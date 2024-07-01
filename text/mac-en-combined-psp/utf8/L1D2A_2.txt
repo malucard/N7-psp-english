@@ -1,0 +1,483 @@
+text area offset and size:
+0xC58
+0x23F6
+0x20
+Haruka's words make me kind of uneasy.%K%P
+
+0x2C
+It's not rare for people to have headaches.%K%P
+
+0x38
+Normally, I think I'd probably be able to just shrug off%NHaruka's concern.%K%P
+
+0x44
+However...%K%P
+
+0x50
+I suddenly remember the "bell" I found on the beach last%Nnight.%K%P
+
+0x5C
+―What if that dream really was a premonition?%K%P
+
+0x68
+―And what if that the girl in that dream was Kurumi?%K%P
+
+0x74
+I violently shake my head in order to drive these%Nunpleasant delusions away.%K%P
+
+0x80
+(I'm probably overthinking this because I'm a little%Nnervous.)%K%P
+
+0x8C
+(It was only one or two nightmares...)%K%P
+
+0x98
+These thoughts still don't make me any less worried.%K%P
+
+0xA4
+If I go to the pool in this state, I won't be able to stop%Nthinking about this and have fun.%K%P
+
+0xB0
+Makoto「All right, I've got it!」%K%P
+
+0xBC
+My mind is already set.%K%P
+
+0xC8
+Makoto「I'll go back and check up on Kurumi once more.」%K%P
+
+0xD4
+Haruka silently looks into my eyes.%K%P
+
+0xE0
+Makoto「Then if she seems okay, I'll also head to the pool%Nafterwards.」%K%P
+
+0xEC
+Haruka「I'll...」%K%P
+
+0xF8
+Haruka「I'll go with you too.」%K%P
+
+0x104
+Makoto「No, I'll be fine without you. Just go with the others to the%Npool.」%K%P
+
+0x110
+Makoto「Kurumi might not like it if there's too many of us.」%K%P
+
+0x11C
+Haruka「...」%K%P
+
+0x128
+For a moment, Haruka seems to be silently pondering my%Nwords...%K%P
+
+0x134
+Haruka「All right, I understand.」%K%P
+
+0x140
+... Before long, she answers, and quietly lets go of my%Nwrist.%K%P
+
+0x14C
+Makoto「Well then, I'm going. Will you explain this to the others for%Nme?」%K%P
+
+0x158
+Haruka「... Y-Yes.」%K%P
+
+0x188
+I give Haruka a reassuring nod, and start going back the%Nway I came.%K%N
+
+0x194
+As I take several steps, I hear Yuka's voice from far%Naway.%K%P
+
+0x1A0
+I can't make out what she's saying.%K%P
+
+0x1AC
+I guess I should respond..%K%P
+
+0x1B8
+Makoto「Go ahead without me!」%K%P
+
+0x1C4
+... I shout at the top of my lungs, but I don't think anyone%Ncould hear me despite my volume.%K%P
+
+0x1D0
+The thundering roar of the monstrous ocean drowns out%Nmy voice.%K%P
+
+0x23C
+I return to Lunabeach.%K%P
+
+0x248
+I take a roundabout path from the direction of Moon%NBeach to go to the restaurant.%K%P
+
+0x254
+Well, I was "thinking" of trying that, but just as I approach%Nthe establishment...%K%P
+
+0x2B8
+The door opens, and someone from inside comes out.%K%P
+
+0x2D4
+(Kurumi...!?)%K%P
+
+0x308
+Before I can call out to her, Kurumi runs out onto the%Npaved road, and turns west.%K%P
+
+0x314
+It's almost as if she's chasing after a fugitive or%Nsomething.%K%P
+
+0x320
+Of course, Kurumi doesn't notice me standing by the wall%Nof the shop.%K%P
+
+0x33C
+I stare at Kurumi with astonishment.%K%P
+
+0x348
+(Kurumi... even though she said... that she had a%Nheadache...)%K
+
+0xC30
+Go to the pool.
+
+0xC3C
+Go follow Kurumi.
+
+0x388
+Well, it looks like she's feeling better, so there's no need%Nto worry.%K%P
+
+0x394
+I should go to the pool now.%K%P
+
+0x3A0
+I chase after the others, who are way ahead of me...%K%P
+
+0x3EC
+I instantly chase after Kurumi...%K%P
+
+0x444
+The distance between me and Kurumi is almost 110 yards.%N
+
+0x450
+If I shout, she might be able to hear me.%K%P
+
+0x45C
+But... I don't try to.%K%P
+
+0x468
+(If she's able to run this fast, then she probably lied%Nabout having a headache...)%K%P
+
+0x474
+(Then... What was her real reason for not wanting to go to%Nthe pool that would make her stoop to lying?)%K%P
+
+0x480
+I don't know, but for now, there's no doubting the fact%Nthat Kurumi has a secret that she's not telling us.%K%P
+
+0x48C
+I won't be able to discover her secret if I try talking to%Nher now...%K%P
+
+0x498
+(This doesn't feel very good...)%K%P
+
+0x4A4
+(I know I shouldn't just go peeking at people's secrets...)%K%P
+
+0x4B0
+Still, my curiosity is getting the better of me...%K%N
+
+0x4BC
+... Before long, Kurumi slows down to a walking pace.%K%P
+
+0x4C8
+Of course she's exhausted; she's been running%Nnon-stop since leaving Lunabeach.%K%P
+
+0x4D4
+Even though I have more stamina, I also can't help but%Npant...%K%P
+
+0x4E0
+Like this, I'm able to maintain a fixed distance between%Nme and Kurumi, so I continue to tail her.%K%N
+
+0x4EC
+I feel like a petty detective...%K%P
+
+0x4F8
+... Without warning, Kurumi suddenly turns left onto a side%Nstreet and disappears.%K%N
+
+0x504
+I lose sight of her, so I also jog over to that side road...%K%P
+
+0x57C
+I see a long row of cherry blossom trees.%K%P
+
+0x588
+(To think there'd be cherry blossoms blooming here...)%K%P
+
+0x594
+This is an unexpected surprise, but now isn't the time to%Nbe watching the cherry blossoms.%K%N
+
+0x5A0
+Because I ran to the side road, I'm too close to Kurumi.%K%N
+
+0x5AC
+She's walking underneath a nearby tree.%K%P
+
+0x5B8
+Suddenly, as if she heard my footsteps, Kurumi draws to%Na halt and starts turning.%K%P
+
+0x5C4
+Before she can turn around, I quickly hide behind a%Nnearby tree...%K%N
+
+0x5D0
+While hiding behind the back of the trunk of the tree...%K%P
+
+0x5DC
+(Should I really be doing this?)%K%P
+
+0x5E8
+... I ponder this.%K%N
+
+0x5F4
+But I've come this far already. I can't go back now.%K%P
+
+0x600
+...???%K%N
+
+0x60C
+Well... it's not that I can't go back, but I really want to%Nfigure out what's Kurumi's secret.%K%P
+
+0x618
+Drawing strength from my newfound determination, I%Nresume the pursuit...%K%P
+
+0x690
+Past the cherry blossom trees, I come across a park%Nwith a great view.%K%N
+
+0x69C
+At the entrance of the park is a sign with the words,%N"Viewpoint Park" written on it.%K%P
+
+0x6A8
+Right now, Kurumi is leaning on one of the handrails on%Nthe side of the park...%K%P
+
+0x724
+... and gazing out beyond the vast ocean.%K%N
+
+0x730
+For some reason, looking at that lonely figure of hers is%Nmaking me feel a sharp pain in my heart.%K%N
+
+0x73C
+The sea breeze rustles her hair...%K%P
+
+0x748
+Her large eyes become transparent as the blue sea is%Nreflected off of them.%K%P
+
+0x754
+What could Kurumi be looking at beyond the silvery sea?%K%P
+
+0x760
+The spring sky before me looks like it's happily%Nembracing the world...%K%N
+
+0x76C
+The endless azure sea looks like it goes on out forever...%K%P
+
+0x778
+Kurumi stands alone in that magnificent scenery, looking%Nvery small, frail, and transient.%K%P
+
+0x784
+I want to run up to her from behind and embrace her%Ntightly to take away all of her sorrow.%K%P
+
+0x790
+(Is this... Kurumi's... secret?)%K%P
+
+0x79C
+(What reason did she have that made her lie to us so%Nshe could come here?)%K%P
+
+0x7A8
+There's no way I can call out to her.%K%N
+
+0x7B4
+Is it possible that I saw something that I shouldn't have%Nseen?%K%P
+
+0x7C0
+That the normally cheerful girl has secret feelings deep%Ndown that she won't tell anyone...%K%P
+
+0x7DC
+Kurumi「Ah...!」%K%P
+
+0x7E8
+Kurumi「Why...? You definitely went to the pool, didn't you...?」%K%P
+
+0x7F4
+When I wasn't paying attention, Kurumi had turned around.%K%P
+
+0x800
+I was absolutely dumbfounded by seeing Kurumi looking%Nthe way she was that before I knew it, I was standing still,%Nstaring at her.%K%P
+
+0x80C
+I completely forgot to hide myself.%K%P
+
+0x818
+Makoto「N-No... I was a little worried, so...」%K%P
+
+0x824
+Makoto「So I tried going back to Lunabeach... but because you%Nweren't there...」%K%P
+
+0x830
+I'm lying, since saying something like, "The truth is, I%Nsecretly followed you here," wouldn't exactly be a smart%Nthing to say in this situation.%K%P
+
+0x83C
+Kurumi「So you came here looking?」%K%P
+
+0x848
+Makoto「Yeah...」%K%P
+
+0x854
+Kurumi「...」%K%P
+
+0x860
+Makoto「...」%K%P
+
+0x86C
+Kurumi「...」%K%P
+
+0x878
+Makoto「...」%K%P
+
+0x884
+An awkward silence hangs around in the air...%K%P
+
+0x890
+However...%K%P
+
+0x8B4
+Kurumi「Geez♪ You didn't even need to worry at all♪」%K%P
+
+0x8C0
+Makoto「... Huh?」%K%P
+
+0x8CC
+Kurumi「Because that was a lie♪」%K%P
+
+0x8D8
+Makoto「A lie?」%K%P
+
+0x8E4
+Kurumi「Kurumi lied about having a headache.」%K%P
+
+0x8F0
+Makoto「...」%K%P
+
+0x920
+Kurumi「The truth is... Kurumi was a little embarrassed...」%K%P
+
+0x92C
+Kurumi「But keep this a secret, okay?」%K%P
+
+0x938
+Makoto「... S-Sorry. I don't really understand what you're saying...」%K%P
+
+0x944
+Kurumi「... T-That's... Kurumi can't say it.」%K%P
+
+0x950
+Makoto「???」%K%P
+
+0x95C
+Kurumi「... She was too embarrassed to wear a swimsuit!」%K%P
+
+0x968
+Kurumi「Because, everyone's... everyone's... are big...」%K%P
+
+0x974
+Makoto「Big... what do you mean?」%K%P
+
+0x980
+Kurumi「Their breasts.」%K%P
+
+0x98C
+Makoto「Breasts?」%K%P
+
+0x998
+Kurumi「Only Kurumi's are like a kid's, so...」%K%P
+
+0x9A4
+Makoto「Could it be that you're actually worried about your%Nfigure?」%K%P
+
+0x9B8
+Kurumi「Geez!! Don't say it so bluntly!」%K%P
+
+0x9C4
+Makoto「Hahahahaha!」%K%P
+
+0x9D0
+Kurumi「Don't laugh!!」%K%P
+
+0x9DC
+Makoto「There's no reason for you to worry about that at all,%Nright?.」%K%P
+
+0x9E8
+Kurumi「???」%K%P
+
+0x9F4
+Makoto「After all, it's not just you, right? I think that Haruka's%Nprobably flat herself, don't you think?」%K%P
+
+0xA00
+Kurumi「Don't say flat!」%K%P
+
+0xA0C
+Kurumi「Kurumi does have some breasts!」%K%P
+
+0xA18
+Makoto「Hey, hey! That's different from what you said earlier...」%K%P
+
+0xA24
+Kurumi「...」%K%P
+
+0xA30
+Makoto「... Well, anyway, I don't think it's something you should%Nworry about.」%K%P
+
+0xA44
+Kurumi「Even though you said 'flat' just now...」%K%P
+
+0xA50
+Makoto「But in your case, even if you are flat, I don't think there's%Nanything to criticize about your figure because you%Nhave long legs.」%K%P
+
+0xA5C
+Kurumi「So you really do think Kurumi's flat...」%K%P
+
+0xA68
+Makoto「And besides, what about in the future? Your breasts are%Ngoing to get big...」%K%P
+
+0xA74
+Makoto「In the future, your breasts are definitely going to get%Nbigger and bigger!」%K%P
+
+0xA88
+Kurumi「You think so?」%K%P
+
+0xA94
+Makoto「That's right. So there's nothing to worry about!」%K%P
+
+0xAA0
+Kurumi tilts her head, acting like she's thinking about%Nsomething...%K%P
+
+0xAAC
+Kurumi「All right, got it.」%K%P
+
+0xAB8
+... And mutters this.%K%P
+
+0xAC4
+Kurumi「Kurumi knows she said it earlier, but could you keep this%Na secret from everyone?」%K%P
+
+0xAD0
+Makoto「Yeah.」%K%P
+
+0xADC
+I smile while giving her a deep nod.%K%P
+
+0xAE8
+Makoto「All right then, how about we go back?」%K%P
+
+0xAF4
+I start to walk as Kurumi trots over to my side.%K%P
+
+0xB00
+I glance at Kurumi's face from the side.%K%P
+
+0xB0C
+All traces of loneliness in her expression seem to have%Ndisappeared.%K%P
+

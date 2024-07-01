@@ -1,0 +1,699 @@
+text area offset and size:
+0x1778
+0x361C
+0xD8
+Makoto「Hey, Kurumi!」%K%P
+
+0xE4
+Makoto「It's your fault things ended up this way!」%K%P
+
+0xF0
+I'm walking down the coastline road this morning on%Ncrutches.%K%P
+
+0xFC
+One of my legs and one of my arms are in casts...%K%P
+
+0x108
+According to the doctor, it appears I also fractured one%Nof my ribs.%K%P
+
+0x11C
+Kurumi「Why are you saying that～? It's not Kurumi's fault～!」%K%P
+
+0x128
+Kurumi「It's because of that ridiculous stunt you pulled,%NOnii-chan!」%K%P
+
+0x134
+Makoto「But you're the one who started it all... by saying those%Npuzzling things...」%K%P
+
+0x148
+Kurumi「Puzzling things?」%K%P
+
+0x154
+Makoto「On that rainy night, when I opened the door to my room...%Nyou screamed 'Kyaa!' and said that you were '20 years%Nold', right?」%K%P
+
+0x160
+Makoto「That's why I made that misunderstanding...」%K%P
+
+0x174
+Kurumi「If that's what you're talking about, then it couldn't be%Nhelped!」%K%P
+
+0x180
+Kurumi「Anyone would have at least screamed if you burst in on%Nthem changing clothes!」%K%P
+
+0x194
+Kurumi「Right, Haruka-san?」%K%P
+
+0x1E4
+Haruka「Yes...」%K%P
+
+0x1F0
+I can see Haruka's face faintly change color.%K%P
+
+0x1FC
+Makoto「And that's another thing- you confused me with the way%Nyou said 'she was changing clothes'! After all, there was%Nno reason for you to scream, right, Kurumi?」%K%P
+
+0x208
+Makoto「The one I saw changing clothes wasn't you...」%K%P
+
+0x21C
+Kurumi「That's not the problem! You peeked, you peeked!」%K%P
+
+0x228
+Kurumi「It's because you were peeking at Haruka-san while she%Nwas changing her clothes!」%K%P
+
+0x290
+Kurumi「Haruka-san's usual clothes... got soaked with beer%Nduring the barbecue, right?」%K%P
+
+0x29C
+Kurumi「She told me no matter how much she washed it, she%Ncouldn't get the stench of alcohol off of it...」%K%P
+
+0x2A8
+Haruka「That's why I asked Kurumi...」%K%P
+
+0x2B4
+Haruka「I thought she could try lending me her clothes...」%K%P
+
+0x2C0
+Makoto「And while Haruka was in the middle of trying them on, I%Nopened the door. The rest we all know...」%K%P
+
+0x310
+Makoto「But you know... Why were you changing in my room of all%Nplaces...?」%K%P
+
+0x31C
+Kurumi「Because Okkun had fallen asleep in Haruka-san's room.」%K%P
+
+0x328
+Haruka「Okuhiko got drunk and went into my room... and then he%Nfell asleep on the bed...」%K%P
+
+0x33C
+Kurumi「In short, it's because your room was free at the time,%NOnii-chan.」%K%P
+
+0x348
+Thinking about it now, it seems like that was the natural%Nthing to do.%K%P
+
+0x354
+The person I saw in the room... Their head was completely%Ncovered by their clothes, so all I could see was their%Nback.%K%P
+
+0x360
+The person who "noticed that I had opened the door"%Nwasn't the one changing clothes.%K%P
+
+0x36C
+In short, there were two people in my room... The one who%Nwas undressing, and the other who saw me open the%Ndoor.%K%P
+
+0x378
+Of course, the first person was Haruka, and the second%Nperson was Kurumi...%K%P
+
+0x384
+In the end, what I saw wasn't "Kurumi's back", but rather,%N"Haruka's back".%K%P
+
+0x398
+Kurumi「And when Kurumi said that she was '20 years old', that%Nwas a fact, so it couldn't be helped.」%K%P
+
+0x3A4
+Kurumi「Because Kurumi was born 21 years ago.」%K%P
+
+0x3B0
+Yes... that's right...%K%P
+
+0x3BC
+At that point in time, Kurumi had heard the whole truth%Nfrom Izumi-san.%K%P
+
+0x3C8
+It seems she told her on the afternoon of the 5th.%K%P
+
+0x3D4
+Now that I think about, late at night on the previous day,%NIzumi-san said this at the pool.%K%P
+
+0x40C
+Izumi「I've... already resolved myself...」%K%P
+
+0x418
+Izumi「Your words from back then have solved the worries%Nwithin my mind.」%K%P
+
+0x458
+That's why, the next day, Izumi-san told them as soon as%Nshe could.%K%P
+
+0x464
+As expected, Kurumi was shocked, but after seeing how%Nsincere Izumi-san was, she soon came to believe her%Nwords.%K%P
+
+0x470
+It seems that Izumi-san told Haruka the truth as well.%K%P
+
+0x47C
+That's why Haruka called her "Onee-chan" on that rainy%Nnight.%K%P
+
+0x490
+Kurumi「Hey, hey, Onii-chan?」%K%P
+
+0x49C
+Kurumi「More importantly, when are we gonna do 'that'?」%K%P
+
+0x4A8
+Makoto「'That'?」%K%P
+
+0x4BC
+Kurumi「Oh geez! Did you forget?」%K%P
+
+0x4C8
+Haruka「You mean the amusement park, right?」%K%P
+
+0x4DC
+Kurumi「That's right! The amusement park!」%K%P
+
+0x4E8
+Kurumi「Onii-chan, you promised that you'd take us, right?」%K%P
+
+0x4F4
+Makoto「Ye-Yeah... that's right...」%K%P
+
+0x500
+Makoto「But... if Haruka...」%K%P
+
+0x514
+Haruka「I've decided to go, too.」%K%P
+
+0x520
+Haruka「Makoto, you're paying for it all, aren't you?」%K%P
+
+0x52C
+Makoto「... Huh?」%K%P
+
+0x540
+Kurumi「'You're sisters, so it'd be unfair if you had to pay'... You%Nsaid that, right?」%K%P
+
+0x54C
+Makoto「H-Hey, I most certainly did-」%K%P
+
+0x558
+Haruka「...」%K%P
+
+0x564
+Kurumi「...」%K%P
+
+0x570
+Makoto「... say that.」%K%P
+
+0x57C
+That's my answer.%K%P
+
+0x588
+Their radiant smiles glow in the morning sunlight.%K%P
+
+0x594
+When they show me smiles like that, I can't turn them down.%K%P
+
+0x5A8
+Kurumi「Yay, yay～♪ Just as planned...」%K%P
+
+0x5B4
+Makoto「...」%K%P
+
+0x5C8
+Kurumi「Hey, Haruka-san? Shall we go to the haunted house%Ntogether?」%K%P
+
+0x5DC
+Haruka「The haunted house, huh...?」%K%P
+
+0x5F0
+Haruka「I like 'Popping Deflating Babirinko' more than that.」%K%P
+
+0x604
+Kurumi「Huh? What's that?」%K%P
+
+0x618
+Haruka「Huh? You don't know it?」%K%P
+
+0x624
+Haruka「It's 'Popping Deflating Babirinko'.」%K%P
+
+0x630
+Kurumi「Kurumi's never heard of it...」%K%P
+
+0x644
+Haruka「But 'Babirinko' is so amazing!」%K%P
+
+0x658
+Kurumi「H-Hmm... is that so?」%K%P
+
+0x66C
+Haruka「It'll Babi your socks off!」%K%P
+
+0x678
+Haruka「It's really true!」%K%P
+
+0x684
+Haruka「No, it really does exist!」%K%P
+
+0x6E4
+While listening to their cheerful conversation, I continue%Nto walk at a leisurely pace.%K%P
+
+0x700
+―Clank.%K%N
+
+0x70C
+The tip of my crutches touch something.%K%P
+
+0x718
+I quickly look down at my feet.%K%P
+
+0x724
+The fragment of concrete is lying there.%K%P
+
+0x730
+This is where I collapsed early yesterday morning when I%Ngot sent flying by that car.%K%P
+
+0x73C
+I see something flashing.%K%P
+
+0x748
+It's coming from a corner of the road... The light is coming%Nfrom some weeds.%K%P
+
+0x754
+Makoto「Say, Haruka? Could you go pick that up over there?」%K%P
+
+0x768
+Haruka「Huh? Where?」%K%P
+
+0x774
+Makoto「There.」%K%P
+
+0x780
+Using one of the crutches, I point towards the weeds.%K%P
+
+0x79C
+Haruka bends down, and picks up the shining object.%K%P
+
+0x7A8
+Haruka places it in my unbroken hand.%K%P
+
+0x7B4
+―It's the bell.%K%N
+
+0x7C0
+It's smashed and crushed flat, but it's "that bell".%K%P
+
+0x7CC
+The surface has all these jagged scratches on it.%K%P
+
+0x7D8
+(So I really... did smash it?)%K%P
+
+0x7E4
+(On the night of the 1st, I successfully smashed the bell...%Nbut because it was so dark, I didn't realize that it had%Nflung away and was hidden in those weeds.)%K%P
+
+0x82C
+Kurumi「What's that?」%K%P
+
+0x838
+Kurumi looks at my palm.%K%P
+
+0x844
+Makoto「No... it's nothing.」%K%P
+
+0x850
+Makoto「This thing is just...」%K%P
+
+0x85C
+Makoto「―Junk!」%K%P
+
+0x868
+I say this, and throw the smashed bell towards the%Nocean.%K%P
+
+0x890
+The bell draws a clean parabola in the air as it flies.%K%P
+
+0x89C
+It momentarily flashes and shines in the sunlight, but%Nbefore long, I can no longer see it.%K%P
+
+0x9D8
+Haruka「See you later, Makoto!」%K%P
+
+0x9E4
+Makoto「Huh? You're not going back to the shop?」%K%P
+
+0xA00
+Kurumi「We have some business to take care of!」%K%P
+
+0xA0C
+Makoto「You too?」%K%P
+
+0xA18
+Haruka「The two of us are going to watch crab sumo.」%K%P
+
+0xA24
+Makoto「Crab sumo... I see...」%K%P
+
+0xA30
+Kurumi「Besides, if the two of us are together, then we won't get%Nin your way♪」%K%P
+
+0xA3C
+Makoto「Huh?」%K%P
+
+0xA50
+Kurumi「Well then, later, Onii-chan♪」%K%P
+
+0xACC
+Kurumi and Haruka run off towards Moon Beach.%K%P
+
+0xAE4
+However...%K%P
+
+0xAF0
+Kurumi「Oh, that's right! Almost forgot!」%K%P
+
+0xB14
+Kurumi「Would you put these on the counter of the shop?」%K%P
+
+0xB20
+Kurumi takes something out of her pocket―it's the%Ncards.%K%P
+
+0xB2C
+As I take the cards from Kurumi...%K%P
+
+0xB38
+Makoto「What happened to these, anyway?」%K%P
+
+0xB44
+Kurumi「Yuka-san was the culprit!」%K%P
+
+0xB50
+Kurumi「On the afternoon of the 4th, we all gathered at the shop%Nbefore the barbecue, right?」%K%P
+
+0xB5C
+Kurumi「At that time, she borrowed them, but continued to%N'borrow' them after that.」%K%P
+
+0xB68
+When she says that, I finally realize it.%K%P
+
+0xB74
+I finally realize what Yuka's words at the barbecue%Nmeant...%K%P
+
+0xBBC
+Yuka「Hey♪ Mako-tan♪」%K%P
+
+0xBC8
+Yuka「Wen dis ish over♪...」%K%P
+
+0xBD4
+Yuka「Lesh play a fun game... all in sheecret♪」%K%P
+
+0xBE0
+Yuka「I borrowed dem earlier♪」%K%P
+
+0xBEC
+Yuka「... The tools, that ish♪」%K%P
+
+0xC54
+Kurumi「So anyway, Kurumi will leave it to you.」%K%P
+
+0xC68
+Kurumi「Good luck!」%K%P
+
+0xC98
+Kurumi then energetically runs after Haruka.%K%P
+
+0xCB0
+(What did she mean... "good luck"...?)%K%P
+
+0xCBC
+With my heart beating loudly, I reach out to open the%Nshop's door.%K%P
+
+0xCC8
+I remember the sensation of those wet lips.%K%P
+
+0xD70
+Izumi「Ah, Makoto-kun♪」%K%P
+
+0xD7C
+I bow my head.%K%P
+
+0xD88
+Izumi「What's this? You don't have to bow...」%K%P
+
+0xD94
+Makoto「No, it's just... well, uh...」%K%P
+
+0xDA0
+As I speak, my eyes remain fixed on Izumi-san's lips.%K%P
+
+0xDAC
+I want to feel those glamorous lips one more time.%K%P
+
+0xDB8
+Izumi「Hmm?」%K%P
+
+0xDC4
+Izumi-san tilts her head slightly.%K%P
+
+0xDD0
+Makoto「Oh, right...」%K%P
+
+0xDDC
+Makoto「Izumi-san... is your body all right now?」%K%P
+
+0xDE8
+Izumi「Yes, thank you♪」%K%P
+
+0xDF4
+Izumi「After resting for all day yesterday, I'm completely better.」%K%P
+
+0xE00
+Izumi「More importantly, what about you? Are you okay,%NMakoto-kun?」%K%P
+
+0xE0C
+Makoto「Yep, as you can see, I'm completely lively!」%K%P
+
+0xE18
+Izumi「No you're not!」%K%P
+
+0xE24
+Izumi「You're covered in bandages all over, aren't you...?」%K%P
+
+0xE30
+Makoto「...」%K%P
+
+0xE3C
+Izumi「...」%K%P
+
+0xE48
+Suddenly, Izumi-san's expression dims.%K%P
+
+0xE54
+Izumi「You... saved me again...」%K%P
+
+0xE60
+Izumi「I don't know... what I should say...」%K%P
+
+0xE6C
+Makoto「Hold it!」%K%P
+
+0xE78
+Izumi「?」%K%P
+
+0xE84
+Makoto「Don't talk like that anymore!」%K%P
+
+0xE90
+Makoto「That depressed face... doesn't suit you.」%K%P
+
+0xE9C
+I say that, then lightly pinch Izumi-san's cheeks.%K%P
+
+0xEA8
+I gently move them around with my fingertips...%K%P
+
+0xEB4
+Izumi「... Yes, I understand.」%K%P
+
+0xEC0
+Izumi「If you say so♪」%K%P
+
+0xECC
+Izumi-san's smile returns.%K%P
+
+0xED8
+It's a slightly bashful smile.%K%P
+
+0xF20
+... ... ...%K%P
+
+0xF50
+Izumi-san and I sit across from each other like we always%Ndo.%K%P
+
+0xF5C
+On the table is steaming black tea...%K%P
+
+0xF68
+The cards I got from Kurumi earlier are also on the table.%K%P
+
+0xF74
+Over Izumi-san's shoulders, I can see the enchanting%Nblue sky.%K%P
+
+0xF80
+It's as if yesterday's rain never happened.%K%P
+
+0xF8C
+Izumi「Makoto-kun? Would you take a little look at this?」%K%P
+
+0xF98
+Izumi-san takes a scrap of paper out of her pocket.%K%P
+
+0xFA4
+Izumi「This was folded inside of today's paper.」%K%P
+
+0xFB0
+A scrap of paper... It seems like some kind of leaflet.%K%P
+
+0xFBC
+(Why do I feel like I've seen this before...?)%K%P
+
+0xFC8
+"July 6th (Saturday) ―Shiki no Mori(司紀杜) Festival."%K%N
+
+0xFD4
+"July 7th (Sunday) ―Tokitsukasa (杜紀司) Festival".%K%N
+
+0xFE0
+"Invite all of your family members, and please%Nparticipate."%K%P
+
+0xFEC
+That's what's written on the bottom half of the paper.%K%P
+
+0xFF8
+Izumi「And here I thought I knew everything there was to know%Nabout this island...」%K%P
+
+0x1004
+Izumi「It seems I've still got a ways to go...」%K%P
+
+0x1010
+Izumi「The 'Tokitsukasa Festival' and the 'Shiki no Mori Festival'.」%K%P
+
+0x101C
+Izumi「I didn't know about these festivals up until now...」%K%P
+
+0x1028
+Makoto「...」%K%P
+
+0x1034
+Izumi「Hey, Makoto-kun? Could you try reading this?」%K%P
+
+0x1040
+Izumi-san points to a part where "History of the Shiki no%NMori Shrine and the Tokitsukasa Shrine", is written.%K%P
+
+0x104C
+I continue to read the contents under the title.%K%P
+
+0x1058
+"The Tokitsukasa Shrine and the Shiki no Mori Shrine%Nwere built to honor twin gods from an ancient legend%Npassed down on this island."%K%P
+
+0x1064
+"In each shrine, a single silver bell was enshrined as an%Nobject of worship, and a mysterious power is granted to%None who touches one of the bells... Or so the legend%Nsays."%K%P
+
+0x1070
+Izumi「It seems that there were twin shrines built very close to%Neach other: the 'Shiki no Mori Shrine' and the%N'Tokitsukasa Shrine'.」%K%P
+
+0x107C
+Izumi「But the 'Tokitsukasa Shrine' was destroyed in an%Nearthquake a very long time ago.」%K%P
+
+0x1088
+Izumi「All that was left of it was its long staircase...」%K%P
+
+0x1094
+Izumi「Meaning what you saw that day were the remains of the%N'Tokitsukasa Shrine'.」%K%P
+
+0x10A0
+Izumi「The 'Shiki no Mori Shrine' should still be there right now.」%K%P
+
+0x10AC
+I see...%K%N
+
+0x10B8
+Did I not realize it because of that strange,%Nuncomfortable feeling in the forest while I was on my way%Nto the shrine...?%K%P
+
+0x10C4
+The road I went down was the one that lead to the%N"Tokitsukasa Shrine".%K%P
+
+0x10D0
+I don't know where I went astray, but Okuhiko and Saki%Nprobably went the right way and ended up at the "Shiki%Nno Mori Shrine".%K%P
+
+0x10DC
+(I think the two of them went there just because they%Nwere curious or something.)%K%P
+
+0x10E8
+(Or did Okuhiko actually have a dirty scheme in mind like%NI'd thought...?)%K%P
+
+0x10F4
+At any rate, I've now confirmed the reason why their%Npresences disappeared in the forest.%K%P
+
+0x1100
+Izumi「Humans are very shrewd...」%K%P
+
+0x110C
+Izumi「Even though the shrine's gone, they left behind a%Nfestival to at least to continue its memory...」%K%P
+
+0x1118
+Izumi-san says this, and brings her teacup to her mouth.%K%P
+
+0x1124
+The corners of her mouth form into a kind smile.%K%P
+
+0x1130
+When she returns the teacup to the saucer, her smile%Ngrows even wider.%K%P
+
+0x113C
+I can see her glossy, shining lips, wet from the tea.%K%P
+
+0x1148
+I can see the tip of her red tongue between her white%Nteeth.%K%P
+
+0x1154
+―Clang!%K%P
+
+0x1160
+When I come to my senses, I've sprung up from the chair,%Nand am now standing.%K%P
+
+0x116C
+Intense pain runs through my broken leg, but that%Ndoesn't matter right now.%K%P
+
+0x1178
+Izumi-san blankly looks at me.%K%P
+
+0x1184
+I just stay silent...%K%P
+
+0x1198
+... and kiss those lips.%K%P
+
+0x11A4
+I lean over the top of the table as far as I can... and%Npush my lips against hers.%K%P
+
+0x11B0
+The teacup in front of me falls with a clank.%K%P
+
+0x11BC
+The cards fall and scatter all over the floor.%K%P
+
+0x11C8
+There's no reason for this...%K%P
+
+0x11D4
+I'm just letting my body be driven on by its impulses.%K%P
+
+0x11E0
+Izumi-san's lips smell like sweet flowers.%K%N
+
+0x11EC
+I can feel the soft warmth of her leaking breaths.%K%P
+
+0x11F8
+It's proof that we're right here, right now.%K%P
+
+0x1204
+We're confirming each other's existences, and our%Nmaturing feelings.%K%P
+
+0x1220
+Before long, our lips part from each other...%K%N
+
+0x122C
+... Izumi-san says this last.%K%P"The stars will continue to shine for eternity..."%K%P"In the water... always... always..."%K%P"So don't... forget this shine, okay?"%K%P"We'll always..."%K%P"Be together, right...?"%K%PI silently rummage through my pocket.%K%PI take out...%K%P―The small glass bottle. The three stars are swaying in%Nthe water, twinkling brightly...%K%PThe cards spread out on the floor...%K%N... They're completely blank...%K%P%LC%C[afaTo see the Grand Finale, please watch this ending%Nonce more.%K%P
+

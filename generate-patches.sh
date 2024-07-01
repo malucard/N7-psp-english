@@ -14,22 +14,22 @@ if [ -z "${TL_SUFFIX}" ]; then
     export TL_SUFFIX="en"
 fi
 
-# for i in r11_mac_${TL_SUFFIX}/*.BIP ; do
+# for i in n7_mac_${TL_SUFFIX}/*.BIP ; do
 #     BASE=`basename $i .SCN`
-#     cp -f r11_mac_${TL_SUFFIX}/${BASE}.BIP ${BIPDIR}/mac/${BASE}.BIP
+#     cp -f n7_mac_${TL_SUFFIX}/${BASE}.BIP ${BIPDIR}/mac/${BASE}.BIP
 # done
 
-for i in r11_mac_${TL_SUFFIX}/*.SCN ; do
+for i in n7_mac_${TL_SUFFIX}/*.SCN ; do
     BASE=`basename $i .SCN`
     echo xdelta3 $BASE
 
     # new simplified patch .bat just expects BIPs, old patch was expecting xdelta3 diffs for each decompressed BIP
-    #$XDELTA -s r11_mac/${BASE}.SCN r11_mac_${TL_SUFFIX}/${BASE}.SCN $XDELTADIR/mac/${BASE}.SCN.xdelta3
-    cp -f r11_mac_${TL_SUFFIX}/${BASE}.BIP ${BIPDIR}/mac/${BASE}.BIP
+    #$XDELTA -s n7_mac/${BASE}.SCN n7_mac_${TL_SUFFIX}/${BASE}.SCN $XDELTADIR/mac/${BASE}.SCN.xdelta3
+    cp -f n7_mac_${TL_SUFFIX}/${BASE}.BIP ${BIPDIR}/mac/${BASE}.BIP
 done
 
 echo xdelta3 FONT00
-$XDELTA -s r11_etc/FONT00.FNT r11_etc_${TL_SUFFIX}/FONT00.NEW $XDELTADIR/FONT00.FNT.xdelta3
+$XDELTA -s n7_etc/FONT00.FNT n7_etc_${TL_SUFFIX}/FONT00.NEW $XDELTADIR/FONT00.FNT.xdelta3
 
 echo xdelta3 init.bin
 $XDELTA -s workdir/init.dec workdir/init.dec.${TL_SUFFIX} $XDELTADIR/init.dec.xdelta3

@@ -1,0 +1,126 @@
+text area offset and size:
+0x450
+0x6C1
+0x6C
+I return to my room, and slip into my bed as I think...%K%P
+
+0x78
+(In the end, I was unable to give her any sort of answer%Nafter she said that...)%K%P
+
+0x84
+(Why couldn't I say anything?)%K%P
+
+0x90
+(Just what do I feel for Izumi-san?)%K%P
+
+0x9C
+Even though it's a simple question, the current me%Ndoesn't know the answer.%K%P
+
+0xA8
+The image of Izumi-san's smile is burned into my eyes.%K%P
+
+0xB4
+When I close my eyes, the image of her face faintly%Nappears in the darkness.%K%P
+
+0xC0
+I can't sleep like this...%K%P
+
+0xCC
+... ... ...%K%P
+
+0xD8
+A short time later, I look at my watch.%K%N
+
+0xE4
+It's already past 4:30 A.M.%K%N
+
+0xF0
+The date is "Friday, April 5th"...%K%P
+
+0xFC
+Naturally, tomorrow is "Saturday, April 6th."%K%P
+
+0x108
+Makoto「Saturday, April 6th...」%K%P
+
+0x114
+I mutter this out loud.%K%P
+
+0x144
+The incident in that dream... I don't think it will really occur%Nafter all.%K%P
+
+0x150
+But I would be lying if I said I wasn't worried.%K%P
+
+0x15C
+(Just who was the one who died in my dream?)%K%P
+
+0x168
+―And, in the instant I think that!%K%P
+
+0x1BC
+... ... ... ...%K%P
+
+0x224
+... Izumi... san...%K%P
+
+0x284
+I'm overcome with shock.%K%P
+
+0x290
+Right now, I can't comprehend what I just saw.%K%P
+
+0x29C
+The image that appeared before my eyes.%K%P
+
+0x2A8
+Izumi-san, lying face down in the mud...%K%P
+
+0x2D0
+―A premonition.%K%P
+
+0x2DC
+(It's... impossible...)%K%P
+
+0x2E8
+Then the one who showed up in my dream...%K%P
+
+0x2F4
+... was... Izumi-san...?%K%P
+
+0x300
+Are you kidding me?%K%N
+
+0x30C
+This can't...%K%P
+
+0x318
+This can't... be real.%K%P
+
+0x324
+I grasp my head in my hands, and violently shake it.%K%N
+
+0x330
+I shake it countless times...%K%P
+
+0x33C
+I can't believe it.%K%N
+
+0x348
+No, it'd be nuts for me to believe it.%K%N
+
+0x354
+That was just a hallucination.%K%P
+
+0x360
+I've been thinking about Izumi-san too much... That's why I%Nhad it.%K%P
+
+0x36C
+Makoto「Izumi-san...」%K%P
+
+0x378
+I tremble in the bed.%K%P
+
+0x384
+I continue to shiver like a small, frightened animal...%K%P
+

@@ -1,0 +1,69 @@
+text area offset and size:
+0x260
+0x4B9
+0x28
+After that...%K%N
+
+0x34
+We all went to the barbecue, just as planned.%K%P
+
+0x40
+We spent several hours just drinking, singing, and%Ncreating a loud uproar...%K%N
+
+0x4C
+... In the end, the barbecue ends in peace, with nothing%Nhappening.%K%P
+
+0x58
+In other words, Saki, Haruka, and Yuka never had their%Nfight.%K%P
+
+0x64
+Well, when I think about it, it's only natural that it didn't.%K%P
+
+0x70
+Saki and Haruka's relationship has been completely%Nmended, after all...%K%P
+
+0x7C
+I feel myself breathing a sigh of relief.%K%P
+
+0xEC
+Before long, we finish cleaning up the barbecue and%Nhead back to the lodge.%K%P
+
+0xF8
+On the way back... As I'm climbing up the hill, Saki suddenly%Ncomes running up to my side.%K%P
+
+0x10C
+Makoto「Hmm? What's up, Saki?」%K%P
+
+0x118
+Saki「While I'm here, thank you... for this morning...」%K%P
+
+0x124
+Makoto「... Thank you?」%K%P
+
+0x130
+Saki「...」%K%P
+
+0x13C
+Makoto「Are you talking about the basket?」%K%P
+
+0x148
+Saki nods, her face red from embarrassment.%K%P
+
+0x15C
+Saki「Well then, that means I've thanked you.」%K%P
+
+0x170
+Leaving with those words, Saki begins to run up the hill%Nroad...%K%P
+
+0x17C
+I smile as I see her off.%K%P
+
+0x190
+("History repeats itself"... what a lie.)%K%P
+
+0x19C
+As I throw myself down on my bed, I think that.%K%P
+
+0x1A8
+When I close my eyes, I fall into a deep, peaceful sleep...%K%P
+

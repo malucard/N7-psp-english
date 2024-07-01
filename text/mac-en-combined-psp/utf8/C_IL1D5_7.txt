@@ -1,0 +1,240 @@
+text area offset and size:
+0x6E8
+0xFB3
+0x9C
+%N
+
+0xA8
+After noon, Lunabeach suddenly became busy.%K%N
+
+0xB4
+Customers just keep pouring in and out.%K%N
+
+0xC0
+Izumi-san returned to work, still unsatisfied.%K%N
+
+0xCC
+Naturally, Kurumi helped out.%K%P
+
+0xE0
+%N
+
+0xEC
+I was left all alone, so I reluctantly left Lunabeach...%K%N%N
+
+0xF8
+But even though I left the shop, I had no clue where to%Ngo.%K%N
+
+0x104
+So, I staggered alongside the coastline road, and%Nbefore I knew it... I was here.%K%P
+
+0x188
+That's right... I'm at Viewpoint Park now.%K%P
+
+0x194
+The scenery I see from the end of the cape is colorless.%K%P
+
+0x1A0
+The gray skies make me feel like I'm in an old black and%Nwhite photo.%K%P
+
+0x1AC
+The air is very damp, but there's no sea breeze. The%Nonly sound I hear is that of the waves breaking on the%Ncape.%K%P
+
+0x1C4
+Makoto「Schr▼dinger's cat, huh...」%K%P
+
+0x1D0
+I mutter this to myself as I blankly stare at this colorless%Nworld.%K%P
+
+0x1DC
+I didn't really understand what Kurumi said back at the%Nshop at all.%K%P
+
+0x1E8
+However, I feel that I somewhat understand what she%Nwanted to say.%K%P
+
+0x20C
+Kurumi「What's already happened has happened, so it can't be%Nhelped!」%K%P
+
+0x220
+That phenomenon from earlier... Kurumi was probably%Ntrying to say that what happened with the cards wasn't%Nstrange.%K%P
+
+0x22C
+(But... is that really true?)%K%P
+
+0x238
+No, when I think about it calmly, there's no way that I can%Nthink it wasn't strange.%K%P
+
+0x244
+Pairing all the cards correctly... There's... no way that's%Npossible!%K%P
+
+0x258
+Izumi「And there's absolutely no way that Makoto-kun should%Nhave known the positioning of those 46 cards, right?」%K%P
+
+0x26C
+"Absolutely no way..."%K%P
+
+0x278
+In other words, that's the way it is.%K%P
+
+0x284
+There's no way that event could have happened unless%NI'd known all of the positions of the cards!%K%P
+
+0x290
+―A premonition.%K%N
+
+0x29C
+It was another premonition, just like all the others...%K%P
+
+0x2A8
+―Haruka falling onto Moon Beach.%K%N
+
+0x2B4
+―The fact that there was no rice left at Lunabeach.%K%N
+
+0x2C0
+―The earthquake at Tsukiya Hotel's pool.%K%P
+
+0x2CC
+―The car battery.%K%N
+
+0x2D8
+―What we were eating for dinner.%K%N
+
+0x2E4
+―And those cards...%K%P
+
+0x2F0
+...%K%P
+
+0x30C
+But... wait...%K%N
+
+0x318
+Is that really it...?%K%P
+
+0x324
+Can I really call the phenomenon with the cards a%N"premonition"?%K%P
+
+0x330
+For example, if I had known in advance which card was%Nwhich, I would have been able to intentionally go for the%Nspecific cards that would form pairs.%K%P
+
+0x33C
+But that's not what happened.%K%N
+
+0x348
+No, it couldn't have happened!%K%P
+
+0x354
+Because I "didn't know" what any of the cards were until%NI flipped them...%K%P
+
+0x360
+Because I "didn't know", I just randomly flipped over%Ncards and happened to get pairs...%K%P
+
+0x36C
+(If that's so...)%K%P
+
+0x378
+(... Then what the hell was that phenomenon?)%K%P
+
+0x384
+(If it wasn't a simple "premonition", then what was it...?)%K%P
+
+0x390
+My mind begins to fall into confusion once again.%K%P
+
+0x39C
+I can't see anything. I can't hear anything. The only thing%NI can feel is an unfamiliar fear wriggling in my heart.%K%P
+
+0x3A8
+(Why... Why... did this happen...?)%K%P
+
+0x3B4
+Everything started with that dream.%K%P
+
+0x3C0
+That hopeless dream... from the morning... of the 1st...%K%P
+
+0x3CC
+If I hadn't had that dream...%K%N
+
+0x3D8
+Then none of this... would be happening...%K%P
+
+0x44C
+Izumi... san...%K%P
+
+0x478
+Is there no way to avert the events of my dream?%K%P
+
+0x484
+Despite my foreknowledge, is the future something that%Ncannot be changed?%K%P
+
+0x490
+Then... Izumi-san will...%K%N
+
+0x49C
+Tomorrow... Izumi-san will...%K%P
+
+0x4B8
+Izumi「Makoto-kun...」%K%P
+
+0x4C4
+Izumi「I...」%K%P
+
+0x4D0
+Izumi「I...」%K%P
+
+0x4EC
+Last night, Izumi-san said that.%K%P
+
+0x4F8
+Here... At this place...%K%P
+
+0x504
+She said it on the spot I'm standing right now...%K%P
+
+0x520
+Makoto「Why...」%K%P
+
+0x52C
+Makoto「Why...」%K%P
+
+0x538
+Makoto「Why does Izumi-san have to die!!!?」%K%P
+
+0x544
+―Clang!%K%P
+
+0x550
+I kick the iron fence with all of my might.%K%P
+
+0x55C
+―Clang! Clang! Clang! Clang!%K%P
+
+0x568
+I kick it countless times, to the point where I want to%Ndestroy it.%K%P
+
+0x574
+My seeping anger is overflowing.%K%P
+
+0x580
+I kick and I kick it, but the fence won't give an inch.%K%P
+
+0x58C
+Nothing is breaking...%K%P
+
+0x598
+That only serves to make me more irritated than before.%K%P
+
+0x5A4
+―Clang! Clang! Clang! Clang!%K%P
+
+0x5B0
+―Clang! Clang! Clang! Clang!%K%P
+
+0x5BC
+The dull sound of my kicks against the iron echoes%Nunder the grey skies...%K%P
+
+0x5F4
+... ... ...%K%P
+

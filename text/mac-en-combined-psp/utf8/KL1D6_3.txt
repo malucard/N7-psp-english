@@ -1,0 +1,438 @@
+text area offset and size:
+0xB58
+0x1CD0
+0xC4
+I ascend the long staircase.%K%N
+
+0xD0
+The night has been completely vanquished by the dawn.%K%N
+
+0xDC
+I can't see anyone in the shrine grounds, hazy from the%Nrain.%K%P
+
+0xE8
+The ground is violently pounded by swarms of large rain%Ndrops...%K%N
+
+0xF4
+The sound of the rainfall is so loud that it feels like it%Ncould erase the whole world itself.%K%P
+
+0x100
+I take a breath of the wet air.%K My nasal cavities are%Npierced by the cold.%K%P
+
+0x10C
+... The whole grounds have become one large water%Npuddle.%K%P
+
+0x118
+I take two steps, slowly walking into the puddle of water.%NThe cold sound of my footsteps as I walk across the%Nwater echoes in the mist.%K%P
+
+0x124
+I get closer and closer to the dim, white mirage-like%Nshrine.%K%N
+
+0x130
+Its vague features gradually start to become clearer.%K%P
+
+0x13C
+I can see that the door to the shrine has been thrown%Nopen.%K%N
+
+0x148
+Dust from inside the door flutters about in the darkness.%K%P
+
+0x154
+With each step forward that I take, the inner details of%Nthe shrine become clearer and clearer.%K%P
+
+0x160
+It's as if all the particles of darkness in the shrine%Ndisappeared swiftly and soundlessly, like they were%Nsucked up by something.%K%P
+
+0x1C0
+Before long...%K%N
+
+0x1CC
+... I find her.%K%P
+
+0x21C
+I see a girl silently standing still inside the shrine...%W%W%W%K%P
+
+0x228
+... It's Kurumi...%K%N
+
+0x234
+... Kurumi...%K%P
+
+0x240
+Makoto「KURUMI!!!」%K%P
+
+0x24C
+I kick off the ground.%K%N
+
+0x258
+I run in order to push my way through the pelting rain.%K%N
+
+0x264
+I use whatever energy I have left to sprint towards her.%K%P
+
+0x270
+Even though I trip and stumble over puddles, I still keep%Nrunning.%K%P
+
+0x27C
+Makoto「KURUMIIIIIIIII!!!」%K%P
+
+0x288
+I scream again.%K%N
+
+0x294
+But the ruthless sound of the rain drowns out my voice.%K%N
+
+0x2A0
+Kurumi doesn't notice me.%K%P
+
+0x2AC
+She's standing stock still in the middle of the shrine%Ndejectedly, as stiff as a doll.%K%P
+
+0x2B8
+... But I'm almost there.%K%N
+
+0x2C4
+I'm almost there... Kurumi is right before my eyes.%K%N
+
+0x2D0
+Just a few more steps, and I'll have reached that short%Nstaircase.%K%P
+
+0x2DC
+Makoto「Kurumi!」%K%P
+
+0x2E8
+Nearly out of breath, I barely manage to wring out my%Nvoice.%K%P
+
+0x2F4
+Kurumi... quietly turns around.%K%N
+
+0x300
+Gently, without a sound...%K%P
+
+0x33C
+Kurumi「Onii-chan...」%K%P
+
+0x348
+She... mutters this in a lonely voice...%K%N
+
+0x354
+―At that very instant!%K%P
+
+0x3B8
+The earth shakes.%K%N
+
+0x3C4
+I lose my footing and fall forward, crashing onto the%Nground face first.%K%P
+
+0x3D0
+It's a raging earthquake...%K%N
+
+0x3DC
+The violent tremors come in waves.%K%P
+
+0x3E8
+It feel like I'm in the belly of a writhing monster...%K%N
+
+0x3F4
+The suffering, anguished, raging earth...%K%N
+
+0x400
+The thick pillars make a creaking sound as they grate.%K%P
+
+0x40C
+Small splinters come falling from the ceiling as it tears%Napart.%K%N
+
+0x418
+When I look up, I see that the shrine is now slanting left%Nand right, like a swaying heat haze.%K%P
+
+0x424
+―It's collapsing...%K%N
+
+0x430
+―The shrine... is collapsing...%K%P
+
+0x43C
+(Kurumi...)%K%P
+
+0x448
+―At this rate, Kurumi will...!!!%K%N
+
+0x454
+I push myself up with my hands, but the moment I try to%Nstand up...%K%P
+
+0x524
+A mountain of rubble...%K%N
+
+0x530
+Where the shrine once stood is now a cruel mountain of%Nrubble.%K%P
+
+0x53C
+The broken pillars... the wreckage of the roof that's been%Nsmashed to pieces...%K%P
+
+0x558
+I start to reach for a thick plank of wood.%K%N
+
+0x564
+With all of my strength, I brace myself as I try to lift it.%K%P
+
+0x570
+However, the plank is way too heavy, and won't budge%Nan inch.%K%P
+
+0x57C
+I muster even more strength as I try to put everything%NI've got into lifting it.%K%N
+
+0x588
+The grave sound of creaking echoes.%K%P
+
+0x594
+... My hands, wet from the rain, slip.%K%P
+
+0x5A0
+My fingernails burst open and pop off.%K%N
+
+0x5AC
+I feel a sharp pain... bright red, fresh blood comes%Npouring from the fingertips that have had their nails torn%Noff.%K%P
+
+0x5B8
+Even so, I don't give up.%K%N
+
+0x5C4
+I mustn't be bothered with the pain.%K%N
+
+0x5D0
+I don't care if my bones break or if my flesh is torn off.%K%P
+
+0x5DC
+I'll use everything I've got... I put so much brutal power%Ninto my body that my blood vessels almost rupture, and%Nuse it to lift up the thick plank...%K%P
+
+0x5F0
+Kurumi...%K%N
+
+0x5FC
+Looking at Kurumi's ghastly pale, almost transparent%Ncheeks, I feel like she might shatter into a thousand%Npieces if I touched her cheek.%K%P
+
+0x608
+As if she were a doll made of glass...%K%N
+
+0x614
+Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
+
+0x630
+―The bell.%K%N
+
+0x63C
+It's that bell...%K%N
+
+0x648
+That cold, silver light... That dull, crimson string...%K%P
+
+0x654
+Before long, the bell begins to quietly slip out of the%Npalm...%K%N
+
+0x660
+... It then... slips out and falls.%K%P
+
+0x6B4
+I bury my face into Kurumi's chest.%K%N
+
+0x6C0
+My body's trembling gradually intensifies.%K%P
+
+0x6CC
+In my arms, I can feel her cold, wet skin...%K%N
+
+0x6D8
+Her thin limbs are stiff...%K%N
+
+0x6E4
+This is Kurumi's... empty shell...%K%P
+
+0x6F0
+Makoto「Why...」%K%P
+
+0x6FC
+My hoarse voice alone fills this empty void...%K%P
+
+0x730
+...%K%P
+
+0x73C
+Kurumi「Because the moon was all alone, it was lonely, and would%Ncry during the night. 'Sob, sob... sob, sob'...」%K%P
+
+0x748
+Kurumi「Even so, the moon was still lonely, and so its tears gave%Nbirth to children. A lot of children...」%K%P
+
+0x754
+Kurumi「The child of the moon and the sea, the jellyfish...」%K%P
+
+0x760
+Kurumi「Kurumi was looking at the jellyfish.」%K%P
+
+0x77C
+...%K%P
+
+0x788
+Kurumi「Kurumi's dream...」%K%P
+
+0x794
+Kurumi「Is to become a wife♪」%K%P
+
+0x7A0
+Kurumi「At night, Kurumi will bury her face in her husband's warm%Nchest... and sleep soundly...」%K%P
+
+0x7AC
+Kurumi「Hey, Onii-chan?」%K%P
+
+0x7B8
+Kurumi「... Your chest... is it warm?」%K%P
+
+0x7C4
+...%K%P
+
+0x7D0
+Kurumi「It's done!♪」%K%P
+
+0x7DC
+Kurumi「Kurumi will call it Kurumi Unit 17!」%K%P
+
+0x7E8
+Kurumi「Ah... but this folding method is a trade secret. You%Nmustn't tell anyone about it, no matter what.」%K%P
+
+0x7F4
+Kurumi「Kurumi still hasn't told anyone either, so...」%K%P
+
+0x800
+...%K%P
+
+0x80C
+Kurumi「This is...」%K%P
+
+0x818
+Kurumi「... Onii-chan.」%K%P
+
+0x824
+Kurumi「This is Onii-chan when he's smiling!」%K%P
+
+0x840
+I put my hand into my pocket.%K%N
+
+0x84C
+I pull out the "me" out that Kurumi folded.%K%P
+
+0x858
+I place... "me" on my palm.%K%N
+
+0x864
+I grasp it with all my might...%K%P
+
+0x88C
+(Kurumi... why...)%K%P
+
+0x898
+Kurumi「Cross-my-heart-and-hope-to-die If-you-lie...♪」%K%P
+
+0x8A4
+Kurumi「Ah... what should we do if you lie?」%K%P
+
+0x8B0
+Kurumi「Let's see...」%K%P
+
+0x8BC
+Kurumi「If you lie, kiss Kurumi on the cheek... okay?」%K%P
+
+0x8C8
+We made a promise, right...? We pinkie-swore it, didn't we...?%K%N
+
+0x8D4
+To go to a haunted house... together...%K%P
+
+0x8E0
+To the amusement park... What should I do...?%K%N
+
+0x8EC
+―What should I do, Kurumi!!?%K%P
+
+0x8F8
+Kurumi「Hey, Onii-chan?」%K%P
+
+0x904
+Kurumi「Kurumi... wants to show you something, okay?」%K%P
+
+0x910
+Kurumi「If it's you, Onii-chan, then she can show you...」%K%P
+
+0x91C
+Kurumi「It's all right... you don't have to say anything...」%K%P
+
+0x928
+Kurumi「All you have to do is think 'Kurumi was selfish for wanting%Nto show it to me'...」%K%P
+
+0x934
+Kurumi「Just seeing it... is enough...」%K%P
+
+0x940
+Kurumi...%K%N
+
+0x94C
+I...%K%N
+
+0x958
+I...%K%P
+
+0x964
+Kurumi「Stop lying already!」%K%P
+
+0x970
+Kurumi「I hate you!」%K%P
+
+0x97C
+Kurumi「I HATE EVERYONE!!」%K%P
+
+0x9C4
+I curse the earth.%K%N
+
+0x9D0
+I curse the heavens. I curse God.%K%N
+
+0x9DC
+And... I feel disgust... hatred... and indignation... towards%Nmyself...%K%P
+
+0x9E8
+I tear at my chest, wanting to gouge out my heart and%Ncrush it as hard as I can with my own hands...%K%P
+
+0x9F4
+Without an outlet to voice my rage, my whole body%Nshudders as I try to restrain it.%K%N
+
+0xA00
+I gnaw and grind my molars, and dark blood comes%Noverflowing out of my mouth.%K%P
+
+0xA0C
+(If...)%K%P
+
+0xA18
+(If I could have one wish granted...)%K%P
+
+0xA24
+(It would be...)%K%P
+
+0xA30
+(To see Kurumi's angelic smile...)%K%P
+
+0xA3C
+(... once again...)%K%P
+
+0xA58
+I glare at the sky, and bare my teeth.%K%N
+
+0xA64
+As I scream at the top of my lungs, wringing out every%Nsingle emotion from within me...%K%P
+
+0xA70
+I soon...%K%N
+
+0xA7C
+begin to fall...%K%N
+
+0xA88
+to the bottom of hell...%K%P
+

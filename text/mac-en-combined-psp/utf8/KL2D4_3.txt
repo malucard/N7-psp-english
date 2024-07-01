@@ -1,0 +1,849 @@
+text area offset and size:
+0x1218
+0x4586
+0x7C
+While helping out, I keep gauging for when the right timing%Nto start talking to Izumi-san.%K%N
+
+0x88
+But for some reason, the customers today just keep on%Ncoming, so she doesn't even have a second to spare%Nfor conversation.%K%N
+
+0x94
+Since there's nothing I can do about that, I just quietly%Nfocus on my chores...%K%N
+
+0xA0
+I finish seven of my eight assignments with two and a%Nhalf hours left to spare.%K%P
+
+0xB4
+It's an hour earlier than last time.%K%N
+
+0xC0
+It must be because I've done this work once already, so%NI already knew what to do this time around from the%Nget-go.%K%N
+
+0xCC
+At exactly the same time I finish that job... the customers%Nstop coming.%K%N%N
+
+0xD8
+―The time has finally come!%K%P
+
+0x164
+Izumi「Haah... I'm tired.」%K%P
+
+0x170
+As she says this, Izumi-san slumps down on one of the%Nchairs on the terrace.%K%P
+
+0x17C
+Izumi「Makoto-kun, do you want to rest for a while too?」%K%P
+
+0x188
+(If she's offering me that, then it means my work's%Nalready done...)%K%P
+
+0x194
+I sit down in front of Izumi-san.%K%P
+
+0x1A8
+Izumi「It's been such a long time since we've had such a%Nconstant flow of customers come in and out...」%K%P
+
+0x1B4
+Izumi「If I'm this tired, then I don't think I'd ever get adjusted to%Nsuch a hectic business like this...」%K%P
+
+0x1C0
+Izumi「Ah, Makoto-kun... would you like some tea?」%K%P
+
+0x1CC
+Makoto「Oh... sure.」%K%P
+
+0x1D8
+My reply is clumsy, since I'm nervous.%K%P
+
+0x1EC
+... Izumi-san gets up...%K%N
+
+0x1F8
+... boils some black tea at the counter...%K%N
+
+0x204
+... and returns.%K%P
+
+0x218
+Izumi「Here you go♪」%K%P
+
+0x224
+Makoto「Ah... thank you.」%K%P
+
+0x230
+Izumi-san places the teacup in front of me.%K%P
+
+0x23C
+(Well then... where should I begin?)%K%P
+
+0x248
+I try to remember how the conversation originated in the%Nlast loop.%K%N
+
+0x254
+In the first place, how did that conversation begin?%K%P
+
+0x260
+Izumi「Makoto-kun?」%K%P
+
+0x26C
+Makoto「Yes!?」%K%P
+
+0x278
+She speaks up so suddenly that my voice came out%Nslightly hysterical.%K%P
+
+0x284
+Izumi「Have you finished the first stage of your work?」%K%P
+
+0x290
+Makoto「You say first stage... but all that's left to do is to go%Nshopping for the barbecue.」%K%P
+
+0x29C
+Izumi「What!? You've already finished everything else?」%K%P
+
+0x2A8
+Makoto「W-Well, yeah...」%K%P
+
+0x2B4
+Izumi「Hmm... I see... Then I wonder what I should do...」%K%P
+
+0x2C0
+Makoto「Huh?」%K%P
+
+0x2CC
+Izumi「If that's all that's left, then I wonder if it's okay if I send%Nyou alone to go and bring everything back...」%K%P
+
+0x2D8
+Makoto「Huh?」%K%P
+
+0x2E4
+Izumi「I'm talking about the shopping...」%K%P
+
+0x2F0
+Makoto「S-Sure... Then once I'm done drinking my tea-」%K%P
+
+0x2FC
+Wait, what the hell am I saying!?%K%N
+
+0x308
+I need to ask her about that story first, don't I!?%K%P
+
+0x314
+Izumi「Oh! Then you'll go and bring it back?」%K%P
+
+0x320
+Makoto「Well, actually, I-」%K%P
+
+0x334
+Izumi「Thank you♪ You're a real lifesaver～♪」%K%P
+
+0x340
+Makoto「No, I-」%K%P
+
+0x34C
+Izumi「Then I'll go and write up a shopping list for you, so could%Nyou wait a bit?」%K%P
+
+0x360
+Makoto「...」%K%P
+
+0x36C
+... Izumi-san gets up...%K%N
+
+0x378
+... takes a sheet of notepad paper and a ballpoint pen...%K%N
+
+0x384
+... and returns.%K%P
+
+0x398
+Izumi「Thanks for waiting!」%K%P
+
+0x3A4
+Izumi「Umm... first is beef... then green peppers and onions... and%Nwe're out of oil too...」%K%P
+
+0x3B0
+Makoto「...」%K%P
+
+0x3C4
+Izumi「Oh, right! I completely forgot... Wouldn't want to make%NYuka-chan angry...」%K%P
+
+0x3D8
+Izumi「So that's four cases of beer too...」%K%P
+
+0x3E4
+Izumi-san scribbles on the notepad paper while%Nmuttering to herself.%K%P
+
+0x3F0
+Izumi「After that... you've got to buy some orange juice...」%K%P
+
+0x3FC
+Orange juice.%K%N
+
+0x408
+Orange juice?%K%N
+
+0x414
+Orange juice!?%K%P
+
+0x420
+―That's it! That's how it began!%K%N
+
+0x42C
+Which means that now that she brought it up... I can turn%Nthis conversation in the direction I want it to!%K%P
+
+0x438
+Izumi「Haruka-chan also can't drink alcohol, right?」%K%P
+
+0x444
+Makoto「Right...」%K%P
+
+0x450
+Izumi「As I thought...」%K%P
+
+0x45C
+Makoto「...」%K%P
+
+0x468
+Izumi「...」%K%P
+
+0x474
+Makoto「...」%K%P
+
+0x480
+Izumi「...」%K%P
+
+0x48C
+Makoto「Actually, I'm not sure... Maybe Haruka actually does drink...」%K%P
+
+0x498
+Izumi「What～? Is that right...?」%K%P
+
+0x4A4
+Izumi「Well, either way, Kurumi can't drink, so even if you buy it,%Nat least the juice won't go to waste.」%K%P
+
+0x4B0
+Izumi「After all, high-schoolers can't drink alcohol, even if they%Nwant to.」%K%P
+
+0x4BC
+Izumi「I think she'll definitely want to drink...」%K%P
+
+0x4C8
+Makoto「Huh?」%K%P
+
+0x4D4
+This is certainly...%K%P
+
+0x4E0
+Izumi「Kurumi's filled with more curiosity than most people, isn't%Nshe?」%K%P
+
+0x4EC
+Izumi「It seems that she's really fascinated by things that are%Nforeign and novel to her.」%K%P
+
+0x4F8
+Yeah... it's as I thought... this is it...%K%P
+
+0x504
+Makoto「Now that you mention it, Kurumi was the one who%Nsuggested the Test of Courage yesterday.」%K%P
+
+0x510
+Izumi「It's really quite troublesome... She really loves those%Nkinds of occult-like things.」%K%P
+
+0x51C
+Makoto「Hey, Izumi-san? Can I ask you a question?」%K%P
+
+0x528
+Izumi「Hmm? What?」%K%P
+
+0x534
+Makoto「It's about that shrine...」%K%P
+
+0x548
+Izumi-san's expression darkens. It's the same as last%Ntime...%K%P
+
+0x554
+Makoto「Two nights ago, Kurumi suggested going on a 'Mystery%NTour.' You got really mad back then, didn't you?」%K%P
+
+0x560
+Izumi「...」%K%P
+
+0x56C
+Makoto「Why did you get so angry?」%K%P
+
+0x578
+Izumi「...」%K%P
+
+0x584
+Makoto「Izumi-san... I know the truth about the God of Demons.」%K%P
+
+0x590
+I'm telling the truth this time...%K%P
+
+0x59C
+Izumi「Huh!? You know...!?」%K%P
+
+0x5A8
+Makoto「Yes...」%K%P
+
+0x5B4
+Izumi「No way, you know that I made up that story...?」%K%P
+
+0x5C0
+Makoto「Yeah, I did...」%K%P
+
+0x5CC
+Izumi「Is... that so...」%K%P
+
+0x5D8
+Makoto「But why does it have to be a lie...?」%K%P
+
+0x5E4
+Izumi「...」%K%P
+
+0x5F0
+Makoto「...」%K%P
+
+0x5FC
+Izumi「...」%K%P
+
+0x608
+Makoto「...」%K%P
+
+0x614
+Izumi「... I understand... Then I'll tell you and you alone...」%K%P
+
+0x620
+Up until now, this conversation has been the same as%Nthe one that day.%K%N
+
+0x62C
+This is it.%K%N
+
+0x638
+I will finally learn the truth about Kurumi...%K%P
+
+0x6BC
+While getting ready to listen to Izumi-san's story, I look%Nout of the shop's door and survey the beach.%K%P
+
+0x6C8
+If Kurumi hears this... it'll mean trouble.%K%N
+
+0x6D4
+If she hears this... then it's all over...%K%N
+
+0x6E0
+I pay close attention to both Izumi-san and the door.%K%P
+
+0x6EC
+As I wait in that nervous state, Izumi-san finally begins to%Nspeak, slowly and quietly...%K%P
+
+0x6F8
+Izumi「Yes. As you know, Makoto-kun... that story was a lie...」%K%P
+
+0x704
+Izumi「But that doesn't mean it's all false.」%K%P
+
+0x710
+Izumi「A lot of people really did go missing at that shrine... that%Nat least is an undeniable fact.」%K%P
+
+0x71C
+Izumi「But... I thought that that alone was insufficient...」%K%P
+
+0x728
+Makoto「You didn't want us to get near the shrine... right? That's%Nwhy you thought you'd make up that story in order to%Nscare us a little...」%K%P
+
+0x734
+Makoto「You thought that if we didn't get near the shrine, then%NKurumi wouldn't go there... right?」%K%P
+
+0x740
+Izumi「Y-Yes... But... how did you figure that out...?」%K%P
+
+0x74C
+Makoto「It was just... intuition. That's all...」%K%P
+
+0x758
+Izumi「...」%K%P
+
+0x764
+Makoto「But I still haven't heard the most important part yet...」%K%P
+
+0x770
+Makoto「Why don't you want Kurumi to get near the shrine? I don't%Nget it!」%K%P
+
+0x77C
+Izumi-san strokes her hair, and gives a deep sigh.%K%P
+
+0x788
+A strained sigh...%K%P
+
+0x794
+I quietly wait until she begins to talk again.%K%P
+
+0x7A0
+Izumi「The truth is...」%K%P
+
+0x7AC
+Izumi「... Kurumi... might not be my real sister...」%K%P
+
+0x7B8
+Although it's something already know... it feels like my%Nheart is bursting open.%K%P
+
+0x7C4
+It might be... because I already knew that.%K%P
+
+0x7D0
+Izumi「Listen carefully...」%K%P
+
+0x7DC
+Izumi「In the past, Kurumi went missing...」%K%P
+
+0x7E8
+Izumi「To put it more accurately, she was kidnapped...」%K%P
+
+0x7F4
+Makoto「...」%K%P
+
+0x800
+I unconsciously clench my hands into fists...%K%P
+
+0x844
+Izumi「... It was when Kurumi had only just turned one month old...%N21 years ago...」%K%P
+
+0x850
+Makoto「What???」%K%P
+
+0x85C
+Makoto「W-What are you saying, Izumi-san?」%K%P
+
+0x868
+Makoto「Right now, Kurumi is 17 years old...and yet you say she%Nwas kidnapped 21 years ago...」%K%P
+
+0x874
+Izumi「There's... there's no way that's possible, is there...?"」%K%P
+
+0x880
+Izumi「Right. Certainly... that's impossible... That's why... I have no%Nconfidence in this story...」%K%P
+
+0x88C
+Izumi「Even though I'm talking about this now, when Kurumi was%Nkidnapped, I was only a year old...」%K%P
+
+0x898
+Makoto「It's obvious, but... I don't remember any of this at all...」%K%P
+
+0x8A4
+Izumi「...」%K%P
+
+0x8B0
+Izumi「My parents told me this story when I was in middle%Nschool...」%K%P
+
+0x8BC
+Izumi「Of course, I'm not just going by my parents' words alone.」%K%P
+
+0x8C8
+Izumi「I went to the library, thoroughly investigated the%Nnewspapers published at that time, and found that it%Nwas mentioned in one of them...」%K%P
+
+0x8D4
+Makoto「That's how I know it's the truth... But on the other hand, I%Ndon't know if any of it was covered up or not...」%K%P
+
+0x8E0
+Izumi「...」%K%P
+
+0x8EC
+Izumi「A bounty for the kidnapper was quickly placed.」%K%P
+
+0x8F8
+Izumi「The police tirelessly searched for Kurumi, and the media%Nextensively reported on it, but... In the end, they couldn't%Nfind her...」%K%P
+
+0x904
+Izumi「No. To put it accurately, they couldn't find her 'for the%Nnext three years'.」%K%P
+
+0x910
+Makoto「In short, three years after the kidnapping, Kurumi was%Nfound alive, and was taken into care by my family...」%K%P
+
+0x91C
+Izumi「...」%K%P
+
+0x928
+Makoto「However, at the same time, there was this one perplexing%Nfact that didn't quite make any sense...」%K%P
+
+0x934
+Izumi「A perplexing fact?」%K%P
+
+0x940
+Izumi「Yes... Kurumi... looked exactly the same as she did during%Nthe time she was kidnapped...」%K%P
+
+0x94C
+Makoto「She hadn't aged in the slightest... Though the kidnapping%Nhad been three years prior, she was still an infant.」%K%P
+
+0x958
+Izumi「That's... impossible...」%K%P
+
+0x964
+Izumi「Right. Everyone thought the same thing you did...」%K%P
+
+0x970
+Izumi「The police also thought it was suspicious, so they even%Nhad a DNA test taken...」%K%P
+
+0x97C
+Makoto「When the results came in... it declared that the possibility%Nof the baby being Kurumi was 99.99999％.」%K%P
+
+0x988
+Izumi「...」%K%P
+
+0x994
+Makoto「However... Makoto-kun, did you know this? Me and%NKurumi's father is a genetic engineering expert...」%K%P
+
+0x9A0
+Yes... I heard about it from Kurumi. Your father, Dr. Morino,%Nis also the world famous authority on the subject...%K%P
+
+0x9AC
+Makoto「―And just then, it hits me!」%K%P
+
+0x9B8
+Izumi「D-Don't tell me... Are you saying that Dr. Morino falsified%Nthe results of the DNA test!?」%K%P
+
+0x9C4
+Makoto「... I can't say for certain... that the possibility doesn't%Nexist...」%K%P
+
+0x9D0
+Makoto「But there's no way that Dr. Morino performed the test%Nhimself, right!?」%K%P
+
+0x9DC
+Izumi「Because his interests would have easily influenced him,%Nthe legal DNA test would have been conducted by some%Nother, neutral researcher!」%K%P
+
+0x9E8
+Izumi「Yes. You're certainly right.」%K%P
+
+0x9F4
+Makoto「But my father has a lot of influence, so it would have%Nbeen easy for him to put some kind of pressure on the%Nresearcher who conducted the legal DNA test...」%K%P
+
+0xA00
+Izumi「...」%K%P
+
+0xA0C
+Makoto「'If it meant getting my beloved daughter back, I would%Nuse whatever means necessary...' That's the kind of%Nperson my father is...」%K%P
+
+0xA18
+Izumi「Even if it was a completely different baby... he would%Npretend that it was his real daughter... That's how he%Nhandled it...」%K%P
+
+0xA24
+Izumi「... Either way, this isn't something I can declare with%Ncomplete confidence...」%K%P
+
+0xA30
+Were those test results the truth..? Or were they the%Nresult of my father's secret influence...?%K%P
+
+0xA3C
+... With this, I now understand that this is the reason why%NIzumi-san thinks Kurumi might not be her real sister.%K%P
+
+0xA48
+Still, the real problem isn't Dr. Morino's involvement, but%Nrather the fact that Kurumi didn't age at all in three years.%K%P
+
+0xA54
+For argument's sake, let's say that Kurumi had aged%Nthree years when she was found. Then Izumi-san and%Neveryone else wouldn't have had any doubts to begin%Nwith.%K%P
+
+0xA60
+―A three year blank.%K%P
+
+0xA6C
+Izumi「If I can clear up that mystery, then naturally, I'll probably%Nbe able to figure out the truth...」%K%P
+
+0xA78
+Makoto「Makoto-kun... But don't misunderstand me, okay?」%K%P
+
+0xA84
+Izumi「?」%K%P
+
+0xA90
+Izumi「Despite everything I've said, it has never lessened my%Nlove for Kurumi one bit.」%K%P
+
+0xA9C
+Makoto「Even if we're not blood related, Kurumi is my real... little%Nsister.」%K%P
+
+0xAA8
+Izumi「I know, Izumi-san...」%K%P
+
+0xAB4
+Izumi「The one I'm worried about... has always been Kurumi%Nherself.」%K%P
+
+0xAC0
+Izumi「If Kurumi were ever to learn this... If she started pressing%Nme with questions in the future...」%K%P
+
+0xACC
+Makoto「Then I wouldn't know... what I should say.」%K%P
+
+0xAD8
+Izumi「...」%K%P
+
+0xAE4
+Izumi「The place that Kurumi was discovered in... 18 years ago...」%K%P
+
+0xAF0
+Makoto「Was that 'Shiki no Mori Shrine'...」%K%P
+
+0xAFC
+Izumi「!?」%K%P
+
+0xB08
+Izumi「That's the reason why I don't want Kurumi approaching%Nthat shrine...」%K%P
+
+0xB14
+Because I'm scared that at any moment, the truth will slip%Nout...%K%N
+
+0xB20
+...%K%N
+
+0xB2C
+The shrine, the kidnapping, and the fact that Kurumi might%Nnot be Izumi-san's real sister.%K%P
+
+0xBB0
+Makoto「With this, all the dots... have been connected...」%K%P
+
+0xBBC
+Izumi-san...?%K%P
+
+0xBC8
+Makoto「At the end, I casually think to ask her one last simple%Nquestion.」%K%P
+
+0xBD4
+Izumi「About Kurumi's kidnapper... was he caught in the end?」%K%P
+
+0xBE0
+Makoto「Yes... but rather than 'caught', 'found' might be a better%Nword for it...」%K%P
+
+0xBEC
+Izumi「?」%K%P
+
+0xBF8
+Makoto「The kidnapper died, you see...」%K%P
+
+0xC04
+Izumi「H-How did he die?」%K%P
+
+0xC10
+Makoto「He was pinned under a collapsed building...」%K%P
+
+0xC1C
+Izumi「A collapsed... building...?」%K%P
+
+0xC28
+Makoto「I don't know if it was some kind of fate, but he was also%Nfound at the 'Shiki no Mori Shrine'... seven days after%NKurumi was kidnapped.」%K%P
+
+0xC34
+Izumi「What!?」%K%P
+
+0xC40
+Izumi「21 years ago, there were a lot of earthquakes on this%Nisland.」%K%P
+
+0xC4C
+Izumi「Those tremors destroyed the shrine...」%K%P
+
+0xC58
+Makoto「After the bounty was placed on the kidnapper, he%Nprobably had nowhere to run... so he hid in that shrine...」%K%P
+
+0xC64
+Then... was Kurumi also-?%K%P
+
+0xC70
+Izumi「Izumi-san slowly shakes her head.」%K%P
+
+0xC7C
+Makoto「It seems like they searched every nook and cranny of%Nthe collapsed building, but...」%K%P
+
+0xC88
+Izumi「They couldn't find her... Kurumi wasn't there...」%K%P
+
+0xC94
+Izumi「Yes...」%K%P
+
+0xCA0
+Izumi「Before long, the collapsed shrine was rebuilt...」%K%P
+
+0xCAC
+Makoto「Then, three years after the shrine was destroyed―a%Ntourist who was passing by the area by pure chance%Nheard a baby crying inside the shrine...」%K%P
+
+0xCB8
+And that's when Kurumi was found.%K%P
+
+0xCC4
+―Huh??? Wait...%K%P
+
+0xCD0
+The shrine... An earthquake... The destruction of the%Nshrine...%K%P
+
+0xCDC
+Not aging for three years...%K%P
+
+0xCE8
+Could that have been... ―Time travel!?%K%P
+
+0xCF4
+In my case, I was sent to the past, but Kurumi was sent%Nthree years into the future...%K%P
+
+0xD00
+It's not impossible!%K%P
+
+0xD0C
+No, if you thought about it normally, then it would be%Nridiculous to even imagine such an absurd event...%K%P
+
+0xD18
+... But I'm really experiencing this strange world.%K%P
+
+0xD24
+I'm living proof that the phenomenon known as time travel%Nexists!%K%P
+
+0xD30
+Furthermore... Furthermore, if my hypothesis is correct,%Nthen I can also explain Kurumi's scar.%K%P
+
+0xD3C
+In other words, it's like this:%K%P
+
+0xD48
+Just before the shrine was destroyed, Kurumi was in%Nthere with the kidnapper.%K%P
+
+0xD54
+But via some kind of unknown source, "immediately after%Nthe shrine was destroyed", only Kurumi time traveled%Nthree years into the future...%K%P
+
+0xD60
+Immediately after it was destroyed... ―therefore, she%Ngot injured on her back due to debris that fell during%Nthe destruction of the shrine.%K%P
+
+0xD6C
+... If this is right, then this means that I can explain%Neverything!%K%P
+
+0xD78
+Makoto「I should ask Izumi-san!」%K%P
+
+0xD84
+Izumi「Izumi-san!?」%K%P
+
+0xD90
+Makoto「Yes?」%K%P
+
+0xD9C
+Izumi「I want you to tell me one thing.」%K%P
+
+0xDA8
+Makoto「?」%K%P
+
+0xDB4
+Makoto「When Kurumi was found in the shrine...」%K%P
+
+0xDC8
+Izumi「Was there... a large wound on her back?」%K%P
+
+0xDD4
+Izumi「... What!?」%K%P
+
+0xDE0
+H-How did you... know that?%K%P
+
+0xDEC
+Izumi「As I thought...」%K%P
+
+0xDF8
+Izumi「Th-That's right... It seems she was really bleeding badly...%NThat's why, right after she was found, she was%Nimmediately taken to the clinic...」%K%P
+
+0xE04
+Makoto「Hey, how? How did you know...?」%K%P
+
+0xE10
+Izumi「Izumi-san... With this, I now understand...」%K%P
+
+0xE1C
+Makoto「Huh???」%K%P
+
+0xE28
+Makoto「Kurumi is your real sister! You two are true blood related%Nsisters!」%K%P
+
+0xE34
+Izumi「I can say with confidence that I'm right!」%K%P
+
+0xE40
+Makoto「... What do you mean?」%K%P
+
+0xE4C
+Izumi「Well then, I'm going shopping now.」%K%P
+
+0xED0
+Huh!? W-Wait a minute, Makoto-kun!!%K%N
+
+0xEDC
+I managed to escape, but...%K%P
+
+0xEE8
+Would it have been for the best if I had properly%Nexplained it to Izumi-san?%K%N
+
+0xEF4
+No... There's no way that she'd believe in the time%Ntraveling...%K%P
+
+0xF00
+Besides, no matter what, I'd be unwilling to tell her that%Nsuch a thing happened to Kurumi...%K%P
+
+0xF0C
+I head down the road towards the shopping district...%K%P
+
+0xF18
+My mind is calm.%K%P
+
+0xF24
+It's probably because the uneasiness that's been%Nconsuming my heart has been completely erased.%K%P
+
+0xF30
+That's because I've confirmed that Kurumi and Izumi-san%Nare true sisters...%K%P
+
+0xF3C
+My legs are moving faster than ever before, as if they%Nwere previously held down by some kind of weight.%K%P
+
+0xFD8
+After that...%K%N
+
+0xFE4
+We go to the barbecue, and spend several hours just%Ndrinking and creating a large uproar...%K%P
+
+0xFF0
+Unfortunately, Yuka got drunk again, but Saki and%NHaruka's fight never occurred this time.%K%P
+
+0xFFC
+Thinking about it, it's only natural. In this history, Saki and%NHaruka are getting along just fine.%K%P
+
+0x1008
+Of course, Kurumi's disappearance and the uproar that%Nsurrounded it don't happen this time, either.%K%N
+
+0x1014
+―But maybe she'll go missing later???%K%N
+
+0x1020
+No, that definitely won't happen.%K%P
+
+0x102C
+That's because right now, Kurumi is sleeping soundly%Nbefore my eyes.%K%P
+
+0x1038
+After the barbecue, we all gathered in the lodge and%Nheld a seven bridge tournament.%K%P
+
+0x1044
+It only ended about thirty minutes ago, and when I came%Nto my senses, Kurumi had taken possession of my bed%Nwithout me noticing it.%K%P
+
+0x1050
+It's almost the time when I met Kurumi on the roof of%NLunabeach last time and she talked about her "scar".%K%P
+
+0x105C
+But I'll just let her sleep like this.%K%P
+
+0x1068
+I don't want to hear that infuriating story about that%N"senpai" of hers...%W%W%W%K%P
+
+0x1074
+It'll be fine.%K%P
+
+0x1080
+I still remember everything she told me that night...%W%W%W%K%P
+
+0x108C
+...%K%N
+
+0x1098
+Well then, guess it's about time I went to sleep as well...%K%N
+
+0x10A4
+Though I say that, I'm actually sleeping on the floor%Ntonight...%K%P
+
+0x10B0
+Makoto「Tomorrow will be an 'ultra good day'... Right, Kurumi?」%K%P
+

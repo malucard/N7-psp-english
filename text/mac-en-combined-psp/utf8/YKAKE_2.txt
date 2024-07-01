@@ -1,0 +1,600 @@
+text area offset and size:
+0xFA0
+0x2C1E
+0x5C
+Yuka「Ah, I can't find it～」%K%P
+
+0x68
+I hear Yuka complaining in the thicket.%K%P
+
+0x74
+In one arm, I'm carrying a plastic container with 39 tennis%Nballs inside.%K%P
+
+0x80
+There's only one left... but we can't find that last one%Nanywhere.%K%P
+
+0x8C
+Roughly half an hour has passed since we started%Nsearching.%K%P
+
+0x98
+Yuka「Geez, why'd you have to hit it so far...」%K%P
+
+0xA4
+Makoto「What the hell are you saying!? Weren't you the one who%Nhit all the balls that went over the fence?」%K%P
+
+0xB0
+It's true.%K%P
+
+0xBC
+Occasionally, Yuka would lose focus and hit the balls in%Nridiculous directions.%K%P
+
+0xC8
+Whether it was serving or volleying, her skill was mostly%Nthe same as a beginner's, but when she hit it powerfully,%Nit was like she was trying to score a home run.%K%P
+
+0xD4
+Geez... I can't decide whether she's really good or really%Nbad.%K%P
+
+0xE8
+Yuka「You can't say that!」%K%P
+
+0xF4
+Makoto「Why not!?」%K%P
+
+0x108
+Yuka「Only the winner has the privilege to say that!」%K%P
+
+0x114
+Makoto「Ugh...」%K%P
+
+0x120
+She's right.%K%P
+
+0x12C
+Yuka's technically the winner, since she won one more%Ncomplete set than I did. We continued the match for an%Nhour afterwards, but in reality, until the last ball had flown%Nover the fence, I had lost one more set than Yuka.%K%P
+
+0x150
+Makoto「Idiot, if we'd finished the game-」%K%P
+
+0x164
+Yuka「You could've made a comeback?」%K%P
+
+0x170
+Makoto「Hell yeah!」%K%P
+
+0x17C
+Yuka「You really think so?」%K%P
+
+0x188
+Makoto「Of course!」%K%P
+
+0x194
+Yuka「Hmm...」%K%P
+
+0x1A0
+She ponders it.%K%P
+
+0x1B4
+Yuka「Well, whatever.」%K%P
+
+0x1C0
+Yuka「Let's hurry up and find the ball. We're wasting time.」%K%P
+
+0x1D4
+Makoto「...」%K%P
+
+0x1E0
+In the end, to her, "a loss is a loss."%K%P
+
+0x1EC
+Since Yuka is the winner, she only hears my bluffs as%Nexcuses.%K%P
+
+0x1F8
+Makoto「Damn!」%K%P
+
+0x204
+I click my tongue.%K%P
+
+0x218
+Yuka「C'mon, Makoto! Don't just space out; hurry up and look%Nfor the ball!」%K%P
+
+0x22C
+Yuka urges me on as she continues to search through%Nthe bushes.%K%P
+
+0x238
+Makoto「Haaah...」%K%P
+
+0x244
+As I begin to trudge through the thicket, I let out a weary%Nsigh.%K%P
+
+0x250
+(Anyway...)%K%P
+
+0x25C
+(Why does she just call me "Makoto" without any%Nhonorifics...?)%K%P
+
+0x268
+When I thought of this question earlier today, I just%Njumped to conclusions and thought I understood it, but%Nwhen I really stop to think about it, it doesn't make sense.%K%P
+
+0x274
+After all, we only just met yesterday...%K%P
+
+0x280
+I stop walking, and look at her.%K%P
+
+0x294
+The sunlight pours in through the trees, allowing the%Ngreen grass to soak in its beams.%K%P
+
+0x2A0
+I can see Yuka beyond the trees, grasping her racket in%Nher left hand as she looks around for the ball.%K%P
+
+0x2AC
+She looks a little bored.%K%P
+
+0x2B8
+How can she urge me on if she's not even serious about%Nthis?%K%P
+
+0x2C4
+Her exposed legs are covered in dew.%K%P
+
+0x2D0
+Her curves are so soft and round... Her alluring, smooth%Nskin is dazzling with pure gloss.%K%P
+
+0x2DC
+Suddenly, a southern wind blows through the trees, and%Nher scent reaches my nose.%K%P
+
+0x2E8
+It's a sweet and pleasant scent, like ripened fruit.%K%P
+
+0x2F4
+(Yuka, huh...)%K%P
+
+0x300
+―Hmm???%K%P
+
+0x30C
+Yuka???%K%P
+
+0x318
+All of the sudden, I realize something.%K%P
+
+0x324
+(Come to think of it, I've just been calling her "Yuka"%Nwithout any honorifics either!)%K%P
+
+0x330
+I'm the same as she is.%K%P
+
+0x33C
+And now that I think about it, it hasn't been just Yuka.%K%P
+
+0x348
+I've been addressing Haruka and Okuhiko without any%Nhonorifics either, haven't I?%K%P
+
+0x354
+(... Why's that?)%K%P
+
+0x360
+My mind's a little joggled right now from that sweet scent.%K%P
+
+0x36C
+(Anyways, isn't it weirder that I didn't notice how%Nunnatural this was until now?)%K%P
+
+0x378
+At that moment...%K%P
+
+0x394
+Yuka「Ah!」%K%P
+
+0x3A0
+... Yuka lets out a shout.%K%P
+
+0x3AC
+Yuka「Found it!」%K%P
+
+0x3C8
+Makoto「...」%K%P
+
+0x3D4
+In the end, she thinks that "a loss is a loss."%K%P
+
+0x3E0
+Since Yuka is the winner, she only hears my bluffs as%Nexcuses.%K%P
+
+0x3F4
+Yuka「See, you don't even have a comeback.」%K%P
+
+0x400
+Because I don't say anything back, Yuka becomes smug.%K%P
+
+0x40C
+... I am a little sore after all.%K%P
+
+0x418
+Yuka「Hmm? What? If you've got something to say, then say it.%NThough it's probably an excuse...」%K%P
+
+0x424
+Shit! I really ought to think up a comeback!%K%P
+
+0x438
+Yuka「C'mon, Makoto. Don't just stand around there, hurry up%Nand look for it!」%K%P
+
+0x444
+In the end, I just kept my mouth shut.%K%P
+
+0x458
+Yuka urges me on as she continues to search through%Nthe bushes.%K%P
+
+0x464
+Makoto「Haaah...」%K%P
+
+0x470
+As I begin to trudge through the ticket, I let out a weary%Nsigh.%K%P
+
+0x47C
+(Anyway...)%K%P
+
+0x488
+(Why does she just call me "Makoto" without any%Nhonorifics...?)%K%P
+
+0x494
+When I thought of this question earlier today, I just%Njumped to conclusions and thought I understood it, but%Nwhen I really stop to think about it, it doesn't make sense.%K%P
+
+0x4A0
+After all, we only just met yesterday...%K%P
+
+0x4AC
+I stop walking, and look at her.%K%P
+
+0x4B8
+...%K%P
+
+0x4C4
+The sunlight pours in through the trees, allowing the%Ngreen grass to soak in its beams.%K%P
+
+0x4D0
+I can see Yuka beyond the trees, grasping her racket in%Nher left hand as she looks around for the ball.%K%P
+
+0x4DC
+How can she urge me on if she's not even serious about%Nthis?%K%P
+
+0x4E8
+Suddenly, a southern wind blows through the trees, and%Nher scent reaches my nose.%K%P
+
+0x4F4
+It's a sweet and pleasant scent, like ripened fruit.%K%P
+
+0x500
+(Yuka, huh...)%K%P
+
+0x50C
+―Hmm???%K%P
+
+0x518
+Yuka???%K%P
+
+0x524
+All of the sudden, I realize something.%K%P
+
+0x530
+(Come to think of it, I've just been calling her "Yuka"%Nwithout any honorifics either!)%K%P
+
+0x53C
+I'm the same as she is.%K%P
+
+0x548
+And now that I think about it, it hasn't been just Yuka.%K%P
+
+0x554
+I've been addressing Haruka and Okuhiko without any%Nhonorifics either, haven't I?%K%P
+
+0x560
+(... Why's that?)%K%P
+
+0x56C
+My mind's a little joggled right now from that sweet scent.%K%P
+
+0x578
+(Anyways, isn't it weirder that I didn't notice how%Nunnatural this was until now?)%K%P
+
+0x584
+At that moment...%K%P
+
+0x5A0
+Yuka「Ah!」%K%P
+
+0x5AC
+... Yuka lets out a shout.%K%P
+
+0x5B8
+Yuka「Found it!」%K%P
+
+0x5E8
+Yuka holds the tennis ball high over her head,%Ntriumphantly.%K%P
+
+0x5F4
+Her innocent smile completely blows away all my irritation.%K%P
+
+0x608
+Yuka「Here!」%K%P
+
+0x614
+Yuka gently throws the ball.%K%P
+
+0x620
+I catch it with my right hand, and place it in the plastic%Ncontainer.%K%P
+
+0x62C
+40 balls... this is all of them.%K%P
+
+0x640
+Yuka「Hold on. I don't get a thank you or anything?」%K%P
+
+0x64C
+Makoto「Thanks.」%K%P
+
+0x660
+Yuka「Ah! That tone... You're not grateful at all, aren't you?」%K
+
+0xF60
+This was your fault to begin with.
+
+0xF6C
+I'm grateful.
+
+0x6A8
+Makoto「Grateful?! You're the one who hit that home run ball in the%Nfirst place!」%K%P
+
+0x6B4
+Makoto「Even so, I helped you clean up your mess. You're the%None who should be thanking me.」%K%P
+
+0x6C8
+Yuka「Uwaa, you're still saying that?」%K%P
+
+0x6E4
+Makoto「I'm grateful...」%K%P
+
+0x6F8
+Yuka「Ah, that sounded rather half-hearted...」%K%P
+
+0x704
+Makoto「Well then, what do you want!?」%K%P
+
+0x710
+Yuka「You should thank me... with more feeling in your voice.」%K%P
+
+0x71C
+(I DID say it just now with feeling, or at least I intended%Nto...)%K%P
+
+0x728
+Yuka「It's because you said it like that that you...」%K%P
+
+0x73C
+After that, she let out a string of insults. Well, she's%Npartially right, but...%K%P
+
+0x748
+No, I'm annoyed because she's right.%K%P
+
+0x754
+I'm getting angrier and angrier...%K%P
+
+0x768
+Yuka「Like I said before, if your serves hadn't been so%Npathetic, we wouldn't be in this mess!」%K%P
+
+0x774
+Makoto「Pathetic!?」%K%P
+
+0x780
+Makoto「If they were so bad, then why didn't you try returning%Nthem?」%K%P
+
+0x78C
+Yuka「Because they were way too pathetic...」%K%P
+
+0x7A0
+Yuka「Maybe I should have gone easier on you?」%K%P
+
+0x7AC
+Makoto「You're such a bitch! You think you're so high and mighty%Njust because you won one match!」%K%P
+
+0x7B8
+Makoto「I know! Let's have a rematch!」%K%P
+
+0x7CC
+Yuka「All right, I'm up for it!」%K%P
+
+0x7E0
+Yuka「In return, if I win...」%K%P
+
+0x7EC
+Makoto「If you win... what?」%K%P
+
+0x7F8
+Yuka「If I win, then you have to do something I want, no matter%Nwhat it is!」%K%P
+
+0x804
+Makoto「... And if I win?」%K%P
+
+0x818
+Yuka「Of course, you'll get the same prize if you win!」%K%P
+
+0x824
+Anything, huh? Let's do this!%K%P
+
+0x830
+Makoto「Interesting. I'll take on that bet!」%K%P
+
+0x8C4
+And so, we return to the net and face off again.%K%P
+
+0x8D0
+Yuka's insults, instead of hurting my feelings, have%Ngotten me all fired up instead.%K%P
+
+0x8DC
+It's easy to see why...%K%P
+
+0x8E8
+There's something refreshing about Yuka's blunt and%Ncarefree personality.%K%P
+
+0x8F4
+She's the type of girl who I'd say has a "candid" attitude.%K%P
+
+0x900
+Yuka「Hey, pathetic boy. Hurry up and serve!」%K%P
+
+0x90C
+The girl that's brighter than a summer day seems to fit in%Nwell with the spring sunlight.%K%P
+
+0x918
+I start to think that this Seminar Camp isn't so bad after%Nall...%K%P
+
+0x970
+... ... ...%K%P
+
+0x9AC
+After the match ended, Yuka and I talked about what to%Ndo next.%K%P
+
+0x9B8
+We didn't have enough strength to play another match,%Nbut it was too early to return to the lodge.%K%P
+
+0x9C4
+So in the end, we decided to go to the ocean to meet up%Nwith Haruka and Okuhiko.%K%P
+
+0x9D0
+When we finished chatting, we took showers in the%Nmanagement office.%K%P
+
+0x9DC
+The shower felt so wonderful and refreshing after being%Nin the sun for so long.%K%P
+
+0x9E8
+We're now heading towards the ocean while descending%Nthe long hill road.%K%P
+
+0x9F4
+By the way, the result of the match...%K%P
+
+0xA24
+Yuka「Well then, I wonder what I should have you do?」%K%P
+
+0xA30
+... is obvious just by looking at Yuka's expression.%K
+
+0xF78
+"Can we just forget about it?"
+
+0xF84
+"Stop lording it over me and say it."
+
+0xA70
+Makoto「Um... so, can we just forget about it?」%K%P
+
+0xA7C
+I try to wuss out...%K%P
+
+0xA90
+Yuka「Huh!!? What's with that!? Taking back your words is very%Nunmanly, you know!」%K%P
+
+0xA9C
+Makoto「... Ugh!!」%K%P
+
+0xAB0
+Yuka「If you're going to be like that, you shouldn't have asked%Nfor a rematch!」%K%P
+
+0xABC
+... But I thought Yuka was the one who suggested the%Nbet... Well, it's true that I did accept it...%K%P
+
+0xAD0
+Yuka「You can't take back your promise!」%K%P
+
+0xADC
+Makoto「Yeah, yeah...」%K%P
+
+0xAF0
+Yuka「I'll make you do the craziest thing I can think of.」%K%P
+
+0xB0C
+Makoto「Stop lording it over me and just say it.」%K%P
+
+0xB18
+Yuka「I wasn't really lording it over you. I'm seriously thinking%Nabout it.」%K%P
+
+0xB2C
+Yuka「Since I can only make you do one thing, I need to make it%Nthe craziest thing I can think of.」%K%P
+
+0xB40
+The craziest thing she can think of... I have a bad feeling%Nabout this.%K%P
+
+0xB4C
+Yuka「Hmm...」%K%P
+
+0xB58
+Yuka「Mmm...」%K%P
+
+0xB6C
+Yuka「... Well, I'll think about it.」%K%P
+
+0xB78
+Makoto「Huh? You can't do that. Tell me now!」%K%P
+
+0xB8C
+Yuka「But I can't think of anything good. Besides, I never said%Nhow long this promise was valid for, did I?」%K%P
+
+0xB98
+Makoto「Well, that's true...」%K%P
+
+0xBA4
+Yuka「It might be tomorrow, or the day after... Maybe even in ten%Nyears.」%K%P
+
+0xBB8
+Yuka「Be sure to remember it ten years from now.」%K%P
+
+0xBC4
+Makoto「That's impossible!」%K%P
+
+0xBD0
+Yuka just smiles.%K%P
+
+0xC54
+We come out of the forest road, and arrive at the%Ncoastline.%K%P
+
+0xC60
+A bit to the west is a small cove surrounded by a rock%Nwall.%K%P
+
+0xC6C
+To the east is a long, wide beach with white sand.%K%P
+
+0xC78
+The small cove is called "Princess Beach", while the wide%Nbeach is called "Moon Beach".%K%P
+
+0xC84
+We first try going to Princess Beach. It made the most%Nsense to check there first, since it was closer.%K%P
+
+0xC90
+Just then...%K%P
+
+0xCA4
+Okuhiko「What are you doing in a place like this...?」%K%P
+
+0xCB0
+... We suddenly cross paths with them.%K%P
+
+0xCBC
+It seems they were just on their way back to the lodge.%K%P
+
+0xCC8
+Yuka explains that "We've already come down this far,"%Nso in the end, the four of us decide to leave for the%Nshopping district.%K%P
+
+0xCD4
+Well, considering how deserted that shopping district is,%N"leave for" might not be the best way to put it...%K%P
+
+0xCE0
+As we talk, Haruka averts her eyes, looking rather bored.%K%P
+
+0xCEC
+She told us she wanted to see the ocean, yet she%Ndoesn't seem very satisfied.%K%P
+
+0xCF8
+(What did she do there?)%K%P
+
+0xD04
+I listen to Yuka and Okuhiko's conversation while%Ncaptivated by Haruka's actions.%K%P
+
+0xD10
+Her soft hair sways in the sea breeze.%K%P
+

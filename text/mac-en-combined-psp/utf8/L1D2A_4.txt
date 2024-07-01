@@ -1,0 +1,435 @@
+text area offset and size:
+0xDD8
+0x21BC
+0x40
+Yuka「This is the life... isn't it?」%K%P
+
+0x4C
+Yuka and I are sitting down in two deck chairs by the%Npoolside, watching kids innocently playing in the water.%K%P
+
+0x58
+Yuka「The refreshing sound of water and the cheering of%Nchildren... The warm sunlight, and some first-rate draft%Nbeer...」%K%P
+
+0x7C
+That's right. Right now, she has a glass of draft beer on%Nher lips, drinking down the pure white foam from the top%Nof the glass.%K%P
+
+0x88
+Even after telling me that I was nuts for drinking beer%Nduring the day... You damn hypocrite!%K%P
+
+0x9C
+That's right. Right now, she has a glass of draft beer on%Nher lips, drinking down the pure white foam from the top%Nof the glass.%K%P
+
+0xB0
+Yuka「Hey? Don't you think so?」%K%P
+
+0xBC
+As she asks me for agreement, I grip a glass cup in my%Nright hand, filled with flat soda.%K%P
+
+0xD8
+To make matters worse, my soda is so flat that it's more%Nlike water...%K%N
+
+0xE4
+No matter how I think about it, this is not a situation where%NI can empathize with her.%K%P
+
+0xF8
+In other words, thanks to Yuka, I'm stuck with this flat%Nsoda that's more like water.%K%P
+
+0x104
+No matter how I think, this is not a situation I can%Nempathize with her with.%K%P
+
+0x110
+Yuka「It'd be nice if it continued to go on like this forever...」%K%P
+
+0x11C
+Yuka「It'd be nice if we could keep on living as though we were%Nwandering in a dream like this...」%K%P
+
+0x138
+Makoto「But if this really did go on forever, don't you think you'd%Neventually get bored?」%K%P
+
+0x144
+Yuka「Is that what you think?」%K%P
+
+0x150
+Makoto「Yes.」%K%P
+
+0x15C
+Yuka「But for now, I'd love to stay here as long as I wanted%Nuntil I get bored.」%K%P
+
+0x168
+Makoto「...」%K%P
+
+0x17C
+Yuka「Once this Camp is over, school will start again right%Naway, won't it?」%K%P
+
+0x188
+Yuka「Back to boring classes and a boring job... Those%Nordinary days that make me want to scream...」%K%P
+
+0x194
+Yuka「To me, that world is incredibly tedious.」%K%P
+
+0x1A0
+Makoto「Well, you might have a point there...」%K%P
+
+0x1AC
+As I say this, Yuka delicately places her cup to her lips...%K%P
+
+0x1D0
+... And gulps it down.%K%P
+
+0x1DC
+She's chugging it faster than a sailor.%K%P
+
+0x1E8
+(Is she all right?)%K%P
+
+0x1F4
+I become a little worried.%K%P
+
+0x278
+Okuhiko「Shalom!!」%K%P
+
+0x284
+Makoto「Whoa!!」%K%P
+
+0x2C4
+Okuhiko's sudden appearance causes me to almost%Ninstinctively drop the cup in my hand.%K%P
+
+0x2D0
+Okuhiko「Pardon me for interrupting.」%K%P
+
+0x2DC
+Makoto「W-What the hell was that about?」%K%P
+
+0x32C
+Okuhiko「Well, it's just that I think everyone is starved right about%Nnow.」%K%P
+
+0x348
+Yuka「Ah! Now that you mention it, we've haven't eaten anything%Ntoday...」%K%P
+
+0x35C
+Okuhiko「Right? That's why, right now, everyone is gathering to%Neat.」%K%P
+
+0x370
+Yuka「I see. Thanks for telling us.」%K%P
+
+0x37C
+Okuhiko「Look, see that parasol over there by that stand?」%K%P
+
+0x388
+With the theatrics of an opera singer, Okuhiko points in%Nthat direction.%K%P
+
+0x394
+Okuhiko「I saved some seats for us over there.」%K%P
+
+0x3A0
+Makoto「Gee, how awfully considerate of you...」%K%P
+
+0x3B4
+Okuhiko「Oh come on, it's no big deal.」%K%P
+
+0x3C8
+Okuhiko「Well then, I have to go find Haruka-chan, so if you'll%Nexcuse me...」%K%P
+
+0x3D4
+Okuhiko proceeds to flip his long hair...%K%P
+
+0x3E0
+Okuhiko「Ciao♪」%K%P
+
+0x3F4
+... While leaving us behind with those words.%K%P
+
+0x400
+"Ciao"...%K%P
+
+0x40C
+Yuka and I watch him go in awkward silence...%K%P
+
+0x428
+Yuka「... Well, shall we go?」%K%P
+
+0x434
+Yuka slaps my knees and stands up.%K%P
+
+0x440
+I peek into Yuka's cup to discover that it's empty.%K%P
+
+0x44C
+(Yuka... is she an alcoholic or something..?)%K%P
+
+0x458
+As I'm thinking, me and Yuka walk towards the parasol...%K%P
+
+0x47C
+Makoto「In a dream...」%K%P
+
+0x498
+Yuka「Oh!! Speaking of dreams...」%K%P
+
+0x4A4
+Makoto「?」%K%P
+
+0x4B0
+Yuka「I'm really sorry about yesterday.」%K%P
+
+0x4BC
+Makoto「Huh? What do you mean?」%K%P
+
+0x4C8
+Yuka「Yesterday morning! You know, when I was sorta half%Nasleep.」%K%P
+
+0x4D4
+Makoto「Oh, that?」%K%P
+
+0x4E0
+Makoto「Well, I figured that was the case...」%K%P
+
+0x4F4
+Yuka「It felt like the continuation of a dream.」%K%P
+
+0x500
+Yuka「It felt like I had awoken to another dream...」%K%P
+
+0x50C
+Makoto「Hmm...」%K%P
+
+0x518
+Makoto「And what kind of dream was it?」%K%P
+
+0x524
+Yuka「Umm... it's kind of hard to explain...」%K%P
+
+0x530
+Yuka「Anyway, it was a really unpleasant one.」%K%P
+
+0x53C
+Yuka「It was the worst kind possible... a hopeless dream.」%K%P
+
+0x548
+Makoto「A hopeless... dream? Could you be more specific?」%K%P
+
+0x554
+Yuka「Mmm... you say that, but...」%K%P
+
+0x560
+Yuka「I honestly don't really remember it too well...」%K%P
+
+0x56C
+Makoto「...」%K%P
+
+0x578
+Yuka「Oh! But I do know...」%K%P
+
+0x584
+Yuka「That...」%K%P
+
+0x608
+Okuhiko「Shalom!!」%K%P
+
+0x614
+Makoto「!!!」%K%P
+
+0x648
+Okuhiko's sudden appearance causes me to almost%Ninstinctively drop the cup in my hand.%K%P
+
+0x654
+Okuhiko「Pardon me for interrupting.」%K%P
+
+0x6B4
+Yuka「Huh? What is it, Okuhiko-kun?」%K%P
+
+0x6C8
+Okuhiko「Well, it's just that I think everyone is starved right about%Nnow.」%K%P
+
+0x6D4
+Yuka「Oh, I see... Now that you mention it, we haven't eaten%Nanything today...」%K%P
+
+0x6E0
+Okuhiko「Right? That's why, right now, everyone is gathering to%Neat.」%K%P
+
+0x6F4
+Yuka「Thanks for telling us.」%K%P
+
+0x700
+Okuhiko「Look, see that parasol over there by that stand?」%K%P
+
+0x70C
+With the agility of an opera singer, Okuhiko points in that%Ndirection.%K%P
+
+0x718
+Okuhiko「We have a table over there reserved for us.」%K%P
+
+0x724
+Yuka「That's awfully considerate of you...」%K%P
+
+0x738
+Okuhiko「Oh come on, it's no big deal.」%K%P
+
+0x744
+Okuhiko「Well then, I have to go find Haruka-chan, so if you'll%Nexcuse me...」%K%P
+
+0x750
+Okuhiko proceeds to flip his long hair...%K%P
+
+0x764
+Okuhiko「Ciao♪」%K%P
+
+0x778
+... And leaves us behind with those words.%K%P
+
+0x794
+Yuka「Well then, shall we go?」%K%P
+
+0x7A0
+Yuka slaps my knees and stands up.%K%P
+
+0x7AC
+Makoto「Huh!? ... But we're not done talk-」%K%P
+
+0x7C0
+Without listening to me, Yuka briskly walks over towards%Nthe parasol.%K%P
+
+0x7CC
+(A hopeless dream.) I'm a little worried for some reason.%K%P
+
+0x7D8
+"But I do know-" ―"But I do know"... What was Yuka%Ngoing to say after that?%K%P
+
+0x7E4
+My heart is filled with a heavy sense of dread.%K%P
+
+0x888
+After we had lunch, everyone bathed in the afternoon%Nsunlight while playing in the water like children.%K%N
+
+0x894
+Yuka, Izumi-san, Saki, and Okuhiko resembled kids as%Nthey merrily played in the water.%K%N
+
+0x8A0
+Even Haruka looked like she was having fun.%K%P
+
+0x8B4
+Before I knew it, my mind had become free from the%Nshadows of Yuka's remaining words.%K%N
+
+0x8C0
+The strongly shining sunlight has wiped out even the%Nsmallest traces of clouds in my mind...%K%P
+
+0x8D4
+After we had lunch, everyone bathed in the afternoon%Nsunlight while playing in the water like children.%K%N
+
+0x8E0
+Yuka, Izumi-san, Saki, and Okuhiko resembled kids as%Nthey merrily played in the water.%K%N
+
+0x8EC
+Even Haruka looked like she was having fun. Surprisingly,%Nthe sprays of water seemed to suit her very well...%K%P
+
+0x980
+The sun is going down, causing the temperature to%Ngradually decrease.%K%P
+
+0x994
+Saki「Shouldn't we be leaving now?」%K%P
+
+0x9A0
+As soon as Saki says this, we all simultaneously begin%Npreparing to go back.%K%P
+
+0x9C4
+However, there's still one other person roaming,%Nstaggering by the poolside. Said person staggers%Ntowards us and comes up to us...%K%P
+
+0x9F4
+Yuka「Huh? Ah we goin' back arready, guysh?」%K%P
+
+0xA00
+... then speaks.%K%P
+
+0xA0C
+Makoto「Yeah, it's already getting cold.」%K%P
+
+0xA18
+I answer as calmly as possible.%K%P
+
+0xA2C
+Yuka「Culd? Yer culd?」%K%P
+
+0xA38
+Yuka「Buh eyem naht culd aht all.」%K%P
+
+0xA44
+She's speaking in a comedic drunk-like tone.%K%P
+
+0xA50
+Well, I guess I should have seen this coming...%K%P
+
+0xA5C
+After we finished lunch, Yuka spent her time at the stand,%Nbuying more draft beer.%K%P
+
+0xA68
+As far as I know, she downed at least 10 cups worth of%Nbeer.%K%P
+
+0xA74
+And if she had 10 cups over the course of about 2%Nhours, then that means she's had roughly one glass%Nevery 12 minutes.%K%P
+
+0xA80
+Anyone could mistake her at this point for a drunkard.%K%P
+
+0xA8C
+Makoto「... Well, we also have to check on Kurumi.」%K%P
+
+0xAA0
+Yuka「Oh, Kurumi... yuu meen Kurumi-tan? Yesh yesh yesh yesh...」%K%P
+
+0xAAC
+Makoto「If we don't hurry back, she'll be lonely.」%K%P
+
+0xAC0
+Yuka「H～～～mm............ Dash true.」%K%P
+
+0xACC
+Somehow, it seems I've managed to get her to agree with%Nme.%K%N
+
+0xAD8
+Just as I think that...%K%P
+
+0xAEC
+Yuka「Ah!!」%K%P
+
+0xAF8
+Makoto「Wh-What is it? Don't shout so suddenly.」%K%P
+
+0xB0C
+Yuka「Now dat yuu mention Kurumi-tan...」%K%P
+
+0xB18
+Yuka「Ishen't Kurumi-tan waitin' for ush at Lunabeach?」%K%P
+
+0xB24
+Makoto「That's what I just told you!」%K%P
+
+0xB30
+Yuka「Sho if we don't get back shoon, Kurumi-tan wil bee lonely?」%K%P
+
+0xB3C
+Makoto「...」%K%P
+
+0xB48
+She completely ignored me...%K%P
+
+0xB5C
+Yuka「Well♪ Eberiwan, lesh go back♪」%K%P
+
+0xB70
+Yuka calls out towards a group of boogie boards on top%Nof a bench.%K%P
+
+0xB7C
+Everyone has already left the shower rooms and are%Nnow headed to the changing rooms.%K%P
+
+0xB88
+Makoto「Haah... oh brother...」%K%P
+
+0xB94
+I firmly grab Yuka by the hand and escort her to the%Nshower room. Yuka walks behind me with tottering steps,%Nenthusiastically singing an English song.%K%P
+
+0xBA0
+At least, I think she was trying to sing in English; her%Nwords are so incomprehensible that it's kind of hard to%Ntell.%K%P
+
+0xBAC
+I shamefully watch as strangers coldly glare at us walk%Nby.%K%P
+

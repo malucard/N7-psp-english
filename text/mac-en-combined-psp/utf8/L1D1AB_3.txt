@@ -1,0 +1,576 @@
+text area offset and size:
+0x10E8
+0x2C07
+0x70
+Announcer「Today is Monday, April 1st. This is the afternoon news.」%K%P
+
+0x7C
+We hear a polite voice from the announcer on TV, which%Nis still on.%K%P
+
+0x88
+At that moment, a bird chirps...%K%P
+
+0x94
+The rather sharp and shrill noise fills my ears.%K%P
+
+0xA0
+I try to find out where it is coming from.%K%P
+
+0xAC
+I find it in the upper-right corner of the giant glass%Nwindow overlooking the ocean.%K%P
+
+0xC4
+Makoto「A cuckoo clock... This the first time I've seen one...」%K%P
+
+0xD0
+My voice is full of awe.%K%P
+
+0xF4
+Yuka「Huh? You just noticed it?」%K%P
+
+0x100
+Makoto「Yeah, just now.」%K%P
+
+0x114
+At 10, I was changing my clothes in my room, and at 11, I%Nwas caught up with that repulsive meal, so I missed the%Nsound of the clock both times.%K%P
+
+0x120
+Yuka「I was also surprised when I first noticed it yesterday.」%K%P
+
+0x12C
+I look around to find that nobody else is surprised by%Nthis.%K%P
+
+0x138
+... Oh, right. Yuka, Haruka, and Okuhiko arrived before me%Nyesterday, so they've already heard it.%K%P
+
+0x14C
+Yuka「It's kind of nostalgic...」%K%P
+
+0x158
+Yuka「If my memory serves me right, the last time I saw one of%Nthose things was in middle school...」%K%P
+
+0x164
+Makoto「Huh...」%K%P
+
+0x170
+Yuka「It was a little bigger than this one, and had two doors on%Nit, not one.」%K%P
+
+0x17C
+Yuka「Of course, there were two birds... I'm pretty sure I thought%Nthey were a male and female pair of doves...」%K%P
+
+0x188
+Makoto「...」%K%P
+
+0x194
+Yuka「...」%K%P
+
+0x1A0
+Makoto「...?」%K%P
+
+0x1B4
+Yuka「...?」%K%P
+
+0x1C0
+Makoto「Huh? Aren't you going to continue?」%K%P
+
+0x1CC
+Yuka「No... that's all there is to it.」%K%P
+
+0x1D8
+Makoto「'That's all there is'...?」%K%P
+
+0x1E4
+Something doesn't feel right.%K%P
+
+0x1F0
+I feel that at the tip of that conversation, there's an%Neven greater story behind it that's now been washed%Naway.%K%P
+
+0x1FC
+It's obvious just by looking at her.%K%P
+
+0x208
+Just now, there was a faint glitter in her eyes.%K%P
+
+0x224
+Okuhiko「Hey, shouldn't we go now?」%K%P
+
+0x230
+As he rises, Okuhiko flicks his long bangs away from his%Nface.%K%P
+
+0x23C
+Yuka「Yeah, you're right. It'll be a big waste of time if we stayed%Nindoors all day.」%K%P
+
+0x248
+Makoto「Where are we going?」%K%P
+
+0x254
+Okuhiko「Isn't it obvious?」%K%P
+
+0x260
+Makoto「???」%K%P
+
+0x274
+Yuka「To play T-E-N-N-I-S.」%K%P
+
+0x280
+Makoto「Te-Tennis!?」%K%P
+
+0x28C
+Yuka「Well then, everyone, please get ready!」%K%P
+
+0x298
+Makoto「...」%K%P
+
+0x2A4
+Well, that was unexpected.%K%P
+
+0x2B0
+It's not that tennis itself is a problem.%K%P
+
+0x2BC
+It's that Yuka and Okuhiko just said "let's play tennis"%Nlike it was nothing, and there seems to be no issue with it.%K%P
+
+0x2C8
+Just what is...%K%P
+
+0x348
+Makoto「Just what is... this 'Seminar Camp' anyway?」%K%P
+
+0x354
+I ask Yuka this on our way to the tennis court, since%Nshe's our leader.%K%P
+
+0x360
+Yuka「What do you mean?」%K%P
+
+0x36C
+Makoto「I mean... So aside from the traditional meaning of seminar,%Nthere's also other things implemented in it, like 'clubs'%Nand 'social activities'?」%K%P
+
+0x378
+Yuka nods in affirmation.%K%P
+
+0x384
+Makoto「Even so, is it all right for us to suddenly start playing%Ntennis from the get go?」%K%P
+
+0x398
+Yuka「It's all right. There's absolutely no problems with it.」%K%P
+
+0x3A4
+Makoto「... Hey, Yuka. May I ask you what's really been bugging%Nme?」%K%P
+
+0x3B0
+Yuka「Go ahead.」%K%P
+
+0x3BC
+Makoto「In the first place, just what is a 'Seminar Camp'?」%K%P
+
+0x3D0
+Yuka「'Just what is it', you say... Obviously, it's 'camping' in a%N'seminar'.」%K
+
+0x10A8
+Don't ask any more.
+
+0x10B4
+"What do you mean, 'seminar'?"
+
+0x410
+Makoto「That's enough for me.」%K%P
+
+0x41C
+Yuka「Really?」%K%P
+
+0x428
+I can tell Yuka's a bit dubious.%K%P
+
+0x43C
+Makoto「'Camping' in a 'seminar'... Yeah, it makes sense.」%K%P
+
+0x448
+Makoto「But what does it mean by 'seminar', exactly?」%K%P
+
+0x45C
+Yuka「What!? Are you kidding, Makoto?」%K%P
+
+0x468
+Makoto「No, I'm being totally serious. I rarely went to my classes,%Nso I'm completely clueless about things like this.」%K%P
+
+0x47C
+Yuka「Hmm... I'm surprised, I didn't think that there were students%Nin our college by this time who didn't know about the%Nmeaning of the 'Seminar', but...」%K%P
+
+0x490
+Yuka「Well, it can't be helped. I'll tell you about it.」%K%P
+
+0x49C
+Makoto「I'd appreciate it.」%K%P
+
+0x4B0
+Yuka「Okay. So you know how that originally, very liberal%Ncolleges offered a 'Seminar' program in which senior%Nyear students could join and research a topic of their%Nchoice, right?」%K%P
+
+0x4BC
+Makoto「Yeah.」%K%P
+
+0x4C8
+Yuka「So basically, if you think of the 'Seminar' as a 'lab', I don't%Nthink they'd mind.」%K%P
+
+0x4D4
+Makoto「Interesting.」%K%P
+
+0x4E0
+Yuka「Right? And at the end of the year, they had to publish%Nthe research results of the 'Seminar', in a so-called%N'bachelor's thesis'.」%K%P
+
+0x4EC
+Yuka「If that 'bachelor's thesis' was approved by various%Ndistinguished teachers, that student would be all clear%Nto graduate...」%K%P
+
+0x4F8
+Yuka「However, it doesn't seem like many colleges or%Nundergraduate programs have a place for such things%Nanymore, but our college is still keeping that system%Nalive...」%K%P
+
+0x504
+Makoto「Wait a minute. But we're only just about to become%Njuniors, right?」%K%P
+
+0x510
+Yuka「Right. Technically, we're actually members of a%N'Pre-Seminar'.」%K%P
+
+0x51C
+Makoto「Pre-Seminar?」%K%P
+
+0x528
+Yuka「Think of it as a sort of prep course for the real seminar%Nthat starts next year. A sort of prerequisite, if you will.」%K%P
+
+0x534
+Makoto「Hmm...」%K%P
+
+0x540
+Yuka「Get it now?」%K%P
+
+0x54C
+Makoto「More or less.」%K%P
+
+0x558
+Yuka「Good. You'll be fine, then. Honestly, I don't fully%Nunderstand it either.」%K%P
+
+0x564
+Makoto「... Ah, but... There's one thing I still don't get.」%K%P
+
+0x570
+Yuka「What's that?」%K%P
+
+0x57C
+Makoto「The goal of this Camp...」%K%P
+
+0x588
+I take a look over my shoulder. Okuhiko is behind me and%NYuka, walking right next to Haruka.%K%P
+
+0x594
+Okuhiko is trying to start a conversation with Haruka,%Nwhich doesn't seem to be working.%K%P
+
+0x5A0
+When I quickly turn my head back, it's as if I can hear him%Nquietly grumble to himself.%K%P
+
+0x5AC
+Makoto「Okuhiko thinks 'From the start, there was no goal. If there%Ntruly is one, then it's only to deepen the bonds of%Nfriendship between the group members.' Is he right?」%K%P
+
+0x5B8
+Yuka「Close! That's close, but it's a little different from that.」%K%P
+
+0x5C4
+Makoto「How so?」%K%P
+
+0x5D8
+Yuka「I still... can't tell you that.」%K%P
+
+0x5E4
+Makoto「Huh?」%K%P
+
+0x5F8
+Yuka「Well, I was ordered not to.」%K%P
+
+0x604
+Makoto「Ordered?」%K%P
+
+0x618
+Yuka「They're direct, official orders from the professor in%Ncharge. 'Until the last day of the Camp, don't tell anyone%Nthe purpose behind it.'」%K%P
+
+0x624
+Makoto「Why...?」%K%P
+
+0x638
+Yuka「Geez, stop being so persistent!」%K%P
+
+0x644
+Makoto「But-」%K%P
+
+0x658
+Yuka「The First Law of Professor Yuka's Love Formula:%N―'Dislike persistent men.' ―Please remember that♪」%K%P
+
+0x66C
+Yuka gives me a kind smile.%K%P
+
+0x694
+That smile makes my heart pound loudly.%K%P
+
+0x6A0
+I can feel my ears burn hot.%K%P
+
+0x6AC
+When I realize what that means, I try not to act anxious.%K%P
+
+0x6B8
+"Dislike persistent men." ―Dislike... who?%K%P
+
+0x6C4
+Flustered, I feel the wind playfully brush against my%Ncheeks.%K%P
+
+0x724
+It takes us five minutes to walk from the lodge to the%Ntennis court.%K%P
+
+0x738
+Yuka「All right then, let's play!」%K%P
+
+0x744
+Yuka has rented four rackets from the court's manager,%Nand forced them into our hands.%K%P
+
+0x750
+It's almost blinding how much joy her eyes are radiating.%K%P
+
+0x75C
+Just then...%K%P
+
+0x778
+Haruka「I'll... pass...」%K%P
+
+0x784
+... She places the racket she had just received gently%Nagainst the bench.%K%P
+
+0x798
+Yuka「Whaaat?」%K%P
+
+0x7B4
+Okuhiko「Haruka-chan, you're not playing!?」%K%P
+
+0x7C0
+He is much more disturbed by this than Yuka.%K%P
+
+0x7CC
+Now that I think about it, Okuhiko seemed to be extremely%Neager to play tennis.%K%P
+
+0x7D8
+I bet that because he was brought up as practically%Nnobility, he probably had private lessons on how to play%Ntennis since he was a kid.%K%P
+
+0x7E4
+Haruka「Yes.」%K%P
+
+0x7F8
+Okuhiko「But won't you get bored just watching us?」%K%P
+
+0x804
+Haruka「I'm not going to watch.」%K%P
+
+0x818
+Okuhiko「Huh?」%K%P
+
+0x824
+Haruka「Because... I want to see the ocean...」%K%P
+
+0x838
+Okuhiko「The ocean? ... You want to go to the ocean?」%K%P
+
+0x844
+Haruka gives a small nod.%K%P
+
+0x850
+Okuhiko「The ocean, huh...」%K%P
+
+0x864
+Okuhiko「Then I'm going too.」%K%P
+
+0x880
+Yuka「Huh, you too, Okuhiko-kun?」%K%P
+
+0x894
+Okuhiko「Come on, think about it. We're finally by the ocean, aren't%Nwe? It's only natural that we ought to see it first!」%K%P
+
+0x8A0
+Okuhiko「And besides, we can play tennis whenever we like, right?」%K%P
+
+0x8B4
+Yuka「I see... Well, that's too bad, but I guess it can't be helped.」%K%P
+
+0x8C8
+There's a victorious glint in Okuhiko's eyes. His mouth%Nalso warps into another smug smile.%K%P
+
+0x8E4
+Yuka「Then we'll be right here.」%K%P
+
+0x8F0
+―What? "We"? W... We?%K%P
+
+0x8FC
+So by "we", Yuka means me and her?%K
+
+0x10C0
+I also want to go to the ocean.
+
+0x10CC
+I'll play tennis with Yuka.
+
+0x944
+Makoto「Hey, wait a minute, Yuka.」%K%P
+
+0x950
+Yuka「?」%K%P
+
+0x95C
+Makoto「I never said I was going to play tennis.」%K%P
+
+0x968
+Yuka「??」%K%P
+
+0x974
+Makoto「I'm also... going to the ocean.」%K%P
+
+0x988
+Yuka「Huuuh!?」%K%P
+
+0x9A4
+Okuhiko faintly clicks his tongue as if to say "Dammit". It%Nwas a very quiet sound, but I definitely heard it.%K%P
+
+0x9B0
+If he's trying to be discreet, he's not doing a very good%Njob of it.%K%P
+
+0x9C4
+Yuka「Geez... and I was looking forward to playing too...」%K%P
+
+0x9D0
+... Well, I figured she'd say that.%K%P
+
+0x9DC
+It's impossible to play tennis solo.%K%P
+
+0x9E8
+Yuka「Haah...」%K%P
+
+0x9F4
+Yuka looks so depressed that it's making me feel guilty.%K%P
+
+0xA00
+But that's just the way things work. In groups, the%Nmajority rules.%K%P
+
+0xA14
+As Yuka begins to walk away, I call her over.%K%P
+
+0xA20
+Makoto「Hold on. What are you going to do with these?」%K%P
+
+0xA2C
+I point towards the rackets. I notice that Haruka left hers%Nthe way it was, leaning against the bench.%K%P
+
+0xA40
+Yuka「Huh? Ah, yeah, yeah, I know. I'll go collect and return them.」%K%P
+
+0xA6C
+Yuka rudely snatches mine out of my hands. She seems%Na bit mad...%K%P
+
+0xA78
+She takes the racket from the bench and swings it wildly.%NIt spins rapidly. Yep... she's pissed.%K%P
+
+0xA84
+Just then, I notice something, but by the time I think "Look%Nout...!" it's already too late.%K%P
+
+0xAAC
+A thick sound rings out.%K%P
+
+0xAB8
+Okuhiko「☆○◎×...!」%K%P
+
+0xACC
+Yuka「Ah...」%K%P
+
+0xAE0
+The racket smashes into the back of Okuhiko's head.%K%P
+
+0xB08
+Okuhiko collapses to the ground in a daze. Panicking,%NYuka crouches down and shakes his body. He's%Nknocked out.%K%P
+
+0xB1C
+Yuka「W-What should I do...」%K%P
+
+0xB28
+Makoto「Divine punishment, huh?」%K%P
+
+0xB3C
+Yuka「Why must I receive that...!?」%K%P
+
+0xB48
+Makoto「Not you, Yuka―Huh? Where's Haruka?」%K%P
+
+0xB5C
+I've lost sight of her. I look around... Found her. Haruka's%Nalready far away from the tennis court.%K%P
+
+0xB68
+Makoto「Yuka, I'll leave this to you.」%K%P
+
+0xB7C
+Yuka「Wha... Don't just go acting rashly!」%K%P
+
+0xB88
+Makoto「I'm going to go STOP her from acting rashly!」%K%P
+
+0xBC4
+I shout this over my shoulder before chasing after%NHaruka. She disappears as she goes around the%Nstreet's corner.%K%P
+
+0xC18
+... Well, whatever.%K%P
+
+0xC24
+It's not like I hate tennis. Besides, I could use a little%Nexercise.%K%P
+
+0xC30
+The chilly, fresh morning air almost makes my bones ache.%K%P
+
+0xC4C
+Okuhiko「Well, see you later.」%K%P
+
+0xC60
+Okuhiko starts walking away.%K%P
+
+0xC6C
+Haruka already left long before him.%K%P
+
+0xC78
+Though she had left with a rather stony expression, I%Nbet Haruka was thrilled to leave.%K%P
+
+0xC8C
+Yuka「Get back before evening, okay?」%K%P
+
+0xC98
+Yuka shouts this to Okuhiko.%K%P
+
+0xCA4
+Without turning around, he casually waves in%Nacknowledgement.%K%P
+
+0xCB0
+He's trying way too hard to act cool, but that's Okuhiko%Nfor you.%K%P
+
+0xCC4
+Yuka「Well then, I'm going to go change my clothes.」%K%P
+
+0xCD0
+Makoto「Change... into what?」%K%P
+
+0xCE4
+Yuka「Tennis wear!」%K%P
+
+0xCF8
+Yuka「After all, I can't exactly play tennis that well in these%Nclothes, can I?」%K%P
+
+0xD04
+To emphasize her point, Yuka pinches the collar of her%Nclothes.%K%P
+
+0xD10
+Makoto「I guess so...」%K%P
+
+0xD24
+Yuka「Mind waiting a minute, Makoto? I'll be back soon!」%K%P
+
+0xD38
+Yuka rushes over to the changing room next to the%Ncourt management office...%K%P
+

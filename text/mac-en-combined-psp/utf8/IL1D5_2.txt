@@ -1,0 +1,357 @@
+text area offset and size:
+0x7C0
+0x17E0
+0x74
+Before long, we arrive at Viewpoint Park.%K%P
+
+0x80
+Izumi-san is standing by the safety rail, gazing out at%Nthe ocean.%K%P
+
+0x8C
+The light sea breeze blows by Izumi-san, swaying%Nthrough her hair.%K%P
+
+0x98
+All I can hear around me is the calming roar of the waves,%Nwhich occasionally wash up against the bottom of the%Ncape.%K%P
+
+0xA4
+Izumi-san hasn't said a single word since we arrived at%Nthe park...%K%P
+
+0xBC
+(I don't get it... What is Izumi-san hoping to do by taking%Nme all the way to a place like this?)%K%P
+
+0xC8
+(I wonder if it would it be best after all if I just asked her%Ndirectly...?)%K%P
+
+0xD4
+I slowly approach Izumi-san.%K%P
+
+0xF8
+Izumi「Makoto-kun...」%K%P
+
+0x104
+Makoto「Y-Yes...!?」%K%P
+
+0x110
+Izumi-san opens her mouth just as I stand right behind%Nher.%K%P
+
+0x11C
+Izumi「Even though we went through all this trouble to run here,%Nthe wind has just gone back from chilly to cold again,%Nhasn't it?」%K%P
+
+0x128
+Makoto「Y... You're right.」%K%P
+
+0x134
+It's true. All that sweat that I let off as I ran has become%Ncompletely chilled.%K%P
+
+0x140
+Izumi「But... as I thought...」%K%P
+
+0x14C
+(As I thought... what?)%K%P
+
+0x158
+Izumi「As I thought... today is...」%K%P
+
+0x164
+(Today is what?)%K%P
+
+0x170
+Izumi「It's a little cold, but as I thought, today...」%K%P
+
+0x17C
+Makoto「...?」%K%P
+
+0x190
+Izumi「Today is the day the stars are at their most beautiful.」%K%P
+
+0x19C
+She lets out a sigh of awe.%K%P
+
+0x1B8
+Makoto「Huh? The stars?」%K%P
+
+0x1C4
+Izumi「It's a good thing we came here, right?」%K%P
+
+0x1D0
+Makoto「... Ah!」%K%P
+
+0x214
+A canopy of stars hangs above me.%K%P
+
+0x220
+The stars sparkle like shining gems on jet black velvet.%K%P
+
+0x22C
+No... not just gems... diamonds of the highest karat%Npossible... I've never seen anything so radiant in my%Nentire life.%K%P
+
+0x238
+This starry sky is truly captivating.%K%P
+
+0x244
+It feels like it's pulling my soul up towards the heavens...%Nlike it's drawing me up to the sky... That's how amazing it is.%K%P
+
+0x250
+Izumi「Thank you... for today.」%K%P
+
+0x25C
+Makoto「...?」%K%P
+
+0x268
+Izumi「For Kurumi.」%K%P
+
+0x274
+Makoto「R-Right...」%K%P
+
+0x280
+Izumi-san slowly turns around.%K%P
+
+0x294
+Izumi「If you and the others hadn't been here... I might not have%Nfound her by now.」%K%P
+
+0x2A0
+Makoto「No way... you're overexaggerating.」%K%P
+
+0x2AC
+I feel a bit embarrassed to receive such praise.%K%P
+
+0x2B8
+Makoto「Anyway, even if we didn't look, don't you think she still%Nwould have come back safe?」%K%P
+
+0x2C4
+Makoto「Kurumi is surprisingly level-headed, after all...」%K%P
+
+0x2D0
+Izumi「...」%K%P
+
+0x2DC
+Izumi-san hangs her head downwards.%K%P
+
+0x2E8
+What's wrong?%K Did I say something I shouldn't have?%K%P
+
+0x2F4
+Izumi「... Um, Makoto-kun...?」%K%P
+
+0x300
+Makoto「Yes...?」%K%P
+
+0x30C
+Izumi「Kurumi has quite the vagrant habits...」%K%P
+
+0x318
+Izumi「Occasionally, she'll suddenly go out, only to come back%Na little while later.」%K%P
+
+0x324
+Izumi「That's why... I was worried this time...」%K%P
+
+0x330
+Makoto「But she'd still come back on her own, right? I mean, she's%Ndone so up until now, hasn't she?」%K%P
+
+0x33C
+Izumi「Up until now... yes. But... But you know?」%K%P
+
+0x348
+Makoto「?」%K%P
+
+0x354
+Izumi「... No... it's nothing... Don't worry about it.」%K%P
+
+0x360
+Makoto「...」%K%P
+
+0x36C
+I can't bring myself to ask her what she means.%K%P
+
+0x378
+I feel that if I did, I'd be denying her smile.%K%P
+
+0x394
+Izumi「... Nevertheless, a lot of things have happened in the%Nlast four days.」%K%P
+
+0x3A0
+Makoto「You're right...」%K%P
+
+0x3AC
+Izumi-san and I then begin to talk as we recall everything%Nthat's happened so far.%K%P
+
+0x3D4
+―Kurumi delivering the pizza to our place by mistake.%K%N
+
+0x3E0
+―When I came to Lunabeach with the others.%K%N
+
+0x3EC
+―Saki coming in to yell and complain.%K%P
+
+0x3F8
+―When we all went to the pool.%K%N
+
+0x404
+―Going fishing with Haruka, and Saki's anger.%K%N
+
+0x410
+―Learning that Haruka was a clone.%K%P
+
+0x41C
+―The Test of Courage.%K%N
+
+0x428
+―The barbecue.%K%N
+
+0x434
+―And... about the others.%K%P
+
+0x440
+One by one, Izumi-san rattles off everyone's good and%Nbad traits.%K%P
+
+0x44C
+(She's been paying attention...)%K%P
+
+0x458
+I'm impressed.%K%P
+
+0x464
+I'm a biased person, so I wouldn't have been able to%Ndraw such objective conclusions.%K%P
+
+0x470
+Izumi「And then... there's you, Makoto-kun.」%K%P
+
+0x47C
+Finally, my turn has arrived.%K%P
+
+0x488
+Izumi「You have an excellent ability to take action... You%Nshowed that when you were searching for Kurumi.」%K%P
+
+0x494
+Makoto「...」%K%P
+
+0x4A0
+Izumi「But even though you're not stupid, you're bad at%Nunderstanding people's feelings...」%K%P
+
+0x4AC
+Makoto「...」%K%P
+
+0x4B8
+Izumi「Occasionally, your brief, trifling comments end up hurting%Nother people...」%K%P
+
+0x4C4
+Makoto「R-Really...?」%K%P
+
+0x4D0
+Izumi「I think that's probably your greatest flaw.」%K%P
+
+0x4DC
+I don't really understand or accept that.%K%N
+
+0x4E8
+I don't understand other's emotions?%K%N
+
+0x4F4
+Really? I was trying to be understanding enough...%K%P
+
+0x500
+Makoto「You sound like an old person.」%K%P
+
+0x50C
+Izumi「It's not 'like'. I really am old.」%K%P
+
+0x518
+Makoto「Well, you're already 22 years old...」%K%P
+
+0x524
+Izumi「Ah! See, that's what I mean!」%K%P
+
+0x530
+Makoto「... Oh.」%K%P
+
+0x53C
+Izumi「It's comments like that that hurt everyone.」%K%P
+
+0x548
+Makoto「...」%K%P
+
+0x554
+Izumi「Words can be the source of catastrophes... Well,%NMakoto-kun?」%K%P
+
+0x560
+Makoto「... I'll keep it in mind.」%K%P
+
+0x56C
+I had no idea... I had no idea that I was hurting others...%K%P
+
+0x578
+Having it being told to me so bluntly really is a shock.%K%P
+
+0x594
+Izumi「But...」%K%P
+
+0x5A0
+Makoto「...?」%K%P
+
+0x5AC
+Izumi-san looks into my eyes.%K%N
+
+0x5B8
+I am unable to look away.%K%P
+
+0x5C4
+Izumi「But... it seems that in spite of that troublesome%Npersonality of yours...」%K%P
+
+0x5D0
+Izumi「I've fallen in love with you...」%K%P
+
+0x5F8
+My heart skips a beat.%K%P
+
+0x604
+Izumi-san's words go from my ears to my brain...%K%N
+
+0x610
+... And then, it feels like they're spreading all around my%Nbody via my nerves.%K%P
+
+0x61C
+Gradually, my blood starts to grow hotter and hotter.%K%P
+
+0x628
+Izumi-san... loves me!?%K%N
+
+0x634
+I didn't know...%K%N
+
+0x640
+I didn't notice it at all...%K%P
+
+0x64C
+Izumi-san said it earlier―"You're bad at%Nunderstanding people's feelings..."%K%N
+
+0x658
+Those words deeply pierce me in the heart like a dagger.%K%P
+
+0x68C
+Makoto「I'm sorry, Izumi-san... I...」%K%P
+
+0x698
+Makoto「I never... noticed your feelings...」%K%P
+
+0x6B4
+Izumi「You don't have to apologize.」%K%P
+
+0x6C0
+Izumi「I was the one who fell in love off on my own, after all...」%K%P
+
+0x6CC
+Izumi「... So please... For this short time, let me love you...」%K%P
+
+0x6D8
+Is this what it feels like... to be loved... by another%Nperson?%K%N
+
+0x6E4
+No, that might not be it.%K%P
+
+0x6F0
+I'm not being loved by a "person"...%K%N
+
+0x6FC
+―I might be being loved... by a "goddess".%K%P
+

@@ -1,0 +1,165 @@
+text area offset and size:
+0x648
+0xA8A
+0x88
+Yuka「Here!」%K%P
+
+0x94
+It's Yuka.%K%P
+
+0xA0
+She bends over and holds out her right hand.%K%P
+
+0xAC
+Makoto「Oh, thank you!」%K%P
+
+0xB8
+I take her hand, and step onto the poolside with one foot.%K%P
+
+0xC4
+I put my weight into that hand, and try to climb up, when...%K%P
+
+0x110
+... Yuka suddenly lets go.%K%P
+
+0x11C
+I fall back into the pool in an awkward angle.%K%P
+
+0x130
+Yuka「Kyahahahahahahaha♪」%K%P
+
+0x13C
+I raise my face out of the water to see Yuka holding her%Nsides and laughing her ass off while stomping one foot.%K%P
+
+0x148
+Makoto「H-Hamn yuu!」%K%P
+
+0x154
+My voice sounds weird due to the large amount of water%Nin my nose.%K%P
+
+0x160
+Yuka「That was a lie♪ A joke♪」%K%P
+
+0x16C
+Still cracking up, Yuka reaches out her hand again.%K
+
+0x608
+Take her hand.
+
+0x614
+Slap her hand away.
+
+0x1BC
+I decide to trust Yuka, and take her hand again.%K%P
+
+0x1C8
+I get up on one foot again, and just as I get ready to go%Nup...%K%P
+
+0x250
+... This time, I fall into the water face first.%K%P
+
+0x264
+Yuka「Nyahahahahaha♪」%K%P
+
+0x270
+Tears are rolling out of Yuka's eyes.%K%P
+
+0x27C
+Makoto「Yuu pitch, shtap toing dat!」%K%P
+
+0x288
+Because my ears are filled with water, I don't understand%Nwhat I'm saying.%K%P
+
+0x294
+Yuka「Sorry, sorry♪ I definitely won't do it again♪」%K%P
+
+0x2CC
+I slap Yuka's hand away, and get up onto the poolside%Nmyself.%K%P
+
+0x30C
+Yuka「Geez, I really was going to help you this time.」%K%P
+
+0x328
+I take a deep breath to prepare for my rebuttal... but%Nbefore that, I clear the water out of my ears, and shoot%Nthe water out of my nose, all of which flow into a drain at%Nmy feet.%K%P
+
+0x33C
+I take a deep breath to prepare for my rebuttal... but%Nbefore that, I shoot the water out of my nose, which%Nflows into a drain at my feet.%K%P
+
+0x350
+Yuka「Eww! That's nasty!」%K%P
+
+0x35C
+Makoto「Shut up, idiot!」%K%P
+
+0x370
+Yuka「Ah...!」%K%P
+
+0x37C
+Yuka「Are you... mad at me?」%K
+
+0x620
+I am.
+
+0x62C
+I'm not.
+
+0x3C4
+Makoto「A little.」%K%P
+
+0x3D8
+Yuka「Huuh!!? ... Then how can I gain your forgiveness?」%K%P
+
+0x3E4
+Makoto「Hmm... let's see... for now, I'll forgive you if you treat me to%Na drink.」%K%P
+
+0x3F8
+Yuka「A drink?」%K%P
+
+0x40C
+Yuka「... Okay, got it. I guess treating you is the least I can do!」%K%P
+
+0x418
+Wow! I didn't think she'd be that accepting.%K%P
+
+0x424
+If that's the case, maybe I should have asked for%Nsomething a bit more extravagant...%K%P
+
+0x438
+Makoto「No, it's not like I'm not angry, but...」%K%P
+
+0x44C
+Yuka giggles when she hears me.%K%P
+
+0x458
+She's laughing like she can read my mind.%K%P
+
+0x464
+Yuka「Well then, as an apology, I'll treat you to a drink!」%K%P
+
+0x470
+Makoto「Huh? Really?」%K%P
+
+0x47C
+Yuka smiles while giving me a deep nod.%K%P
+
+0x488
+Yuka「So, what do you want?」%K%P
+
+0x494
+Makoto「Beer!」%K%P
+
+0x4A0
+I promptly answer.%K%P
+
+0x4B4
+Yuka「Beer during the day? Are you nuts?」%K%P
+
+0x4C0
+Makoto「... Then anything's fine, but could you get me something%Ncarbonated, if possible?」%K%P
+
+0x4D4
+Yuka「Got it. Something carbonated, right?」%K%P
+
+0x4E8
+Yuka walks towards the stand...%K%P
+

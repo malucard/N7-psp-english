@@ -1,0 +1,1053 @@
+text area offset and size:
+0x19D8
+0x4B2F
+0x80
+After getting that over with, I leave the harbor.%K%P
+
+0x8C
+I quickly walk through the shopping district as I head%Ntowards Lunabeach.%K%P
+
+0x98
+And, on the way...%K%P
+
+0xA4
+A leaflet attached to a telephone pole catches my eye.%K%P
+
+0xB0
+The top half's been torn off, so I don't really know the%Ndetails.%K%P
+
+0xBC
+But on the bottom half is...%K%P
+
+0xC8
+"July 7th (Sunday)―(杜紀司) Festival".%K%P
+
+0xD4
+"Invite all of your family members, and please%Nparticipate."%K%P
+
+0xE0
+... That's what's written.%K%P
+
+0xEC
+((杜紀司) Festival ―The "Tokitsukasa" Festival, huh?)%K%P
+
+0xF8
+(...)%K%P
+
+0x114
+(―What!? ―To(杜)-ki(紀)-tsukasa(司)???)%K%P
+
+0x120
+All of the sudden!%K%P
+
+0x12C
+Yuka「Toryaa!」%K%P
+
+0x138
+I hear a shrill shout, and turn around.%K%P
+
+0x168
+It's Yuka...%K%P
+
+0x174
+Was she at the nearby gift shop? In her hands, she%Nclutches a toy sword.%K%P
+
+0x188
+Yuka「This is revenge for my father! Prepare yourself!%NYaaaaaah!」%K%P
+
+0x194
+Makoto「...」%K%P
+
+0x1A0
+Yuka「...」%K%P
+
+0x1AC
+Makoto「...」%K%P
+
+0x1C0
+Yuka「Hey, hey? This is the part where you say 'I've been killed!'」%K%P
+
+0x1CC
+Makoto「...」%K%P
+
+0x1D8
+Yuka「...」%K%P
+
+0x1E4
+Makoto「...」%K%P
+
+0x1F8
+Yuka「Yaaaaaaaaah!」%K%P
+
+0x204
+Makoto「...」%K%P
+
+0x210
+Yuka「Hyaaaaaaaa!!」%K%P
+
+0x21C
+Makoto「...」%K%P
+
+0x228
+Yuka「Stab, stab, stab, stab...」%K%P
+
+0x234
+Makoto「Sorry, but I'm in a rush.」%K%P
+
+0x248
+Yuka「Wait! I shall take away your immortality!」%K%P
+
+0x254
+Makoto「Who's immortal...?」%K%P
+
+0x270
+Makoto「... Immor... tal...?」%K%P
+
+0x284
+"I have no 'death' in me."%K%P
+
+0x290
+"That's why I won't 'die'."%K%P
+
+0x29C
+"I won't die because I can't die."%K%P
+
+0x2A8
+"... I'll live forever..."%K%P
+
+0x2C4
+Yuka「KEEEEEEEEEEEH!」%K%P
+
+0x2D0
+Yuka「Stab, stab, stab, stab...」%K%P
+
+0x2DC
+Yuka「Bleed, bleed, bleed, bleed...」%K%P
+
+0x2E8
+Yuka「ORYAAAAAAAAAAAAAA!」%K%P
+
+0x2F4
+―Thump.%K%P
+
+0x300
+Yuka raises the sword overhead, but I grab it with my%Nright hand.%K%P
+
+0x30C
+Makoto「Sorry... I really am in a rush right now.」%K%P
+
+0x318
+Makoto「I'll play along next time... okay?」%K%P
+
+0x348
+Yuka「Geez, what is it with that scary face?」%K%P
+
+0x354
+Yuka「You're a real killjoy, you know...?」%K%P
+
+0x360
+As she says this, she lowers the sword.%K%P
+
+0x374
+Yuka「So, where do you plan on going?」%K%P
+
+0x380
+Makoto「Well, umm...」%K%P
+
+0x394
+Yuka「Ah, are you going to see Izumi-san?」%K%P
+
+0x3A0
+Makoto「W-What!? There's no way that'd be it!」%K%P
+
+0x3AC
+―*Stab*!%K%P
+
+0x3C0
+Yuka「It's written all over your face.」%K%P
+
+0x3CC
+Yuka lightly stabs my cheek with the tip of her sword.%K%P
+
+0x3D8
+Makoto「Hey, that's dangerous, you know!」%K%P
+
+0x3E4
+Makoto「Didn't your teacher ever tell you not to point sharp%Nobjects at people?」%K%P
+
+0x3F0
+I lightly brush the sword aside.%K%P
+
+0x3FC
+Yuka「When you say 'teacher', are you thinking of Izumi-san?」%K%P
+
+0x408
+Makoto「No!」%K%P
+
+0x414
+Makoto「Why is everyone saying things like that...?」%K%P
+
+0x428
+Yuka「Because, the two of you... are suspicious.」%K%P
+
+0x434
+Yuka「It's like you two are keeping a secret from the rest of us...」%K%P
+
+0x440
+Makoto「Th-That's not-」%K%P
+
+0x454
+Yuka「Hit the nail right on the head, didn't I?」%K%P
+
+0x460
+(Damn, to think we'd be suspected by her of all people...)%K%P
+
+0x46C
+Makoto「Huh? Wait a minute...」%K%P
+
+0x478
+Makoto「Yuka, what are you doing here in the first place?」%K%P
+
+0x484
+Makoto「Weren't you playing tennis with the others?」%K%P
+
+0x498
+Yuka「See, you're dodging the question yet again.」%K%P
+
+0x4A4
+Makoto「...」%K%P
+
+0x4B8
+Yuka「Well, I don't really care.」%K%P
+
+0x4C4
+Yuka「I went shopping here with Kurumi-chan.」%K%P
+
+0x4D0
+Yuka「We've been playing tennis all morning, so we're a bit%Ntired...」%K%P
+
+0x4DC
+Makoto「You're with Kurumi?」%K%P
+
+0x4E8
+My eyes scan the area.%K%P
+
+0x4F4
+Yuka「She's probably in one of the shops around here.」%K%P
+
+0x500
+Yuka「Up until just now, we were having a make-believe sword%Nfight.」%K%P
+
+0x50C
+Makoto「Hmm...」%K%P
+
+0x518
+This... this is bad, isn't it?%K%P
+
+0x524
+Even if I get to Lunabeach now, Kurumi might come back%Nsoon.%K%P
+
+0x530
+Should I just give up on the plan for now...?%K%P
+
+0x544
+Yuka「Oh, that's right!」%K%P
+
+0x550
+Yuka「Makoto, wanna see something good?」%K%P
+
+0x55C
+Makoto「... Huh? ... Something good?」%K%P
+
+0x568
+Yuka「Earlier, I found this in that gift shop over there♪」%K%P
+
+0x574
+Yuka「Ta-da♪」%K%P
+
+0x588
+Yuka takes something out of her pocket...%K%N
+
+0x594
+... It's the fat cat key chain.%K%P
+
+0x5D4
+Yuka「Isn't it cute?」%K%P
+
+0x5E0
+Makoto「...」%K%P
+
+0x5F4
+Yuka「I'm not giving it to you.」%K%P
+
+0x600
+Makoto「I'm telling you, I don't need it! Last time...」%K%P
+
+0x614
+Yuka「... Last time?」%K%P
+
+0x620
+Makoto「...」%K%P
+
+0x62C
+Yuka「...?」%K%P
+
+0x638
+Makoto「Huh? What is it? Did I say something weird?」%K%P
+
+0x644
+Yuka「You said 'last time'.」%K%P
+
+0x650
+Makoto「Last time? Last time? You must have misheard me.」%K%P
+
+0x65C
+Makoto「What I said was 'Lash Lines'.」%K%P
+
+0x670
+Yuka「... H-Huh?」%K%P
+
+0x67C
+Makoto「You see, it's this cat... It has these huge eyelashes and%Nother lines like it, doesn't it?」%K%P
+
+0x688
+Yuka「Y-You think so?」%K%P
+
+0x694
+Makoto「That's right. At the very least, that's what it seems like to%Nme. That's why I nicknamed it 'Lash Lines'.」%K%P
+
+0x6A8
+Yuka「Hmm... eyelashes, huh...」%K%P
+
+0x6B4
+As she mutters this, Yuka stares at the key chain in her%Npalm.%K%P
+
+0x6C0
+Makoto「Therefore, from today onwards, this cat's name shall be%N'Lashy'!」%K%P
+
+0x6D4
+Yuka「Lashy!? That's a stupid name!」%K%P
+
+0x6E0
+Yuka「It needs a cuter name than that!」%K%P
+
+0x6EC
+Makoto「A cute name. Then how about...」%K%P
+
+0x6F8
+Makoto「'Nin Nin Whatever', or something like that?」%K%P
+
+0x70C
+Yuka「Huh? What's that supposed to be?」%K%P
+
+0x718
+Makoto「Huh? Was it weird?」%K%P
+
+0x724
+Yuka「It's completely weird!」%K%P
+
+0x730
+Yuka「In the first place, that name... isn't cute...」%K%P
+
+0x73C
+"Hey, you're the one who came up with it, aren't you!?"%K%P
+
+0x748
+I wish I could say that out loud, but I resist the urge...%K%P
+
+0x754
+Makoto「Then what name do you have in mind?」%K%P
+
+0x768
+Yuka「Heh heh♪ This cat's name is...」%K%P
+
+0x774
+Yuka「'Schr▼dy'♪」%K%P
+
+0x780
+Makoto「Schr▼dy?」%K%P
+
+0x78C
+Yuka「Yeah. Kurumi-chan picked that out.」%K%P
+
+0x798
+Yuka「It's the name of the cat in the manga 'Vain Island'.」%K%P
+
+0x7A4
+Makoto「Vain... Island...」%K%P
+
+0x7B8
+Yuka「Makoto, have you ever read it?」%K%P
+
+0x7C4
+Makoto「No... but I've heard of it...」%K%P
+
+0x7D8
+Yuka「I've not read it either, so I don't know that much, but%Napparently, that cat and this key chain look very similar.」%K%P
+
+0x7E4
+Makoto「It couldn't be... Schr▼dinger's cat?」%K%P
+
+0x7F8
+Yuka「Huh?」%K%P
+
+0x804
+Makoto「Does that manga feature 'Schr▼dinger's cat'?」%K%P
+
+0x810
+Makoto「After all, it has a cat in it named 'Schr▼dy'...」%K%P
+
+0x81C
+Yuka「Huh? How did you know that? I thought you just said you%Nhaven't read it...」%K%P
+
+0x828
+Makoto「As I thought...」%K%P
+
+0x834
+Yuka「According to Kurumi-chan, the theme of that manga is%N'Schr▼dinger's cat'.」%K%P
+
+0x840
+Yuka「It sounds interesting, so I'm thinking of giving it a read%Nthe next chance I get.」%K%P
+
+0x84C
+Makoto「'Interesting'... Then you know what it is!? What's%N'Schr▼dinger's cat'!?」%K%P
+
+0x860
+Yuka「Huh? Makoto, you don't know what it is...?」%K%P
+
+0x86C
+Makoto「N-No, I don't...」%K%P
+
+0x880
+Yuka「I don't get you～」%K%P
+
+0x88C
+Yuka「Even though you know what 'Vain Island' is, you don't%Nknow what 'Schr▼dinger's cat' is?」%K%P
+
+0x898
+Makoto「That doesn't matter, just hurry up and tell me!」%K%P
+
+0x8AC
+Yuka「Huh? Tell you what?」%K%P
+
+0x8B8
+Makoto「About 'Schr▼dinger's cat', of course!!」%K%P
+
+0x8CC
+Yuka「Geez! There's no need to shout, is there!?」%K%P
+
+0x8D8
+Makoto「I'm shouting because you're being so thickheaded!」%K%P
+
+0x8EC
+Yuka「Ah... Aah... I don't like that attitude of yours.」%K%P
+
+0x8F8
+Yuka「Is that the attitude you take when you ask someone a%Nfavor?」%K%P
+
+0x904
+Makoto「...」%K%P
+
+0x918
+Yuka「In that case, you should just go back to where you%Ncame from!」%K%P
+
+0x924
+Makoto「All right, I'm sorry. Forgive me.」%K%P
+
+0x930
+Makoto「I apologized, so please tell me, Kawashima-san.」%K%P
+
+0x944
+Yuka「TORYAAAAAAAAA!」%K%P
+
+0x950
+Yuka「Stab, stab, stab, stab...」%K%P
+
+0x95C
+Yuka「YAAAAAAAAAAAAAAAH!」%K%P
+
+0x968
+For some reason, Yuka suddenly stabs me with the toy%Nsword.%K%P
+
+0x974
+Makoto「Owwwwwww!」%K%P
+
+0x980
+Makoto「I've been killed!」%K%P
+
+0x98C
+Makoto「Save meeeeeeee!」%K%P
+
+0x998
+I play around, groaning in fake agony.%K%P
+
+0x9A4
+Makoto「Well? Was that satisfactory?」%K%P
+
+0x9B8
+Yuka「Hmm... well, it's good enough.」%K%P
+
+0x9C4
+Yuka says this, swings the sword once, and sheathes it%Nin a scabbard on her back.%K%P
+
+0x9D0
+Makoto「So? What's 'Schr▼dinger's cat'?」%K%P
+
+0x9E4
+Yuka「That's obvious!」%K%P
+
+0x9F0
+Yuka「―They're a species of cats that come from the%NSchr▼dinger providence!」%K%P
+
+0x9FC
+Yuka「It's rumored that they're distant relatives of the Iriomote%Nwildcat...」%K%P
+
+0xA08
+Makoto「A-Are you serious?」%K%P
+
+0xA1C
+Yuka「Nope! Just kidding!」%K%P
+
+0xA28
+(D-Damn you...)%K%P
+
+0xA3C
+Yuka「Okay? I'm only going to explain this once, so listen%Ncarefully♪」%K%P
+
+0xA50
+Yuka「Huh～? Makoto-kun, your shoulders are trembling ever%Nso slightly. You okay～?」%K%P
+
+0xA5C
+Makoto「...」%K%P
+
+0xA70
+Yuka「Yep♪ You seem okay♪」%K%P
+
+0xA7C
+Yuka「Well then, umm, where do I begin?」%K%P
+
+0xA88
+Yuka「First...」%K%P
+
+0xA94
+Yuka「Schr▼dinger was an Austrian theoretical physicist who%Ncreated wave mechanics.」%K%P
+
+0xAA0
+Yuka「He developed a wave equation to describe the%Nmovement of electrons within atoms-」%K%P
+
+0xAAC
+Makoto「Hold on!」%K%P
+
+0xAC0
+Yuka「Hmm?」%K%P
+
+0xACC
+Makoto「I can't understand any of that stuff... Is it going to get%Nmore complicated from here on out?」%K%P
+
+0xAE0
+Yuka「Hmm... are you going to be okay?」%K%P
+
+0xAEC
+Yuka「Well, in short, Schr▼dinger was a very famous physicist.」%K%P
+
+0xAF8
+Yuka「If you keep that much in mind, you'll probably be okay.」%K%P
+
+0xB04
+Makoto「Okay, got it... Then please continue.」%K%P
+
+0xB10
+Yuka「And so, it was he who came up with the story of%N'Schr▼dinger's cat'.」%K%P
+
+0xB1C
+Yuka「I'll have you know that the following story is completely%Nfictional.」%K%P
+
+0xB28
+Yuka「Its purpose is to propose a 'what if?' problem.」%K%P
+
+0xB34
+Makoto「All right, so what is it?」%K%P
+
+0xB48
+Yuka「The details of the story are simple to explain...」%K%P
+
+0xB54
+Yuka「First are the provisions.」%K%P
+
+0xB60
+Yuka「You need one cat.」%K%P
+
+0xB6C
+Yuka「One bottle filled with poison gas.」%K%P
+
+0xB78
+Yuka「A soundproof, completely hermetically sealed box.」%K%P
+
+0xB84
+Yuka「After that, a little bit of radioactive material.」%K%P
+
+0xB90
+Yuka「Lastly, you need a robot that can detect α particles.」%K%P
+
+0xB9C
+Makoto「Alpha particles?」%K%P
+
+0xBA8
+Yuka「Hmm... they're particles identical to a helium nucleus...」%K%P
+
+0xBBC
+Yuka「Well, let's leave out the complicated stuff. Just think of%Nthem as these itty bitty particles.」%K%P
+
+0xBC8
+Yuka「These itty bitty particles come flying out from the%Nradioactive material... Those are α particles.」%K%P
+
+0xBD4
+Makoto「Hmm...」%K%P
+
+0xBE0
+Makoto「So you need a cat, poison gas, a box, radioactive%Nmaterial, and a robot that can detect radioactive%Nmaterial...」%K%P
+
+0xBEC
+Yuka「Right... Then it's time for the next step.」%K%P
+
+0xBF8
+Yuka「Put all of the provisions in the box, and close the lid.」%K%P
+
+0xC0C
+Yuka「All right... With this, the preparations are complete!」%K%P
+
+0xC20
+Yuka「Or so I'd like to say, but there's no way anything will%Nhappen if this is all you do.」%K%P
+
+0xC2C
+Makoto「Well, that's true...」%K%P
+
+0xC38
+Yuka「And so, from now on, you decide to use these materials%Nto create a certain experimental device.」%K%P
+
+0xC44
+Yuka「The structure of the device is simple.」%K%P
+
+0xC50
+Yuka「If α particles come flying out from the radioactive%Nmaterial in the box...」%K%P
+
+0xC5C
+Yuka「The detection robot- let's call him 'Beli-kun Unit 1'-%Nperceives the particles...」%K%P
+
+0xC68
+Yuka「And then releases a mechanism that makes the glass%Nbottle with the poison gas go *craaaaaaaack* by%Nbreaking it apart.」%K%P
+
+0xC74
+Makoto「But if that happens, then the box would be filled with%Npoison gas...」%K%P
+
+0xC88
+Yuka「Yes! That's right!」%K%P
+
+0xC94
+Yuka「But because the box is tightly and hermetically sealed,%Nthe cat can't escape...」%K%P
+
+0xCF8
+As Yuka says this, she brings her hands together.%K%P
+
+0xD04
+It's like she's praying for the soul of the cat.%K%P
+
+0xD18
+Makoto「Hmm... but in the end, isn't all that this shows is 'When the%Nα particles are released, the cat dies'?」%K%P
+
+0xD48
+Yuka「Well, that may be putting it simply.」%K%P
+
+0xD54
+Yuka「However, the most important thing is that the cat and%NBeli-kun Unit 1 are put inside the hermetically sealed box.」%K%P
+
+0xD60
+Yuka「Which means that the observers can only see the box's%Nexterior...」%K%P
+
+0xD6C
+Yuka「So they also don't know when the α particles were%Nreleased...」%K%P
+
+0xD78
+Yuka「They also don't know when the glass bottle broke...」%K%P
+
+0xD84
+Yuka「Which means they also don't know when the cat died,%Nright?」%K%P
+
+0xD90
+Makoto「... Right.」%K%P
+
+0xDA4
+Yuka「Well then, let me ask you a question, Makoto-kun.」%K%P
+
+0xDB0
+Yuka「If such an experimental device was before your eyes%Nright now, would the cat in the box be alive? Or would it%Nbe dead?」%K%P
+
+0xDC4
+Yuka「Of course, you can't touch the cat.」%K%P
+
+0xDD0
+Makoto「There's no way I could know it then, right?」%K%P
+
+0xDDC
+Makoto「The box is soundproof, so if I can't touch the cat,%Nthere's no way I can know whether it's dead or alive!」%K%P
+
+0xDE8
+Yuka「...」%K%P
+
+0xDF4
+Makoto「Ah... but wait...」%K%P
+
+0xE00
+Makoto「In the end, the cat's life or death status is affected by%Nwhether or not the α particles are emitted, so if I knew%Nthat at the very least, then I might be able to make a%Nguess.」%K%P
+
+0xE0C
+Makoto「In other words 'When did the radioactive material emit α%Nparticles?'... If I can predict that, then I could also tell the%Ncat's life or death status, couldn't I?」%K%P
+
+0xE20
+Yuka「Wow～♪ Amazing～♪ You're a smart boy～♪」%K%P
+
+0xE2C
+As she says this, Yuka draws the sword out of her%Nsheath and whacks me on the head.%K%P
+
+0xE40
+Yuka「That's right!」%K%P
+
+0xE4C
+Yuka「If you know when the α particles were emitted, then%Nyou'll also inevitably know whether or not the cat is%Ndead!」%K%P
+
+0xE60
+Yuka「―HOWEVERRRRRRRR!!」%K%P
+
+0xE74
+Yuka「These α particles are increeeeeeeedibly tiny%Nparticles...」%K%P
+
+0xE80
+Yuka「So based on the laws of physics we experience in our%Ndaily lives, it's impossible to understand their%Nmovements!」%K%P
+
+0xE8C
+Makoto「???????」%K%P
+
+0xEA0
+Yuka「Hmm, how do I explain this...」%K%P
+
+0xEB4
+Yuka「In short, the time when the α particles will be released is%Nprobabilistic, and can't be known.」%K%P
+
+0xEC0
+Makoto「... So?」%K%P
+
+0xECC
+Yuka「So in the end, the cat's life and death status also can%Nonly be judged probabilistically... That's the answer to%Nthe earlier question.」%K%P
+
+0xED8
+Makoto「...?」%K%P
+
+0xEE4
+Yuka「For example, let's say, for argument's sake, if the%Nprobability of the α particles being released is 50％...」%K%P
+
+0xEF0
+Yuka「That means that the cat in the box is half dead-ish and%Nhalf alive-ish, right?」%K%P
+
+0xEFC
+Makoto「You think so?」%K%P
+
+0xF08
+Makoto「If you hink about it realistically, the cat's life or death%Nstatus is either 0％ or 100％... It's either dead or alive.」%K%P
+
+0xF1C
+Yuka「That's not what I mean.」%K%P
+
+0xF28
+Yuka「This is the interesting part of this story.」%K%P
+
+0xF34
+Makoto「?」%K%P
+
+0xF40
+Yuka「I said this earlier, but the time when the α particles will%Nbe emitted is probabilistic, and therefore unknown.」%K%P
+
+0xF4C
+Yuka「In the end, whether they were emitted or not is something%Nthat is unknown until it's observed.」%K%P
+
+0xF58
+Yuka「In conclusion, in that instant before they are observed,%Nthe state where the α particles were emitted and the%Nstate where they weren't emitted are 'coexisting'%Ntogether.」%K%P
+
+0xF64
+Makoto「... Co... existing...」%K%P
+
+0xF70
+Yuka「Likewise, the same applies to the cat in the box up until%Nthe lid on the box is opened and you look inside...」%K%P
+
+0xF7C
+Yuka「In that instant, it's been decided that the state where%Nthe cat is alive and the state where the cat is dead are%N'coexisting' together.」%K%P
+
+0xF88
+Makoto「...」%K%P
+
+0xF94
+Yuka「Obviously, once you open the lid to see if it's dead or%Nalive... one of those two states will definitely be decided.」%K%P
+
+0xFA0
+Makoto「...」%K%P
+
+0xFAC
+Yuka「This is the story of 'Schr▼dinger's cat'.」%K%P
+
+0xFB8
+Yuka「Well, it seems that even today, physicists are divided%Nbetween various opinions on how to interpret this story.」%K%P
+
+0xFC4
+Makoto「...」%K%P
+
+0xFD8
+Yuka「Anyway... did you understand that?」%K%P
+
+0xFE4
+Makoto「... Not at all...」%K%P
+
+0xFF8
+Yuka「... Hey, what the hell?」%K%P
+
+0x1004
+Yuka「I tried giving a considerably simple explanation too...」%K%P
+
+0x1010
+Makoto「But it's strange no matter how you think of it, right?!」%K%P
+
+0x101C
+Makoto「Until the lid is opened and you look inside, there's a%N50-50 chance of the cat being either dead or alive.%K You%Ncan only be 100％ certain when you open the lid and%Ndetermine it for yourself... What the hell's that all about?!」%K%P
+
+0x1028
+Yuka「If that's what you're saying, then it can't be helped.」%K%P
+
+0x1034
+Yuka「You've just got to take it as it is and accept it...」%K%P
+
+0x1040
+Makoto「You don't think there's something strange with that?」%K%P
+
+0x1054
+Yuka「Hmm... not really...」%K%P
+
+0x1060
+Makoto「Hey hey hey hey, hold on a minute!」%K%P
+
+0x106C
+Makoto「All right, Yuka, is this what you're talking about?」%K%P
+
+0x1090
+Makoto「Right now, the time is... ummm... exactly 3:50 P.M.」%K%P
+
+0x109C
+Makoto「At 3:50 P.M. ... there's a square box placed right in front%Nof me.」%K%P
+
+0x10A8
+Makoto「In the box is 'A cat that I don't know if it's alive or dead'...%NGot it?」%K%P
+
+0x10B4
+Yuka「Yes.」%K%P
+
+0x10C0
+Makoto「...」%K%P
+
+0x10CC
+Yuka「...」%K%P
+
+0x10D8
+Makoto「...」%K%P
+
+0x10E4
+Yuka「...」%K%P
+
+0x1108
+Makoto「Now it's just turned to 3:51 P.M.」%K%P
+
+0x1114
+Makoto「I'm opening the lid and looking...」%K%P
+
+0x1120
+Makoto「How sad... It seems the cat's been dead for quite some%Ntime.」%K%P
+
+0x112C
+Yuka「Right.」%K%P
+
+0x1138
+Makoto「Which means that it's been decided that at 3:50 P.M., the%Ncat was dead.」%K%P
+
+0x1144
+Yuka「Right.」%K%P
+
+0x1150
+Makoto「There was no 50％ chance that it was alive. It was%N'completely' dead.'」%K%P
+
+0x115C
+Yuka「Right... This is already after you've observed it? I see no%Nproblems with saying that.」%K%P
+
+0x1168
+Makoto「ARRRRRGH! I DON"T GET ITTTTTT!」%K%P
+
+0x1174
+Makoto「Hey, Yuka? Can't you explain this any simpler!?」%K%P
+
+0x1188
+Yuka「It's like I said!」%K%P
+
+0x119C
+Yuka「To the you at 3:50 P.M., the cat was half alive and half%Ndead!」%K%P
+
+0x11A8
+Yuka「But to the you from 3:51 P.M. and afterwards, it's been%Ndecided that the cat at 3:50 P.M. was also dead!」%K%P
+
+0x11B4
+Makoto「But what does that mean!?」%K%P
+
+0x11C0
+Makoto「Are you saying that by opening the lid, I changed the%Npast!?」%K%P
+
+0x11D4
+Yuka「Rather than 'changed', it would be more accurate to say%N'decided'.」%K%P
+
+0x11E0
+Yuka「At 3:51 P.M.―you 'decided the past'.」%K%P
+
+0x11EC
+Makoto「Such a ridiculous thing-」%K%P
+
+0x11F8
+Yuka「I don't think we can judge whether it's impossible or not.」%K%P
+
+0x1204
+Yuka「After all, isn't that right?」%K%P
+
+0x1210
+Yuka「No one could have confirmed the cat's state at 3:50 P.M...」%K%P
+
+0x122C
+Yuka「It's impossible... to go back to the past...」%K%P
+
+0x1238
+Makoto「...」%K%P
+
+0x1244
+Yuka「...」%K%P
+
+0x1250
+Makoto「...」%K%P
+
+0x125C
+Yuka「...」%K%P
+
+0x1270
+Kurumi「Ah, Onii-chan's in danger!」%K%P
+
+0x12A0
+Kurumi「Haah! This maiden shall humbly offer thou her assistance!」%K%P
+
+0x12B4
+Kurumi「Now then, step back, Lord Makoto...」%K%P
+
+0x12D0
+Yuka「Aha! The demon cat-girl hath made her appearance!」%K%P
+
+0x12E4
+Kurumi「Hey, Kurumi's not a demon!」%K%P
+
+0x12F0
+Kurumi「For now, she's a female ninja from the Iga clan!」%K%P
+
+0x12FC
+Yuka「Well, either way, it does not matter. With my family's%Ntreasured sword, the Masamune, I shall punish you.」%K%P
+
+0x1310
+Yuka「Art thou prepared?」%K%P
+
+0x1324
+Kurumi「As much as thou art...」%K%P
+
+0x1338
+Yuka「Then have at you!」%K%P
+
+0x1374
+*Wham, wham*... *wham, wham*... *wham*...%K%P
+
+0x1380
+Yuka and Kurumi begin a make-believe sword fight using%Nplastic swords.%K%P
+
+0x138C
+Honestly... I'm lost now.%K%P
+
+0x1398
+"―You 'decided the past'."%K%P
+
+0x13A4
+"It's impossible... to go back to the past..."%K%P
+
+0x13B0
+Yuka's words run through my head.%K%P
+
+0x13BC
+"Schr▼dinger's cat."%K%P
+
+0x13C8
+Apparently, it's somehow related to "The Third Trait" of%NCur▲ Syndrome.%K%P
+
+0x13D4
+Izumi-san definitely said that last night.%K%P
+
+0x13E0
+But...%K%P
+
+0x13EC
+... Just how are they related?%K%P
+
+0x13F8
+She also said that 'The Third Trait' was related to the%Ncause of the infinite loop.%K%P
+
+0x1404
+This is all way too complex...%K%P
+
+0x1410
+I'm developing a headache from attempting to%Nunderstand it all.%K%P
+
+0x1440
+Yuka「Why you, take some of this!」%K%P
+
+0x144C
+Kurumi「Heh heh, you've got a long way to go!」%K%P
+
+0x1460
+Yuka「Oh, a flying squid man...」%K%P
+
+0x1474
+Kurumi「Huh??? A squid man?」%K%P
+
+0x1488
+Yuka「Gotcha!」%K%P
+
+0x1494
+―*Wham*!%K%P
+
+0x14A8
+Kurumi「Ah! Yuka-san, that was unfair!」%K%P
+
+0x14BC
+Yuka「Heh heh, that's not unfair at all.」%K%P
+
+0x14C8
+Yuka「There's no such thing as a flying squid man.」%K%P
+
+0x14DC
+Kurumi「D-D-D-Damn youuuuuuuuuuuuuuuuu!」%K%P
+
+0x14F0
+*Wham, wham*... *wham, wham*... *wham...%K%P
+
+0x14FC
+*Wham, wham*... *wham, wham*... *wham*...%K%P
+
+0x1518
+As I hear their playful voices from behind...%K%N
+
+0x1524
+I trudge along towards the harbor...%K%P
+

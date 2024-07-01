@@ -1,0 +1,591 @@
+text area offset and size:
+0x1220
+0x297A
+0xC8
+After we finish eating Izumi-san's curry, we go on the%NTest of Courage Kurumi suggested.%K%P
+
+0xDC
+After we finish eating Izumi-san's cream stew, we go on%Nthe Test of Courage Kurumi suggested.%K%P
+
+0xF0
+After we finish eating Izumi-san's meat-potato stew, we%Ngo on the Test of Courage Kurumi suggested.%K%P
+
+0xFC
+Kurumi「Well then, let's go～♪」%K%P
+
+0x108
+Kurumi takes the lead as she enters the forest...%K%P
+
+0x174
+Now that I think about it, this is when Yuka invited me to%Nteam up with her...%K%P
+
+0x188
+Now that I think about it, this is when Haruka invited me to%Nteam up with her...%K%P
+
+0x19C
+Now that I think about it, this is when Kurumi invited me to%Nteam up with her...%K%P
+
+0x1B0
+Now that I think about it, this is when Izumi-san invited me%Nto team up with her...%K%P
+
+0x1BC
+??「Hey, Makoto-kun...」%K%P
+
+0x1C8
+Just as expected.%K%P
+
+0x1D4
+I turn around towards the voice.%K%P
+
+0x1E0
+Makoto「Huh!?」%K%P
+
+0x1EC
+I let out a surprised voice.%K%P
+
+0x258
+For some reason, the one there isn't Yuka...%K%P
+
+0x26C
+For some reason, the one there isn't Haruka...%K%P
+
+0x280
+For some reason, the one there isn't Kurumi...%K%P
+
+0x294
+For some reason, the one there isn't Izumi-san...%K%P
+
+0x2A8
+Saki「Shh...! Don't shout!」%K%P
+
+0x2B4
+Makoto「S-Saki... Why?」%K%P
+
+0x2C0
+Saki「Right... umm...?」%K%P
+
+0x2CC
+Saki「So we're really going to do this Test of Courage, right?」%K%P
+
+0x2D8
+Makoto「Y-Yeah...」%K%P
+
+0x2E4
+Saki「And in a Test of Courage, people usually get put into%Npairs, right?」%K%P
+
+0x2F0
+Makoto「Well... yeah.」%K%P
+
+0x2FC
+Saki「Right. And I think that when we get there, it's likely that%Nwe'll be divided into pairs via Rock-Paper-Scissors...」%K%P
+
+0x308
+Saki「Therefore... I wanted to discuss something with you...」%K%P
+
+0x314
+Makoto「Could it be that during Rock-Paper-Scissors... you want%Nme to release the same hand as you?」%K%P
+
+0x328
+Saki「Huh? How did you...?」%K%P
+
+0x334
+Makoto「N-No, in a past Test of Courage, someone asked me to%Ndo that as a way of pairing up with me.」%K%P
+
+0x348
+Saki「Well, that makes things quicker.」%K%P
+
+0x354
+Saki「In other words, that's how it is.」%K%P
+
+0x360
+Makoto「...」%K%P
+
+0x36C
+I am too bewildered to reply.%K%P
+
+0x378
+I'm stunned that Saki is the one inviting me along this time.%K%P
+
+0x384
+Why did history change?%K%P
+
+0x390
+I don't think I've done anything particularly different in%Nthese past few hours...%K%P
+
+0x39C
+―Ah!%K%P
+
+0x3A8
+I see... That's it...%K%P
+
+0x3B4
+Now that I think about it, Saki wasn't here during the last%NTest of Courage...%K%P
+
+0x3C0
+Because of that, history has subtly changed...%K%P
+
+0x3CC
+Saki「Well... if you don't want to, that's fine...」%K%P
+
+0x3D8
+Makoto「...」%K%P
+
+0x3E4
+Saki「Anyway, I'll be going with scissors.」%K%P
+
+0x3F0
+Saki「Makoto-kun... Will you think about it?」%K%P
+
+0x404
+Leaving with those words, Saki goes chasing after the%Nothers.%K%P
+
+0x410
+Makoto「Think about it, huh...?」%K%P
+
+0x490
+Right now, I'm walking in the graveyard.%K%P
+
+0x49C
+Saki is strolling by my side.%K%P
+
+0x4A8
+In the end, I took her up on her proposal.%K%P
+
+0x4B4
+I thought it would be rude to refuse a girl's invitation, and%Nbesides...%K%P
+
+0x4C0
+... Saki is leaving a clearly different impression on me%Nthan the last loop... I think I like this Saki more.%K%P
+
+0x4CC
+However, I still don't know why Saki wanted to team up%Nwith me.%K%P
+
+0x4D8
+I give Saki a sidelong glance.%K%P
+
+0x4E4
+She looks at the group of tombstones calmly, with no%Nfear whatsoever.%K%P
+
+0x4F0
+Judging from her behavior, it doesn't seem like she%Nwanted to pair up because she was scared and didn't%Nwant to be alone.%K%P
+
+0x4FC
+(Then why?)%K%P
+
+0x508
+I decide to ask her.%K%P
+
+0x514
+Makoto「Say, Saki?」%K%P
+
+0x528
+Saki「Hmm?」%K%P
+
+0x534
+Makoto「I have a question that's been bugging me... Why did you%Ninvite me?」%K%P
+
+0x540
+Saki「You want me to tell you?」%K%P
+
+0x54C
+Makoto「Well... yeah...」%K%P
+
+0x560
+Saki「All right. Then I'll tell you.」%K%P
+
+0x56C
+Saki「I wanted to know more.」%K%P
+
+0x578
+Makoto「Huh...? About what?」%K%P
+
+0x584
+Saki「About you, Makoto-kun!」%K%P
+
+0x590
+Saki「I want to know more about you, Makoto-kun!」%K%P
+
+0x59C
+I automatically become flustered.%K%P
+
+0x5A8
+Who could blame me?%K%P
+
+0x5B4
+Anyone would get flustered if a girl said something like%Nthat to them.%K%P
+
+0x5C8
+Saki「I guess I was a little curious.」%K%P
+
+0x5D4
+Makoto「C-Curious... you're curious about me?」%K%P
+
+0x5E0
+Saki「Yeah.」%K%P
+
+0x5EC
+Makoto「Wh-Why?」%K%P
+
+0x5F8
+Saki「Because you're similar.」%K%P
+
+0x604
+Makoto「... To whom?」%K%P
+
+0x610
+Saki「A classmate of mine from middle school.」%K%P
+
+0x61C
+Saki「He was a boy that Yuka loved.」%K%P
+
+0x628
+H-Hey... not the same conceited bastard again...%K%P
+
+0x634
+But... if even a third party like Saki is saying that, then%Nare we actually that similar?%K%P
+
+0x640
+Makoto「Hey, Saki? Just what are the similarities between that%Nguy and me?」%K%P
+
+0x654
+Saki「Oh! You know who I'm talking about?」%K%P
+
+0x660
+Makoto「Yeah. I heard about him earlier from Yuka.」%K%P
+
+0x674
+Saki「Well, no wonder... There's no way she wouldn't mention him,%Ngiven the circumstances...」%K%P
+
+0x680
+Makoto「?」%K%P
+
+0x68C
+Saki「But it's not like you're complete splitting images or%Nanything.」%K%P
+
+0x698
+Makoto「Then what is it? ... Is it our faces?」%K%P
+
+0x6A4
+Saki「No. You two look completely different...」%K%P
+
+0x6B0
+Makoto「Then what?」%K%P
+
+0x6BC
+Saki「Hmm... How should I put this?」%K%P
+
+0x6C8
+Saki「Your personality... perhaps?」%K%P
+
+0x6D4
+Makoto「Personality?」%K%P
+
+0x6E0
+Saki「But that's also a little different...」%K%P
+
+0x6EC
+Makoto「What the hell? How could you call us similar if we don't%Neven look or act alike?!」%K%P
+
+0x700
+Saki「You two are similar! You definitely are!」%K%P
+
+0x714
+Saki「I think it's probably your overall attitude that is the%Nsame... Like your bearing or something...」%K%P
+
+0x720
+... My bearing???%K%P
+
+0x72C
+Saki「There's a certain essential part of you that you%Ndefinitely share with that boy...」%K%P
+
+0x738
+Saki「So even though your faces and personalities are%Ndifferent, it feels like you're the same person...」%K%P
+
+0x744
+Makoto「...」%K%P
+
+0x750
+Saki「Occasionally, at times when I see you act impulsively, it%Nreally feels like I'm hallucinating.」%K%P
+
+0x75C
+Saki「It feels like you're just like that boy if...」%K%P
+
+0x768
+If... if... what?%K%P
+
+0x77C
+―Then, at that time.%K%P
+
+0x788
+??「KYAAAAAAAAAAAAAAAAAA!!!」%K%P
+
+0x794
+Saki and I turn around upon hearing this bloodcurdling%Nscream from behind us.%K%P
+
+0x7A0
+??「WAAAAAAAAAAAHHHHH!!」%K%P
+
+0x7AC
+As the crying gets louder, we see a black shadow%Nrunning towards us with great speed...%K%P
+
+0x7B8
+... It's Yuka.%K%P
+
+0x7CC
+Saki「Wh-What's wrong, Yuka!?」%K%P
+
+0x7E8
+Yuka「H-H-H-H-H-H-H...」%K%P
+
+0x7FC
+Saki「It's all right! Anyway, calm down!」%K%P
+
+0x808
+Saki firmly grasps Yuka's shoulders, and calms her down.%K%P
+
+0x814
+Yuka「H-He-Head-Head...」%K%P
+
+0x820
+Saki「Head??」%K%P
+
+0x83C
+Haah... Oh brother... Did Kurumi get her again?%K%P
+
+0x848
+Just then...%K%P
+
+0x864
+Izumi「Haah, haah... Geez, don't go running off without a word,%NYuka-chan!」%K%P
+
+0x870
+... Izumi, who was paired with Yuka, comes up to us, quite%Nout of breath.%K%P
+
+0x87C
+Izumi「That was a dog! ... It was just a puppy sticking its head%Nout of the bushes!」%K%P
+
+0x888
+I see, a puppy...%K%P
+
+0x894
+... Wait a minute, shouldn't Yuka have been prepared for it%Nthis time...!?%K%P
+
+0x8A8
+Makoto「Head??」%K%P
+
+0x8B4
+And, over there...%K%P
+
+0x8D0
+Izumi「Haah, haah... Geez, don't go running off without a word,%NYuka-chan!」%K%P
+
+0x8DC
+... Izumi, who was paired with Yuka, comes up to us, quite%Nout of breath.%K%P
+
+0x8E8
+Izumi「That was a dog! ... It was just a puppy sticking its head%Nout of the bushes!」%K%P
+
+0x8F4
+A puppy...? To think there'd be a puppy in this%Ngraveyard...%K%P
+
+0x900
+... Wait a minute, that's what scared Yuka...!?%K%P
+
+0x91C
+Saki「Hee hee.」%K%P
+
+0x928
+Saki laughs.%K%P
+
+0x93C
+...%K%P
+
+0x948
+As we return to the lodge, Yuka keeps muttering%Ndeliriously to herself like a person who was abducted by%Naliens...%K%P
+
+0x9E8
+After that, I tumble down on top of my bed the moment I%Nreturn to my room.%K%P
+
+0x9F4
+Kurumi is in the living room, watching "Oedo Gatten".%K%P
+
+0xA00
+Everyone else went to the hot springs.%K%P
+
+0xA0C
+Of course, I was also invited, but this being the 9th day%Nof the Camp, my body was so exhausted that I didn't%Nhave the energy to go to the hot springs.%K%P
+
+0xA18
+I lie on the bed, and gently close my eyes.%K%P
+
+0xA24
+Before long, my consciousness slowly fades into a%Ndeep sleep...%K%P
+
+0xAAC
+In the middle of the night... I suddenly wake up.%K%P
+
+0xAB8
+For some reason, it was a pleasant awakening.%K%P
+
+0xAC4
+It might be because I was sleeping extremely deeply.%K%P
+
+0xAD0
+Anyway, I feel completely awake, no feelings of%Ndrowsiness left within me.%K%P
+
+0xADC
+(I doubt I'll be able to sleep like this...)%K%P
+
+0xAE8
+(Since I'm awake, I'll...)%K
+
+0x11C8
+Try going to the hot springs.
+
+0x11D4
+Just stay here.
+
+0xB28
+I'll try going to the hot springs...%K%P
+
+0xB34
+Making up my mind, I jump out of my bed.%K%P
+
+0xB74
+I'll just stay here...%K%P
+
+0xB80
+I think that, and close my eyelids again, but...%K%P
+
+0xB8C
+... ... ... ...%K%P
+
+0xBB4
+Dammit, I really can't sleep.%K
+
+0x11E0
+If I go to the hot springs...
+
+0x11EC
+Hot springs are just a pain in the ass.
+
+0xBF4
+If I go to the hot springs, I'll probably get sleepy...%K%P
+
+0xC00
+Making up my mind, I jump out of my bed.%K%P
+
+0xC50
+Hot springs are just a pain in the ass.%K%P
+
+0xC5C
+Nonetheless, it doesn't change the fact that I can't%Nsleep.%K%P
+
+0xC68
+Then what should I do?%K%P
+
+0xC74
+If I knew this was going to happen, then I should have%Nbrought a book...%K
+
+0x11F8
+I have to go to the hot springs.
+
+0x1204
+Try thinking deeply.
+
+0xCB4
+Can't be helped... If I go to the hot springs, I'll probably%Nget sleepy...%K%P
+
+0xCC0
+Making up my mind, I jump out of my bed.%K%P
+
+0xD30
+As I absently stare at the ceiling, I think about today.%K%P
+
+0xD3C
+―Wednesday, April 3rd.%K%P
+
+0xD48
+The April 3rd in the last loop had Saki getting pissed off%Nand storming away.%K%P
+
+0xD54
+And she revealed the fact that Haruka was a clone...%K%P
+
+0xD60
+If that's so, then that means that this time, the others%Nwon't know about that...%K%P
+
+0xD6C
+Well, that's not necessarily a bad thing.%K%P
+
+0xD78
+It doesn't really need to be hidden, but there's no%Nreason to tell them, either.%K%P
+
+0xD84
+Since Saki didn't almost drown... this peaceful day was%Nable to happen.%K%P
+
+0xD90
+Makoto「Haah...」%K%P
+
+0xD9C
+I sigh.%K%P
+
+0xDA8
+Perhaps because I've let my mind relax, my drowsiness%Nslowly returns.%K%P
+
+0xDB4
+It feels like I'm being rocked in a cradle...%K%P
+
+0xDC0
+I close my eyes, and instantly fall into a peaceful sleep...%K%P
+
+0xE9C
+As I soak in the hot water, I look back on today.%K%P
+
+0xEA8
+―Wednesday, April 3rd.%K%P
+
+0xEB4
+The April 3rd in the last loop had Saki getting pissed off%Nand storming away.%K%P
+
+0xEC0
+And she revealed the fact that Haruka was a clone...%K%P
+
+0xECC
+If that's so, then that means that this time, the others%Nwon't know about that...%K%P
+
+0xED8
+Well, this doesn't necessarily sound like a bad thing.%K%P
+
+0xEE4
+It doesn't really need to be hidden, but there's no%Nreason to tell them, either.%K%P
+
+0xEF0
+Since Saki didn't almost drown... this peaceful day was%Nable to happen.%K%P
+
+0xEFC
+Makoto「Haah...」%K%P
+
+0xF08
+I sigh.%K%P
+
+0xF14
+I notice that the heat has even permeated into the core%Nof my body, to the point where I can feel a profuse%Namount of blood pounding around my temples.%K%P
+
+0xF20
+(It seems it'd be best if I got going now.)%K%P
+
+0xF2C
+I slowly stand up, quickly change into my clothes, and%Nleave the hot springs...%K%P
+
+0xF94
+It seems my blood has completely rushed up to my head.%K%P
+
+0xFA0
+I return to my room, and immediately throw my body onto%Nthe bed.%K%P
+
+0xFAC
+The dizziness I feel from all the blood in my head makes%Nme feel like I'm being rocked in a cradle.%K%P
+
+0xFB8
+I close my eyes, and suddenly fall into a peaceful sleep...%K%P
+

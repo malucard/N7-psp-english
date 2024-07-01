@@ -1,0 +1,321 @@
+text area offset and size:
+0x918
+0x170D
+0x5C
+I reach Saki's house, but as expected, she doesn't%Ncome out when I ring the doorbell.%K%N
+
+0x68
+I decide to try shouting.%K%P
+
+0x74
+Makoto「Heeey, Sakiii.」%K%P
+
+0x80
+Makoto「Sakiiiiii.」%K%P
+
+0x8C
+Makoto「Sakiiiii.」%K%P
+
+0x98
+Makoto「Saki-chaaaan.」%K%P
+
+0xA4
+No response. Damn, what should I do...?%K
+
+0x8D8
+I'll just give up.
+
+0x8E4
+Break in.
+
+0xE4
+It can't be helped. I'll give up on Saki and just go to the%NTest of Courage with the others.%K%P
+
+0x128
+My mind made up, I begin to survey the building's%Nperimeter by circling it.%K%N
+
+0x134
+I wander aimlessly, looking for an entrance...%K%P
+
+0x140
+Makoto「!!」%K%P
+
+0x154
+Saki「What the hell are you doing? I'll call the cops on you!」%K%P
+
+0x160
+Saki appears out of the back door.%K%P
+
+0x16C
+Makoto「Wait a minute! I want to talk to you!」%K%P
+
+0x178
+Saki「Well, I don't!」%K%P
+
+0x18C
+Saki gives me a "hmph", and tries to slam the door shut.%K%N
+
+0x198
+Just before the door closes, I grab Saki's arm, and%Nforcibly pull her towards me.%K%P
+
+0x1AC
+Saki「Don't touch me!」%K%P
+
+0x1B8
+Makoto「Hey... how did you know that Haruka was a clone?」%K%P
+
+0x1CC
+Saki「...」%K%P
+
+0x1D8
+Makoto「It has something to do with what happened yesterday,%Nright?」%K%P
+
+0x1E4
+Saki「...」%K%P
+
+0x1F0
+Makoto「I'm talking about what happened by the ocean. You%Nremember, don't you?」%K%P
+
+0x204
+Saki「...」%K%P
+
+0x210
+Makoto「What happened?」%K%P
+
+0x21C
+Saki「She still had that thing... that's why...」%K%P
+
+0x228
+Makoto「That thing?」%K%P
+
+0x234
+Saki「That's why I took it from her!」%K%P
+
+0x240
+Makoto「What's 'that thing'?」%K%P
+
+0x24C
+Saki「...」%K%P
+
+0x258
+Makoto「Hey, Saki!」%K%P
+
+0x264
+I try to press further as I shake her shoulders.%K%P
+
+0x270
+But then...%K%P
+
+0x27C
+Saki「No!!」%K%P
+
+0x290
+... Saki shakes my arm off and retreats into her summer%Nhouse.%K%P
+
+0x29C
+I think to immediately go after her and try to open the%Nback door, but then...%K%P
+
+0x2E0
+I hear a small growl when a sharp pain spreads%Nthroughout my leg.%K%P
+
+0x2EC
+Makoto「Ow!!」%K%P
+
+0x2F8
+I look and see the perpetrator is a slightly dirty dog. It's%Nan extremely small puppy, clearly only a few months old%Nat most.%K%P
+
+0x304
+Makoto「Damn it, get off of me!」%K%P
+
+0x310
+I desperately tear the puppy off of my leg.%K%P
+
+0x338
+When it realizes what I'm doing, it lets out a strangely%Nsweet growl.%K%P
+
+0x344
+I get the sense that the dog isn't going to budge even a%Nstep, so I can't advance into the house.%K%P
+
+0x350
+Makoto「You bastard!」%K%P
+
+0x35C
+The puppy and I continue to glare at each other ... but in%Nthe end, I lose.%K%P
+
+0x368
+It's pointless to get pissed off at such a small dog.%K%P
+
+0x374
+Makoto「Damn it, if I'd known it would end up like this, then I would%Nhave gone to the Test of Courage after all...」%K%P
+
+0x380
+I grumble to myself, then calm down the dog and leave%Nthrough the backyard.%K%P
+
+0x404
+When return to the lodge, I contemplate the situation in%Nsolitude.%K%P
+
+0x410
+(Saki and Haruka... what did they fight about on the pier%Nyesterday...?)%K%P
+
+0x41C
+(Just what is "that thing"?)%K%P
+
+0x428
+Suddenly, the ruined basket on the table catches my%Neyes.%K%P
+
+0x434
+Saki's now smashed basket.%K%P
+
+0x440
+I remember the image of Saki stomping on the basket in%Nher anger.%K%P
+
+0x44C
+Makoto「The basket, huh...」%K%P
+
+0x4B4
+(...)%K%P
+
+0x4C0
+(...)%K%P
+
+0x4CC
+(...)%K%P
+
+0x4F4
+How much time has passed...?%K%P
+
+0x500
+When I come to, I'm holding the basket while lying down in%Nmy room.%K%P
+
+0x50C
+Makoto「It's completely busted, but...」%K%P
+
+0x518
+Makoto「I wonder... can I fix this...?」%K%P
+
+0x524
+Maybe I should fix the basket and return it to Saki...%K
+
+0x8F0
+Repair it and return it.
+
+0x8FC
+I can't repair it.
+
+0x56C
+(All right! It won't be easy, but I'll try fixing this!)%K%P
+
+0x578
+I begin to repair Saki's broken basket.%K%P
+
+0x584
+To me, this is a step towards trying to sway Saki.%K%P
+
+0x590
+When she sees the fixed basket, Saki will be like...%K%P
+
+0x5B8
+Saki「Wow, thank you. This is my favorite basket; I'm glad you%Nfixed it. Honestly, I was worried about what I was going to%Ndo with it, but you're quite the handy one.」%K%P
+
+0x5C4
+Makoto「No, it wasn't that big of a deal.」%K%P
+
+0x5D0
+Saki「No, This kind of thing can't be replaced with money.」%K%P
+
+0x5DC
+Makoto「Is that so? Things like this should be treated with care.」%K%P
+
+0x5E8
+Saki「I know that quite well... And to think I said all those the%Nthings to you yesterday... I'm very sorry.」%K%P
+
+0x5F4
+Makoto「I understand. It's all right...」%K%P
+
+0x610
+... Something like that should happen.%K%N
+
+0x61C
+I guess I'll apologize first, though. After that, I don't think%Nit'll be any different from receiving a gentle scolding. I'm%Nso smart... yep, yep.%K%P
+
+0x628
+However, perhaps this wasn't such a good idea. Instead%Nof fixing the basket, I think I'm only making the damage%Nworse.%K%P
+
+0x634
+Screw it... As I'm about to put away the basket, Kurumi%Nsuddenly comes into the room.%K%P
+
+0x648
+I frantically try to hide the basket... but it's too late.%K%P
+
+0x654
+Her interest piqued, Kurumi comes closer. Oh well... I'll%Nexplain the situation.%K%P
+
+0x660
+Makoto「... Guess I might seem a little full of myself, though...」%K%P
+
+0x690
+Kurumi「Onii-chan, you're great!」%K%P
+
+0x69C
+Makoto「Huh?」%K%P
+
+0x6A8
+Kurumi「Kurumi is deeply moved!」%K%P
+
+0x6B4
+Makoto「R-Really?」%K%P
+
+0x6C0
+Kurumi「This is definitely important to Saki-san. Kurumi%Nunderstands that. But Onii-chan, you're only breaking it%Nmore this way.」%K%P
+
+0x6CC
+Makoto「... True.」%K%P
+
+0x6D8
+Kurumi「Okay then. Since Kurumi appreciates your sentiment,%Nshe'll fix it for you.」%K%P
+
+0x6E4
+Makoto「It's fine, Kurumi. You don't have to...」%K%P
+
+0x6F8
+Kurumi「She'll do it. Let her do it. She wants to do it.」%K%P
+
+0x704
+Makoto「Why?」%K%P
+
+0x710
+Kurumi「Because... Kurumi feels sorry for Saki-san.」%K%P
+
+0x71C
+Makoto「You feel sorry for her..? But Kurumi, Saki was the one who%Npushed you earlier, right?」%K%P
+
+0x730
+Kurumi「That's why Kurumi feels sorry for her. You don't%Nunderstand. She didn't mean to do it.」%K%P
+
+0x73C
+Makoto「Huh?」%K%P
+
+0x748
+Kurumi「Ah, geez! Anyway, Kurumi will take care of this!」%K%P
+
+0x75C
+Kurumi throws me a glance as I dumbfoundedly watch her%Nleave with the basket.%K%P
+
+0x768
+I'm worried about whether Kurumi can fix it or not, but then%Nagain, I doubt I could do a better job than she can.%K%P
+
+0x774
+I decide to leave the basket to Kurumi, and drift off to%Nsleep...%K%P
+
+0x788
+Makoto「I don't think I can do it...」%K%P
+
+0x794
+I give up on repairing the basket.%K%P
+
+0x7A0
+(But everyone sure is late in coming back.)%K%P
+
+0x7AC
+I drift off to sleep with this thought lingering in my mind...%K%P
+

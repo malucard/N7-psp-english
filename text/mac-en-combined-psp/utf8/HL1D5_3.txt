@@ -1,0 +1,564 @@
+text area offset and size:
+0x1278
+0x2828
+0x74
+And thus, the two of us have once again gone to the%Npier.%K%P
+
+0x80
+While setting up the fishing gear, I suddenly look up at%Nthe sky.%K%N
+
+0x8C
+It's heavily covered with clouds.%K%N
+
+0x98
+We're definitely not getting any good weather today.%K%P
+
+0xA4
+Even so, Haruka cheerfully dangles her fishing line.%K%N
+
+0xCC
+Mine is dangling in the water as well, though, in truth... My%Nheart's not really into it.%K%P
+
+0xF4
+(Just being able to be with Haruka is enough, right...?)%K%P
+
+0x100
+But as usual, my line's not getting a single bite.%K%N
+
+0x10C
+Of course, it's just me who's having this problem...%K%P
+
+0x120
+Haruka「Wow... I caught another one. Here, look. I caught a really%Nbig one this time!」%K%P
+
+0x12C
+As usual, Haruka keeps wheeling in a multitude of big%Ncatches.%K%P
+
+0x138
+(Why is she so much better than me?)%K%P
+
+0x144
+It's a little frustrating not being able to catch anything,%Nbut just seeing Haruka like this makes it all worth it.%K%P
+
+0x150
+The days I've spent getting to know this side of her run%Nthrough my mind.%K%P
+
+0x15C
+A clone... Saki said with confidence that Haruka is a clone.%K%P
+
+0x168
+But why? Even if it's the truth, how did Saki even know%Nabout that?%K%P
+
+0x174
+The question I had two days ago still floats in my head.%K%P
+
+0x180
+And then Haruka said that she was just somebody's%Ncopy. She said that she had no heart.%K%P
+
+0x18C
+Could... Could any person really not have a heart?%K%P
+
+0x198
+It's impossible for me to believe that, as she's having so%Nmuch fun right now.%K%P
+
+0x1A4
+I try comparing the Haruka I see now to the one I saw%Nwhen we first met. The difference is huge, isn't it?%K%P
+
+0x1B0
+Haruka has really changed.%K%P
+
+0x1BC
+The current Haruka frequently has very humane%Nexpressions.%K%P
+
+0x1C8
+I can definitely feel emotion in them.%K%P
+
+0x1D4
+Little by little, I think that Haruka is finding that which is%Ncalled her "heart".%K%P
+
+0x1E8
+Haruka「Makoto...?」%K%P
+
+0x1F4
+Haruka's voice pulls me back to reality.%K%P
+
+0x200
+It probably looked like I was spacing out.%K She's been%Nlooking at me curiously as I pondered.%K%P
+
+0x20C
+Haruka「... Is something wrong?」%K%P
+
+0x218
+Makoto「No, it's nothing...」%K%P
+
+0x22C
+Haruka「???」%K%P
+
+0x238
+Makoto「It's just that for some reason or other, I was%Nremembering everything that's happened between us%Nsince we first met.」%K%P
+
+0x244
+Haruka「You were thinking about me...?」%K%P
+
+0x250
+Makoto「Yeah. A lot of things have happened in the last five%Ndays, huh?」%K%P
+
+0x274
+Haruka「...」%K%P
+
+0x280
+Makoto「Haruka...?」%K%P
+
+0x2A8
+As Haruka firmly grasps her fishing rod, her eyes keenly%Nfocus on the faraway horizon...%K%P
+
+0x2B4
+(A lot of things really did happen...)%K%P
+
+0x2C0
+I indulge in my thoughts again.%K%P
+
+0x2CC
+To Haruka, it's probably been one large series of events.%K%N
+
+0x2D8
+Her being exposed as a clone...%K%P
+
+0x2E4
+Her receiving Okuhiko's sudden "love confession"...%K%N
+
+0x2F0
+Her continuous quarrels with Saki, their true%Ncircumstances still unknown to me...%K%P
+
+0x2FC
+And also, her first... kiss.%K%P
+
+0x318
+(...)%K%P
+
+0x324
+And then, I am taken aback as I realize it.%K%P
+
+0x330
+(When... did I start to believe I did it as a favor for%NHaruka?)%K%P
+
+0x33C
+I didn't do it as a favor or out of any paternal feelings...%K%P
+
+0x348
+I did it to her because of the genuine feelings I have for%Nher... as a... woman...%K%P
+
+0x370
+(But what about Haruka...?)%K%P
+
+0x37C
+(What does Haruka... think of me?)%K%P
+
+0x388
+Makoto「Haruka...」%K%P
+
+0x39C
+Haruka slowly turns her face towards me. There's not a%Nsingle drop of emotion to be found in her expression.%K%P
+
+0x3A8
+Makoto「...」%K%P
+
+0x3B4
+Haruka「What is it?」%K%P
+
+0x3C0
+Makoto「...」%K%P
+
+0x3CC
+I want to confirm it. What does Haruka think of me?%K%P
+
+0x3D8
+But if Haruka feels that I'm someone like a father to her,%Nthen I couldn't bear it.%K%N
+
+0x3E4
+If she doesn't see me as a man, then...%K%P
+
+0x3F0
+Makoto「No, it's nothing...」%K%P
+
+0x404
+Haruka returns her gaze to the ocean.%K%N
+
+0x410
+Her coldness only increases my anxiety.%K%N
+
+0x41C
+My uneasiness is starting to eat me alive.%K%P
+
+0x428
+(Should I ask her...? Or should I just leave it...?)%K%P
+
+0x434
+As I grasp my fishing rod, I continue to worry endlessly...%K%P
+
+0x4B0
+When noon arrives, the two of us decide to grab some%Nlunch at Lunabeach as always.%K%P
+
+0x4F4
+I look at the lunch menu as Haruka orders a sandwich.%K%P
+
+0x534
+Izumi「Well now, it seems like you two are really hitting it off.」%K%P
+
+0x540
+Izumi-san teases us as she approaches us.%K%P
+
+0x54C
+Makoto「No, it's not like...」%K%P
+
+0x558
+Feeling a little embarrassed, I instinctively avert my%Neyes.%K%P
+
+0x564
+I throw a fleeting glance at Haruka.%K%N
+
+0x570
+She's silently nibbling her sandwich.%K%N
+
+0x57C
+Despite her dainty bites, the way she eats makes me%Nfeel that she has a large appetite...%K%P
+
+0x590
+Izumi「At any rate, Haruka-chan...」%K%P
+
+0x59C
+Izumi「This is the third day in a row you've come here for lunch,%Nisn't it? You're not tired of this?」%K%P
+
+0x5B8
+Haruka「... It's because I like fishing.」%K%P
+
+0x5C4
+She says this as bluntly as always...%K%P
+
+0x5D0
+(Hey... you don't have to be so blunt...)%K%P
+
+0x5DC
+Well, I already know by now that's just normal behavior%Nfor Haruka...%K%P
+
+0x5E8
+But I've noticed that whenever she's talking to Izumi-san,%Nshe always becomes blunter than usual.%K%P
+
+0x5F4
+I scowl as I hold back the urge to scold Haruka for her%Nbehavior. That's no way to treat others, after all.%K%N
+
+0x600
+Could it be... that Haruka dislikes Izumi-san?%K%P
+
+0x61C
+Izumi「Well, if you like doing it, then that's fine.」%K%P
+
+0x628
+Izumi-san turns her attention towards me.%K%P
+
+0x63C
+Izumi「Makoto-kun, you also come here every day. Is it just%Nbecause you like fishing?」%K
+
+0x1250
+Yeah...
+
+0x125C
+Not exactly...
+
+0x67C
+Makoto「Yeah...」%K%P
+
+0x688
+I take a bite out of my lunch as I answer.%K%P
+
+0x69C
+Izumi「Hmm...」%K%P
+
+0x6A8
+Makoto「...」%K%P
+
+0x6BC
+It seems like that wasn't the answer Izumi-san was%Nhoping to hear from me.%K%N
+
+0x6C8
+Izumi-san returns to the counter, as if having lost%Ninterest.%K%P
+
+0x6E4
+Makoto「Not exactly...」%K%P
+
+0x6F0
+Makoto「Fishing is all right and all... But it's more that I just want to%Nbe with Haruka, that's all...」%K%P
+
+0x6FC
+Wh-What am I saying!?%K%N
+
+0x708
+My words cause my face to grow hot.%K%P
+
+0x71C
+Izumi「Oh my, this was a rather unrefined thing to ask you...%NPlease continue eating.」%K%P
+
+0x728
+My earlobes get so hot that it feels like steam is coming%Nout of them.%K%P
+
+0x734
+(Ugh... I shouldn't have said anything.)%K%P
+
+0x748
+It seems like that was the answer Izumi-san was hoping%Nto hear from me.%K%N
+
+0x754
+She gives me a satisfied nod before returning to the%Ncounter.%K%P
+
+0x784
+Haruka continues to silently eat her sandwich.%K%N
+
+0x790
+It feels like she's completely engrossed in her food.%K%N
+
+0x79C
+It's obvious that she didn't hear a single word of our%Nconversation just now...%K%P
+
+0x7B0
+Before long... as if noticing my glance, Haruka looks in my%Ndirection.%K%N
+
+0x7C4
+A sweet smile rises to her face.%K%P
+
+0x7D0
+(Huh? Who's she looking at?)%K%P
+
+0x7DC
+Wait, it's not like there's anyone else here but me, right?%K%P
+
+0x7E8
+Haruka is showing only me that human-like expression.%K%N
+
+0x7F4
+That alone makes me happy.%K%P
+
+0x818
+Kurumi「Onii-chan♪」%K%P
+
+0x848
+Kurumi comes over to us after finally finishing her work in%Nthe main part of the restaurant.%K%P
+
+0x854
+She's carrying a tray in her hands. On it is the coffee I%Nordered.%K%N
+
+0x860
+However, I am unable to immediately respond to her.%K%P
+
+0x86C
+My attention is solely focused on Haruka's heartwarming%Nsmile.%K%N
+
+0x878
+Strong emotions burst from inside me and overwhelm all%Nof my senses...%K%N
+
+0x884
+I smile to myself.%K%P
+
+0x898
+Kurumi「Hey, Onii-chan!」%K%P
+
+0x8A4
+Suddenly, Kurumi yanks my ear.%K%N
+
+0x8B0
+It seems that she's become irritated at me for not%Nanswering her.%K%P
+
+0x8BC
+Makoto「O-OWWWWW...!!」%K%P
+
+0x8D0
+Kurumi「Onii-chan! Are you listening!?」%K%P
+
+0x8DC
+Makoto「I'm listening, I'm listening! I'm listening, so let go of me!」%K%P
+
+0x8F0
+With a sullen, angry expression, Kurumi finally lets go of%Nme.%K%P
+
+0x8FC
+Makoto「Wh-What is it...?」%K%P
+
+0x910
+Kurumi「You and the others are going back the day after%Ntomorrow, right?」%K%P
+
+0x91C
+Makoto「Y-Yeah...」%K%P
+
+0x930
+Kurumi「So Kurumi wants to make as many memories as possible%Nwith you and the others in the time we have left.」%K%P
+
+0x93C
+Makoto「Memories, huh...」%K%P
+
+0x950
+Kurumi「And so... Kurumi was thinking that she'd go sleep over at%Nthe lodge tonight～♪」%K%P
+
+0x95C
+Makoto「I see...」%K%P
+
+0x970
+Kurumi「Mmph! What's with that tone?」%K%P
+
+0x97C
+Makoto「Huh? N-No, I didn't mean anything in particular by-」%K%P
+
+0x9A0
+Kurumi「Screw you, Onii-chan! Hmph!」%K%P
+
+0xBC4
+Kurumi slaps the coffee cup on the table with all her%Nmight!%K%P
+
+0xBF8
+Makoto「H-HOOOT!!」%K%P
+
+0xC04
+The boiling hot coffee flies in the air and directly hits my%Npants!%K%P
+
+0xC10
+Makoto「K-Kurumi... g-get me a dish cloth...!」%K%P
+
+0xC34
+Kurumi「Hmph!」%K%P
+
+0xC48
+Kurumi completely ignores me, acting like nothing%Nhappened...%K%P
+
+0xC5C
+Izumi「Makoto-kun! Are you okay!? You're not burned, are you?」%K%P
+
+0xC68
+Izumi-san frantically runs over to me.%K%N
+
+0xC74
+She quickly hands me a dish towel.%K%P
+
+0xC80
+... *Wipe, wipe*... *Wipe, wipe*...%K%P
+
+0xC8C
+(Dammit, Kurumi...!)%K%P
+
+0xCB0
+Just then, Haruka suddenly stands up.%K%N
+
+0xCC4
+She averts her eyes from Kurumi and Izumi-san, and%Nquickly starts to leave the shop.%K%P
+
+0xCD0
+(???)%K%P
+
+0xCDC
+I give Izumi-san a slight bow, and pursue Haruka outside.%K%P
+
+0xD54
+Haruka「Kurumi...」%K%P
+
+0xD60
+Makoto「Huh?」%K%P
+
+0xD6C
+Haruka「...」%K%P
+
+0xD78
+Makoto「What about Kurumi?」%K%P
+
+0xD84
+Haruka「Kurumi... she seemed happy.」%K%P
+
+0xD90
+Makoto「Huh? What are you saying? She was really pissed off at%Nme, wasn't she...?」%K%P
+
+0xD9C
+Haruka「No... Not that... I mean before that.」%K%P
+
+0xDA8
+Makoto「Before that?」%K%P
+
+0xDB4
+Haruka「Kurumi's always so cheerful... she's a good girl.」%K%P
+
+0xDC0
+Makoto「Well, she certainly is cheerful... but I don't know if that%Nnecessarily makes her a good girl...」%K%P
+
+0xDCC
+Haruka「...」%K%P
+
+0xDD8
+Makoto「Is something wrong?」%K%P
+
+0xDE4
+Haruka「...」%K%P
+
+0xDF0
+Makoto「Haruka?」%K%P
+
+0xDFC
+Haruka's expression hardens.%K%N
+
+0xE08
+Seriously, what's wrong...? She's making me worried...%K%P
+
+0xE1C
+Haruka「... It's nothing.」%K%P
+
+0xE28
+Makoto「You say it's nothing, but that's not true, is it?」%K%P
+
+0xE34
+Haruka「...」%K%P
+
+0xE40
+But Haruka doesn't answer.%K%P
+
+0xE4C
+No, it's more like she's stubbornly refusing to talk.%K%N
+
+0xE58
+For the rest of our trip back to the pier, Haruka doesn't%Nsay a word...%K%P
+
+0xED4
+We grab our fishing poles once again.%K%P
+
+0xF04
+The change in Haruka's face due to fishing is miraculous.%K%P
+
+0xF10
+Although Haruka looked so depressed a short while ago,%Nshe's now completely back to being cheerful.%K%N
+
+0xF1C
+Not a single trace of gloom can be found on her beaming%Nface as she enthusiastically fishes.%K%P
+
+0xF28
+(Mmm... just what's with this quick change in attitude...?)%K%P
+
+0xF34
+(It's... well, whatever.)%K%P
+
+0xF40
+Just looking at Haruka's cheerful expression fills me with%Nhappiness.%K%P
+
+0xF4C
+Makoto「Hey, Haruka? How about a fishing contest this%Nafternoon?」%K%P
+
+0xF60
+Haruka「Huh? Between you and me? Hmm...」%K%P
+
+0xF74
+Haruka「I accept your challenge...」%K%P
+
+0xF80
+Makoto「All right! That's the spirit!」%K%P
+
+0xF8C
+And so, against better judgement, I lay down this%Nreckless challenge.%K%P
+
+0xF98
+Of course, the result is obvious from a mile away...%K%P
+
+0xFD0
+... ... ...%K%P
+

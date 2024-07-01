@@ -1,0 +1,237 @@
+text area offset and size:
+0x698
+0x102F
+0x5C
+―And so, we didn't stop fishing until the late%Nafternoon.%K%P
+
+0x84
+We only took a break to head back to Lunabeach for%Nlunch. We caught nothing, since Haruka released every%Nsingle fish she caught.%K%P
+
+0x90
+Nevertheless, it was surprisingly fun. Afterwards, we%Nreturned to fishing and remained that way up until now.%K%N
+
+0x9C
+I decide to try ask her about Saki.%K%P
+
+0xE4
+Makoto「About what happened between you and Saki...」%K%P
+
+0xF0
+Haruka「...」%K%P
+
+0xFC
+Makoto「When you told me you two were talking about fishing, um...%NThat was a lie, wasn't it?」%K%P
+
+0x118
+Haruka「... Yes.」%K%P
+
+0x124
+Makoto「Then what was it? What did you say to Saki?」%K%P
+
+0x130
+Haruka「... If I tell you that, will you answer me honestly?」%K%P
+
+0x13C
+Makoto「O-Of course...」%K%P
+
+0x148
+Haruka「Really?」%K%P
+
+0x154
+Makoto「... Yeah, I promise you.」%K%P
+
+0x160
+Haruka puts away the fishing rods, then looks at me.%K%P
+
+0x16C
+Haruka「Have you ever kissed someone?」%K%P
+
+0x178
+Makoto「Huh?」%K%P
+
+0x184
+Haruka「What is a 'kiss'?」%K%P
+
+0x190
+Makoto「Hold on. This is what you were asking Saki?」%K%P
+
+0x19C
+Haruka「Yes... I wanted to ask her if she'd kissed someone%Nbefore.」%K%P
+
+0x1A8
+She's lying again. Judging by how those two were acting%Nat that time, there was no way they were talking about%Nthat.%K%N
+
+0x1B4
+Even so, I say...%K
+
+0x648
+I have.
+
+0x654
+I haven't.
+
+0x660
+Umm...
+
+0x20C
+Makoto「I... I have.」%K%P
+
+0x218
+What am I saying?%K%N
+
+0x224
+The conversation is getting more and more sidetracked.%K%P
+
+0x230
+Haruka「What does it feel like to kiss someone?」%K%P
+
+0x23C
+Haruka asks me this with the innocent expression of a%Ncurious young girl.%K%P
+
+0x248
+T... This is bad. Everything's going at Haruka's pace.%K%N
+
+0x254
+If I don't change the subject soon, then...%K%P
+
+0x268
+Makoto「I... I haven't.」%K%P
+
+0x274
+What the hell am I saying? What kind of a response was%Nthat!?%K%P
+
+0x280
+Haruka「I see...」%K%P
+
+0x28C
+Haruka drops her head in disappointment. Just what did%NHaruka want to hear?%K%P
+
+0x298
+Haruka「Makoto... have you ever wanted to kiss someone?」%K%P
+
+0x2A4
+W-What? I don't know how to respond to that...%K%P
+
+0x2B8
+Makoto「Well, um, you see, I'm a guy... so...」%K%P
+
+0x2C4
+Since I'm with Haruka, I try to be blunt.%K%P
+
+0x2D0
+Haruka「Have you ever?」%K%P
+
+0x2DC
+Makoto「You shouldn't ask something like that.」%K%P
+
+0x2E8
+Haruka「Is... that right?」%K%P
+
+0x2F4
+Makoto「Yeah...」%K%P
+
+0x300
+Haruka「Then why do people kiss?」%K%P
+
+0x30C
+Makoto「Hmm... It's probably to demonstrate their love and confirm%Ntheir feelings for each other.」%K%P
+
+0x318
+Haruka「Confirm...?」%K%P
+
+0x324
+Makoto「It's difficult to explain with words...」%K%P
+
+0x330
+Haruka「Then... let's kiss.」%K%P
+
+0x33C
+Makoto「Wh-What!?」%K%P
+
+0x350
+Haruka「Let's kiss.」%K%P
+
+0x364
+Haruka draws her face close to mine. Her expression%Nbegins to overwhelm my senses.%K%P
+
+0x38C
+My heart feels like it's bursting out of my chest. I steal a%Nglance at Haruka's face.%K%P
+
+0x3A0
+Makoto「N-No... I can't kiss you for a reason like that...」%K%P
+
+0x3AC
+Haruka「Then does that mean you don't feel any affection for me,%NMakoto...?」%K
+
+0x66C
+No, it's not like that...
+
+0x678
+H... How should I answer that?
+
+0x3F4
+Makoto「No, it's not like that...」%K%P
+
+0x400
+Haruka「...」%K%P
+
+0x40C
+Makoto「All right, I understand. Well then, close your eyes.」%K%P
+
+0x420
+Makoto「No... u-um...」%K%P
+
+0x42C
+Haruka「...」%K%P
+
+0x438
+Haruka's face gets gloomy as I struggle over my reply.%K%P
+
+0x444
+P-Please don't look at me with that sad face...%K%P
+
+0x450
+I decide to not run away and grant Haruka's wish.%K%P
+
+0x45C
+Makoto「All right, I understand. Well then, close your eyes.」%K%P
+
+0x4A8
+As I speak, Haruka closes her eyes, and I stare at her%Nface.%K%P
+
+0x4B4
+Haruka's cheeks quiver like jelly from nervousness. Her%Nbeckoning small lips glisten.%K%P
+
+0x4C0
+I gently kiss Haruka on the forehead.%K%P
+
+0x4D4
+It was just a peck and lasted for only a moment.%K%P
+
+0x4E0
+For some reason, I feel embarrassed, and quickly draw%Nback.%K%P
+
+0x4EC
+Haruka's eyes suddenly open, and she stares at me.%K%P
+
+0x508
+Haruka「This is...?」%K%P
+
+0x514
+When I return Haruka's gaze, a faint blush appears on%Nher cheeks. She quickly averts her gaze towards the%Nground.%K%P
+
+0x520
+I can't comprehend how I feel. It's like happiness... but I%Ncan't quite explain it...%K%P
+
+0x534
+―The sun is setting. We decide to finish putting away%Nthe fishing gear.%K%P
+
+0x540
+Our heightened awareness of each other made the trip%Nback to the lodge a quiet one.%K%P
+
+0x578
+Once we return to the lodge, it still feels kinda awkward,%Nso we retreat into our respective rooms.%K%P
+
+0x584
+Thank god Yuka and the others aren't back yet.%K%P
+

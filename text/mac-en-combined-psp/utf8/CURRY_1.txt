@@ -1,0 +1,570 @@
+text area offset and size:
+0x1210
+0x24C0
+0x54
+When I enter the living room, everybody is already%Ngathered.%K%P
+
+0x60
+I sit down on the sofa as everyone passes the time idly.%K%P
+
+0x6C
+There's a melancholic atmosphere as the events from%Nearlier are still lingering in our minds.%K%P
+
+0x78
+Izumi-san, Haruka, Okuhiko... even Kurumi is dead silent.%K%P
+
+0x8C
+As for Yuka... Right now, she is standing by the window,%Nfiddling with something. It isn't like her to look so lonely.%K%P
+
+0x98
+Makoto「Yuka... what's that?」%K%P
+
+0xA4
+I ask her.%K%P
+
+0xB8
+Yuka「Hmm? Ah... this?」%K%P
+
+0xC4
+Yuka「Kurumi-chan and I went to the gift shop after our tennis%Nmatch... I bought this there.」%K%P
+
+0xD0
+Yuka holds up the trinket with her fingertips to show me.%K%P
+
+0xE4
+It's a key chain.%K%N
+
+0xF0
+Attached to it is some kind of fat cat mascot character%Nthat's about as big as my palm.%K%P
+
+0xFC
+Makoto「Is that a souvenir for someone?」%K%P
+
+0x108
+Yuka「No, I bought it for myself.」%K%P
+
+0x114
+Yuka「What do you think of the Nin-Nin Neko Pyon?」%K%P
+
+0x120
+Makoto「... Huh?」%K%P
+
+0x13C
+Yuka「Its name... that's the name I gave it...」%K%P
+
+0x148
+Makoto「...」%K%P
+
+0x154
+Yuka「...」%K%P
+
+0x160
+Makoto「...」%K%P
+
+0x174
+Yuka「... You can't have it.」%K%P
+
+0x180
+Makoto「Why would I want something like that!?」%K%P
+
+0x18C
+Yuka「Hmm... Fine, then... For a moment there, you looked jealous...」%K%P
+
+0x198
+Jealous?%K%N
+
+0x1A4
+Where she got that idea from, I've got no clue.%K%P
+
+0x1C8
+... We stop talking after that...%K%P
+
+0x1D4
+Somehow, things seem to be even quieter than they%Nwere before.%K%P
+
+0x1E0
+No one tries to start a conversation...%K%N
+
+0x1EC
+Just then...%K%P
+
+0x21C
+Izumi「Well, I guess it's about time I made dinner.」%K%P
+
+0x228
+... As if attempting to break the ice, Izumi-san cheerfully%Ndeclares this as she heads towards the kitchen.%K%P
+
+0x234
+Makoto「Izumi-san, I'll help you out.」%K%P
+
+0x240
+I think I should follow her example.%K%P
+
+0x24C
+Izumi「Huh～? It's fine. If you want to help, just set the table.」%K%P
+
+0x258
+Makoto「No way... I'll be fine!」%K%P
+
+0x264
+Makoto「At least let me help with peeling the potatoes!」%K%P
+
+0x278
+Yuka「...」%K%P
+
+0x284
+Haruka「...」%K%P
+
+0x290
+Kurumi「...」%K%P
+
+0x29C
+Okuhiko「...」%K%P
+
+0x2C0
+Izumi「... Potatoes?」%K%P
+
+0x2CC
+In that instant, everyone looks towards me.%K%P
+
+0x2D8
+Their glares pierce me like daggers.%K%P
+
+0x2E4
+The overwhelming, sudden pressure feels like it's%Nsuffocating me.%K%P
+
+0x30C
+(Not again...)%K%P
+
+0x318
+(Not another... premonition...)%K%P
+
+0x324
+But in contrast to my thoughts, for some reason, these%Nwords begin to float in my mind.%K
+
+0x11D8
+(We're having curry, right?)
+
+0x11E4
+(We're having cream stew, right?)
+
+0x11F0
+(We're having meat-potato stew, right?)
+
+0x37C
+Makoto「Because we're having curry today, right?」%K%P
+
+0x388
+I blurt the words in my head out without thinking.%K%P
+
+0x394
+I have no clue why I just said that.%K%P
+
+0x3A0
+It felt like I was being manipulated by some unknown%Nforce.%K%P
+
+0x3AC
+Izumi「Yes... It's true that today... we're having curry, but...」%K%P
+
+0x3C8
+Yuka「Makoto...」%K%P
+
+0x3E4
+Kurumi「Onii-chan, how? How did you know we were having curry?」%K%P
+
+0x400
+Okuhiko「Ishihara. It couldn't be another one of... Just what kind of%Njoke is it this time?」%K%P
+
+0x40C
+Okuhiko narrows his eyes and glares at me.%K%P
+
+0x418
+(This is bad...)%K%P
+
+0x424
+(If this keeps up, the tension in this place is only going%Nto become worse.)%K%P
+
+0x430
+(I've got to trick them somehow...)%K%P
+
+0x43C
+Makoto「No... you see...」%K%P
+
+0x448
+Makoto「I saw them...」%K%P
+
+0x454
+Makoto「Earlier, I saw the ingredients... that Izumi-san had bought.」%K%P
+
+0x470
+Izumi「Huh...?」%K%P
+
+0x47C
+Okuhiko「Ingredients...?」%K%P
+
+0x488
+Makoto「Potatoes, carrots, onions, beef... and then curry powder.」%K%P
+
+0x4B4
+Yuka「I see. With that, anyone would realize you're making curry.」%K%P
+
+0x4C0
+Okuhiko「Hmm...」%K%P
+
+0x4D4
+Sheesh... For now, it seems everyone believes me.%K%P
+
+0x4E0
+I wipe the cold sweat off my forehead.%K%P
+
+0x4EC
+Just then...%K%P
+
+0x500
+Haruka「We're having... curry for dinner...」%K%P
+
+0x50C
+... Haruka suddenly mutters this.%K%P
+
+0x528
+Izumi「That's right! Tonight's dinner is curry!」%K%P
+
+0x534
+Izumi「After all, curry is a traditional part of camp... right?」%K%P
+
+0x548
+Yuka「Curry, huh...」%K%P
+
+0x554
+Okuhiko「Hmm, curry...」%K%P
+
+0x560
+Kurumi「Curry...」%K%P
+
+0x56C
+Everyone unanimously mutters the word 'curry'.%K%P
+
+0x578
+Judging by their unenthusiasm, it seems that none of%Nthem like curry very much.%K%P
+
+0x594
+Makoto「Because we're having cream stew today, right?」%K%P
+
+0x5A0
+I blurt the words in my head out without thinking.%K%P
+
+0x5AC
+I have no idea why I just said that.%K%P
+
+0x5B8
+It felt like I was being manipulated by some unknown%Nforce.%K%P
+
+0x5C4
+Izumi「Yes... It's true that today... we're having stew, but...」%K%P
+
+0x5E0
+Yuka「Makoto...」%K%P
+
+0x5FC
+Kurumi「Onii-chan, how? How did you know we were having stew?」%K%P
+
+0x618
+Okuhiko「Ishihara. It couldn't be another one of... Just what kind of%Njoke is it this time?」%K%P
+
+0x624
+Okuhiko narrows his eyes and glares at me.%K%P
+
+0x630
+(This is bad...)%K%P
+
+0x63C
+(If this keeps up, the tension in this place is only going%Nto become worse.)%K%P
+
+0x648
+(I've got to trick them somehow...)%K%P
+
+0x654
+Makoto「No... you see...」%K%P
+
+0x660
+Makoto「I saw them...」%K%P
+
+0x66C
+Makoto「Earlier, I saw the ingredients... that Izumi-san had bought.」%K%P
+
+0x688
+Izumi「Huh...?」%K%P
+
+0x694
+Okuhiko「Ingredients...?」%K%P
+
+0x6A0
+Makoto「Potatoes, carrots, onions, beef... and then milk, as well as%Ncrew stew roux.」%K%P
+
+0x6CC
+Yuka「I see. With that, anyone would realize you're making stew.」%K%P
+
+0x6D8
+Okuhiko「Hmm...」%K%P
+
+0x6EC
+Sheesh... For now, it seems everyone believes me.%K%P
+
+0x6F8
+I wipe the cold sweat off my forehead.%K%P
+
+0x704
+Just then...%K%P
+
+0x718
+Haruka「We're having... stew for dinner...」%K%P
+
+0x724
+... Haruka suddenly mutters this.%K%P
+
+0x740
+Izumi「That's right! Tonight's dinner is stew!」%K%P
+
+0x74C
+Izumi「Originally, I'd planned on making curry, but then I thought%NI'd make something simpler!」%K%P
+
+0x760
+Yuka「Stew, huh...」%K%P
+
+0x76C
+Okuhiko「Hmm, stew...」%K%P
+
+0x778
+Kurumi「Stew...」%K%P
+
+0x784
+Everyone unanimously mutters the word 'stew'.%K%P
+
+0x790
+Judging by their unenthusiasm, it seems that none of%Nthem like stew very much.%K%P
+
+0x7AC
+Makoto「Because we're having meat-potato stew today, right?」%K%P
+
+0x7B8
+I blurted the words in my head out without thinking.%K%P
+
+0x7C4
+I have no idea why I just said that.%K%P
+
+0x7D0
+It felt as if I was being manipulated by some unknown%Nforce.%K%P
+
+0x7DC
+Izumi「Yes... It's true that today... I planned on making%Nmeat-potato stew, but...」%K%P
+
+0x7F8
+Yuka「Makoto...」%K%P
+
+0x814
+Kurumi「Onii-chan, how? How did you know we were having%Nmeat-potato stew?」%K%P
+
+0x830
+Okuhiko「Ishihara. It couldn't be another one of... Just what kind of%Njoke is it this time?」%K%P
+
+0x83C
+Okuhiko narrows his eyes and glares at me.%K%P
+
+0x848
+(This is bad...)%K%P
+
+0x854
+(If this keeps up, the tension in this place is only going%Nto become worse.)%K%P
+
+0x860
+(I've got to trick them somehow...)%K%P
+
+0x86C
+Makoto「No... you see...」%K%P
+
+0x878
+Makoto「I saw them...」%K%P
+
+0x884
+Makoto「Earlier, I saw the ingredients... that Izumi-san had bought.」%K%P
+
+0x8A0
+Izumi「Huh...?」%K%P
+
+0x8AC
+Okuhiko「Ingredients...?」%K%P
+
+0x8B8
+Makoto「Potatoes, carrots, onions, and beef...」%K%P
+
+0x8C4
+Makoto「Mirin, sugar... and then soy sauce and cooking sake.」%K%P
+
+0x8F0
+Yuka「I see. With that, anyone would realize you're making%Nmeat-potato stew.」%K%P
+
+0x8FC
+Okuhiko「Hmm...」%K%P
+
+0x910
+Sheesh... For now, it seems everyone believes me.%K%P
+
+0x91C
+I wipe the cold sweat off my forehead.%K%P
+
+0x928
+Just then...%K%P
+
+0x93C
+Haruka「We're having... meat-potato stew for dinner...」%K%P
+
+0x948
+... Haruka suddenly mutters this.%K%P
+
+0x964
+Izumi「That's right! Tonight's dinner is meat-potato stew!」%K%P
+
+0x970
+Izumi「Since I rarely cook any traditional Japanese dishes at%Nthe caf▲, I thought it'd be a nice change in pace... right?」%K%P
+
+0x984
+Yuka「Meat-potato stew, huh...」%K%P
+
+0x990
+Okuhiko「Hmm, meat-potato stew...」%K%P
+
+0x99C
+Kurumi「Meat-potato stew...」%K%P
+
+0x9A8
+Everyone unanimously mutters the words 'meat%Npotato-stew'.%K%P
+
+0x9B4
+Judging by their unenthusiasm, it seems that none of%Nthem like meat-potato stew very much.%K%P
+
+0x9E4
+Okuhiko「Ah... Now that I think about it, there's something I need to%Ndo.」%K%P
+
+0x9F0
+Okuhiko「Not that it's urgent, but...」%K%P
+
+0xA04
+Okuhiko「Would you excuse me? I'll be back soon.」%K%P
+
+0xA18
+With that, Okuhiko leaves the lodge...%K%P
+
+0xA24
+(???)%K%P
+
+0xA30
+(Well, I don't really care.)%K%P
+
+0xA3C
+(I don't need to know where he's going or what he's%Ndoing...)%K%P
+
+0xA48
+... Just then, Kurumi speaks up...%K%P
+
+0xA5C
+Kurumi「Oh, that's right!」%K%P
+
+0xA70
+Kurumi「Onee-chan! Please don't put any onions in!」%K%P
+
+0xA8C
+Izumi「Huh? I can't just do that! I just bought a lot of onions...」%K%P
+
+0xAA0
+Kurumi「Whaa～t!? No way, no way! Kurumi hates onions!」%K%P
+
+0xAB4
+Izumi「Hey! Don't be so selfish!」%K%P
+
+0xAC8
+Kurumi「But...」%K%P
+
+0xAE4
+Yuka「Ah, I don't really care... if there's no onions...」%K%P
+
+0xB00
+Haruka「Me neither...」%K%P
+
+0xB0C
+Yuka「Are you fine with it, Makoto?」%K%P
+
+0xB18
+Makoto「Yeah, it's no problem at all.」%K%P
+
+0xB24
+(As long as Yuka's not cooking, it doesn't really matter...)%K%P
+
+0xB40
+Izumi「Really? ... Well then, I guess I'll just leave the onions out.」%K%P
+
+0xB54
+Izumi「Kurumi? Go ahead and thank everyone.」%K%P
+
+0xB70
+Kurumi「Ye～s.」%K%P
+
+0xB84
+Kurumi「Thank you very much, everyone.」%K%P
+
+0xB90
+Kurumi comically says this.%K%P
+
+0xBAC
+Izumi「Haah... Come on, geez...」%K%P
+
+0xBC0
+A grumbling Izumi-san disappears into the kitchen.%K%P
+
+0xBCC
+Makoto「Ah, Izumi-san!」%K%P
+
+0xBD8
+Makoto「Like I was saying earlier, let me help you!」%K%P
+
+0xC30
+I follow Izumi-san into the kitchen...%K%P
+
+0xC44
+Izumi「Makoto-kun? I'm happy you want to help, but really, I'm%Nfine.」%K%P
+
+0xC58
+Izumi「Boys shouldn't go in the kitchen... understand?」%K%P
+
+0xC64
+That smile of hers kills me every time; I'm defenseless%Nagainst it.%K%P
+
+0xC70
+So I...%K%P
+
+0xC7C
+Makoto「Okay～♪」%K%P
+
+0xCB4
+... obediently reply like a child, and return to the living%Nroom.%K%P
+
+0xCC0
+It felt like I heard a faint sigh from the kitchen behind me.%K%P
+
+0xCF8
+Just as instructed, I begin to set the table.%K%P
+
+0xD04
+Yuka and Haruka are reclining on a sofa nearby,%Nwatching TV.%K%P
+
+0xD10
+Kurumi is lying down flat on the floor, fiddling with note%Npaper for some reason.%K%P
+
+0xD1C
+I think she's trying to use it for origami.%K%P
+
+0xD28
+(I could use some help here, you guys...)%K%P
+
+0xD34
+I mentally complain as I continue to work...%K%P
+

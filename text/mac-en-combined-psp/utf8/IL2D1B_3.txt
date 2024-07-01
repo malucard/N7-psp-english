@@ -1,0 +1,468 @@
+text area offset and size:
+0x1108
+0x27A8
+0x5C
+"Then let's sneak in and check out the heated pool!"%K%P
+
+0x68
+... Everyone ends up heading to Tsukiya Hotel as a result%Nof my comment.%K%P
+
+0x74
+On the way there...%K%P
+
+0x80
+I secretly approach Izumi-san, and whisper in her ear.%K%P
+
+0x94
+Makoto「Izumi-san... you'll have to fall again...」%K%P
+
+0xA0
+Izumi「It's fine... don't worry about it.」%K%P
+
+0xAC
+Makoto「But I feel bad for you...%K If you don't want to, we can%Nchange history...」%K%P
+
+0xB8
+Izumi「We can't. If we don't do these things properly, then won't%NOkuhiko-kun just get suspicious?」%K%P
+
+0xC4
+Izumi「And besides, there's also the fact that... we need to%Nthink about the actions we'll have to take at times we%Nmake mistakes or screw up.」%K%P
+
+0xD0
+Izumi「Even if we don't know how long he'll continue to be%Ndeceived, there's no way he won't get suspicious event-」%K%P
+
+0x118
+Okuhiko「What are you doing, you two?」%K%P
+
+0x124
+Okuhiko「Were you discussing something you didn't want me to%Nhear?」%K%P
+
+0x138
+―Oh crap!%K%P
+
+0x14C
+Okuhiko「... Nah, there's no way it's like that. Ha ha ha!」%K%P
+
+0x160
+Whew... we've been saved by his naivety...%K%P
+
+0x16C
+Reluctantly, we end our conversation.%K%P
+
+0x178
+I wish we could make an excuse so we could leave and%Ncontinue it elsewhere.%K%P
+
+0x1B8
+I become extremely lonely.%K%P
+
+0x1C4
+As long as we're in front of Okuhiko, Izumi-san and I can't%Neven have a normal conversation.%K%P
+
+0x1D0
+It goes without saying that having any sort of intimate%Nexchange is forbidden.%K%P
+
+0x1DC
+We have to keep pretending that it's the past until the%Nbitter end...%K%P
+
+0x1E8
+(Izumi-san... I want to be with her.)%K%P
+
+0x1F4
+(I want to talk about many different things.)%K%P
+
+0x200
+(I want to ask her more things that I don't know.)%K%P
+
+0x20C
+I finally realize how much I'm hating all the precious time I%Nlose with her, but the show must go on.%K%P
+
+0x218
+Always, until this is finally... over.%K%P
+
+0x224
+I begin to regret starting this mock play of ours.%K%P
+
+0x230
+I was really pumped up at the beginning, but that no%Nlonger matters...%K%P
+
+0x23C
+To me... it doesn't mean as much as the endless, ever%Nexpanding feelings I have for Izumi-san... I just want to%Ntell her that, no matter what.%K%P
+
+0x248
+But there's no way I can stop now.%K%P
+
+0x254
+Everyone else is eager and giving it all they've got, so if%NI stop now, they might think of me as a man who leaves%Nthings unfinished.%K%P
+
+0x260
+I don't really care what the others think... It's just that I%Ndon't want Izumi-san to misunderstand.%K%P
+
+0x26C
+Izumi-san is a fully grown woman. She would definitely%Nhate such a man.%K%P
+
+0x278
+I... just don't want Izumi-san to hate me.%K%P
+
+0x284
+Until the end, I have no choice but to be patient...%K%P
+
+0x290
+But it's very unlikely that I'll be able to keep my feelings%Nbottled up inside me that long...%K%P
+
+0x29C
+So... I'll wait for a time when Izumi-san and I are away from%NOkuhiko... Then I'll tell her how I feel about her.%K%P
+
+0x2A8
+(If Okuhiko weren't here...)%K%P
+
+0x2B4
+While my heart pounds with anticipation, I try to hide my%Nrestlessness...%K%P
+
+0x330
+We arrive at the pool as I'm thinking about this.%K%P
+
+0x33C
+We all continue to act out the same things we did in the%Npast.%K%P
+
+0x348
+Even the deceived Okuhiko does the same things he did%Nthen.%K%P
+
+0x354
+It's like re-watching a scene in a movie... It's rather%Nsurreal.%K%P
+
+0x360
+It's getting hard to tell who's deceiving who now.%K%P
+
+0x36C
+And then, Izumi-san and Kurumi play together, and%NIzumi-san falls into the pool.%K%P
+
+0x378
+To put it accurately, she throws herself into the pool...%K%P
+
+0x384
+Her wet, transparent clothes... Her pale skin...%K%N
+
+0x390
+It seems that Izumi-san is very conscious of my stare...%K%P
+
+0x39C
+My heart is beating much faster than it was back then.%K%P
+
+0x3E4
+... ... ...%K%P
+
+0x42C
+... That night, after Okuhiko goes to sleep...%K%P
+
+0x438
+We all meet at Lunabeach so that Okuhiko doesn't find%Nout about our plan.%K%P
+
+0x444
+Of course, it's our strategy meeting for tomorrow.%K%P
+
+0x458
+Izumi「Hey, what day is tomorrow again?」%K%P
+
+0x46C
+Yuka「Umm, let's see... 'Tomorrow' is April 2nd, so...」%K%P
+
+0x488
+Kurumi「That's when we go to the pool♪ See, didn't we make that%Npromise today to go back to the pool?」%K%P
+
+0x49C
+Saki「Yes, that's right. Everyone goes to the pool tomorrow.」%K%P
+
+0x4B0
+... This is a strange conversation, no matter how you look%Nat it.%K%P
+
+0x4BC
+If strangers saw us, they'd probably think that we were%Nsome sort of bogus religious cult, conducting a%Nceremony to predict the future.%K%P
+
+0x4C8
+But that's fine.%K%N
+
+0x4D4
+We can see tomorrow.%K%N
+
+0x4E0
+We're time travelers, from a certain point of view...%K%P
+
+0x4EC
+We're going to the pool tomorrow.%K%N
+
+0x4F8
+And then, Yuka will get drunk...%K She'll demand to eat fresh%Ntoro...%K We'll head off to go fishing...%K%N
+
+0x504
+And then... huh?%K%P
+
+0x520
+Makoto「... H-Hey. Isn't tomorrow when...」%K%P
+
+0x534
+Saki looks taken aback.%K It seems she's realized it too.%K%P
+
+0x55C
+Saki「... W-Wait a minute! Tomorrow's when I almost drown, isn't it!?」%K%P
+
+0x568
+Yuka「... Ah.」%K%P
+
+0x574
+Izumi「... Ah.」%K%P
+
+0x580
+Kurumi「Ah～!」%K%P
+
+0x58C
+Haruka「...」%K%P
+
+0x5A0
+Saki「Do I have to fall into the ocean again?」%K%P
+
+0x5AC
+Everyone「...」%K%P
+
+0x5B8
+Saki「N-No... no way in hell! After all, I might actually die this time%Naround...」%K%P
+
+0x5D4
+Izumi「Hmm... This is a problem...」%K%P
+
+0x5F0
+Yuka「Don't worry, Saki. It's all right♪ Izumi-san will definitely%Nsave you again♪」%K%P
+
+0x60C
+Saki「Yuka! You've never almost drowned before, so you don't%Nhave the right to talk! I do! I almost drowned!!」%K%P
+
+0x620
+Yuka「That's not true. I couldn't swim when I was in elementary%Nschool...」%K%P
+
+0x634
+Saki「Yuka, just don't talk until I say so, dammit!! If you're%Nsaying all of this, then why don't you try nearly%Ndrowning!?」%K%P
+
+0x648
+Yuka「WH... WHAAAAAAT!!!!?」%K%P
+
+0x654
+Yuka hysterically shouts at Saki.%K%N
+
+0x660
+Man, she's a loud screamer.%K%P
+
+0x66C
+She must be the quite the neighborhood nuisance in the%Nmiddle of the night.%K%N
+
+0x678
+Well, I don't know if she does this often, so I can't say for%Ncertain...%K%P
+
+0x694
+Izumi「There, there...」%K%P
+
+0x6DC
+Kurumi「Then how about if it's like this? Tomorrow's not April 2nd,%Nit's April 3rd!」%K%P
+
+0x6E8
+Makoto「What?」%K%P
+
+0x704
+Yuka「???」%K%P
+
+0x710
+Our eyes widen at Kurumi's incomprehensible statement.%K%P
+
+0x72C
+Saki「Hey, Kurumi-chan, you do know that April 2nd comes%Nafter April 1st, right?」%K%P
+
+0x748
+Izumi「...K-Kurumi. ... Do I have to send you back to kindergarten?」%K%P
+
+0x754
+Izumi-san looks seriously worried.%K%P
+
+0x768
+Kurumi「Geez～! That's not what Kurumi's saying, guys! ... What%Nshe wants to say is...」%K%P
+
+0x784
+Haruka「I understand... you're saying we'll decide to just skip%NApril 2nd...」%K%P
+
+0x798
+Kurumi「Right, right♪ Impressive, Haruka-san. You understand～♪」%K%P
+
+0x7A4
+Kurumi snaps her fingers, excited that someone gets%Nher.%K%P
+
+0x7B0
+However, Haruka is as stoic as ever...%K%P
+
+0x7CC
+Yuka「Oh, I see...」%K%P
+
+0x7E8
+Saki「I get it～. Good thinking, Kurumi-chan～♪」%K%P
+
+0x7FC
+Kurumi「Eheheh♪ In other words, this is what we'll do! We'll have%NOkkun forget this 'April 2nd'♪」%K%P
+
+0x810
+I see...%K%P
+
+0x81C
+When Okuhiko wakes up in the morning, he'll find that the%Ndate has jumped to the third day of the camp.%K%P
+
+0x828
+He'll wonder where his memories of the second day%Nwent... Something like that.%K%P
+
+0x834
+He's the kind of guy who'll think that he drank too much,%Nblacked out, and when he regained consciousness, it%Nwas morning. That'll be the story.%K%P
+
+0x874
+Izumi「Then tomorrow will be April 3rd... Everyone good with that?」%K%P
+
+0x880
+We all nod in unison.%K%P
+
+0x89C
+Yuka「Then does everyone understand the plan for the 3rd?」%K%P
+
+0x8B0
+Haruka「Yes... In the morning, Makoto and I will go fishing.」%K%P
+
+0x8BC
+Yuka「Right, right... Then Kurumi and I will play tennis...」%K%P
+
+0x8D0
+Yuka「... Wait, Kurumi-chan's going back, so how will I play%Ntennis!?」%K%P
+
+0x8EC
+Saki「Okuhiko-kun and I played together that day as well,%Nright?」%K%P
+
+0x8F8
+Yes... she's right.%K%P
+
+0x90C
+Yuka「... Yeah. But won't we have an odd number of people? We%Nwon't be able to play doubles like we did last time.」%K%P
+
+0x918
+Saki「Well, we'll just have to 'change history' at that point...」%K%P
+
+0x934
+Izumi「After that...?」%K%P
+
+0x948
+Haruka「... At the terrace... Okuhiko will rudely approach me...」%K%P
+
+0x954
+Makoto「I'll run to the terrace once I hear him. Then he'll hit me...」%K%P
+
+0x970
+Yuka「At that time, Saki will hear their conversation... Are you%Nokay with acting violent again, Saki?」%K%P
+
+0x98C
+Saki「What do you mean, acting violently? ... Don't worry, leave%Nthat area to me.」%K%P
+
+0x998
+... If it's Saki, then I feel that she'll be able to just act as%Nshe did before with no issues...%K%P
+
+0x9AC
+Saki「Haruka-chan... I'll have to say those bad things to you%Nagain... I'm sorry.」%K%P
+
+0x9C0
+Haruka「It's fine... I'm used to it, so...」%K%P
+
+0x9CC
+It seems those two made peace with each other when I%Nwasn't looking.%K%P
+
+0x9E8
+Izumi「Then it should be all right if I arrive at the lodge a little%Nbefore 7:00 and make dinner.」%K%P
+
+0x9FC
+Kurumi「After that... you'll all go to the Test of Courage and the%Nhot springs♪」%K%P
+
+0xA08
+Izumi「Right. That covers the general outline.」%K%P
+
+0xA14
+Makoto「Well then, this concludes the strategy meeting...」%K%P
+
+0xA20
+Kurumi「Everyone, since Kurumi won't be there tomorrow, good%Nluck with your parts♪」%K%P
+
+0xA34
+As they rise from their seats, everyone returns Kurumi's%Nsmile.%K%P
+
+0xA78
+But I want to talk with Izumi-san a little more.%K%P
+
+0xA84
+I still haven't told her how I feel...%K%P
+
+0xA90
+Makoto「Izumi-san... Umm... err...」%K%P
+
+0xAA4
+Izumi「Huh?」%K%P
+
+0xAB0
+Makoto「The truth is, I want to talk to you...」%K%P
+
+0xACC
+Kurumi「Geez～... You can just talk to Onee-chan tomorrow, right?」%K%P
+
+0xAE0
+Kurumi「More importantly, talk with Kurumi. She doesn't have to%Nleave until tomorrow morning. Okay, Onii-chan?」%K%P
+
+0xAEC
+Makoto「Ah... no... um...」%K%P
+
+0xAF8
+I instinctively mumble.%K%P
+
+0xB04
+The only one I want to talk to right now is Izumi-san.%K%P
+
+0xB18
+Izumi「You can't, Kurumi. It's past 11:00. You have to wake up%Nearly tomorrow, so go to sleep.」%K%P
+
+0xB2C
+Kurumi「Boo～!」%K%P
+
+0xB38
+Makoto「Izumi-san...」%K%P
+
+0xB4C
+Izumi「I'm very sorry... I'm going to sleep too, so can this wait%Nuntil tomorrow?」%K%P
+
+0xB58
+Makoto「Huh? N-No, um...」%K%P
+
+0xB64
+This is troublesome.%K%N
+
+0xB70
+I don't know if I'll get a chance to talk to her or not%Ntomorrow...%K%P
+
+0xB7C
+I want to tell her my feelings right away...%K%P
+
+0xB98
+Saki「Makoto-kun, staying up late is the greatest enemy to%Nthe beauty of one's form.」%K%P
+
+0xBAC
+Yuka「That's right. Just give up for today and try it tomorrow.」%K%P
+
+0xBB8
+There is no way for me to counter the assault of the four%Ngirls.%K%P
+
+0xBC4
+I don't want to risk angering them. As they say... "Hell%Nhath no fury like a woman's scorn."%K%P
+
+0xBD0
+As long as they're talking, I have no chance of%Nsucceeding.%K%P
+
+0xC08
+(Izumi-san... I... I...!!)%K%P
+
+0xC14
+I return to the lodge discouraged, those words futilly%Nechoing in my mind...%K%P
+

@@ -1,0 +1,1590 @@
+text area offset and size:
+0x3E90
+0x63DE
+0xA0
+I quietly open the door, and enter the living room.%K%P
+
+0xAC
+The lights are on.%K%P
+
+0xB8
+But I don't see anyone, or hear anyone talking.%K%P
+
+0xC4
+Makoto「Then I'll go get a change of clothes.」%K%P
+
+0xD0
+Makoto「Oh, right... and maybe a shower while I'm at it...」%K%P
+
+0xE4
+Izumi「You're going to get wet on the way back anyway, so%Nwouldn't it be better if you took a shower at the shop?」%K%P
+
+0xF0
+Makoto「Yeah, you're right.」%K%P
+
+0xFC
+Makoto「Well then, just wait a minute.」%K%P
+
+0x110
+Leaving with those words, I head towards my room.%K%P
+
+0x11C
+When I look back, I see Izumi-san leaning on the front%Ndoor, waiting.%K%P
+
+0x128
+Her face looks flushed, like all the blood's rushed to her%Nhead...%K%P
+
+0x134
+(So she is a bit feverish after all...)%K%P
+
+0x140
+As I think this, I open the door to my room.%K%P
+
+0x194
+(...)%K%P
+
+0x1A0
+(...)%K%P
+
+0x1AC
+(...)%K%P
+
+0x1C8
+(... Huh?)%K%P
+
+0x1DC
+For some reason, Kurumi's there.%K%P
+
+0x1E8
+She's in the middle of changing her clothes.%K%P
+
+0x1F4
+Her back is turned to me, but all of her upper clothes are%Nraised over her head.%K%P
+
+0x200
+I can see her smooth... white back.%K%P
+
+0x20C
+―And immediately after that!%K%P
+
+0x218
+Kurumi「NOOOOOOOOOO!!」%K%P
+
+0x224
+Kurumi「Lech! Deviant! Pervert! Molester!」%K%P
+
+0x230
+Her screams finally bring me back to reality.%K%P
+
+0x23C
+I forcefully shut the door as I panic.%K%P
+
+0x290
+(Wh-Why was Kurumi in my room, changing her clothes...?)%K%P
+
+0x2A8
+(... Changing... her clothes...)%K%P
+
+0x2B4
+―What!?%K%P
+
+0x2C0
+... On Kurumi's back...%K%N
+
+0x2CC
+... there was...%K%N
+
+0x2D8
+... no scar...%K%P
+
+0x318
+Izumi「What's wrong, Makoto-kun?」%K%P
+
+0x324
+Having notice my change in behavior, Izumi-san comes%Nrushing over to me.%K%P
+
+0x330
+Makoto「...」%K%P
+
+0x33C
+But I'm unable to say the words.%K%P
+
+0x348
+This event has left my mind in a state of mass disarray.%K%P
+
+0x354
+(Calm down... calm down...)%K%P
+
+0x360
+(I have to think about this calmly...)%K%P
+
+0x36C
+(Calmly... calmly...)%K%P
+
+0x378
+But I don't get time to think.%K%P
+
+0x3A0
+With violent force, Kurumi comes bursting out of the room.%K%P
+
+0x3C8
+Kurumi「Geez, what were you thinking!?」%K%P
+
+0x3D4
+Kurumi「At least knock first...」%K%P
+
+0x3F8
+Kurumi「... Oh, Onee-chan.」%K%P
+
+0x404
+Kurumi「What's wrong, you two? How'd you get so soaked?」%K%P
+
+0x410
+Kurumi looks back and forth between me and Izumi-san's%Nfaces.%K%P
+
+0x41C
+Izumi「Hey, did something happen?」%K%P
+
+0x428
+Kurumi「'Did something happen'... What do you mean?」%K%P
+
+0x434
+Izumi「Just now, you screamed really loudly, didn't you?」%K%P
+
+0x448
+Kurumi「Ah, that's right!」%K%P
+
+0x45C
+Kurumi「Did you know? Umm, umm... Kurumi knows he peeked!」%K%P
+
+0x468
+Kurumi「He suddenly peeked at her while she was changing her%Nclothes!」%K%P
+
+0x474
+Izumi「Who peeked?」%K%P
+
+0x480
+Kurumi「'Who'? That's obvious, isn't it?」%K%P
+
+0x48C
+Kurumi quickly points at me...%K%P
+
+0x4A0
+Kurumi「―It was Makoto-kun!」%K%P
+
+0x4B4
+Izumi「!?」%K%P
+
+0x4C0
+Makoto「!?」%K%P
+
+0x4CC
+Izumi「... Makoto... kun?」%K%P
+
+0x4D8
+Izumi「Kurumi... why are you calling him 'Makoto-kun'...?」%K%P
+
+0x4EC
+Kurumi「Huh? Did Kurumi say something weird?」%K%P
+
+0x4F8
+Kurumi「Makoto-kun's the same age as Kurumi, so it's fine, isn't it?」%K%P
+
+0x504
+Makoto「'The same age'...?」%K%P
+
+0x510
+Kurumi「After all, Kurumi's ... twenty years old.」%K%P
+
+0x524
+Kurumi「She'll turn 21 this year, so until then, she's the same age%Nas Makoto-kun, right?」%K%P
+
+0x540
+At that instant... time stops.%K%P
+
+0x54C
+My body is frozen all over, feeling like it could shatter at%Nany second.%K%P
+
+0x574
+(The scar on Kurumi's back... has disappeared...)%K%P
+
+0x580
+(Her age is twenty... and the shrine is gone...)%K%P
+
+0x58C
+(Kurumi's past... has changed...)%K%P
+
+0x598
+(The history where she was kidnapped... has been%Nerased...)%K%P
+
+0x5A4
+(In this history...)%K%P
+
+0x5B0
+(―Kurumi was never kidnapped!)%K%P
+
+0x5BC
+I take a deep breath, but I can't exhale.%K%P
+
+0x5C8
+To say nothing less of my voice, which also won't come%Nout.%K%P
+
+0x5D4
+(Then―what about Haruka!?)%K%P
+
+0x5E0
+(―What about Haruka's existence!?)%K%P
+
+0x5EC
+(If Kurumi wasn't kidnapped, then...)%K%P
+
+0x5F8
+(If that "three year blank" never happened, then...)%K%P
+
+0x604
+(―Does that mean that Haruka―doesn't exist in%Nthis history!?)%K%P
+
+0x618
+I break into a run.%K%P
+
+0x624
+I throw open the door to Haruka's room with all my%Nstrength.%K%P
+
+0x678
+On the bed is...%K%N
+
+0x684
+... Okuhiko?%K%P
+
+0x69C
+Okuhiko is sleeping on the bed, snoring slightly.%K%P
+
+0x6A8
+(Why is Okuhiko in a place like this!?)%K%P
+
+0x6B4
+But right now, I don't have time to think about that.%K%P
+
+0x6C0
+I look around the room, but there's no sign of Haruka.%K%P
+
+0x6CC
+I turn around, and run into Yuka's room.%K%P
+
+0x720
+The instant I open the door, my nose is assaulted by the%Nstench of alcohol.%K%P
+
+0x738
+Yuka「Zzz...」%K%P
+
+0x744
+Yuka is widely stretched out on the bed.%K%P
+
+0x750
+Besides her are several empty beer cans, scattered%Naround her.%K%P
+
+0x75C
+Haruka's not in this room either.%K%P
+
+0x7A4
+I return to the living room, and frantically search%Neverywhere in the lodge for clues.%K%P
+
+0x7B0
+I look in the bathroom, the restroom, the kitchen, and the%Nloft, but Haruka is nowhere to be found.%K%P
+
+0x7BC
+(It can't be... Haruka can't really be...)%K%P
+
+0x7C8
+I stand stock still, and turn towards the other two.%K%P
+
+0x7DC
+Izumi-san clearly has no idea what's going on.%K%P
+
+0x7E8
+Kurumi looks scared of me because of my frenzied state.%K%P
+
+0x7FC
+I grab Izumi-san's hand, and rush out of the lodge...%K%P
+
+0x8AC
+I run down the hill road, which has become so slippery%Nfrom the rain that it feels like I'm rolling down it.%K%P
+
+0x8CC
+Izumi「Makoto-kun! What's going on!?」%K%P
+
+0x8D8
+Izumi「If you don't properly explain, then I can't understand!」%K%P
+
+0x8E4
+I come to a halt, and firmly grab Izumi-san's shoulders.%K%P
+
+0x8F0
+Makoto「Haruka's... Haruka's... Haruka's...」%K%P
+
+0x914
+Izumi「Hey, calm down...」%K%P
+
+0x920
+Izumi「Just... what happened!?」%K%P
+
+0x92C
+Izumi-san's face is stiff from the extreme tension.%K%P
+
+0x938
+Makoto「The scar's... the scar's...」%K%P
+
+0x944
+Makoto「The scar on Kurumi's back has disappeared!」%K%P
+
+0x958
+Izumi-san is dumbfounded, her gaze piercing my eyes.%K%P
+
+0x964
+Makoto「There's no doubting it! I saw it with my own eyes!」%K%P
+
+0x970
+Makoto「There was no scar on Kurumi's back...」%K%P
+
+0x97C
+Makoto「It's all... my fault...」%K%P
+
+0x988
+Makoto「The disappearance of the bell, the disappearance of%Nthe cards, and the disappearance of the shrine.」%K%P
+
+0x994
+Makoto「It's all because of my thoughts...」%K%P
+
+0x9A0
+Izumi「Huh!? W-Wait a minute, Makoto-kun!」%K%P
+
+0x9BC
+Izumi「What do you mean by... 'the disappearance of the%Nshrine'?」%K%P
+
+0x9C8
+Makoto「I hid that from you... I didn't want to make you worried...」%K%P
+
+0x9DC
+Izumi「...?」%K%P
+
+0x9F0
+Izumi「What do you mean, 'the disappearance of the bell'?」%K%P
+
+0x9FC
+Izumi「What do you mean, 'the disappearance of the shrine'?」%K%P
+
+0xA08
+Makoto「I hid them from you... I didn't want to make you worried...」%K%P
+
+0xA1C
+Izumi「...?」%K%P
+
+0xA28
+Makoto「I found the bell on the night of the 1st...」%K%P
+
+0xA34
+Makoto「I found it on Moon Beach, just like last time, and tried to%Nsmash it with a piece of concrete...」%K%P
+
+0xA40
+Makoto「But... when I flipped the concrete over...」%K%P
+
+0xA4C
+Izumi「... The bell... disappeared?」%K%P
+
+0xA58
+Makoto「Yeah...」%K%P
+
+0xA64
+Izumi「The bell... disappeared...」%K%P
+
+0xA70
+Izumi-san repeats herself.%K%P
+
+0xA7C
+She vacantly stares into space, motionless like stone.%K%P
+
+0xA88
+Izumi「Then what about the 'disappearance of the shrine'!?」%K%P
+
+0xA94
+Makoto「This afternoon... I went... down the same road... up the%Nsame stone staircase...」%K%P
+
+0xAA8
+Izumi「You went―to the Shiki no Mori Shrine!?」%K%P
+
+0xAB4
+Makoto「―But it was gone!」%K%P
+
+0xAC0
+Makoto「There was no shrine there!」%K%P
+
+0xAE8
+The rain continues to fall.%K%P
+
+0xAF4
+The cold rain mercilessly strikes down on us, slowly%Nsapping away our warmth.%K%P
+
+0xB00
+Makoto「... I... I...」%K%P
+
+0xB0C
+Makoto「I firmly thought about how I wanted to destroy that bell...」%K%P
+
+0xB18
+Makoto「I firmly thought that 'I absolutely don't want to play%Ncards'...」%K%P
+
+0xB24
+Makoto「When I touched Kurumi's scar―I firmly thought%Nthat―'This thing should just disappear!'」%K%P
+
+0xB30
+Makoto「I think the shrine disappeared for the same reason...」%K%P
+
+0xB3C
+Makoto「In order to erase Kurumi's scar... in order to erase that%N'three year blank'...」%K%P
+
+0xB48
+Makoto「I erased the existence of the shrine from this history!」%K%P
+
+0xB54
+"If The Third Trait's been proven, then I can erase that%Nthree year blank from history."%K%P
+
+0xB60
+Makoto「You said something like that at the pool last night, didn't%Nyou?」%K%P
+
+0xB6C
+Makoto「And that's... how it is...」%K%P
+
+0xB78
+Makoto「Everything's... my fault...」%K%P
+
+0xB98
+Izumi「Then in this history, Kurumi wasn't kidnapped!?」%K%P
+
+0xBA4
+Makoto「Yeah... that's why she said she was 'twenty years old'...」%K%P
+
+0xBB0
+Makoto「Because the 'three year blank' disappeared...」%K%P
+
+0xBBC
+Makoto「No, to put it more accurately, the 'three year blank' was%Nburied!」%K%P
+
+0xBE0
+Izumi「Such... such a thing...」%K%P
+
+0xBEC
+Makoto「I don't want to believe it, but it's all the truth!」%K%P
+
+0xBF8
+Makoto「The bell disappeared, the shrine disappeared, the scar%Non Kurumi's scar disappeared...」%K%P
+
+0xC04
+Makoto「So the next thing that'll disappear is...」%K%P
+
+0xC18
+Izumi「―Haruka!?」%K%P
+
+0xC48
+We break off into a run again.%K%P
+
+0xC54
+We run as fast as we can, as if we're trying our hardest%Nto push our way through the pouring rain.%K%P
+
+0xC60
+The intense sound of the rainfall echoes in my trembling%Nchest...%K%P
+
+0xD08
+When we arrive at the coastline road, I speak to%NIzumi-san.%K%P
+
+0xD14
+Makoto「Izumi-san, you look around here! Check Princess Beach,%NViewpoint Park, Moon Beach...」%K%P
+
+0xD38
+Izumi「Yes, I understand...」%K%P
+
+0xD44
+Makoto「I'll go look around the harbor. I'm gonna borrow the bike%Nat the shop!」%K%P
+
+0xD50
+Izumi「Yes...」%K%P
+
+0xD5C
+Izumi-san gives a deep nod.%K%P
+
+0xD70
+With that, I start running to the east, while Izumi-san%Nstarts running to the west.%K%P
+
+0xDC4
+Filled with determination, I kick off the wet asphalt as I%Ncontinue to run east.%K%P
+
+0xDD0
+While running in the darkness, I stare straight ahead, but%Nbecause of the heavy downpour, my field of vision is%Nvery limited.%K%P
+
+0xDDC
+Makoto「HARUKAAA!」%K%P
+
+0xDE8
+I shout, but my voice is drowned out by the roaring of%Nthe rain.%K%P
+
+0xDF4
+Suddenly, I trip on the wet road, but I block my fall with a%Nhand.%K%P
+
+0xE00
+I quickly get back up and continue to run.%K%P
+
+0xE0C
+There are no gaps between the raindrops. It's as if I'm%Nrunning through a flooding river.%K%P
+
+0xE44
+I finally arrive at Lunabeach.%K%P
+
+0xE50
+But I have no time to catch my breath.%K%P
+
+0xE5C
+I jump onto the bike parked on the side, and pump the%Npedals with all my strength.%K%P
+
+0xE94
+I pierce through the raining, heavy darkness like a%Nspeeding bullet...%K%P
+
+0xEA0
+The large raindrops beat against my whole body.%K%P
+
+0xEAC
+(... Haruka...)%K%P
+
+0xEB8
+(... Where is Haruka... right now...)%K%P
+
+0xEF0
+(... She couldn't have really... disappeared, could she...?)%K%P
+
+0xEFC
+(... Does Haruka no longer... exist in this world...?)%K%P
+
+0xF34
+(―No, that's wrong!)%K%P
+
+0xF40
+(―I won't accept such a ridiculous thing!)%K%P
+
+0xF4C
+(―Haruka is definitely here!)%K%P
+
+0xF58
+(―She's definitely... somewhere!)%K%P
+
+0xF90
+I hit the brakes, and get off the bike.%K%P
+
+0xF9C
+I stand in the middle of the pier, and look around.%K%P
+
+0xFA8
+She's not here...%K%P
+
+0xFB4
+Haruka isn't here either...%K%P
+
+0xFC0
+The crashing waves become a black fog that envelops%Nmy body.%K%P
+
+0xFCC
+The roar of the billows of waves that feel like they could%Nshake the earth echoes in the rain.%K%P
+
+0x1030
+... ... ...%K%P
+
+0x10B8
+I get back on the bike, and go back on the road.%K%P
+
+0x10F0
+The shopping district is like a ghost town...%K%P
+
+0x1128
+Although the wet road makes me lose control of the%Nhandles, I keep pedaling with everything I've got...%K%P
+
+0x1160
+I plow through the coastline road.%K%P
+
+0x116C
+The piercing cold rain has numbed all sensation in my%Nlimbs.%K%P
+
+0x1178
+But my legs don't stop.%K%P
+
+0x1184
+I keep on pedaling with all my might even though I'm out of%Nbreath.%K%P
+
+0x11A0
+―Then all of sudden!%K%P
+
+0x11AC
+A sudden curve appears in front of me!%K%P
+
+0x11B8
+I slam on the bike's brakes, but it's too late.%K%P
+
+0x11C4
+The rear wheel slips on the wet asphalt, and my body%Ngoes dancing in midair.%K%P
+
+0x13E8
+I roll on the water...%K%N
+
+0x13F4
+Before long, I land face-up...%K%N
+
+0x1400
+My body stops...%K%P
+
+0x1418
+...%K%P
+
+0x148C
+The rain falls.%K%P
+
+0x1498
+It comes falling endlessly from the black sky.%K%P
+
+0x14A4
+My hot breaths turn white, floating in the air.%K%P
+
+0x14B0
+My back has frozen.%K%P
+
+0x14BC
+Haruka「Makoto...」%K%P
+
+0x14C8
+Makoto「...」%K%P
+
+0x14D4
+Haruka「Are you okay?」%K%P
+
+0x14E0
+Makoto「...」%K%P
+
+0x14EC
+As I lie sprawled out on the road, Haruka looks at me.%K%P
+
+0x14F8
+Makoto「... Haruka...」%K%P
+
+0x1504
+Haruka「... Hmm?」%K%P
+
+0x1510
+Makoto「... Haruka...」%K%P
+
+0x151C
+Haruka「... What?」%K%P
+
+0x1528
+Makoto「...」%K%P
+
+0x1534
+Haruka「...」%K%P
+
+0x1540
+Makoto「...」%K%P
+
+0x154C
+Haruka「...」%K%P
+
+0x1564
+Makoto「―H-HARUKA!!?」%K%P
+
+0x1570
+I spring up to my feet with a shout.%K%P
+
+0x1604
+Haruka「Wh-What's wrong, Makoto...?」%K%P
+
+0x1610
+I say nothing, and embrace Haruka.%K%P
+
+0x161C
+Haruka「Ma-Makoto...」%K%P
+
+0x1628
+My sudden action has left Haruka perplexed.%K%P
+
+0x1634
+I can hear the loud pounding of her heart in her chest.%K%P
+
+0x1640
+Haruka「H-Hey? Seriously... what's wrong?」%K%P
+
+0x164C
+Makoto「... No... it's nothing... it's nothing...」%K%P
+
+0x1658
+Makoto「It's just...」%K%P
+
+0x1664
+Makoto「I'm so happy...」%K%P
+
+0x1670
+Haruka「Huh?」%K%P
+
+0x167C
+Makoto「You're here...」%K%P
+
+0x1688
+Makoto「I'm so glad... that you're... here...」%K%P
+
+0x1694
+Our bodies are overlapping with each other...%K%P
+
+0x16A0
+I can feel warmth coming from Haruka's soaked body.%K%P
+
+0x16AC
+Haruka「I-I'm sorry... I don't really understand.」%K%P
+
+0x16B8
+Makoto「It's fine... it's all right if you don't understand...」%K%P
+
+0x16C4
+Makoto「All that matters... is that you're here...」%K%P
+
+0x16D0
+In my arms, the bewildered Haruka draws back a little.%K%P
+
+0x16DC
+I can feel her back faintly trembling.%K%P
+
+0x16E8
+Makoto「But what are you doing in a place like this? You don't%Neven have an umbrella...」%K%P
+
+0x16FC
+Haruka「Y-Yes...」%K%P
+
+0x1708
+Haruka「... Because I also... was happy...」%K%P
+
+0x1714
+Makoto「... Huh?」%K%P
+
+0x1720
+Haruka「... From... the rain...」%K%P
+
+0x1734
+Haruka says this, and looks up at the night sky.%K%P
+
+0x1740
+Her face is covered in transparent drops of water.%K%P
+
+0x174C
+A gentle smile rises to her face.%K%P
+
+0x1758
+In that instant, Haruka exudes a charming aura.%K%P
+
+0x176C
+Haruka「Makoto...」%K%P
+
+0x1778
+Haruka mutters this, and wraps her hand around my back.%K%P
+
+0x1784
+Haruka「Your chest... there's something mysterious about it...」%K%P
+
+0x1790
+Makoto「...」%K%P
+
+0x179C
+Haruka「It's warm... and gentle...」%K%P
+
+0x17A8
+Haruka「It feels like... I'm lightly floating...」%K%P
+
+0x17B4
+I gently stroke Haruka's wet hair with one hand.%K%P
+
+0x17C0
+Haruka glances up at my face...%K%P
+
+0x17CC
+She gives me an innocent, embarrassed smile.%K%P
+
+0x1834
+... ... ...%K%P
+
+0x18E4
+Haruka and I begin walking towards the west in the%Ndownpour.%K%P
+
+0x18F0
+Once Haruka goes back to the lodge, I have to look for%NIzumi-san...%K%P
+
+0x18FC
+Haruka enjoys bathing in the rain as I continue to push%Nthe bike.%K%P
+
+0x1908
+Before I know it, I've completely calmed down.%K%P
+
+0x1914
+But the moment I regain my cool, I feel pain in various%Nplaces over my body.%K%P
+
+0x1920
+It's probably because I fell from the bike earlier.%K%P
+
+0x192C
+In particular, I have throbbing pain on my right knee.%K%P
+
+0x1938
+Suddenly, I decide to look there...%K%P
+
+0x1950
+(Ugh...)%K%P
+
+0x195C
+My pants have torn at the knees, and I can see fresh%Nred blood gushing out of it.%K%P
+
+0x1968
+Makoto「Say, Haruka? Could you hold on to the bike for a minute?」%K%P
+
+0x198C
+Haruka「Huh?」%K%P
+
+0x1998
+Makoto「It seems I completely scraped my knee...」%K%P
+
+0x19AC
+Haruka「You're right...」%K%P
+
+0x19B8
+Haruka is firmly staring at my right knee.%K%P
+
+0x19C4
+I entrust the bike to Haruka, and try to check my wounds.%K%P
+
+0x19E0
+However...%K%P
+
+0x1A10
+The bike... falls...%K%P
+
+0x1A30
+Haruka「H-Huh?」%K%P
+
+0x1A3C
+Haruka「My hand seems to have slipped...」%K%P
+
+0x1A48
+Her hands slipped...%K%P
+
+0x1A54
+That's not what it looked like to me.%K%P
+
+0x1A60
+... What I did see...%K%P
+
+0x1A6C
+... when I entrusted the bike to Haruka...%K%N
+
+0x1A78
+... were the handles...%K%N
+
+0x1A84
+... apparently slipping right through...%K%N
+
+0x1A90
+... Haruka's hands...%K%P
+
+0x1A9C
+Haruka slowly bends over, and tries to pick up the bike.%K%P
+
+0x1B18
+The pouring rain looks like it's beginning to be soaked up%Nby Haruka's back.%K%P
+
+0x1B24
+Her figure looks like it's beginning to fade into the white%Nmist.%K%P
+
+0x1B30
+Makoto「... Ha... Haruka...」%K%P
+
+0x1B3C
+I gently stretch my hand out to try to touch her back.%K%P
+
+0x1B54
+―However!%K%P
+
+0x1B68
+Haruka「Ah!」%K%P
+
+0x1B8C
+Haruka gasps, and suddenly runs to the east.%K%P
+
+0x1B98
+My palm is left in midair, grasping at empty space.%K%P
+
+0x1BA4
+Haruka's back gradually gets farther and farther away...%K%P
+
+0x1BB0
+... Haruka's... back...%K%P
+
+0x1BBC
+Makoto「Haruka!」%K%P
+
+0x1BC8
+I chase after Haruka, running as fast as I can...%K%P
+
+0x1BD4
+Haruka has stopped in the middle of the street,%Ncrouched over, trying to hold something in her arms.%K%P
+
+0x1C6C
+―It's Izumi-san!!%K%P
+
+0x1C78
+Izumi-san is collapsed on the wet road, completely limp.%K%P
+
+0x1C84
+I quickly run over to them.%K%P
+
+0x1C90
+I lift Izumi-san up into my arms, and shake her body.%K%P
+
+0x1C9C
+Makoto「Izumi-san! Izumi-san!」%K%P
+
+0x1CA8
+Izumi「...」%K%P
+
+0x1CB4
+Izumi-san has completely lost consciousness.%K%P
+
+0x1CC0
+Her body is burning hot.%K%P
+
+0x1CCC
+Her temperature is extremely high...%K%P
+
+0x1CD8
+(I've got to get Izumi-san back to the lodge...)%K%P
+
+0x1CF4
+Just as I try to stand up!%K%P
+
+0x1D74
+―A white light shines from down the road!%K%P
+
+0x1D9C
+It's the headlights of a car...%K%P
+
+0x1DA8
+I see a bright red car coming this way from the other%Nside of the curve, driving extremely fast.%K%P
+
+0x1DE4
+(―At this rate, Izumi-san will...!!!)%K
+
+0x3E50
+Take Izumi-san to the edge of the street!
+
+0x3E5C
+Stop the car!
+
+0x1E44
+(―At this rate, Izumi-san will...!!!)%K%P
+
+0x1E50
+I put my hands around Izumi-san's sides, and lift her%Nbody up.%K%P
+
+0x1E5C
+I try dragging her body to the edge of the road...%K%P
+
+0x2064
+... But I trip on something, and fall flat on the ground.%K%P
+
+0x2070
+Lying by my feet is that "fragment of concrete"...%K%P
+
+0x207C
+Makoto「!」%K%P
+
+0x2088
+I don't have time to speak.%K
+
+0x3E68
+I've got to move her!
+
+0x3E74
+Think of another way.
+
+0x20C8
+(... There must... there must be another way!)%K%P
+
+0x20D4
+My thoughts instantly begins to kick into high gear.%K%P
+
+0x20E0
+The car gets closer and closer.%K%P
+
+0x20EC
+It's moving as fast as a bolt of lightning.%K%P
+
+0x20F8
+(―Calm down! ―Calm down and think!)%K%P
+
+0x2104
+―And as soon as I think that!%K%P
+
+0x2118
+(―At this rate, Izumi-san will...!!!)%K%P
+
+0x2124
+I put my hands around Izumi-san's sides, and lift her%Nbody up.%K%P
+
+0x2130
+I try dragging her body to the edge of the road...%K%P
+
+0x2338
+... But I trip on something, and fall flat on the ground.%K%P
+
+0x2344
+Lying by my feet is that "fragment of concrete"...%K%P
+
+0x2350
+Makoto「!」%K%P
+
+0x235C
+I don't have time to speak.%K%P
+
+0x2368
+The car gets closer and closer.%K%P
+
+0x2374
+It's moving as fast as a bolt of lightning.%K%P
+
+0x2380
+(―Calm down! ―Calm down and think!)%K%P
+
+0x238C
+―And as soon as I think that!%K%P
+
+0x2398
+Haruka rushes out in the middle of the road!%K%P
+
+0x23A4
+She waves her hands widely as she boldly blocks the%Npath of the car!%K%P
+
+0x23CC
+Finally noticing her, the driver quickly slams the brakes.%K%P
+
+0x23D8
+The tires screech.%K%P
+
+0x23E4
+The car slides on the wet road...%K%P
+
+0x23F0
+It still hasn't slowed down.%K%P
+
+0x2408
+Haruka, standing in a spread-eagle position, is still%Nwaving her arms...%K%P
+
+0x2414
+Through the openings in her body, I see the red car is%Nstill approaching.%K%P
+
+0x2420
+Makoto「―Haruka!」%K%P
+
+0x2498
+Right then―%T030an unbelievable scene occurs%Nbefore my eyes.%K%P
+
+0x24A4
+Haruka's body is swallowed up into the body of the car.%K%P
+
+0x24B0
+It's as if she was a mirage... As if she was an illusion...%K%P
+
+0x24BC
+The car slips right through Haruka's body!%K%P
+
+0x251C
+The car approaches us with great speed...%K%P
+
+0x2528
+The lump of iron swoops down on us!%K%P
+
+0x25E4
+I'm hit with an impact so strong it feels like it could break%Nmy back...%K%P
+
+0x25F0
+My body is sent flying high in the air.%K%P
+
+0x25FC
+Izumi-san's body is lying on the road like a puppet%Nwhose strings have been cut.%K%P
+
+0x2608
+... ...%K%P
+
+0x265C
+Makoto「Haruka! I'll leave Izumi-san to you!」%K%P
+
+0x2668
+The instant I make my decision, I entrust Izumi-san to%NHaruka, and rush out into the middle of the road.%K%P
+
+0x2674
+"No matter what happens, I will protect Izumi-san to the%Nend!"%K%P
+
+0x2680
+(... Even if... it costs me my life...)%K%P
+
+0x268C
+I boldly block the path of the car.%K%P
+
+0x2698
+I wave my arms widely in order to catch the driver's%Nattention and alert them to the danger.%K%P
+
+0x26A4
+The car gets closer and closer.%K%P
+
+0x26B0
+It's moving as fast as a bolt of lightning.%K%P
+
+0x26D8
+Finally noticing me, the driver quickly slams the brakes.%K%P
+
+0x26E4
+The tires screech.%K%P
+
+0x26F0
+The car slides on the wet road...%K%P
+
+0x26FC
+It still hasn't slowed down.%K%P
+
+0x2714
+The body of the car before my eyes approaches me.%K%P
+
+0x2720
+As I stand in a spread-eagle position, I continue to%Nwidely wave my arms.%K%P
+
+0x27DC
+When I come to my senses, I'm dancing in midair.%K%P
+
+0x27E8
+The black, shiny road seems so distant.%K%P
+
+0x27F4
+Large raindrops are floating in the air.%K%P
+
+0x2800
+...%K%P
+
+0x2A78
+I fall onto the ground, crashing into it with enough force%Nto break my bones.%K%P
+
+0x2A90
+...%K%P
+
+0x2AB8
+Strangely, there's no pain...%K%P
+
+0x2AC4
+It's not just pain; I've lost all sensation throughout my%Nentire body.%K%P
+
+0x2AD0
+I try to stand up, but I'm not sure where or how to put%Nstrength in my body.%K%P
+
+0x2ADC
+I just barely manage to move my head.%K%P
+
+0x2AE8
+I can see bright red brake lights on from behind me.%K%P
+
+0x2AF4
+(That's right...)%K%P
+
+0x2B00
+(Izumi-san...)%K%P
+
+0x2B0C
+(Izumi-san's...)%K%P
+
+0x2B18
+I instinctively stagger to my feet.%K%P
+
+0x2B24
+I begin to walk towards the car while tottering.%K%P
+
+0x2B30
+It's a strange feeling, like I'm walking on air.%K%P
+
+0x2B48
+Soon enough...%K%P
+
+0x2B5C
+Haruka「―M-Makoto!? ―Are you okay!?」%K%P
+
+0x2B68
+... I finally reach the two of them.%K%P
+
+0x2B74
+Haruka is sitting on the road, firmly holding Izumi-san in%Nher arms.%K%P
+
+0x2B90
+Haruka was trying to protect Izumi-san, with her back%Nfacing the car.%K%P
+
+0x2B9C
+There's only a mere 10 cm between Haruka's back and%Nthe car's bumper...%K%P
+
+0x2BA8
+I breathe a sigh of relief.%K%P
+
+0x2BB4
+Makoto「So... now what?」%K%P
+
+0x2BC0
+Haruka「Huh!?」%K%P
+
+0x2BD4
+Haruka「'Now what'... Makoto, are you really okay!?」%K%P
+
+0x2BE0
+Makoto「Yeah... this... is nothing...」%K%P
+
+0x2BEC
+Makoto「My knees... are even more scraped now, though...」%K%P
+
+0x2BF8
+Haruka looks up at my face with concern.%K%P
+
+0x2C04
+Just then...%K%P
+
+0x2C10
+Izumi「M-Mmm...」%K%P
+
+0x2C38
+Izumi-san slowly opens her eyes.%K%P
+
+0x2C44
+Izumi「... Ah... Haruka...」%K%P
+
+0x2C58
+Haruka「Onee-chan! Onee-chan! Hang in there!」%K%P
+
+0x2C64
+―What!? ―Onee-chan!?%K%P
+
+0x2C70
+Izumi「I'm all right... I'm all right, Haruka...」%K%P
+
+0x2C7C
+Izumi「This is no big deal... at all...」%K%P
+
+0x2C88
+Haruka「But you've got this high fever...」%K%P
+
+0x2C94
+Izumi「... Fever? ... I don't have... a fever...」%K%P
+
+0x2CA0
+Izumi「I'm just hot... from running for a bit...」%K%P
+
+0x2CAC
+Haruka「Why!?」%K%P
+
+0x2CB8
+Haruka「What are you doing here, Onee-chan!?」%K%P
+
+0x2CD4
+Izumi「Because... I was worried...」%K%P
+
+0x2CE8
+Izumi「... About you... Haruka...」%K%P
+
+0x2CF4
+Izumi-san cries in the downpour.%K%P
+
+0x2D00
+Endless tears are overflowing out of her vacant eyes.%K%P
+
+0x2D0C
+Her tears sometimes dissolve in the rain...%K%P
+
+0x2D28
+Haruka「... Onee-chan...」%K%P
+
+0x2D34
+Haruka wipes the tears off Izumi-san's cheek with her%Npalm.%K%P
+
+0x2D40
+Her touch is soft and kind...%K%P
+
+0x2D54
+The two of them are wrapped up in the clean,%Ntransparent raindrops.%K%P
+
+0x2D7C
+The car door opens.%K%P
+
+0x2D94
+The driver hesitantly walks over to me.%K%P
+
+0x2DA0
+Driver「Umm... Err...」%K%P
+
+0x2DAC
+Driver「... Are you... all right?」%K%P
+
+0x2DB8
+I silently reach my hand out to give him a pat on the%Nshoulder.%K%P
+
+0x2DC4
+He gets flustered, and awkwardly averts his gaze as he%Nmoves back.%K%P
+
+0x2DD0
+He looks over at the other two, who are embracing...%K%P
+
+0x2DDC
+The rain gracefully falls.%K%P
+
+0x2DE8
+It's as if it's also embracing them, softly and gently...%K%P
+
+0x2E1C
+Makoto「... H... Huh...?」%K%P
+
+0x2E28
+Makoto「... That's... strange...」%K%P
+
+0x2E34
+Makoto「... My... vision's...」%K%P
+
+0x2E40
+Makoto「... becoming... blurry...」%K%P
+
+0x2E4C
+―Suddenly, I lose my strength.%K%P
+
+0x3054
+My knees give way, and I fall to the asphalt.%K%P
+
+0x3060
+Haruka「―Makoto!」%K%P
+
+0x306C
+Izumi「... Makoto-kun!」%K%P
+
+0x3078
+Their voices sound distant.%K%P
+
+0x3084
+(... But... I'm glad...)%K%P
+
+0x3090
+(... Everything's... turned out well...)%K%P
+
+0x309C
+(... I... was able...)%K%P
+
+0x30A8
+(... to... protect... Izumi... san...)%K%P
+
+0x3130
+My vague consciousness is fading... Everything before%Nme begins to turn white...%K%P
+
+0x313C
+I can vaguely see something faint...%K%P
+
+0x3148
+There's that fragment... of concrete...%K%P
+
+0x3154
+And beyond it... I see a coldly shining... silver... light...%K%P
+
+0x3160
+(... What the... Tha...t's...)%K%P
+
+0x316C
+In that instant, my consciousness fades...%K%P
+
+0x31C0
+"No matter what happens, I will protect Izumi-san until the%Nend!"%K%P
+
+0x31CC
+I stand up again.%K%P
+
+0x31D8
+With my feet firmly on the ground, I pick up Izumi-san's%Nbody.%K%P
+
+0x31E4
+The car is getting closer and closer.%K%P
+
+0x31F0
+It's moving as fast as a bolt of lightning.%K%P
+
+0x31FC
+(―This is bad!)%K%P
+
+0x3208
+―The instant I think that!%K%P
+
+0x3214
+Haruka rushes out in the middle of the road!%K%P
+
+0x3220
+She waves her hands widely as she boldly blocks the%Npath of the car!%K%P
+
+0x3248
+Finally noticing her, the driver quickly slams the brakes.%K%P
+
+0x3254
+The tires screech.%K%P
+
+0x3260
+The car slides on the wet road...%K%P
+
+0x326C
+It still hasn't slowed down.%K%P
+
+0x3284
+Haruka, standing in a spread-eagle position, is still%Nwaving her arms...%K%P
+
+0x3290
+Through the openings in her body, I see the red car is%Nstill approaching.%K%P
+
+0x329C
+Makoto「―Haruka!」%K%P
+
+0x3314
+Right then―an unbelievable scene occurs before my%Neyes.%K%P
+
+0x3320
+Haruka's body is swallowed up into the body of the car.%K%P
+
+0x332C
+It's as if she was a mirage... As if she was an illusion...%K%P
+
+0x3338
+The car slips right through Haruka's body!%K%P
+
+0x3398
+The car approaches us with great speed...%K%P
+
+0x33A4
+The lump of iron swoops down on us!%K%P
+
+0x33B0
+(If nothing else, I have to at least save Izumi-san's life!)%K%P
+
+0x33BC
+―In that instant, I kick off the ground with all the%Nstrength I have!%K%P
+
+0x3478
+The car smashes right into my flank with enough force to%Nbreak it...%K%P
+
+0x3484
+My body is sent flying forward...%K%P
+
+0x3490
+But I don't dare let go of Izumi-san...%K%P
+
+0x349C
+I firmly embrace her body...%K%P
+
+0x34A8
+Doing my best to protect her, I land on my back...%K%P
+
+0x3730
+I receive the full impact of the crash...%K%P
+
+0x373C
+... ...%K%P
+
+0x3764
+Strangely, there's no pain...%K%P
+
+0x3770
+It's not just pain; I've lost all sensation throughout my%Nentire body.%K%P
+
+0x377C
+I try to stand up, but I'm not sure where or how to put%Nstrength in my body.%K%P
+
+0x3788
+My body is lying face up... On top of me is Izumi-san.%K%P
+
+0x379C
+Izumi「... Ma-Makoto-kun!」%K%P
+
+0x37A8
+Izumi-san puts her hands on the road, and looks at my%Nface.%K%P
+
+0x37B4
+From her expression and tear-choked voice, I can tell%Nthat Izumi-san is all right.%K%P
+
+0x37C0
+(... I... Izumi-san...)%K%P
+
+0x37CC
+I try to mutter this...%K%P
+
+0x37D8
+But instead of words coming out of my mouth...%Noverflowing blood comes out instead.%K%P
+
+0x37E4
+It flows from my mouth and begins to dissolve in the%Nwater...%K%P
+
+0x37F0
+I try to crawl over to Izumi-san's side, as if my body's not%Nlistening to what it's being told.%K%P
+
+0x3804
+Izumi「Makoto-kun! Makoto-kun!」%K%P
+
+0x3810
+Izumi「Hang in there, Makoto-kun!」%K%P
+
+0x381C
+Makoto「...」%K%P
+
+0x3850
+Izumi「Why... Why...」%K%P
+
+0x385C
+Izumi「Why did you... protect me...?」%K%P
+
+0x3868
+Makoto「... Because...」%K%P
+
+0x3874
+Makoto「... I...」%K%P
+
+0x3880
+Makoto「... love%T030... yo%T015... u...」%K%P
+
+0x38A4
+Izumi「No! I don't want this!」%K%P
+
+0x38B0
+Izumi「... Makoto-kun... you can't die...」%K%P
+
+0x38BC
+Izumi「―Because I love you!」%K%P
+
+0x38C8
+Izumi「Because I love you too, Makoto-kun!」%K%P
+
+0x38D4
+Her voice... sounds distant...%K%P
+
+0x393C
+My vague consciousness is fading... Everything before%Nme is begininng to turn white...%K%P
+
+0x3948
+I slowly... close my eyes...%K%P
+
+0x3954
+(... But... I'm glad...)%K%P
+
+0x3960
+(... I... was able...)%K%P
+
+0x396C
+(... to protect Izumi-san... until the... end...)%K%P
+
+0x3978
+In that instant, my consciousness suddenly ceases...%K%P
+

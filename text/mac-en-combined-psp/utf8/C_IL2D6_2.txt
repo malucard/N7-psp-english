@@ -1,0 +1,711 @@
+text area offset and size:
+0x13C8
+0x2B85
+0x7C
+Izumi「Makoto-kun? Makoto-kun?」%K%P
+
+0x88
+Makoto「... Huh? Wh-What?」%K%P
+
+0x94
+Izumi「Are you really okay?」%K%P
+
+0xA0
+Makoto「Yeah... umm, what were we talking about?」%K%P
+
+0xB4
+Izumi「―Star sand!」%K%P
+
+0xC0
+Izumi「We were talking about the 'star sand' Haruka gave me%Nthis afternoon!」%K%P
+
+0xCC
+Makoto「Ah, I see... Haruka's star sand...」%K%P
+
+0xD8
+(... Haruka's...?)%K%P
+
+0xE4
+Makoto「Ha ha ha...」%K%P
+
+0xF0
+For now, I fake a laugh...%K%N
+
+0xFC
+... or at least, I'd planned to.%K%P
+
+0x110
+Izumi「Shall I pull on your face?」%K%P
+
+0x11C
+Izumi-san pinches my cheek with the fingers on her right%Nhand as she says this.%K%P
+
+0x138
+Her fingers are thin and flexible...%K%N
+
+0x144
+There is a gentle warmth coming from them...%K%N
+
+0x150
+Warmth...%K%P
+
+0x188
+Izumi「Don't forget this warmth, all right?」%K%P
+
+0x194
+Izumi「Don't forget... my existence, okay?」%K%P
+
+0x1C4
+(That's right...)%K%P
+
+0x1D0
+(Why the hell have I been thinking about all of this stupid%Ncrap...?)%K%P
+
+0x1DC
+("I believe in Izumi-san's warmth"...)%K%P
+
+0x1E8
+("I'll always be by Izumi-san's side"...)%K%P
+
+0x1F4
+(―I swore those things, didn't I?!)%K%P
+
+0x200
+Izumi-san is right here!%K%P
+
+0x20C
+She's looking at me with that kind and gentle gaze!%K%P
+
+0x218
+The warmth of her fingertips reaches my heart.%K%P
+
+0x224
+All this delusion crap is pointless...%K%P
+
+0x230
+No, those things no longer matter to me...%K%P
+
+0x23C
+There's no need to think about them!%K%P
+
+0x248
+I just need to settle things with Izumi-san!%K%P
+
+0x254
+Makoto「―Izumi-san!」%K%P
+
+0x268
+Izumi「... Huh!?」%K%P
+
+0x274
+I firmly take the hand she was pinching my cheek with.%K%P
+
+0x280
+Makoto「Let's go!」%K%P
+
+0x28C
+Izumi「G-Go... where?」%K%P
+
+0x298
+I say nothing, and stand up.%K%P
+
+0x2EC
+I tug Izumi-san's hand, and forcefully begin walking.%K%P
+
+0x30C
+Izumi「M-Makoto-kun...」%K%P
+
+0x35C
+Izumi「Hey, just where... do you plan on going?」%K%P
+
+0x368
+Makoto「...」%K%P
+
+0x37C
+I silently continue walking.%K%P
+
+0x388
+There is no moon or stars in the night sky tonight, and%Nthe darkness is as thick as snow.%K%P
+
+0x394
+I steadily advance as if I'm cutting down the darkness.%K%P
+
+0x3A0
+A slightly tingling sensation comes from my palm...%K%P
+
+0x3AC
+It's Izumi-san's gentle warmth, which passes into through%Nme...%K%P
+
+0x404
+Izumi「Princess Beach...」%K%P
+
+0x410
+Izumi-san lets go of my hand, and turns towards me.%K%P
+
+0x424
+Izumi「Makoto-kun... why... did we come here?」%K%P
+
+0x44C
+We can hear the sound of the waves breaking against%Nthe rock walls.%K%P
+
+0x458
+The white sand at the shore has hardened from the%Nwaves.%K%P
+
+0x464
+I kick away the sand at my feet with my toes several%Ntimes.%K%P
+
+0x470
+Izumi-san is patiently waiting for my reply.%K%P
+
+0x488
+Makoto「Izumi-san...」%K%P
+
+0x494
+Makoto「There's something I have to tell you.」%K%P
+
+0x4A0
+Izumi「...」%K%P
+
+0x4BC
+Makoto「Right now...」%K%P
+
+0x4C8
+Makoto「I have my response to the words you said that day,%Nunder the starry sky.」%K%P
+
+0x4D4
+Makoto「Right here... right now...」%K%P
+
+0x4E0
+Izumi-san furrows her eyebrows tightly.%K%P
+
+0x4EC
+She bites down on her lip.%K%P
+
+0x4F8
+Her gaze loses its calm, and sways back and forth.%K%P
+
+0x504
+Makoto「I...」%K%P
+
+0x510
+Makoto「I also...」%K%P
+
+0x51C
+Makoto「Izumi-san... all this time, I've-」%K%P
+
+0x54C
+Just then, all of the sudden....%K%N
+
+0x558
+Izumi-san quickly stretches out her index finger and%Nplaces it over my lips.%K%P
+
+0x56C
+Izumi「No...」%K%P
+
+0x578
+Izumi「Don't say... any more...」%K%P
+
+0x584
+Makoto「...」%K%P
+
+0x590
+Izumi「I don't want to hear it...」%K%P
+
+0x5A4
+Izumi「Because it'll make me sad...」%K%P
+
+0x5B0
+Makoto「...」%K%P
+
+0x5BC
+Izumi「Please...」%K%P
+
+0x5C8
+Izumi「Don't condemn me...」%K%P
+
+0x5D4
+Izumi「... any further...」%K%P
+
+0x5E8
+As she says this, Izumi-san pulls back her finger.%K%P
+
+0x618
+She slowly turns around, and walks on the beach.%K%P
+
+0x624
+She takes off her shoes while walking, and goes%Nbarefoot.%K%P
+
+0x630
+She gently places her feet in the waves that are%Nwashing ashore.%K%P
+
+0x63C
+I can see her back as she quietly stands on the beach...%K%P
+
+0x648
+Her thin shoulders are moving slightly...%K%P
+
+0x654
+Izumi-san bends over, and brings her hands to her feet,%Nstill in the waves.%K%P
+
+0x660
+Water begins to spill out from her palms...%K%P
+
+0x678
+Izumi「... Ah...」%K%P
+
+0x684
+I hear her faint voice in between the sound of the waves.%K%P
+
+0x690
+Izumi「Makoto-kun... look.」%K%P
+
+0x69C
+She extends her palm towards me.%K%P
+
+0x6A8
+I walk over to her as if she's guiding me.%K%P
+
+0x6C4
+Izumi「I found one...」%K%P
+
+0x6D0
+Izumi「... A star sand...」%K%P
+
+0x6DC
+Looking closely, I see a pure white grain of sand on her%Nwet palm.%K%P
+
+0x6E8
+It's in the shape of shining star... It's like Leo...%K%P
+
+0x6F4
+Izumi-san closes the hand with the "star sand" in it, and%Nuses her other hand to search through her pocket.%K%P
+
+0x700
+The thing she takes out is as big as her thumb...%K%P
+
+0x714
+―A small glass bottle.%K%N
+
+0x720
+Inside, there are two small stars shining.%K%P
+
+0x72C
+Makoto「... Two of them?」%K%P
+
+0x76C
+Izumi「Makoto-kun... so you really weren't listening.」%K%P
+
+0x778
+Makoto「...?」%K%P
+
+0x784
+Izumi「This afternoon, Haruka gave one to me...」%K%P
+
+0x790
+Izumi「It washed up at the pier in the harbor...」%K%P
+
+0x79C
+Izumi「It's just a small grain...」%K%P
+
+0x7A8
+Izumi-san takes the cork off the small bottle, and puts%Nthe "star sand" she just picked up into it.%K%P
+
+0x7B4
+The grain of sand sinks to the bottom of the bottle%Ntogether with the other small grains in Izumi-san's hand.%K%P
+
+0x808
+―The three grains of stars...%K%P
+
+0x814
+The star sand that Kurumi picked up...%K%N
+
+0x820
+The star sand that Haruka picked up...%K%N
+
+0x82C
+The star sand that Izumi-san picked up...%K%P
+
+0x838
+The three stars, huddled close to each other, shine%Nbrightly in the blue, transparent water.%K%P
+
+0x8C0
+Something cold hits my forehead.%K%P
+
+0x8CC
+When I look up, I see rain falling from the sky.%K%P
+
+0x8E0
+Izumi「Rain...」%K%P
+
+0x8EC
+Izumi-san mutters this, and looks up at the sky.%K%P
+
+0x8F8
+The raindrops are small, like powdered snow.%K%P
+
+0x90C
+Izumi「Rain, huh...」%K%P
+
+0x918
+She softly closes her eyes, and bathes her whole body%Nin the raindrops.%K%P
+
+0x924
+The pouring rain makes her body look like it's almost%Nglowing.%K%P
+
+0x930
+I've reached my limit.%K%P
+
+0x93C
+Seeing her beautiful figure clad in water has made my%Nheart restless.%K%P
+
+0x948
+Makoto「Izumi-san... I-」%K%P
+
+0x954
+My words spontaneously flow out.%K%P
+
+0x968
+Izumi-san reaches out her finger again, and tries to%Ncover my mouth.%K%P
+
+0x974
+Makoto「Izumi-san!」%K%P
+
+0x988
+I grab Izumi-san's wrist, and embrace her.%K%P
+
+0x994
+Makoto「―I love you!」%K%P
+
+0x9A0
+Makoto「―I've loved you all this time!」%K%P
+
+0x9AC
+Izumi「... Why...?」%K%P
+
+0x9B8
+Izumi「... Why are you saying that...?」%K%P
+
+0x9C4
+Her lips are pressed against my chest...%K%P
+
+0x9D0
+Her voice echoes within my body.%K%P
+
+0x9DC
+Izumi「... Even though I didn't want to hear it...」%K%P
+
+0x9E8
+Izumi「... Even though... I'd already given up...」%K%P
+
+0x9F4
+Izumi「Even though...」%K%P
+
+0xA00
+Izumi「... I don't have the qualifications to answer your feelings!」%K%P
+
+0xA0C
+Her voice is trembling...%K%P
+
+0xA18
+Her breathing is ragged and hot...%K%P
+
+0xA24
+Her thin shoulders are shaking unsteadily...%K%P
+
+0xA30
+Izumi-san is crying in my chest...%K%P
+
+0xA3C
+Izumi「... Makoto-kun ... I was the one who got you caught up in%Nall of this... It's all my fault.」%K%P
+
+0xA48
+Izumi「... Ever since this worthless experiment began... I've%Nbeen... deceiving you...」%K%P
+
+0xA54
+Izumi「... And in the end... at that cliff... you...」%K%P
+
+0xA60
+Makoto「You're wrong!」%K%P
+
+0xA6C
+Makoto「You're wrong, Izumi-san!」%K%P
+
+0xA78
+Makoto「That was my fault!」%K%P
+
+0xA84
+Makoto「It was because I couldn't save you!」%K%P
+
+0xA90
+Izumi「―Stop!」%K%P
+
+0xA9C
+Makoto「I don't want to see you sad anymore!」%K%P
+
+0xAA8
+Makoto「No matter what happens, I will protect you until the end!」%K%P
+
+0xAB4
+Makoto「―Because I love you!」%K%P
+
+0xAC0
+Makoto「―Because I love you more than anyone else!」%K%P
+
+0xACC
+Izumi「Stop it already!」%K%P
+
+0xAD8
+Izumi「Stop talking...」%K%P
+
+0xAE4
+Izumi「Please... stop...」%K%P
+
+0xAF0
+Izumi「Don't say... another word...」%K%P
+
+0xAFC
+Izumi-san struggles as she tries to break free from me.%K%P
+
+0xB08
+I tightly hold on to her, accepting all of Izumi-san.%K%P
+
+0xB14
+Izumi「... Let me go...」%K%P
+
+0xB20
+Izumi「... Let me go... Let me go...」%K%P
+
+0xB2C
+Makoto「How many times do I have to tell you...?」%K%P
+
+0xB38
+Makoto「I'll say it over and over again... until you understand...」%K%P
+
+0xB44
+Makoto「Izumi-san... I lo-」%K%P
+
+0xB50
+Izumi「... Just... stop it...」%K%P
+
+0xBA8
+My mouth... is blocked up...%K%N
+
+0xBB4
+... by Izumi-san's wet lips...%K%P
+
+0xBC0
+The tip of her nose brushes against my cheek.%K%N
+
+0xBCC
+She brushes the nape of my neck with her soft palm.%K%P
+
+0xBD8
+Cold raindrops flow into and dissolve in my mouth.%K%N
+
+0xBE4
+Our two bodies, drenched with water, become one.%K%P
+
+0xBF0
+Izumi-san's heartbeat overlaps with the loud echo of my%Nown.%K%P
+
+0xBFC
+My body is boiling with heat...%K%N
+
+0xC08
+Her warmth is scorching my chest.%K%P
+
+0xC14
+―Warmth...%K%N
+
+0xC20
+―The proof that we're right here, right now.%K%P
+
+0xC2C
+I hold her tightly in my arms, something I've waited too%Nlong to do.%K%P
+
+0xC38
+Izumi-san's breaths are short and hot as she presses%Nher lips against mine.%K%P
+
+0xC44
+It's as if we're confirming each other's existences...%K%P
+
+0xC50
+To prove that we won't disappear...%K%P
+
+0xC5C
+"Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love."%K%P
+
+0xC68
+Right now... we're...%K%N
+
+0xC74
+―carrying out our feelings.%K%P
+
+0xCBC
+... ... ...%K%P
+
+0xCFC
+We part our lips, but continue to embrace each other.%K%P
+
+0xD08
+Our bodies become drenched as the rain intensifies.%K%P
+
+0xD14
+Izumi-san buries her face in my chest as she closes her%Nsleepy eyes.%K%P
+
+0xD20
+Her gently repeated breaths are calm, as if she were%Nsleeping.%K%P
+
+0xD2C
+Izumi「Makoto-kun...」%K%P
+
+0xD38
+Izumi-san quietly opens her eyes.%K%P
+
+0xD44
+Izumi「I'll... give this to you...」%K%P
+
+0xD50
+She opens her palm in the space between us while%Nbending her stiff arms.%K%P
+
+0xD64
+―It's the small glass bottle.%K%N
+
+0xD70
+The one with the three stars inside.%K%P
+
+0xD84
+Makoto「Why... are you giving me something that's so precious to%Nyou...?」%K%P
+
+0xD90
+Izumi「I'm giving it to you because it's precious...」%K%P
+
+0xD9C
+Izumi「I want you to take this...」%K%P
+
+0xDA8
+Makoto「...」%K%P
+
+0xDB4
+Izumi「When I'm in your arms like this, I get the same feeling as I%Ndo in at those times...」%K%P
+
+0xDC0
+Izumi「When I'm floating on the water calmly and leisurely...」%K%P
+
+0xDCC
+Izumi「It's like I'm being wrapped up in your kindness...」%K%P
+
+0xDD8
+Makoto「...」%K%P
+
+0xDE4
+Izumi「... So... take it.」%K%P
+
+0xDF0
+Izumi「My precious... memory...」%K%P
+
+0xDFC
+I move one of my arms that's wrapped around%NIzumi-san's back away from her.%K%P
+
+0xE08
+Izumi-san places the small bottle in my palm.%K%P
+
+0xE14
+The three stars in my hand... emit a white radiance...%K%P
+
+0xE5C
+... ... ...%K%P
+
+0xF20
+We leave Princess Beach, and walk for a short bit on the%Ncoastline road.%K%P
+
+0xF2C
+I stop at the base of the hill road that leads to the lodge.%K%P
+
+0xF38
+Makoto「I'm soaked, and I didn't bring a change of clothes, so...」%K%P
+
+0xF44
+Makoto「Why don't you go on ahead back to Lunabeach?」%K%P
+
+0xF58
+The instant I say this, an uneasy expression forms on%NIzumi-san's face.%K%P
+
+0xF64
+Makoto「It's all right! I'll be back soon!」%K%P
+
+0xF70
+Izumi「Huuh～? ... I don't want to...」%K%P
+
+0xF7C
+Makoto「Why not?」%K%P
+
+0xF90
+Izumi「Because... I want to be by your side♪」%K%P
+
+0xF9C
+Izumi「I'll go to the lodge with you♪」%K%P
+
+0xFB0
+Izumi-san says this, and lunges for my arm.%K%P
+
+0xFBC
+Our soaked arms are now intertwined.%K%P
+
+0xFC8
+It's a little embarrassing.%K%P
+
+0xFD4
+Makoto「Man... Well, if you say so...」%K%P
+
+0xFE8
+Izumi「Hee hee♪」%K%P
+
+0xFF4
+Izumi-san gives an innocent smile.%K%P
+
+0x1010
+―Then, a second later!%K%P
+
+0x102C
+Izumi-san's knees suddenly lose strength.%K%P
+
+0x1038
+I reflexively support her staggering body by embracing%Nit with one arm.%K%P
+
+0x1044
+Makoto「A-Are you all right, Izumi-san?」%K%P
+
+0x1058
+Izumi「」%K%P
+
+0x1064
+I feel heat emanating from her thin body.%K%P
+
+0x1070
+Makoto「You caught a cold, didn't you?」%K%P
+
+0x1084
+Izumi「Th-That's... A-A-A-ACHOO!」%K%P
+
+0x1098
+Izumi「That's not true.」%K%P
+
+0x10A4
+Makoto「You just sneezed right now!」%K%P
+
+0x10B8
+Izumi「Hee hee hee, I'm serious! ... I'm seriously all right!」%K%P
+
+0x10C4
+Izumi「It's not a big deal at all!」%K%P
+
+0x10D0
+Makoto「...」%K%P
+
+0x10E4
+Izumi「Hey? Let's hurry up... and go, okay?」%K%P
+
+0x10F8
+Izumi-san pulls my arm, and begins walking up the hill%Nroad...%K%P
+

@@ -1,0 +1,1851 @@
+text area offset and size:
+0x2F58
+0x8D6F
+0x6C
+Everyone quietly cleans up, and carries the tools back%Nto Lunabeach.%K%P
+
+0x78
+The four of us split up with Izumi-san and Kurumi at%NLunabeach, and decide to return to the lodge.%K%P
+
+0x84
+On the way back... Yuka suddenly whispers into my ear.%K%P
+
+0x98
+Yuka「Hey, hey.」%K%P
+
+0xA4
+Yuka「I want to talk to you for a bit.」%K%P
+
+0xB0
+Makoto「Huh? S-Sure...」%K%P
+
+0xC4
+Yuka「It'd be better if we were alone.」%K%P
+
+0xD8
+Yuka「Sorry! Okuhiko-kun, Haruka-chan, could you go on%Nahead?」%K%P
+
+0xE4
+It seems as if Okuhiko has presumed something after%Nwatching us talk, as he quickly obliges and escorts%NHaruka away.%K%P
+
+0x108
+... ... ...%K%P
+
+0x11C
+Yuka「It got pretty bad back there, didn't it?」%K%P
+
+0x128
+Makoto「You're right...」%K%P
+
+0x134
+Yuka「I wonder if I shouldn't have gotten so drunk?」%K%P
+
+0x140
+Makoto「You probably would have anyway, since that's normal%Nfor you.」%K%P
+
+0x154
+Yuka「...」%K%P
+
+0x160
+Makoto「By the way, what did you want to talk about?」%K%P
+
+0x174
+Yuka「Right, the truth is... I was thinking of going to go see the%Ncherry blossoms...」%K%P
+
+0x180
+Makoto「Didn't you say you went this morning?」%K%P
+
+0x18C
+Yuka「But it's boring to go by yourself...」%K%P
+
+0x198
+Yuka「So I thought I'd ask you and see if you wanted to come%Nalong...」%K%P
+
+0x1A4
+Makoto「What... so in the end, you never went?」%K%P
+
+0x1B0
+Yuka「Right.」%K%P
+
+0x1BC
+Makoto「Well, it's still pretty gloomy here, so a change of scenery%Nwould be nice.」%K%P
+
+0x1D0
+Yuka「Really? Then let's go♪」%K%P
+
+0x230
+It's the very picture of a wide, blue sky.%K%P
+
+0x23C
+The springtime haze is hanging in the air all across the%Nsea, making a yacht traveling across the water seem%Nlike an illusion as it creates whitecaps.%K%P
+
+0x248
+The fluttering balmy breeze sways Yuka's hair.%K%P
+
+0x254
+The sight of her mussed up hair brushing her cheeks is%Nrather attractive.%K%P
+
+0x260
+We continue walking by the cool morning coastline%Ntowards the cherry blossom trees.%K%P
+
+0x26C
+Makoto「Say, Yuka? You said that we'd all be gathering at 5:00,%Ndidn't you...?」%K%P
+
+0x280
+Yuka「Yes.」%K%P
+
+0x28C
+Makoto「... Sounds like there's some sort of plan.」%K%P
+
+0x2A0
+Yuka「Hmm...」%K%P
+
+0x2B4
+Yuka「... That's a S-E-C-R-E-T♪」%K%P
+
+0x2C0
+Makoto「Huh? Seriously, what is it?」%K%P
+
+0x2CC
+Yuka「Hee hee... do you want me to tell you?」%K%P
+
+0x2D8
+Makoto「Dumbass! Why else would I be asking!?」%K%P
+
+0x2EC
+Yuka「Ah! I'm not liking this attitude of yours...」%K%P
+
+0x2F8
+Makoto「Fine then. It's not like I really wanted to hear it anyway.」%K%P
+
+0x30C
+Yuka「Wow, you're starting to pout again.」%K%P
+
+0x318
+Makoto「I'm not pouting!」%K%P
+
+0x32C
+Yuka「Yes you are!」%K%P
+
+0x340
+Yuka「The Second Law of Professor Yuka's Love Formula:%N'Audacity is essential for guys'.」%K%P
+
+0x34C
+Makoto「That again...」%K%P
+
+0x360
+Yuka「If you give up immediately and pout like that, your long%Nawaited chance that's just one step away will escape%Nfrom you!」%K%P
+
+0x36C
+Makoto「But Yuka, didn't you say that the 'First Law of your Love%NFormula' was to 'dislike persistent men'?」%K%P
+
+0x380
+Yuka「That was that! This is this!」%K%P
+
+0x394
+Yuka「In times when you should push through, push through%Nuntil the end, and in times when you should back off,%Nback off quickly... that's what it means! Got it?」%K%P
+
+0x3A0
+Makoto「Yeah, yeah...」%K%P
+
+0x3AC
+Makoto「So then, what are we planning to do when we gather at%N5:00?」%K%P
+
+0x3C0
+Yuka「Hee hee... do you want me to tell you?」%K%P
+
+0x3CC
+Makoto「Yes! I've been saying all day that I... ............ would%Nappreciate it if you would so kindly tell me.」%K%P
+
+0x3D8
+I try to keep my frustration at bay.%K%P
+
+0x3EC
+Yuka「Very well. Since you've gone this far to say it, I shall tell%Nyou.」%K%P
+
+0x400
+Yuka「The truth is, we'd thought we'd try having a barbecue on%NPrincess Beach tonight.」%K%P
+
+0x40C
+Makoto「Huh? A barbecue?」%K%P
+
+0x418
+Yuka「Yep♪」%K%P
+
+0x424
+Makoto「T-That's it?」%K%P
+
+0x438
+Yuka「That's it.」%K%P
+
+0x444
+Makoto「Geez, that's not something you needed to go that far to%Nhide, did you!?」%K%P
+
+0x450
+Yuka「Right, it wasn't.」%K%P
+
+0x45C
+Makoto「Then why!?」%K%P
+
+0x470
+Yuka「Well, because you're so easy to tease. I just wanted to%Ntry lording it over you for a bit.」%K%P
+
+0x47C
+Makoto「Y-You...」%K%P
+
+0x490
+Yuka「Besides, Makoto, you were so cute♪」%K%P
+
+0x49C
+Makoto「Cute!?」%K%P
+
+0x4B0
+Yuka「Yeah. It was really cute how desperate you looked♪」%K%P
+
+0x4C4
+Yuka「It was kinda... like a newborn puppy!」%K%P
+
+0x4E8
+Haah... the teasing never seems to cease...%K%P
+
+0x4F4
+As she walks next to me, an expression that can only%Nbe described as bliss starts to rise to her face...%K%P
+
+0x5EC
+In an instant, her blissful smile somehow melts away all of%Nmy irritation.%K%P
+
+0x5F8
+At the same time, we've arrived here... in other words, at%Nthe row of cherry blossom trees.%K%P
+
+0x604
+Countless petals flutter down and scatter...%K%P
+
+0x610
+The gentle breeze blowing through the tree lined street%Nis faintly dyed pink.%K%P
+
+0x61C
+As if trying to ascertain something, Yuka slowly takes%Ntwo steps and stands on a pile of petals.%K%P
+
+0x628
+She remains silent, and it's as if she's completely%Nforgotten my existence, even though I'm standing next%Nto her...%K%P
+
+0x634
+Just what is Yuka looking at in the blizzard of cherry%Nblossoms that have completely engulfed her?%K%P
+
+0x640
+Somehow, I feel it would be inappropriate for me to call%Nout to her right here, right now, so I remain silent and walk%Nup next to her.%K%P
+
+0x64C
+I cough because of the rich fragrance of the cherry%Nblossoms wafting around me...%K%P
+
+0x680
+Yuka「Hey, Makoto...?」%K%P
+
+0x68C
+While gazing at the petals flowing in the wind, Yuka%Nsuddenly asks me a question.%K%P
+
+0x698
+Yuka「... When was your first love?」%K
+
+0x2F08
+A long time ago.
+
+0x2F14
+In middle school.
+
+0x2F20
+In high school.
+
+0x6E8
+Makoto「A long time ago... I think I was still in elementary school.」%K%P
+
+0x6F4
+Makoto「So... I don't really remember it that well.」%K%P
+
+0x700
+Yuka「I see...」%K%P
+
+0x70C
+Makoto「What about you, Yuka? When was your first love?」%K%P
+
+0x718
+Yuka「Mine...」%K%P
+
+0x724
+Yuka「Mine was... in middle school...」%K%P
+
+0x730
+Yuka「Even now, I can't forget it...」%K%P
+
+0x73C
+Yuka「I met my first love in spring, when I was in 9th grade...」%K%P
+
+0x750
+Makoto「I think it was in middle school? I don't really remember it%Nthat well, but...」%K%P
+
+0x75C
+I give her a vague answer.%K%P
+
+0x768
+Truth is, I do remember, but it's not really something I want%Nto talk about...%K%P
+
+0x774
+Yuka「I see...」%K%P
+
+0x780
+Makoto「What about you, Yuka? When was your first love?」%K%P
+
+0x78C
+Yuka「Same...」%K%P
+
+0x798
+Yuka「Mine was also... when I was in middle school...」%K%P
+
+0x7A4
+Yuka「But even now, I still remember it quite well.」%K%P
+
+0x7B0
+Yuka「I met my first love in spring, when I was in 9th grade...」%K%P
+
+0x7C4
+Makoto「It was in high school. I was kind of a late bloomer, huh...?」%K%P
+
+0x7D0
+I say this with an embarrassed grin.%K%P
+
+0x7DC
+But it can't be helped. It's the truth...%K%P
+
+0x7E8
+It wasn't until then that I began to discover what "having%Nfeelings for someone" really meant.%K%P
+
+0x7F4
+I suppose I had cases of "puppy love" once or twice%Nbefore, but that was it.%K%P
+
+0x800
+Yuka「I see...」%K%P
+
+0x80C
+Makoto「What about you, Yuka? When was your first love?」%K%P
+
+0x818
+Yuka「Mine...」%K%P
+
+0x824
+Yuka「Mine was... in middle school...」%K%P
+
+0x830
+Yuka「It was just a little earlier than you, but I think compared%Nto the others around me, it was much later.」%K%P
+
+0x83C
+Yuka「It started in the spring, when I was in 9th grade...」%K%P
+
+0x860
+Yuka「It was the day of the opening ceremony in April, when the%Nnew semester started...」%K%P
+
+0x86C
+Yuka takes in a deep breath...%K%P
+
+0x878
+... and lets out a long sigh.%K%P
+
+0x884
+Before long, she begins to talk about that incident in%Nspring...%K%P
+
+0x8D4
+Yuka「I think it was the same everywhere, but the entire school%Nwas in a completely blissful state all day in anticipation%Nof a new beginning.」%K%P
+
+0x8E0
+Yuka「My class changed, with a new homeroom teacher going%Naround...」%K%P
+
+0x8EC
+Yuka「The freshmen wearing their brand new, baggy uniforms%Nwere looking around the school restlessly.」%K%P
+
+0x8F8
+Yuka「Even when morning classes ended, it was like no one%Neven thought about going home.」%K%P
+
+0x904
+Yuka「They would wander around the school, looking for their%Nfriends who had been assigned to other classes, and%Ncheerfully tried to get the shy and quiet kids to%Nsocialize...」%K%P
+
+0x910
+Yuka「You know what I mean, right? The day of the opening%Nceremony, that is...」%K%P
+
+0x91C
+Makoto「Yeah...」%K%P
+
+0x928
+Yuka「But you know what? For some reason, I just couldn't get%Ninto the same mood everyone else was in.」%K%P
+
+0x934
+Makoto「Was something on your mind?」%K%P
+
+0x940
+Yuka「No. That wasn't it...」%K%P
+
+0x94C
+Yuka「It's just... how do I put it... while everyone else were all in%Nhigh spirits, I was melancholic for no real reason, I%Nguess?」%K%P
+
+0x958
+Makoto「Hmm...」%K%P
+
+0x964
+Yuka「That's what I thought.」%K%P
+
+0x970
+Yuka「But it might have been because I was a little depressed%Nabout entering my final year of middle school.」%K%P
+
+0x97C
+Makoto「I see...」%K%P
+
+0x988
+Yuka「Because I felt that way, when homeroom activities%Nended, I immediately said goodbye to everyone, and%Nheaded for the usual place.」%K%P
+
+0x994
+Makoto「'The usual place'?」%K%P
+
+0x9A0
+Yuka「... The art room.」%K%P
+
+0x9AC
+Yuka「It's not like I was a member of the art club or anything like%Nthat...」%K%P
+
+0x9B8
+Yuka「But anyway... I loved that place...」%K%P
+
+0x9C4
+Yuka「I would go to that place and draw pictures...」%K%P
+
+0x9D0
+Makoto「Draw...?」%K%P
+
+0x9DC
+Yuka「Yeah. I forgot exactly when, but when I felt like it, I went to%Nthe art room and started drawing pictures.」%K%P
+
+0x9E8
+Yuka「Up until I entered middle school, I'd never drawn before,%Nbut when I started going to the art room like that, for%Nsome reason, I got this desire to draw a lot of pictures...」%K%P
+
+0x9F4
+Yuka「No matter what time it was, it was always so silent and%Nstill in there...」%K%P
+
+0xA00
+Yuka「Sketching pictures in that silent and empty place%Nsoothed me for some reason.」%K%P
+
+0xA0C
+Yuka「Usually, I almost never get that calm, do I?」%K%P
+
+0xA18
+Yuka「But quietly drawing pictures like that might have been me%Nresetting my heart...」%K%P
+
+0xA24
+Resetting, huh...?%K%P
+
+0xA30
+―The image of an empty art room, save for Yuka%Ndrawing pictures in a corner.%K%P
+
+0xA3C
+I can't imagine that very well.%K%P
+
+0xA48
+It doesn't seem like something she would naturally do.%K%P
+
+0xA54
+Yuka「And so, I went to the art room on that day as well, and%Ndrew a rough sketch in my sketchbook.」%K%P
+
+0xA60
+Makoto「What did you draw?」%K%P
+
+0xA6C
+Yuka「...」%K%P
+
+0xA78
+Yuka hesitates for a moment before continuing.%K%P
+
+0xA84
+Yuka「A picture of a cuckoo clock...」%K%P
+
+0xA90
+Yuka「I'm sure I told you earlier, didn't I? That the last time I saw%Na cuckoo clock was in middle school...」%K%P
+
+0xA9C
+Makoto「And that cuckoo clock had two doves that you thought%Nwere a male and female pair.」%K%P
+
+0xAA8
+Yuka「That's right... That cuckoo clock was fixed above the%Nblackboard in the art room.」%K%P
+
+0xAB4
+Yuka「Every hour, the two doves would alternate in coming out%Nto announce the time.」%K%P
+
+0xAC0
+Yuka「At 1:00, the right dove would chirp once, and at 2:00, only%Nthe left bird would chirp twice...」%K%P
+
+0xACC
+Yuka「But at only 12:00 were both doves able to come out%Nsimultaneously and chirp together.」%K%P
+
+0xAD8
+Yuka「But don't you think that's a little too sad?」%K%P
+
+0xAE4
+Yuka「It's only twice a day... and even when they come%Ntogether, they can only meet for 24 seconds!」%K%P
+
+0xAF0
+I nod, beckoning her to continue.%K%P
+
+0xAFC
+Yuka「So you know what? I thought that even though it would%Njust be in a picture, I could at least try to grant their wish.」%K%P
+
+0xB08
+Yuka「It was a picture with the dove on the right stopping the%Nclock's hand by stretching out one of its wings with all%Nits might... the hands were pointing exactly at 12:00...」%K%P
+
+0xB14
+Yuka「The dove on the left tried to nestle close to the dove on%Nthe right, its heavy eyelids closed...」%K%P
+
+0xB20
+Yuka「It was like a fantasy-esque illustration straight out of a%Nmanga... all from that art room.」%K%P
+
+0xB2C
+I try to picture that drawing in my head as she%Ndescribes it.%K%P
+
+0xB38
+The right dove stopping time, and the left dove nestling%Nclose to it...%K%P
+
+0xB44
+Hmm... it doesn't sound right to me.%K%P
+
+0xB50
+It might be because it's a little narrow-minded.%K%P
+
+0xB5C
+I wouldn't be able to look at it without feeling a%Nheat-pounding restlessness―all I'm getting is an%Nuneasy impression.%K%P
+
+0xB68
+That clock hand pinned down by the bird's wing sounds%Nlike it'll slip free at any moment...%K%P
+
+0xB74
+In that instant, time will start moving again, won't it...?%K%P
+
+0xB80
+―However, indifferent to my thoughts, Yuka continues%Nfrom where she left off.%K%P
+
+0xB8C
+Yuka「And then, all of the sudden, a certain student I%Nrecognized came in.」%K%P
+
+0xB98
+Yuka「It was a boy...」%K%P
+
+0xBA4
+Yuka「I only knew him by face. We'd never talked, and I didn't%Neven know his name...」%K%P
+
+0xBB0
+Yuka「In the class change that day, he was the boy who sat in%Nthe seat adjacent to mine in our classroom.」%K%P
+
+0xBBC
+Yuka「...When he entered the art room, he silently paced%Naimlessly around the room.」%K%P
+
+0xBC8
+Yuka「Even though our eyes met, neither of us said a word, with%Nonly time slowly passing...」%K%P
+
+0xBD4
+Yuka「But you know what? Before long, he looked at the%Nsketchbook standing upon and open in front of me, and%Nsaid one thing... one thing only.」%K%P
+
+0xBE0
+Yuka「'This is no good.'」%K%P
+
+0xBEC
+Yuka「I automatically got offended, and when I came to my%Nsenses, I had angrily retored, 'What part of it is no%Ngood!?'」%K%P
+
+0xBF8
+Yuka「I thought at that time that he was an idiot and didn't know%Nanything.」%K%P
+
+0xC04
+Yuka「Of course, I thought I was the only one who knew about%Nthe cuckoo clock...」%K%P
+
+0xC10
+Yuka「But then, that boy countered with an unexpected%Nanswer...」%K%P
+
+0xCA0
+... ...%K%P
+
+0xCAC
+Boy「You're just being narrow-minded, aren't you?」%K%P
+
+0xCB8
+Boy「A bird's a bird because it can fly in the air. Because it%Ncan fly in the air, it's free.」%K%P
+
+0xCC4
+Boy「Let me have that!」%K%P
+
+0xCD0
+As soon as he said that, he took the pencil and eraser%Nout of my hands and began to recklessly destroy the%Nclock in the sketchbook.%K%P
+
+0xCDC
+Dumbfounded and at a loss for words, I was captivated%Nby the picture he was drawing.%K%P
+
+0xCE8
+As for the finished drawing, he had drawn the pair of%Ndoves flying away towards outside the window.%K%P
+
+0xCF4
+The wall of the art room in the picture had the clock%Ndangling at a messed-up angle, broken and with its%Nsprings protruding from it.%K%P
+
+0xD00
+Boy「If you want to stop time, then it's all right to destroy time.」%K%P
+
+0xD0C
+Boy「If you want to escape from time, it's all right to flap your%Nwings.」%K%P
+
+0xD18
+Boy「If you stay tied down, you can't be free.」%K%P
+
+0xD24
+Boy「If you want to be free, then you mustn't be afraid.」%K%P
+
+0xD30
+He said that, tore the picture out of the sketch book,%Nthen crumpled the picture he had just drawn into a ball%Nand threw it in the garbage can.%K%P
+
+0xD3C
+He threw it... that was all.%K%P
+
+0xD48
+After that, he never spoke another word, and left the art%Nroom, just like that.%K%P
+
+0xD7C
+The cherry blossoms outside of the open window were in%Nfull bloom...%K%P
+
+0xD88
+Sometimes, a cherry blossom pettle would flutter and go%Nastray, landing on top of a desk.%K%P
+
+0xD94
+I was so dumbstruck that I remained paralyzed in that%Nplace for a couple of hours...%K%P
+
+0xDE0
+... ...%K%P
+
+0xE70
+Yuka「That was how I fell in love...」%K%P
+
+0xE7C
+Makoto「... I see...」%K%P
+
+0xE88
+I gulp down on my saliva, and barely manage to say%Nthese words.%K%P
+
+0xE94
+For some reason, my chest is hot.%K%P
+
+0xEA0
+A gloomy lump throbs in my stomach.%K%P
+
+0xEAC
+("If you want to be free, then you mustn't be afraid,"...%Nsuch a pretentious line.)%K%P
+
+0xEB8
+(If it were me, I would have said something more direct...)%K%P
+
+0xEC4
+Yuka said that was when she had "fallen in love".%K%P
+
+0xED0
+Fallen in love... then does that mean even now, she's%Nstill...?%K%P
+
+0xEDC
+Makoto「Say, Yuka? Did it go well with that boy?」%K%P
+
+0xEE8
+Yuka「Huh? Mmm...」%K%P
+
+0xEF4
+Yuka hangs her head down.%K%P
+
+0xF00
+It seems like she's trying to search for the right words%Nto say.%K%P
+
+0xF0C
+Only meaningless time passes...%K%P
+
+0xF18
+Does Yuka plan on not answering at this rate?%K%P
+
+0xF24
+But...%K%P
+
+0xF30
+Yuka「No. Because my love was unrequited...」%K%P
+
+0xF3C
+... she finally answers.%K%P
+
+0xF48
+She then whispers in a small voice.%K%P
+
+0xF54
+Yuka「But...」%K%P
+
+0xF60
+Yuka「But even now, I can't forget him.」%K%P
+
+0xF6C
+―My breath is instinctively taken away.%K%P
+
+0xF78
+My body feels shocked numb, as if I had been struck by%Nlightning.%K%P
+
+0xF84
+Makoto「Well then, can't you just confess to him?」%K%P
+
+0xF90
+I say the opposite of what I'm feeling.%K%P
+
+0xF9C
+But... Yuka doesn't answer.%K%P
+
+0xFA8
+She doesn't even show signs that she'll answer.%K%P
+
+0xFB4
+Only a sad smile rises to her face as she absently%Nstares at the drifting petals...%K%P
+
+0xFC0
+Yuka「... Well then, shall we go?」%K%P
+
+0xFCC
+Makoto「Huh!?」%K%P
+
+0xFD8
+Yuka「Sorry for telling you such a trivial story...」%K%P
+
+0xFE4
+Her tone's the same as always...%K%P
+
+0xFF0
+Is she saying there's some reason for why she doesn't%Nwant to answer?%K%P
+
+0xFFC
+Yuka「The cherry blossom... they're pretty, aren't they? ... The%Ncherry blossoms...」%K%P
+
+0x1008
+With those words, I finally understand.%K%P
+
+0x1014
+She doesn't want me to pry any further.%K%P
+
+0x1020
+So...%K%P
+
+0x102C
+Makoto「Yeah, you're right.」%K%P
+
+0x1038
+... I'll respectfully back off.%K%P
+
+0x1044
+The cherry blossom petals fall endlessly.%K%P
+
+0x1050
+The cherry blossom trees stretch out front and back,%Ncovered in flowers like a forest is with leaves.%K%P
+
+0x105C
+It's as if they might go on forever, endlessly.%K%P
+
+0x1068
+I take a deep breath, filling my chest with the scent of%Nthe cherry blossoms hanging over and around me, which%Nalmost causes my muscles to stiffen and coil up.%K%P
+
+0x1074
+Makoto「Well then, shall we go?」%K%P
+
+0x1080
+I cheerfully say this, suggesting we return now, and turn%Naround to head back.%K%P
+
+0x108C
+But...%K%P
+
+0x1098
+Yuka「He was...」%K%P
+
+0x10A4
+Yuka faces me as I turn around, and suddenly adds this.%K%P
+
+0x10B0
+Yuka「He was very similar...」%K%P
+
+0x10DC
+Yuka「To you, Makoto...」%K%P
+
+0x1114
+"He was very similar..."%K%P
+
+0x1120
+"To you, Makoto..."%K%P
+
+0x112C
+Yuka mutters this, and instead of the direction I'm trying%Nto turn towards, she starts walking towards the tip of%Nthe cape.%K%P
+
+0x1138
+I immediately follow after Yuka, a little shocked by those%Nunexpected words.%K%P
+
+0x11B8
+When we leave the cherry blossom road and arrive at%Nthe wide, picturesque scenery of Viewpoint Park, I can't%Neven wring out my voice.%K%P
+
+0x11C4
+Yuka said she can't forget her first love, even now...%K%P
+
+0x11D0
+And that that guy is similar to me...%K%P
+
+0x11DC
+My emotions and thoughts are all scrambled in a chaotic%Nmess.%K%P
+
+0x11E8
+I don't even know where to begin to sort them out.%K%P
+
+0x11F4
+"How are we similar?"%K%P
+
+0x1200
+... I keep telling myself to ask her countless times, but%Nevery time I get the opportunity, I somehow can't bring%Nmyself to do it.%K%P
+
+0x120C
+(What was her agenda in telling me those things...?)%K%P
+
+0x1218
+Right now, she's blankly gazing out at the ocean, acting%Ncalmly as if nothing happened.%K%P
+
+0x1224
+And so, for a while, we remain silent and surrender%Nourselves to the flow of time...%K%P
+
+0x1278
+Yuka「Ah...!」%K%P
+
+0x129C
+That voice brings me back.%K%P
+
+0x12A8
+I don't know if something happened, but when I look%Ntowards Yuka, her posture has been destroyed, as%Nshe's staggering forwards.%K%P
+
+0x12B4
+(... Did she trip on the pavement?)%K%P
+
+0x12C0
+Yuka almost falls over, but she grabs the handrail in%Nfront of her, putting her whole strength into it...%K%P
+
+0x12CC
+―At that time, I hear a small sound...%K%P
+
+0x1328
+Yuka「Ah...」%K%P
+
+0x1334
+Suddenly, Yuka speaks.%K%P
+
+0x1340
+Yuka「... An earthquake.」%K%P
+
+0x134C
+Makoto「An earthquake!?」%K%P
+
+0x1358
+I'm taken aback, as I had let my gaze wander aimlessly,%Nso I'm now checking for the signs of one.%K%P
+
+0x1364
+It's shaking.%K%P
+
+0x1370
+The core of my body has certainly been ensnared by%Nthe delicate shaking of the ground.%K%P
+
+0x137C
+The tourists here and there in the area also have%Nsensed this subtle, unexpected change, and nervously%Npay attention to their surroundings.%K%P
+
+0x1388
+Makoto「You're right...」%K%P
+
+0x1394
+And in the instant I mutter this!%K%P
+
+0x13E4
+―Rumble!%K%P
+
+0x13F0
+The tremors arrive together with shock waves that feel%Nlike they're pushing up.%K%P
+
+0x13FC
+These are the main tremors that come after the%Npreliminary ones...%K%P
+
+0x1408
+This is the second earthquake since we came here!%K%P
+
+0x1414
+It feels stronger than the one on the 1st.%K%P
+
+0x1420
+Can it only be felt on the tip of this cape?%K%P
+
+0x142C
+Yuka grabs the fence with both of her hands, and bends%Ndown a bit, waiting for the tremors to calm down.%K%P
+
+0x1438
+I also grasp the fence with one hand, and with both of my%Nfeet, I step firmly on the ground that's shaking like the%Nbelly of a beast.%K%P
+
+0x1450
+―In the midst of this, I hear a small sound...%K%P
+
+0x1478
+It's a certain high-pitched metallic sound I know I've%Nheard before...%K%P
+
+0x14A0
+(I-Impossible...)%K%P
+
+0x14AC
+In the twinkling of an eye, goosebumps begin to spread%Nover my whole body.%K%P
+
+0x14C8
+My shaking knees are not due to the earthquake.%K%P
+
+0x14D4
+I reflexively search for the source of the sound.%K%P
+
+0x14E0
+The ringing sound is in the direction of... Yuka's feet...%K%P
+
+0x14EC
+I squint and stare at the ground's surface.%K%P
+
+0x14F8
+―A sparkling light.%K%P
+
+0x1504
+The sharp light pierces both of my eyes.%K%P
+
+0x1510
+Makoto「That's... impossible...」%K%P
+
+0x1540
+Damp, unpleasant sweat rises to my forehead.%K%P
+
+0x154C
+The shaking in my knees still hasn't stopped.%K%P
+
+0x1558
+While I'm pinned down by the pounding of my heart,%Nbeating as loud as an alarm bell, I slowly crouch down...%K%P
+
+0x1564
+... I nervously stretch out my hand...%K%P
+
+0x1578
+"A bell..."%K%P
+
+0x1584
+It's a bell that shines a cold, silver light, and feels frozen%Nto the touch...%K%P
+
+0x1590
+It has a light crimson string...%K%P
+
+0x159C
+There's no mistaking it. It's definitely that "bell".%K%P
+
+0x15A8
+But... why is it here...?%K%P
+
+0x15B4
+Why... is it at Yuka's feet...?%K%P
+
+0x15EC
+―It's the sound of the bell I heard earlier.%K%P
+
+0x15F8
+There's no mistaking that it was the sound of the bell%Nstriking the ground.%K%P
+
+0x1604
+In other words... the bell fell.%K%P
+
+0x1610
+From where?%K%P
+
+0x161C
+I don't even have to think about that, do I!?%K%P
+
+0x166C
+Makoto「Hey, Yuka!」%K%P
+
+0x16A0
+Yuka「Hey, Makoto!」%K%P
+
+0x16AC
+Makoto「This bell...」%K%P
+
+0x16B8
+Yuka「... What's going on!?」%K%P
+
+0x16C4
+Makoto「Huh?」%K%P
+
+0x16D0
+Yuka「Huh?」%K%P
+
+0x16DC
+Makoto「...」%K%P
+
+0x16E8
+Yuka「...」%K%P
+
+0x16F4
+Makoto「Why did you have this!?」%K%P
+
+0x1700
+Yuka「Why do you have that!?」%K%P
+
+0x170C
+Our voices neatly overlap.%K%P
+
+0x1740
+Yuka「Hey!? Why do you have that!?」%K%P
+
+0x174C
+Makoto「You're wrong! I never had this!」%K%P
+
+0x1758
+Yuka「But you're holding it now, right!」%K%P
+
+0x1764
+Makoto「That's because you dropped it, and just I picked it up...」%K%P
+
+0x1770
+Yuka「Me!? ... I didn't drop it!」%K%P
+
+0x1784
+... What's the meaning of this?%K%P
+
+0x1790
+It doesn't feel like our conversation's smoothly in gear...%K%P
+
+0x179C
+(Furthermore...)%K%P
+
+0x17A8
+(Furthermore... why does Yuka know about this bell!?)%K%P
+
+0x17B4
+...%K%P
+
+0x17C0
+... We wait for the other to continue this unproductive%Nconversation.%K%P
+
+0x17CC
+Suddenly, before we can speak, a little girl totters over%Nto us.%K%P
+
+0x17D8
+She seems to be about five or six... well, anyway, she%Nfeels like a girl who's only just started elementary%Nschool.%K%P
+
+0x17E4
+When that little girl stands slightly in front of us, she%Nsays a mere three words.%K%P
+
+0x17F0
+Girl「Give it back!」%K%P
+
+0x17FC
+Makoto「...」%K%P
+
+0x1808
+Yuka「...」%K%P
+
+0x1814
+Yuka and I instinctively exchange glances.%K%P
+
+0x1820
+Girl「Give it back!!」%K%P
+
+0x182C
+The girl sticks out her palm again and again.%K%P
+
+0x1838
+Makoto「'Give it back'... give... what back?」%K%P
+
+0x1844
+Girl「That!」%K%P
+
+0x1850
+The girl points her short white index finger at my closed%Nfist.%K%P
+
+0x1884
+Yuka「Huh? ... By 'that', do you mean... this?」%K%P
+
+0x1890
+Yuka grabs my wrist with a jerk and gives me a glare that%NI know is demanding me to open my fist.%K%P
+
+0x189C
+I calmly obey her.%K%P
+
+0x18A8
+Obviously, in my palm is that "bell".%K%P
+
+0x18B4
+Just then...%K%P
+
+0x18C0
+... the girl suddenly snatches the bell from my palm.%K%P
+
+0x18CC
+I wouldn't have guessed it since she's so young, but the%Ngirl is as fast as lightning...%K%P
+
+0x18D8
+Girl「Thanks♪」%K%P
+
+0x18E4
+Before she even finishes thanking us, the girl turns%Naround and gets ready to run.%K%P
+
+0x1918
+Yuka「Ah! Wait a minute!」%K%P
+
+0x192C
+Yuka springs like a bullet and cuts around in front of the%Ngirl.%K%P
+
+0x1938
+The girl stops...%K%P
+
+0x1944
+Yuka bends over until she's at eye level with the girl.%K%P
+
+0x1978
+Yuka「Um... Hey, there's something I'd like to ask you...」%K%P
+
+0x1984
+Girl「???」%K%P
+
+0x1990
+Yuka「What happened to that bell? Would you tell me?」%K%P
+
+0x199C
+Girl「I tied it up to that pole over there.」%K%P
+
+0x19A8
+Girl「That way, if it fell, I wouldn't lose it.」%K%P
+
+0x19B4
+Girl「So... So it's mine!」%K%P
+
+0x19C0
+I see, so that's how it is...%K%P
+
+0x19DC
+The bell's string was tied to the fence, but because of%NYuka, it fell to the ground...%K%P
+
+0x19F0
+The bell's string was tied to the fence, but because of%Nthe earthquake, it fell to the ground...%K%P
+
+0x19FC
+It may have been because I was thinking about other%Nthings, but I hadn't noticed the bell when it was tied there%Nat all...%K%P
+
+0x1A30
+Yuka「No. That's not what I meant...」%K%P
+
+0x1A3C
+Yuka shakes her head, and gives the girl a sweet smile.%K%P
+
+0x1A48
+Yuka「I mean why do you have that bell in the first place...?」%K%P
+
+0x1A54
+Girl「??」%K%P
+
+0x1A60
+Yuka「Did someone give it to you?」%K%P
+
+0x1A6C
+Girl「???」%K%P
+
+0x1A78
+Yuka「Or did you pick it up somewhere?」%K%P
+
+0x1A84
+Girl「Yeah, that's right... I picked it up last night.」%K%P
+
+0x1AB8
+Yuka「D-Do you remember where you picked it up?」%K%P
+
+0x1AC4
+Girl「Yeah, I do.」%K%P
+
+0x1AD0
+Yuka「Where?」%K%P
+
+0x1AE4
+Girl「Umm...」%K%P
+
+0x1AF0
+Girl「... The moon!」%K%P
+
+0x1AFC
+Girl「I picked it up on that sandy beach shaped like a%Ncrescent moon!」%K%P
+
+0x1B08
+―Moon Beach!!%K%P
+
+0x1B14
+I am astonished...%K%P
+
+0x1B20
+I even feel lightheaded and dizzy.%K%P
+
+0x1B2C
+(How could this be...?)%K%P
+
+0x1B38
+The bell I threw into the ocean on the night of the 1st%Nwashed back up on shore through the waves!%K%P
+
+0x1B44
+(Maybe if I'd thrown it farther...)%K%P
+
+0x1B50
+―No, that's wrong!%K%P
+
+0x1B5C
+(Maybe if I'd smashed it with a rock or something...)%K%P
+
+0x1B68
+―That's not it!%K%P
+
+0x1B74
+That's not it!%K%P
+
+0x1B80
+I picked up the bell because I was fated to.%K%P
+
+0x1B8C
+It will continue to follow me everywhere until that time%Ncomes.%K%P
+
+0x1B98
+I can feel an unbelievably overwhelming "power".%K%P
+
+0x1BA4
+I suddenly feel as if it's tugging the back of my neck,%Ntrying to drag me to a far-away world... it's that kind of%Nfeeling.%K%P
+
+0x1BB0
+... There's nothing I can do... I can't even scream...%K%P
+
+0x1BBC
+But...%K%P
+
+0x1BC8
+While that may be true, it's impossible for me to just%Nstand still, right?!%K%P
+
+0x1BD4
+Even if... it seems to be a useless struggle!%K
+
+0x2F2C
+Take the bell from the girl by force.
+
+0x2F38
+Persuade the girl to give the bell back.
+
+0x1C14
+When I run over to the girl, I wrap my palm around her small%Nfist.%K%P
+
+0x1C20
+Makoto「Listen carefully!」%K%P
+
+0x1C2C
+Makoto「This bell is a very dangerous thing!」%K%P
+
+0x1C38
+Makoto「If you have it, incredibly terrible things may happen to%Nyou!」%K%P
+
+0x1C44
+Makoto「So... give that bell to...!」%K%P
+
+0x1C50
+Girl「Um, sir... are you a weirdo?」%K%P
+
+0x1C5C
+Makoto「... Huh?」%K%P
+
+0x1C68
+Girl「You're a weirdo too, aren't you, ma'am?」%K%P
+
+0x1C74
+The girl looks back and forth between Yuka and I%Nrestlessly.%K%P
+
+0x1C80
+And then, all of the sudden, she lets out a loud, shrill%Nscream.%K%P
+
+0x1C8C
+Girl「MAMAAAAAAAAAAAAAAA!!!」%K%P
+
+0x1C98
+Surprised, I come to my senses.%K%P
+
+0x1CA4
+The girl waves my hand off of her, and runs over to the%Nentrance of the park with noisy, faltering steps.%K%P
+
+0x1CB8
+When I run over to the girl, I bend over just like Yuka.%K%P
+
+0x1CC4
+Makoto「U-Um? Will you listen carefully to what I have to say?」%K%P
+
+0x1CD0
+Girl「??」%K%P
+
+0x1CDC
+Makoto「The truth is, that bell is a very scary thing!」%K%P
+
+0x1CE8
+Makoto「There is a ghost sealed into it that comes out in the%Nmiddle of the night.」%K%P
+
+0x1CF4
+Girl「??」%K%P
+
+0x1D00
+Makoto「And then it drains the souls of all the humans in the area%Nand gobbles on them!」%K%P
+
+0x1D0C
+Girl「...」%K%P
+
+0x1D18
+Makoto「S-So, give that bell to me for safe keeping...」%K%P
+
+0x1D24
+Girl「Um, sir... are you a weirdo?」%K%P
+
+0x1D30
+Makoto「Huh?」%K%P
+
+0x1D3C
+Girl「You're a weirdo too, aren't you, ma'am?」%K%P
+
+0x1D48
+The girl looks back and forth between Yuka and I%Nrestlessly.%K%P
+
+0x1D54
+Her eyes are just overflowing with tears... she's%Ncompletely frightened.%K%P
+
+0x1D60
+Makoto「Y-You're wrong. That's not it at―」%K%P
+
+0x1D6C
+Girl「PAPAAAAAAAAAAAAAAAAAA!!!」%K%P
+
+0x1D78
+―Suddenly, my ears are shattered by the girl's loud,%Nshrill scream.%K%P
+
+0x1D84
+I wince at this unexpected development.%K%P
+
+0x1D90
+It's not that I didn't know how I should have coped with it,%Nit's that I was just so frantic that I wasn't thinking clearly.%K%P
+
+0x1D9C
+While this is happening, the girl slips out between Yuka%Nand I, and with faltering steps, runs towards the%Nentrance of the park.%K%P
+
+0x1DA8
+A married couple looks at us with a suspicious glance.%K%P
+
+0x1DB4
+Naturally, we can't chase them.%K%P
+
+0x1DC0
+Right now... that bell... is still being held by that girl...%K%P
+
+0x1DCC
+(What should I do...?)%K%P
+
+0x1DD8
+(First, what should I think to do...?)%K%P
+
+0x1DE4
+I don't even know that, leaving me bewildered.%K%P
+
+0x1E00
+... I glance over towards Yuka.%K%P
+
+0x1E0C
+For some reason, Yuka's eyes are muddy and glazed.%K%P
+
+0x1E18
+Her artificial smile twitches, and her cheeks turn pale.%K%P
+
+0x1E4C
+Yuka「Moon... Beach...」%K%P
+
+0x1E60
+Yuka mutters this to herself...%K%P
+
+0x1E6C
+Makoto「Moon Beach!?」%K%P
+
+0x1EA0
+Yuka「Ah... no... it's nothing, nothing.」%K%P
+
+0x1EAC
+Makoto「How can you say it's nothing? Your face is completely%Npale!」%K%P
+
+0x1EE0
+Yuka「It's really... nothing...」%K%P
+
+0x1EEC
+Yuka looks downwards, avoiding eye contact.%K%P
+
+0x1EF8
+Makoto「... Say, Yuka? There's something I want to ask you.」%K%P
+
+0x1F04
+Yuka「Huh? ... Mmm...」%K%P
+
+0x1F10
+Makoto「It's very important.」%K%P
+
+0x1F1C
+Yuka「R-Right... Maybe next time?」%K%P
+
+0x1F28
+Makoto「Huh!?」%K%P
+
+0x1F5C
+Yuka「There's... something... I have to do no matter what right%Nnow!」%K%P
+
+0x1F68
+Yuka「No. It's not really that big of a deal, but...」%K%P
+
+0x1F74
+Yuka「So I've... I've got to go.」%K%P
+
+0x1F80
+Makoto「Hey! Wait a minute, Yuka!」%K%P
+
+0x1FA4
+Yuka「Well then, go on back ahead of me...」%K%P
+
+0x1FC0
+Yuka「Well then, see you later...」%K%P
+
+0x1FCC
+Yuka「5:00 at Lunabeach... don't forget, okay?」%K%P
+
+0x1FE0
+Leaving with those words, Yuka runs away.%K%P
+
+0x1FEC
+She shoots me a glance that shuts down any thoughts I%Nhad of chasing her.%K%P
+
+0x1FF8
+Yuka's hiding something―that's for certain.%K%P
+
+0x2004
+But I have the feeling that asking her anything right now%Nwould be useless...%K%P
+
+0x2010
+All I can do at the moment is wait.%K%P
+
+0x201C
+Just a little bit, until she's calm again...%K%P
+
+0x20A0
+I close my eyes and let the sea breeze blow by me.%K%N%N
+
+0x20AC
+I need to still the confusion in my mind...%K%N%N
+
+0x20B8
+I can't hear the wind.%K%N
+
+0x20C4
+The only sound I can hear is that of my own excessively%Nloud breathing.%K%N
+
+0x20D0
+It feels like I've crawled under the bottom of the deep%Nocean...%K%P
+
+0x20E4
+... In this loneliness, my thoughts return to where I had left%Noff before.%K%N%N
+
+0x20F0
+About Yuka... and the bell...%K%P
+
+0x20FC
+Though Yuka spoke to that girl kindly, she was pressing%Nher persistently about the bell.%K%N
+
+0x2108
+And even earlier than that... Yuka said this when she saw%Nthe bell I picked up.%K%N%N
+
+0x2114
+「"Why do you have that!?」%K%N%N
+
+0x2120
+In other words, Yuka recognized it... that "bell"...%K%P
+
+0x2134
+―Why?%K%N
+
+0x2140
+―Why does Yuka know about that "bell"!?%K%N%N
+
+0x214C
+But the truth... is in a deep darkness...%K%N
+
+0x2158
+It'll remain there until I can get the truth from Yuka's own%Nlips...%K%N
+
+0x2164
+...%K%P
+
+0x2178
+And there's one more, much more important problem%Nthat's coiling around my head.%K%N
+
+0x2184
+―The fact that that "bell" has appeared before me%Nonce again.%K%N
+
+0x2190
+There's no mistake that it's the "bell" from my dream.%K%N
+
+0x219C
+If that's the case... If that's the case... then is that%Ndream...?%K%P
+
+0x21B0
+No, there's no way that could be possible, right!?%K%N
+
+0x21BC
+What the hell am I saying...?%K%N
+
+0x21C8
+Something like this is nothing more than a simple%Ncoincidence.%K%N%N
+
+0x21D4
+("A simple coincidence!?"―That old excuse again?)%K%N
+
+0x21E0
+(Can all these strange incidents over the past few days%Nbe explained by those three simple words?)%K%P
+
+0x21F4
+I don't know... I have absolutely no clue what's what.%K%N
+
+0x2200
+I can't find one thing that I can declare I have%Nconfidence in.%K%N
+
+0x220C
+No matter how many times I surrender myself to the sea%Nbreeze, I can't solve the confusion in my mind.%K%N
+
+0x2218
+Rather, the chaos gets excessively and complexly%Nentangled in proportion to the time passing, to the point%Nwhere now, I can't even find the origin of all of it.%K%P
+
+0x222C
+... I feel like I'm at the bottom of the sea.%K%N
+
+0x2238
+If I look in a random direction, can I crawl up?%K%N
+
+0x2244
+If this is the bottom of the ocean where no light reaches,%Nthen even the distinction between heaven and earth%Ndoesn't reach here.%K%N
+
+0x2250
+My head is throbbing with pain, and my stomach is%Nturning inside out.%K%N%N
+
+0x225C
+(Then... what should I do?)%K%P
+
+0x2270
+Rather, what's the first thing I should do?%K%N
+
+0x227C
+All I can do is untie the tangled threads until I can catch%Nhold of that clue.%K%N
+
+0x2288
+―The "bell"... I have to find that "bell".%K%N
+
+0x2294
+I can worry about Yuka later.%K%P
+
+0x22A8
+Anyway, for now, my first priority is finding the little girl%Nwho has the bell.%K%N
+
+0x22B4
+"The anxiety that comes from doing nothing is worse%Nthan any danger you might face," as they say.%K%N
+
+0x22C0
+With my mind made up, I calmly open my eyes...%K%P
+
+0x2350
+This was the first place I could think of... Tsukiya Hotel.%K%P
+
+0x235C
+Judging from her appearance, that girl is definitely a%Ntourist on a family vacation.%K%P
+
+0x2368
+(If that's the case, then they must be staying at this%Nhotel...)%K%P
+
+0x2374
+I approach the hotel's automatic doors.%K%P
+
+0x2380
+Before I can reach them, they suddenly open up.%K%P
+
+0x238C
+And the one who comes outside is...%K%P
+
+0x2398
+―that girl!!%K%P
+
+0x23CC
+I've looked high and low for that girl for several hours,%Nbut in the end, I couldn't find her...%K%P
+
+0x23D8
+I've ended up arriving here, at this pier...%K%P
+
+0x23E4
+There's only half an hour left until I'm supposed to be at%NLunabeach.%K%P
+
+0x23F0
+(Is... all I can do just give up for today...?)%K%P
+
+0x23FC
+Dropping my shoulders, I turn around.%K%P
+
+0x2408
+Just then... Right in front of the fish market, playing with a%Npushcart...%K%P
+
+0x2414
+―is that girl!!%K%P
+
+0x2420
+I start fiercely running over towards the fish market...%K%P
+
+0x2458
+I rush to go talk to her.%K%P
+
+0x2480
+Makoto「A-About that bell...」%K%P
+
+0x248C
+Girl「Oh... you're that...」%K%P
+
+0x2498
+Makoto「Listen, I want that bell back, no matter...」%K%P
+
+0x24A4
+Girl「I gave it away♪」%K%P
+
+0x24B0
+Makoto「Gave it away? Gave it away... to who?」%K%P
+
+0x24BC
+Girl「Hey, look, look, isn't it cute?」%K%P
+
+0x24C8
+The girl ignores my question, and slowly pulls something%Nout of her pocket.%K%P
+
+0x24DC
+On top of her small palm... is a keychain that I recognize.%K%P
+
+0x24E8
+Attached to the keychain is that fat cat mascot%Ncharacter.%K%P
+
+0x24F4
+―It's Yuka's!%K%P
+
+0x2500
+There's no doubt about it, this is the keychain Yuka said%Nshe bought from the souvenir shop!%K%P
+
+0x2534
+Girl「We traded them♪」%K%P
+
+0x2540
+Makoto「... You traded with Yuka!?」%K%P
+
+0x254C
+Girl「Yuka???」%K%P
+
+0x2558
+Girl「Is Yuka the name of this cat?」%K%P
+
+0x2564
+Makoto「That's not it... did the girl who was with me at Viewpoint%NPark give this to you?」%K%P
+
+0x2570
+Girl「Yeah, that's right. That lady traded it with me.」%K%P
+
+0x257C
+(I knew it...)%K%P
+
+0x2588
+Makoto「I see... Thanks for telling me.」%K%P
+
+0x2594
+I pat the girl on the head, and start running.%K%P
+
+0x25A0
+However...%K%P
+
+0x25AC
+Makoto「Oh, that's right!」%K%P
+
+0x25B8
+... I suddenly realize something. I turn around, and tell her%Nthis.%K%P
+
+0x25C4
+Makoto「It seems that cat's name is 'Nin-Nin Neko Pyon'.」%K%P
+
+0x25D0
+Makoto「Isn't it cute?」%K%P
+
+0x25DC
+Girl「???」%K%P
+
+0x2608
+As I leave, I hear a voice coming from the hotel lobby.%K%P
+
+0x2614
+Announcer「Hey! I told you not to go outside on your own, right?!」%K%P
+
+0x2620
+Announcer「... Yue-chan!」%K%P
+
+0x2674
+Right now, I am turning face up on the bed, staring%Nblankly at the ceiling.%K%P
+
+0x2680
+Of course, when I returned to the lodge, I immediately%Nlooked for Yuka.%K%P
+
+0x268C
+But Haruka told me she went to the hot springs, so I%Nstopped there and decided to wait in my room on%Nstandby.%K%P
+
+0x2698
+As I look at the ceiling, I think of the bell.%K%P
+
+0x26A4
+I think about it, but I can't think of any sort of answer...%K%P
+
+0x26B0
+...%K%P
+
+0x26BC
+I realize that I'm both physically and mentally exhausted.%K%P
+
+0x26C8
+Against my will, I am suddenly dragged into an intense%Ndrowsiness that's consuming me.%K%P
+
+0x26D4
+(No... I can't fall asleep... now...)%K%P
+
+0x26E0
+(... I've got to ask Yuka... about the bell... I've got to... ask...%Nher...)%K%P
+
+0x26EC
+Despite my efforts, I lose consciousness in the blink of%Nan eye...%K%P
+
+0x2700
+As I leave, I hear a voice from the market.%K%P
+
+0x270C
+Announcer「Come on, we're done buying souvenirs, so let's go!」%K%P
+
+0x2718
+Announcer「... Yue-chan!」%K%P
+
+0x2768
+*Tap, tap, tap, tap*...%K%P
+
+0x2774
+I quickly arrive at Lunabeach...%K%P
+
+0x2780
+I forcefully thrust the door open.%K%P
+
+0x27EC
+Makoto「Sorry I'm late!」%K%P
+
+0x2828
+Yuka「You're late! You're twelve minutes late!」%K%P
+
+0x2834
+Yuka「As promised, you must pay a fine of 1200 yen.」%K%P
+
+0x2840
+Makoto「...」%K%P
+
+0x284C
+I'm at a loss for words.%K%P
+
+0x2858
+It's not because she's demanding that I fulfill a promise%Nthat I clearly never made... it's not like that.%K%P
+
+0x2864
+―Yuka's back to her normal self.%K%P
+
+0x2870
+That has left me dumbfounded.%K%P
+
+0x2894
+Yuka「That's what I want to say, but because I'm forgiving%Ntoday, I'll lighten it to 'baggage carrier'!」%K%P
+
+0x28A0
+Makoto「Yuka...?」%K%P
+
+0x28AC
+Yuka「?」%K%P
+
+0x28B8
+I've failed to ask her... I thought about questioning her%Nabout the "bell", but...%K%P
+
+0x28C4
+... Everyone else has already gathered inside the shop.%K%P
+
+0x28D0
+I can't ask her now.%K%P
+
+0x28DC
+All I can do is wait afterwards for a time when we're all%Nalone.%K%P
+
+0x28F0
+Yuka「Whaaat? Do you have any complaints?」%K%P
+
+0x28FC
+Makoto「N-No...」%K%P
+
+0x2908
+Makoto「Nothing... in particular.」%K%P
+
+0x291C
+Yuka「All right! Then it's settled! Shall we start preparing at%Nonce?」%K%P
+
+0x296C
+A barbecue set and the charcoal... they made me carry%Nall the heavy stuff.%K%P
+
+0x2978
+The others are walking in front, each one carrying a%Ndifferent set of ingredients.%K%P
+
+0x2984
+(Anyway, why does Yuka know about the bell?)%K%P
+
+0x2990
+(Why did she take the bell from that girl?)%K%P
+
+0x299C
+Suddenly, I hear Yuka's shrill laughter from ahead of me.%K%P
+
+0x29A8
+Right now, Yuka definitely has the bell.%K%P
+
+0x29B4
+Why is Yuka in such a good mood right now?%K%P
+
+0x29C0
+I can't understand why, but anyway, the atmosphere%Naround Yuka makes it feel like nothing bad happened.%K%P
+
+0x29CC
+(Was it really just a coincidence after all?)%K%P
+
+0x29D8
+(Am I just thinking too much into this?)%K%P
+
+0x29E4
+Yeah.. it's gotta be that!%K%P
+
+0x29F0
+Everyone in front of me is having fun...%K%P
+
+0x29FC
+Perhaps it's because I've been influenced by that%Npleasant sight, but before I know it, my mind has%Nregained its calm.%K%P
+
+0x2A08
+... The sun slowly begins to sink behind the ridges of the%Nwestern mountains.%K%P
+
+0x2A14
+Because I didn't have lunch, I feel famished.%K%P
+
+0x2A20
+I'm really looking forward to this barbecue...%K%P
+

@@ -1,0 +1,198 @@
+text area offset and size:
+0x510
+0xDDF
+0x5C
+When I return to the lodge, I take a bath, and once I'm out,%NI decide to try inviting Haruka to my room so I can%Ndirectly ask her about what happened between her and%NSaki.%K%P
+
+0x78
+I think asking her straight will be the best way.%K%P
+
+0x84
+If I tell her that I saw her and Saki arguing at the pier,%Nthen I can settle this right away.%K%P
+
+0xB4
+Makoto「What were you talking to Saki about?」%K%P
+
+0xC0
+Haruka「...」%K%P
+
+0xCC
+Makoto「... It's fine if you don't want to tell me...」%K%P
+
+0xE0
+Haruka「I thought she could teach me how to fish... but she%Nwouldn't teach me.」%K%P
+
+0xEC
+That's not true.%K%N
+
+0xF8
+I clearly understand that. Even so, the words that come%Nout of my mouth are...%K%P
+
+0x104
+Makoto「Talk about a spoiled rich girl.」%K%P
+
+0x110
+Even though that's not the problem here...%K%P
+
+0x124
+Haruka「It's fine... Because I'm different...」%K%P
+
+0x130
+Makoto「How so?」%K%P
+
+0x13C
+Haruka「Because I have... no heart...」%K%P
+
+0x148
+Makoto「...」%K%P
+
+0x154
+Haruka「It's fine if I can't fish...」%K
+
+0x4E8
+"I-I'll teach you."
+
+0x4F4
+"You have no... heart?"
+
+0x19C
+Makoto「I-I'll teach you.」%K%P
+
+0x1B8
+Haruka「... Really?」%K%P
+
+0x1C4
+I give her a nod.%K%N
+
+0x1D0
+Now that I think about it, up until now, I've never really%Ntried to learn about Haruka.%K%P
+
+0x1DC
+If she wants to learn how to fish, then I'll give her all the%Nhelp she needs.%K%P
+
+0x1E8
+I want to get to know her better and%Nstart to understand her feelings.%K%P
+
+0x1F4
+I want to understand the depths of the emotions of this%Ngirl who says she has no "heart". After that, won't it be%Nall right to ask her about Saki?%K%P
+
+0x200
+That's what I think.%K%P
+
+0x214
+Makoto「You have no... heart?」%K%P
+
+0x220
+Haruka「... None.」%K%P
+
+0x22C
+She "doesn't have a heart"... Just what does that mean?%K%P
+
+0x238
+Haruka seems to be dwelling on something by herself.%K%N
+
+0x244
+Haruka has never opened her heart to us. Is it because%Nshe really thinks she has no heart? Well then, if that's%Nthe case...%K%P
+
+0x250
+Makoto「I'll teach you.」%K%P
+
+0x264
+Haruka「... Huh?」%K%P
+
+0x270
+Haruka「How to fish. You wanted to learn how to fish, right?」%K%P
+
+0x27C
+Haruka nods.%K%P
+
+0x298
+Haruka「Will you really teach me?」%K%P
+
+0x2A4
+This time, I'm the one to nod. Now that I think about it, up%Nuntil now, I've never really tried to learn about Haruka.%K%P
+
+0x2B0
+If she wants to learn how to fish, then I'll give her all the%Nhelp she needs.%K%P
+
+0x2BC
+I want to get to know her better and start to understand%Nher feelings.%K%P
+
+0x2C8
+I want to understand the depths of the emotions of this%Ngirl who says she has no "heart".%K%P
+
+0x2C8
+After that, won't it be all right to ask her about Saki?%NThat's what I think.%K%P
+
+0x2D4
+Makoto「Tomorrow, the two of us will go fishing.」%K%P
+
+0x2E0
+Haruka「...」%K%P
+
+0x2EC
+Makoto「Right? It's a promise.」%K%P
+
+0x2F8
+Haruka「A promise...」%K%P
+
+0x304
+Makoto「That's right, a promise.」%K%P
+
+0x310
+Haruka「How can we make something like a promise?」%K%P
+
+0x31C
+Makoto「Huh?」%K%P
+
+0x328
+Haruka「You don't know what will happen tomorrow... right?」%K%P
+
+0x334
+Makoto「We'll go tomorrow, no matter what happens. That's what%Nwe've decided.」%K%P
+
+0x340
+Haruka「How can you decide that?」%K%P
+
+0x34C
+Makoto「That's... because I trust you.」%K%P
+
+0x358
+Haruka「Trust...」%K%P
+
+0x364
+Makoto「And you trust me too.」%K%P
+
+0x370
+Haruka「I trust you too...」%K%P
+
+0x37C
+Makoto「That's right. Without mutual trust, a promise means%Nnothing.」%K%P
+
+0x388
+Haruka「Mutual trust...」%K%P
+
+0x394
+Makoto「Yeah...」%K%P
+
+0x3A0
+Haruka「So then, you... and I... can trust each other?」%K%P
+
+0x3AC
+Makoto「That's right.」%K%P
+
+0x3B8
+Makoto「When tomorrow comes, don't forget this promise. Keep it,%Nno matter what happens. All right?」%K%P
+
+0x3CC
+Haruka slowly nods.%K%N
+
+0x3D8
+It looks like she wanted to say something.%K%P
+
+0x3E4
+Like this, she'll learn more and more. Slowly, but surely,%Nher "heart" will be born. Even Haruka should be able to%Nrealize that.%K%P
+
+0x3F0
+That's what I think...%K%P
+

@@ -1,0 +1,81 @@
+text area offset and size:
+0x6D8
+0x4D0
+0x100
+オレと優夏は約束した……『７日の朝日を一緒に見よう』と。%K%P
+Yuka and I made a promise... "We'll see the sunrise of the%N7th together."%K%P
+0x10C
+──７日。%K%N
+―Today's the 7th.%K%N
+0x118
+はじめての朝……。%K%N
+It's the start of the morning...%K%N
+0x124
+はじめて見る朝日が、今ゆっくりと、黄金色の海の彼方を昇っていく……。%K%P
+The morning sun is now beginning to slowly rise from%Nbeyond the golden ocean...%K%P
+0x130
+『ときはとかれん』──それはきっと『無限ループの時の流れから解き放たれる』と言う意味で……%K%P
+"Will free you from time"―That surely meant "to be%Nreleased from the infinite loop's flow of time"...%K%P
+0x13C
+『みさきのはて』──それはたぶん『本当の岬の果て……つまり海の中』のことを指していたのだろう。%K%P
+"At the end of the cape"―That was probably%Nindicating, "The real end of the cape"... in other words,%N"in the ocean."%K%P
+0x148
+オレ達は今、解き放たれたのだ……。%K%P
+Right now, we've been released...%K%P
+0x154
+誠「優夏？」%K%P
+Makoto「Yuka?」%K%P
+0x168
+優夏「ん？」%K%P
+Yuka「Hmm?」%K%P
+0x174
+誠「これで全部、終わったな？」%K%P
+Makoto「With this, everything's over, huh?」%K%P
+0x188
+優夏「…………………………」%K%P
+Yuka「...」%K%P
+0x194
+誠「？」%K%P
+Makoto「?」%K%P
+0x1A0
+優夏「違うよ、誠……。なんにも終わってなんか……いないよ……」%K%P
+Yuka「You're wrong... Nothing's... over...」%K%P
+0x1AC
+優夏「すべてはこれから、始まるんだもん……」%K%P
+Yuka「Everything begins from now on...」%K%P
+0x1D0
+優夏「誠……？」%K%P
+Yuka「Makoto...?」%K%P
+0x1DC
+優夏「これからもずっと……そばにいてくれる？」%K%P
+Yuka「From now on, will you always... stay by my side?」%K%P
+0x1E8
+誠「ああ……。オレはずっと、優夏のそばにいるよ……」%K%P
+Makoto「Yeah... I'll always be by your side...」%K%P
+0x1F4
+誠「これからもずっと……永遠に……」%K%P
+Makoto「From now on and always... for eternity...」%K%P
+0x200
+誠「オレ達は一緒だ……」%K%P
+Makoto「We'll be together...」%K%P
+0x214
+優夏「うん……」%K%P
+Yuka「Yeah...」%K%P
+0x268
+まばゆい朝の光の中で、オレと優夏は初めて唇を重ねた。%K%P
+In the dazzling morning light, Yuka and I kiss each other%Nthe first time.%K%P
+0x274
+それはまるで、何年も付き合っているかのように、慣れ親しんだキスだった。%K%P
+It's as if it's a familiar kiss that I've felt for many years.%K%P
+0x280
+はたからオレ達を見たならば、とても８日前に出会ったばかりとは思えないに違いない。%K%P
+If a complete stranger saw us right now, they wouldn't%Nthink by any means that we had only just met eight days ago.%K%P
+0x28C
+いや、けれどそれは当たり前か……？%K%P
+Then again... Isn't that obvious?%K%P
+0x298
+何しろオレと優夏は、%T030何億年という歳月を、%T030共に過ごして来たのだから……。%K%P
+After all, Yuka and I have spent hundreds of millions of%Nyears together...%K%P
+0x4C0
+『ＣＵＲＥ』シナリオ────覚醒。
+Izumi Cure route unlocked.

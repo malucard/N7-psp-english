@@ -1,0 +1,75 @@
+text area offset and size:
+0x408
+0x457
+0x40
+By the time Okuhiko returns to the lodge, we've already%Nhad quite a bit of fun.%K%P
+
+0x54
+Okuhiko「H-Hey... what are you doing here, guys!?」%K%P
+
+0x60
+Makoto「Oh! Okuhiko! You're late...」%K%P
+
+0x6C
+Okuhiko「??」%K%P
+
+0x88
+Saki「Don't just stand there. Haul your ass inside!」%K%P
+
+0x9C
+Okuhiko「????」%K%P
+
+0xB8
+Izumi「Aren't you tired? Come on in. We have everything ready%Nfor you...」%K%P
+
+0xC4
+Okuhiko「??????」%K%P
+
+0xE0
+Yuka「Hey, Okuhiko! Come here and shee whaa we've got in%Nshtore!」%K%P
+
+0xFC
+Okuhiko「A-A-Are you guys seriously worried or not!? What about%NHaruka-chan!?」%K%P
+
+0x110
+Haruka「Welcome back... Okuhiko.」%K%P
+
+0x124
+Okuhiko「Like I was saying, this isn't the time to say 'welcome%Nback', you...」%K%P
+
+0x130
+... ... ... ...%K%P
+
+0x144
+Okuhiko「... Huh?」%K%P
+
+0x16C
+Makoto「Heh... heh heh heh...」%K%P
+
+0x188
+Saki「Ehee hee hee hee hee hee hee...」%K%P
+
+0x19C
+Izumi「Hee hee hee hee...」%K%P
+
+0x1B8
+Yuka「Gyahahahahahahaha♪」%K%P
+
+0x1D4
+Haruka「Hee hee...」%K%P
+
+0x1E0
+Makoto「Ahahahahaha...」%K%P
+
+0x1F4
+The lodge is filled with the echoes of our laughter...%K%N
+
+0x200
+We can't seem to stop...%K%P
+
+0x214
+Okuhiko just stands there, stock-still and dumbfounded...%K%P
+
+0x238
+... And thus, our fun "Seminar Camp"...%K has ended.%K%P
+

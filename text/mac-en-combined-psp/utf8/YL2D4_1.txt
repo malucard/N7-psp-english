@@ -1,0 +1,537 @@
+text area offset and size:
+0xF18
+0x2A5F
+0x134
+After we finish eating our ham and mozzarella cheese%Nsandwiches, Yuka and I walk by the morning coastline.%K%P
+
+0x150
+This time, I decide to go with Yuka to see the cherry%Nblossoms.%K%P
+
+0x164
+Like last time, I decide to go with Yuka to see the cherry%Nblossoms.%K%P
+
+0x170
+When I look up, I see the very picture of a wide, blue sky.%K%P
+
+0x17C
+The springtime haze is hanging in the air all across the%Nsea, making a yacht traveling across the water seem%Nlike an illusion as it creates whitecaps.%K%P
+
+0x188
+Makoto「Hey, Yuka? Aren't we going to see the cherry blossoms%Nagain?」%K%P
+
+0x194
+I ask her this.%K%P
+
+0x1A0
+I did say that we were going to see the cherry%Nblossoms, but I don't actually know if that's for certain.%K%P
+
+0x1AC
+In any case, we've already seen the cherry blossoms%Ntwice: once on the last 4th, and once two days ago...%K%P
+
+0x1C0
+Yuka「No. We're not going today.」%K%P
+
+0x1CC
+Yuka answers.%K%P
+
+0x1D8
+Yuka「Why don't we go to Lunabeach to relax and pass the%Ntime instead?」%K%P
+
+0x1E4
+Makoto「Yeah, good idea. We have to meet with everyone at%NLunabeach at 5:00 anyway...」%K%P
+
+0x1F8
+Yuka「Besides... looking at those cherry blossoms just makes%Nme remember him.」%K%P
+
+0x204
+Makoto「Huh...?」%K%P
+
+0x210
+Yuka「The first boy that I loved.」%K%P
+
+0x234
+―Those words gnaw at my heart.%K%P
+
+0x240
+―It grows hot like an angry, blazing fire flaring up.%K%P
+
+0x24C
+Why the hell... do I feel so depressed...!?%K%P
+
+0x258
+This is an unpleasant feeling that's similar to irritation.%K%P
+
+0x264
+... Now that I think about it, yesterday, during the Test of%NCourage... in the end, what was it that Saki tried to say?%K%P
+
+0x270
+Saki「Occasionally, at times when I see you act impulsively, it%Nreally feels like I'm hallucinating.」%K%P
+
+0x27C
+Saki「It feels just like you're that boy if...」%K%P
+
+0x288
+...%K%P
+
+0x2B0
+Well, whatever.%K%P
+
+0x2BC
+I'm getting too worked up over nothing.%K%P
+
+0x2C8
+Something like that is inconsequential to me.%K%P
+
+0x2D4
+Even if our attitudes are similar, it's as inconsequential%Nas a grain of sand on the beach.%K%P
+
+0x2E0
+If I had it my own way, instead of saying that "I'm similar to%Nthat boy"...%K%P
+
+0x2EC
+... the right expression would be, "That boy is similar to%Nme."%K%P
+
+0x2F8
+It's not me who's being a copycat, it's that boy.%K%P
+
+0x304
+I persuade myself with this absurd reasoning...%K%P
+
+0x354
+As usual, Lunabeach has no customers...%K%P
+
+0x360
+Yuka and I sip down on Izumi-san's boiling hot coffee.%K%P
+
+0x36C
+With no customers at hand, an idle Izumi-san sits with us.%K%P
+
+0x380
+Izumi「The clouds are coming in quick...」%K%P
+
+0x38C
+Izumi-san suddenly mutters these words.%K%P
+
+0x398
+Izumi「At this rate, it'll definitely be cloudy tomorrow.」%K%P
+
+0x3B4
+Yuka「Wow... How do you know that?」%K%P
+
+0x3D0
+Izumi「Half of it's intuition, half of it's experience.」%K%P
+
+0x3DC
+Izumi「When you spend a long time living by the sea, you%Ngradually reach the point where you know these kinds%Nof things.」%K%P
+
+0x3F8
+Yuka「Huh...」%K%P
+
+0x40C
+Izumi「Shall I tell you one more thing?」%K%P
+
+0x418
+Yuka「?」%K%P
+
+0x424
+Izumi「There'll be heavy rain starting tomorrow night.」%K%P
+
+0x438
+Yuka「!?」%K%P
+
+0x444
+Makoto「!?」%K%P
+
+0x450
+Yuka and I exchange glances.%K%P
+
+0x45C
+Izumi「It'll be a great downpour...」%K%P
+
+0x468
+Makoto「H-How do you know...?」%K%P
+
+0x47C
+Izumi「Ah... are you doubting me?」%K%P
+
+0x488
+Makoto「No, that's not it.」%K%P
+
+0x494
+Izumi「All right♪ Well then, why don't we make a bet?」%K%P
+
+0x4A0
+Makoto「A-A bet?」%K%P
+
+0x4AC
+Izumi「On whether it'll rain or not tomorrow night.」%K%P
+
+0x4B8
+Makoto「There's no way I'd bet on that! Because tomorrow ni―」%K%P
+
+0x4E8
+Makoto「Ow!」%K%P
+
+0x4F4
+Yuka stomps down on my foot from under the table with%Nall her might.%K%P
+
+0x508
+Izumi「Hmm?」%K%P
+
+0x51C
+Yuka「You've got it! We'll take you up on that bet!」%K%P
+
+0x530
+Izumi「Hee hee, that's the spirit♪」%K%P
+
+0x544
+Yuka「After all, there's no way it'll rain with this good weather.」%K%P
+
+0x550
+Izumi「Hee hee hee hee hee hee hee...」%K%P
+
+0x55C
+Makoto「???」%K%P
+
+0x570
+Izumi「... Well then, what's your wager?」%K%P
+
+0x584
+Yuka「If it does rain... then on my next summer break, I'll help out%Nat Lunabeach, but only for a week.」%K%P
+
+0x590
+Izumi「Really?」%K%P
+
+0x59C
+Yuka「Yes!」%K%P
+
+0x5A8
+Yuka... she's quite the philanthropist...%K%P
+
+0x5B4
+Even though she knows that it's going to rain...%K%P
+
+0x5C8
+Izumi「And if it doesn't rain?」%K%P
+
+0x5D4
+Yuka「Hmm... let's see...」%K%P
+
+0x5E8
+Yuka「Well then, next summer break, please take me out for%Ndrinks. It'll be on you, of course♪」%K%P
+
+0x5F4
+Izumi「Yes, all right.」%K%P
+
+0x608
+Izumi「... But if you want to back out, now's the time.」%K%P
+
+0x614
+Yuka「I'm fine! It definitely won't rain!」%K%P
+
+0x620
+She's not going to stop...%K%P
+
+0x62C
+So Yuka... really did intend to help out from the beginning...%K%P
+
+0x638
+But even so, why does Izumi-san... have so much%Nconfidence?%K%P
+
+0x644
+Can you really do something like predict the weather with%Njust intuition and experience?%K%P
+
+0x650
+Makoto「But Izumi-san... why are you so confident?」%K%P
+
+0x65C
+I try asking her.%K%P
+
+0x670
+Izumi「Hee hee... My intuition is very accurate.」%K%P
+
+0x67C
+Izumi「When I was in high school, I was known and feared as%N'Sumisora's Laplace'.」%K%P
+
+0x690
+Yuka「Sumisora's Laplace?」%K%P
+
+0x6A4
+Izumi「Oh, I didn't tell you?」%K%P
+
+0x6B0
+Izumi「My alma mater was 'Sumisora Academy'...」%K%P
+
+0x6BC
+Yuka「No. That's not it... I meant 'Laplace'...」%K%P
+
+0x6C8
+Izumi「Oh... you don't know what 'Laplace' is?」%K%P
+
+0x6D4
+Izumi「It refers to 'Laplace's Demon'.」%K
+
+0xEF0
+I know what it is.
+
+0xEFC
+I don't know.
+
+0x714
+Makoto「Yeah, I've heard of it before.」%K%P
+
+0x720
+Makoto「According to the words of a French mathematician and%Nastronomer named Laplace...」%K%P
+
+0x72C
+Makoto「'Suppose there exists a "demon", that is, an entity that%Npossesses the ability to know, at a certain moment, the%Nstate of all things in the universe...」%K%P
+
+0x738
+Makoto「... Then, no matter how brief this moment is, it would always%Nbe enough for the demon to unravel everything that%Nhappened in the past and will happen in the future.'」%K%P
+
+0x744
+Yuka「????」%K%P
+
+0x750
+Makoto「In short, that old guy said...」%K%P
+
+0x75C
+Makoto「... 'Everything which occurs in the world has been%Npredetermined from the beginning.' That's what he's%Nsaying.」%K%P
+
+0x768
+Makoto「No matter how big or how small an event is...」%K%P
+
+0x774
+Makoto「... Its occurrence is by no means accidental, but in fact%Ninevitable... that's what it means.」%K%P
+
+0x780
+Makoto「I believe that in philosophy, this is called 'causal%Ndeterminism'...」%K%P
+
+0x794
+Yuka「????????」%K%P
+
+0x7A0
+Izumi「That's right. You're well informed, Makoto-kun.」%K%P
+
+0x7AC
+I feel a little proud...%K%P
+
+0x7B8
+Izumi「So anyway, when I was in high school...」%K%P
+
+0x7C4
+Izumi「... I would boldly make predictions about things other%Npeople didn't know about that proved to be accurate.%NSo my friends called me 'Sumisora's Laplace'.」%K%P
+
+0x7D0
+Makoto「Hmm...」%K%P
+
+0x7E4
+Izumi「... Gotcha♪」%K%P
+
+0x7F8
+Makoto「... Huh?」%K%P
+
+0x80C
+Izumi「That was all a lie!」%K%P
+
+0x818
+Izumi「Truth is, I just watched the weather forecast.」%K%P
+
+0x824
+Makoto「Huh?」%K%P
+
+0x830
+Izumi「When I watched the weather forecast on TV earlier, they%Nsaid that it would start raining heavily tomorrow night♪」%K%P
+
+0x844
+Yuka「... T-That's unfair, Izumi-san!」%K%P
+
+0x858
+Izumi「Tee hee♪」%K%P
+
+0x864
+Izumi-san bashfully sticks out her tongue.%K%P
+
+0x878
+Makoto「??」%K%P
+
+0x884
+Yuka「??」%K%P
+
+0x890
+Izumi「I see... You don't know...」%K%P
+
+0x89C
+Izumi「These are the words of a French mathematician and%Nastronomer named Laplace.」%K%P
+
+0x8A8
+Izumi「'Suppose there exists a 'demon', that is, an entity that%Npossesses the ability to know, at a certain moment, the%Nstate of all things in the universe...」%K%P
+
+0x8B4
+Izumi「... Then, no matter how brief this moment is, it would always%Nbe enough for the demon to unravel everything that%Nhappened in the past and will happen in the future.'」%K%P
+
+0x8C0
+Makoto「????」%K%P
+
+0x8D4
+Yuka「????」%K%P
+
+0x8E0
+Izumi「In short, that man named Laplace was saying this...」%K%P
+
+0x8EC
+Izumi「... 'Everything which occurs in the world has been%Npredetermined from the beginning.' That's what he's%Nsaying.」%K%P
+
+0x8F8
+Izumi「No matter how big or how small an event is...」%K%P
+
+0x904
+Izumi「... Its occurrence is by no means accidental, but in fact%Ninevitable... that's what it means.」%K%P
+
+0x910
+Izumi「I believe that in philosophy, this is called 'causal%Ndeterminism'.」%K%P
+
+0x91C
+Makoto「????????」%K%P
+
+0x928
+Yuka「????????」%K%P
+
+0x934
+Izumi「And so, when I was in high school...」%K%P
+
+0x940
+Izumi「... I would bluntly make predictions about things other%Npeople didn't know about that proved to be accurate.%NSo my friends called me 'Sumisora's Laplace'.」%K%P
+
+0x94C
+Makoto「I-I see...」%K%P
+
+0x960
+Izumi「... Gotcha♪」%K%P
+
+0x974
+Makoto「...H-Huh?」%K%P
+
+0x988
+Izumi「That was all a lie!」%K%P
+
+0x994
+Izumi「Truth is, I just watched the weather forecast.」%K%P
+
+0x9A0
+Makoto「Huh?」%K%P
+
+0x9AC
+Izumi「When I watched the weather forecast on TV earlier, they%Nsaid that it would start raining heavily tomorrow night♪」%K%P
+
+0x9C0
+Yuka「... T-That's unfair, Izumi-san!」%K%P
+
+0x9D4
+Izumi「Tee hee♪」%K%P
+
+0x9E0
+Izumi-san bashfully sticks out her tongue.%K%P
+
+0x9EC
+I'm...%K%P
+
+0x9F8
+... more disturbed by the story of "Laplace's demon"%Nthan Izumi-san's lie.%K%P
+
+0xA04
+"Everything which occurs in the world has been%Npredetermined from the beginning... Its occurrence is by%Nno means accidental, but in fact inevitable."%K%P
+
+0xA10
+Everything's been predetermined...?%K%P
+
+0xA24
+Yuka「Then that means our earlier bet... is now null and void,%Nright?」%K%P
+
+0xA38
+Izumi「No way. The forecast's not always correct, is it?」%K%P
+
+0xA44
+The two of them smile merrily...%K%P
+
+0xAD8
+At 11:17 A.M.―the earthquake attacks.%K%N%N
+
+0xAE4
+But since Yuka and I already knew about it, we've gotten%Nto the point where nothing surprises or frightens us%Nanymore.%K%N
+
+0xAF0
+Only Izumi-san is upset by this contingency, as her%Ncoffee cups completely broke.%K%N%N
+
+0xAFC
+"These recent earthquakes cause us to lose more and%Nmore tableware," she laments.%K%P
+
+0xB10
+And so, up until everyone arrives at 5:00, the three of%Nus pass the time exchanging trifling gossip.%K%N
+
+0xB1C
+In that time, Izumi-san tells us very interesting stories%Nabout Kurumi.%K%N%N
+
+0xB28
+It seems that Kurumi's had vagrant habits ever since%Nshe was a child.%K%P
+
+0xB3C
+She would get lost at the amusement park... Would get%Nstranded when going on trips...%K%N%N
+
+0xB48
+(Hmm? Is that really what you'd call vagrant?)%K%N%N
+
+0xB54
+... Although I think that, Yuka and I can't help%N
+
+0xB60
+but to nod every now and then at Izumi-san's words.%K%N
+
+0xB6C
+At any rate, today is Thursday, April 4th... the day Kurumi%Nactually went missing.%K%P
+
+0xB80
+―Kurumi's disappearance?%K%N%N
+
+0xB8C
+I see... now that I think about it, that was how all of this%Nbegan.%K%N
+
+0xB98
+The first time Yuka and I went to the shrine was to look%Nfor the missing Kurumi.%K%P
+
+0xBAC
+If we didn't see that talisman when we went to the shrine,%Nthen right now, we probably wouldn't be doing something%Nlike repeating this time.%K%N
+
+0xBB8
+If that's the case, then making Kurumi go missing might be%Ndangerous.%K%N%N
+
+0xBC4
+No, wait a minute.%K%N
+
+0xBD0
+There's a much bigger problem with letting it happen than%Nthat, isn't there?%K%P
+
+0xBE4
+No matter the circumstances, Kurumi's disappearance%Nisn't something to be grateful for.%K%N
+
+0xBF0
+Izumi-san also got extremely worried...%K%N
+
+0xBFC
+Yuka and I know that tonight, Kurumi will go missing.%K%N
+
+0xC08
+Nevertheless, there's no way that I can let that happen.%K%P
+
+0xC1C
+Tonight, I'll be with Kurumi the whole time.%K%N
+
+0xC28
+Of course, I'll have Yuka to help me...%K%N
+
+0xC34
+It's not like we're going to babysit her, but if we keep a%Nclose eye, we should be able to prevent that incident%Nfrom occurring.%K%N
+
+0xC40
+If we could change Saki's history... then we can change%NKurumi's...%K%P
+

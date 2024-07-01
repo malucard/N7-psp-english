@@ -4,8 +4,10 @@
 import sys
 import re
 
-seg_table = [0x1140, 0xac98]
-seg_text = [0xba68, 0x2c11a]
+#seg_table = [0x1140, 0xac98]
+#seg_text = [0xba68, 0x2c11a]
+seg_all_table = [0x1ba8, 0x9904] 
+seg_all = [0xaf80, 0x2254f]
 
 def main():
 
@@ -28,7 +30,7 @@ def main():
   head_int = mv.cast("I")
   body = bytearray()
   
-  jp_pattern = re.compile(b"^;([\da-fA-F]*);([\d]*);(.*)$")
+  jp_pattern = re.compile(b"^;([\\da-fA-F]*);([\\d]*);(.*)$")
   dupestr = b";dupe:"
   i = 0
   pos = 0

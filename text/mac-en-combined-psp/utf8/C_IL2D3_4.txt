@@ -1,0 +1,606 @@
+text area offset and size:
+0xDD0
+0x33DB
+0x74
+The moonlight coldly shines on the tombstones.%K%P
+
+0x80
+The moist wind clings to my skin.%K%P
+
+0x8C
+Right now, I'm walking down the overgrown road in the%Ngraveyard.%K%P
+
+0xA0
+Izumi「It's... a little chilly...」%K%P
+
+0xAC
+Walking next to me is the slightly shivering Izumi-san...%K%P
+
+0xC0
+Yes! I've been waiting for this time!%K%P
+
+0xCC
+I already know that when the Test of Courage began,%NIzumi-san and I would be all alone.%K%P
+
+0xD8
+It's an ideal situation where no one can get in our way or%Nbe suspicious of us.%K%P
+
+0xE4
+It's already been nearly ten minutes since we left the%Nstarting point.%K%P
+
+0xF0
+We won't be able to hear the others talking or their%Nfootsteps.%K%P
+
+0xFC
+I think that this will be the best time for us to talk.%K%P
+
+0x108
+Makoto「Izumi-san...」%K%P
+
+0x114
+As I say this, I grab Izumi-san by the arm...%K%N
+
+0x120
+―And then drag her between the tombstones!%K%P
+
+0x134
+Izumi「Huh? Huh? What? What?」%K%P
+
+0x140
+I cover the confused Izumi-san's mouth with my left hand,%Nand point to my mouth with my right index finger.%K%P
+
+0x14C
+Makoto「From this point onward, we cannot allow ourselves to be%Ndiscovered...」%K%P
+
+0x160
+... Izumi-san silently nods.%K%P
+
+0x16C
+On my palm, I can feel the sensation of her wet lips...%K%P
+
+0x178
+Her warm breaths leak out and tickle the space between%Nmy fingers.%K%P
+
+0x184
+I'm getting kinda embarrassed... so I quickly take my palm%Noff of her.%K%P
+
+0x1B4
+Izumi「Ah, you surprised me...」%K%P
+
+0x1C0
+Izumi「I was caught so off guard that my heart was pounding.」%K%P
+
+0x1CC
+I'm the one whose heart is pounding.%K%P
+
+0x1D8
+That beating intensifies when I look her spruce,%Ntransparent white skin...%K%P
+
+0x1E4
+The smooth lines on the back of her neck...%K%P
+
+0x1F0
+Her large, drooping breasts...%K%P
+
+0x1FC
+I instinctively gulp.%K%P
+
+0x208
+(Crap, crap...)%K%P
+
+0x214
+(What the hell am I thinking...?)%K%P
+
+0x228
+I quickly avert my gaze to shake off those wicked%Nfeelings.%K%P
+
+0x234
+While pretending to be calm, I sit down on a nearby stone%Nstaircase.%K%P
+
+0x248
+Izumi「Oh...」%K%P
+
+0x254
+Izumi「Just now, you were thinking something strange... weren't%Nyou?」%K%P
+
+0x260
+Makoto「N-No I wasn't!」%K%P
+
+0x26C
+Makoto「Don't say such weird things!」%K%P
+
+0x280
+Izumi「Hmm... then that's fine...」%K%P
+
+0x28C
+Izumi-san sits down on the stairs with a suggestive smile.%K%P
+
+0x298
+Izumi「I wonder why...」%K%P
+
+0x2A4
+Izumi「When I'm with you, Makoto-kun, my heart is very calm...」%K%P
+
+0x2B0
+Makoto「...」%K%P
+
+0x2BC
+Izumi「Makoto-kun, you said it yesterday, didn't you?」%K%P
+
+0x2C8
+Izumi「'Is it really all right for us to stay this carefree?'」%K%P
+
+0x2D4
+Izumi「I also think that.」%K%P
+
+0x2E0
+Izumi「As a psychologist, I've been seriously worried, thinking%Nwe should be taking this problem more seriously.」%K%P
+
+0x2EC
+Izumi「But you know what?」%K%P
+
+0x2F8
+Izumi「On the other hand, there's also a 'me' who doesn't think%Nthat way...」%K%P
+
+0x304
+Izumi「There's a me who wishes to accept the reality before my%Neyes as it is.」%K%P
+
+0x310
+Izumi「... See... take a look.」%K%P
+
+0x31C
+As Izumi-san says this, she looks to the sky.%K%P
+
+0x330
+Izumi「The stars are shining today as well, right?」%K%P
+
+0x33C
+Izumi「Even now, Regulus... is continuing to shine...」%K%P
+
+0x348
+Izumi「What's more important than whether it's true or not is%Nwhether you can believe it or not.」%K%P
+
+0x354
+Izumi「That's... how it is...」%K%P
+
+0x394
+Izumi「Suddenly experiencing this strange phenomenon... If%Nyou weren't here, I think I would have lost my reason.」%K%P
+
+0x3A0
+Izumi「It's because you're here, Makoto-kun... That's why I've%Nreached the point where I can believe.」%K%P
+
+0x3AC
+Believe...%K%N
+
+0x3B8
+Something to believe in...%K%N
+
+0x3C4
+Just what is Izumi-san trying to believe in...?%K%P
+
+0x3D8
+Izumi「Oh, I'm so sorry.」%K%P
+
+0x3E4
+Izumi「I'm just rambling incoherently again, aren't I?」%K%P
+
+0x3F0
+Izumi「But I wanted to say it ahead of time... no matter what...」%K%P
+
+0x3FC
+Izumi「No matter what... before I began talking...」%K%P
+
+0x408
+Makoto「...?」%K%P
+
+0x424
+Izumi「Makoto-kun...」%K%P
+
+0x430
+Izumi「Please...」%K%P
+
+0x43C
+She mutters this like a sigh.%K%P
+
+0x448
+Izumi-san extends her right hand, and touches my cheek.%K%P
+
+0x454
+Her palm is soft...%K%P
+
+0x460
+My cheek, which is cold from the night breeze, warms up.%K%P
+
+0x474
+Izumi「Don't forget this warmth, all right?」%K%P
+
+0x480
+Izumi「Don't forget... my existence, all right?」%K%P
+
+0x48C
+I don't know... what Izumi-san wants to say.%K%P
+
+0x498
+However, only my left cheek feels like it's melting into her%Nwarmth.%K%P
+
+0x4A4
+Into her endless kindness...%K%P
+
+0x4B0
+Into the goddess'... embrace...%K%P
+
+0x4BC
+I feel the same peace as last time on my left cheek.%K%P
+
+0x4D0
+Izumi「... All right? ... Do you promise?」%K%P
+
+0x4DC
+I silently nod.%K%P
+
+0x4E8
+Izumi-san gently removes her palm,and places it on her%Nknee.%K%P
+
+0x4F4
+She slowly smooths out her skirt...%K%N
+
+0x500
+... And then speaks.%K%P
+
+0x514
+Izumi「Then shall we begin?」%K%P
+
+0x520
+Her voice echoes in the darkness, as if she were%Ndeclaring the start of a solemn ceremony.%K%P
+
+0x578
+Izumi「Schr▼dinger's cat.」%K%P
+
+0x584
+Izumi「The Third Trait of Cur▲ Syndrome.」%K%P
+
+0x590
+Izumi「Makoto-kun... do you know how these two are%Nconnected?」%K%P
+
+0x59C
+Makoto「E-Even if you suddenly ask me that, there's no way that%NI'd know!」%K%P
+
+0x5A8
+Makoto「In the first place, I don't know a thing about The Third%NTrait...」%K%P
+
+0x5B4
+Izumi「Yes.」%K%P
+
+0x5C0
+Izumi「But you do know what Schr▼dinger's cat is, right,%NMakoto-kun?」%K%P
+
+0x5CC
+Makoto「I didn't so much 'know' it as much as I 'learned' about it.」%K%P
+
+0x5D8
+Makoto「I heard about it today from Yuka...」%K%P
+
+0x5E4
+Izumi「From Yuka-chan?」%K%P
+
+0x5F0
+Makoto「Yeah.」%K%P
+
+0x5FC
+Izumi「And how did Yuka-chan explain it?」%K%P
+
+0x608
+Makoto「'How'... That's a bit difficult to summarize...」%K%P
+
+0x614
+Makoto「Just...」%K%P
+
+0x620
+Izumi「'Just'...?」%K%P
+
+0x62C
+Makoto「'Deciding the past'.」%K%P
+
+0x640
+Izumi「Huh?」%K%P
+
+0x64C
+Makoto「No, that's... How do I put this?」%K%P
+
+0x658
+Makoto「By opening the lid, you determine the cat's life or death%Nstatus...」%K%P
+
+0x664
+Makoto「In short, it's arranged so that the observer 'decides the%Npast'...」%K%P
+
+0x670
+Makoto「At least... that's what Yuka said...」%K%P
+
+0x67C
+Izumi「Yes... I see...」%K%P
+
+0x688
+Izumi「If that's the case, then the story will go faster.」%K%P
+
+0x694
+Makoto「?」%K%P
+
+0x6A0
+Izumi「In other words... it's like this.」%K%P
+
+0x6AC
+Izumi「The observer's intention decides the truth of the past.」%K%P
+
+0x6B8
+Makoto「The observer's intention???」%K%P
+
+0x6C4
+Izumi「Yes.」%K%P
+
+0x6D0
+Makoto「So is it like this, then?」%K%P
+
+0x6DC
+Makoto「When the lid is opened, the cat is alive if the observer%Nwishes 'I hope it's alive', but is dead if the observer%Nwishes 'I hope it's dead'.」%K%P
+
+0x6E8
+Izumi「No, that's not it.」%K%P
+
+0x6F4
+Izumi「That's not what I wanted to say.」%K%P
+
+0x700
+Izumi「In this case 'intention' refers to a simple 'motive' in order%Nto produce a certain act.」%K%P
+
+0x70C
+Izumi「'I want to confirm the cat's life or death status', so 'I want%Nto open the lid'...」%K%P
+
+0x718
+Izumi「It refers to the very fact that you 'think' so.」%K%P
+
+0x724
+Makoto「Hmm...」%K%P
+
+0x738
+Izumi「But you know what? What you said wasn't wrong either.」%K%P
+
+0x744
+Makoto「Huh?」%K%P
+
+0x750
+Izumi「The observer's wish completely changing the truth of%Nthe past.」%K%P
+
+0x75C
+Izumi「There's a phenomenon described as such that's%Nactually been published as a thesis.」%K%P
+
+0x768
+Izumi「The name of the person who wrote that thesis―is%NMichael Cabin.」%K%P
+
+0x774
+Makoto「What!? That's the man who counseled Tom...」%K%P
+
+0x780
+Izumi「Yes... the very same Dr. Cabin.」%K%P
+
+0x78C
+Makoto「Then, The Third Trait of Cur▲ Syndrome is-」%K%P
+
+0x7A0
+Izumi「Wait!」%K%P
+
+0x7B4
+Izumi「We'll talk about that later...」%K%P
+
+0x7C0
+Izumi「If I don't explain things in order, I think you'll probably get%Nconfused.」%K%P
+
+0x7CC
+Makoto「O-Okay...」%K%P
+
+0x7E0
+Izumi「Okay, Makoto-kun? Listen carefully.」%K%P
+
+0x7EC
+Izumi「While Dr. Cabin's counseling progressed, he%Nexperienced a certain astounding phenomenon.」%K%P
+
+0x7F8
+Izumi「It was something that defied common knowledge... an%Nabnormal phenomenon...」%K%P
+
+0x804
+Makoto「...」%K%P
+
+0x810
+Izumi「At the same time, there was a certain terminal cancer%Npatient hospitalized in the ward of the surgical%Ndepartment in the hospital Dr. Cabin worked at.」%K%P
+
+0x81C
+Izumi「Her name was Julia, a girl who had only just turned twelve%Nyears old...」%K%P
+
+0x828
+Izumi「Her cancer had already spread all around her body, and%Nher case was considered already beyond help.」%K%P
+
+0x844
+Izumi「But... one day, all of the sudden, an unusual event%Noccurred.」%K%P
+
+0x850
+Izumi「The malignant tumor that should have been spreading%Nthroughout her body suddenly disappeared without a%Ntrace.」%K%P
+
+0x85C
+Izumi「Even with X-rays and CAT scans, not even a single%Ntrace of the cancer could be found.」%K%P
+
+0x868
+Izumi「In other words, Julia's illness had been completely cured.」%K%P
+
+0x874
+Makoto「...」%K%P
+
+0x880
+Izumi「Although the doctors in charge of her were completely%Nbewildered by this miraculous event...」%K%P
+
+0x88C
+Izumi「'The treatments we selected probably succeeded.'...%NThey delighted themselves with thoughts like that.」%K%P
+
+0x898
+Izumi「But the story didn't just end there.」%K%P
+
+0x8A4
+Izumi「For some reason, for the rest of that day, the%Nhospitalized patients' illnesses were cured one after%Nanother.」%K%P
+
+0x8B0
+Izumi「It wasn't just cancer...」%K%P
+
+0x8BC
+Izumi「Heart diseases, strokes, liver cirrhosis, kidney failure,%Ndiabetes mellitus, infections, aneurysms, stomach%Nulcers, and even pneumonia...」%K%P
+
+0x8C8
+Izumi「Every single kind of illness was completely cured without%Nwarning.」%K%P
+
+0x8D4
+Izumi「The miracle spread in the blink of an eye, like it was some%Nkind of virus infecting them all.」%K%P
+
+0x8E0
+Makoto「...」%K%P
+
+0x910
+Izumi「Makoto-kun... You understand what I've said so far, right?」%K%P
+
+0x91C
+Izumi「Why this miracle happened, that is...」%K%P
+
+0x928
+Makoto「It couldn't be... the 'Immortality Contagion'... could it?」%K%P
+
+0x934
+Makoto「Through some trigger, Tom touched Julia...」%K%P
+
+0x940
+Makoto「From there, the 'Immortality Contagion' spread around the%Nhospital in the blink of an eye...?」%K%P
+
+0x94C
+Izumi「That's right.」%K%P
+
+0x958
+Izumi「Julia and Tom, who became the origins of this contagion,%Nwere acquaintances.」%K%P
+
+0x964
+Izumi「To put it simply, they were childhood friends... They might%Neven have loved each other.」%K%P
+
+0x970
+Izumi「Anyway, Tom frequently visited Julia's hospital room.」%K%P
+
+0x97C
+"I want to cure her illness."%K%P
+
+0x988
+"And I have a miraculous ability that will enable me to do%Nthat."%K%P
+
+0x994
+Izumi「And one day, Tom, who believed that, gently touched%NJulia's forehead...」%K%P
+
+0x9A0
+Izumi「Everything began from there.」%K%P
+
+0x9AC
+Izumi「When Dr. Cabin noticed this, he discussed it with his%Nfellow doctors.」%K%P
+
+0x9B8
+Izumi「However, the doctors didn't listen to such a strange,%Noccult-like story.」%K%P
+
+0x9C4
+Izumi「In the end, Dr. Cabin decided to investigate the origin of%N'Cure'―the phenomenon known as the 'Immortality%NContagion'―all alone.」%K%P
+
+0x9D0
+Izumi「Before long, several months had passed, and Dr. Cabin%Nfinally reached a hypothesis.」%K%P
+
+0xA38
+"If you were to define the symptoms of a delusion that%Nspreads from person to person as some kind of shared%Npsychotic disorder, then you could liken the contents%Nof the delusion in regards to that mental illness to that%K%Pof a living creature."%K%P
+
+0xA44
+"Said creature, which is created in a single person's%Nmind due to a mutation, may reproduce and spread into%Nother people's consciousnesses one after the other%Nby feeding off the validity of its existence, as well as%K%Pthe intentions of people who desire for its existence."%K%P
+
+0xA58
+"Hence, the more suitable the historical background the%Ncreature is born into and the more powerful the desires%Nof the people at that time, the stronger its vitality, or%Nintensity, grows."%K%P
+
+0xA6C
+"Incidentally, the greatest natural enemy to this living%Ncreature's ability to propagate is common sense."%K%N%N
+
+0xA78
+"Once this creature obtains the vitality to eliminate%Ncommon sense, it appears as a new reality for the first%Ntime."%K%N%N
+
+0xA84
+"Is it perhaps possible that the religious miracles%Ncirculated all over the world can also be seen as the%Nquickening of this creature?"%K%P
+
+0xA98
+"People's consciousnesses (trust and strong desires%Ndue to validity) bring forth this creature as a reality."%K%N%N
+
+0xAA4
+"It might be possible for a strong thought (a delusion) to%Ncreate a new reality."%K%P
+
+0xAFC
+Izumi「In short, it's like this.」%K%P
+
+0xB08
+Izumi「First, a person lies.」%K%P
+
+0xB14
+Izumi「That lie is attractive enough to make people feel that%Nthey want to believe it.」%K%P
+
+0xB20
+Izumi「Furthermore, there's also definite proof of that lie.」%K%P
+
+0xB2C
+Izumi「For example, a miracle occurring in their presence, or%Nhaving actually experienced it themselves...」%K%P
+
+0xB38
+Izumi「Naturally, that's why the one being lied to also firmly%Nbelieve that it's the truth.」%K%P
+
+0xB44
+Izumi「More or less, to firmly believe means... that the lie is no%Nlonger a lie in that person's mind.」%K%P
+
+0xB50
+Makoto「The delusion becomes fact, and fiction becomes reality...」%K%P
+
+0xB5C
+Makoto「In other words, by firmly believing in a lie, it can create a%Nwhole new reality?」%K%P
+
+0xB70
+Izumi「Yes, that's right...」%K%P
+
+0xB7C
+Izumi「And in Tom's case, it was 'I can infect others with%Nimmortality'... That was the first lie, his delusion.」%K%P
+
+0xB88
+Izumi「The patients sincerely believed in that delusion%Nwholeheartedly, and their own miracles occurred.」%K%P
+
+0xB94
+Izumi「Well, we don't know whether they really became immortal%Nor not... In any case, the only fact we can say for sure is%Nthat 'their illnesses were cured'.」%K%P
+
+0xBA0
+Makoto「...」%K%P
+
+0xBB4
+Izumi「Dr. Cabin then considered this.」%K%P
+
+0xBC0
+Izumi「The religious miracles from all ages and countries might%Nbe similar to this phenomenon.」%K%P
+
+0xBCC
+Izumi「―That's why it's Cur▲ Syndrome.」%K%P
+
+0xBD8
+Izumi「In French, the word 'cur▲' refers to a 'curate', or a%N'senior parish priest'.」%K%P
+
+0xBE4
+Makoto「So that's why he used the French word 'cur▲' instead of%Nthe English word 'cure'... Wait, then The Third Trait of Cur▲%NSyndrome is...」%K%P
+
+0xBF8
+Izumi「That's right...」%K%P
+
+0xC04
+Izumi「When delusions become truth.」%K%P
+
+0xC10
+Izumi「When a firm thought produces a new reality.」%K%P
+
+0xC1C
+Izumi「That's The Third Trait...」%K%P
+

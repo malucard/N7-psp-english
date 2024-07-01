@@ -1,0 +1,474 @@
+text area offset and size:
+0xFC0
+0x200D
+0x90
+I exit the shop.%K
+
+0xA4
+Saki is waiting there.%K%P
+
+0xB0
+Makoto「Well then, ready to go?」%K%P
+
+0xBC
+Just as I take a step forward...%K%P
+
+0xD8
+Izumi「Wait a minute!」%K%P
+
+0xE4
+Saki「Is something wrong?」%K%P
+
+0xF0
+Izumi「Sorry, I forgot! Buy these as well!」%K%P
+
+0xFC
+She hands me a small scrap of paper. It's covered in%Nwriting.%K%P
+
+0x108
+Huh? There's so much stuff on here. We have to buy all%Nof this?%K%P
+
+0x114
+Izumi「Also, we have a bike by the side of the shop. Please use%Nit. It'd be easier to bring the groceries back that way.」%K%P
+
+0x120
+Makoto「True. Just carrying the 22 pounds of rice alone does%Nseem like a pain...」%K%P
+
+0x134
+Izumi「The key's attached to it. Well then, you two take care.」%K%P
+
+0x148
+Makoto「Thank you very much.」%K%P
+
+0x154
+I thankfully bow my head as she walks back into the%Nshop.%K%P
+
+0x168
+Makoto「All right then, Saki... san?」%K%P
+
+0x174
+I lift my head, but I don't see her anymore. I try looking%Naround.%K%N
+
+0x180
+The setting sun illuminates the road by the shop.%K%P
+
+0x18C
+On it is Saki, who has already walked far ahead.%K%P
+
+0x198
+Huh? What's this? What's going on?%K%P
+
+0x1A4
+I quickly straddle the bike, and chase after Saki.%K%P
+
+0x228
+Saki steps away from the bike and continues to walk.%K%P
+
+0x234
+Makoto「What's wrong? You can ride in the back, you know.」%K%P
+
+0x248
+Saki「I'm fine.」%K%P
+
+0x254
+Makoto「You don't want to go shopping?」%K%P
+
+0x260
+Saki「I never said that.」%K%P
+
+0x26C
+Makoto「Don't tell me a bike is too 'unseemingly' for you.」%K%P
+
+0x280
+Saki「Not really... That's not what I meant, but-」%K%P
+
+0x28C
+Makoto「Then get on.」%K%P
+
+0x2A0
+When I stretch out my hand, Saki steps back again. She%Nseems to be trembling.%K%P
+
+0x2AC
+Makoto「Huh? Oh, I see... Now I understand...」%K%P
+
+0x2B8
+Saki「What?」%K%P
+
+0x2C4
+Makoto「You're scared of bikes?」%K%P
+
+0x2D8
+Saki「N-No way! You're wrong!」%K%P
+
+0x2E4
+Makoto「Heh heh... is that so...」%K%P
+
+0x2F0
+Saki「Stop laughing, you creep! ―I'll do it. I'll get on. Hurry up%Nand head straight there.」%K%P
+
+0x2FC
+Makoto「Yes, ma'am.」%K%P
+
+0x310
+I wait as Saki slowly sits on the luggage carrier in a side%Nsaddle fashion.%K%P
+
+0x31C
+She looks really nervous. I start silently pedaling.%K%P
+
+0x338
+Seeing Saki like this, I...%K
+
+0xF80
+Get the urge to tease her a bit.
+
+0xF8C
+No, I shouldn't be so mean.
+
+0x388
+Saki「KYAA!」%K%P
+
+0x394
+Saki instinctively clings to my back.%K%P
+
+0x3A0
+Mission accomplished! For a while, I pedal steadily.%K Then I%Nstart to pick up speed.%K The pleasant afternoon breeze%Nruns through my whole body.%K%P
+
+0x3AC
+The feeling of Saki's breasts pressed against my back%Nisn't so bad, either.%K%P
+
+0x3B8
+Saki「Stop! Slow down!」%K%P
+
+0x3C4
+Makoto「Huh? What was that?」%K%P
+
+0x3D0
+I pretend not to hear her. We're coming in on an easy hill,%Nso I increase the bike's speed more and more.%K%P
+
+0x3DC
+We're almost there; I can see the shopping district%Nahead of the curve. Saki screams louder as I pedal%Nharder.%K%P
+
+0x3E8
+I don't care. I'm getting excited. She's kind of cute when%Nshe's upset like this.%K%P
+
+0x3F4
+Saki「That's enough! Let me off!」%K%P
+
+0x400
+No can do, missy.%K%P
+
+0x41C
+Saki「L-L-Look out!」%K%P
+
+0x454
+She suddenly turns my head with her hand. Don't! I can't%Nsee!%K%P
+
+0x460
+Makoto「I-Idiot! We could've crashed into something. Let go!!」%K%P
+
+0x47C
+Saki「KYAA!」%K%P
+
+0x488
+Saki immediately clings to my back. Just as I thought. It%Nseems Saki has a phobia of bikes... no, a phobia of%Nspeed.%K%P
+
+0x494
+I don't want to torment her, so I pedal slowly.%K%P
+
+0x4A0
+At first, Saki was so scared that her arms were wound%Ntight around me, but she got used to it after a while. Now,%Nshe has a single hand lightly propped against my back.%K%P
+
+0x4AC
+Saki「...」%K%P
+
+0x4B8
+Makoto「... Hey...?」%K%P
+
+0x4C4
+Saki「What?」%K%P
+
+0x4D0
+Makoto「... No... it's nothing.」%K%P
+
+0x4DC
+Saki「...」%K%P
+
+0x4E8
+It's quiet between us.%K%P
+
+0x4F4
+Whenever I try to talk to her, Saki just bluntly retaliates.%NThis isn't getting anywhere...%K%P
+
+0x500
+The atmosphere's become quite awkward. Guess this the%Nopposite of "time flies when you're having fun", huh...?%K%P
+
+0x50C
+If I had known things would be going this slow, then%Nshould I have sped up even if it would have scared%Nher...?%K%P
+
+0x518
+As I'm thinking about that, we soon approach a long%Ndecline.%K%P
+
+0x524
+It's neither steep nor is it gentle. Because of our%Ncombined weight, the bike is going to speed up from the%Ndecline.%K%P
+
+0x530
+Makoto「We're going to go faster. Hang on tight.」%K%P
+
+0x53C
+Saki「... O-Okay.」%K%P
+
+0x548
+Saki responds with a faint, trembling voice and nods.%NShe wraps her arms around me again.%K%P
+
+0x554
+I begin to pedal towards the hill.%K%P
+
+0x560
+Whoosh!%K%P
+
+0x56C
+Saki「KYAA!!」%K%P
+
+0x578
+Shit! We're going too fast!%K%N
+
+0x584
+We're sliding down the hill road faster than I expected.%K%N
+
+0x590
+Saki clings to my body with all of her might.%K%P
+
+0x59C
+With this bulging sensation against my back, I start to%Nthink that this isn't so bad.%K%P
+
+0x5A8
+Saki「No!! You're going too fast!」%K%P
+
+0x5B4
+I reluctantly reach for the brakes after hearing Saki%Nscream this over and over.%K%P
+
+0x5C0
+Where are the brakes... ah, here. ... Huh?%K%P
+
+0x5CC
+Click, click... I start to get the feeling that something is%Nwrong when nothing happens.%K%P
+
+0x5D8
+The bike shows no signs of slowing down at all. Oh... crap...%K%P
+
+0x5E4
+Saki「The brakes!! Hurry up! Slow us down!!」%K%P
+
+0x5F0
+Saki screams hysterically.%K%P
+
+0x5FC
+Makoto「...」%K%P
+
+0x608
+Saki「Wh-What's wrong!? Hurry up!!」%K%P
+
+0x614
+Makoto「... Umm...」%K%P
+
+0x620
+Saki「... Wh-What?」%K%P
+
+0x62C
+Makoto「It seems... the brakes... aren't working.」%K%P
+
+0x638
+Saki「...」%K%P
+
+0x644
+Makoto「...」%K%P
+
+0x66C
+Saki「... No way...」%K%P
+
+0x678
+Makoto「I'm... dead serious.」%K%P
+
+0x684
+To say that the bike needs fixing is putting it lightly.%K%P
+
+0x690
+There are parts loose here and there, and the chain is%Ndisconnected and loose.%K%P
+
+0x69C
+Izumi-san needs to learn how to take better care of%Nvehicles.%K%P
+
+0x6A8
+But wait... if the brakes aren't working...%K%P
+
+0x6B4
+Saki「... N... NOOOO!!!」%K%P
+
+0x6C0
+Saki's scream echoes around us.%K%P
+
+0x6CC
+Her grip tightens even more.%K%P
+
+0x6D8
+Makoto「Shit...!」%K%P
+
+0x6E4
+I try to think of ways on how I can reduce our speed. ...%NBut I'm drawing a blank.%K%P
+
+0x6F0
+Saki「STOOOOOP!!」%K%P
+
+0x6FC
+Saki's loud screams continue.%K%P
+
+0x708
+The bike's rampage continues. Suddenly, I see a curve%Nahead of us.%K%P
+
+0x714
+I instantly turn the handles...%W%W
+
+0x74C
+... but my arms are being pinned down due to Saki's arms.%K%P
+
+0x758
+We... We can't turn!!%K%P
+
+0x764
+Saki「Stop! Stop it!!」%K%P
+
+0x770
+It seems Saki's terror has reached its peak, as she's%Nfallen into panic. Naturally, she can't see the curve in%Nfront of us.%K%P
+
+0x77C
+Makoto「I-Idiot! Let go of my arm!! There's a curve!!」%K%P
+
+0x788
+Saki「Huh!? ... K-KYAAA!!」%K%P
+
+0xA38
+―And so, we've finally come back.%K%P
+
+0xA44
+We drag the bike, with its bent handles, warped saddle,%Nand smashed basket.%K%P
+
+0xA50
+The bike's tire, along with the rice, saffron, fresh cream,%Nand other groceries that were on the bike have become%Nridiculously squashed. Obviously, riding the bike back%Nwas impossible.%K%P
+
+0xA5C
+Yuka and Izumi-san run over to us.%K%P
+
+0xA68
+Izumi-san takes the shopping bags from my hands.%K%P
+
+0xA74
+Just then, I lose my strength and fall down.%K%P
+
+0xA98
+Izumi「Ah, you look terrible. We need to disinfect those wounds...」%K%P
+
+0xAD8
+Yuka「I heard from Saki. I guess the bike wasn't in a condition to%Nbe rode like that.」%K%P
+
+0xAE4
+Makoto「Is Saki... mad?」%K%P
+
+0xAF8
+Yuka「I don't think so.」%K%P
+
+0xB04
+Makoto「Huh, really?」%K%P
+
+0xB10
+If that's so, then I'm grateful.%K%P
+
+0xB58
+At that time, Saki comes out from inside.%K%P
+
+0xB64
+Our eyes meet...%K
+
+0xF98
+Try giving her a little smile.
+
+0xFA4
+Look away.
+
+0xBAC
+Our eyes meet, and I try giving her a little smile.%K%P
+
+0xBC0
+Saki gives a "hmph", and averts her eyes. She doesn't%Nsay a word.%K%P
+
+0xBCC
+(Wait a minute... Yuka!)%K%P
+
+0xBE0
+Makoto「What the hell, Yuka? You said she wasn't ma-」%K%P
+
+0xBEC
+As I'm saying this, Izumi-san sprays disinfectant into the%Nwound on my forehead.%K%P
+
+0xBF8
+Makoto「OWWWW!」%K%P
+
+0xC0C
+Izumi「Put up with it...!」%K%P
+
+0xC18
+She slaps me lightly on the head.%K%P
+
+0xC34
+Yuka turns her head, snickering.%K%P
+
+0xC40
+I feel like somebody is glaring at me.%K%P
+
+0xC54
+Saki is staring at me intently.%K%P
+
+0xC68
+I look at her, but she averts her eyes again.%K%P
+
+0xC74
+Something then occurs to me.%K%N
+
+0xC80
+Why does Saki's face look so pained?%K%P
+
+0xC9C
+Our eyes meet, and I immediately look away.%K%P
+
+0xCA8
+It was because of my carelessness that she got hurt.%K%P
+
+0xCB4
+Yuka said otherwise, but she's obviously mad...%K%P
+
+0xCC0
+And at that time, a sharp pain runs through my forehead.%NIzumi-san sprayed disinfectant into the wound on my%Nforehead.%K%P
+
+0xCCC
+Makoto「OWWWW!」%K%P
+
+0xCE0
+Izumi「Put up with it...!」%K%P
+
+0xCEC
+She slaps me lightly on the head.%K%P
+
+0xD08
+Yuka turns her head, snickering. I can suddenly feel a%Npair of eyes glaring at me.%K%P
+
+0xD1C
+Saki is staring at me intently.%K%P
+
+0xD30
+I look at her, but it's Saki this time who looks away.%K%P
+
+0xD3C
+Something then occurs to me.%K%P
+
+0xD48
+Why does Saki look so pained?%K%P
+

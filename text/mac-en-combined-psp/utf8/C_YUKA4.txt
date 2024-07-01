@@ -1,0 +1,1188 @@
+text area offset and size:
+0x23E0
+0x4FEF
+0x134
+After we finish eating our sandwiches for breakfast,%NMakoto and I walk by the morning coastline.%K%P
+
+0x140
+When I suddenly look up, I see the very picture of a wide,%Nblue sky...%K%P
+
+0x14C
+The springtime haze is hanging in the air all across the%Nsea,%K%P
+
+0x158
+making a yacht traveling across the water seem like an%Nillusion as it creates whitecaps...%K%P
+
+0x164
+Makoto「Hey, Yuka? Aren't we going to see the cherry blossoms%Nagain?」%K%P
+
+0x170
+Makoto asks this with a puzzled face.%K%P
+
+0x17C
+It's true that on the last 4th, we went to see them... and%Nwe went for a second time the day before yesterday.%K%P
+
+0x190
+Yuka「No. We're not going today.」%K%P
+
+0x19C
+Yuka「Why don't we go to Lunabeach to relax and pass the%Ntime instead?」%K%P
+
+0x1A8
+Makoto「Yeah, good idea. We have to meet with everyone at%NLunabeach at 5:00 anyway...」%K%P
+
+0x1BC
+Yuka「Besides... looking at those cherry blossoms just makes%Nme remember him.」%K%P
+
+0x1C8
+Makoto「Huh...?」%K%P
+
+0x1E4
+Yuka「The first boy that I loved.」%K%P
+
+0x1F8
+I steal a glance at Makoto's face.%K%P
+
+0x204
+His expression is a jumble of bewilderment and irritation...%K%P
+
+0x210
+"But I think that Makoto-kun definitely loves you too."%K%P
+
+0x21C
+Izumi-san's words from last night repeat themselves in%Nmy mind.%K%P
+
+0x228
+Makoto... also loves me...?%K%P
+
+0x234
+My heart starts beating furiously.%K%P
+
+0x240
+(I've become conscious of him now because she said%Nthat...)%K%P
+
+0x24C
+As if terrified that he can hear the noise in my heart, I%Nplace my hands over my chest.%K%P
+
+0x258
+...%K%P
+
+0x264
+Suddenly, I notice that Makoto's expression has%Nreturned to normal.%K%P
+
+0x270
+He's cheerfully whistling.%K%P
+
+0x27C
+Yuka「...」%K%P
+
+0x288
+(So... it's not like that after all...)%K%P
+
+0x294
+In the first place, I'm not even certain if I really love him or%Nnot...%K%P
+
+0x308
+As usual, Lunabeach has no customers...%K%P
+
+0x314
+We make trivial conversation with Izumi-san while slurping%Ndown coffee.%K%P
+
+0x320
+...Before long, Izumi-san slyly steers the conversation to%Na certain topic.%K%P
+
+0x334
+Izumi「Oh... you don't know what 'Laplace' is?」%K%P
+
+0x340
+Izumi「It refers to 'Laplace's Demon'.」%K%P
+
+0x34C
+Izumi「These are the words of a French mathematician and%Nastronomer named Laplace.」%K%P
+
+0x358
+Izumi「'Suppose there exists a "demon," that is, an entity that%Npossesses the ability to know, at a certain moment, the%Nstate of all things in the universe...」%K%P
+
+0x364
+Izumi「...Then, no matter how brief this moment is, it would always%Nbe enough for the demon to unravel everything that%Nhappened in the past and will happen in the future.'」%K%P
+
+0x370
+Izumi「In short, what that man was saying was this. Everything%Nwhich occurs in the world has been predetermined from%Nthe beginning.'」%K%P
+
+0x37C
+Izumi「No matter how big or how small an event is...」%K%P
+
+0x388
+Izumi「...Its occurrence is by no means accidental, but in fact%Ninevitable... That's what it means.」%K%P
+
+0x394
+Izumi「I believe that in philosophy, this is called causal%Ndeterminism'.」%K%P
+
+0x3A8
+"'Everything which occurs in the world has been%Npredetermined from the beginning. Its occurrence is by%Nno means accidental, but in fact inevitable'."%K%P
+
+0x3B4
+Everything's... been decided...?%K%P
+
+0x3C0
+I don't like those words...%K%P
+
+0x3CC
+It's like when I talked about time paradoxes with Makoto%Non the night of the 2nd...%K%P
+
+0x3D8
+... ... ...%K%P
+
+0x3E4
+...Before long, due to unusual circumstances, it ends up%Nbeing arranged so that I'll be working at Lunabeach for%None week during our summer break.%K%P
+
+0x3F0
+Even I don't know why I ended up agreeing to do%Nsomething like that.%K%P
+
+0x3FC
+Perhaps... I might have wanted to have an objective for%Nthe near future...%K%P
+
+0x480
+After lunch, we go to the shopping district.%K%P
+
+0x48C
+We're responsible for helping out with the barbecue.%K%P
+
+0x498
+The things that we have to buy are large quantities of%N"beef, green peppers, onions, oil, and beer".%K%P
+
+0x4A4
+However, the car isn't working and the bike broke the%Nother day.%K%P
+
+0x4B0
+That means we have no choice but to walk in order to%Ntake care of our errands.%K%P
+
+0x4BC
+...An hour or so later, we are carrying full shopping bags%Nin both our hands.%K%P
+
+0x4D0
+Yuka「Whew... we didn't forget anything, did we?」%K%P
+
+0x4DC
+Makoto「N-No... probably not.」%K%P
+
+0x4E8
+Makoto「But... don't you think this is too much beer?" Haruka and%NKurumi can't even drink it.」%K%P
+
+0x4FC
+Yuka「This isn't a lot at all...」%K%P
+
+0x508
+Makoto「A-Are you kidding me!? We bought eight cases of%Nsix-pack beer!!」%K%P
+
+0x514
+Makoto「Dammit, all it does is act as extra weight...!」%K%P
+
+0x520
+Makoto slouches and drags the bags, looking like he%Ncan't take another step forward.%K%P
+
+0x534
+Yuka「Well then, shall we go back?」%K%P
+
+0x548
+Even though I say this calmly, I trudge along, full of%Nirritation.%K%P
+
+0x554
+(What the hell!? You didn't complain when you had to%Ncarry the rice and Saki on your back last time!!)%K%P
+
+0x560
+...As I continue to walk, I scream this in my mind...%K%P
+
+0x574
+...In the end, we decide to bring Makoto's bags back by%Nborrowing a push car from one of the nearby shops.%K%P
+
+0x5A0
+Lunabeach is already before our eyes.%K%P
+
+0x5AC
+Makoto「Ah, I just remembered something...」%K%P
+
+0x5C0
+Yuka「Huh!? What is it!? Did we forget to buy something?」%K%P
+
+0x5CC
+Makoto「No, that's not it... It's about last night...」%K%P
+
+0x5D8
+Makoto「Yuka, didn't you have some business with me?」%K%P
+
+0x5EC
+Yuka「...」%K%P
+
+0x5F8
+Makoto「You were looking at me with a serious expression back%Nthen, weren't you?」%K%P
+
+0x604
+Yuka「...Hmm, was I really?」%K%P
+
+0x610
+Makoto「After that, the two of us didn't get a chance to talk%Nalone, because after the Test of Courage, I went to%Nsleep right away...」%K%P
+
+0x61C
+(The Test ...of Courage...)%K%P
+
+0x628
+Makoto「Did something happen?」%K%P
+
+0x634
+Makoto「You don't have to restrain yourself. Your problems are%Nmy problems, after all.」%K%P
+
+0x640
+Yuka「...」%K%P
+
+0x64C
+Makoto「Ah, no... that's not what I meant...」%K%P
+
+0x658
+Yuka「...」%K%P
+
+0x664
+Makoto「Wh-What I meant was that there's no point to us working%Ntogether if we can't share those kinds of problems... but...」%K%P
+
+0x678
+Yuka「Hmm? ...What?」%K%P
+
+0x684
+Makoto「...」%K%P
+
+0x690
+Makoto「...If you don't want me to ask , that's fine...」%K%P
+
+0x69C
+Yuka「???」%K%P
+
+0x6A8
+Makoto「More importantly-」%K%P
+
+0x6B4
+Yuka「Oh, about yesterday?」%K%P
+
+0x6C0
+Yuka「That really was nothing...」%K%P
+
+0x6CC
+Yuka「It's just that when I saw you eating, I kinda lost my%Nappetite...」%K%P
+
+0x6D8
+Makoto「...What do you mean?」%K%P
+
+0x6EC
+Yuka「Nothing really.」%K%P
+
+0x6F8
+Makoto「If there's something you want to say, then just say it flat%Nout.」%K%P
+
+0x70C
+Yuka「...」%K%P
+
+0x73C
+Yuka「Then I'll say it...!」%K%P
+
+0x748
+Makoto「Wh-What...?」%K%P
+
+0x754
+Yuka「At the Test of Courage yesterday...」%K%P
+
+0x760
+Makoto「...」%K%P
+
+0x774
+Yuka「...」%K%P
+
+0x780
+Makoto「...」%K%P
+
+0x78C
+Yuka「I saw a severed head...」%K%P
+
+0x798
+Makoto「...I know.」%K%P
+
+0x7C8
+Yuka「Wh-Why!?」%K%P
+
+0x7D4
+Makoto「...Haah.」%K%P
+
+0x7E0
+Yuka「Why do you know that!?」%K%P
+
+0x7EC
+Yuka「S-So that really... was an actual severed head...」%K%P
+
+0x7F8
+Makoto「...」%K%P
+
+0x80C
+...That was rather pathetic of me, if I do say so myself.%K%P
+
+0x818
+The thing I was really scared of...%K Was for him to ask me to%Ntell him the truth...%K%P
+
+0x8FC
+...The barbecue has begun.%K%P
+
+0x908
+Everyone is holding a paper cup in their hands.%K%P
+
+0x914
+Inside the cups are ice cold beer (but Kurumi and Haruka%Nhave orange juice).%K%P
+
+0x920
+Savory smoke begins to rise from the iron plate in the%Nmiddle.%K%P
+
+0x92C
+Everyone is more cheerful than last time.%K%P
+
+0x938
+...%K%P
+
+0x97C
+Saki「Izumi-san, isn't the meat on this side just about ready to%Nbe eaten?」%K%P
+
+0x988
+Izumi「Huh? Maybe, but I think it'd be best to let it cook longer.」%K%P
+
+0x994
+Saki「If you do that, it'll get burnt!」%K%P
+
+0x9A0
+Izumi「But no matter how you look at it, the meat you have is%Nrare, isn't it?」%K%P
+
+0x9AC
+...%K%P
+
+0x9F4
+Haruka「...Crabs.」%K%P
+
+0xA00
+Kurumi「Huh?」%K%P
+
+0xA0C
+Haruka「Look, over there... There's crabs over there, right?」%K%P
+
+0xA18
+Kurumi「Wow, you're right♪ Look, Okkun. There's crabs right over%Nthere.」%K%P
+
+0xA24
+Kurumi「Do they do crab wrestling here? Is this Sumo Crab's%Ntraining grounds?」%K%P
+
+0xA30
+Saki「You people are so damn innocent...」%K%P
+
+0xA3C
+Haruka「Saki... your meat is rare...」%K%P
+
+0xA48
+...%K%P
+
+0xA54
+Saki's expresion shows no signs of gloom, and Haruka is%Nalso in an unusually good mood.%K%P
+
+0xA60
+That's only to be expected. This time, Saki and Haruka%Nhaven't had one single fight...%K%P
+
+0xA6C
+...%K%P
+
+0xAA4
+Izumi「By the way, Saki-chan, is that perfume you're using lilac?」%K%P
+
+0xAB0
+Saki「Oh, you noticed? It's a blend of lilac and fruit...」%K%P
+
+0xABC
+Izumi「Could it be... that you're in love with someone,%NSaki-chan～?♪」%K%P
+
+0xAC8
+Yuka「...」%K%P
+
+0xAD4
+Saki「H-Hell no! It's not like that at all...」%K%P
+
+0xAE0
+Makoto「Ah! Saki, I wanted that meat!」%K%P
+
+0xAFC
+Saki「Shut the hell up, it's mine! Besides, I don't see your name%Nwritten anywhere on it. Do you?」%K%P
+
+0xB08
+Makoto「Mmmmmmmph...」%K%P
+
+0xB1C
+Makoto「Yukaaaa, do something about her! I can't deal with rich%Ngirls～」%K%P
+
+0xB28
+Yuka「...」%K%P
+
+0xB34
+Makoto「Yuka?」%K%P
+
+0xB48
+Yuka「...Huh? What?」%K%P
+
+0xB54
+Makoto「Why are you spacing out? Are you in a bad mood?」%K%P
+
+0xB60
+Yuka「Y-You think so? Hmm... maybe I had a bit too much to drink...」%K%P
+
+0xB6C
+Makoto「Huh? But you haven't even had a single cup yet...」%K%P
+
+0xB80
+Yuka「Not true... I remember having a drink on the way here...」%K%P
+
+0xB94
+Saki「...」%K%P
+
+0xBA0
+Makoto「Yuka...」%K%P
+
+0xBF0
+...I go away from everyone, heading towards the rocky%Nwall.%K%P
+
+0xBFC
+Yuka「Haah...」%K%P
+
+0xC08
+No matter what I do, there's no way the current me can%Noutright join in that fooling around.%K%P
+
+0xC14
+Makoto's voice bothers me. Saki's voice bothers me.%K%NSeeing the two of them having fun just irritates me.%K%P
+
+0xC20
+(What should... I do...?)%K%P
+
+0xC2C
+At the very least, in the last loop, I never had an%Nemotional day like this.%K%P
+
+0xC38
+I was never jealous of those two.%K%P
+
+0xC44
+Could this also be the result of history changing?%K%P
+
+0xC50
+Or...%K Or... is this proof... that I love Makoto?%K%P
+
+0xCA0
+In the distance, I can hear the sound of wavelets... I hear%Nthem twice, as if they're nodding to me.%K%P
+
+0xCAC
+At that time...%K%P
+
+0xCB8
+Kurumi「Y u k a-san?」%K%P
+
+0xCC4
+Yuka「...Huh? Huh!?」%K%P
+
+0xCF4
+Yuka「...K-Kurumi-chan!?」%K%P
+
+0xD08
+Kurumi「Ehehehehee♪」%K%P
+
+0xD1C
+Yuka「Wh-What's wrong, Kurumi-chan?」%K%P
+
+0xD30
+Kurumi「'What's wrong'? What's wrong with you, Yuka-san? What%Nare you doing here?」%K%P
+
+0xD3C
+Yuka「N-Nothing really... Sorry for worrying you... I'm just%Nsobering up...」%K%P
+
+0xD50
+Kurumi「Liar.」%K%P
+
+0xD64
+Yuka「Huh?」%K%P
+
+0xD70
+Kurumi「Yuka-san, you're lying.」%K%P
+
+0xD7C
+Yuka「Wh-Why...?」%K%P
+
+0xD90
+Kurumi「Hee hee hee hee hee...」%K%P
+
+0xD9C
+Kurumi「Kurumi realized your lying pattern a while ago.」%K%P
+
+0xDA8
+Kurumi「Whenever you lie, your eyes look the other way.」%K%P
+
+0xDBC
+Yuka「...」%K%P
+
+0xDC8
+Kurumi「Kurumi's deduction for the reason you're so down is...」%K%P
+
+0xDE4
+Kurumi「...because you're depressed about the kitty keychain,%Nright?」%K%P
+
+0xDF8
+Kurumi「You've been worried... that you've been gaining weight%Nrecently, right?」%K%P
+
+0xE0C
+Yuka「Huh...?」%K%P
+
+0xE18
+Kurumi「Bulls-eye, huh?」%K%P
+
+0xE2C
+Yuka「...」%K%P
+
+0xE40
+Yuka「Eheh♪ I guess you got me.」%K%P
+
+0xE54
+Kurumi「As Kurumi thought...」%K%P
+
+0xE78
+Kurumi「Kurumi thought it'd be like this, so... Ta-da♪ It's KuruKuru%NKurumi Magic♪」%K%P
+
+0xE84
+She pulls a folded paper out of her pocket.%K%P
+
+0xE98
+Yuka「...What's that?」%K%P
+
+0xEAC
+Kurumi「A kitty. It's an origami kitty that Kurumi made♪」%K%P
+
+0xEB8
+Yuka「...」%K%P
+
+0xECC
+Kurumi「Kurumi wanted to make a replacement for Yuka-san's%Ntreasure, so she put all her effort into making this%Nyesterday afternoon.」%K%P
+
+0xED8
+Kurumi「She just forgot to give it to you then...」%K%P
+
+0xEE4
+(Now that I think about it... Kurumi-chan was folding origami%Nbefore dinner...)%K%P
+
+0xEF8
+Kurumi「Here♪」%K%P
+
+0xF04
+Yuka「...」%K%P
+
+0xF18
+Yuka「Th-Thank you...」%K%P
+
+0xF24
+I nervously take the origami cat she's holding out.%K%P
+
+0xF30
+Kurumi「Don't lose this one this time, okay?」%K%P
+
+0xF54
+Yuka「...!」%K%P
+
+0xF60
+My heart leaps loudly.%K%P
+
+0xF6C
+(Next time... don't lose it...)%K%P
+
+0xF78
+Yuka「...」%K%P
+
+0xF8C
+Kurumi「Yuka-san...?」%K%P
+
+0xF98
+"...Don't lose it..."%K%P
+
+0xFAC
+The sound of the wavelets steadily grows more and%Nmore distant...%K%P
+
+0xFB8
+There's one more memory that I'd forgotten...%K%P
+
+0xFC4
+...%K%P
+
+0xFD8
+It was on the field trip in 9th grade...%K%P
+
+0xFE4
+The night the two of us gazed at that starry sky...%K%P
+
+0xFF0
+He finished telling me the story of Gemini...%K%P
+
+0xFFC
+And then... and then...%K%P
+
+0x1080
+Yuka「It's starting to get cold... shall we go back?」%K%P
+
+0x108C
+Boy「...H-Hey, Yuka?」%K%P
+
+0x1098
+Yuka「Hmm?」%K%P
+
+0x10A4
+Boy「No, umm...」%K%P
+
+0x10B0
+Yuka「?」%K%P
+
+0x10BC
+Boy「Do you still have it?」%K%P
+
+0x10C8
+Yuka「???」%K%P
+
+0x10D4
+Boy「...Did you forget?」%K%P
+
+0x10E0
+Yuka「About what?」%K%P
+
+0x10EC
+Boy「...」%K%P
+
+0x10F8
+Boy「The cat keychain.」%K%P
+
+0x1104
+Yuka「―!?」%K%P
+
+0x1110
+"I'll give this to you, so don't cry anymore..."%K%P
+
+0x111C
+Yuka「...」%K%P
+
+0x1128
+Boy「Do you remember?」%K%P
+
+0x1134
+Yuka「T-Th...」%K%P
+
+0x1140
+Yuka「That... was you?」%K%P
+
+0x114C
+Boy「...」%K%P
+
+0x1158
+Yuka「No way...」%K%P
+
+0x1164
+Boy「...You can't believe it?」%K%P
+
+0x1170
+Yuka「...」%K%P
+
+0x117C
+Boy「I immediately knew that you were the girl from back then.」%K%P
+
+0x1188
+Yuka「...」%K%P
+
+0x1194
+Boy「Well, you DID tell me your name back then.」%K%P
+
+0x11A0
+"My name is..."%K%P
+
+0x11AC
+"...Yuka Kawashima."%K%P
+
+0x11B8
+In the world with the purple sky, the crying girl... told%Nsomeone her name...%K%P
+
+0x11C4
+Yuka「...」%K%P
+
+0x11D0
+Boy「Well, it's only natural... That was ages ago.」%K%P
+
+0x11DC
+Boy「So you really don't ...have it...」%K%P
+
+0x11E8
+Yuka「...」%K%P
+
+0x11F4
+Boy「...」%K%P
+
+0x1200
+Yuka「...」%K%P
+
+0x120C
+Yuka「That keychain was very important to me, but...」%K%P
+
+0x1218
+Yuka「I lost it a while back...」%K%P
+
+0x1224
+Boy「...」%K%P
+
+0x1230
+Yuka「I did my best to look, but I couldn't find it.」%K%P
+
+0x123C
+Boy「I see...」%K%P
+
+0x1248
+Yuka「I'm so sorry...」%K%P
+
+0x1254
+Boy「...No, it couldn't be helped.」%K%P
+
+0x1260
+Boy「The next time I give you a present, I'll make sure it's a bit%Nbigger, so that way, you won't lose it.」%K%P
+
+0x126C
+Yuka「...」%K%P
+
+0x1278
+Boy「Please don't lose the next one...」%K%P
+
+0x1284
+...%K%P
+
+0x12C0
+Kurumi「...san?」%K%P
+
+0x12CC
+Kurumi「Yuka-san?」%K%P
+
+0x12E8
+Kurumi「Hey, Yuka-san!」%K%P
+
+0x1304
+Yuka「...Kurumi ...chan?」%K%P
+
+0x133C
+Kurumi「Geez, what's up with you? You spaced out all of the%Nsudden.」%K%P
+
+0x1358
+Yuka「...No, it's nothing...」%K%P
+
+0x136C
+Kurumi「Was... the kitty too much? Was Kurumi sticking her nose%Nwhere it didn't belong?」%K%P
+
+0x1380
+Yuka「Huh?」%K%P
+
+0x138C
+Kurumi「...You don't have to push yourself to take it if you don't%Nwant it. It's fine...」%K%P
+
+0x13A0
+Yuka「Wh-What are you saying...? I'm very happy about what%Nyou did...」%K%P
+
+0x13AC
+Kurumi「Really?」%K%P
+
+0x13C0
+Yuka「Yep♪」%K%P
+
+0x13D4
+Yuka「See? I didn't look away from you this time, did I?」%K%P
+
+0x13E8
+Kurumi「...」%K%P
+
+0x13FC
+Kurumi「Eheh♪」%K%P
+
+0x1408
+Yuka「I gratefully accept your gift♪」%K%P
+
+0x141C
+Kurumi「By the way, Kurumi's got one more present for you...」%K%P
+
+0x1430
+Yuka「...?」%K%P
+
+0x143C
+Kurumi「Ta-da♪ It's a KuruKuru Kurumiracle♪」%K%P
+
+0x1458
+Kurumi「Kurumi thought this would happen! Ta-da♪ It's a%NKuruKuru Kurumiracle♪」%K%P
+
+0x1464
+Kurumi-chan takes a can of beer out of her bosom.%K%P
+
+0x1488
+Kurumi「Drink this and cheer up!」%K%P
+
+0x14A4
+Kurumi「Kurumi thought she'd help out by letting you drink this!」%K%P
+
+0x14B0
+Kurumi「Oh, but don't worry. Kurumi made sure to get the ones%Nwith 'low calorie' written on them.」%K%P
+
+0x14BC
+Kurumi「It's boring when you're not drunk, after all...」%K%P
+
+0x14C8
+Yuka「...」%K%P
+
+0x14DC
+Kurumi「Oh, could it be that you're surprised?」%K%P
+
+0x14F0
+Yuka「...Y-Yes.」%K%P
+
+0x14FC
+Kurumi「Brr... Kurumi kept these against her chest by putting%Nthem in her clothes, so she's cold now.」%K%P
+
+0x1510
+Kurumi「...Wait, doesn't that mean the beer is lukewarm now?」%K%P
+
+0x1524
+Yuka「...N-No. I don't really mind.」%K%P
+
+0x1530
+Kurumi「Really? What relief♪」%K%P
+
+0x153C
+I take the can of beer from Kurumi-chan.%K%P
+
+0x1578
+Fsssh! I open the lid off the the beer, and gulp the%Ncontents down my throat.%K%P
+
+0x1584
+Kurumi-chan's warmth is still there.%K%P
+
+0x1598
+Yuka「Fwaaah...!」%K%P
+
+0x15AC
+Yuka「All right! I'll just drink this down and forget about all the%Nbad things!」%K%P
+
+0x15C0
+Kurumi「Yes, yes♪ Go back to being your usual self!」%K%P
+
+0x15D4
+...Yes, I'll drink it all and forget about the bad things.%K%P
+
+0x15E0
+The lukewarm beer makes me feel a comfortable, elated%Nsensation.%K%P
+
+0x15EC
+...%K%P
+
+0x15F8
+Finally, the time comes to return to the others...%K Haruka is%Ncarrying a dirty plastic bag...%K%P
+
+0x1604
+... ... ...%K%P
+
+0x168C
+About an hour has passed since then.%K The party's in full%Nswing.%K%P
+
+0x1698
+Everything is calm as we fool around and poke fun at%Neach other... It's as noisy as ever.%K%P
+
+0x16A4
+By now, I've already had a lot of beer to drink.%K%P
+
+0x16B0
+As for how many cups I've had exactly... I've lost count.%K%P
+
+0x16BC
+Before long, the alcohol gets to my head, and my sense%Nof balance worsens.%K%P
+
+0x16C8
+I begin shouting the same things again and again. Of%Ncourse, my words are all messed up too.%K%P
+
+0x16D4
+The words I'm saying are also incoherent, and I get%Nangry, weepy, hysterical with laughter, and mopey...%K%P
+
+0x16E0
+Anyway, I'm hectic...%K%P
+
+0x16EC
+...%K%P
+
+0x16F8
+Suddenly, someone taps me on the shoulder.%K%P
+
+0x1704
+...It's Makoto.%K%P
+
+0x1710
+He sticks his thumb up, and points towards the rock wall.%K%P
+
+0x171C
+And then, he slowly walks to the rock wall.%K%P
+
+0x1728
+...It seems he wants to have a private conversation...%K%P
+
+0x1734
+Although I tilt my head, I still following him with tottering%Nsteps.%K%P
+
+0x1774
+Yuka「Whaa ish it, Mako-tan? Doo yuu have shum bishnesh wif%Nme?」%K%P
+
+0x1780
+Makoto「Yeah, there's something important I have to talk to you%Nabout.」%K%P
+
+0x178C
+Yuka「...」%K%P
+
+0x1798
+Makoto「...W-What is it?」%K%P
+
+0x17AC
+Yuka「...Leshee... ish it a confeshun of love?」%K%P
+
+0x17B8
+Makoto「I-Idiot, there's no way it'd be that!」%K%P
+
+0x17CC
+Yuka「C'mon, Mako-tan♪ If dash it, den yuu should hurry up%Nand shay it♪」%K%P
+
+0x17D8
+Makoto「...」%K%P
+
+0x17EC
+Yuka「Mako-tan, the trufe ish ...eye alsho lo...」%K%P
+
+0x1810
+(―Huh?)%K%P
+
+0x181C
+...I sober up...%K%P
+
+0x1828
+Makoto is standing stock still, dumbfounded...%K%P
+
+0x1834
+(...Th-This is... no, not now...!)%K%P
+
+0x1864
+Yuka「Kyahahahahahahaha♪」%K%P
+
+0x1870
+Yuka「Dat wash a lie, a joke♪」%K%P
+
+0x187C
+Yuka「Eye fought it'd be funee if eye meid a little fun of yuu♪」%K%P
+
+0x1888
+Yuka「Yer sho cute... when yuu look troubled♪」%K%P
+
+0x1894
+Makoto「...」%K%P
+
+0x18A0
+I decide to pretend to be drunk.%K%P
+
+0x18B4
+Yuka「Sho? Whash dat shumfing important yuu wanted to talk%Nabaut?」%K%P
+
+0x18C0
+Makoto「Haah...」%K%P
+
+0x18CC
+Makoto「Okay, listen to me carefully, and not a word out of you%Nuntil I'm done, got it?」%K%P
+
+0x18D8
+I nod like an insolent child.%K%P
+
+0x1940
+...Makoto's story concerns Kurumi-chan.%K%N
+
+0x194C
+In the last history, Kurumi-chan went missing this night.%K%N
+
+0x1958
+We went looking for Kurumi-chan, and went to the shrine,%Nwhere we found her.%K%N
+
+0x1964
+In that shrine, we saw that talisman, which was the trigger%Nto our start of this infinite loop.%K%N
+
+0x1970
+In other words, in order to make sure we don't repeat the%Nsame history, we can't let Kurumi-chan go to the shrine.%K%P
+
+0x1984
+What he's saying is that Kurumi-chan's disappearance%Nitself is a "bad event".%K%N%N
+
+0x1990
+In order to prevent that incident from happening, Makoto%Nwants to watch over Kurumi-chan for the entire night...%K%N%N
+
+0x199C
+...That's his plan.%K%P
+
+0x19F4
+Yuka「Eye shee. So dash it...」%K%P
+
+0x1A00
+Makoto「You'll help me, right?」%K%P
+
+0x1A0C
+Yuka「Of coursh!」%K%P
+
+0x1A18
+Makoto「...Hey, did you really understand a word of what I said%Njust now...?」%K%P
+
+0x1A24
+Yuka「Geesh, ish faine!」%K%P
+
+0x1A38
+Yuka「Jusht leef it to meee! Nahahahaha...♪」%K%P
+
+0x1A44
+Makoto「...」%K%P
+
+0x1A58
+Makoto shrugs his shoulders.%K%P
+
+0x1A64
+He might be thinking "I should've waited until she%Nsobered up."%K%P
+
+0x1A80
+―And, at that time!%K%P
+
+0x1AB4
+The sound of water splashing echoes!%K%P
+
+0x1AC0
+This sound... It's exactly like the one I heard at the last%Nbarbecue.%K%P
+
+0x1ACC
+I don't need to turn around to understand the situation.%K%P
+
+0x1AD8
+Saki's hand accidentally slipped, and she spilled the%Nbeer in her paper cup on me.%K%P
+
+0x1AE4
+(―Huh???)%K%P
+
+0x1AF0
+(...Me???)%K%P
+
+0x1AFC
+But I'm right here!!%K%P
+
+0x1B08
+(Which means...?)%K%P
+
+0x1B40
+I try slowly turning around...%K%P
+
+0x1B4C
+By the iron plate... Saki is holding a now empty paper cup.%K%P
+
+0x1B58
+And the beer has landed on...%K%P
+
+0x1B6C
+―Kurumi-chan!%K%P
+
+0x1B78
+Kurumi's clothes are soaked from her chest to the%Nbottom of her shirt.%K%P
+
+0x1B84
+(I see...)%K%P
+
+0x1B90
+Because I wasn't in the ring of people, the person who%Nwas next to me originally, Kurumi, was directly hit...%K%P
+
+0x1B9C
+Kurumi「H-Hey, Saki-san...」%K%P
+
+0x1BA8
+Saki「...S-Sorry.」%K%P
+
+0x1BB4
+Everyone becomes completely silent.%K%P
+
+0x1BC0
+Saki「I'm really sorry.」%K%P
+
+0x1BCC
+...She sounds genuinely apologetic, meaning every word.%K%P
+
+0x1BD8
+As a further gesture of apology, Saki begins to wipe the%Nbeer off of Kurumi's clothes with a dish cloth.%K%P
+
+0x1BE4
+Okuhiko doesn't make his stupid joke, and keeps his%Nmouth shut.%K%P
+
+0x1BF0
+Naturally, Haruka also stays put, not showing any signs%Nof agitation.%K%P
+
+0x1BFC
+Just then...%K%P
+
+0x1C18
+Izumi「Geez, Saki-chan, are you sure you're not drunk?♪」%K%P
+
+0x1C34
+Okuhiko「Ha ha, that was pretty careless of you, Saki-chan♪」%K%P
+
+0x1C50
+Haruka「Hee hee hee hee...」%K%P
+
+0x1C6C
+Saki「Ahahaha...」%K%P
+
+0x1C88
+Kurumi「Eheheheh...」%K%P
+
+0x1C9C
+Everyone「Kyahahahahahaha...♪」%K%P
+
+0x1CC4
+...Everyone bursts into laughter.%K%P
+
+0x1CD0
+They cheerfully laugh at Saki's blunder, as if trying to%Npoke fun at her and brush the incident off.%K%P
+
+0x1CDC
+Of course, Kurumi's bright smile returns too.%K%P
+
+0x1CE8
+Saki sheepishly grins at all the teasing.%K%P
+
+0x1CF4
+It's as if... anything and everything's all changed.%K%P
+
+0x1D00
+The atmosphere from last time has suddenly changed to%Na harmonious atmosphere.%K%P
+
+0x1D0C
+Why...?%K I don't even have to think about it.%K%P
+
+0x1D18
+Once again, a bad event has changed into a good one.%K%P
+
+0x1D24
+However, this one is special because history has%Nchanged without us directly interfering with it.%K%P
+
+0x1D30
+We didn't think about trying to prevent the fight, but%Nthankfully, history changed for us.%K%P
+
+0x1D3C
+Could it be that even luck is on our side now?%K%P
+
+0x1D48
+When I think that, I get into a kinda giddy mood.%K%P
+
+0x1D54
+It's a little later...%K But Makoto and I began to laugh much%Nlouder than the others...%K%P
+
+0x1D60
+...After that, the laughter doesn't cease until the%Nbarbecue ends...%K%P
+

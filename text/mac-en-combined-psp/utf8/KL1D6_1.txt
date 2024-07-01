@@ -1,0 +1,300 @@
+text area offset and size:
+0x8D8
+0x176F
+0x154
+It's probably past 10:00 now, isn't it?%K%P
+
+0x160
+It seems Kurumi finally got tired of talking, as she headed%Nup to Lunabeach's second floor while rubbing her%Nsleepy eyes.%K%P
+
+0x16C
+At last, I'm finally in a situation where Izumi-san and I are%Nalone.%K%P
+
+0x178
+In that time, I keep reminding myself that I have to ask%NIzumi-san about "that story", no matter what.%K%P
+
+0x184
+I continue to tell myself that I ought to start talking to her%Nabout it, but I keep feeling like the timing isn't exactly%Nright.%K%P
+
+0x190
+Instead, we continue to chatter on about trivial things...%K%P
+
+0x19C
+Exactly two hours have passed since Kurumi went up to%Ngo to sleep.%K%P
+
+0x1A8
+The date display on my watch has already changed to%Nthe 6th...%K%P
+
+0x218
+Izumi「All right... well then, perhaps it's about time that I go to%Nsleep as well...」%K%P
+
+0x22C
+Izumi-san tries to stand up.%K%P
+
+0x238
+Makoto「Izumi-san...!」%K%P
+
+0x244
+I frantically try to stop her.%K%P
+
+0x258
+Izumi「...?」%K%P
+
+0x264
+Makoto「...」%K%P
+
+0x270
+And then, I finally decide to ask about "that story."%K%P
+
+0x298
+Makoto「Izumi-san... could you please... tell me the rest of that%Nstory from yesterday?」%K%P
+
+0x2A4
+Izumi「Th-The story from yesterday... what story?」%K%P
+
+0x2B0
+Makoto「The story you were telling me... on that pier...」%K%P
+
+0x2C4
+In that instant, Izumi-san's expression turns tense.%K%P
+
+0x2D0
+Izumi「R-Right... That story... huh...?」%K%P
+
+0x2DC
+Makoto「...」%K%P
+
+0x2E8
+Izumi「...」%K%P
+
+0x2F4
+Makoto「...」%K%P
+
+0x300
+Izumi「Makoto-kun...」%K%P
+
+0x30C
+Izumi「You might think 'Why are you saying this now?', but... That%Nstory... I don't think it's something I should have told you.」%K%P
+
+0x318
+Makoto「Huh...?」%K%P
+
+0x324
+Izumi「After all, that story... is something I feel that I mustn't tell%Nanyone else...」%K%P
+
+0x330
+Izumi「For Kurumi's... sake...」%K%P
+
+0x33C
+Makoto「Izumi-san...」%K%P
+
+0x348
+Makoto「I... saw it... I saw the scar on Kurumi's back...」%K%P
+
+0x35C
+Izumi「!!!」%K%P
+
+0x368
+Makoto「But I... I said nothing...」%K%P
+
+0x37C
+Izumi「...」%K%P
+
+0x388
+Makoto「To be honest... it was much more horrifying... than I ever%Ncould have imagined...」%K%P
+
+0x394
+Izumi「...」%K%P
+
+0x3A0
+Makoto「Kurumi's scar and that story... there's a connection%Nbetween them, isn't there?」%K%P
+
+0x3AC
+Izumi「...」%K%P
+
+0x3B8
+Makoto「Right now, it seems that Kurumi is still bothered by that%Nscar...」%K%P
+
+0x3C4
+Makoto「One way or another, I want to heal... Kurumi's emotional%Nscars...」%K%P
+
+0x3D0
+Izumi「...」%K%P
+
+0x3DC
+Makoto「She didn't get that scar from falling down the%Nstairs―did she?」%K%P
+
+0x3E8
+Makoto「'She probably got it shortly after she was born,'...%NKurumi's realized that, you know.」%K%P
+
+0x3F4
+Makoto「What was the real cause?」%K%P
+
+0x400
+Makoto「The shrine... Kurumi's kidnapping... the fact that she may%Nnot be your real sister... They're all connected somehow,%Nright?」%K%P
+
+0x40C
+Makoto「Please tell me, Izumi-san!」%K%P
+
+0x418
+Izumi「...」%K%P
+
+0x424
+Izumi-san keeps her eyes firmly on the ground, her%Nmouth tightly shut.%K%P
+
+0x430
+At this rate, she's not going to tell me anything, is she?%K%N
+
+0x43C
+―Just what happened to Kurumi as a baby?%K%P
+
+0x448
+If I don't know that, then I don't think I can heal Kurumi's%Nscars.%K%P
+
+0x454
+No... more importantly, it might be that I just want to learn%Neverything about Kurumi above everything else.%K%P
+
+0x460
+I want to find the main cause of Kurumi's pain, and take%Naway that suffering... I have to.%K%P
+
+0x4A8
+Izumi「Kurumi is...」%K%P
+
+0x4B4
+Izumi-san suddenly starts speaking.%K%P
+
+0x4C0
+Izumi「Kurumi is... my real... sister.」%K%P
+
+0x4CC
+Izumi「Even if we're not related by blood... she's still my real%Nsister...」%K%P
+
+0x4D8
+Makoto「...」%K%P
+
+0x4E4
+Izumi「Ever since long ago, Kurumi and I were always together...」%K%P
+
+0x4F0
+Izumi「Because our parents were always away from home, ever%Nsince she was a kid, I've been Kurumi's substitute mother.」%K%P
+
+0x4FC
+Izumi「From aiding her with cooking to her troubles with%Nhomework, I saw it all...」%K%P
+
+0x508
+Izumi「Before I knew it, in the blink of an eye, it was my duty to%Nattend her parent's visit days and her parent-teacher%Nconferences...」%K%P
+
+0x514
+Izumi「Now that I think about it... when Kurumi was in 3rd grade...%Nher homeroom teacher gave the assignment of 'please%Ndraw a picture of your mother'...」%K%P
+
+0x520
+Izumi「But what Kurumi drew... was a picture of me...」%K%P
+
+0x52C
+Izumi「When she got home, Kurumi said, 'the teacher scolded%Nme', and cried...」%K%P
+
+0x538
+Izumi「At that time, I was in middle school, but I immediately%Nstormed into the elementary school's staff room to yell%Nat that teacher.」%K%P
+
+0x544
+Izumi「And you know what? Kurumi... stuck her tongue out at%Nthat homeroom teacher while hiding behind my back...」%K%P
+
+0x550
+Makoto「...」%K%P
+
+0x55C
+Izumi「... She was always following me, tottering all the way...」%K%P
+
+0x568
+Izumi「We brushed our teeth together, were together when we%Nslept... and even when I got phone calls from boyfriends,%NKurumi was by my side.」%K%P
+
+0x574
+Izumi「I was the one who understood Kurumi the best.」%K%P
+
+0x580
+Izumi「And conversely, I thought Kurumi was the one who%Nunderstood me the best as well...」%K%P
+
+0x58C
+Izumi「That Kurumi... there's no one more important to me than%Nher...」%K%P
+
+0x598
+Izumi「Because Kurumi's the person that she is...」%K%P
+
+0x5A4
+Izumi「... It doesn't matter if we're not related by blood.」%K%P
+
+0x5B0
+Makoto「...」%K%P
+
+0x5BC
+Izumi「That's why... I've had enough...」%K%P
+
+0x5C8
+Izumi「I'll keep her away from the shrine... no matter what...」%K%P
+
+0x5D4
+Izumi「As for that story... I've already decided to bury it deep%Nwithin me...」%K%P
+
+0x5E8
+After Izumi-san finishes talking, her eyes become very%Nrelaxed.
+
+0x5F4
+There's absolutely no way I can pry any further.%K%P
+
+0x600
+(This is Izumi-san and Kurumi's problem...)%K%P
+
+0x60C
+(In the first place, it might have been something that an%Noutsider like me shouldn't have gotten involved with in%Nthe first place.)%K%P
+
+0x618
+That's what I think...%K%N
+
+0x624
+And, at that time...%K%P
+
+0x674
+... We hear a sound...%K%N
+
+0x680
+... We then turn around...%K%P
+
+0x694
+Izumi「Ku... Kurumi...」%K%P
+
+0x6A0
+My heart stops.%K%P
+
+0x6AC
+Kurumi「Is it true?」%K%P
+
+0x6B8
+Kurumi「Is it really true?」%K%P
+
+0x6CC
+Izumi「...」%K%P
+
+0x6D8
+Kurumi「Kurumi isn't Onee-chan's... sister?」%K%P
+
+0x6EC
+Izumi「You're wrong, Kurumi! That's-」%K%P
+
+0x6F8
+Kurumi「You liar...」%K%P
+
+0x704
+Kurumi「Everyone... Everyone... is deceiving Kurumi...」%K%P
+
+0x718
+Izumi「I'm telling you, that's-」%K%P
+
+0x72C
+Kurumi「YOU LIAR!!」%K%P
+
+0x75C
+Kurumi starts to rush right out of Lunabeach!%K%P
+
+0x768
+Makoto「KURUMIIII!!」%K%P
+

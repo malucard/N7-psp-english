@@ -1,0 +1,369 @@
+text area offset and size:
+0x8E0
+0x1FDA
+0x80
+Haruka and I begin to walk, enjoying the gentle breeze.%K%P
+
+0x8C
+I make an effort to talk about as many cheerful topics%Nas possible.%K%N
+
+0x98
+She doesn't respond often. I can't tell if she's%Nuninterested or just doesn't want to talk.%K%P
+
+0xA4
+Suddenly, Haruka grabs my arm.%K%N
+
+0xB0
+Turning my head around, I see her looking at me with a%Nserious expression.%K%P
+
+0xBC
+Her normally expressionless face is getting increasingly%Nintense, and it feels like her whole body is tensing up.%K%P
+
+0xD0
+Haruka「I kept my promise, didn't I?」%K
+
+0x8A0
+"Yeah, you did."
+
+0x8AC
+"... W-Well, yeah."
+
+0x118
+Makoto「Yeah, you did.」%K%P
+
+0x124
+I give Haruka the kindest smile I can muster.%K%P
+
+0x130
+Haruka「Yes.」%K%P
+
+0x13C
+Haruka nods.%K%N
+
+0x148
+Her intense expression loosens up a bit.%K%N
+
+0x154
+She seems a little happy.%K%P
+
+0x168
+Seemingly pleased by my satisfactory response, the%Ntension in Haruka's body relaxes.%K%P
+
+0x17C
+Just then, Haruka is taken aback by noticing she is%Nholding my arm, so she lets go as she hangs her head%Ndown.%K%P
+
+0x190
+Makoto「... W-Well, yeah.」%K%P
+
+0x19C
+Haruka「Huh? Was that strange? Did I do something strange?」%K%P
+
+0x1A8
+Makoto「That's not it, but...」%K%P
+
+0x1B4
+Haruka「'But'... what?」%K%P
+
+0x1C0
+Makoto「Nothing... Anyway, yeah, you've kept your promise.」%K%P
+
+0x1D4
+I give her a smile, and the tension in her body lowers.%NShe is taken aback as she notices she's holding my arm,%Nand so she lets go, hanging her head downwards.%K%P
+
+0x1E0
+I see...%K%N
+
+0x1EC
+Haruka's like a child. She walks with the tottering steps%Nof one who knows nothing. I think it looks rather cute.%K%P
+
+0x1F8
+At that time, our eyes meet.%K%N
+
+0x204
+There's something strikingly beautiful about her%Nintensity, startling me.%K%N
+
+0x210
+It's a strange feeling that makes me feel kind of%Nunbalanced.%K%P
+
+0x2B4
+Once we arrive at the pier, I prepare all the fishing gear.%K%P
+
+0x2C0
+I absentmindedly eat the bread Haruka bought for us on%Nour way here.%K%P
+
+0x2CC
+It seems boring.%K%N
+
+0x2D8
+But keeping my promise to Haruka is the only important%Nthing to me at the moment, so I don't mind.%K%P
+
+0x2E4
+When I finish preparing the fishing gear, I hand one of the%Nrods to Haruka. She then casts her fishing line into the%Nsea.%K%N
+
+0x2F0
+I also cast mine, which settles down next to hers.%K%P
+
+0x338
+Haruka「What do I do from now on?」%K%P
+
+0x344
+Makoto「Wait for Mr. Enemy to take a nibble.」%K%P
+
+0x350
+Haruka「Mr. Enemy?」%K%P
+
+0x35C
+Makoto「I mean the fish.」%K%P
+
+0x368
+Haruka「I see... so I wait...」%K%P
+
+0x374
+Makoto「When your float sinks, the match begins.」%K%P
+
+0x380
+Haruka「Match?」%K%P
+
+0x38C
+Makoto「Right. That's why the fish is 'Mr. Enemy'.」%K%P
+
+0x398
+Haruka「I... don't understand...」%K%P
+
+0x3A4
+Makoto「Huh?」%K%P
+
+0x3B0
+Haruka「I wonder if it's because I have no heart... that I don't%Nunderstand...」%K%P
+
+0x3BC
+Makoto「Those things aren't even remotely related. You kept%Nyour promise with me, right? Then it's clear you have a%Nhea... A-Ah, Haruka!」%K%P
+
+0x3C8
+Haruka's float sinks into the ocean!%K%N
+
+0x3D4
+The line is dragged down with intense strength, and%NHaruka instinctively pulls the rod with all her might. Mr.%NEnemy here seems to be a lightweight fish, so it's easily%Ncaught.%K%P
+
+0x3E0
+I take the agitated fish off the hook and show it to%NHaruka.%K%P
+
+0x3EC
+She takes it into her arms before she suddenly%Nreleases it back into the ocean.%K%P
+
+0x3F8
+Makoto「Huh? Hey, what was that about?」%K%P
+
+0x404
+Haruka「It's... because I have no heart...」%K%P
+
+0x410
+Makoto「What are you saying? Did you let it go because you%Nwanted to save it?」%K%P
+
+0x41C
+Haruka「No... Because I have no heart, I let it escape.」%K%P
+
+0x428
+Makoto「Just what does that...」%K%P
+
+0x434
+Haruka「Humans struggle against each other because they%Nhave hearts, right?」%K%P
+
+0x440
+Makoto「Huh?」%K%P
+
+0x44C
+Haruka「They kill each other because they have hearts, right?」%K%P
+
+0x458
+Makoto「...」%K%P
+
+0x464
+Haruka「The whole world is full of massacre... because people%Nhave hearts, right?」%K%P
+
+0x470
+Makoto「...」%K
+
+0x8B8
+I have no response.
+
+0x8C4
+"That's wrong."
+
+0x4B0
+I have no response.%K%P
+
+0x4BC
+That's because I thought she was right on mark. Haruka%Nplaces the fishing rod down, and gazes far off into the%Ndistance. She's starting to return to her cold,%Nexpressionless state...%K%P
+
+0x4C8
+"I've got to do something", "I've got to say something."%NThese thoughts rush through my head.%K%P
+
+0x4D4
+―But nothing will come out of my mouth. Trying to pass%Nmy silence off as boredom, I pick up Haruka's fishing%Nrod.%K%P
+
+0x4E0
+I place the bait on the end, and cast the line out to sea.%NThen, I pass it to Haruka, who firmly stares at me.%K%P
+
+0x4FC
+Makoto「That's wrong.」%K%P
+
+0x508
+I object, though I don't have any clear answer.%K%P
+
+0x514
+If she asks me "why?", I won't know how to respond.%K%P
+
+0x520
+Haruka's words were right on the mark.%K%P
+
+0x52C
+Still, I hope she doesn't believe that.%K%P
+
+0x538
+I hope Haruka's whole interpretation of humans isn't%Nsolely based on that one awful aspect.%K%P
+
+0x544
+My hope is like a parent wishing that their child grows up%Nto be honest.%K%P
+
+0x550
+True, Haruka's thoughts aren't wrong.%K%N
+
+0x55C
+But humans are much more complex than just that.%K%P
+
+0x568
+Haruka「Why...?」%K%P
+
+0x574
+The question I've dreaded has finally come. I seek a%Ncompelling answer for Haruka.%K%P
+
+0x580
+―But nothing is coming out.%K%P
+
+0x58C
+Haruka is firmly staring at me, waiting for me to speak.%K%P
+
+0x598
+Makoto「F-From the start, people don't think about trying to kill%Neach other, but rather to try loving each other.」%K%P
+
+0x5A4
+What the hell am I saying?%K%P
+
+0x5B0
+Makoto「I'm sure that in the olden days, people thought about%Nloving each other and living in peace.」%K%P
+
+0x5BC
+Haruka「Loving each other...」%K%P
+
+0x5C8
+Makoto「That's right. It was a world full of peace...」%K%P
+
+0x5D4
+Haah... Why am I talking so high and mighty about this?%K%P
+
+0x5E0
+Why is it that I take the role of teacher who loves%Npreaching in this style whenever I'm with Haruka?"%K%P
+
+0x5EC
+Haruka「How long ago do you think those olden days were?」%K%P
+
+0x5F8
+Makoto「That's... um...」%K%P
+
+0x604
+Haruka「Have you ever read, 'The Tale of the Bamboo Cutter'?」%K%P
+
+0x610
+Makoto「W-Well... a little...」%K%P
+
+0x61C
+I'm lying.%K%N
+
+0x628
+I've never read it, but it's the story of Princess Kaguya,%Nright?%K%N
+
+0x634
+For the time being, I'll pretend I know it.%K%P
+
+0x640
+Haruka「Princess Kaguya had her suitors compete against each%Nother by forcing unreasonable demands upon them,%Nright?」%K%P
+
+0x64C
+Makoto「Yeah, that's right. They were to obtain certain treasures%Nfrom the ends of the earth to the peaks of mountains.」%K%P
+
+0x658
+Makoto「One of them had to retrieve a burning cloth, and another%Nhad to get the eye of a dragon. ... What about it?」%K%P
+
+0x664
+Haruka「That doesn't really matter...」%K%P
+
+0x670
+Makoto「Oh, I see...」%K%P
+
+0x67C
+I'm crushed. Even though I did my best to remember all of%Nthat...%K%P
+
+0x688
+Haruka「All I'm saying is that people in the olden days did%Ncompete against each other...」%K%P
+
+0x694
+Makoto「...」%K%P
+
+0x6A0
+Haruka「The past you spoke of was probably a long, long time%Nago from now. A past as far away as a dream... far away...」%K%P
+
+0x6AC
+Makoto「N-No, that's... You see, the suitors' competition against%Neach other was the result of their love for Princess%NKaguya...」%K%P
+
+0x6B8
+Makoto「That's right, there's a chance that even Princess%NKaguya loved her suitors, and because of that, she did%Nthat kind of stuff to test their love...」%K%P
+
+0x6C4
+Haruka「...」%K%P
+
+0x6D0
+Makoto「And they did. Because the suitors and Princess Kaguya%Nloved each other, they competed and tested. They did%Nthis probably to try to ascertain their feelings for each%Nother.」%K%P
+
+0x6DC
+Haruka「Try to ascertain...?」%K%P
+
+0x73C
+Haruka ponders over this.%K%N
+
+0x748
+Whether it's a good or bad thing, I don't think Haruka%Nunderstands this way of thinking.%K%P
+
+0x754
+I feel a little happy and lonely, like the feeling a father%Ngets when his daughter grows up and leaves the nest.%K%P
+
+0x760
+And then...%K%N
+
+0x76C
+Once again, Haruka's fishing line quickly drags towards%Nthe sea.%K%P
+
+0x778
+Makoto「Look, Haruka! You got another bite! Don't let it go!」%K%P
+
+0x784
+Haruka quickly grasps the fishing rod tightly.%K%N
+
+0x790
+As Haruka jerks the fishing rod backwards, the fish in%Nthe water swims from left to right.%K%P
+
+0x79C
+I go behind Haruka, and we pull on the fishing rod%Ntogether. Our hands are on top of each other. It%Nhappened so naturally... Haruka is wrapped up in pulling%Nthe fishing rod.%K%P
+
+0x7A8
+Like a father...%K%N
+
+0x7B4
+That's probably how I'm feeling right now. The feeling of%Nhoping a child grows up quickly while hoping that they%Nforever remain ignorant of the idea of love between a%Nman and woman.%K%P
+
+0x7C0
+Just like the current Haruka...%K%P
+
+0x7CC
+Haruka's serious face, which seems to be shining to me,%Nis something that I feel the want to protect.%K%P
+

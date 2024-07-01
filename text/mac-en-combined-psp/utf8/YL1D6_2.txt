@@ -1,0 +1,537 @@
+text area offset and size:
+0xC70
+0x242A
+0x28
+Makoto「Yuka!?」%K%P
+
+0x50
+I immediately shout.%K%N
+
+0x5C
+Yuka is leaning against the wall of the shrine, gazing off%Ntowards the dull, muddy grey ocean.%K%P
+
+0x68
+Yuka「So you came here after all.」%K%P
+
+0x74
+Yuka says this without looking at me.%K%P
+
+0x80
+Makoto「Why... Why, Yuka...?」%K%P
+
+0x8C
+Yuka「You broke your promise, huh?」%K%P
+
+0xA8
+Yuka「Even though you made that promise... to do any one%Nthing I said...」%K%P
+
+0xBC
+Yuka「You swore that you wouldn't approach the shrine again,%Nno matter what...」%K%P
+
+0xC8
+Makoto「You're a fine one to talk, aren't you!? Why did you come%Nhere?! You knew how dangerous it was!」%K%P
+
+0xD4
+Yuka doesn't respond.%K%N
+
+0xE0
+She doesn't even show a single sign that she'll answer.%K%P
+
+0xEC
+The pillars of the shrine occasionally creak as the sea%Nbreeze blows against them.%K%P
+
+0xF8
+... I look down at my feet.%K%P
+
+0x104
+I realize we're now on the very tip of the cape.%K%N
+
+0x110
+The edge of the cliff is so narrow that there is barely%Nenough room for one person to stand on it.%K%P
+
+0x11C
+The entire height from the top to the bottom of the cliff is%Nalmost as large as a skyscraper.%K%P
+
+0x128
+It's a long way down... at the very bottom, I see the%Nwaves crashing against the bare rock of the cliff,%Nsheets of water shooting up.%K%P
+
+0x134
+I cling to the back wall of the fragile shrine that's on the%Nverge of collapsing.%K%P
+
+0x140
+I observe that along with the back wall, the long eaves%Nsticking out of the shrine completely conceal and%Nisolate this area.%K%P
+
+0x14C
+In other words, the edge of the cliff is so shrewdly%Nhidden that most would have been oblivious to its%Nexistence.%K%P
+
+0x158
+In other words, the only way to get back to the other%Nside of the shrine is to pass through that small square%Nexit.%K%P
+
+0x164
+Yuka「We're really idiots, aren't we?」%K%P
+
+0x170
+Yuka suddenly mutters this.%K%P
+
+0x17C
+Yuka「In the end, it was just a superstition... It's just as you%Nsaid...」%K%P
+
+0x188
+Yuka「But perhaps in the past, it might not have been a%Nsuperstition...」%K%P
+
+0x194
+As she says this, Yuka kicks a pebble at her feet.%K%P
+
+0x1A0
+The small pebble rolls off the cliff and disappears.%K%P
+
+0x1AC
+Yuka「I realized it last night...」%K%P
+
+0x1B8
+Yuka「'The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time.'」%K%P
+
+0x1C4
+Yuka「That 'At the end of the cape' part is talking about behind%Nthe shrine... in other words, I thought that it was referring%Nto here...」%K%P
+
+0x1D0
+Makoto「Wait a minute, Yuka. So the reason you came here was...」%K%P
+
+0x1DC
+Yuka「Yes, that's right...」%K%P
+
+0x1E8
+Yuka「I wanted to go back to the past, no matter what...」%K%P
+
+0x1F4
+Makoto「Wh-Why...?」%K%P
+
+0x200
+Yuka「But you know what? It seems that the 'end of the cape'%Nis already gone...」%K%P
+
+0x20C
+Yuka is clearly dodging the question.%K%P
+
+0x218
+Yuka「In the past, the tip of this cape was definitely just a bit%Nlonger...」%K%P
+
+0x224
+Yuka「But over a long period of time, the tip of the cape was%Nslowly eroded by the waves until it tumbled into the sea...」%K%P
+
+0x230
+Yuka「That's why... even if that story wasn't a superstition now...」%K%P
+
+0x24C
+Yuka「No one can go back to the past anymore...」%K%P
+
+0x274
+Yuka kicks another pebble.%K%P
+
+0x280
+(She wanted to go back to the past... What was she%Nplanning to do there...!?)%K%P
+
+0x28C
+I can't think of any plausible reason...%K%P
+
+0x298
+(But... I'm glad she's safe...)%K%P
+
+0x2A4
+Seeing Yuka's smile gives me a feeling of relief.%K%P
+
+0x2B0
+The sky is covered in black rain clouds, but they get%Nbrighter and brighter in proportion to the passing time.%K%P
+
+0x2BC
+I look at my watch.%K%P
+
+0x2C8
+(5:32 A.M.)... If only these rain clouds weren't here, we'd%Nbe able to see the bright red sun rise from the horizon...%K%P
+
+0x2D4
+Well, we don't have that kind of luxury.%K%N
+
+0x2E0
+Anyway, nothing's happened. That's good enough...%K%P
+
+0x2EC
+The instant I sigh in relief, a sudden chill assaults me.%K%N
+
+0x2F8
+I ran through this downpour without an umbrella. It's only%Nnatural that I'm cold.%K%P
+
+0x304
+In an attempt to warm up my body a little, I casually put%Nmy hands in my pockets.%K%P
+
+0x310
+―Huh?%K%P
+
+0x31C
+I feel my fingertips brush against what feels like paper.%K%P
+
+0x328
+I pull whatever it is out of my pocket.%K%P
+
+0x334
+A paper bag???%K%P
+
+0x340
+Right... it's the paper bag Haruka gave me... I'd put it away%Nin my pocket.%K%P
+
+0x34C
+"Do you want something good?"%K%N
+
+0x358
+―In here must be that "something good" Kurumi was%Ntalking about.%K%P
+
+0x364
+I tear the paper bag open, and take out what was inside%Nit.%K%N
+
+0x370
+―There's two things: a pure white lump of cotton and a%Nscrap of paper.%K%P
+
+0x37C
+I check the scrap of paper first. It seems to be a short%Nletter.%K%P
+
+0x388
+I read it.%K%P
+
+0x394
+"Dear Onii-chan... Kurumi found this this afternoon on%NMoon Beach."%K%P
+
+0x3A0
+"It's very pretty, so she'll give it to you♪ ... From Kurumi."%K%P
+
+0x3AC
+She found this lump of cotton?%K%N
+
+0x3B8
+No... when I feel it carefully, I can tell the cotton is%Nwrapping up something.%K%P
+
+0x3C4
+I carefully begin to tear off the layers of cotton...%K%P
+
+0x404
+―A shudder runs through me!%K%P
+
+0x48C
+I immediately look away, and close my palm into a fist...%K%P
+
+0x498
+(It's impossible...)%K%P
+
+0x4A4
+(It's impossible...)%K%P
+
+0x4B0
+(It's impossible...!!!)%K%P
+
+0x4BC
+The blood rushing throughout my body starts boiling.%K%P
+
+0x4E0
+Yuka「Why... Why do you...!?」%K%P
+
+0x4EC
+Yuka's face has gone pale, as if she's a wax model.%K%P
+
+0x4F8
+Yuka saw it...%K%N
+
+0x504
+The thing in my palm... the bell!%K%P
+
+0x518
+Immediately after that, Yuka arm becomes as stiff as a%Npole, and she suddenly reaches it out in front of me.%K%P
+
+0x524
+She slowly opens her trembling palm...%K%P
+
+0x550
+Makoto「...」%K%P
+
+0x55C
+I can't breathe.%K%N
+
+0x568
+I can't even speak.%K%P
+
+0x574
+My mouth is dry.%K%N
+
+0x580
+My spine is as stiff as iron.%K%P
+
+0x594
+Yuka「Wh... What's the meaning of this...???」%K%P
+
+0x5A0
+Yuka「Why are there... two bells...???」%K%P
+
+0x5AC
+Makoto「Y-Yuka...」%K%P
+
+0x5B8
+It takes everything I've got to say that word.%K%P
+
+0x5C4
+Makoto「Yuka... you said you threw it away... didn't you...?」%K%P
+
+0x5D8
+Yuka「But...」%K%P
+
+0x5E4
+Yuka「But...!」%K%P
+
+0x5F0
+Makoto「Were... you lying...?」%K%P
+
+0x5FC
+Yuka nods, her body trembling.%K%P
+
+0x608
+Yuka「But more importantly... Makoto... where did that bell you%Nhave now come from...?」%K%P
+
+0x614
+Makoto「I don't know... I don't... know...」%K%P
+
+0x620
+I shake my head countless times.%K%P
+
+0x62C
+I finally regain the ability to think calmly.%K%P
+
+0x638
+There's no time for a leisurely conversation!!%K%P
+
+0x644
+We've got more dire things to worry about right now!%K%P
+
+0x650
+Makoto「Anyway, let's get out of here right away! We can talk%Nlater!」%K%P
+
+0x65C
+I grab Yuka's arm with my free hand.%K%P
+
+0x668
+Yuka「...The bell?」%K%P
+
+0x674
+Yuka says this.%K%P
+
+0x680
+―That's right!%K%N
+
+0x68C
+First, I've got to get rid of this bell!%K%P
+
+0x698
+The fact that I didn't realize such a basic thing proves%Nhow much of a panic my mind is in.%K%P
+
+0x6A4
+... I immediately...%K
+
+0x6B0
+... take out the bell...%K%N
+
+0x6BC
+... and prepare...%K
+
+0x6C8
+... to cast it into the ocean...%K%P
+
+0x6EC
+―But at that instant!!%K%P
+
+0x748
+A-An earthquake...?%K%P
+
+0x754
+―CRASH!%K%N
+
+0x760
+My ears are pierced by a roaring sound coming from%Nbehind me.%K%N
+
+0x76C
+I turn around...%K%P
+
+0x778
+―Rumble rumble!!%K%N
+
+0x784
+Once again, I hear the high-pitched sound of something%Ncracking.%K%P
+
+0x790
+And along with it, I feel the shrine's wall that we're leaning%Nagainst tilting towards us!%K%N
+
+0x79C
+Over the panicked Yuka's shoulder, I can see segments%Nof the thick pillars breaking up into small wood chips as%Nthey blow up in the air.%K%P
+
+0x7A8
+The eaves sticking out from overhead are weightily%Nlooming over us!%K%P
+
+0x7B4
+With our feet on the cliff... there's nowhere to run!%K%P
+
+0x7C0
+―What should I do!?%K%P
+
+0x7CC
+I hesitate for a moment.%K%N
+
+0x7D8
+The ocean? No, from this height, it'd be suicide!%K%P
+
+0x7E4
+Right now, at least...%K%N
+
+0x7F0
+At the very least, Yuka alone should...%K%N
+
+0x7FC
+With all of my strength, I kick off the ground, and leap%Ntowards Yuka...%K%P
+
+0x8AC
+I'm so... cold...%K%N
+
+0x8B8
+My whole body has gone numb. I can't move.%K%P
+
+0x8C4
+Strangely, there's no pain.%K%P
+
+0x8D0
+All there is is the taste of rusty iron in my mouth...%K%N
+
+0x8DC
+All of my other senses are completely paralyzed.%K%P
+
+0x8E8
+Suddenly, I am assaulted with severe nausea.%K%P
+
+0x8F4
+I throw it all up.%K%P
+
+0x910
+Blood...%K%N
+
+0x91C
+I threw so much blood that I could drown in it...%K%P
+
+0x928
+The blood won't stop, as it overflows in my mouth and%Nguzzles down my throat.%K%P
+
+0x934
+It seems I'm bleeding from other parts besides my mouth.%K%P
+
+0x940
+My neck?%K%N
+
+0x94C
+Did I cut an artery in my neck?%K%N
+
+0x958
+The blood begins to flow out of me relentlessly, like a%Nfaucet that's been left on full blast.%K%P
+
+0x964
+My consciousness slowly begins to fade...%K%P
+
+0x970
+I close my eyes partly, and focus my faint, dim field of%Nvision..%K%P
+
+0x97C
+Right in front of me...%K%N
+
+0x988
+... lies Yuka.%K%P
+
+0x99C
+I can see her heavily dangling palm.%K%P
+
+0x9A8
+On top of it is a small fragment of light...%K%P
+
+0x9B4
+―The bell.%K%P
+
+0x9C0
+It's so painful...%K%N
+
+0x9CC
+It hurts like hell.%K%P
+
+0x9D8
+I'm writhing in agony from the pain that feels like it's%Nclawing at my heart.%K%N
+
+0x9E4
+But it's not physical pain.%K%P
+
+0x9F0
+My heart...%K%N
+
+0x9FC
+My heart... feels like it's been gouged out by a sharp%Nknife.%K%P
+
+0xA08
+I broke my vow...%K%P
+
+0xA14
+Even though I swore that "I will definitely protect Yuka"...%K%P
+
+0xA20
+I was too late...%K%N
+
+0xA2C
+I was just an instant too late...%K%N
+
+0xA38
+If I hadn't hesitated in that one instant...%K%P
+
+0xA44
+I could have... protected Yuka.%K%P
+
+0xA50
+Even so...%K%N
+
+0xA5C
+Even so...%K%P
+
+0xA68
+I muster the last of my strength to crawl like an insect%Nover to Yuka's side.%K%P
+
+0xA74
+In my arms, I feel Yuka's skin is wet with slippery blood...%K%N
+
+0xA80
+Her cheeks are ghastly pale, almost transparent...%K%N
+
+0xA8C
+As if she were a doll made of glass.%K%P
+
+0xA98
+Yuka「Why...」%K%P
+
+0xAA4
+Her hoarse voice fills this empty void.%K%P
+
+0xAB0
+Many tears pour down her face nonstop.%K%P
+
+0xABC
+Before long, from Yuka's palm...%K%P
+
+0xAD0
+... the bell falls.%K%P
+
+0xADC
+And from my palm as well...%K%P
+
+0xB14
+... the bell slips out and falls.%K%P
+
+0xB2C
+At that moment...%K%N
+
+0xB38
+―All light fades.%K%P
+

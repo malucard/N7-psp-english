@@ -1,0 +1,933 @@
+text area offset and size:
+0x1E30
+0x4A2A
+0x138
+I'm having fun fishing with Haruka.%K%P
+
+0x184
+As a pleasant breeze brushes Haruka's hair, she turns%Nto me and smiles.%K%P
+
+0x190
+Even though I've probably seen it countless times%Nbefore in my memories, I still find her smile refreshing.%K%P
+
+0x19C
+I am immersed in this tranquility.%K%N
+
+0x1A8
+Haruka and I... pass this peaceful and happy time with%Neach other...%K%P
+
+0x1B4
+As usual, I don't catch any fish, but that doesn't matter.%K%P
+
+0x1C0
+(It would be nice if just this scene could be repeated for%Neternity...)%K%P
+
+0x1CC
+That thought comes from somewhere deep inside me.%K%P
+
+0x1D8
+But... But...%K%N
+
+0x1E4
+The tragedy that happened in the early hours of the%N6th... I never want to experience that ever again.%K%P
+
+0x1F0
+Until then, I've got to do something...! Anything...!!%K%P
+
+0x268
+How long have I been wandering around in my dream%Nworld...?%K%P
+
+0x274
+A throbbing headache forces me to wake up, and I jump%Nto my feet from the bed.%K%N
+
+0x280
+The room is filled with the dazzling morning sunlight.%K%P
+
+0x28C
+Today is the problematic 3rd. That's right... the day Saki%Nwill reveal to everyone that Haruka is a clone...%K%P
+
+0x298
+On that day, Okuhiko got pissed when he learned Haruka%Nand I kissed... Saki practically exploded when she saw%Nthat happen.%K%N
+
+0x2A4
+So if Okuhiko doesn't get mad, then the problem with Saki%Nshouldn't occur either...%K%P
+
+0x2B0
+Then if Haruka and I don't kiss, it'll all be good?%K%P
+
+0x2BC
+No, but Haruka and I have already kissed.%K%N
+
+0x2C8
+If that's the case, then what should I do...?%K%P
+
+0x2D4
+Anyway, just standing here won't solve anything.%K%N
+
+0x2E0
+I gather up my courage as I walk towards the door.%K%P
+
+0x308
+... And, at that time, someone quietly knocks on the door.%K%P
+
+0x314
+Makoto「Come in...」%K%P
+
+0x36C
+Haruka「Ah, I...」%K%P
+
+0x378
+Makoto「Haruka... did you come here just to wake me up?」%K%P
+
+0x384
+Haruka「... Because... we made a promise...」%K%P
+
+0x390
+That's right. Last night, I once again promised to go%Nfishing with Haruka.%K%P
+
+0x39C
+Not only is this a way for me to preserve my bond with%NHaruka, but I also think that it's the best way for Haruka%Nto find her heart.%K%P
+
+0x3A8
+But on the 3rd in my memories... Haruka didn't come to%Nwake me...%K%P
+
+0x3B4
+Something is beginning to change... is that it?%K%P
+
+0x3C0
+Well, whatever. Let's begin right away.%K%P
+
+0x3CC
+Makoto「All right then, shall we go?」%K%P
+
+0x3D8
+Haruka「... Yes.」%K%P
+
+0x464
+And then, we arrive at the pier, same as always.%K%P
+
+0x470
+Haruka becomes engrossed in fishing while I blankly%Nstare at her face.%K%P
+
+0x47C
+A natural smile rises to her lips.%K%P
+
+0x4A4
+I truly cherish the time I spend with Haruka.%K%P
+
+0x4B0
+However, I don't have much time left.%K%N
+
+0x4BC
+This afternoon will be a challenge.%K%N
+
+0x4C8
+Now's not the time to get intoxicated with euphoria.%K%P
+
+0x4D4
+Makoto「Haruka, please listen carefully.」%K%P
+
+0x4E8
+Haruka「... What?」%K%P
+
+0x510
+Haruka turns towards me while dangling her fishing line%Non the surface of the sea.%K%P
+
+0x51C
+Makoto「Today, perhaps something a little... no, really bad might%Nhappen.」%K%P
+
+0x528
+Makoto「But it's going to be a misunderstanding.%K ... So I want you%Nto not get upset and remain calm.」%K%P
+
+0x53C
+Haruka「Huh? What are you talking about...?」%K%P
+
+0x548
+Makoto「You might not understand right now.%K But... I want you to%Nbelieve in me.」%K%P
+
+0x570
+Haruka's honest eyes look straight into mine.%K%P
+
+0x584
+Haruka「I understand... I'll trust you.」%K%P
+
+0x590
+Makoto「... Thank you.」%K%P
+
+0x5C0
+Feeling a little relieved by those words, I cast my%Nbaitless fish hook out to sea.%K%N
+
+0x5CC
+Right now, I want time to think, so I'm not going to be%Nfishing.%K%P
+
+0x5D8
+(All that's left... is just to make sure Okuhiko doesn't get%Nangry.)%K%P
+
+0x5E4
+(Well then, what should I do?)%K%P
+
+0x5F0
+(For now, I should try not to kiss Haruka today...)%K%P
+
+0x67C
+Makoto「All right, looks like it's time to head back.」%K%P
+
+0x688
+I tell Haruka this when the sky has been dyed a brilliant%Nred color.%K%P
+
+0x6B0
+Today, I haven't kissed Haruka.%K%N
+
+0x6BC
+The truth is, I was on edge the whole time wondering when%Nshe would bring it up, but in the end, she never showed%Nany signs of doing so.%K%P
+
+0x6D0
+Haruka「You didn't catch any fish today, did you?」%K%P
+
+0x6DC
+Makoto「Nope. But you caught more than enough to compensate%Nfor that, so isn't that good?」%K%P
+
+0x6E8
+Haruka「... Can we come here together again?」%K%P
+
+0x6F4
+Makoto「Yeah, of course.」%K%P
+
+0x708
+Haruka「Promise...?」%K%P
+
+0x714
+Makoto「Promise.」%K%P
+
+0x720
+Makoto「... Come on, everyone's waiting, so let's go back.」%K%P
+
+0x72C
+Haruka「... Yes...」%K%P
+
+0x754
+This time, I decide that we should return later than we did%Nlast time.%K%P
+
+0x760
+With this, maybe that incident won't happen. That's what%NI'd hoped, but...%K%P
+
+0x7CC
+When we return to the lodge after fishing...%K%N
+
+0x7D8
+... we find that the others haven't come back yet.%K%P
+
+0x7E4
+(... What should I do?)%K%P
+
+0x7F0
+First, the most important thing is to make sure that%NHaruka isn't left alone with Okuhiko.%K%N
+
+0x7FC
+In the short time I have, instead of returning to my room, I%Nrest in the living room with Haruka.%K%P
+
+0x808
+Makoto「Are you tired?」%K%P
+
+0x81C
+Haruka「No, I'm all right. I had fun, so...」%K%P
+
+0x868
+Just then, all of the sudden... the front door is violently%Nthrown open.%K%P
+
+0x8B0
+It's Okuhiko.%K%N
+
+0x8BC
+Okuhiko strides towards us while straddling his%Nshoulders.%K%N
+
+0x8C8
+Saying he's not pleased would be an understatement...%K%P
+
+0x8D4
+Before long, he takes an imposing stance in front of%NHaruka, and suddenly says this.%K%P
+
+0x8F8
+Okuhiko「Why did you go fishing with Ishihara? What do you see in%Nthat asshole?」%K%P
+
+0x904
+Even though he's right in front of me, Okuhiko calls me%N"that asshole".%K%N
+
+0x910
+He talks as if he's ignoring my existence altogether.%K%P
+
+0x92C
+Haruka「Makoto... is kind to me...」%K%P
+
+0x940
+Okuhiko「Kind? Ishihara? He's nothing but a vulgar bastard. In any%Ncase, it's clear as day that he has a ulterior motive.」%K%P
+
+0x94C
+Makoto「...」%K%P
+
+0x960
+Haruka「We trust each other. You wouldn't understand...」%K%P
+
+0x974
+Okuhiko「You're the one who doesn't understand about Ishihara.」%K%P
+
+0x980
+Makoto「...」%K%P
+
+0x994
+Haruka「What's going on between me and Makoto is none of your%Nconcern.」%K%P
+
+0x9A8
+Okuhiko「You're wrong! It does concern me! Haruka-chan, I...!」%K%P
+
+0x9B4
+Makoto「... Hold it right there!!!!」%K
+
+0x1DF0
+Calm down Okuhiko.
+
+0x1DFC
+Get Haruka out of here.
+
+0x9FC
+Makoto「Haruka, let's go! We don't need someone like him killing the%Nmood!」%K%P
+
+0xA10
+Haruka「Wait. Tell him straight.」%K%P
+
+0xA1C
+Makoto「Huh?」%K%P
+
+0xA30
+Haruka「About me and you. About how we trust each other. No%Nmatter what happens... isn't that right?」%K%P
+
+0xA44
+Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're%Nthe only ones who understand.」%K%P
+
+0xA50
+(C-Crap... this is really bad...!!)%K%P
+
+0xA64
+Haruka「Why aren't you saying anything?」%K%P
+
+0xA78
+Haruka and Okuhiko are waiting for me to speak.%K%N
+
+0xA84
+But... that awful event could happen depending on my%Nreply!!%K%P
+
+0xA90
+(Just how should I answer...???)%K
+
+0x1E08
+"Haruka and I trust each other."
+
+0x1E14
+"All we did was go fishing."
+
+0xAD8
+Makoto「That's right! Haruka and I trust each other!」%K%P
+
+0xAE4
+I managed to say it...%K%P
+
+0xAF0
+Haruka「Makoto and I trust each other. ... He even gave me a kiss...」%K%P
+
+0xB04
+Makoto「It wasn't much, really... all we did was go fishing...」%K%P
+
+0xB10
+I say this to try to calm Okuhiko down.%K%P
+
+0xB24
+Okuhiko「Damn it... Why did you go with this bastard at all,%NHaruka-chan?」%K%P
+
+0xB38
+Haruka「Makoto's... not a bad person. We were just keeping our%Npromise.」%K%P
+
+0xB44
+Makoto「Right, right... It was an unexpected promise...」%K%P
+
+0xB58
+Okuhiko「Promise!? Then make a promise with me, Haruka-chan.%NTomorrow, the two of us will...」%K%P
+
+0xB6C
+Haruka「It doesn't concern you...」%K%P
+
+0xB80
+Haruka「Tell Okuhiko. Tell him it doesn't concern him. Tell him we're%Nthe only ones who understand.」%K%P
+
+0xB8C
+(Haruka... why did you repeat the same words!?)%K%P
+
+0xB98
+(This means that the same thing will happen...!)%K%P
+
+0xBAC
+Haruka「Why aren't you saying anything?」%K%P
+
+0xBB8
+Makoto「...」%K%P
+
+0xBC4
+Haruka「Are you saying we can't trust each other?」%K%P
+
+0xBD0
+Makoto「That's not it... That's not it at all, but-」%K%P
+
+0xBDC
+Haruka「So you don't think anything of me at all? ... Even though%Nyou gave me a kiss...」%K%P
+
+0xBF0
+(No...!)%K%P
+
+0xC04
+Okuhiko「How could you do that to Haruka-chan!? She doesn't%Nbelong to you, dammit!」%K%P
+
+0xC18
+Okuhiko「Haruka-chan, what's so good about this irresponsible%Nbastard!?」%K%P
+
+0xC2C
+Haruka「Makoto's not irresponsible...!」%K%P
+
+0xC40
+Okuhiko「I'm different. I'm beyond a level of trust with you. I love%Nyou!」%K%P
+
+0xC54
+Haruka「...」%K%P
+
+0xC60
+Okuhiko「You don't understand!? Look at me! The man who loves%Nyou is right here!」%K%P
+
+0xC74
+Haruka looks away from Okuhiko's face and looks at me.%K%N
+
+0xC80
+It's a gaze that seems to be seeking something...%K%P
+
+0xC8C
+Okuhiko「Haruka-chan!」%K%P
+
+0xC98
+Makoto「Stop it, Okuhiko!」%K%P
+
+0xCE4
+A sound echoes in the living room...%K%N
+
+0xCF0
+We all turn towards the sound.%K%P
+
+0xD0C
+Saki is standing frozen by the front door.%K%N
+
+0xD18
+She's carrying her basket...%K%N
+
+0xD24
+By her feet are tennis rackets, scattered about.%K%P
+
+0xD5C
+... ... ...%K%P
+
+0xD68
+In the end, I was unable to change the flow of time...%K%P
+
+0xDA0
+When I come to my senses, I notice that it's completely%Ndark outside.%K%P
+
+0xDAC
+I'd returned to my room, and now I'm sitting down on the%Nbed in a daze.%K%P
+
+0xDB8
+I'm very absentminded at the moment.%K%P
+
+0xDC4
+Saki got angry and revealed the truth about Haruka...%K%P
+
+0xDD0
+History is completely repeating itself.%K%P
+
+0xDDC
+(So even if I struggle, it's all futile...?)%K%P
+
+0xDE8
+I am crushed by my own powerlessness.%K%P
+
+0xE10
+After a while... I hear the sound of knocking on the door.%K%P
+
+0xE74
+It's Haruka.%K%N
+
+0xE80
+Haruka enters my room... But she doesn't open her mouth.%K%P
+
+0xE8C
+It's not like she's looking for what words to say...%K%N
+
+0xEA8
+... She's just standing still, seeming as if she's waiting for%Nme to say something to her.%K%P
+
+0xEB4
+Makoto「This isn't something... you should really worry about.」%K%P
+
+0xEC0
+I say this gently.%K%N
+
+0xECC
+I really don't want her to be worried by it.%K%P
+
+0xED8
+I don't want to see Haruka looking depressed over%Nthinking that there's an issue with her being a clone.%K%P
+
+0xEE4
+Haruka「That's why... I have no heart...」%K%P
+
+0xEF0
+Haruka「Because I'm just someone's replacement.」%K%P
+
+0xEFC
+Haruka「Because I'm nothing more than a copy.」%K%P
+
+0xF08
+Makoto「...」%K%P
+
+0xF1C
+Haruka「Surprised?」%K%P
+
+0xF28
+Makoto「No, not at all.」%K%P
+
+0xF34
+I already knew about it from last time, and besides...%K%P
+
+0xF40
+Makoto「... Even if you're a clone, Haruka is Haruka, right? Nothing%Nhas changed between us.」%K%P
+
+0xF4C
+Makoto「That's why I don't think anything of it, and why you%Nshouldn't be worried about it.」%K%P
+
+0xF58
+I answer while choosing my words carefully.%K%P
+
+0xF64
+Haruka「...」%K%P
+
+0xF78
+A surprised expression appears on Haruka's face, her%Nbreath having been taken away.%K%P
+
+0xF8C
+Haruka「... I'm happy.」%K%P
+
+0xF98
+Haruka「I'm happy to hear that from you, Makoto...」%K%P
+
+0xFA4
+Haruka smiles.%K%N
+
+0xFB0
+It's a tender grin.%K%P
+
+0xFBC
+"We trust each other."%K%N
+
+0xFC8
+I remember Haruka's words...%K%P
+
+0xFD4
+My heart is brimming with emotions.%K%N
+
+0xFE0
+I want to somehow convey these feelings to Haruka right%Nnow.%K%N
+
+0xFEC
+I want to show these feelings to her in a way words%Ncannot express.%K%P
+
+0xFF8
+What should I do at a time like this? ... I already know that.%K%P
+
+0x100C
+I gently touch Haruka's hair.%K%N
+
+0x1018
+And then, I begin to bring my lips near her forehead...%K%P
+
+0x1024
+... Just then... I suddenly notice something.%K%P
+
+0x1030
+In the recesses of Haruka's now exposed forehead―%NI find a small scar.%K%P
+
+0x103C
+I feel like I've seen something I shouldn't have, so I%Nquickly take my hand out of Haruka's hair.%K%P
+
+0x1050
+Haruka「What's wrong?」%K%P
+
+0x105C
+Makoto「No, it's nothing.」%K%P
+
+0x1070
+Haruka「Makoto... you're hiding something...」%K%P
+
+0x107C
+Haruka「Even though... we trust each other...」%K%P
+
+0x1088
+Haruka「You've just been... gazing at my forehead...」%K%P
+
+0x1094
+My glance... Haruka must have realized that I was firmly%Nstaring at her forehead.%K%P
+
+0x10A0
+"Even though we trust each other..."%K%P
+
+0x10AC
+She's right. I don't really have a reason to hide it, do I?%K%P
+
+0x10B8
+I resolve myself, and decide to try asking her.%K%P
+
+0x10C4
+Makoto「Haruka...? That scar on your forehead... how did you get%Nit?」%K%P
+
+0x10D8
+Haruka「Scar...?」%K%P
+
+0x10E4
+Makoto「Yeah.」%K%P
+
+0x10F0
+Haruka「You mean this?」%K%P
+
+0x10FC
+Haruka says this, and softly parts her bangs.%K%P
+
+0x114C
+It really is there.%K%N
+
+0x1158
+It's a small, thin scar that I would never have noticed if I%Nhadn't seen it up close.%K%P
+
+0x1164
+Makoto「How did you get that...?」%K%P
+
+0x1170
+I try asking one more time.%K%P
+
+0x117C
+Haruka remains silent... She tilts her head as if to say,%N"Who knows?"%K%P
+
+0x1188
+Makoto「You don't remember?」%K%P
+
+0x1194
+Haruka nods.%K%P
+
+0x11A0
+Makoto「I see...」%K%P
+
+0x11AC
+When I mutter this, I lower Haruka's bangs.%K%P
+
+0x11C8
+And then...%K%P
+
+0x11D4
+Haruka「Well then, goodnight...」%K%P
+
+0x1204
+... Haruka leaves the room as if nothing happened.%K%P
+
+0x1210
+The last smile she shows me calms my heart down.%K%P
+
+0x121C
+Our small exchange managed to erase my previous%Ndepression.%K%P
+
+0x1228
+It's probably not just me. I think Haruka is also going%Nthrough the same thing...%K%P
+
+0x12A4
+Shortly after Haruka leaves, I hear another knock on the%Ndoor.%K%P
+
+0x1308
+The door opens, and Izumi-san steps into the room.%K%P
+
+0x1314
+Like the last 3rd, Izumi-san tells me various stories%Nrelated to clones.%K%P
+
+0x1320
+But I've heard the exact same details once already, so...%K%N
+
+0x132C
+... Though I feel guilty for doing it, I tune out Izumi-san.%K%P
+
+0x1338
+It's just that I can't think of anything but Haruka.%K%N
+
+0x1344
+She's the only thing I'm able to think about.%K%P
+
+0x1350
+Izumi-san continues her story, ignorant of my inattention.%K%P
+
+0x135C
+However...%K%P
+
+0x1380
+Izumi「My father is currently the authority on genetic%Nengineering. I'm... I'm just repeating what he told me.」%K%P
+
+0x138C
+... Suddenly, my heart skips a beat at those words.%K%P
+
+0x1398
+In the next instant, I casually express a question that%Nhas suddenly hit me.%K%P
+
+0x13A4
+Makoto「Izumi-san, your father hasn't made any clones... has he?」%K%P
+
+0x13D4
+Izumi「... Huh!?」%K%P
+
+0x13E0
+Izumi-san's face instantly goes pale. It's the first time%NI've seen Izumi-san like this...%K%P
+
+0x13EC
+Makoto「Ah... did I just ask something wrong...?」%K%P
+
+0x1400
+Izumi「That's not it. That's not it, but...」%K%P
+
+0x140C
+Makoto「...」%K%P
+
+0x143C
+Izumi「Listen to me carefully. About the clone trial... Why do you%Nthink the tried scientist thought of making a clone,%Ndespite knowing he could receive severe punishment...?」%K%P
+
+0x1448
+Makoto「Well...」%K%P
+
+0x1454
+Makoto「... Because he wanted... to see his lost child again?」%K%P
+
+0x1468
+Izumi「Yes. He wanted to see his lost child again. My father was%Nalso the same.」%K%P
+
+0x1474
+Makoto「Your... father???」%K%P
+
+0x1480
+... Wait, you're not telling me that he...!?%K%P
+
+0x148C
+Izumi「Kurumi... was kidnapped shortly after she was born...」%K%P
+
+0x1498
+Makoto「K-Kurumi was...?」%K%P
+
+0x14A4
+Dumbfounded, I become lost in Izumi-san's story.%K%P
+
+0x150C
+... ... ... It happened without warning.%K%P
+
+0x1520
+One day, Izumi-san's parents went out shopping, taking%Ntheir one-month old baby with them... Kurumi.%K%N
+
+0x152C
+In that shopping center, they took their eyes off of her%Nfor one minute...%K%N
+
+0x1538
+... And in the next, she had suddenly vanished.%K%N
+
+0x1544
+All that was left was her empty stroller...%K%N%N
+
+0x1550
+In other words, Kurumi had been kidnapped.%K%P
+
+0x1564
+According to the witnesses, the kidnapper's demands%Nwere already left behind in the stroller.%K%N
+
+0x1570
+A bounty for the criminal was quickly placed as the%Npolice tirelessly searched for Kurumi.%K%N
+
+0x157C
+The media extensively reported on this, but... In the end,%Nthey couldn't find Kurumi...%K%P
+
+0x1590
+... And then, around one year after Kurumi's%Ndisappearance...%K%N
+
+0x159C
+... Dr. Morino decided to recreate Kurumi.%K%N%N
+
+0x15A8
+"I want to see my child again, no matter what..."%K%N%N
+
+0x15B4
+With these sentiments that any parent must have, he%Nthought to use his own technology to achieve them.%K%P
+
+0x15C8
+If anyone found out, he'd be severely punished and%Nalso booted from the world of genetic engineering.%K%N
+
+0x15D4
+Despite that, the doctor began work on creating a clone.%K%P
+
+0x15E8
+First, Dr. Morino obtained a sample of Kurumi's blood.%K%N
+
+0x15F4
+It was held in the cold storage of a university hospital,%Nbecause it had been taken from Kurumi immediately after%Nbirth in order to be examined to see whether or not she%Nhad any infectious diseases or any abnormalities in her%K%Pwhite blood cells and the like.%K%P
+
+0x1600
+The nucleus extracted from Kurumi's blood cell was then%Ntransplanted into an egg cell that had already had its%Nnucleus extracted, then implanted into the mother's%Nwomb.%K%N%N
+
+0x160C
+Nine months later... Kurumi's clone let out her first cry.%K%P
+
+0x1620
+Izumi-san was only 2 years and 11 months old at the time,%Nso she has no real memory to call her own of this.%K%N
+
+0x162C
+It seems this story was just the one her parents told%Nher directly after it had happened. ... ...%K%P
+
+0x1684
+Izumi「But I was a cruel child... After her birth, I was extremely%Nmean towards my new little sister... I must have thought%Nshe was stealing all of my parent's love.」%K%P
+
+0x1690
+Izumi「So I said horrible things like 'A kid like this isn't my real%Nsister', and pushed her away one time when she chased%Nafter me.」%K%P
+
+0x16A4
+Izumi「That was awful, wasn't it? Just because I was a child was%Nno excuse... She was left bleeding from her forehead...」%K%P
+
+0x16B0
+Makoto「... What!?」%K%P
+
+0x16C4
+Izumi「I wonder if that gash is still there... It was pretty deep,%Nafter all... That's why I try not to look at anyone's%Nforehead...」%K%P
+
+0x16D0
+Makoto「H-Hold on, Izumi-san!」%K%P
+
+0x16DC
+My heart thumps loudly in my chest.%K%N
+
+0x16E8
+My whole body is instantly covered in goosebumps.%K%P
+
+0x16F4
+Makoto「Let me confirm this... one more time...」%K%P
+
+0x1700
+Makoto「That girl's forehead... has a scar... on it!?」%K%P
+
+0x170C
+Izumi-san gives me a slow, deep nod while biting her lip.%K%P
+
+0x1718
+Makoto「And then... what happened to that girl after that...!?」%K%P
+
+0x1724
+Izumi-san quietly continues as she gazes out into the%Ndistance.%K%P
+
+0x1738
+Izumi「One day, Kurumi was suddenly found...」%K%P
+
+0x17A0
+... ... Kurumi was found three years after she had been%Nkidnapped...%K%P
+
+0x17B4
+Her father doted on the clone girl, but when the real%NKurumi was safely placed back into his care, the%Nsituation became troublesome.%K%N
+
+0x17C0
+Of course, their father loved them equally.%K%N
+
+0x17CC
+But those days were an era where clones were faced%Nwith persecution.%K%N%N
+
+0x17D8
+If he kept both of them, as they grew up, the fact that%None of them was a clone would undoubtedly come to light.%K%P
+
+0x17EC
+And so, their father decided to give up the clone girl as%Nshe cried...%K%N
+
+0x17F8
+... She was adopted by a young, reliable couple who%Nworked as her father's laboratory assistants at the time.%K%N
+
+0x1804
+... ...%K%P
+
+0x1880
+Izumi-san leaves the room after finishing her story.%K%P
+
+0x188C
+In the empty room, my thoughts turn to Haruka.%K%N
+
+0x18B4
+"Because I'm just someone's replacement."%K%N
+
+0x18C0
+... Haruka certainly said that.%K%P
+
+0x18CC
+The most important thing about Izumi-san's story just%Nnow is...%K%N
+
+0x18D8
+―that Kurumi might be Haruka's "Original"!%K%P
+
+0x18E4
+Haruka must be dying to learn this sort of information%Nabout her roots.%K%P
+
+0x18F0
+On the other hand... if Haruka learned the truth, she might%Nend up suffering more, as she's self-conscious enough%Nas it is due to the fact she's a clone.%K%P
+
+0x18FC
+Futhermore, it might make things even more awkward if%Nshe learned that her Original is an acquaintance of%Nhers...%K%P
+
+0x1908
+When my thoughts reach this point, I let out a loud sigh.%K%N
+
+0x1914
+It echoes in the dark and quiet room.%K%P
+
+0x1920
+(Then what should I do?)%K%P
+
+0x192C
+(What should I do...???)%K%P
+
+0x1938
+―That's right!%K%N
+
+0x1944
+Struck by a sudden idea, I spontaneously stand on top%Nof my bed.%K%P
+
+0x1950
+"I just need to prove those two aren't the same!" ... Isn't%Nthat the most effective method?%K%P
+
+0x195C
+I'll look for the differences between them!%K%N
+
+0x1968
+Then I'll pick the most distinctive one!%K%P
+
+0x1974
+If I do that, then Haruka will probably be able to discover%Nherself!%K%N
+
+0x1980
+She should definitely discover how valuable her own%Nexistence truly is!%K%P
+
+0x198C
+And then, history too will probably change...%K%N
+
+0x1998
+Although this is just a baseless theory, I feel confident%Nthat this plan will work.%K%P
+
+0x19A4
+Satisfied, I crawl into my bed.%K%N
+
+0x19B0
+It seems tomorrow will be busy...%K%P
+

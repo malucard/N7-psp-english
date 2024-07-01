@@ -1,0 +1,333 @@
+text area offset and size:
+0x1020
+0x1766
+0x4C
+??「... Are you awake?」%K%P
+
+0x68
+I am awakened by the sound of the door being knocked%Nand someone's voice.%K%P
+
+0x74
+(Is that Haruka...???)%K%P
+
+0x80
+(So she really does want to go outside...?)%K%P
+
+0x8C
+Makoto「Yeah, it's open...」%K%P
+
+0xA0
+??「Okay.」%K%P
+
+0xD0
+Makoto「Ah...!」%K%P
+
+0xDC
+Makoto「... K-Kurumi!?」%K%P
+
+0x124
+Kurumi「That's right! It's Kurumi!!」%K%P
+
+0x130
+Makoto「What is it...? Coming in so suddenly... at this time...」%K%P
+
+0x154
+Kurumi「What!? Did you forget, Onii-chan? At noon, Kurumi said%Nshe was coming over to visit, didn't she?」%K%P
+
+0x160
+Kurumi「See, you and the others are going back very soon. So%NKurumi thought she wanted have more fun with you all.」%K%P
+
+0x16C
+Certainly, now that she mentions it, I feel that she did%Nsay that...%K%P
+
+0x178
+Makoto「... Now that I think about it, you're right. So then, do you%Nwant to play something?」%K%P
+
+0x18C
+Kurumi「Huh? Can we play anything?」%K%P
+
+0x198
+Makoto「... If it's something too extreme, then please cut me a%Nbreak.」%K%P
+
+0x1AC
+Kurumi「To be honest, Kurumi just wanted to talk to you,%NOnii-chan... But if you say so, then Kurumi wonders if she%Nshould think up something.」%K%P
+
+0x1B8
+Makoto「Huh?」%K%P
+
+0x1C4
+I'm stunned.%K%N
+
+0x1D0
+As my mind is still in a daze from waking up, I'm unable to%Nunderstand Kurumi's words very well.%K%P
+
+0x1E4
+Kurumi「Well then... umm...」%K%P
+
+0x1F0
+Kurumi sits down on the bed next to me, acting like she's%Ndeep in thought.%K%P
+
+0x1FC
+She's so close to me that our shoulders are almost%Ntouching each other... Kurumi is blushing a little.%K%P
+
+0x218
+―And at that time!%K%P
+
+0x248
+From outside the partly open door, I hear the sound of%Nsomething striking the floor.%K%P
+
+0x254
+Kurumi「Huh? Huh? What was that?」%K%P
+
+0x268
+I quickly stand up, and open the door.%K%P
+
+0x2BC
+But there's no one in the living room.%K%N
+
+0x2C8
+I survey the entire room, then my gaze turns to the floor.%K%P
+
+0x2D4
+There's something in front of my room...%K%N
+
+0x2E0
+Lying at the foot of the door is...%K%N
+
+0x2EC
+―"Aspirin".%K%P
+
+0x2F8
+The box of medicine seems to have been thrown%Nconsiderably hard, as it's smashed.%K%P
+
+0x304
+(... It couldn't be...)%K%P
+
+0x338
+I feel uneasiness strike me like pain.%K%P
+
+0x360
+I immediately rush over to the front of Haruka's room, and%Nknock on her door.%K%P
+
+0x3B4
+I knock again, harder this time, but there's no response.%K%P
+
+0x3C0
+Makoto「Haruka! Haruka! Are you there!?」%K%P
+
+0x3CC
+??「Makoto...」%K%P
+
+0x3D8
+Suddenly, I hear someone calling me from behind, so I%Nturn around.%K%P
+
+0x3EC
+Yuka「Huh, what are you doing? If you're looking for Haruka, she%Njust went outside, saying she was going to take a walk.」%K%P
+
+0x3F8
+Makoto「!!!」%K%P
+
+0x40C
+Yuka「It seemed like she was crying... Ah... you were mean to%NHaruka, weren't you!?」%K%P
+
+0x418
+Yuka「Get a hold of yourself... Geez... Haruka is pure, you know.」%K%P
+
+0x424
+Makoto「Hey, Yuka... Haruka... w-went outside...!?」%K%P
+
+0x438
+Yuka「Didn't. I. Just. Say. That? She went outside... Ah, hold it!」%K%P
+
+0x44C
+I immediately brush Yuka aside and start running.%K%P
+
+0x458
+I rush through the living room, and fling open the front%Ndoor with all of my strength.%K%P
+
+0x4AC
+I rush outside faster than a bullet.%K%P
+
+0x4B8
+And like that, I head towards the hill road.%K%P
+
+0x4C4
+Just then...%K%P
+
+0x4D0
+Kurumi「Wait! Wait, Onii-chan! Where are you going!? Don't leave%NKurumi alone!!」%K%P
+
+0x4DC
+... As I run fiercely, I hear Kurumi's voice from behind me.%K%P
+
+0x4F0
+When I turn around, I see Kurumi standing there, staring%Nat me with concerned eyes.%K%N
+
+0x4FC
+But there's no time for me to be loafing around.%K%P
+
+0x508
+Makoto「I'm going to look for Haruka!」%K%P
+
+0x514
+Kurumi「Huh?」%K%P
+
+0x520
+Makoto「I'll be back soon, so wait in the lodge!」%K%P
+
+0x534
+I plunge into the darkness after leaving her with those%Nwords...%K%P
+
+0x5B0
+Could it be that Haruka knows that Kurumi is her Original...?%K%P
+
+0x5BC
+If that's true...%K%N
+
+0x5C8
+If that's true, then... Haruka must have been really hurt!%K%P
+
+0x5D4
+She saw me, who was supposed to have a headache, all%Nalone with Kurumi, who was sitting really close to me on%Nthe bed...%K%P
+
+0x5E0
+An ominous presentiment crosses my mind.%K%P
+
+0x5EC
+As time passes, the stirring in my heart swells more and%Nmore, to the point where it feels endless.%K%P
+
+0x5F8
+Haruka... Where is she... right now...?%K
+
+0xF50
+Princess Beach.
+
+0xF5C
+Moon Beach.
+
+0xF68
+Viewpoint Park.
+
+0xF74
+The shrine.
+
+0x720
+Haruka's nowhere to be found here... Just where could%Nshe have gone...!?%K%P
+
+0x72C
+Please, please be safe...%K
+
+0x748
+Makoto「Haruka! Haruka! If you're there, please answer me!!」%K%P
+
+0x754
+I scream this out while searching about the vicinity. But I%Nstill don't see Haruka...%K
+
+0x770
+It's useless... Haruka isn't here after all...%K%P
+
+0x77C
+If it's come to this, then I have no choice but to search%Nevery square meter of the island.%K%P
+
+0x788
+Anyway, I can't bear standing still like this...%K%P
+
+0xF80
+Moon Beach.
+
+0xF8C
+Viewpoint Park.
+
+0xF98
+The shrine.
+
+0x8D4
+Haruka's nowhere to be found here... Just where could%Nshe have gone...!?%K%P
+
+0x8E0
+Please, please be safe...%K
+
+0x8FC
+Makoto「Haruka! Haruka! If you're there, please answer me!!」%K%P
+
+0x908
+I scream this out while searching about the vicinity. But I%Nstill don't see Haruka...%K
+
+0x924
+It's useless... Haruka isn't here after all...%K%P
+
+0x930
+If it's come to this, then I have no choice but to search%Nevery square inch of the island.%K%P
+
+0x93C
+Anyway, I can't bear standing still like this...%K%P
+
+0xFA4
+Princess Beach.
+
+0xFB0
+Viewpoint Park.
+
+0xFBC
+The shrine.
+
+0xA88
+Haruka's nowhere to be found here... Just where could%Nshe have gone...!?%K%P
+
+0xA94
+Please, please be safe...%K
+
+0xAB0
+Makoto「Haruka! Haruka! If you're there, please answer me!!」%K%P
+
+0xABC
+I scream this out while searching about the vicinity. But I%Nstill don't see Haruka...%K
+
+0xAD8
+It's useless... Haruka isn't here after all...%K%P
+
+0xAE4
+If it's come to this, then I have no choice but to search%Nevery square inch of the island.%K%P
+
+0xAF0
+Anyway, I can't bear standing still like this...%K%P
+
+0xFC8
+Princess Beach.
+
+0xFD4
+Moon Beach.
+
+0xFE0
+The shrine.
+
+0xC3C
+Haruka's nowhere to be found here... Just where could%Nshe have gone...!?%K%P
+
+0xC48
+Please, please be safe...%K
+
+0xC64
+Makoto「Haruka! Haruka! If you're there, please answer me!!」%K%P
+
+0xC70
+I scream this out while searching about the vicinity. But I%Nstill don't see Haruka...%K
+
+0xC8C
+It's useless... Haruka isn't here after all...%K%P
+
+0xC98
+If it's come to this, then I have no choice but to search%Nevery square inch of the island.%K%P
+
+0xCA4
+Anyway, I can't bear standing still like this...%K%P
+
+0xFEC
+Princess Beach.
+
+0xFF8
+Moon Beach.
+
+0x1004
+Viewpoint Park.
+

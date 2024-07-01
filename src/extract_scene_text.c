@@ -101,11 +101,15 @@ int main(int argc, char **argv)
         else if (current_off == 0x1BE9 && text_area_off == 0x1030) table_offsets[n] = 0x558; //COEP_01.SCN
         else if (current_off == 0x543E && text_area_off == 0x25F0) table_offsets[n] = 0x1888; //SA7_09.SCN
         else if (current_off == 0x1682 && text_area_off == 0xF40) table_offsets[n] = 0x434; //SAEP_06.SCN
+        else if (current_off == 0xB85 && text_area_off == 0x6D8) table_offsets[n] = 0x4C0; //YL2D7_2.SCN
+        else if (current_off == 0x2392 && text_area_off == 0xDA8) table_offsets[n] = 0xB00; //HL2D7.SCN
+        else if (current_off == 0x14ED && text_area_off == 0xA00) table_offsets[n] = 0x7E8; //KL2D7.SCN
+        else if (current_off == 0x2045 && text_area_off == 0xC38) table_offsets[n] = 0xA00; //SL2D7.SCN
         //standard search
         else table_offsets[n] = find_addr_in_mem((uint32_t)current_off, scn, control_area_off, text_area_off);
 
         if (table_offsets[n] == -1) {
-            fprintf(stderr, "Error: address %X not found!\n", current_off);
+            fprintf(stderr, "Error: address %lX not found!\n", current_off);
             exit(1);
         }
 

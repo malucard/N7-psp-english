@@ -1,0 +1,309 @@
+text area offset and size:
+0x6D0
+0x185F
+0x74
+We take Saki to the clinic, and the diagnosis is the same%Nas in my memory.%K%P
+
+0x80
+And just like last time, she'll be staying over one night%Njust to be safe.%K%P
+
+0x8C
+Yuka「But I'm glad. I didn't know what would happen there for a%Nwhile.」%K%P
+
+0x98
+Saki「It seems humans can't die that easily after all.」%K%P
+
+0xA4
+Makoto「What's up with that!? Did you want to die!?」%K%P
+
+0xB0
+Saki「... I'm sorry. That's not what I meant.」%K%P
+
+0xBC
+Makoto「Huh?」%K%P
+
+0xC8
+Saki「I wish I could honestly be glad... That's why I'm sure I'm not%Ncute...」%K%P
+
+0xD4
+Makoto「...」%K%P
+
+0xE0
+Saki「Even though you went to all the trouble of saving my life,%NMakoto-kun...」%K%P
+
+0xFC
+Makoto「... W-Well, that's true.」%K%P
+
+0x108
+It seems Saki thinks I'm the one who saved her life.%K%N
+
+0x114
+Well, that might be true, but...%K%P
+
+0x120
+Her sudden honesty is throwing me a bit off balance.%K%P
+
+0x134
+Makoto「... Huh?」%K%P
+
+0x140
+My mind is thrown into intense disorder.%K%P
+
+0x14C
+Saki thinks I saved her life.%K%P
+
+0x158
+This is exactly the same as with what happened with%NOkuhiko last time, isn't it?!%K%P
+
+0x164
+But I can't find the timing to break the truth to her.%K%P
+
+0x170
+If things stay like this, it'll be bad...%K%P
+
+0x17C
+Izumi「More importantly, what are we going to do now? It%Ndoesn't seem like we can all stay here with Saki-chan%Nthe whole time...」%K%P
+
+0x188
+Izumi「Anyway, why don't we head back to my shop to settle%Ndown? As for Saki-chan... I know. Kurumi, stay with her.」%K%P
+
+0x194
+Kurumi「Huh? Just Kurumi?」%K%P
+
+0x1A0
+Izumi「You need to be helpful to others every once in a while.%NThink of it as atonement for failing to deliver the pizza to%NSaki-chan.」%K%P
+
+0x1AC
+Kurumi「Ah―, no fair. Even though that wasn't Kurumi's fault...」%K%P
+
+0x1B8
+Izumi「You're not going to listen to your sister?」%K%P
+
+0x1C4
+Kurumi「... Why'd you have to put it that way... Kurumi gets it, geez.」%K%P
+
+0x1D0
+Makoto「Please wait a minute. I'll stay here!」%K%P
+
+0x1DC
+I announce this.%K%P
+
+0x1E8
+Because I want to be... by Saki's side...%K%P
+
+0x1F4
+And besides, there's also something I want to confirm.%K%P
+
+0x200
+Saki「It's fine, you don't have to stay here just for me.」%K%P
+
+0x20C
+Makoto「I'm not worried about you, Saki. I just want to stay here.」%K%P
+
+0x218
+Saki「...」%K%P
+
+0x224
+Izumi「Well then, I guess we'll leave it to you, Makoto-kun.」%K%P
+
+0x230
+Everyone nods at Izumi-san's words.%K%P
+
+0x280
+And after everyone leaves, Saki and I face each other.%K%P
+
+0x28C
+She believes that I saved her life.%K%N
+
+0x298
+I can tell by the embarrassed way she's looking at me.%K%P
+
+0x2A4
+Saki says she can't trust people and acts tough, but%Nshe really can't help but want to trust them.%K%P
+
+0x2B0
+It's no different than someone who's pining for love.%K%P
+
+0x2BC
+As I remember the Saki in my memories, I decide to try to%Nfinally have her reveal her connection to Haruka and the%Nbell.%K%P
+
+0x2EC
+Makoto「By the way, what were you talking to Haruka about at%Nthat time?」%K%P
+
+0x2F8
+Saki「...」%K%P
+
+0x304
+Makoto「Just before the monstrous wave hit, you were talking%Nwith Haruka, right?」%K%P
+
+0x310
+Makoto「After that, you ran all the way towards the tip of the pier...」%K%P
+
+0x31C
+Saki「U-Um... did you hear something from Haruka-chan?」%K%P
+
+0x328
+Makoto「No, but... I'm worried.」%K%P
+
+0x334
+Saki「About Haruka-chan?」%K%P
+
+0x340
+Makoto「About you! What are you saying...?」%K%P
+
+0x34C
+Saki「Why?」%K%P
+
+0x358
+Makoto「Huh?」%K%P
+
+0x364
+Saki「Why are you worried about me?」%K%P
+
+0x370
+Makoto「... It doesn't matter!」%K%P
+
+0x37C
+Saki「Makoto-kun...」%K%P
+
+0x388
+Makoto「You... won't tell me?」%K%P
+
+0x394
+Saki「...」%K%P
+
+0x3BC
+I take the bell out of my pocket.%K%P
+
+0x3C8
+I notice Saki's face turning pale.%K%P
+
+0x3D4
+Makoto「This bell means something to you, doesn't it? I at least%Nknow that much...」%K%P
+
+0x3E0
+I ring the bell.%K%P
+
+0x3EC
+Just as I expected, Saki reacts to it.%K%P
+
+0x3F8
+She averts her gaze from the bell, her body visibly%Ntrembling.%K%P
+
+0x404
+Saki「Stop... stop...!」%K%P
+
+0x410
+Makoto「Tell me what happened!」%K%P
+
+0x41C
+Saki「No... No...!」%K%P
+
+0x454
+I embrace Saki as hard as I can.%K%P
+
+0x460
+Makoto「Don't worry... I'm here.」%K%P
+
+0x46C
+Saki「... Makoto-kun.」%K%P
+
+0x478
+Makoto「I trust you.」%K%P
+
+0x484
+The trembling Saki gives a small nod.%K%P
+
+0x498
+Saki「When I was a kid, there was this charcoal burning hut%Nbehind my summer house where a girl about my age lived.%NThe only ones that lived there were her and her father.」%K%P
+
+0x4A4
+Saki「That girl and I became good friends, and I gave her a%Nbell. It was a bell I got from my Mama...」%K%P
+
+0x4B0
+Makoto「And this is that bell...?」%K%P
+
+0x4BC
+Saki「I don't know. But it's the spitting image of it.」%K%P
+
+0x4C8
+Makoto「Spitting image?」%K%P
+
+0x4D4
+Saki「When I did that, Mama got really angry at me, and told me,%N'Get it back!'. That was the only thing I had given the girl,%Nso I told Mama I wouldn't do it. Then my Papa...」%K%P
+
+0x4E0
+Makoto「What did he say?」%K%P
+
+0x4EC
+Saki「'If you don't listen to what your Mama says, then you're%Nnot my daughter.' That I might as well join the girl in the%Ncharcoal burning hut.」%K%P
+
+0x4F8
+Makoto「...」%K%P
+
+0x504
+Saki「That's why I... went to get it back together with Mama. The%Ngirl tried to chase after me when we retrieved it, acting%Nlike we were thieves...」%K%P
+
+0x510
+Saki「Mama told me to throw stones at her... so I did, over and%Nover again. She was bleeding heavily from the left side%Nof her forehead. I was scared. I was really scared. But...!!」%K%P
+
+0x51C
+Saki「Despite that, Mama told me... 'It's all right, it's all right'...%N'You absolutely mustn't be friendly with clones.' 'You%Nmustn't sympathize with her'...」%K%P
+
+0x528
+Makoto「A clone...」%K%P
+
+0x534
+Saki「That girl was a clone. At that time, the Clone Law hadn't%Nbeen passed yet, so they were living in hiding.」%K%P
+
+0x540
+Saki「That girl, Haruka... she has a scar on the left side of her%Nforehead... And more than anything, she has that bell!%NThat's why, that's why, I-!!」%K%P
+
+0x54C
+Makoto「You took it again?」%K%P
+
+0x558
+Saki「... I was just scared.」%K%P
+
+0x564
+Makoto「But was that girl really Haruka?」%K%P
+
+0x570
+Saki「... I don't know. I can't remember her name anymore... I don't%Nwant to remember!」%K%P
+
+0x57C
+Makoto「Saki... Try to confirm it. Have a proper chat with Haruka%Nand try to confirm it.」%K%P
+
+0x588
+Saki「...」%K%P
+
+0x594
+Makoto「Saki?」%K%P
+
+0x5A0
+Saki「No... I can't meet with Haruka... The truth is, I get scared%Nwhenever I see her face...」%K%P
+
+0x5AC
+Makoto「I see... I understand. Leave the rest to me.」%K%P
+
+0x5B8
+Saki「Huh?」%K%P
+
+0x5C4
+Makoto「I'll do it.」%K%P
+
+0x5D0
+Saki looks at me with unease.%K%P
+
+0x5DC
+I look into Saki's eyes, and speak with a firm voice.%K%P
+
+0x5E8
+Makoto「It's fine... don't worry. Trust me!」%K%P
+
+0x5F4
+Makoto「And I'll also continue... to only trust you!」%K%P
+
+0x608
+Saki stares at me with wide eyes, and nods slowly.%K%P
+

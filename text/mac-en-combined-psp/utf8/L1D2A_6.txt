@@ -1,0 +1,573 @@
+text area offset and size:
+0x12D8
+0x3158
+0x78
+None of us have anything we need to do in particular, so%Nwe all agree with Kurumi and Yuka's proposal.%K%P
+
+0x84
+Of course, we're not after tuna, but...%K%P
+
+0x90
+Right now, those two noisy girls are holding hands and%Nskipping down Moon Beach.%K%P
+
+0x9C
+And for some reason, Haruka is with them. Kurumi is%Nholding her hand, while Haruka is awkwardly being forced%Nto walk down the beach with a bewildered expression.%K%P
+
+0xA8
+Those two probably dragged her along.%K%N
+
+0xB4
+Watching them is kind of fun...%K%P
+
+0xC8
+Okuhiko「So what fish can you catch around here, Izumi-san?」%K%P
+
+0xD4
+Okuhiko cocks his head to the side as he asks Izumi-san.%K%P
+
+0xE8
+Izumi「Let's see... well, there's various types of fish to catch...」%K%P
+
+0xF4
+Izumi「But everyone here is a beginner. So why don't we go to%Na place where we can catch some horse mackerels,%Nordinary mackerels, or sardines?」%K%P
+
+0x100
+Makoto「Oh, but what about the gear?」%K%P
+
+0x114
+Izumi「There's a fishing gear shop near the harbor that%Nprovides them... We'll just rent a few, since buying fishing%Nrods and reels there is expensive.」%K%P
+
+0x128
+Okuhiko「Near the harbor? Then does that mean we're not fishing%Nat Moon Beach?」%K%P
+
+0x13C
+Izumi「Right. It's not that it's so rocky around here that you%Ncan't catch anything, it's just that the harbor is safer.」%K%P
+
+0x148
+Izumi「Moreover, it's much easier to fish over there and it's%Nmore bountiful.」%K%P
+
+0x154
+Makoto「Huh... You must have been here for a long time to know%Nthis much.」%K%P
+
+0x160
+Izumi「Well, gossip is one of the tools of my trade.」%K%P
+
+0x16C
+Makoto「I see...」%K%P
+
+0x180
+When Izumi-san finishes talking, she walks over to a%Nparking lot a bit away from Lunabeach.%K%P
+
+0x1E4
+We follow her to find a white lightweight truck used for%Nbusiness parked over there.%K%P
+
+0x1F0
+It's an old car model that you never see at all these%Ndays...%K%P
+
+0x1FC
+There are some sections of chipped paint here and%Nthere, and the frame is covered in reddish-brown rust.%K%P
+
+0x210
+Saki「Don't tell me you're going to drive this thing...?」%K%P
+
+0x21C
+Saki gives a mildly nervous expression full of shock.%K%P
+
+0x238
+Izumi「Right. It's a little far for walking.」%K%P
+
+0x244
+Saki「So are you saying that we'll be riding in the cargo bay in%Nthe back?」%K%P
+
+0x258
+Izumi「Well, it might be nice to occasionally let loose and live a%Nlittle.」%K%P
+
+0x264
+Izumi-san quickly retorts with this.%K%P
+
+0x278
+Saki seems to accept Izumi-san's blunt answer.%K%P
+
+0x28C
+Makoto「But about the truck...」%K%P
+
+0x298
+Makoto「The battery's dead, isn't it?」%K%P
+
+0x2A4
+For some reason or another, I ask Izumi-san this.%K%N
+
+0x2C0
+I really... don't know why, though...%K%P
+
+0x2D4
+Izumi「Huh...?!」%K%P
+
+0x2FC
+Izumi-san's expression seems to momentarily tense up.%K%P
+
+0x308
+Saki and Okuhiko exchange glances.%K%P
+
+0x330
+The roar of the waves breaking against the shore is as%Nloud as the heavy echo of my body's core shaking.%K%P
+
+0x33C
+Izumi「That can't be right. I drove this the other day to stock%Nup, and it was working perfectly then...」%K%P
+
+0x350
+While Izumi-san says this...%K%P
+
+0x378
+... she gets into the car.%K%P
+
+0x3BC
+Izumi「H-Huh...?!」%K%P
+
+0x410
+Izumi「No way...」%K%P
+
+0x4C4
+Izumi「How... How did you know, Makoto-kun?」%K%P
+
+0x4D0
+Izumi「First the rice yesterday, then the earthquake... and then%Ntoday... this...」%K%P
+
+0x4DC
+Izumi「Could it be related to what you said yesterday...?」%K
+
+0x1270
+Dodge the question.
+
+0x127C
+Say it was a "premonition" one more time.
+
+0x52C
+Makoto「No, I don't think it's like that at all.」%K%P
+
+0x538
+I'm dodging the question.%K%P
+
+0x544
+Otherwise, it'll just be like yesterday... no one will believe%Nme if I say I had a premonition.%K%P
+
+0x550
+I don't want to experience the unpleasant feeling of%Nbeing like a falsely accused suspect ever again.%K%P
+
+0x55C
+Makoto「After all, this thing doesn't look like it's been very well%Nmaintained...」%K%P
+
+0x568
+Makoto「Just by taking one look at it, I figured 'there's no way%Nthis thing will move'.」%K%P
+
+0x57C
+Izumi「...」%K%P
+
+0x588
+Izumi-san looks at me with a doubtful expression.%K%P
+
+0x594
+Makoto「Hey, it's just another coincidence, you know?」%K%P
+
+0x5A0
+Izumi「A 'coincidence', you say...」%K%P
+
+0x5BC
+Okuhiko「Come on, this doesn't matter, does it?」%K%P
+
+0x5C8
+Izumi「But...」%K%P
+
+0x5D4
+Okuhiko「Anyway, looks like we're walking.」%K%P
+
+0x5E8
+Okuhiko「If we don't hurry up, we might not have any time to go%Nfishing, right?」%K%P
+
+0x5F4
+Thankfully, Okuhiko smoothly changes the conversation.%K%P
+
+0x608
+Though now that he mentions it, the only way to the%Nharbor is by walking.%K%P
+
+0x614
+Makoto「Right, right. If we keep slouching around, the sun will go%Ndown.」%K%P
+
+0x620
+Trying to avoid Izumi-san's gaze as much as possible, I%Nback up Okuhiko.%K%P
+
+0x684
+Izumi「But Makoto-kun...」%K%P
+
+0x690
+As I turn my back, Izumi-san says this in a way that says%N"I don't understand this at all."%K%P
+
+0x69C
+But I pretend not to hear her and quicken my pace.%K%N
+
+0x6A8
+Besides, the one who doesn't understand the most is%Nmyself.%K%P
+
+0x6B4
+Why did the words "The battery's dead, isn't it?" come%Nout of my mouth?%K%P
+
+0x6C0
+Somehow, it felt like it wasn't me who said it. I'm shrouded%Nby this irritating, uncomfortable sensation...%K%P
+
+0x6D4
+Makoto「Yes. I don't really understand it myself, but it's probably%Nwhat you're thinking.」%K%P
+
+0x6E0
+Makoto「In other words...」%K%P
+
+0x704
+Okuhiko「Hey, Ishihara. Don't tell me you're going to start spewing%Nbullshit about how it was a 'premonition' again.」%K%P
+
+0x710
+Makoto「...」%K%P
+
+0x71C
+Okuhiko beats me to the punch, instinctively leaving me%Nat a loss for words.%K%P
+
+0x730
+Okuhiko「Just by looking at this car's state, it's natural to think%Nthat 'there's no way this thing will move'.」%K%P
+
+0x73C
+Okuhiko「In fact, Ishihara and I were thinking the same thing...」%K%P
+
+0x750
+Okuhiko「No offense, Izumi-san, but this car doesn't look like it's%Nhad maintenance in a long time.」%K%P
+
+0x75C
+Okuhiko's words are like an intimidating air that leaves me%Nwith no room to object.%K%P
+
+0x768
+(It's just like yesterday... I think it's safer if I stay silent.)%K%P
+
+0x774
+However, Izumi-san doesn't seem to be buying it.%K%P
+
+0x788
+Izumi「But in Makoto-kun's case, this isn't the only time he's―」%K%P
+
+0x794
+Okuhiko「Come on, Izumi-san! Geez, it doesn't matter, does it?」%K%P
+
+0x7A8
+Izumi「But...」%K%P
+
+0x7BC
+Okuhiko「Anyway, looks like we're walking.」%K%P
+
+0x7D0
+Okuhiko「If we don't hurry up, we might not have any time to go%Nfishing, right?」%K%P
+
+0x7DC
+For better or worse, Okuhiko manages to brush the topic%Nof my premonitions aside, not believing in them.%K%P
+
+0x7F0
+Now that he mentions it, though, the only way to get to%Nthe harbor now is by walking.%K%P
+
+0x7FC
+Makoto「Hey, Izumi-san...」%K%P
+
+0x808
+When Okuhiko isn't listening, I whisper to Izumi-san.%K%P
+
+0x814
+Makoto「I'll talk to you about it next time...」%K%P
+
+0x820
+I take my chance to leave her as she tries to search for%Na reply.%K%P
+
+0x874
+Izumi「'Next time'...」%K%P
+
+0x880
+Izumi-san says this in a way that makes it clear that she%Ndoesn't comprehend what's going on.%K%P
+
+0x88C
+I pretend not to hear her and quicken my pace.%K%N
+
+0x898
+Besides, the one who doesn't understand the most is%Nmyself.%K%P
+
+0x8A4
+Why did the words 'The battery's dead, isn't it?' come out%Nof my mouth?%K%P
+
+0x8B0
+Somehow, it felt like it wasn't me who said it. I'm shrouded%Nby an irritating and uncomfortable sensation...%K%P
+
+0x948
+For a short while, I walk through the tranquil rural%Nlandscape.%K%N
+
+0x954
+The chirping of songbirds and the sight of green plants%Nare calming, a contrast to my chaotic state of mind.%K%P
+
+0x97C
+Suddenly, I realize that someone's trying to catch up%Nwith me.%K%P
+
+0x988
+I don't even need to look over my shoulder to tell that%Nit's Izumi-san.%K%P
+
+0x9A0
+Everyone else has already passed me, and are walking%Nin front of me...%K%P
+
+0x9AC
+So to avoid Izumi-san's questioning, I should...%K
+
+0x1288
+Go with Yuka.
+
+0x1294
+Go with Kurumi and Saki.
+
+0x12A0
+Go with Haruka and Okuhiko.
+
+0xA0C
+At first, I think I should try waving and walking towards%NYuka...%K%P
+
+0xA18
+... However, I give up on that.%K%P
+
+0xA24
+I'm a little too scared to approach her after what%Nhappened earlier.%K%N
+
+0xA30
+If she starts yelling at me again, it would be nigh%Nimpossible to run away from her.%K%P
+
+0xA3C
+I think I'll...%K
+
+0x12AC
+Go with Kurumi and Saki.
+
+0x12B8
+Go with Haruka and Okuhiko.
+
+0xA8C
+I run over to Kurumi and Saki, who are walking together%Nand happily chatting.%K%P
+
+0xACC
+Kurumi「... Kurumi's completely happy.」%K%P
+
+0xAD8
+Naturally, since I came in the middle of the conversation, I%Nhave no clue what Kurumi's talking about.%K%P
+
+0xAE4
+I wouldn't normally butt into a conversation, or at least%Nwould be reluctant to, but I'd rather get everything else%Noff my mind right now.%K%P
+
+0xAF0
+So I try bluntly asking Kurumi "Happy about what?"%K%P
+
+0xAFC
+Just then...%K%P
+
+0xB08
+Saki「About us.」%K%P
+
+0xB14
+... Saki answers.%K%P
+
+0xB20
+Saki「I asked her 'Aren't we imposing too much on you and%Nyour sister?'」%K%P
+
+0xB2C
+Kurumi「That's why Kurumi said she was 'completely happy'...」%K%P
+
+0xB38
+Makoto「Wow... You're even good with that drunkard?」%K%P
+
+0xB44
+I briefly glance at Yuka, who's walking in front of us.%K%P
+
+0xB58
+Kurumi「Yeah! For some reason, Kurumi gets along really well with%NYuka-san♪」%K%P
+
+0xB64
+Well, it certainly did look that way...%K%P
+
+0xB70
+Kurumi「And you know what? Kurumi has been here the whole time%Nsince spring break began...」%K%P
+
+0xB7C
+Kurumi「So Kurumi was getting a little tired of just being alone%Nwith Onee-chan...」%K%P
+
+0xB88
+Makoto「Hmm.」%K%P
+
+0xB94
+Kurumi「Can Kurumi be honest with you? Until you guys came%Nyesterday, Kurumi just wanted to go home.」%K%P
+
+0xBA8
+Saki「What? If that's the case, then you should have called%Nout to me...」%K%P
+
+0xBB4
+I see... Now that she mentions it, Saki came here because%Nof her February exam break...%K%P
+
+0xBC0
+Saki「Then again, we only did just meet yesterday, so I%Nsuppose that couldn't be helped.」%K%P
+
+0xBCC
+Saki smiles.%K%P
+
+0xBD8
+(Nevertheless, being here since February is a long time...)%K%P
+
+0xBE4
+(Just what was Saki doing for two months all alone?)%K%P
+
+0xBF0
+I continue to think on the matter absentmindedly...%K%P
+
+0xC0C
+I run over to Haruka and Okuhiko, who are walking%Ntogether a bit ahead of me.%K%P
+
+0xC3C
+As soon as I catch up to them...%K%P
+
+0xC50
+Okuhiko「What is it, Ishihara?」%K%P
+
+0xC5C
+... Okuhiko glances at me with clear disdain.%K%P
+
+0xC68
+Makoto「No, I was just wondering what you two were talking about.」%K%P
+
+0xC74
+In face of that glare, I give an indifferent answer.%K%P
+
+0xC80
+Just then...%K%P
+
+0xC8C
+Haruka「Fishing... we were talking about fishing.」%K%P
+
+0xC98
+... Surprisingly, Haruka herself answers my question.%K%P
+
+0xCAC
+Okuhiko「Right, that's it. So it has nothing to do with you, Ishihara.」%K%P
+
+0xCB8
+Makoto「Oh? It has nothing to do with me? If I remember correctly, I%Nbelieve that I'm going fishing as well.」%K%P
+
+0xCCC
+Okuhiko「But Ishihara, I thought you didn't want to go?」%K%P
+
+0xCD8
+Makoto「Well... since Yuka is forcing us to go and all, I guess I am%Ncoming along unwillingly...」%K%P
+
+0xCE4
+Okuhiko「Right? So just get lost, Ishihara.」%K%P
+
+0xCF8
+Okuhiko「Haruka-chan and I, however, are in favor of going fishing.%NWe don't need a negative guy like you to kill the mood.」%K%P
+
+0xD04
+(You didn't even have a "mood" in the first place, did%Nyou!?) I feel like saying this, but I'll let it go...%K%P
+
+0xD10
+I'm just going to ignore him.%K%P
+
+0xD1C
+Anyway, I'm interested in knowing why Haruka is in favor%Nof this.%K%P
+
+0xD28
+I then try asking her, "Why did you want to go fishing?"%K%P
+
+0xD3C
+Okuhiko「You idiot, you don't understand that either?」%K%P
+
+0xD48
+Okuhiko looks at me with scorn.%K%P
+
+0xD5C
+Okuhiko「Fishing is a game played in real earnest between man%Nand fish. Complicated tactics are needed for this%Nmagnificent, romantic game.」%K%P
+
+0xD68
+Okuhiko「If you had to talk about the pleasant feeling you get at%Nthe moment your target arrives, it is something words%Ncannot conve-」%K%P
+
+0xDAC
+Haruka「Because I want to feel one.」%K%P
+
+0xDB8
+Haruka suddenly mutters this.%K%P
+
+0xDC4
+Haruka「Because I want... to feel a fish.」%K%P
+
+0xDD8
+Okuhiko「... Right! That's it! In short, that is exactly what we want to%Ndo.」%K%P
+
+0xDE4
+Haruka「I want to try feeling a living fish.」%K%P
+
+0xDF0
+Okuhiko「Yes, yes, I understand. In other words... it's that feeling%Nyou get when you come into contact with nature, er, how%Nto put it...」%K%P
+
+0xDFC
+Haruka「I want to try feeling a living fish's heart.」%K%P
+
+0xE10
+Okuhiko「... Huh?!」%K%P
+
+0xE1C
+Haruka「I want to feel its beating with my own fingertips.」%K%P
+
+0xE30
+Haruka「In order to hear... the echo of life...」%K%P
+
+0xE3C
+Haruka softly places her palm on her chest.%K%P
+
+0xE48
+It looks as if she's trying to feel her own heart beat.%K%P
+
+0xE54
+Of course, Okuhiko is at a complete loss of words.%K%P
+
+0xE60
+After that, we all remain completely silent...%K%P
+
+0xEDC
+Finally, we arrive at the shopping district.%K%P
+
+0xEE8
+Our destination is just past the fishing market, dead%Nahead of us.%K%P
+
+0xEF4
+There, Izumi-san gathers all the necessary gear from%Nthe local fishing gear shop.%K%P
+
+0xF08
+Izumi「Well then, shall we go?」%K%P
+
+0xF14
+Izumi-san begins to take charge as she distributes the%Ngear amongst us.%K%P
+
+0xF20
+Everyone obediently starts heading towards the harbor%Nas they curiously play with their reels and hooks.%K%P
+
+0xF2C
+As I'm about to take a step forward...%K%P
+
+0xF40
+Izumi「Hold on.」%K%P
+
+0xF4C
+... Izumi-san grabs my forearm.%K%P
+
+0xF58
+Izumi「About what happened earlier... we're going to have a%Nlong talk about it later, okay?」%K%P
+
+0xF6C
+Izumi-san leaves me with those words.%K%P
+
+0xF78
+Although her tone was kind, there was a piercing light in%Nher pupils.%K%P
+
+0xF84
+It was a threatening gaze that instinctively leaves me%Nunnerved.%K%P
+

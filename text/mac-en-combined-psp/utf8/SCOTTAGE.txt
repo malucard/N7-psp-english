@@ -1,0 +1,960 @@
+text area offset and size:
+0x1810
+0x4B25
+0x40
+Though I came all this way to the summer house, my%Nuneasiness is preventing me from pressing the buzzer.%K%P
+
+0x4C
+With a deep breath, I press the button. Saki immediately%Nresponds over the intercom.%K%P
+
+0x58
+Makoto「Ah, it's me. It's Makoto.」%K%P
+
+0x64
+Saki「... Could you wait a minute?」%K%P
+
+0x70
+She turns off the intercom.%K%P
+
+0x7C
+(Oh, it seems she's in a good mood. She'll probably let me%Ninside.)%K%P
+
+0x88
+As I hold the basket, I examine the house.%K%P
+
+0x94
+I didn't notice it last night, but it's not half bad.%K%P
+
+0xA0
+I can't imagine how wealthy this "Asakura family" is, but%Njudging by this house, I get the feeling that they're%Npretty well off.%K%P
+
+0xAC
+The summer house is incredible. I feel like it could have%Nbeen designed by Frank Lloyd Wright, as rather than%Nbeing over-the-top lavish, it seems to be organic and in%Nsync with nature.%K%P
+
+0xB8
+Nature, huh... I suddenly remember the day I first met Saki.%K%P
+
+0xC4
+When she saw Tsukiya Hotel and the heated pool, she%Nscoffed and used words like "affectation" and "worldly."%K%P
+
+0xD0
+She said that no matter how hard humans try, there's no%Nway they can match up to natural beauty.%K%P
+
+0xDC
+She's very arrogant and rude, but I'm starting to think%Nthat her words were more sincere than condescending.%K%P
+
+0xE8
+If that's right, then when she sees this basket, Saki will%Nbe like...%K%P
+
+0xF4
+Saki「Wow, thank you. This is my favorite basket; I'm glad you%Nfixed it. Honestly, I was worried about what I was going to%Ndo with it, but you're quite the handy one.」%K%P
+
+0x100
+Makoto「No, it wasn't that big of a deal.」%K%P
+
+0x10C
+Saki「No, This kind of thing can't be replaced with money.」%K%P
+
+0x118
+Makoto「Is that so? Things like this should be treated with care.」%K%P
+
+0x124
+Saki「I know... And to think I said all of those things to you%Nyesterday... I'm very sorry.」%K%P
+
+0x130
+Makoto「It's all right. I understand...」%K%P
+
+0x13C
+... From there, everything will go exactly my way.%K%P
+
+0x150
+Saki「Whose way?」%K%P
+
+0x15C
+Makoto「Well, that's... huh?」%K%P
+
+0x184
+―GWAAAAA! When did she get here!?%K%P
+
+0x190
+Saki「So, what are you doing here?」%K%P
+
+0x19C
+I frantically show her the basket as I force a fake laugh.%K%P
+
+0x1A8
+Saki「What... about it?」%K%P
+
+0x1B4
+Makoto「'What about it'... umm, I thought for sure that this was%Nprobably your favorite, so I figured that, uhhh, it must%Nhave been priceless, so...」%K%P
+
+0x1C0
+Saki「And?」%K%P
+
+0x1CC
+Crap. This is completely going at Saki's pace!%K%P
+
+0x1D8
+Makoto「So... I decided I'd apologize about yesterday, and since I%Nthought this was important to you, I figured that, umm...」%K%P
+
+0x1EC
+Double crap. I no longer have any clue what the hell I'm%Nsaying...%K%P
+
+0x1F8
+Saki snorts as if she's scornfully mocking me and turns%Naround. She immediately begins to head back inside.%K%P
+
+0x204
+Makoto「Hey, wait, Saki!」%K%P
+
+0x210
+I chase after her.%K%P
+
+0x260
+I enter the summer house and follow Saki into the living%Nroom.%K%P
+
+0x26C
+She turns around, furious.%K%P
+
+0x280
+Saki「Who the hell said it was okay for you to come in?」%K%P
+
+0x28C
+Makoto「Y-You just left without even fully hearing me out. It's not%Nlike I'm done talk-」%K%P
+
+0x298
+Saki「I thought I told you not to talk until I say so.」%K%P
+
+0x2A4
+Makoto「...」%K%P
+
+0x2B0
+This bitch. She's the same as always, isn't she? I was%Nnaive if I was expecting some sort of Kurumi-like%Nreaction from her.%K%P
+
+0x2BC
+I sulk in my defeat.%K%P
+
+0x2C8
+Saki glances at the basket.%K%P
+
+0x2D4
+Saki「You fixed it, huh... hmm...」%K%P
+
+0x2E0
+Makoto「...」%K%P
+
+0x2EC
+Saki「It's all right. I was going to throw it out anyway.」%K%P
+
+0x2F8
+Makoto「Really?」%K%P
+
+0x304
+Saki「You can buy these anywhere, right? They're mass%Nproduced. It's not like they're unique.」%K%P
+
+0x310
+Makoto「Well, true, but still, sometimes these things can be...」%K%P
+
+0x31C
+Saki「'Sentimental', right?」%K%P
+
+0x328
+Makoto「...」%K%P
+
+0x334
+Saki「It's written all over your face. You're quite an easy%Nperson to read.」%K%P
+
+0x340
+Makoto「What!?」%K%P
+
+0x34C
+Saki「You talk at a commoner's level.」%K%P
+
+0x358
+(Damn it... I'm trying to be modest here, and yet she's as%Nfull of herself as always!)%K%P
+
+0x364
+Makoto「Oh, really. Well then, I guess you're under no obligation to%Nuse this...」%K%P
+
+0x370
+I feel like a dumbass. I'm fed up of dealing with this shit. I%Ngo to leave, still holding the basket.%K%P
+
+0x37C
+It really was a mistake for me to even worry about her.%K%P
+
+0x388
+Saki「Wait.」%K%P
+
+0x394
+Makoto「What!?」%K%P
+
+0x3A0
+Saki「It's not like I said I wasn't going to use it anymore.」%K%P
+
+0x3AC
+Makoto「... Huh?」%K%P
+
+0x3B8
+Saki「Put it down.」%K%P
+
+0x3C4
+Makoto「Take it yourself.」%K%P
+
+0x3D0
+Saki「Just put it down over there.」%K
+
+0x17D0
+"... All right."
+
+0x17DC
+"You should take it with your own hands."
+
+0x410
+Makoto「... All right.」%K%P
+
+0x41C
+I casually place the basket on a nearby desk.%K%P
+
+0x428
+I sneak a fleeting glance at Saki's face.%K%P
+
+0x434
+She seems to look almost relieved. Granted, the gesture%Nwas so slight, I could have mistaken it for something else.%K%P
+
+0x440
+Makoto「Looks pretty good, huh? There's no way it's as good as%Nbefore, but...」%K%P
+
+0x44C
+Saki「Well... it's not bad.」%K%P
+
+0x458
+Just as I thought. Saki is just being strangely stubborn%Nagain.%K%P
+
+0x464
+A "thank you" would have been nice... Oh, well.%K%P
+
+0x470
+I turn the basket around to show off the other side of it.%K%P
+
+0x47C
+Just then... The bell in the charm rings loudly.%K%P
+
+0x4B4
+―Suddenly, Saki's complexion changes.%K%P
+
+0x4C8
+Saki「Noooo...!」%K%P
+
+0x4DC
+Saki screams, runs over to the basket, grabs it, and with%Na haunted expression, begins searching for the source%Nof the sound.%K%P
+
+0x4F8
+Makoto「Telling me to put it down? Don't get conceited. Take it%Nyourself, Saki.」%K%P
+
+0x504
+When Saki comes over to me, she thrusts her hands out.%NI curtly give her the basket.%K%P
+
+0x518
+Saki clings to the basket as if she were holding a%Nnewborn baby. She tries to suppress a relieved grin, but%NI still catch it.%K%P
+
+0x524
+Makoto「Looks pretty good, huh? There's no way it's as good as%Nbefore, but...」%K%P
+
+0x530
+Saki「Well... it's not bad.」%K%P
+
+0x53C
+Cut me some slack... If she's happy, why can't she just%Nbe honest and say so?%K%P
+
+0x548
+Well, if it turned out she was extremely honest, like Kurumi,%Nthat'd be quite worrisome...%K%P
+
+0x554
+Saki examines the basket, rotating it.%K%P
+
+0x560
+Just then... The bell in the charm rings loudly.%K%P
+
+0x5B0
+―Suddenly, Saki's complexion changes.%K%P
+
+0x5BC
+Saki「Noooo...!」%K%P
+
+0x5D0
+Saki screams and instantly drops the basket. The color%Ndrains from her face as she frantically grabs it and%Nbegins to search for the source of the sound.%K%P
+
+0x5DC
+Before long, Saki finds the charm. She violently tears off%Nthe dangling bell! The basket slips out of her hands!%K%P
+
+0x5E8
+With her body visibly trembling, she runs over to the%Nwindow! She swings it open, and throws the bell away!%K%P
+
+0x5F4
+Haah... Saki takes a deep breath. When I approach her,%Nshe backs away from me.%K%P
+
+0x608
+Saki「Did that clone give it to you!?」%K%P
+
+0x614
+Makoto「What are you talking about?」%K%P
+
+0x620
+Saki「I'm talking about that clone!」%K%P
+
+0x62C
+Makoto「You mean Haruka?」%K%P
+
+0x638
+Saki「Her name doesn't matter!」%K%P
+
+0x644
+Makoto「What does Haruka have to do with it!?」%K%P
+
+0x658
+Saki「She's always... she's always chasing me!」%K%P
+
+0x664
+Makoto「Saki, calm down!」%K%P
+
+0x670
+Saki「Always, even though I keep taking it and taking it!」%K%P
+
+0x67C
+Makoto「Saki!」%K%P
+
+0x688
+Saki「Even though that thing's just a damn plaything!」%K%P
+
+0x694
+Makoto「What is 'that thing'?」%K%P
+
+0x6A0
+Saki「Stop...」%K%P
+
+0x6AC
+Makoto「What is it!?」%K%P
+
+0x6C0
+Saki「STOP!」%K%P
+
+0x6CC
+Saki「Stay away from me...」%K%P
+
+0x6D8
+Makoto「Saki!」%K%P
+
+0x6E4
+I unconsciously approach her. Saki draws back until her%Nback hits a wall.%K%P
+
+0x6F0
+Just when I close in on her... I hear a sound that sounds%Nlike a roar from the bottom of the earth.%K%P
+
+0x74C
+The floor violently shakes.%K%N
+
+0x758
+―It's an earthquake!%K%P
+
+0x7A0
+Saki「Kyaa!」%K%P
+
+0x7AC
+I firmly restrain the stumbling Saki as she lets out a%Nsharp scream.%K%P
+
+0x7B8
+We stay still like that without taking a step.%K%P
+
+0x7C4
+I wonder how long it's been...%K%P
+
+0x804
+... When I come to my senses, the earthquake has%Ncompletely subsided.%K%P
+
+0x810
+I quietly look at Saki. Our eyes meet.%K%P
+
+0x81C
+Now that my nerves have settled down, I try to search%Nfor the right words to say... However, Saki beats me to it.%K%P
+
+0x830
+Saki「... You can let go now.」%K%P
+
+0x83C
+Makoto「Huh? R-Right...」%K%P
+
+0x850
+When I do, Saki quickly moves away and turns her back%Non me.%K%P
+
+0x85C
+Saki「Go home.」%K%P
+
+0x868
+Makoto「Huh...? But we're not done tal-」%K%P
+
+0x874
+Saki「I have something to do after this.」%K%P
+
+0x880
+Makoto「Saki...」%K%P
+
+0x88C
+Saki「Go home.」%K%P
+
+0x898
+The look in her eyes makes it clear that she isn't in the%Nmood to talk.%K%P
+
+0x8A4
+It can't be helped... I walk towards the exit.%K%P
+
+0x8B0
+On my way, I turn around just once.%K%P
+
+0x8BC
+Makoto「Um... will your business take long?」%K%P
+
+0x8C8
+Saki「It's fine, it doesn't matter.」%K%P
+
+0x8D4
+Makoto「... Everyone's will be meeting this evening at 5:00 at%NLunabeach. If you'd like, you're welcome to join.」%K%P
+
+0x8E0
+Saki「...」%K%P
+
+0x8EC
+She doesn't reply. All I can do is quietly leave. With that%Nthought, I leave Saki's summer house.%K%P
+
+0x960
+When I return to the lodge, I find Haruka outside the front.%K%P
+
+0x974
+Makoto「Yo!」%K%P
+
+0x980
+I greet her as casually as possible. It's as if I'm trying to%Nforget what had happened between me and Saki just a%Nshort while ago...%K%P
+
+0x98C
+Haruka「...」%K%P
+
+0x998
+But Haruka doesn't answer.%K%P
+
+0x9A4
+Makoto「What? Is something wrong?」%K%P
+
+0x9B0
+Haruka「...」%K%P
+
+0x9BC
+Haruka glances at me. For some reason, her eyes are%Nfilled with scorn...%K%P
+
+0x9D0
+Without saying a word, she briskly starts walking%Ntowards the forest road.%K%P
+
+0x9DC
+Makoto「... Haruka?」%K%P
+
+0x9E8
+Haruka「...」%K
+
+0x17E8
+"Wait a minute!"
+
+0x17F4
+Silently see off Haruka.
+
+0xA28
+Makoto「Wait a minute!」%K%P
+
+0xA3C
+Haruka「What?」%K%P
+
+0xA48
+Makoto「'What'... Are you going somewhere?」%K%P
+
+0xA54
+Haruka「Yes.」%K%P
+
+0xA60
+Makoto「Where are you going?」%K%P
+
+0xA6C
+Haruka「Nowhere really.」%K%P
+
+0xA78
+Makoto「'Nowhere really'...?」%K%P
+
+0xA84
+Haruka「Well then, I'm going.」%K%P
+
+0xA98
+Makoto「Hey, wait...」%K%P
+
+0xAA4
+I try to run after Haruka when someone grabs me on the%Nshoulders from behind. When I turn around, I see that it's%NOkuhiko.%K%P
+
+0xAB8
+Okuhiko「Ishihara. Don't you understand you're bothering%NHaruka-chan?」%K%P
+
+0xAC4
+Makoto「Huh?」%K%P
+
+0xAD0
+Okuhiko「Damn, you really don't understand girls' feelings, do%Nyou...?」%K%P
+
+0xAE4
+While resisting the urge to punch Okuhiko, I shake him off%Nand head towards the forest road. I've lost sight of%NHaruka.%K%P
+
+0xAF8
+I silently see Haruka off.%K%P
+
+0xB04
+Before long, she disappears.%K%P
+
+0xB10
+Having lost my destination, and having nothing to do and%Nnowhere to go, I go up to the terrace.%K%P
+
+0xB48
+I can see the deep blue ocean from the terrace.%K%P
+
+0xBAC
+As I vacantly gaze out at the ocean, my thoughts drift%Nto Saki and Haruka.%K%P
+
+0xBB8
+When Saki heard the sound of the bell on the charm, she%Nreally freaked out.%K%P
+
+0xBC4
+On the other hand, as soon as I got back from Saki's%Nsummer house, Haruka became cold to me.%K%P
+
+0xBD0
+(Just what happened between those two?)%K%P
+
+0xBDC
+Tired of thinking, I look towards the forest path, and see%NSaki's retreating figure, walking at a quick pace.%K%P
+
+0xBE8
+(Now that I think about it, she did say she had something%Nto do...)%K%P
+
+0xBF4
+I'm curious.%K%P
+
+0xC00
+All right. Resolving myself, I decide to try to tail her...%K%P
+
+0xC54
+When Saki exits the forest road, she arrives at the%Ncoastline. She walks east for nearly five minutes, then%Ngoes down a side road.%K%P
+
+0xCDC
+The street has cherry blossom trees. It's the cherry%Nblossoms I passed when I was chasing Kurumi.%K%P
+
+0xCF0
+The street has cherry blossom trees.%K%P
+
+0xCFC
+(There were cherry blossoms in a place like this...?)%K%P
+
+0xD08
+But now isn't the time to be admiring them.%K%P
+
+0xD14
+I concentrate my gaze only on Saki's back, and resume%Nthe pursuit.%K%P
+
+0xD8C
+... Before long, I exit the tree-lined street, and arrive at%Nat Viewpoint Park.%K%P
+
+0xD98
+It offers an unbroken view of the grand blue sea that%Nlies before me.%K%P
+
+0xDA4
+Saki heads towards the lighthouse standing in the%Ncenter of the park.%K%P
+
+0xDB0
+Just then, another person appears from the shadow of%Nthe lighthouse.%K%P
+
+0xDBC
+I instinctively almost let out a gasp.%K%P
+
+0xDC8
+It's Haruka...%K%P
+
+0xDD4
+Saki and Haruka immediately begin to quarrel for some%Nreason.%K%P
+
+0xDE0
+It's the same as back then... just before the monstrous%Nwave struck that pier...%K%P
+
+0xDEC
+I feel my heart beating loudly.%K%P
+
+0xDF8
+I take a large roundabout path so they don't notice me,%Nand hide myself on the opposite side of the lighthouse.%K%P
+
+0xE04
+It's a place where I can hear their argument very well...%K%P
+
+0xE20
+Saki「Stop accusing me. I don't have it anymore.」%K%P
+
+0xE2C
+Haruka「You're lying. You took it away.」%K%P
+
+0xE38
+Saki「Do you intend to threaten me forever?」%K%P
+
+0xE44
+Haruka「Then just give it back to me.」%K%P
+
+0xE50
+Saki「I didn't want to see it again!」%K%P
+
+0xE5C
+Haruka「Please, stop lying!」%K%P
+
+0xE68
+Saki「I'm not lying!」%K%P
+
+0xE74
+Haruka「You're lying! You're lying! Give it back! Give me back that%N'bell'!」%K%P
+
+0xE80
+―Bell???%K%P
+
+0xE8C
+(Now that I think about it, when Saki heard that bell on the%Ncharm...)%K%P
+
+0xE98
+And, in that instant!%K%P
+
+0xEAC
+A scene flies by my mind...%K%P
+
+0xEB8
+That hopeless... dream I had... on the morning of the 1st...%K%P
+
+0xEC4
+(It couldn't be that the bell they're talking about... is THAT%Nbell!?)%K%P
+
+0xED0
+No, that's impossible...%K%N
+
+0xEDC
+That's impossible...%K%P
+
+0xEF0
+I shake my head countless times to get rid of that%Ndelusion.%K%P
+
+0xEFC
+(Anyway, right now, I've got to do something about this%Nsituation...)%K%P
+
+0xF08
+When I think that, I peek out from the shade of the%Nlighthouse, and observe those two.%K%P
+
+0xF14
+Their quarrel has now gotten to a physical level, for the%Ntwo are grappling.%K%P
+
+0xF20
+Saki manages to shake Haruka's hands off her, and%Nslowly draws back.%K%P
+
+0xF2C
+Haruka steadily closes the distance between her and%NSaki as she throws a furious glare at her.%K%P
+
+0xF38
+Saki slowly shakes her head.%K%P
+
+0xF44
+Haruka grabs Saki's hand again, but this time Saki%Nthrusts Haruka away with all her strength!%K%P
+
+0xF50
+Haruka falls flat on her back. She's not moving at all.%K%P
+
+0xF5C
+Saki shakes her head once again, trembling slightly, and%Nimmediately breaks off into a run.%K%P
+
+0xF68
+I come out from the shade and immediately rush over to%NHaruka's side.%K It seems she's lost consciousness.%K%P
+
+0xF74
+I lift Haruka up in my arms and shake her body.%K%P
+
+0xF80
+Makoto「Haruka! Haruka! Hang in there!」%K%P
+
+0xF8C
+The people who've noticed the uproar begin talking.%K%P
+
+0xF98
+Makoto「Haruka!」%K%P
+
+0xFA4
+Suddenly, Haruka's eyes open and move around%Nrestlessly.%K%P
+
+0xFB8
+Haruka「Makoto...?」%K%P
+
+0xFCC
+I silently nod. Haruka raises half her body up, and blankly%Nstares into my eyes. Just then, Haruka's eyes suddenly%Noverflow with tears.%K%P
+
+0xFD8
+Makoto「Haruka...」%K%P
+
+0xFE4
+I hold out my hand to help her get to her feet, but she%Npushes it away.%K%P
+
+0xFF0
+Makoto「?」%K%P
+
+0x1004
+Haruka「Don't worry about me.」%K%P
+
+0x1010
+Makoto「Huh?」%K%P
+
+0x101C
+Haruka stands up and moves away as if to avoid me.%K%P
+
+0x1028
+Makoto「What are you saying?」%K%P
+
+0x1034
+Haruka「...」%K%P
+
+0x1040
+Makoto「I saw what happened just now.」%K%P
+
+0x104C
+Haruka「It doesn't... concern you, Makoto.」%K%P
+
+0x1058
+Makoto「...」%K%P
+
+0x1064
+Haruka「It doesn't concern you, so...」%K%P
+
+0x1078
+Haruka looks away from me and walks off. She quickens%Nher smooth pace, and starts getting farther and farther%Nfrom me.%K For some reason, all I can do is stare at her%Ndumbfoundedly.%K%P
+
+0x1084
+When I come to my senses, Haruka is already gone.%NFeeling somewhat senseless, I trudge down the road I%Ncame and head back.%K%P
+
+0x10DC
+I exit the tree-lined road and come out to the coastline.%K%P
+
+0x10E8
+Just then, I feel a stare from somewhere. When I shift my%Nattention towards the direction of Moon Beach, I see%NSaki firmly staring at me.%K%P
+
+0x10F4
+I am instinctively paralyzed by her intense gaze.%K%P
+
+0x1108
+Saki「...」%K%P
+
+0x1114
+Makoto「...」%K%P
+
+0x1128
+Saki soon averts her gaze, and starts running in the%Ndirection of Moon Beach. I quickly chase after her.%K%P
+
+0x117C
+Saki doesn't slow down. Even though I'm running as fast%Nas I can, I can't catch up.%K%P
+
+0x1188
+Why? Why is she running away? It's all I can think about.%K%P
+
+0x1194
+I don't even understand why I'm chasing after Saki in the%Nfirst place.%K%P
+
+0x11A0
+Saki gets onto Moon Beach from the coastline and%Npasses right in front of Lunabeach. She makes a beeline%Ntowards Tsukiya Hotel.%K%P
+
+0x11AC
+Not once does she slow down.%K%P
+
+0x11FC
+When we reach the hotel, Saki rushes into the lobby from%Nthe front entrance.%K%P
+
+0x1208
+I desperately chase after her.%K%P
+
+0x1214
+Just then, a woman comes out from the lobby, and we%Ncrash into each other.%K%P
+
+0x1220
+The woman and I fall on top of each other.%K%P
+
+0x122C
+??「Kyaa!」%K%P
+
+0x1238
+Makoto「Sorry!」%K%P
+
+0x1254
+As I frantically get up and lend a helping hand to the%Nwoman, I breathe a sigh of relief.%K%P
+
+0x1260
+It's Izumi-san. Judging from her appearance, it seems%Nshe was delivering a pizza or something to the hotel.%K%P
+
+0x129C
+Izumi「Oh, if it isn't Makoto-kun?」%K%P
+
+0x12A8
+Makoto「Are you all right, Izumi-san? If so, then I've got to go!」%K%P
+
+0x12B4
+But before I can, Izumi-san tightly grabs my hand.%K%P
+
+0x12C0
+Izumi「Wait a minute. I saw your expression earlier.」%K%P
+
+0x12CC
+Makoto「Huh? 'Expression'?」%K%P
+
+0x12D8
+Izumi「As a penalty, would you help me from now on?」%K%P
+
+0x12E4
+I don't really get it, but I've got to catch Saki right now!%K%P
+
+0x12F0
+Makoto「S-Sorry, Izumi-san! I'm in a hurry right now!」%K%P
+
+0x12FC
+Izumi「It's fine, isn't it? At any rate, it's been decided that we'll%Nall gather tonight at the shop, right?」%K%P
+
+0x1308
+Makoto「Yes, but...」%K%P
+
+0x1314
+Izumi「Makoto-kun!」%K%P
+
+0x1320
+Makoto「Yes, ma'am...」%K%P
+
+0x132C
+Izumi「Last night, Kurumi and I pulled an all nighter, and have%Ntreaded along all day exhausted.」%K%P
+
+0x1338
+Izumi「Do you know why? ... You should, Makoto-kun.」%K%P
+
+0x1344
+I-I see... That basket...%K%P
+
+0x1350
+I thought it was strange at first.%K%N
+
+0x135C
+I thought that even if Kurumi pulled an all-nighter, there's%Nno way she could have fixed it by herself in one night.%K%P
+
+0x1368
+Makoto「But I really have urgent busi―」%K%P
+
+0x1374
+Izumi「Whaaat? ... Makoto-kun, do you plan to abandon us%Nsisters?」%K%P
+
+0x1388
+Izumi-san's eyes get moist, and she suddenly%Ntransforms into a frail young woman...%K%P
+
+0x1394
+Wh... Why!? Why has it turned out this way?%K%P
+
+0x13A0
+It feels like I'm being mean to Izumi-san, doesn't it?%K%P
+
+0x13AC
+Izumi「Even though Kurumi and I are really in trouble... even%Nthough we need your help, Makoto-kun...」%K%P
+
+0x13B8
+(Nooo... Izumi-san, please don't look at me with those%Neyes!)%K%P
+
+0x13C4
+Izumi「Makoto-kun only sees us as tools to be used...」%K%P
+
+0x13D0
+Izumi「When we run out of use, he plans to throw us out like%Nused-up, empty tubes of toothpaste...」%K%P
+
+0x13DC
+Makoto「N... No... Umm... Err...」%K%P
+
+0x13E8
+When I become flustered, Izumi-san continues to attack%Nme while I'm cornered.%K%P
+
+0x13F4
+Izumi「It's fine... I understand. Kurumi and I will just work our%Ndelicate and frail bodies to the bone.」%K%P
+
+0x1400
+Izumi「But when we collapse from overworking ourselves...%Ncould you at least nurse us back to health?」%K%P
+
+0x1414
+Izumi-san turns around, and starts frailly walking back%Ntowards Lunabeach.%K%P
+
+0x1420
+I should probably... just give up... on chasing Saki.%K%P
+
+0x142C
+Haah...%K%P
+
+0x1438
+Makoto「U-Umm... Izumi-san. I really am worried about you, so I'll help%Nyou...」%K%P
+
+0x1444
+Just then, Izumi-san quickly turns towards me while a%Nsmile rises to her face...%K%P
+
+0x1458
+Izumi「Huh? What about your urgent business?」%K%P
+
+0x1464
+Makoto「...」%K%P
+
+0x1470
+Izumi「You're worried about Saki-chan, aren't you?」%K%P
+
+0x147C
+(How does she know that...?)%K%P
+
+0x1488
+Izumi「It's fine. Saki-chan will also definitely come! My intuition%Nsays so.」%K%P
+
+0x1494
+Izumi「Well then, let's go shopping!」%K%P
+
+0x14A0
+Makoto「???」%K%P
+
+0x14AC
+Izumi「Makoto-kun, you've heard about today's barbecue,%Nright?」%K%P
+
+0x14B8
+Makoto「Barbecue?」%K%P
+
+0x14C4
+Izumi「You haven't heard? Everyone's gathering today at%NLunabeach at 5:00.」%K%P
+
+0x14D0
+Makoto「Yeah... I heard about it, but...」%K%P
+
+0x14DC
+Makoto「... So we're all having a barbecue today?」%K%P
+
+0x14E8
+Izumi-san continues while giving me a deep nod.%K%P
+
+0x14F4
+Izumi「That's why we have a lot of preparations to make before%Nthen...」%K%P
+
+0x1500
+Izumi「But because the car isn't working now, I don't think I'm%Ncapable of carrying all the groceries I'm going shopping%Nfor all on my own.」%K%P
+
+0x150C
+Izumi「It would mean a lot if you could come with me, Makoto-kun.」%K%P
+
+0x1518
+Makoto「O-Oh... I see...」%K%P
+
+0x152C
+In the end, I'm no match for Izumi-san...%K%P
+
+0x1538
+Thus, it's decided that I go running about, shopping for%Ningredients in order to prepare for the barbecue.%K%P
+
+0x1580
+... ... ...%K%P
+

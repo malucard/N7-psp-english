@@ -1,0 +1,480 @@
+text area offset and size:
+0xFA0
+0x2186
+0xBC
+An hour has already passed since the barbecue began.%K%P
+
+0xC8
+Everything is calm as we fool around and poke fun at%Neach other... It's as noisy as ever.%K%P
+
+0x114
+Yuka「Woohoo～～～! Woohoohoohoo～～～!」%K%P
+
+0x138
+Yuka「Meat, meat, meat man♪ Meat, meat, meat time♪」%K%P
+
+0x14C
+Yuka「Jumping! Chop green peppersh up intoo bitsh!」%K%P
+
+0x160
+Yuka「Shtrummin'... shtrummin'...♪」%K%P
+
+0x16C
+Yuka「Shunshet... grilled meat... companionsh on da River%NShtyksh～♪」%K%P
+
+0x178
+Yuka's the same as always...%K%P
+
+0x1B0
+While that's going on, a smile rises to Izumi-san's face.%K%P
+
+0x1BC
+After what happened earlier, I could barely picture her%Nwith such a serene smile on.%K%P
+
+0x1C8
+(Did something happen?)%K%P
+
+0x1E4
+(Perhaps my words back then might have changed%Nsomething within Izumi-san.)%K%P
+
+0x1F0
+(Did she resolve herself to tell them everything?)%K%P
+
+0x204
+(Perhaps my words back then might have eased%NIzumi-san's worries.)%K%P
+
+0x210
+(I guess you could say she's unbounded... or perhaps%Nfeeling refreshed...)%K%P
+
+0x21C
+At any rate, Izumi-san's beaming smile has brought me%Npeace of mind.%K%P
+
+0x228
+Now that I think about it, I haven't seen Izumi-san%Nsincerely smile like that recently.%K%P
+
+0x234
+The grin of hers that I haven't seen in a while is radiant,%Nlike a flame consuming firewood.%K%P
+
+0x250
+(Nevertheless...)%K%P
+
+0x288
+I look back and forth between Kurumi and Haruka's%Nfaces, and compare them.%K%P
+
+0x294
+(Now that I think about it, they certainly do resemble%Neach other, but...)%K%P
+
+0x2A0
+(Haruka being what Kurumi will look like in a year and four%Nmonths...)%K%P
+
+0x2AC
+(... And Kurumi being what Haruka looked like a year and%Nfour months ago...)%K%P
+
+0x2B8
+(Mmm... I can't really picture that...)%K%P
+
+0x314
+Kurumi「Hey, Onii-chan!」%K%P
+
+0x320
+Kurumi「What are you staring at people's faces for!?」%K%P
+
+0x32C
+Makoto「Huh? O-Oh... sorry.」%K%P
+
+0x340
+Kurumi「Ah-ha...」%K%P
+
+0x34C
+Kurumi「Were you charmed?」%K%P
+
+0x358
+Makoto「Huh?」%K%P
+
+0x36C
+Kurumi「You lost yourself when you looked at this young%Nmaiden's smooth skin illuminated by the bonfire, didn't%Nyou?」%K%P
+
+0x378
+Makoto「What are you talking about?」%K%P
+
+0x38C
+Kurumi「Oh geez, you don't have to hide it♪」%K%P
+
+0x398
+Makoto「... Ah! That's right, Kurumi!」%K%P
+
+0x3AC
+Remembering something, I take Kurumi out of the circle%Nwith me.%K%P
+
+0x3EC
+Kurumi「Geez, what is it? Why'd you take Kurumi here all of the%Nsudden?」%K%P
+
+0x3F8
+Kurumi「If we don't hurry, then the meat reserved for Kurumi will%Nbe taken away.」%K%P
+
+0x404
+Makoto「Oh, it's all right, this will be quick...」%K%P
+
+0x410
+Makoto「There's something I want to ask you.」%K%P
+
+0x424
+Kurumi「Hmm? What?」%K%P
+
+0x430
+Makoto「It's about this afternoon...」%K%P
+
+0x43C
+Kurumi「This afternoon?」%K%P
+
+0x448
+Makoto「Kurumi... you left Lunabeach to chase Haruka, right?」%K%P
+
+0x45C
+Kurumi「Oh, you mean back then.」%K%P
+
+0x468
+Makoto「So, was Haruka okay with it in the end?」%K%P
+
+0x47C
+Kurumi「With what?」%K%P
+
+0x488
+Makoto「The amusement park!」%K%P
+
+0x494
+Makoto「Didn't you say something like 'It's okay if we go%Ntogether'?」%K%P
+
+0x4A8
+Kurumi「Hmm... Kurumi might have said it... or she might not have...」%K%P
+
+0x4B4
+Makoto「What's with that answer?」%K%P
+
+0x4C8
+Kurumi「Because Kurumi forgot.」%K%P
+
+0x4D4
+Kurumi「We didn't really talk about the amusement park...」%K%P
+
+0x4E0
+Makoto「Then what did the two of you talk about for so long?」%K%P
+
+0x4EC
+Kurumi「Nothing.」%K%P
+
+0x4F8
+Makoto「What?」%K%P
+
+0x50C
+Kurumi「Kurumi went fishing with Haruka-san♪」%K%P
+
+0x518
+Kurumi「The two of us got really engrossed in it...」%K%P
+
+0x524
+Makoto「So are you saying the two of you didn't say a single%Nword to each other?」%K%P
+
+0x538
+Kurumi「Well, we did talk about some trifling things...」%K%P
+
+0x544
+Kurumi「―Ah!」%K%P
+
+0x550
+Kurumi「Now that Kurumi thinks about it, she did hear one%Ninteresting thing.」%K%P
+
+0x55C
+Makoto「?」%K%P
+
+0x568
+Kurumi「The story of The Moon and the Jellyfish...」%K%P
+
+0x574
+Makoto「The Moon and the Jellyfish?」%K%P
+
+0x580
+Kurumi「Yeah. And you know what? Kurumi knows that story too.」%K%P
+
+0x58C
+Makoto「Huh...」%K%P
+
+0x5A0
+Kurumi「Don't just go 'Huh'! It was quite a surprise!」%K%P
+
+0x5AC
+Makoto「Why?」%K%P
+
+0x5C0
+Kurumi「Because Kurumi thought that only she and Onee-chan%Nknew this story.」%K%P
+
+0x5CC
+Kurumi「Kurumi thought that it was a fairy-tale that her Papa%Nmade up all on his own.」%K%P
+
+0x5D8
+Makoto「...」%K%P
+
+0x5E4
+Kurumi「But Haruka-san knows it, so maybe it's a well-known%Nstory?」%K%P
+
+0x5F0
+Makoto「P-Perhaps...」%K%P
+
+0x5FC
+I do everything I can just to force out this one word%Nreply.%K%P
+
+0x618
+I told Izumi-san that she should "tell them everything",%Nbut it would be ridiculous for an outsider like me to tell%Nthem.%K%P
+
+0x624
+In the first place, there's no way in hell that I could say%N'Kurumi's and Haruka's father is the same person', in this%Ncheerful atmosphere!%K%P
+
+0x630
+Anyway, all I can do is...%K
+
+0x63C
+Get her to drop this topic right away.%K%P
+
+0x660
+Just then, I see...%K%P
+
+0x690
+Yuka「'Hey dere♪」%K%P
+
+0x69C
+... Yuka coming towards us with tottering steps.%K%P
+
+0x6A8
+Yuka「What're yuu doin', shneakin' off like dat?」%K%P
+
+0x6B4
+Makoto「We weren't really sneaking off... right, Kurumi?」%K%P
+
+0x6C0
+Kurumi「Yeah... we weren't.」%K%P
+
+0x6D4
+Yuka「Hmm... den dash faine.」%K%P
+
+0x6E8
+Kurumi「Anyway, Yuka-san?」%K%P
+
+0x6F4
+Kurumi calls out to her...%K%N
+
+0x700
+But Yuka seems to be thinking about something, as she%Ncompletely ignores Kurumi...%K%P
+
+0x714
+Yuka「Hey♪ Mako-tan♪」%K%P
+
+0x728
+Suddenly, Yuka sashays towards me while speaking%Nseductively.%K%P
+
+0x73C
+Yuka「Wen dis ish over♪...」%K%P
+
+0x748
+Yuka「... lesh plei a fun game... all in sheecret♪」%K%P
+
+0x754
+Her gaze is going everywhere...%K%P
+
+0x760
+She rubs against my collarbone with her right index%Nfinger.%K%P
+
+0x774
+Yuka「I borrowed dem earlier♪」%K%P
+
+0x780
+Yuka「... Da toolsh, dat ish♪」%K%P
+
+0x78C
+Yuka puts her left hand in her pocket as she tampers%Nwith the "tools", twisting and turning them.%K%P
+
+0x798
+Kurumi「―GEEZ! ―Yuka-san!」%K%P
+
+0x7AC
+Yuka「Huh? Whaa?」%K%P
+
+0x7C0
+When she hears Kurumi's angry shout, Yuka finally%Nleaves me alone.%K%P
+
+0x7D4
+Kurumi「Kurumi wants to ask you something!」%K%P
+
+0x7E0
+Yuka「???」%K%P
+
+0x7F4
+Kurumi「Yuka-san, do you know... about 'The Moon and the%NJellyfish'?」%K%P
+
+0x800
+Yuka「Huh? 'Da Lunatic Shellfish'?」%K%P
+
+0x814
+Kurumi「Right, right, there was once this shellfish who one day%Nwent absolutely ins-」%K%P
+
+0x828
+Kurumi「Hey, that's not it!」%K%P
+
+0x834
+Kurumi「There's no such story out there! In the first place, even%Nif a shellfish went insane, what could it possibly do!?」%K%P
+
+0x848
+Kurumi「Kurumi is talking about The Moon and the Jellyfish!」%K%P
+
+0x85C
+Yuka「Ah, right right...」%K%P
+
+0x868
+Yuka「Da Dune and...」%K%P
+
+0x874
+Yuka「... da Shmelly Witch, right?」%K%P
+
+0x888
+Kurumi「Right, right. There was once this really smelly witch who%Nlived in the desert and-」%K%P
+
+0x89C
+Kurumi「Hey, that's just plain weird!」%K%P
+
+0x8A8
+Kurumi「There's no way such a bizarre story would be well known!」%K%P
+
+0x8CC
+―And at that time!%K%P
+
+0x8F4
+The sound of water splashing echoes!%K%P
+
+0x90C
+This sound... It's exactly like the one I heard at the last%Nbarbecue.%K%P
+
+0x918
+I don't need to turn around to understand the situation.%K%P
+
+0x924
+Saki's hand accidentally slipped, and she spilled the%Nbeer in her paper cup on Yuka.%K%P
+
+0x930
+―Huh...??? Yuka???%K%P
+
+0x93C
+But Yuka's in front of me right now, isn't she?%K%P
+
+0x948
+(Which means...?)%K%P
+
+0x990
+I try slowly turning around...%K%P
+
+0x99C
+By the iron plate... Saki is holding a now empty paper cup.%K%P
+
+0x9A8
+And the beer has landed on...%K%P
+
+0x9E8
+―Haruka!%K%P
+
+0x9F4
+Haruka's clothes are soaked from her chest to the%Nbottom of her shirt.%K%P
+
+0xA00
+(I see...)%K%P
+
+0xA0C
+Because Yuka and Kurumi weren't there to act as a wall,%NHaruka was directly hit instead...)%K%P
+
+0xA18
+Haruka「... Hey... Saki...」%K%P
+
+0xA34
+Saki「... S-Sorry.」%K%P
+
+0xA40
+Everyone becomes completely silent.%K%P
+
+0xA4C
+Saki「I'm really sorry.」%K%P
+
+0xA58
+... Her words are sincerely apologetic.%K%P
+
+0xA6C
+As a further gesture of apology, Saki begins to wipe the%Nbeer off of Haruka's clothes with a dish cloth.%K%P
+
+0xA78
+To me and Izumi-san, who remember what happened last%Ntime, this scene is hard to believe.%K%P
+
+0xA94
+Yuka「Geesh, Shaki, ah yuu sure yuur naht drunk?♪」%K%P
+
+0xAB0
+Okuhiko「Ha ha, that was pretty careless of you, Saki-chan♪」%K%P
+
+0xACC
+Kurumi「Kyahahaha...」%K%P
+
+0xAE8
+Saki「Ahahahaha...」%K%P
+
+0xAFC
+Everyone「Kyahahahahahaha...♪」%K%P
+
+0xB24
+... Everyone bursts into laughter.%K%P
+
+0xB30
+They cheerfully laugh at Saki's blunder, as if trying to%Npoke fun at her and brush the incident off.%K%P
+
+0xB3C
+Only Haruka isn't laughing, but it's clear she's not%Noffended, and seems to be taking it in good humor.%K%P
+
+0xB48
+A faint smile even rises to her face.%K%P
+
+0xB54
+It's as if... anything and everything's all changed.%K%P
+
+0xB60
+The atmosphere from last time has suddenly changed to%Na harmonious one.%K%P
+
+0xB6C
+Izumi-san and I exchange glances...%K%P
+
+0xB78
+... And we begin to laugh as well.%K%P
+
+0xB84
+All suspicions that this is just a delusion in my head%Nhave disappeared.%K%P
+
+0xB90
+I am confident that this pleasant scene before me can%Nonly be reality.%K%P
+
+0xBA4
+Haruka「... Mmm...」%K%P
+
+0xBB0
+Haruka「... The beer stinks...」%K%P
+
+0xBBC
+Haruka frowns as she pinches at her clothes...%K%P
+
+0xBF4
+After that...%K%P
+
+0xC00
+Our laughter doesn't cease until the barbecue ends...%K%P
+
+0xC0C
+As a result, Kurumi's disappearance never occurs...%K%P
+
+0xC18
+The night just silently goes on...%K%P
+
+0xC34
+... ... ...%K%P
+

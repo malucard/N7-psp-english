@@ -1,0 +1,444 @@
+text area offset and size:
+0xB90
+0x19D3
+0x7C
+誠「でも……何でだ？」%K%P
+Makoto「But... why?」%K%P
+0x88
+海岸線沿いの道路に出たところで、オレは遙に尋ねた。%K%P
+As we walk along the coastline road together, I ask%NHaruka this.%K%P
+0x94
+遙「何が……？」%K%P
+Haruka「Why what...?」%K%P
+0xA0
+誠「釣りに行きたいって……何でだ？」%K%P
+Makoto「Why did you say... that you wanted to go fishing?」%K%P
+0xAC
+遙「釣り……したかったから……」%K%P
+Haruka「Because... I wanted to go fishing...」%K%P
+0xB8
+誠「……」%K%P
+Makoto「...」%K%P
+0xC4
+遙は、ただ単に釣りがしたかっただけらしい……。%K%P
+So Haruka just simply wanted to go fishing, and that's all%Nthere was to it...%K%P
+0xD0
+別に億彦をからかっていた訳ではないのだ。%K%P
+She wasn't really making fun of Okuhiko after all.%K%P
+0xDC
+誠「じゃあ……億彦に『絶対について来ないで』って言ったのは……？」%K%P
+Makoto「Then... when you said 'I absolutely don't want Okuhiko to%Nfollow me', what did you mean...?」%K%P
+0xE8
+遙「歴史は変えちゃいけないって思ったから……」%K%P
+Haruka「I was thinking that I didn't want history to change...」%K%P
+0xF4
+誠「はぁ？」%K%P
+Makoto「Huh?」%K%P
+0x100
+何だか話がかみ合っていないような気がするが……まあいい。%K%N話を先に進めよう。%K%P
+It doesn't feel like our conversation is meshing together...%Nwell, whatever.%K%NI decide to change the topic.%K%P
+0x10C
+誠「遙……釣りなら明後日できるよな？」%K%P
+Makoto「Haruka... if you want to go fishing, then you can do it the%Nday after tomorrow, right?」%K%P
+0x118
+遙が不思議そうな顔でオレを見る。%K%P
+Haruka looks at me with curiosity.%K%P
+0x124
+誠「約束するじゃないか……明日」%K%P
+Makoto「After all... tomorrow is when we make our promise, right?」%K%P
+0x130
+ゆっくりとうなずく遙。%K%P
+Haruka nods slowly.%K%P
+0x13C
+……そう。%Kだから、今日行く必要なんかないんだ。%K%P
+...That's right.%K Then there's no need to go today.%K%P
+0x148
+誠「明後日できるんだから、明後日にしような？」%K%P
+Makoto「We'll be able to do it then, so shall we fish together the%Nday after tomorrow?」%K%P
+0x154
+遙は再びうなずいた。%Kよしよし……いい子だ。%K%P
+Haruka nods again.%K All right... that's good.%K%P
+0x160
+遙はオレの手を引くと、姫ヶ浜に通じる道へと進んだ。%K%P
+Haruka takes my hand, and leads me onward to the road%Nthat leads to Princess Beach.%K%P
+0x1C0
+優夏「誠ぉ！%W　遙ぁ！　どこぉーっ！」%K%P
+Yuka「Makoto!%W Haruka! Where are you!?」%K%P
+0x1CC
+億彦「遙ちゃーーーん！」%K%P
+Okuhiko「Haruka-chaaan!」%K%P
+0x1D8
+やがて優夏と億彦の声が聞こえてきた。%K%P
+Before long, we can hear Yuka and Okuhiko's voices.%K%P
+0x210
+そして、遙はあの時のようにオレを廃船の中へと誘い込んだ。%K%P
+And just like last time, Haruka and I hide inside the%Nwrecked ship.%K%P
+0x21C
+優夏「あれ～？　やっぱりいないねぇ～」%K%P
+Yuka「Huh? Looks like they're not here after all?」%K%P
+0x228
+億彦「だから、２人は釣りに行くって言ってたじゃないかぁ……」%K%P
+Okuhiko「Like I said, those two said they were going fishing,%Nright...?」%K%P
+0x234
+優夏「う～ん……そうなんだけど……」%K%P
+Yuka「Hmm?... that's true...」%K%P
+0x240
+億彦「ここにはいないよ。きっと」%K%P
+Okuhiko「Then they're definitely not here.」%K%P
+0x24C
+チラリ……。優夏がこちらの方を見る。%K%P
+... Yuka looks over towards us quickly.%K%P
+0x258
+ＯＫ！　優夏。いい具合だ。そのまま頼むぞ。%K%P
+Good job, Yuka! I'll leave the rest to you.%K%P
+0x264
+廃船の客室の中でじっと息を殺していると、やがて優夏達は月浜の方へと向かって行った。%K%P
+We hold our breaths in the cabin of the wrecked ship, and%Nbefore long, Yuka and Okuhiko are walking towards the%Ndirection of Moon Beach.%K%P
+0x294
+誠「さて、遙。オレ達も時間を見て月浜へ向かおうか？」%K%P
+Makoto「Well then, Haruka, shall we go spend some time looking%Naround at Moon Beach?」%K%P
+0x2A8
+遙「……」%K%P
+Haruka「...」%K%P
+0x2B4
+遙はうつむいている。%K……どうしたんだろう？%K%P
+Haruka hangs her head downwards...%K What's wrong?%K%P
+0x2C0
+遙「……月浜へ行く前に……しておきたいことがあるの」%K%P
+Haruka「... Before we go to Moon Beach... there's something I want%Nto do.」%K%P
+0x2CC
+誠「ん？　ああ、海を見ておきたいのか？%K　そうだよな、遙は海を見に来たんだもんな？」%K%P
+Makoto「Huh? Oh, right, you want to look at the ocean?%K%NThat's right, you came here to see the ocean, didn't%Nyou?」%K%P
+0x2D8
+遙「……」%K%P
+Haruka「...」%K%P
+0x2E4
+ふるふる……。%K%N
+Haruka shakes her head...%K%N
+0x2F0
+遙はオレの言葉を否定する。%K%P
+She's denying my words.%K%P
+0x2FC
+誠「ん？　違うのか？」%K%P
+Makoto「Huh? I'm wrong?」%K%P
+0x308
+うんうん……。%K%N
+Haruka nods...%K%N
+0x314
+遙はオレの言葉を肯定する。%K%P
+So it's something else, huh?%K%P
+0x320
+誠「わかった！%K　波打ち際に足を浸したいんだな？%Nあの時もそうだったもんな。律儀だなぁ、%N遙は……」%K%P
+Makoto「I know!%K You want to dip your feet into the ocean, don't%Nyou? That's what you did back then. You're quite faithful%Nto history, Haruka...」%K%P
+0x32C
+ふるふる……。%K%N
+She shakes her head again...%K%N
+0x338
+え？　違うの？%K%P
+Huh? I'm wrong again?%K%P
+0x344
+誠「う～ん……。%Kそれじゃ、泳ぎたいとか？」%K%P
+Makoto「Hmm...%K Then do you want to swim?」%K%P
+0x350
+ふるふる……。%K%P
+She shakes her head...%K%P
+0x35C
+誠「そりゃそうだよな……。%K水着持って来てないし、この季節だと心臓マヒを起こしちゃうくらい海水が冷たいらしいし……」%K%P
+Makoto「Well, of course not...%K Not only did you not bring your%Nswimsuit, but the ocean is way too cold during this%Nseason...」%K%P
+0x368
+うんうん……。%K%P
+She nods...%K%P
+0x374
+誠「じゃあ、何なんだよ……」%K%P
+Makoto「Then what is it...?」%K%P
+0x380
+遙「……」%K%P
+Haruka「...」%K%P
+0x38C
+誠「言ってごらん、遙？」%K%P
+Makoto「Would you please tell me?」%K%P
+0x3B0
+遙「……」%K%P
+Haruka「...」%K%P
+0x3BC
+誠「へ？」%K%P
+Makoto「Huh?」%K%P
+0x3C8
+オレはビックリした。%K%P
+I'm surprised.%K%P
+0x3D4
+突然、遙が顔をあげて、オレの目を見つめてきたのだ。%K%P
+Suddenly, Haruka lifts her face, and looks into my eyes.%K%P
+0x3E0
+（ど……どうしたんだ？　……遙？）%K%P
+(Wh... What's wrong, Haruka?)%K%P
+0x3EC
+あまりの動揺に、言葉を口に出すことができなかった。%K%P
+This is starting to make me feel alarmingly uncomfortable.%K%P
+0x3F8
+ただ、口をパクパクと、金魚の呼吸のように動かしているだけ……。%K%P
+I try to open my mouth and speak, but no words come out..%K%P
+0x404
+遙「あのね……誠」%K%P
+Haruka「Umm... Makoto?」%K%P
+0x410
+あ、ああ……。%K%P
+Y-Yes...?%K%P
+0x41C
+遙「誠は……キスしたことある？」%K%P
+Haruka「Makoto... have you kissed someone before?」%K%P
+0x428
+誠「…………」%K%P
+Makoto「...」%K%P
+0x434
+……な、なに言ってるんだ？　遙？%K%N
+... Wh-What are you saying, Haruka?%K%N
+0x440
+それはここで言うセリフじゃないだろ？%N忘れちゃったのか？%K%P
+You didn't ask me that question here and now, right?%NDid you forget about that?%K%P
+0x44C
+遙「キス……して欲しい」%K%P
+Haruka「I want... to be kissed.」%K%P
+0x47C
+遙「……ダメ？」%K%P
+Haruka「... You don't want to?」%K%P
+0x488
+遙の目が潤んできたような気がする。%K%P
+Haruka's eyes seem to be cloudy with tears.%K%P
+0x494
+バ、バカな……。%K今までそんな素振りなどしてなかったのに……。%K%P
+I-Impossible...%K She's never acted this way before up until%Nnow...%K%P
+0x4A0
+遙「誠に……して欲しい」%K%P
+Haruka「Makoto... I want you to kiss me.」%K%P
+0x4AC
+オレは何だか訳がわからなくなってきた。%K%P
+This is all incomprehensible to me.%K%P
+0x4B8
+知らなかった。%K遙がそんなふうにオレを見ていたなんて、知らなかったんだ……。%K%P
+I had no idea.%K I had no idea that Haruka saw me this way...%K%P
+0x4C4
+……だけど、オレも男だ。キスくらいしてやる！%K%P
+... But I'm a man. I can manage a little kiss!%K%P
+0x4D0
+誠「額に……な？」%K%P
+Makoto「On the... forehead?」%K%P
+0x4DC
+なんとかオレは言葉を吐き出すことができた。%K%P
+I somehow manage to speak.%K%P
+0x4E8
+よし！　ペースを取り戻してきたぞ！%K%P
+All right! I've got to keep it together.%K%P
+0x50C
+だがしかし……%Kふるふる……%K再び、否定の意思を表明する遙。%K%P
+But...%K once again...%K Haruka shakes her head, denying my%Nwords.%K%P
+0x518
+お、おい……。%Kま%W・さ%W・か……。%K%P
+H-Hey...%K you%W don't%W mean...%K%P
+0x52C
+遙「唇に……%W%Wして欲しい……」%K%P
+Haruka「I want you to kiss me...%W%W on the lips...」%K%P
+0x538
+………………………………。%N………………………………。%N………………………………。%N……%W%W%Wパクパク。%K%P
+... ... ... ...%W%W%W%NI'm at a loss for words.%K%P
+0x544
+遙「本当のキスを……教えて欲しい」%K%P
+Haruka「I want you to teach me... how to do a real kiss.」%K%P
+0x550
+パクパク……。%K%P
+I shamelessly gawk at her...%K%P
+0x55C
+胸が早鐘のように鳴っている。%K%N
+My heart's pounding. I can't breathe.%K%N
+0x568
+……いや、それだけじゃない。%K%P
+... No way.%K%P
+0x574
+口が金魚のままでは、酸素が吸えない！！%K%N
+She's serious about this. She's completely serious about%Nkissing me!!%K%N
+0x580
+オレは呼吸困難に陥っていた。%K%P
+I feel dizzy from the lack of air.%K%P
+0x58C
+遙「誠に……教えて欲しい」%K%P
+Haruka「I want you to teach me... Makoto.」%K%P
+0x5C4
+遙がそっと顔を寄せてくる。%K%P
+Haruka quietly brings her face close to mine.%K%P
+0x5D0
+……やめろ……やめてくれ……。%K%P
+... Stop... stop...%K%P
+0x5DC
+オレには……いづみさんがいる。%K%Nこんなオレのことを好きだって言ってくれた%N……いづみさんがいる！！%K%P
+I have... Izumi-san.%K%NIzumi-san already told me...%Nthat she loves me!!%K%P
+0x5E8
+し、しかし……。%K%Nこれでは、オレが酸欠で死んでしまう。%K%P
+B-But...%K%NRight now, I could die from a lack of oxygen.%K%P
+0x5F4
+……た、%W%Wたしか……授業で習ったことがある。%K%P
+... I-%W%WI definitely... learned about this in class.%K%P
+0x600
+自分の命が危うくなった場合、相手にキスをしても罪に捕われないんだったな……。%K%P
+When your own life is in danger, then it's not a crime to%Nkiss someone else to save your life...%K%P
+0x60C
+そうだ！　%Nこれは、れっきとした正当防衛なのだ！！%K%P
+That's right!%NIt's for self-preservation!!%K%P
+0x618
+酸欠で思考がマヒしたオレは、どんどん暴走していく。%K%P
+My heart beats faster and faster from the lack of%Noxygen.%K%P
+0x638
+目の前には遙の唇がある。%K%N
+Haruka's lips are right in front of me.%K%N
+0x644
+目の前には遙の可憐な唇がある。%K%N
+Haruka's sweet lips are right in front of me.%K%N
+0x650
+目の前には遙のピンク色の唇がある。%K%P
+Haruka's pink lips are right in front of me.%K%P
+0x65C
+いづみさんの顔と遙の顔が交差する。%K%P
+Izumi-san's face and Haruka's face overlap.%K%P
+0x668
+オレは……オレは……。%K
+I... I...%K
+0xB68
+正当防衛に出る
+Perform the self-preservation technique
+0xB74
+いづみさんだけは裏切れない
+I can't betray Izumi-san
+0x6DC
+だんだんと……頭が真っ白になっていった。%K%P
+I gradually... blank out.%K%P
+0x6E8
+遙……%W%W%W遙……。%K%P
+Haruka...%W%W%W Haruka...%K%P
+0x6F4
+やがて……オレの影と遙の影はひとつになり……。%K%P
+Before long... my shadow becomes one with Haruka's%Nshadow...%K%P
+0x710
+………………………………………………。%K%N
+...................%K%N
+0x71C
+オレは……%W%W%Wやっちまった……%W%W%Wのか？%K%P
+Did I...%W%W%W do...%W%W%W it?%K%P
+0x740
+（……いづみさん！！）%K%P
+(... Izumi-san!!)%K%P
+0x74C
+オレはぎゅっと拳を握りしめると、しぼり出すような声で言ってやった。%K%P
+I clench my hands into fists, and barely manage to%Nsqueeze my voice out.%K%P
+0x758
+誠「ゴメン……。%W%W%Wオレには……%W%W%Wできない」%K%P
+Makoto「I'm very sorry...%W%W%W but I...%W%W%W can't.」%K%P
+0x76C
+遙は一瞬、悲しそうに瞳を曇らせた。%K%P
+Haruka's eyes begin to well up with sadness.%K%P
+0x778
+誠「遙のこと……%W%W%Wその……%W%W%W嫌いっていうわけじゃないんだ」%K%P
+Makoto「Umm...%W%W%W it's not like...%W%W%W I hate you or anything, Haruka.」%K%P
+0x784
+誠「ただ……%W%W%Wその……%W%W%Wオレ達、そういうことしていい関係じゃないと思うんだよ……」%K%P
+Makoto「It's just...%W%W%W well...%W%W%W I don't think we have that kind of%Nrelationship...」%K%P
+0x790
+あせるオレ。まるで必死に悪戯の言い訳をするかのように。%K%P
+I'm talking frantically. It's as if I'm desperately making an%Nexcuse to justify myself.%K%P
+0x79C
+きっと……%W%Wどこかで、胸の高鳴りを罪悪感として感じていたのかもしれない。%K%P
+Yes, that's probably it... my heart's throbbing so much%Nbecause I feel guilty.%K%P
+0x7C8
+遙「そう……」%K%P
+Haruka「I see...」%K%P
+0x7D4
+残念そうにつぶやく遙。%K%P
+Haruka mutters this regretfully.%K%P
+0x7E0
+誠「ゴメン……」%K%P
+Makoto「I'm sorry...」%K%P
+0x7EC
+再び謝るオレ。%K%P
+I apologize again.%K%P
+0x7F8
+遙には、オレなんかよりも、もっとふさわしい人がきっといるから……そんな思いを込めて。%K%P
+There must be someone more appropriate out there for%NHaruka than me... At least, that's what I hope.%K%P
+0x828
+遙「誠は……フナムシ好き？」%K%P
+Haruka「Makoto... do you like sea roaches?」%K%P
+0x834
+遙「私は……好きだよ」%K%P
+Haruka「I... like them.」%K%P
+0x840
+遙は何ごともなかったかのように、普段の調子を取り戻していた。%K%P
+Haruka returns to her normal self as if nothing ever%Nhappened.%K%P
+0x84C
+逆に、何だかそれは、無理をしているように思えて……。%K%P
+No, it's more like she's forcing herself to...%K%P
+0x858
+オレは遙の前にいることが、とても辛かった。%K%P
+It's very painful being with Haruka right now.%K%P
+0x864
+遙「じゃあ……別のお願い」%K%P
+Haruka「Then... I have a different favor.」%K%P
+0x870
+誠「は？」%K%P
+Makoto「What is it?」%K%P
+0x88C
+……遙のお願い。%K%P
+... Haruka's favor:%K%P
+0x898
+それは『フナムシをビニール袋いっぱいに捕まえること』だった。%K%P
+"Catch a lot of sea roaches and place them in a plastic%Nbag."%K%P
+0x8A4
+オレは気を失わんばかりのめまいを感じた。%K%P
+I feel like I'm going to faint just hearing that.%K%P
+0x8E4
+それからの事はよく覚えていない。%K%P
+I don't remember what happened after that.%K%P
+0x8F0
+気がついたときには、優夏達と合流していた。%K%P
+Before I know it, I've met up with Yuka and Okuhiko.%K%P
+0x8FC
+何故かオレは、月浜の堤防のところで寝そべっていた。%K%P
+For some reason, I was laying sprawled on the banks of%NMoon Beach.%K%P
+0x908
+気づかないうちにオレは夢遊病にかかっていたのだろうか……。%K%N
+Did I start sleepwalking when I wasn't paying attention...?%K%N
+0x914
+いや、それとも……。%K%P
+No, I was probably just distracted with something else...%K%P
+0x920
+……もう１つ気になっていることがあった。%K……遙の様子がいつも通りに戻っていたのだ。%K%P
+... Another strange thing happened too.%K%N... Haruka's completely back to normal.%K%P
+0x92C
+さっきまでのことは、まるで無かったかのような……そんな素振りだった。%K%P
+She's acting as if what happened earlier never%Noccurred...%K%P
+0x988
+その後……。%K%N
+After that...%K%N
+0x994
+オレ達はルナビーチへとおもむいた。%K%P
+We arrive at Lunabeach.%K%P
+0x9A0
+くるみ、いづみさん、沙紀が次々と登場し、彼女達は迫真の演技で、前と同じ言動を繰り返した。%K%P
+Kurumi, Izumi-san, and Saki show up one by one. They're all%Nputting on a remarkable spectacle, reenacting their%Nexchanges from last time.%K%P
+0x9AC
+店内に、米はあり余るほど残っていたのだが、当然オレはそれを買いに行くはめになった。%K%P
+The shop has a lot of rice this time, but I go out to buy%Nsome to keep up the act.%K%P
+0x9B8
+いづみさんの作ったパエリアは、前回を上回る美味さで、オレは再び失神しそうになった。%K%P
+Izumi-san's paella is even better than last time, and I%Nalmost faint again.%K%P
+0x9C4
+ここまで、何もかもが順調に進んでいる。%K%N
+So far, everything's been going well.%K%N
+0x9D0
+億彦は今日が４月１日だと完全に信じ込んでいて、もはや疑う素振りも見せなかった。%K%P
+Okuhiko seems to completely be under the impression%Nthat today is April 1st, to the point where he no longer%Nshows any signs of doubting it.%K%P
+0x9DC
+（ちょっとは疑ってくれないと、面白さが半減するんだけどなぁ……）%K%P
+(If he'd doubted it even the slightest, then this wouldn't%Neven be half as fun...)%K%P
+0x9E8
+そんなことさえ、オレは思い始めていた。%K%N
+Even I begin to think this way.%K%N
+0x9F4
+そうこうしているうちに……。%K%P
+And while all of this goes on...%K%P

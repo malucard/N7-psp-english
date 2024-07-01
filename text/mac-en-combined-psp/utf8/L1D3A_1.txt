@@ -1,0 +1,330 @@
+text area offset and size:
+0xCC0
+0x1835
+0x134
+The clear morning light shines in.%K%P
+
+0x140
+For once, I wake up in eager anticipation.%K%P
+
+0x14C
+I can't help feeling anxious about what Haruka will do.%K%N
+
+0x158
+Will she keep her promise with me or not?%K%P
+
+0x1AC
+When I enter the living room, Yuka and Kurumi are already%Nthere. There's toast sitting on the table.%K%P
+
+0x1E4
+Makoto「Good morning.」%K%P
+
+0x1F8
+Yuka「Oh, Makoto. Good morning.」%K%P
+
+0x214
+Kurumi「Hi there, Onii-chan.」%K%P
+
+0x220
+Makoto「Wow, so we actually have something edible for once.」%K%P
+
+0x23C
+Yuka「What's that supposed to mean?」%K%P
+
+0x248
+Makoto「N-Nothing... anyway, where did this come from?」%K%P
+
+0x264
+Kurumi「Onee-chan made it. See, you can count on us for all your%Nneeds!」%K%P
+
+0x270
+Makoto「You sound like you're in a good mood.」%K%P
+
+0x27C
+Kurumi「Right you are. C'mon, let's eat and get going.」%K%P
+
+0x288
+Makoto「Huh? Wh-Where to?」%K%P
+
+0x294
+Kurumi「We're gonna play tennis.」%K%P
+
+0x2A8
+Yuka「Ah, I didn't tell you, but that's what's on today's schedule.」%K%P
+
+0x2B4
+Makoto「Well, you see, I can't...」%K%P
+
+0x2C8
+Yuka「What? These are your group leader's orders, you know.」%K%P
+
+0x2D4
+Makoto「I take it you didn't tell Haruka either?」%K%P
+
+0x2E0
+Yuka「Wh-What's with the scary face all of the sudden?」%K%P
+
+0x2EC
+Kurumi「Haruka-san hasn't woken up yet. Same with Okkun.」%K%P
+
+0x2F8
+Makoto「I-I see...」%K%P
+
+0x304
+Kurumi「Kurumi's starving. Can we eat now?」%K%P
+
+0x318
+Yuka「You're right. Let's eat～!」%K%P
+
+0x324
+Makoto「Ah, let's... eat...」%K%P
+
+0x330
+We all begin eating the toast. However, because I'm%Nworried about Haruka, it has no flavor to me.%K%P
+
+0x33C
+Just as I'm about to finish eating, Haruka comes running%Ninto the living room.%K%P
+
+0x348
+Okuhiko rushes in after her.%K%P
+
+0x35C
+Okuhiko「Promise? What promise?」%K%P
+
+0x368
+Haruka「... I'm going fishing today.」%K%P
+
+0x374
+Okuhiko「Fishing? That's fine. I'll teach you how to do it. So let's go%Ntogether, okay?」%K%P
+
+0x390
+Yuka「Hold on. We're scheduled to play tennis today.」%K%P
+
+0x39C
+Haruka「Huh? ... Tennis?」%K%P
+
+0x3A8
+Yuka「Haruka, you can't just say 'I'll pass' today. That'd be%Ngoing against the group leader's orders.」%K%P
+
+0x3BC
+Haruka looks at me with a troubled expression.%K%P
+
+0x3D8
+Okuhiko「That's right, Haruka-chan. As planned, we're playing%Ntennis. Fishing is just for old geezers anyway.」%K%P
+
+0x3E4
+Haruka「I made a promise...」%K%P
+
+0x3F0
+Okuhiko「It's fine, just cancel that promise.」%K%P
+
+0x3FC
+Haruka「I have to keep my promise no matter what...!」%K%P
+
+0x410
+Okuhiko「...!」%K%P
+
+0x41C
+Haruka「It's something that shows we trust each other.」%K%P
+
+0x438
+Yuka「Haruka...」%K%P
+
+0x444
+Haruka「I have to keep my promise no matter what...」%K%P
+
+0x460
+Kurumi「Haruka-san, who did you make that promise with?」%K%P
+
+0x474
+Haruka「It was...」%K
+
+0xC98
+"... With me."
+
+0xCA4
+"..."
+
+0x4CC
+Makoto「... With me.」%K%P
+
+0x4E0
+Kurumi「Huh?」%K%P
+
+0x508
+Haruka「...」%K%P
+
+0x514
+Makoto「Haruka and I are going fishing today. We're not going to%Nplay tennis.」%K%P
+
+0x530
+Okuhiko「Wh-Why is Ishihara saying that? Is this true,%NHaruka-chan?」%K%P
+
+0x53C
+Haruka「Yes.」%K%P
+
+0x560
+Makoto「...」%K%P
+
+0x56C
+I remain silent. Haruka is looking at me. I avert my eyes.%K%P
+
+0x578
+"With me". Even though those words should easily come%Nout of my mouth... they don't.%K%P
+
+0x584
+My own words, "And you trust me too," are piercing my%Nheart.%K%P
+
+0x598
+Kurumi「It can't be... with... Onii-chan?」%K%P
+
+0x5A4
+Kurumi realizes that Haruka is looking at me.%K%P
+
+0x5B0
+I resolve myself.%K%P
+
+0x5BC
+Makoto「Yeah... it's with me.」%K%P
+
+0x5E4
+Makoto「Haruka and I are going fishing today. We're not going to%Nplay tennis.」%K%P
+
+0x600
+Okuhiko「Wh-Why is Ishihara saying that? Is this true,%NHaruka-chan?」%K%P
+
+0x60C
+Haruka「... Yes.」%K%P
+
+0x618
+Makoto「So we'll be going now. Sorry Yuka, but we're going to%Nhave to ignore your orders.」%K%P
+
+0x634
+Yuka「Well, that's fine. The leader's not a dictator, after all.」%K%P
+
+0x650
+Okuhiko「Just hold on, Yuka-chan. You can't just let them off this%Neasy. Ishihara, you still don't understand? The basis of%Nthis seminar is group activities, isn't it?」%K%P
+
+0x65C
+Makoto「You have no right to say that.」%K%P
+
+0x670
+Okuhiko「What was that...!?」%K%P
+
+0x684
+I leave the living room.%K%P
+
+0x690
+Haruka quickly follows me.%K%P
+
+0x69C
+However, Okuhiko is hot on Haruka's heels.%K%P
+
+0x6B0
+Okuhiko「Wait, Haruka-chan. What happened between you and%NIshihara?」%K%P
+
+0x6C4
+Haruka「... We made a promise.」%K%P
+
+0x6D0
+Okuhiko「That's not an explanation. What happened between you%Nand Ishihara yesterday?」%K%P
+
+0x6DC
+Haruka「I'm not going to tell you.」%K%P
+
+0x6E8
+Okuhiko「Why not?」%K%P
+
+0x6FC
+Haruka「This is something between me and Makoto... It doesn't%Nconcern you, Okuhiko.」%K%P
+
+0x710
+Okuhiko「Haruka-chan...!」%K%P
+
+0x734
+At that moment, Saki comes in carrying a basket.%K%P
+
+0x740
+She glances at Okuhiko as she places it on the table.%NShe's kinda cheerful this morning.%K%P
+
+0x770
+Saki「Good morning, everyone! Thank you for your concern%Nyesterday!」%K%P
+
+0x77C
+Saki's optimistic voice ends our argument anticlimatically.%K%P
+
+0x790
+Saki「What's wrong? Why are you all silent? Oh, is it me? I was%Ndischarged from the clinic. They said I only had to stay%None night, remember?」%K%P
+
+0x7AC
+Yuka「Ah, Saki, that's not it...」%K%P
+
+0x7B8
+Saki「Huh? Then what? Is it something else about me?」%K%P
+
+0x7C4
+Yuka「No... It's not about you, Saki...」%K%P
+
+0x7E0
+Kurumi「Hey, what's that, Saki-san?」%K%P
+
+0x7F4
+She points to the basket, and Saki throws Okuhiko a coy%Nglance.%K%P
+
+0x808
+Saki「Um, Okuhiko-kun. I tried making these, what do you think?」%K%P
+
+0x814
+She opens the basket, which contains small sandwiches%Nthat are neatly lined up.%K%P
+
+0x828
+Kurumi「Wow, it's cute～. Saki-san, did you make these for Okkun?」%K%P
+
+0x834
+Saki「Huh? No, I just made these on a whim, that's all...」%K%P
+
+0x840
+Kurumi「Take a look, Okkun. You're quite the lucky guy, huh?」%K%P
+
+0x85C
+Okuhiko「Impressive, Saki-chan. You knew exactly what I liked.」%K%P
+
+0x868
+Saki「Ah, er, uh... what should I...」%K%P
+
+0x874
+Okuhiko「I'm happy.」%K%P
+
+0x888
+I wordlessly stare in shock.%K%P
+
+0x894
+Suddenly, Haruka grabs my hand and starts to drag me%Nalong as I look at her in surprise.%K%P
+
+0x8CC
+She takes me outside, avoiding eye contact with Saki.%NOkuhiko frantically tries to go after us.%K%P
+
+0x8D8
+At that moment, Saki grabs Okuhiko's arm with her hands.%K%P
+
+0x8E4
+Saki「Okuhiko-kun, you don't feel like playing tennis? I was%Nhoping we could play at the court.」%K%P
+
+0x8F0
+Okuhiko「... S-Sounds good. Fishing is just for old geezers%Nanyway, I don't want to do that.」%K%P
+
+0x8FC
+Saki「Huh, fishing?」%K%P
+
+0x908
+Okuhiko「Ah, it's nothing. I'm impressed, Saki-chan. You knew I liked%Ntennis?」%K%P
+
+0x914
+I smirk as I listen to Okuhiko's spiteful voice.%K%P
+
+0x920
+Serves you right!%K%N
+
+0x92C
+Damn, this feels good. Looks like karma does exist after%Nall...%K%P
+

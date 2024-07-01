@@ -1,0 +1,441 @@
+text area offset and size:
+0xD18
+0x1EF5
+0x150
+... ... ...%K%P
+
+0x15C
+Today is pleasantly warm.%K%P
+
+0x168
+There's not a single cloud in the clear spring sky. A wind%Nblows in from the sea, bringing in the sweet fragrance of%Nflowers.%K%P
+
+0x174
+A white bird playfully glides across the ocean's surface.%K%N
+
+0x180
+A seagull... Or is it a black-tailed gull?%K%P
+
+0x18C
+Anyway, there's something that's bothering me.%K%N
+
+0x198
+Unlike yesterday, the waves are incredibly huge.%K%P
+
+0x1A4
+Even though the weather's good and the wind isn't that%Nstrong, the roar of the waves can be heard as they%Ncrash against the shore.%K%P
+
+0x1B8
+Haruka「The waves...」%K%P
+
+0x1C4
+Haruka mutters just two words.%K%P
+
+0x1D0
+Still, those words alone are enough for us to understand%Nwhat she means.%K%P
+
+0x1DC
+The smooth, bulky curl of the waves rises up and down,%Nas if it were the tongue of a sea monster.%K%P
+
+0x254
+The sign on Lunabeach's door says, "CLOSED".%K%P
+
+0x260
+Since Izumi-san had said yesterday that "the shop will%Nbe closed tomorrow," we'd been expecting this.%K%P
+
+0x26C
+It was all part of our plan.%K%P
+
+0x278
+That's because we all agreed last night to go to the%Npool together.%K%P
+
+0x284
+Yuka tries to open the front door.%K%P
+
+0x290
+Of course, it's locked.%K%P
+
+0x2A4
+Yuka「What should we do?」%K%P
+
+0x2B0
+Yuka turns to me for advice.%K%P
+
+0x2BC
+Makoto「We should probably try the back-」%K%P
+
+0x2D4
+As I'm in the middle of answering...%K%P
+
+0x328
+Izumi「I'm sorry! I should have unlocked it!」%K%P
+
+0x334
+Izumi-san cheerfully apologizes.%K%P
+
+0x340
+Makoto「Oh, good morning.」%K%P
+
+0x34C
+Izumi「Good morning♪」%K%P
+
+0x358
+Yuka「Well then, are you all set, Izumi-san?」%K%P
+
+0x36C
+Izumi「Well... about that...」%K%P
+
+0x378
+Izumi-san's eyebrows furrow sheepishly.%K%P
+
+0x384
+Izumi「The truth is, I might have to decline...」%K%P
+
+0x390
+Makoto「??」%K%P
+
+0x3A4
+Izumi「Well, why don't we continue this conversation inside?」%K%P
+
+0x3B0
+Izumi「Please, come on in!」%K%P
+
+0x424
+Izumi「Have you had breakfast?」%K%P
+
+0x438
+Okuhiko「No, we didn't get around to it yet.」%K%P
+
+0x444
+Izumi「Well then, how about I whip something simple up for you%Nall?」%K%P
+
+0x460
+Yuka「It's fine, you already treated us to dinner yesterday...」%K%P
+
+0x46C
+Yuka「Besides, shouldn't the pool have a stand?」%K%P
+
+0x478
+Okuhiko slouches in disappointment at these words.%K%N
+
+0x484
+Well, it's not like I can't sympathize with him.%K%P
+
+0x490
+I was also hoping for Izumi-san to make us breakfast.%K%P
+
+0x49C
+Yuka「More importantly, let's continue the conversation from%Nearlier...」%K%P
+
+0x4A8
+Yuka「You look rather worried about something...」%K%P
+
+0x4BC
+Izumi「Y-Yes... That's... right...」%K%P
+
+0x4C8
+Izumi mumbles this.%K%N
+
+0x4D4
+Then, over there...%K%P
+
+0x528
+Kurumi「Morning...」%K%P
+
+0x534
+Kurumi comes onto the terrace, sounding like she's%Nforcing herself to recite these words.%K%P
+
+0x540
+She looks as depressed as a rainy afternoon.%K%P
+
+0x554
+Yuka「Is something wrong, Kurumi-chan?」%K%P
+
+0x560
+Kurumi「Yeah... Kurumi's... got a little headache...」%K%P
+
+0x56C
+Makoto「Are you okay?」%K%P
+
+0x578
+Kurumi「Mmm...」%K%P
+
+0x584
+Kurumi「Probably not.」%K%P
+
+0x5A0
+Saki「You shouldn't go to the pool in this state.」%K%P
+
+0x5AC
+Kurumi「Right... Sorry about this.」%K%P
+
+0x5B8
+Saki「You don't really need to apologize...」%K%P
+
+0x5C4
+Saki「Anyway, why don't you take a little rest for today?」%K%P
+
+0x5D0
+Saki kindly says this.%K%P
+
+0x5DC
+Kurumi gives a small nod while staring at the table.%K%P
+
+0x5F8
+Izumi「So that's how it is...」%K%P
+
+0x604
+Makoto「Huh?」%K%P
+
+0x610
+Izumi「I'm sorry for disappointing you, but would you five be all%Nright going alone?」%K%P
+
+0x61C
+Makoto「'You five going alone'... Then you're not coming with us,%NIzumi-san?」%K%P
+
+0x628
+Izumi「Right. I have to take care of her.」%K%P
+
+0x634
+Izumi-san says this as she pats Kurumi's head.%K%P
+
+0x648
+Kurumi「It'll be fine! Kurumi will be fine by herself!」%K%P
+
+0x654
+Kurumi「Go with them, Onee-chan.」%K%P
+
+0x668
+Izumi「But...」%K%P
+
+0x674
+Izumi-san looks troubled.%K%P
+
+0x680
+I want to say something, but I don't feel like I have the%Nright to butt in, so I keep my mouth shut.%K%P
+
+0x68C
+There is a brief moment of silence as the sisters stare%Nat each other.%K%P
+
+0x698
+Izumi「Are you really all right?」%K%P
+
+0x6AC
+Kurumi「Kurumi's fine!!」%K%P
+
+0x6B8
+Kurumi says this very firmly, as if she's forgotten that%Nshe's in pain.%K%P
+
+0x6C4
+Well, if she says so... As for Izumi-san...%K%P
+
+0x6D8
+Izumi「All right. Well then, I guess I'll go, too.」%K%P
+
+0x6E4
+... Her face breaks out into a kind smile.%K%P
+
+0x6F8
+Izumi「But you have to rest, all right!?」%K%P
+
+0x704
+Of course, Izumi-san gives Kurumi one last warning%Nbefore she leaves.%K%P
+
+0x780
+The fastest way to get to the Tsukiya Hotel is by%Ncrossing Moon Beach.%K%P
+
+0x78C
+Like nomads in a desert, we walk alongside the coast in%Na straight line.%K%P
+
+0x798
+Okuhiko walks at the head of the line, frolicking like a kid%Nfor some reason.%K%P
+
+0x7A4
+Tailing him from behind is the ever cheerful Yuka, who's%Njust as excited as Okuhiko.%K%P
+
+0x7B0
+Behind her are Saki and Izumi-san, who are having a%Npleasant conversation about something.%K%P
+
+0x7BC
+The girls are a little far ahead of me...%K%P
+
+0x7C8
+At the back of the line is Haruka, who is trudging along%Nslowly with heavy steps.%K%P
+
+0x7FC
+(Haruka... what's wrong?)%K%P
+
+0x808
+I think this as I take a glance at her over my shoulder.%K%P
+
+0x814
+Even though Haruka isn't exactly the cheerful type, she%Nlooks seriously depressed right now.%K%P
+
+0x830
+(Could it be that she didn't want to go to the pool after%Nall?)%K%P
+
+0x83C
+I casually slow down and wait for Haruka to catch up.%K%P
+
+0x848
+And then...
+
+0x854
+... Something a little unexpected happens.%K%P
+
+0x860
+When Haruka passes by me, she grabs my wrist.%K%P
+
+0x86C
+No, not out of a romantic gesture...%K%P
+
+0x878
+She did so urgently, like she had something to say.%K%P
+
+0x884
+Shocked, I turn to face Haruka.%K%P
+
+0x898
+Makoto「What's...」%K%P
+
+0x8A4
+I'm trying to ask, "What's wrong?", but for some reason, I%Ncan't continue.%K%N
+
+0x8B0
+Is it because of her strikingly lonely eyes?%K%P
+
+0x8BC
+They shine like a star that's beginning to fade in the%Nmorning glow.%K%P
+
+0x8C8
+Haruka「... Kurumi.」%K%P
+
+0x8D4
+She quietly says this.%K%P
+
+0x8E0
+Makoto「Huh?」%K%P
+
+0x8EC
+Though I heard her just fine, I instinctively ask her to%Nrepeat herself.%K%P
+
+0x8F8
+Haruka「I wonder... if Kurumi's okay?」%K%P
+
+0x904
+She mutters this sorrowfully as her grip around my wrist%Ntightens.%K%P
+
+0x910
+She's that worried about Kurumi...?%N%W%W
+
+0x91C
+Since she said she had a headache...?%K
+
+0xCF0
+Reassure Haruka.
+
+0xCFC
+Honestly, I'm worried about Kurumi too.
+
+0x95C
+Makoto「Don't worry, she'll be fine!」%K%P
+
+0x968
+I say this as cheerfully as I can.%K%P
+
+0x974
+Makoto「After all, when she was arguing with Izumi-san, she%Nseemed quite energetic, didn't she?」%K%P
+
+0x980
+Haruka「You think so...?」%K%P
+
+0x98C
+Makoto「Of course.」%K%P
+
+0x998
+Makoto「A headache isn't anything particularly serious to worry%Nabout...」%K%P
+
+0x9A4
+Makoto「Besides, you've had headaches before, haven't you?」%K%P
+
+0x9B0
+Haruka「...」%K%P
+
+0x9BC
+Makoto「Like, for example, due to being 'forced to spend a whole%Nweek with good-for-nothing shady strangers', perhaps?」%K%P
+
+0x9D0
+Upon hearing that, Haruka gives a slight grin.%K%P
+
+0x9DC
+Makoto「And one of those guys, with that mullet-like hairdo, looks%Nlike some sort of reject punk rocker...」%K%P
+
+0x9E8
+As I continue to add my joke, Haruka finally giggles.%K%P
+
+0x9F4
+The sight of her laughing encourages me, and I try to%Ncome up with an even wittier punch line...%K%P
+
+0xA00
+Makoto「No, rather than a reject punk rocker, it's more like-」%K%P
+
+0xA0C
+Haruka「A mop.」%K%P
+
+0xA18
+Haruka suddenly speaks.%K%P
+
+0xA24
+Makoto「Huh...? You mean like the mop you wipe the floor with?」%K%P
+
+0xA30
+Haruka「Right.」%K%P
+
+0xA3C
+So Okuhiko's hairdo resembles a mop?%K%P
+
+0xA48
+Hmm, I see... That might be the best way to describe it.%K%P
+
+0xA54
+Makoto「I see. So anyway, you don't have to worry at all!」%K%P
+
+0xA60
+Makoto「You wouldn't want Kurumi to look at that drenched, shiny,%Nfilthy mop and get sick, would you?」%K%P
+
+0xA6C
+Makoto「Just thinking about it is giving me a headache... So%Nimagine what it'd be like seeing it in real life.」%K%P
+
+0xA78
+Haruka, who up until now has been quite reserved, gives%Na completely natural smile.%K%P
+
+0xA84
+Makoto「So you don't need to worry!」%K%P
+
+0xA90
+Despite this being completely nonsense...%K%P
+
+0xA9C
+Haruka「Yes, I understand.」%K%P
+
+0xAA8
+... Haruka mutters this, and quietly lets go of my wrist.%K%P
+
+0xABC
+And so, I begin to walk towards the pool again.%K%P
+
+0xAC8
+Haruka is now several paces behind me.%K%P
+
+0xAD4
+(Nevertheless...)%K%P
+
+0xAE0
+As I walk, I reflect on what just happened.%K%P
+
+0xAEC
+(Nevertheless, to get this worried over a something as%Nsimple as a headache...)%K%P
+
+0xAF8
+(Haruka seems cold at first glance, but maybe deep%Ndown, she's a kind, compassionate girl...)%K%P
+

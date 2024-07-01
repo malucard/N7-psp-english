@@ -1,0 +1,396 @@
+text area offset and size:
+0xE68
+0x1A12
+0x6C
+Makoto「Is this everything?」%K%P
+
+0x78
+Izumi「Yes. I don't think I've forgotten anything.」%K%P
+
+0x84
+We take the bulging shopping bags in our hands and%Nstart walking back towards Lunabeach.%K%P
+
+0x90
+Just then, at that time...%K%P
+
+0xE8
+Izumi「Ah...」%K%P
+
+0xF4
+Makoto「A-An earthquake...?」%K%P
+
+0x100
+As soon as I notice the small tremors... I know what's%Ncoming!%K%P
+
+0x16C
+―Rumble!%K%P
+
+0x178
+The shock waves feel like they're pushing me up...%K%P
+
+0x1B4
+We drop our bags and cling to each other as we topple%Nonto the shaking ground.%K%P
+
+0x1C0
+Before long, the tremors fade...%K%P
+
+0x210
+... Izumi-san and I are still holding on to each other, laying%Non the ground.%K%P
+
+0x224
+Izumi「M-Makoto-kun!」%K%P
+
+0x230
+Izumi-san is shaken up.%K%P
+
+0x23C
+However...%K%P
+
+0x264
+For some reason, I'm very calm.%K%P
+
+0x270
+(There's no way in hell I'll miss this opportunity!)%K%P
+
+0x27C
+(Honestly, I'd thought up a time, place, and other plans to%Ndo this, but I don't care anymore!)%K%P
+
+0x288
+(Now's... my chance!)%K%P
+
+0x294
+I've decided to confess to her.%K%P
+
+0x2A0
+Makoto「I... Izumi-san... I...」%K%P
+
+0x2B4
+Izumi「... Huh? ...Huh?」%K%P
+
+0x2C0
+Makoto「I-I... Izumi-san, I l...」%K%P
+
+0x2D4
+Izumi「!!!」%K%P
+
+0x2E0
+Makoto「I lo-」%K%P
+
+0x2EC
+Izumi「Makoto-kun! Don't!」%K%P
+
+0x308
+Makoto「What?」%K%P
+
+0x314
+Izumi-san is pointing at the edge of the shopping district.%K%P
+
+0x320
+When I look in the direction she's pointing...%K%P
+
+0x33C
+... I see Okuhiko!%K%P
+
+0x350
+(Damn it! Why now...!?)%K%P
+
+0x35C
+We quickly get off of each other, gather up our fallen%Nbags, and stand up like nothing happened.%K%P
+
+0x38C
+Okuhiko「Huh? Ishihara and Izumi-san? What's up? What are you%Ndoing here?」%K%P
+
+0x398
+Makoto「It doesn't concern you!」%K%P
+
+0x3A4
+Right now, I'm really pissed off at Okuhiko for getting in%Nmy way.%K%P
+
+0x3B8
+Okuhiko「What the hell!? I wasn't asking you, Ishihara!」%K%P
+
+0x3C4
+Makoto「D-Damn you...」%K%P
+
+0x3E0
+Izumi「There, there...」%K%P
+
+0x3EC
+Izumi「We were here to shop for the barbecue. We were on our%Nway back when...」%K%P
+
+0x400
+Okuhiko「... that earthquake hit. That was really powerful. I wonder%Nhow many times I've experienced it... Oh, no, I was just%Ntalking to myself...」%K%P
+
+0x40C
+Okuhiko「Huh? Now that I think about it, earlier...」%K%P
+
+0x420
+―Crap!%K%P
+
+0x42C
+D-Did he see us!? Did he see Izumi-san and I holding%Neach other!?%K%P
+
+0x440
+Okuhiko「I stepped in some dog crap. Here, take a look.」%K%P
+
+0x454
+Makoto「I don't need to see it!!」%K%P
+
+0x468
+Okuhiko「Huh? Ishihara... that's...」%K%P
+
+0x47C
+―Shit!!%K%P
+
+0x488
+C-Could I have accidentally gotten a kiss mark on my%Nface from Izumi-san when we were rolling earlier!?%K%P
+
+0x49C
+Okuhiko「There's shoes in your shopping bag. Aren't they yours?」%K%P
+
+0x4B0
+I quickly take out the shoes and put them back on.%K%P
+
+0x4BC
+They fell off during the quake, and I was so frantic in%Ngathering the bags afterwards that I must have put them%Nin by mistake...%K%P
+
+0x4D0
+Okuhiko「Huh? Now that I think about it...」%K%P
+
+0x4E4
+Wh-What now!?%K%P
+
+0x500
+Okuhiko「This event never happened last time... Wait, huh?」%K%P
+
+0x50C
+Before Okuhiko can notice anything strange, we quickly%Nget out of the shopping district and leave him behind.%K%P
+
+0x56C
+We finally arrive at Lunabeach, and place the bags down.%K%P
+
+0x578
+When I was walking, I decided to wait a little bit before%Ntrying to say what I wanted to say to Izumi-san again.%K%P
+
+0x5A8
+Makoto「Izumi-san... I want to tell you something.」%K%P
+
+0x5BC
+Izumi「Huh?」%K%P
+
+0x5C8
+I'll say it this time!%K%P
+
+0x5D4
+No matter what, I will definitely say it!%K%P
+
+0x5E0
+Makoto「I was interrupted earlier, but...」%K%P
+
+0x5F4
+Izumi「... Y-Yes?」%K%P
+
+0x600
+Makoto「Izumi-san... I lo-」%K%P
+
+0x624
+Izumi「Ah!」%K%P
+
+0x630
+Makoto「Huh?」%K%P
+
+0x63C
+Izumi「Don't! Hide!」%K%P
+
+0x648
+I look towards where Izumi-san is glancing...%K%P
+
+0x680
+... and I see Okuhiko!!%K%P
+
+0x68C
+He slowly staggers this way while holding his stomach.%K%P
+
+0x698
+(Oh for God's sake, why now!? It's still too early for lunch,%Nisn't it!?)%K%P
+
+0x6A4
+We quickly hide behind the side of the shop as I conceal%Nmy irritation.%K%N
+
+0x6B0
+Okuhiko pulls on the shop's doorknob.%K%N
+
+0x6BC
+But it's locked, so it won't open.%K%P
+
+0x6D0
+Okuhiko「Huh? Are they still out?」%K%P
+
+0x6E4
+Okuhiko「Hee～y... open up! Anyone here?」%K%P
+
+0x6F0
+We wait for an opening, then sneak away.%K%P
+
+0x750
+In front of Tsukiya Hotel...%K%P
+
+0x778
+I open my mouth again.%K%P
+
+0x784
+Makoto「Izumi-san! I want you to listen to me!」%K%P
+
+0x798
+Izumi「Huh? ... Sure.」%K%P
+
+0x7A4
+Makoto「I... I... Izumi-san, I lo-」%K%P
+
+0x7C8
+Izumi「Ah!!」%K%P
+
+0x7D4
+Makoto「A-Again!?」%K%P
+
+0x80C
+I see Okuhiko staggering towards the hotel from far%Naway, still holding his stomach...%K%P
+
+0x844
+Izumi-san and I head into the lobby.%K%N
+
+0x850
+There, we hide behind one of the sofas.%K%N
+
+0x85C
+Shortly afterwards, Okuhiko enters the hotel.%K%P
+
+0x868
+Okuhiko「E-Excuse me... I'd like to ask you for a little favor...」%K%P
+
+0x874
+Okuhiko talks to the front desk clerk with a voice that%Nsounds like he's about to die.%K%P
+
+0x880
+After talking for several minutes...%K%N
+
+0x88C
+... Two muscular men drag him outside.%K%P
+
+0x898
+Even so, Okuhiko shows no signs of leaving the front of%Nthe hotel.%K%P
+
+0x8A4
+We decide to secretly escape through the back exit.%K%P
+
+0x904
+At Viewpoint Park...%K%P
+
+0x934
+If we've come this far, then I don't think Okuhiko will come%Nhere.%K%P
+
+0x940
+(This time, I will definitely confess to her by all means%Npossible!)%K%P
+
+0x94C
+Makoto「Izumi-san! Listen to me!!」%K%P
+
+0x958
+I shout, half in desperation.%K%P
+
+0x96C
+Izumi-san just gives me a powerful nod in response.%K%P
+
+0x978
+Makoto「IZUMI-SAN, I LO-」%K%P
+
+0x99C
+Izumi「AH!!!」%K%P
+
+0x9A8
+Izumi-san is looking at...%K%P
+
+0x9E0
+... I don't even need to check who it is by now.%K%P
+
+0x9EC
+Makoto「No... No... No...」%K%P
+
+0x9F8
+Makoto「NO MOREEEEEE!!!」%K%P
+
+0xA04
+I look at the staggering Okuhiko, and try to break out%Ninto a run.%K%P
+
+0xA10
+(I need this bastard to disappear so that I can confess%Nto Izumi-san!!)%K%P
+
+0xA1C
+Unable to take much more of this, I clench my hands into%Nfists.%K%P
+
+0xA38
+Izumi「Makoto-kun, no! Hide!」%K%P
+
+0xA44
+Izumi-san shakes her head and grabs me. She starts to%Ndrag me behind a nearby tree...%K%P
+
+0xA58
+I can't see Okuhiko, but I can hear his voice.%K%P
+
+0xA64
+Okuhiko「Damn them. Who the hell do they think I am?」%K%P
+
+0xA70
+Okuhiko「I'm the son of the Iida Financial Group!」%K%P
+
+0xA7C
+Okuhiko「Even so... Even so... they treated me like crap... *sob*」%K%P
+
+0xA88
+Okuhiko「I'll have Papa make sure they get eliminated from%Nbusiness world... Absolutely!」%K%P
+
+0xA94
+Okuhiko「Ah... but anyway, where... where's the bathroom...?」%K%P
+
+0xAA0
+Okuhiko「If this was how it was going to be... then I should have%Nnever eaten those damn rice balls...」%K%P
+
+0xAAC
+Okuhiko「...」%K%P
+
+0xAC8
+Huh?%K%N
+
+0xAD4
+I can't hear Okuhiko's voice.%K%N
+
+0xAE0
+Is he gone?%K%P
+
+0xAEC
+When I try to peek my face out from behind the tree...%K%P
+
+0xB1C
+Okuhiko「... Why... Why... are they in the middle of cleaning it now...?」%K%P
+
+0xB28
+Okuhiko「At this rate... I'll just go behind that tree...」%K%P
+
+0xB34
+(D-Dumbass! You're the son of a financial group, so don't%Ntake care of your business outside!!)%K%P
+
+0xB40
+Okuhiko walks this way.%K%P
+
+0xB78
+We desperately run away...%K%P
+
+0xB84
+(Why!? Why the hell does Okuhiko have to keep getting in%Nmy way!?)%K%P
+
+0xB90
+... ... ...%K%P
+
+0xB9C
+In the end, Izumi-san and I just keep running from place%Nto place until just before the barbecue...%K%P
+

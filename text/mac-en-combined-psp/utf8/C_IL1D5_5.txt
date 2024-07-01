@@ -1,0 +1,198 @@
+text area offset and size:
+0x738
+0xBE9
+0x40
+And then, when Izumi-san's finally wept her eyes out and%Ntheir red disappears...%K%P
+
+0x54
+Kurumi「Good morning―♪」%K%P
+
+0x7C
+... The tension is shattered as Kurumi comes down from%Nthe second floor.%K%P
+
+0x98
+Izumi「It's not 'Good morning'. What time do you think it is?」%K%P
+
+0xAC
+Kurumi「Umm... a little past eleven?」%K%P
+
+0xC0
+Izumi「Do you realize how long you've been sleeping for?」%K%P
+
+0xD4
+Kurumi「But it's important to Kurumi's gross♪」%K%P
+
+0xE8
+Izumi「Wake up! It's 'growth', not 'gross'!」%K%P
+
+0xFC
+Kurumi「Growth, schmowth, whatever♪」%K%P
+
+0x110
+Izumi「Haah... oh geez...」%K%P
+
+0x11C
+As she says this, Izumi-san gives a resigned smile.%K%P
+
+0x128
+Before I know it, her smile has returned to its usual kind%Nself.%K%P
+
+0x134
+Seeing that expression on her face causes me to%Ninstinctively grin, as well.%K%P
+
+0x140
+Kurumi「So what are you doing in a place like this, Onii-chan?」%K%P
+
+0x154
+Izumi「What do you mean, 'in a place like this'?」%K%P
+
+0x160
+Kurumi「Hey, what are you doing, Onii-chan?」%K%P
+
+0x174
+Izumi「Hey... listen to people when they are talking to you!」%K%P
+
+0x180
+As she says this, Izumi-san grumbles and lightly tugs%NKurumi's hair.%K%P
+
+0x1A4
+Kurumi「Uwa! Owwwwwwwwwwwwwwww!」%K%P
+
+0x1B8
+Izumi「What???」%K%P
+
+0x1E8
+Kurumi「It hurts～, it hurts～! Kurumi's going to die from the pain～」%K%P
+
+0x1FC
+Izumi「Geez, I didn't tug that hard, did I?」%K%P
+
+0x208
+Kurumi「You did, you did～!」%K%P
+
+0x214
+Kurumi「You grabbed Kurumi's weak point!」%K%P
+
+0x228
+Izumi「And there you go again, faking the pain as always.」%K%P
+
+0x23C
+Kurumi「You're wrong! Kurumi's not faking this!」%K%P
+
+0x250
+Kurumi「Waah! Onii-chan, save Kurumi!」%K%P
+
+0x25C
+Kurumi「The younger sister is being teased by the older%Nsister～!」%K%P
+
+0x268
+Kurumi「It's like your sister-in-law is being teased～!」%K%P
+
+0x274
+Izumi「...」%K%P
+
+0x298
+Kurumi「Hey, Onii-chan? Can you... say the whole 'Pain, pain, fly%Naway' thing? ... Please♪」%K
+
+0x710
+Do it.
+
+0x71C
+Don't do it.
+
+0x2D8
+Makoto「Hmm, well, I guess it can't be helped～」%K%P
+
+0x2F4
+Makoto「Hey there, Kurumi... You're not a kid anymore...」%K%P
+
+0x308
+Kurumi「What!? You won't do it!?」%K%P
+
+0x314
+I nod deeply.%K%P
+
+0x328
+Kurumi「Why!?」%K%P
+
+0x334
+Makoto「I just told you why!」%K%P
+
+0x348
+Kurumi「No...」%K%P
+
+0x35C
+Kurumi「No no no no!」%K%P
+
+0x368
+Kurumi「Do it do it do it do it!!」%K%P
+
+0x374
+Kurumi「It hurts, so do it――――!!!」%K%P
+
+0x380
+Makoto「...」%K%P
+
+0x39C
+Izumi「Makoto-kun? Won't you do it?」%K%P
+
+0x3A8
+―What!? Are you serious!?%K%P
+
+0x3B4
+Izumi-san looks at me, urging me on.%K%P
+
+0x3C0
+(Haah... Oh well.)%K%P
+
+0x3CC
+(There's no way I can deny them when they're like that.)%K%P
+
+0x3F8
+Makoto「Here... Abracadabra, pain, pain, fly away, all the way to%NAndromeda～!」%K%P
+
+0x404
+I pat Kurumi on the head.%K%P
+
+0x418
+Kurumi「...」%K%P
+
+0x424
+Izumi「...」%K%P
+
+0x430
+Makoto「...」%K%P
+
+0x444
+Kurumi「... Hee hee♪」%K%P
+
+0x458
+Izumi「... Ehee hee hee♪」%K%P
+
+0x464
+Kurumi「'Abracadabra'...」%K%P
+
+0x470
+Izumi「'Fly away, all the way to Andromeda'...」%K%P
+
+0x47C
+The two of exchange glances while trying to hold in their%Nlaughter...%K%P
+
+0x4AC
+Morino sisters「Kyahahahahahahaha♪」%K%P
+
+0x4B8
+... But end up holding their sides as they burst into%Nlaughter.%K%P
+
+0x4C4
+They pound on the table, then point at me as they%Ncontinue to laugh...%K%P
+
+0x4D8
+Makoto「Ha ha... ha ha... ha ha ha ha...」%K%P
+
+0x4E4
+I don't know why, but I feel extremely embarrassed.%K%P
+
+0x4F0
+My ears have grown hot.%K%P
+

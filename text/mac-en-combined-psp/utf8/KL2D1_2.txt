@@ -1,0 +1,2007 @@
+text area offset and size:
+0x3AD8
+0x969D
+0x70
+Okuhiko「Hey!」%K%P
+
+0x7C
+Okuhiko's already there.%N
+
+0x88
+He's lounging on the sofa, smoking...%K%N
+
+0x94
+... Smoking a cigarette?%K%P
+
+0xA0
+Up until now, I've never seen Okuhiko in the middle of%Nsmoking.%K%P
+
+0xAC
+But none of that matters right now!%K%P
+
+0xB8
+I briskly walk over to Okuhiko, suddenly grab him by the%Ncollar, and force him to get up to his feet.%K%P
+
+0xCC
+Okuhiko「Wh-What the hell are you doing, Ishihara...」%K%P
+
+0xD8
+Makoto「Shut up! Just shut your mouth and answer my question!」%K%P
+
+0xE4
+Okuhiko「...」%K%P
+
+0xF0
+Makoto「What's today's date?」%K%P
+
+0xFC
+Okuhiko「... Huh?」%K%P
+
+0x108
+Makoto「I'm asking you what today's date is!」%K%P
+
+0x11C
+Okuhiko「I-Ishihara... Are you joking?」%K%P
+
+0x154
+Makoto「Answer the goddamn question!!」%K%P
+
+0x160
+Okuhiko「... It's... April... 1st...」%K%P
+
+0x16C
+(That's... impossible...)%K%P
+
+0x178
+Makoto「Hey, Okuhiko? I've got one other question for you.」%K%P
+
+0x184
+Okuhiko「...」%K%P
+
+0x190
+Makoto「What happened to Kurumi?」%K%P
+
+0x19C
+Okuhiko「... K-Kurumi? Kurumi... Wait, isn't that the Japanese word%Nfor chestnut?」%K%P
+
+0x1CC
+Makoto「Don't play dumb!」%K%P
+
+0x1E0
+Okuhiko「I-I'm not playing dumb! Why don't YOU tell me what this%N'Kurumi' is, then!?」%K%P
+
+0x1EC
+Makoto「...」%K%P
+
+0x1F8
+My mind is still full of confusion.%K%N
+
+0x204
+I can't take in the meaning of Okuhiko's words very well.%K%P
+
+0x210
+Today is April 1st...%K%N
+
+0x21C
+If it's the morning of April 1st, then that means Okuhiko%Nhasn't met Kurumi yet, right...?%K%P
+
+0x230
+Okuhiko「A-Are you all right, Ishihara...?」%K%P
+
+0x260
+I thrust Okuhiko away, and rush out the front door as%Nswift as a tornado.%K%P
+
+0x2D0
+I've decided on my destination.%K%N
+
+0x2DC
+Obviously, it's Lunabeach.%K%N
+
+0x2E8
+First, I've got to confirm Kurumi's safety.%K%P
+
+0x330
+Today is April 1st...%K%N
+
+0x33C
+There's no way I can believe that.%K%N
+
+0x348
+Thinking about it realistically, it's completely impossible.%K%P
+
+0x354
+In my brain, I've got clear memories from the 1st to the 6th.%K%P
+
+0x360
+Are those memories false...?%K%N
+
+0x36C
+Was everything a dream...?%K%N
+
+0x378
+No, that's also probably not right.%K%P
+
+0x384
+Then just what is "today"?%K%N
+
+0x390
+... I don't know.%K%N
+
+0x39C
+I don't know, but...%K%P
+
+0x3D4
+... If today really is the 1st, then...%K%N
+
+0x3E0
+Then that means Kurumi's... still alive.%K%N
+
+0x3EC
+Kurumi's... alive.%K%P
+
+0x3F8
+She might be alive.%K%P
+
+0x404
+If such a miracle exists, then...%K%N
+
+0x410
+If such a miracle turns out to have really happened,%Nthen...%K%P
+
+0x41C
+Ah... I don't know what I'll do. I might be so happy that I'll%Ncry.%K%P
+
+0x428
+I pray that my watch and Okuhiko's words tell the truth.%K%P
+
+0x434
+(Please... be alive... Kurumi...!)%K%P
+
+0x440
+Unable to hold back my thriving emotions, I kick off the%Nasphalt and break off into a run...%K%P
+
+0x488
+I've arrived in front of Lunabeach.%K%N
+
+0x494
+My heart is pounding like crazy.%K%P
+
+0x4A0
+(Calm down... calm down...)%K%P
+
+0x4AC
+I tell this to myself.%K%P
+
+0x4B8
+Makoto「Whew...」%K%P
+
+0x4C4
+I take three deep breaths.%K%P
+
+0x4D0
+... I place a hand on my chest...%K
+
+0x4DC
+... and slowly...%K%N
+
+0x4E8
+... open...%K
+
+0x4F4
+... the door to Lunabeach...%K%P
+
+0x524
+Izumi「Welcome～♪」%K%P
+
+0x530
+It's Izumi-san, who's the same as always...%K%P
+
+0x53C
+Makoto「Umm...」%K%P
+
+0x548
+Izumi「Yes?」%K%P
+
+0x554
+Makoto「... Is Kurumi... here?」%K%P
+
+0x560
+Izumi「Huh?」%K%P
+
+0x56C
+Makoto「...」%K%P
+
+0x578
+Izumi「Um... pardon me, but whom might you be?」%K%P
+
+0x5A0
+(I... Izumi... san...)%K%P
+
+0x5AC
+She sounds so distant...%K%N
+
+0x5B8
+That reserved manner... that formal tone...%K%N
+
+0x5C4
+This isn't the normal Izumi-san.%K%P
+
+0x5D0
+Complex emotions sprout within me. I'm trying, but I can't%Ncalm myself down.%K%P
+
+0x5DC
+There is almost no doubt in my mind that today is April 1st.%K%P
+
+0x5E8
+Meaning that Kurumi is really alive...%K%N
+
+0x5F4
+But...%K%N
+
+0x600
+But...%K%P
+
+0x654
+Kurumi「Oh, welcome～♪」%K%P
+
+0x660
+Makoto「KURUMI!!!」%K%P
+
+0x66C
+When I notice her, I shout.%K%P
+
+0x680
+Kurumi「... Y-Yes?」%K%P
+
+0x68C
+I instinctively want to embrace her.%K%N
+
+0x698
+I want to hug her tightly, and never let go...%K%P
+
+0x6A4
+I want to feel her soft hair in my hands.%K%N
+
+0x6B0
+I want to feel those small li... no, her nearly transparent%Nskin.%K%N
+
+0x6BC
+But...%K%P
+
+0x6C8
+Makoto「N-No... i-it's nothing.」%K%P
+
+0x6F8
+... I clench my fists tightly and resist those impulses.%K%N
+
+0x704
+Izumi-san's suspicious glare is piercing me.%K%N
+
+0x710
+She is examining me from head to toe.%K%P
+
+0x71C
+Izumi「Kurumi... is he an acquaintance of yours?」%K%P
+
+0x728
+Kurumi「Nope... never seen him before.」%K%P
+
+0x734
+Kurumi's words are the finishing blow...%K%N
+
+0x740
+It feels like I've been struck hard in the gut...%K%P
+
+0x74C
+Of course, it's not like this was "completely%Nunexpected," but... actually hearing those words is very%Npainful.%K%P
+
+0x758
+―Should I tell them the truth?%K%N
+
+0x764
+No, even if I did, that'd be pointless...%K%N
+
+0x770
+There's absolutely no way they'd believe me.%K%P
+
+0x77C
+It's better that we remain close acquaintances...%K%N
+
+0x788
+It's better if we can spend the next six days together%Nas friends...%K%P
+
+0x794
+Because right now, to the Morino sisters, I'm just... ...%NNothing more than a stranger.%K%P
+
+0x7A0
+Izumi「Why do you know about Kurumi?」%K%P
+
+0x7AC
+Izumi-san's gaze is still filled with suspicion.%K%P
+
+0x7B8
+Makoto「... I just... heard a rumor...」%K%P
+
+0x7C4
+I'm lying through my teeth. But I have no other options%Nright now.%K%P
+
+0x7D8
+Izumi「A rumor?」%K%P
+
+0x7E4
+Makoto「That there was a girl named 'Kurumi' at this shop who's an%Nexpert at origami... That's what I heard.」%K%P
+
+0x7F0
+Izumi「Origami...」%K%P
+
+0x7FC
+Kurumi「...」%K%P
+
+0x808
+Izumi-san and Kurumi exchange glances.%K%P
+
+0x814
+Izumi「Ah... then did you hear that from Gen-san?」%K%P
+
+0x820
+Gen-san the fisherman, huh...?%K%P
+
+0x82C
+Makoto「... Gen-san? ... Oh, so that man's name was Gen-san?」%K%P
+
+0x838
+I'll go along with that.%K%P
+
+0x84C
+Kurumi「Huh?」%K%P
+
+0x860
+Izumi「Kurumi, you gave Gen-san, the fisherman, one of those%Norigamis you folded, remember...?」%K%P
+
+0x874
+Kurumi「Ah... you mean that fisherman...?」%K%P
+
+0x880
+Kurumi「Yep, yep. Kurumi folded a tuna and a whale shark and%Ngave it to him!」%K%P
+
+0x894
+Izumi「Gen-san would definitely have spread a rumor about%Nthat around the island... That's just the kind of person he%Nis.」%K%P
+
+0x8A0
+Kurumi「Hmm... so that's it...」%K%P
+
+0x8B4
+Izumi「Well, it's good publicity for this place, so I'm happy about%Nit...」%K%P
+
+0x8C0
+Makoto「... Well then... please excuse me.」%K%P
+
+0x8D4
+Izumi「Huh? Are you leaving?」%K%P
+
+0x8E0
+Makoto「Yes... I just remembered that there's something I have to%Ndo...」%K%P
+
+0x8EC
+Izumi「I see... that's unfortunate...」%K%P
+
+0x900
+Izumi「Well then, the next time you're free, would you come here%Nto eat?」%K%P
+
+0x90C
+Makoto「Yes... I'll definitely come back! ... Sometime in the near%Nfuture!」%K%P
+
+0xA54
+I decide not to return to the lodge yet.%K%N
+
+0xA60
+Before that, I need to sort out the confusion in my mind.%K%P
+
+0xA6C
+I begin to think as I walk...%K%N
+
+0xA78
+...%K%P
+
+0xAA0
+Kurumi is alive―finding that out was the happiest%Nmoment of my life.%K%P
+
+0xAAC
+I'm so ecstatic that it feels as if every fiber of my being%Nis dancing in joy.%K%P
+
+0xAB8
+But...%K%N
+
+0xAC4
+... At the same time, I can't get rid of this profound feeling%Nof loneliness whirling around in my heart.%K%P
+
+0xAD0
+"Nope... never seen him before."%K%N
+
+0xADC
+Kurumi's words were incredibly painful...%K%P
+
+0xAE8
+(Why did this happen?)%K%P
+
+0xAF4
+I don't know the reason.%K%N
+
+0xB00
+I don't know the reason, but there's just two things I've%Nconfirmed.%K%P
+
+0xB0C
+―I time traveled.%K%N
+
+0xB18
+On that day... on that rainy morning, I leapt through time,%Nback into the past.%K%P
+
+0xB24
+That's why I'm re-experiencing the morning of the 1st%Nright now.%K%P
+
+0xB30
+And the other thing I've confirmed is...%K%N
+
+0xB3C
+―This is an infinite loop.%K%N
+
+0xB48
+This is definitely not the first time I've time traveled.%K%P
+
+0xB54
+The reason why I can say this is because of that%Nhopeless dream I had on the morning of the last 1st...%K%N
+
+0xB60
+That scene was exactly the same scene from%N"yesterday"...%K%P
+
+0xB6C
+If that's the case, then before the last loop, I must have%Nexperienced those same six days before.%K%P
+
+0xB78
+And if I take that to its logical conclusion, then they%Nhappened again before that, and before that... In other%Nwords, I've been living through those six days an infinite%Nnumber of times.%K%P
+
+0xB84
+And if I think about it conversely, then after this, those%Nsame six days will repeat endlessly for all of eternity...%K%P
+
+0xB90
+No... that's wrong...%K%N
+
+0xB9C
+... There's one very clear difference from the "me" of%Ntoday and the "me" of the last loop's 1st.%K%P
+
+0xBA8
+―My memories.%K%N
+
+0xBB4
+I clearly remember what happened in those last six%Ndays, don't I?!%K%P
+
+0xBC0
+In that case, then there's no way I'm gonna let history%Nrepeat itself!%K%N
+
+0xBCC
+That's right! With these hands, I can change history!%K%P
+
+0xBD8
+Why did I time travel?%K%N
+
+0xBE4
+The reason doesn't matter now.%K%P
+
+0xBF0
+All that matters is that this is my chance. This is my last%Nchance to cosign that repulsive history into oblivion.%K%P
+
+0xBFC
+I don't know if there'll be another 1st or not.%K%N
+
+0xC08
+For argument's sake, even if there is, I might not have my%Nmemories, just like the last loop.%K%P
+
+0xC14
+That's why this is my last chance...%K%P
+
+0xC20
+―I won't make the same mistake again!%K%N
+
+0xC2C
+―I will definitely protect Kurumi!%K%N
+
+0xC38
+―I won't let Kurumi's smile disappear!%K%P
+
+0xCC4
+(But even though I said I'll change history, what should I%Ndo first?)%K%P
+
+0xCD0
+Should I tell everyone I time traveled?%K%N
+
+0xCDC
+No, even if I told them, I don't think anyone would believe%Nme.%K%P
+
+0xCE8
+In order to make them believe, I would have no choice but%Nto tell them everything...%K%P
+
+0xCF4
+Doing that would mean having to tell Kurumi about those%Ntragic events that will happen soon.%K%P
+
+0xD00
+There's no way in hell...%K%N
+
+0xD0C
+"On the morning of April 6th, Kurumi died!"%K%N
+
+0xD18
+... that I can say something like that.%K%P
+
+0xD24
+I don't want to terrify Kurumi. Plus, what would Izumi-san%Nthink of me if I tell them...?%K%P
+
+0xD30
+I'll try to keep this quiet from everyone...%K%N
+
+0xD3C
+There's no way I can get the others involved in this.%K%N
+
+0xD48
+This is my problem and mine alone.%K%P
+
+0xDB0
+Well then... What's the quickest solution...?%K%P
+
+0xDBC
+Hold on...%K%N
+
+0xDC8
+In the first place, isn't this island a dangerous place?%K%P
+
+0xDD4
+Then what if I force Kurumi to come with me and take her%Naway from the island...?%K%N
+
+0xDE0
+... No, that won't work.%K%P
+
+0xDEC
+If my memory serves me right, on the last 1st, Izumi-san%Nsaid "There's high waves, so the boats can't leave,"...%K%N
+
+0xDF8
+Great...%K%P
+
+0xE04
+Then what should I do?%K%N
+
+0xE10
+What should I do?%K%N
+
+0xE1C
+What should I do?%K%P
+
+0xE38
+―!!!%K%N
+
+0xE44
+Something suddenly flashes through my mind...%K%N
+
+0xE50
+I immediately break off into a run...%K%P
+
+0xEC4
+―I'll destroy the shrine itself!%K%N
+
+0xED0
+I run up to the shrine.%K%N
+
+0xEDC
+I look up at its overbearing image from below.%K%P
+
+0xEE8
+Suddenly, the scene from yesterday surfaces to the%Nforefront of my mind...%K%P
+
+0xEFC
+Kurumi...%K%P
+
+0xF10
+I feel my anger being resurrected.%K%P
+
+0xF1C
+(Because of this...)%K%P
+
+0xF28
+(Because of this godforsaken shrine... Kurumi...!)%K%P
+
+0xF34
+My blood is boiling... As my anger rises, I channel it into%Npower, and kick one of the pillars as hard as I can.%K%P
+
+0xF40
+I launch an assault run, ramming the pillar with my%Nshoulders. I do this over and over again as I put all my%Nbody weight into smashing the pillar.%K%P
+
+0xF4C
+...%K%N
+
+0xF58
+But the building is undaunted. I've only succeeded in%Ncausing the dust that's accumulated on the pillars to%Nflutter down.%K%P
+
+0xF64
+Even though this shrine has deteriorated so intensely, I%Nsuppose that my strength alone can't compare to an%Nearthquake...%K%P
+
+0xF70
+Makoto「Haah...」%K%P
+
+0xF7C
+I heavily sigh.%K%N
+
+0xF88
+I droop my shoulders as I leave the shrine grounds in%Ndefeat.%K%P
+
+0x1004
+Wait... this is nothing to get so depressed over, is it?%K%N
+
+0x1010
+After all, I still have vivid memories from before.%K%P
+
+0x101C
+I know the future so well I could take it in my hands.%NChanging history will be simple, right?%K%P
+
+0x1028
+There's nothing to be scared of!%K%N
+
+0x1034
+The most important matter is to take away the true scar%Nthat lies inside Kurumi.%K%P
+
+0x1040
+This time, I have to completely cure her emotional scars...%K%P
+
+0x104C
+Furthermore, is it really true that Kurumi and Izumi-san%Naren't related by blood? ―I need to determine%Nwhether that's true or not.%K%P
+
+0x1058
+If possible, it'd be nice if I could prove that those two%Nare true sisters.%K%P
+
+0x1064
+If I can get that proof, then I can fill up those emotional%Nscars, ensuring that tragedy doesn't happen again!%K%P
+
+0x1070
+... Be that as it may, there's way too many things that I%Ndon't know right now.%K%P
+
+0x107C
+Well then, what should I do?%K%N
+
+0x1088
+I don't even need to think about it.%K%N
+
+0x1094
+I need to properly hear Izumi-san's story from beginning%Nto end.%K%P
+
+0x10A0
+If I do that, then I feel that I can settle everything.%K%N
+
+0x10AC
+What I should be doing right now is building up my%Nrelationship with Kurumi again right from square one.%K%P
+
+0x10B8
+I'll recreate all those many fun memories with her once%Nagain...%K%P
+
+0x10C4
+Until my time limit is up, I'll devote everything I have into%Ndoing that.%K%P
+
+0x10E0
+...%K%N
+
+0x10EC
+By the time I arrive at the lodge, I've completely calmed%Ndown...%K%P
+
+0x117C
+I open the front door, and enter the living room.%K%N
+
+0x1188
+Okuhiko is lying on the floor, and seems to be writhing in%Nsevere agony...%K%P
+
+0x1194
+Makoto「I'm back!」%K%P
+
+0x11A0
+I call out.%K%P
+
+0x11AC
+Yuka turns from washing the dishes in the kitchen as%Nshe happily hums a song.%K%P
+
+0x11C0
+Yuka「Geez... where did you go...?」%K%P
+
+0x11CC
+Yuka「We already ate breakfast, you know?」%K%P
+
+0x11D8
+I see... So that means Okuhiko became the victim of%NYuka's cooking this time...%K%N
+
+0x11E4
+I almost feel sorry for Okuhiko, who's writhing in pain on%Nthe floor.%K%P
+
+0x11F0
+(Huh? What about Haruka?)%K%P
+
+0x11FC
+I look around for her.%K%P
+
+0x1208
+... Haruka is brushing her teeth in front of the sink right%Nnow.%K%P
+
+0x1214
+Judging from her condition, Haruka seems to have%Nsafely escaped this time as well.%K%P
+
+0x1254
+Suddenly, the doorbell rings. Since I'm standing in front%Nof the door, I open it without thinking.%K%P
+
+0x12E8
+Kurumi「Thank you very much for your continued patronage～♪」%K%P
+
+0x12F4
+Makoto「K... Kurumi...!」%K%P
+
+0x1300
+I quickly glance at my watch―"11:32 A.M."%K%P
+
+0x130C
+That's right...%K%N
+
+0x1318
+I completely forgot... At this time, Kurumi delivered the%Npizza...%K%P
+
+0x1324
+Kurumi「Oh, you're that guy from earlier...」%K%P
+
+0x136C
+I turn my head around and glance at the others.%K%N
+
+0x1378
+Okuhiko is dying on the floor, Yuka is standing in the%Nkitchen, and Haruka is brushing her teeth.%K%P
+
+0x1384
+Fortunately, none of them can hear my conversation with%NKurumi.%K%P
+
+0x13D4
+Kurumi「So you're staying at this lodge...」%K%P
+
+0x13E0
+Makoto「Y-Yeah... well, for the time being...」%K%P
+
+0x13EC
+Kurumi「All right♪ Anyway, here's the seafood pizza you%Nordered～♪」%K%P
+
+0x13F8
+Makoto「...」%K%P
+
+0x1404
+Kurumi「Hmm?」%K%P
+
+0x1410
+Wh-What should I do...?%K%N
+
+0x141C
+Should I say "I never ordered anything like that," like last%Ntime...?%K%P
+
+0x1428
+Or should I try redirecting her to Saki's place...?%K
+
+0x3AB0
+"I didn't order that."
+
+0x3ABC
+Redirect her to Saki's place.
+
+0x1468
+I decide to stay faithful to history.%K%N
+
+0x1474
+In the first place, if I don't, then we won't meet Saki...%K%P
+
+0x1480
+Makoto「Seafood pizza? I never ordered anything like that...」%K%P
+
+0x148C
+I play dumb.%K%P
+
+0x1498
+Kurumi「What!?」%K%P
+
+0x14A4
+A disturbed expression clouds Kurumi's face as she%Nsearches through her pocket with her free hand until%Nshe pulls out a scrap of paper.%K%P
+
+0x14B0
+Kurumi「But the receipt definitely says you ordered a 'Seafood%NPizza', didn't you?」%K%P
+
+0x14BC
+(Well, that's certainly what it says on the receipt.)%K%P
+
+0x14C8
+As I think that...%K%P
+
+0x14D4
+Makoto「I'm telling you that that's not what I mean. You see, I didn't%Norder anything.」%K%P
+
+0x14E0
+Kurumi「But...」%K%P
+
+0x14EC
+Kurumi「... This is definitely the right address.」%K%P
+
+0x14F8
+As she says this, Kurumi shows me the receipt.%K%N
+
+0x1504
+I ignore it and answer.%K%P
+
+0x1518
+I really should just be nice and point out her mistake.%K%P
+
+0x1524
+Makoto「I think... that there's probably been a mistake.」%K%P
+
+0x1530
+I say this.%K%P
+
+0x153C
+Kurumi「What!?」%K%P
+
+0x1548
+A disturbed expression clouds Kurumi's face as she%Nsearches through her pocket with her free hand until%Nshe pulls out a scrap of paper.%K%P
+
+0x1554
+Kurumi「But the receipt definitely says you ordered a 'Seafood%NPizza', didn't you?」%K%P
+
+0x1560
+Makoto「I'm telling you that that's not what I meant. I think you were%Nsupposed to deliver this to that summer house from%Nearlier.」%K%P
+
+0x156C
+Kurumi「The summer house from earlier...?」%K%P
+
+0x1578
+Okay... So far, so good...%K%N
+
+0x1584
+I just need to pick my next words carefully so that it%Nseems like I don't know too much.%K%P
+
+0x1590
+Makoto「Right... The summer house from earlier...」%K%P
+
+0x159C
+Makoto「You might not have seen it, but there's this summer%Nhouse nearby that you should have passed earlier...」%K%P
+
+0x15A8
+Makoto「... I think that... you were supposed to deliver this pizza%Nthere instead...」%K%P
+
+0x15B4
+Kurumi「Huh???」%K%P
+
+0x15C0
+Makoto「Hey, Kurumi... chan? What's the name written where it says%N'receiver's address'?」%K%P
+
+0x15CC
+Kurumi looks at the receipt one more time.%K%P
+
+0x15D8
+Kurumi「A-S-A-K-U-R-A... it says Asakura.」%K%P
+
+0x15E4
+Makoto「Right? So as you see, there isn't anyone here named%NAsaku-」%K%P
+
+0x15F0
+Okuhiko「H-Hold it right there...」%K%P
+
+0x1630
+Okuhiko had walked over without me noticing it, and is%Ncurrently standing next to me.%K%P
+
+0x163C
+Okuhiko「Ah... thank you... for all your trouble.」%K%P
+
+0x1648
+Okuhiko「I'm... Okuhiko... Asakura.」%K%P
+
+0x1654
+Okuhiko says this in a pained voice.%K%P
+
+0x1660
+Okuhiko「So... where's the pizza?」%K%P
+
+0x167C
+Kurumi「R-Right...」%K%P
+
+0x1698
+Slightly flustered, Kurumi pulls out a thin box out of the%Nsilver bag.%K%P
+
+0x16AC
+Kurumi「Here is your order!」%K%P
+
+0x16B8
+Okuhiko takes the pizza as he staggers on unsteady%Nfeet, then proceeds to ask her...%K%P
+
+0x16C4
+Okuhiko「H... How much is it...?」%K%P
+
+0x16D8
+Kurumi「1200 yen.」%K%P
+
+0x16E4
+Okuhiko takes some money out of his pocket, and gives%Nit to Kurumi...%K%P
+
+0x16F8
+Kurumi「Thank you very much♪」%K%P
+
+0x170C
+... who then gives a deep bow before energetically%Nrunning off.%K%P
+
+0x1718
+Looking at Okuhiko's face from the side as he sees her%Noff, I notice just how ghastly pale it is.%K%P
+
+0x1724
+I can kinda understand where Okuhiko's coming from.%K%P
+
+0x1730
+Anybody would want to "clean their palette", so to%Nspeak, in order to get rid of the terrible taste left in their%Nmouths from bad food, such as Yuka's cooking...%K%P
+
+0x173C
+That's probably what his ulterior motive was this time...%K%P
+
+0x17D0
+After that...%K%N
+
+0x17DC
+The four of us finish eating the pizza, and head for the%Ntennis courts.%K%N
+
+0x17F8
+Okuhiko and Haruka head for Princess Beach while Yuka%Nand I end up playing tennis again.%K%N
+
+0x1804
+The reason is simple... I'm still sore from my loss to Yuka%Nlast time.%K%N%N
+
+0x1810
+―So this time, I will definitely have my revenge!!%K%N%P
+
+0x1824
+But despite my enthusiasm, the result is still the same%Ncrushing defeat I suffered last time...%K%N
+
+0x1830
+In the end, I realize that I'll never match up to Yuka.%K%N
+
+0x183C
+After the match, Yuka smiles very happily.%K%N
+
+0x1848
+When I look at that smile, I begin to think...%K%P
+
+0x185C
+And Haruka and I go to Princess Beach again...%K%N%N
+
+0x1868
+Once again, Haruka tells me that she has "no heart".%K%N%N
+
+0x1874
+When I hear those words, I vow to take Haruka fishing%Nagain this time.%K%P
+
+0x1888
+Her problem has nothing to do with her "heart."%K%N%N
+
+0x1894
+Whether she does or doesn't have a heart, Haruka still%Nhad a beaming smile on when we went fishing.%K%N%N
+
+0x18A0
+There's no way I can take away that happy time from her.%K%N
+
+0x18AC
+I've got to teach Haruka the fun of fishing one more time...%K%P
+
+0x18C0
+It's clear that I now have to change history.%K%N
+
+0x18CC
+I have to prevent that tragedy, no matter what it takes.%K%N
+
+0x18D8
+Still, it doesn't mean that I can just ignore all the girls%Nexcept Kurumi.%K%N%N
+
+0x18E4
+It may account to nothing, but I want everyone to be as%Nhappy as possible.%K%P
+
+0x18F8
+For example, there's the incident where Saki got%Nswallowed by a wave ―Since I know about it, there's%Nno way I can feign ignorance and watch it happen%Nagain.%K%N
+
+0x1904
+The same goes for Saki and Haruka's quarreling. I want to%Nchange that too, if possible.%K%N%N
+
+0x1910
+... Right now, I'm the only one who knows what will happen%Nin the future.%K%N
+
+0x191C
+I'm the only one who can change the future.%K%P
+
+0x1930
+In other words, it's all up to me whether everyone%Nbecomes happy or miserable.%K%N
+
+0x193C
+To put it rather dramatically, I guess I could say that, "I'm%Nthe one who holds everyone's fate in my hands."%K%N%N
+
+0x1948
+From now on, these next six, no, seven days will be%Nhappy ones...%K%N
+
+0x1954
+I will guide them to happiness...%K%P
+
+0x1968
+That might be the other important mission that has been%Nbestowed upon me.%K%N
+
+0x1974
+Embracing this newfound sense of purpose cheers me%Nup.%K%N
+
+0x1980
+I'm starting to feel more confident and brave...%K%P
+
+0x19F8
+Before long, the sun turns red.%K%P
+
+0x1A04
+The four of us met on the coastline road, and now we're%Nwalking alongside Moon Beach.%K%P
+
+0x1A50
+I hear a loud thud from behind me, causing me to turn%Naround.%K%N
+
+0x1A5C
+On the sandy beach is Haruka, who has hit the ground.%K%P
+
+0x1A68
+A cloud of dust soundlessly stirs up into the empty sky.%K%P
+
+0x1A74
+Makoto「Haah...」%K%P
+
+0x1A80
+I let out a sound that's a combination between a sigh%Nand a laugh.%K%N
+
+0x1A8C
+This no longer surprises me.%K%N
+
+0x1A98
+This is a natural event, after all...%K%P
+
+0x1AA4
+I walk over to the confused Haruka's side, grab her%Nhand, and then help her up.%K%P
+
+0x1AB0
+Makoto「Are you all right?」%K%P
+
+0x1ABC
+I say this on purpose.%K%N
+
+0x1AC8
+I myself may not have realized it, but maybe I've%Nsubconsciously decided to allow myself to have a little%Nfun with this reality.%K%P
+
+0x1AD4
+As if nothing had happened, she gives me a curt nod in%Nreply.%K%P
+
+0x1AE0
+Her clear embarrassment that she's trying to hide... her%Nblushing cheeks... This is kinda nostalgic...%K%P
+
+0x1AEC
+As if trying to cover up her trembling, Haruka quickly%Ngets to her feet and moves past me.%K%P
+
+0x1B10
+Almost there...%K%N
+
+0x1B1C
+In just a short bit, our true reunion, no, our meeting, will%Noccur.%K%P
+
+0x1B28
+My heart is pounding.%K%P
+
+0x1B34
+I feel extreme ecstasy over the thought of finally being%Nable to tell her my own name.%K%P
+
+0x1B40
+I quickly look up to see the red western skies are%Nburning dark red.%K%P
+
+0x1B68
+The sound of the waves breaking on shore are gentler%Nthan a lullaby...%K%P
+
+0x1BE8
+Yuka「Oh, to think there'd be a caf▲ here...」%K%P
+
+0x1C0C
+Okuhiko「It's got pretty good taste.」%K%P
+
+0x1C18
+Kurumi「Huh? Could you be...」%K%P
+
+0x1C24
+Kurumi places her broom against the wall, and runs up to%Nus.%K%P
+
+0x1C40
+Kurumi「Umm... you're... the people who ordered the seafood%Npizza... right?」%K%P
+
+0x1C54
+Okuhiko「Huh...? R-Right, thanks for doing that...」%K%P
+
+0x1C60
+A crooked grin slowly emerges on Okuhiko's face.%K%P
+
+0x1C7C
+Yuka「Hmm... What's this? You two know her?」%K%P
+
+0x1C88
+Makoto「She's the girl... who delivered the pizza around noon.」%K%P
+
+0x1C94
+Yuka「Ah. Okay.」%K%P
+
+0x1CA8
+Kurumi「Eheheh... thank you very much for your continued%Npatronage♪」%K%P
+
+0x1CB4
+Yuka「Hey. Since we're just standing here talking, why don't we%Ntake a little rest here?」%K%P
+
+0x1CC0
+Now that I think about it, if Yuka hadn't proposed this,%Nthen Kurumi, Izumi-san, and Saki might never have met.%K%P
+
+0x1CCC
+When I think that, I find the flow of time truly amusing.%K%P
+
+0x1CE8
+Okuhiko「You're right, I'm a little tired from all that walking. Yeah,%Nlet's do that.」%K%P
+
+0x1CFC
+Kurumi「Ah, yeah, yeah. Do it～♪」%K%P
+
+0x1D18
+Yuka「Makoto? What about you?」%K%P
+
+0x1D24
+Makoto「I'm definitely okay with this!! I would have gone in even if%Nyou had said not to!!」%K%P
+
+0x1D30
+Yuka「...?」%K%P
+
+0x1D3C
+Yuka tilts her head curiously, but then...%K%P
+
+0x1D50
+Yuka「Haruka? Are you okay with this?」%K%P
+
+0x1D5C
+... seeks Haruka's approval.%K%P
+
+0x1D78
+Haruka「I'll... I'll pass... I'll head on back.」%K%P
+
+0x1D84
+Makoto「Huh!? What are you saying, Haruka!? You can't do that!%NYou absolutely can't do that!」%K%P
+
+0x1D90
+I unintentionally lose my composure...%K%P
+
+0x1D9C
+Crap... when I regain my composure and think about it, I%Nremember that Haruka ended up going into Lunabeach in%Nthe end anyway.%K%P
+
+0x1DA8
+I didn't need to get so flustered over it.%K%P
+
+0x1DC4
+Yuka「Hey, Makoto? Why are you so anxious about going into%Nthis shop?」%K%P
+
+0x1DD0
+Yuka unexpectedly questions me.%K%P
+
+0x1DDC
+Makoto「Th-That's...」%K%P
+
+0x1DF8
+Kurumi「Because you promised, right?」%K%P
+
+0x1E04
+Makoto「Huh?」%K%P
+
+0x1E10
+Kurumi「This morning... 'I'll definitely come in the near future'.%NThat's what you promised, right?」%K%P
+
+0x1E1C
+Makoto「Y-Yeah... right, right, right, right, right!」%K%P
+
+0x1E28
+Yuka「So you went to this shop this morning, Makoto?」%K%P
+
+0x1E34
+Makoto「W-Well, yeah...」%K%P
+
+0x1E40
+Yuka「Hmm...」%K%P
+
+0x1E4C
+Makoto「So won't you come with us as well, Haruka?」%K%P
+
+0x1E68
+Haruka「... All right.」%K%P
+
+0x1E74
+After pondering it for a while, Haruka mutters her consent.%K%P
+
+0x1E80
+Kurumi「Well then, time to give you four a tour of Lunabeach♪」%K%P
+
+0x1E8C
+Kurumi guides us through Lunabeach's entrance.%K%P
+
+0x1E98
+(Whew... that was close...)%K%P
+
+0x1F24
+Kurumi「Onee-chan, we have customers～♪」%K%P
+
+0x1F30
+Izumi「What's this? It's rare for Kurumi to attract customers.」%K%P
+
+0x1F3C
+Yuka「Huh? You said 'Onee-chan', so does that mean you two%Nare... sisters?」%K%P
+
+0x1F48
+Kurumi「That's right. Onee-chan and Kurumi are true%Nblood-related sisters.」%K%P
+
+0x1F54
+Kurumi sticks out her chest and answers.%K%P
+
+0x1F60
+"True blood-related sisters,"...%K%P
+
+0x1F6C
+I suddenly become depressed.%K%P
+
+0x1F78
+It feels like something is crushing my heart...%K%P
+
+0x1F84
+Izumi「Oh♪ Now that I've gotten a closer look at you, I think%Nthat you're the one from this morning... I'm sorry, I never%Ngot your name.」%K%P
+
+0x1F90
+Makoto「... It's... Ishihara.」%K%P
+
+0x1F9C
+Izumi「Ishihara-kun...」%K%P
+
+0x1FA8
+Makoto「No, it's Makoto!」%K%P
+
+0x1FB4
+Izumi「Huh? ... O-Oh... then... Makoto Ishihara?」%K%P
+
+0x1FC0
+I silently nod.%K%P
+
+0x1FCC
+Izumi「'In the near future'... still, I didn't think you'd come back%Nthis quickly♪」%K%P
+
+0x1FD8
+Izumi「And you brought such a large group... Thank you very%Nmuch♪」%K%P
+
+0x1FE4
+Izumi「Oh, I'm sorry, where are my manners? I'm 'Izumi Morino', a%Npart-time worker for this shop.」%K%P
+
+0x1FF0
+Izumi「This is Kurumi... Oh, but you already know her, right,%NMakoto-kun?」%K%P
+
+0x1FFC
+Makoto「... R-Right.」%K%P
+
+0x2008
+When Izumi-san smiles, the other three introduce%Nthemselves to Kurumi.%K%P
+
+0x2048
+Izumi「Kurumi sometimes helps me with the shop. Come on,%NKurumi, go ahead and properly say 'Hello'.」%K%P
+
+0x2054
+Kurumi「Ah... Umm... I'm 'Kurumi Morino'. Right now, since Kurumi's on%Nschool break, she came here to have fun with%NOnee-chan.」%K%P
+
+0x2060
+Kurumi「When the shop gets busy, Kurumi helps out with various%Nthings.」%K%P
+
+0x206C
+Kurumi「Today, we had a party of tourists come in for lunch...%NWithout Kurumi, we would really have had a lot of trouble%Nwith them...」%K%P
+
+0x2088
+Yuka「Kurumi-chan, you're amazing♪」%K%P
+
+0x2094
+Yuka pats Kurumi's head and rustles through her hair.%K%P
+
+0x20A8
+Kurumi「Yep! After all, Kurumi's all grown up!」%K%P
+
+0x20C4
+Okuhiko「Kurumi-chan, what grade are you in right now?」%K%P
+
+0x20D0
+Kurumi「Huh? Oh, Kurumi's a third year.」%K%P
+
+0x20DC
+Okuhiko「I see, I see, a third year in middle school, huh? You'll be%Ntaking your high school entrance exams soon... that'll be%Ntough.」%K%P
+
+0x20E8
+Makoto「Are your eyes messed up, Okuhiko!?」%K%P
+
+0x20FC
+Okuhiko「Huh?」%K%P
+
+0x2108
+Makoto「Kurumi is in high school! She's a third year in high...」%K%P
+
+0x2114
+(Shit...)%K%P
+
+0x2120
+Damn me and my big mouth...%K%P
+
+0x212C
+Is it because of the irritation I'm feeling from the%Nsensation that's like my heart is being crushed?%K%P
+
+0x2140
+Kurumi「Oh... did that fisherman tell you that too?」%K%P
+
+0x214C
+Makoto「... Y-Yeah... he did...」%K%P
+
+0x2160
+Izumi「Gen-san really does have a loose tongue...」%K%P
+
+0x216C
+I break out into cold sweat...%K%P
+
+0x2178
+(It'd be best if I just kept my mouth shut for now...)%K%P
+
+0x2184
+In order to make sure I don't carelessly say anything%Nunnecessary, I just silently watch over the others as%Nthey talk.%K%P
+
+0x2190
+Izumi「... And what about all of you? From the looks of it, you're%Nall college students, right?」%K%P
+
+0x21AC
+Yuka「You're right. We should also introduce ourselves...」%K%P
+
+0x21B8
+Yuka clears her throat with a small cough before%Npromptly doing so.%K%P
+
+0x21C4
+She tells them about our college... about the Seminar...%Nabout the lodge... and just after she tells them Haruka's%Nname...%K%P
+
+0x21E0
+Okuhiko「Well then, I am...!」%K%P
+
+0x21EC
+... Okuhiko loudly gives his name.%K%P
+
+0x21F8
+(It's almost time... for Saki's entrance...)%K%P
+
+0x2204
+Okuhiko「The always invigorated youth, the gallant man with a%Ntender heart, the warrior of justice sent by God himself%Nfor the sake of protecting the Earth... his name is%N'Okuhiko Iida'!!!」%K%P
+
+0x2220
+Kurumi「... Did you say... Iida?」%K%P
+
+0x222C
+Kurumi「Huh? But earlier, you said it was... 'Asakura'.」%K%P
+
+0x2240
+Okuhiko「Uh, no, I, uh...」%K%P
+
+0x2278
+Saki「My name is 'Asakura'. Is the manager here?」%K%P
+
+0x2284
+... ... ...%K%P
+
+0x2290
+After that, things play out the exact same way they did%Nlast time.%K%P
+
+0x22AC
+Saki snarls and nags at Izumi-san...%K%P
+
+0x22C0
+... Yuka realizes that they went to the same middle%Nschool...%K%P
+
+0x22CC
+Izumi「Well then, I'll treat you to dinner tonight. It'll be a%Ncelebration for your reunion!」%K%P
+
+0x22D8
+... We accept Izumi-san's invitation.%K%P
+
+0x22E4
+Izumi「We have paella and Italian salad, as well as pumpkin%Nsoup!」%K%P
+
+0x22F0
+(Making paella will be impossible.)%K%P
+
+0x22FC
+I mutter these words in my mind as I struggle to keep my%Nmouth shut.%K%P
+
+0x2308
+By coming here, I might have finally acquired the secrets%Nof success for getting through this strange world.%K%P
+
+0x2314
+Well, because I don't say anything, Izumi-san doesn't%Nrealize that she's out of rice until after she's made the%Nother preparations...%K%P
+
+0x23AC
+Like last time, I invite Yuka to go out shopping with me.%K%P
+
+0x23B8
+The two of us ride the bike...%K%P
+
+0x2408
+Like last time, I invite Haruka to go out shopping with me.%K%P
+
+0x2414
+The two of us ride the bike...%K%P
+
+0x2464
+Like last time, I invite Saki to go out shopping with me.%K%P
+
+0x2470
+The two of us head there...%K%P
+
+0x247C
+During that time, Kurumi's words run through my head%Nover and over again.%K%P
+
+0x2488
+Kurumi「That's right. Onee-chan and Kurumi are true%Nblood-related sisters.」%K%P
+
+0x24E0
+Even after we've finished Izumi-san's home cooked%Ndinner, I still can't calm down.%K%P
+
+0x24F4
+Kurumi「Kyahahahaha! Wrong, wrong!」%K%P
+
+0x2500
+Kurumi「We've been completely open this whole time! This is%Nnormal for the shop!」%K%P
+
+0x2514
+Kurumi「In other words, we're open, but not getting any business.」%K%P
+
+0x2520
+Kurumi「That's because almost everyone goes to... Tsukiya.」%K%P
+
+0x252C
+Kurumi「You can see it from here. It's that huge building!」%K%P
+
+0x2538
+Kurumi「That's Tsukiya Hotel. It's this shop's main competition.」%K%P
+
+0x2544
+Kurumi「It may look extravagant, but it's actually an%Neconomically priced hotel.」%K%P
+
+0x2550
+Kurumi「On the top floor is a viewpoint restaurant, which is not%Nonly cheaper than here, but the view is simply amazing...」%K%P
+
+0x255C
+Kurumi「Besides, they've got a heated pool there as well!」%K%P
+
+0x2570
+I can only hear Kurumi's voice.%K%N
+
+0x257C
+Kurumi's cheerful laughter pierces my heart.%K%P
+
+0x2588
+I won't let her smile disappear...%K%N
+
+0x2594
+I won't hurt her ever again...%K%P
+
+0x25A0
+As I look at Kurumi, these feelings only grow more and%Nmore.%K%P
+
+0x25F8
+Even when we arrive at the pool, my gaze is still fixed on%NKurumi.%K%P
+
+0x260C
+Kurumi「Geez, c'mon, try and catch Kurumi!」%K%P
+
+0x2620
+Izumi「Hold on Kurumi, don't shout.」%K%P
+
+0x262C
+On the opposite side of the pool, the two happy sisters%Nare playing together...%K%P
+
+0x2638
+As I think, the gentle evening breeze brushes against%Nmy skin...%K%P
+
+0x2644
+It's filled with the scent of spring...%K%P
+
+0x2650
+Izumi「Hey! If you don't cut it out, I'll get mad!」%K%P
+
+0x265C
+Kurumi「Heh heh, catch Kurumi if you can!」%K%P
+
+0x2668
+Kurumi stands close by the pool's edge, egging%NIzumi-san on.%K%P
+
+0x2674
+I silently watch the two of them play.%K%P
+
+0x2680
+I don't say a word about the earthquake that will hit soon%Nor that Izumi-san will fall in the water...%K%P
+
+0x268C
+Izumi「There, I've got you now!」%K%P
+
+0x26F8
+The giant sheet of water...%K%P
+
+0x2704
+Izumi-san's face emerging out of the water with a%Nfrightened look...%K%P
+
+0x2710
+... Soon enough, the ground calms back down...%K%P
+
+0x2740
+... The surface of the pool is once again still...%K%P
+
+0x27A8
+Izumi-san has climbed out of the pool, and is completely%Nsoaked from head to toe.%K%P
+
+0x27B4
+The completely dry Kurumi, and the utterly soaked%NIzumi-san...%K%P
+
+0x27C0
+The sisters stare at each other's faces... And suddenly,%Nthey begin to laugh.%K%P
+
+0x27D4
+Izumi-san has climbed out of the pool, and is completely%Nsoaked from head to toe.%K%P
+
+0x27E0
+The completely dry Kurumi, and the utterly soaked%NIzumi-san...%K%P
+
+0x27F4
+The sisters stare at each other's faces...%K%N
+
+0x2808
+... And suddenly, they begin to laugh.%K%P
+
+0x2814
+They laugh happily.%K%N
+
+0x2820
+Those two continue to laugh with no signs of stopping...%K%P
+
+0x282C
+No, wait, that's not true. They're about to be interrupted.%K%P
+
+0x2838
+Right... in the next instant...%K%P
+
+0x285C
+Security guard「HEY!!!」%K%P
+
+0x28E0
+And so, we all scurry back to Lunabeach.%K%N
+
+0x28EC
+The other six, with the exception of me, are all having%Nfun, having hit it off almost unthinkably well after only%Ntheir first meeting.%K%N
+
+0x28F8
+Unable to join in with the others, I just lower my face and%Nstay out of it.%K%N%N
+
+0x2904
+But...%K%N
+
+0x2910
+I can't stay like this.%K%P
+
+0x2924
+If I stay depressed like this, then what will the others%Nthink of me?%K%N
+
+0x2930
+To the other girls, this is the first time we've met.%K%N
+
+0x293C
+"I don't really know him, but he's a pretty gloomy guy,"...%Nthat might be what they're thinking.%K%N%N
+
+0x2948
+Especially Kurumi―Ever since I went flying back in time,%NI've barely spoken to her.%K%P
+
+0x295C
+Why was it that Kurumi trusted me the last time?%K%N
+
+0x2968
+There's no way I want Kurumi's impression of me to be of%Nsuch a stony-faced guy.%K%N
+
+0x2974
+At this rate, history will head in a bad direction!%K%P
+
+0x2988
+(Haah... Haah...)%K%N%N
+
+0x2994
+Hoping that no one is looking, I take three deep breaths.%K%N%N
+
+0x29A0
+(Everything will go well...!)%K%N
+
+0x29AC
+(There's nothing to be afraid of...!)%K%N%N
+
+0x29B8
+I cheer myself up. and quickly lift my face.%K%P
+
+0x2A54
+Saki「... Well, isn't it about time we all went home?」%K%P
+
+0x2A60
+Makoto「H-Huh!?」%K%P
+
+0x2A6C
+I unintentionally let out a cry of lament.%K%P
+
+0x2A78
+Even though I just finally pulled myself together... it's%Nalready this late?%K%P
+
+0x2A84
+Saki「After all... Izumi-san, aren't we taking up your time?」%K%P
+
+0x2AA0
+Izumi「But this shop will be closed tomorrow. Don't worry about%Nme, it's fine!」%K%P
+
+0x2AAC
+Makoto「You see?」%K%P
+
+0x2AC8
+Yuka「... Oh! If that's the case, then I've got an idea!」%K%P
+
+0x2AD4
+Yuka「Why don't we try going to the pool tomorrow?」%K%P
+
+0x2AE0
+Yuka's words make me remember something, which takes%Nme aback.%K%P
+
+0x2AF4
+On that beautiful starry night... Kurumi said this...%K%P
+
+0x2B00
+Kurumi「The truth is... Kurumi... really wanted to go with everyone...」%K%P
+
+0x2B0C
+Kurumi「To the pool... and the hot springs...」%K%P
+
+0x2B18
+If we decide to go to the pool here, then won't Kurumi get%Nlonely as a result?%K%P
+
+0x2B24
+I glance at Kurumi's face.%K%P
+
+0x2B38
+As I thought, Kurumi's face looks a bit uneasy.%K%N
+
+0x2B44
+Therefore...%K%P
+
+0x2B50
+Makoto「I think it'd be best if we didn't go!」%K%P
+
+0x2B5C
+... I say this.%K%P
+
+0x2B70
+Yuka「Why?」%K%P
+
+0x2B7C
+Makoto「... Won't it be cold?」%K%P
+
+0x2B88
+Yuka「Geez, Makoto... didn't you hear what Kurumi-chan said%Nearlier?」%K%P
+
+0x2B94
+Yuka「That pool's heated, remember?」%K%P
+
+0x2BA0
+Makoto「But...」%K%P
+
+0x2BB4
+Kurumi「Kurumi... wants to go to the pool.」%K%P
+
+0x2BC0
+―Huh!?%K%P
+
+0x2BCC
+Are my ears deceiving me?%K%P
+
+0x2BE8
+Haruka「Me too...」%K%P
+
+0x2C04
+Saki「I'm in favor as well.」%K%P
+
+0x2C20
+Yuka「Izumi-san?」%K%P
+
+0x2C3C
+Izumi「Well... If Kurumi says she's going, then yes...」%K%P
+
+0x2C48
+Yuka「You see? Everyone except Makoto is in favor of going.」%K%P
+
+0x2C54
+Okuhiko「Incidentally, I plan on going diving tomorrow...」%K%P
+
+0x2C60
+However, Yuka doesn't even try to look at Okuhiko...%K%P
+
+0x2C6C
+Yuka「As I was saying, EVERYONE except Makoto is in favor of%Ngoing.」%K%P
+
+0x2C78
+... She repeats this with emphasis.%K%P
+
+0x2C84
+Makoto「... I get it...」%K%P
+
+0x2C90
+Like Izumi-san, as long as Kurumi says she's going, then I%Nhave no reason to oppose.%K%P
+
+0x2CA4
+Yuka「Glad to hear it♪ Then it's decided.」%K%P
+
+0x2CB0
+Yuka's in a very good mood.%K%P
+
+0x2CBC
+Okuhiko「Incidentally, I plan on going diving tomorrow...」%K%P
+
+0x2CC8
+Yuka「Then we'll meet up here tomorrow...」%K%P
+
+0x2CD4
+Once again, she ignores Okuhiko's comment.%K%P
+
+0x2CE0
+Yuka「As for now, I guess we'll call it a day and go back.」%K%P
+
+0x2CEC
+Izumi「Right. Well then, please be careful.」%K%P
+
+0x2D08
+Kurumi「Bye-bye♪」%K%P
+
+0x2D14
+We say goodbye to Kurumi and Izumi-san, then leave%NLunabeach.%K%P
+
+0x2D20
+Honestly, I would have liked to stay with Kurumi a little%Nlonger...%K%P
+
+0x2DA4
+We decide to walk down Moon Beach instead of the%Npaved road.%K%P
+
+0x2DB0
+As I am the last one to leave the shop, I follow the others%Nfrom behind.%K%P
+
+0x2DBC
+At the head are Yuka and Saki, who are talking about%Nstories from their past.%K%P
+
+0x2DC8
+Okuhiko, true to his skirt-chaser nature, looks at%NHaruka's face again and again while attempting to strike%Nup a conversation.%K%P
+
+0x2DD4
+... Suddenly, I stop walking.%K%P
+
+0x2DE0
+Now that I think about it, it was right about now that I%Nfound that "bell" washed up on the beach!%K%P
+
+0x2DEC
+I threw the bell back into the ocean... and somehow%NKurumi picked it up on Princess Beach.%K%P
+
+0x2DF8
+Why on Princess Beach? ―That's not the current%Nproblem!%K%P
+
+0x2E04
+The important part is the fact that "in my dream on the%Nmorning of the 1st in the last loop, that bell was there."%K%P
+
+0x2E10
+And yesterday, it was in Kurumi's palm as well...%K%P
+
+0x2E1C
+Perhaps if it weren't for that bell, that tragedy might not%Nhave occurred.%K%P
+
+0x2E28
+No, that's definitely true.%K%P
+
+0x2E34
+Of course, it's not like the bell was the direct cause of%Nthat incident...%K%P
+
+0x2E40
+... But if I could annihilate that bell from this world, then I%Nshould be able to sever the infinite loop!%K%P
+
+0x2E4C
+If that bell is gone, then the chances of the%Ncircumstances being the same as that dream will%Nbecome 0％.%K%P
+
+0x2E58
+In other words, it would be absolutely impossible for the%Nsame event as that dream to occur!%K%P
+
+0x2E64
+Why didn't I realize such an important thing until now?%K%P
+
+0x2E70
+Because I've been thinking too much today, my head's%Nbeen going in circles!%K%P
+
+0x2E7C
+Well, that doesn't matter.%K%P
+
+0x2E88
+―Anyway, I've got to hurry and look for the bell!%K%N
+
+0x2E94
+... Be that as it may, it still doesn't change the fact that%Nit's been six days.%K%P
+
+0x2EA0
+I've forgotten exactly where the bell was.%K%P
+
+0x2EAC
+I decide to check only the wet sand, where the waves%Nare washing up...%K%P
+
+0x2EB8
+As I begin to look, I totter and meander on the sand as I%Nbegin investigating...%K%P
+
+0x2EC4
+... ... ...%K%P
+
+0x2ED0
+―It's not here!%K%N
+
+0x2EDC
+Why isn't it here!?%K%P
+
+0x2EE8
+I retrace my steps one more time, concentrating as hard%Nas I can while looking more carefully at my feet...%K%P
+
+0x2F2C
+??「What are you doing?」%K%P
+
+0x2F38
+Someone suddenly calls out to me from behind.%K%P
+
+0x2F44
+When I turn around in surprise...%K%P
+
+0x2F58
+Makoto「K-Kurumi...!」%K%P
+
+0x2F64
+Kurumi「You looking for something?」%K%P
+
+0x2F70
+Makoto「N-No... just jellyfish.」%K%P
+
+0x2F7C
+Kurumi「You were looking for jellyfish in a place like this?」%K%P
+
+0x2F88
+Makoto「P-Perhaps one of them washed ashore, you know...?」%K%P
+
+0x2F94
+Kurumi「Is there any sort of jellyfish even stupid enough to be%Nthis close?」%K%P
+
+0x2FA0
+Makoto「They're very rare... I heard long ago that there were%Nsome here, so I thought I'd look here.」%K%P
+
+0x2FAC
+Kurumi「Hmm...」%K%P
+
+0x2FB8
+Makoto「Hahahahahahahaha...」%K%P
+
+0x2FC4
+I attempt to fake a laugh.%K%P
+
+0x2FD0
+Kurumi「... Do you like jellyfish?」%K%P
+
+0x2FDC
+Makoto「You could say I'm quite the jellyfish maniac.」%K%P
+
+0x2FF0
+Kurumi「Wow～. Then you're the same as Kurumi.」%K%P
+
+0x2FFC
+Makoto「I see... what an unexpected coincidence...」%K%P
+
+0x3008
+Kurumi「Eheh♪」%K%P
+
+0x3014
+Kurumi smiles... Such a nostalgic smile...%K%P
+
+0x3020
+My heart beats faster.%K%P
+
+0x302C
+Makoto「... Come to think of it, what were you doing here?」%K%P
+
+0x3040
+Kurumi「Well, you see, there's something that Kurumi forgot to tell%NOkuhiko-kun...」%K%P
+
+0x304C
+Makoto「Okuhiko?」%K%P
+
+0x3058
+Kurumi「That tomorrow, there will be high waves, so he can't go%Ndiving!」%K%P
+
+0x3064
+Oh, I see... that was it...%K%P
+
+0x3070
+Makoto「Then do you want me to tell him?」%K%P
+
+0x307C
+Kurumi「Nope. Kurumi already did that, so it's fine.」%K%P
+
+0x3088
+When did she...%K%P
+
+0x3094
+Ah, I get it... up until now, I've been looking down this whole%Ntime, so I didn't notice her...%K%P
+
+0x30A0
+Kurumi「Well then, Kurumi will be going now.」%K%P
+
+0x30AC
+Makoto「Sure... I'll see you tomorrow.」%K%P
+
+0x30B8
+Kurumi「Good night～♪」%K%P
+
+0x30DC
+Kurumi runs down the beach.%K%P
+
+0x30E8
+Yuka「Geez, Makoto! How long do you plan on making us wait!?」%K%P
+
+0x30F4
+Yuka's voice reaches me from the end of the beach.%K%P
+
+0x3100
+Makoto「Sorry... don't wait up for me!!」%K%P
+
+0x310C
+I shout this back.%K%P
+
+0x3118
+Yuka draws a check sign on her forehead to show she%Nunderstands.%K%N
+
+0x3124
+Everyone goes down the banks one by one, and%Ndisappears.%K%P
+
+0x3130
+(There's no way I can go back until I find that bell...)%K%P
+
+0x313C
+...%K%N
+
+0x3148
+I continue to search for the bell for two more hours...%K%P
+
+0x31DC
+In the end, I never found the bell.%K%P
+
+0x31E8
+But strangely, I don't feel bad about it.%K%P
+
+0x31F4
+On the other hand, I'm feeling quite happy.%K%P
+
+0x3200
+If I couldn't find the bell after all of that, then that means%N"the bell is gone."%K%P
+
+0x320C
+"The bell is gone,"―in other words, it means that%Nhistory has changed.%K%P
+
+0x3218
+That bell probably won't appear in this world ever again.%K%P
+
+0x3224
+And if that bell is gone, then that tragedy won't...%K%P
+
+0x3230
+I fall asleep feeling at peace...%K%P
+

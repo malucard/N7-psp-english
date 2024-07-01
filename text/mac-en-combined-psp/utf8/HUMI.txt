@@ -1,0 +1,471 @@
+text area offset and size:
+0xD78
+0x275C
+0x64
+Even though she shouldn't be far ahead, I still lose sight%Nof Haruka at the forest path.%K%P
+
+0x70
+When I come out of the forest road and into the%Ncoastline, I arrive at a crossroads.%K There's this small%Ncove called Princess Beach, to the west, and it seems%Nlike the east leads to a long beach called Moon Beach.%K%P
+
+0x7C
+Where should I go? ―It's at that moment that I see%NHaruka heading towards "Princess Beach". But... she%Nvanishes shortly afterwards, as if she were a mirage...%K%P
+
+0xA4
+I start running towards "Princess Beach".%K%P
+
+0x12C
+As I walk on Princess Beach, I get the feeling that this%Nplace surrounded by rock is a private beach.%K%P
+
+0x138
+Haruka is nowhere to be found. I'm starting to think that it%Nreally was a mirage...%K%P
+
+0x154
+No, I see her. I start running again. Standing in the corner%Nof the rock wall is a small, deserted barracks hut.%K%P
+
+0x160
+It must have belonged to a fisherman in the past. In front%Nof the hut is a beached, rotten ship. Said fisherman%Nprobably used it to go fishing.%K%P
+
+0x16C
+Haruka is sitting on the bow of the ship, firmly staring at%Nthe ocean. Her soft hair sways in the sea breeze.%K%P
+
+0x178
+I'm unable to move, as if my soul had been drained from%Nmy body. It feels like someone's telling me that I mustn't%Nget any closer.%K%P
+
+0x184
+Haruka suddenly looks this way. Our eyes meet. I try to%Nsay something.%K%P
+
+0x190
+―I can't. My throat has become parched.%K%P
+
+0x1C0
+Haruka「... Why?」%K%P
+
+0x1CC
+Makoto「...」%K%P
+
+0x1D8
+Haruka「Why are you here?」%K%P
+
+0x1E4
+Makoto「I don't really know...」%K%P
+
+0x1F0
+Haruka「Why?」%K%P
+
+0x1FC
+As I gaze into Haruka's large eyes, I can neither answer%Nher nor move.%K
+
+0xD38
+Attempt to put my feelings into words.
+
+0xD44
+Lie with: "I also wanted to see the ocean."
+
+0x244
+Makoto「That's... that is, you, um...」%K%P
+
+0x250
+Haruka「You?」%K%P
+
+0x25C
+Makoto「Well, by 'you'... I meant-」%K%P
+
+0x268
+Haruka「Meant what?」%K%P
+
+0x274
+Makoto「No, it's just, I came chasing after you, didn't I? That's%Nwhat I meant by 'you'.」%K%P
+
+0x280
+Haruka「I don't understand.」%K%P
+
+0x28C
+Makoto「I don't get it myself either.」%K%P
+
+0x298
+I honestly don't. As if trying to dodge her question, I%Nlaugh, but Haruka doesn't even try to smile.%K%P
+
+0x2A4
+Haruka「It doesn't matter...」%K%P
+
+0x2B0
+Makoto「Huh?」%K%P
+
+0x2BC
+Haruka「You didn't need to look for me... Because I'm different...」%K%P
+
+0x2C8
+Makoto「'Different'...」%K%P
+
+0x2D4
+Haruka「Because I'm different, it's fine...」%K%P
+
+0x2E8
+Makoto「What do you mean, 'fine'...?」%K%P
+
+0x2FC
+Makoto「Because I also wanted to see the ocean.」%K%P
+
+0x308
+I instantly say the first words that come to mind.%K%P
+
+0x314
+I wanted to see the ocean? Me? ... That's complete%Nbullshit.%K%P
+
+0x320
+Then what was the real reason?%K%P
+
+0x32C
+I don't understand that either.%K%P
+
+0x338
+Haruka「...」%K%P
+
+0x344
+Haruka says nothing.%K%P
+
+0x358
+She suddenly turns away from me, and looks out%Ntowards the ocean.%K%P
+
+0x364
+Did she figure out that it was a lie...?%K%P
+
+0x378
+As she begins to walk out towards the ocean, I call out%Nto her.%K%P
+
+0x384
+Makoto「Ah... W-Wait...」%K%P
+
+0x3A0
+Just as I'm about to continue speaking, I hear Yuka and%NOkuhiko's voices in the distance.%K%P
+
+0x3AC
+Yuka「Makoto! Haruka! Where are you...!?」%K%P
+
+0x3B8
+Okuhiko「Haruka-chan...!」%K%P
+
+0x3E0
+I turn around to find small human figures walking down the%Ncoastline road.%K%P
+
+0x3EC
+Makoto「Hey! Over here! O...!」%K%P
+
+0x3F8
+Just as I raise my hand to wave, my mouth is covered%Nfrom behind. I cock my head in puzzlement.%K%P
+
+0x40C
+It's Haruka. Before I knew it, Haruka had come up behind%Nme!%K%P
+
+0x418
+Makoto「Mmgh... umph...!」%K%P
+
+0x42C
+Haruka「Don't move.」%K%P
+
+0x438
+She's covering my mouth with incredible strength. Her%Nglare is piercing me.%K%P
+
+0x44C
+Haruka「Can you be quiet?」%K%P
+
+0x458
+All I can do is nod. I clumsily nod countless times.%K%P
+
+0x464
+Satisfied, Haruka lets go. Phew! As I take a deep breath,%Nshe quickly grabs my hand and jerks me along.%K%P
+
+0x470
+Makoto「―!」%K%P
+
+0x47C
+Haruka「Come on.」%K%P
+
+0x49C
+Yuka and Okuhiko's voices are getting closer. Haruka%Nswiftly climbs up the wrecked ship.%K%P
+
+0x4A8
+She drags me towards the deck. I exclaim in surprise as I%Nboard the ship.%K%P
+
+0x4B4
+The cabin in the center of the deck looks like a mess,%Nworn down by years of decay and neglect.%K%P
+
+0x4C0
+Despite the danger, Haruka enters the cabin. I frantically%Nchase after her.%K%P
+
+0x524
+It's pleasantly cool inside the cabin. On the tattered%Nwalls, I see several bugs here and there crawling%Nthrough gaping holes that allow me to see outside. A%Nsea roach enters the room.%K%P
+
+0x538
+Haruka is staring at it. For some reason, her face%Nbrightens up. Does she like those things?%K
+
+0xD50
+Nah, that can't be...
+
+0xD5C
+Bluntly ask her, "Do you like them?"
+
+0x578
+Nah, that can't be...%K%P
+
+0x584
+I don't understand what she finds so fascinating about%Nthem.%K%P
+
+0x590
+Maybe she doesn't actually like sea roaches,%K%N
+
+0x59C
+but is perhaps studying them for scientific purposes.%K%P
+
+0x5A8
+Maybe she intends to write a thesis about the ecology%Nof sea roaches in the future...%K%P
+
+0x5B4
+Yeah, that's right. It must be that.%K%P
+
+0x5C0
+That's why she's observing it so intently.%K%P
+
+0x5CC
+Makoto「... Hey, how's your research going?」%K%P
+
+0x5D8
+I try casually asking her about it.%K%P
+
+0x5EC
+Haruka「... Research?」%K%P
+
+0x5F8
+She looks at me with a bewildered expression.%K%P
+
+0x604
+Huh? I-I was wrong!?%K%P
+
+0x620
+Makoto「Do you like them?」%K%P
+
+0x62C
+I try asking her.%K%P
+
+0x638
+Haruka nods.%K%P
+
+0x644
+Huh? Why sea roaches, of all things...?%K%P
+
+0x650
+I can't understand Haruka's tastes.%K%P
+
+0x65C
+Makoto「Well, what part about them do you like?」%K%P
+
+0x668
+Haruka「...」%K%P
+
+0x674
+Haruka「Because it's the first time I've seen one.」%K%P
+
+0x680
+... That just confuses me even more.%K%P
+
+0x68C
+It's not what she said, but rather her logic,%K
+
+0x698
+which is like that of a kindergartener.%K%P
+
+0x6A4
+They're always excited over things they have never%Nseen before, particularly extraordinary things.%K%N
+
+0x6B0
+That's probably why she doesn't find them revolting.%K%P
+
+0x6BC
+Makoto「Just like earthworms, or atractylodes...」%K%P
+
+0x6D0
+Haruka「...?」%K%P
+
+0x6DC
+Makoto「They're all living... aren't they...?」%K%P
+
+0x6E8
+I have no clue why I just said that.%K%P
+
+0x6FC
+However, Haruka quietly nods, as if she understands me.%K%P
+
+0x760
+Soon, we hear Yuka and Okuhiko's voices and footsteps%Napproach us.%K%P
+
+0x76C
+Okuhiko「I don't think they went to a dreary place like this.」%K%P
+
+0x778
+Yuka「Geez, I wonder if Makoto's found Haruka yet?」%K%P
+
+0x784
+Okuhiko「It was a mistake to leave it to Ishihara.」%K%P
+
+0x790
+Yuka「Makoto's just spacing out.」%K%P
+
+0x79C
+Damn you, Yuka... Don't talk about people behind their%Nbacks! Don't just agree with whatever Okuhiko says%Neither! And why the hell are you saying my name without%Nany honorifics...%K%P
+
+0x7A8
+―Huh?? Yuka??%K%P
+
+0x7B4
+(Come to think of it, I've just been calling her "Yuka"%Nwithout any honorifics either!)%K%P
+
+0x7C0
+Thinking about it carefully, I realize that it hasn't just%Nbeen Yuka. I've been addressing Haruka and Okuhiko%Nwithout any honorifics either, haven't I?%K%P
+
+0x7CC
+(Why's that...? And in the first place, isn't it weird that I%Ndidn't notice this straight from the get-go?)%K%P
+
+0x7D8
+Haruka places her hand on my shoulder, jolting me away%Nfrom my thoughts.%K%P
+
+0x7EC
+Haruka「It seems they've gone.」%K%P
+
+0x814
+I can no longer hear Yuka or Okuhiko's voices anymore. I%Ncan't feel their presences either.%K%P
+
+0x828
+When I nod, Haruka gets out of the cabin.%K Taking a deep%Nbreath, I follow after her.%K%P
+
+0x860
+As I exit outside, I see Haruka jumping off the ship. Sand%Nflies around her clothes.%K%P
+
+0x86C
+Just like that, Haruka walks towards the ocean.%K%N
+
+0x878
+She doesn't even brush the sand off. She kicks off her%Nshoes as if she intends to completely strip to go%Nswimming.%K%P
+
+0x8A8
+I dumbfoundedly watch her. She does it so naturally, as%Nif it required no second thought...%K%P
+
+0x8B4
+Makoto「Haruka!」%K%P
+
+0x8DC
+Taken aback as I notice this, I shout. Haruka quickly%Nturns around.%K%P
+
+0x8E8
+I jump off the wrecked ship and run over to her.%K Even%Nthough I've caught her attention, I realize that I have%Nnothing to say.%K%P
+
+0x8F4
+Haruka「What?」%K%P
+
+0x900
+Makoto「N-No, it's just, you...」%K%P
+
+0x90C
+"Were you planning to strip?" There's no way I can say%Nsomething like that.%K%P
+
+0x918
+Haruka「Did you think I was going to strip naked?」%K%P
+
+0x924
+Makoto「... N-No way.」%K%P
+
+0x930
+Having been seen right through, I try to fake another%Nclumsy laugh. As expected, Haruka doesn't react.%K%P
+
+0x93C
+Instead, her eyes are fixed on the faraway horizon as%Nshe dips her feet in the water.%K%P
+
+0x948
+Makoto「Anyway, I wanted to ask... why you ran away from Yuka%Nand Okuhiko.」%K%P
+
+0x954
+Haruka「I prefer being alone...」%K%P
+
+0x960
+Makoto「Huh? Even though you say that, we're at this camp...%NThere's no point in isolating yourself. Besides, aren't%Nyou lonely?」%K%P
+
+0x96C
+Haruka「Lonely? Why?」%K%P
+
+0x978
+Makoto「Even if you say 'why', being alone is just...」%K%P
+
+0x984
+Haruka「I don't understand...」%K%P
+
+0x990
+Makoto「Huh?」%K%P
+
+0x99C
+Haruka「Because I... am nothing.」%K%P
+
+0x9A8
+Makoto「What?」%K%P
+
+0x9B4
+Haruka「Because I have no heart...」%K%P
+
+0x9C0
+Makoto「Come again?」%K%P
+
+0x9CC
+Haruka「Because I have no heart... I don't understand.」%K%P
+
+0x9E0
+Makoto「??」%K%P
+
+0x9EC
+Haruka walks away without even looking at me...%K%P
+
+0x9F8
+What was that? I don't get it at all. "I have no heart"?%NWhat is she saying?%K%P
+
+0xA04
+Though I want to ask her more about it, I swallow my%Nwords.%K%P
+
+0xA10
+My eyes are completely captivated by the sight of%NHaruka walking down the beach.%K%P
+
+0xA1C
+The atmosphere is unworldly...%K%P
+
+0xA28
+The waves go in and out, striking Haruka's nearly%Ntransparent bare feet rhythmically. Haruka's legs shine%Nas they are bathed by the sunlight.%K%P
+
+0xA34
+The wind plays with her hair and gently caresses my%Nface.%K
+
+0xA40
+A wild fancy strikes me. ... Is she not human? Did she%Ncome from the bottom of the ocean? Or is she someone%Nfrom a different planet or another dimension? Nah, no%Nway...%K%P
+
+0xA94
+―I wonder how long I've been watching Haruka?%K%P
+
+0xAA0
+Until Haruka leaves Princess Beach, it's as if my soul was%Ndrained from my body.%K%P
+
+0xAAC
+As I notice Haruka going far off into the distance, I panic%Nand chase after her.%K%P
+
+0xB14
+At the same time I catch up to Haruka, I see Yuka and%NOkuhiko heading towards us from the other side.%K%P
+
+0xB44
+Yuka「Ah, found you. Just where did you go? Geez...」%K%P
+
+0xB58
+She tells us that they went looking for us, but came back%Nafter searching Moon Beach.%K%P
+
+0xB64
+Because they didn't find us, she said they'd decided to%Nwait back at the lodge.%K%P
+
+0xB70
+I quickly come up with a quick excuse and then I say...%N"We've finally met up here, so we don't need to go back%Nto the lodge"... so the four of us decide to leave for the%Nshopping district.%K%P
+
+0xB7C
+Well, considering how deserted that district is, 'leave for'%Nmight not be the best way to put it...%K%P
+

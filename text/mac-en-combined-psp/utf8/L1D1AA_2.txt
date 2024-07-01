@@ -1,0 +1,348 @@
+text area offset and size:
+0x908
+0x1CC1
+0x5C
+The ceiling is quite drafty...%K%N
+
+0x68
+The room is rather spacious...%K%N
+
+0x74
+Everything in it is new and well organized, like a%Nshowroom.%K%P
+
+0x80
+On the south wall is a huge glass window.%K%N
+
+0x8C
+It offers a fantastic view of the vast blue ocean.%K%P
+
+0x98
+There's no one else here yet.%K%N
+
+0xA4
+Yuka probably went back to her own room.%K%P
+
+0xB0
+I feel like relaxing, so I approach the sofa.%K%P
+
+0xBC
+Suddenly, I notice someone's placed an aluminum%Nashtray on top of it.%K%N
+
+0xC8
+Lying in the ashtray is a lone cigarette butt.%K%P
+
+0xD4
+Makoto「Geez, what idiot put an ashtray here of all places...?」%K%P
+
+0xE0
+I pick it up and place it on top of a round table in front of%Nme.%K%N
+
+0xEC
+With that, I sink into the soft sofa.%K%P
+
+0xF8
+Beyond the huge glass window, the morning sun shines%Nin from the east, its reflection sparkling on the ocean.%K%P
+
+0x104
+It's quite a breathtaking scenery. Positioning myself so%Nthat I can see it better, I blankly stare out at the ocean%Nfor a while...%K
+
+0x8C8
+Try to put my thoughts together.
+
+0x8D4
+Just relax.
+
+0x144
+I... try to pull my thoughts together.%K%P
+
+0x150
+―First, the camp.%K%N
+
+0x15C
+Well, I say "camp", but this isn't for a school club or%Nanything.%K%P
+
+0x168
+The "Seminar Camp". ... In all of my 20 long years of life,%Nthis is the first time I've ever heard of such a bizarre%Ncamp.%K%P
+
+0x174
+Truthfully, I don't really understand much about my%Ncollege's various systems, as I skipped classes often.%K%P
+
+0x180
+At the start of last month, when the final exam results%Nand the list of those who were or weren't advancing to%Ntheir next grade were posted, I quickly peeked at the%Nboard, and saw...%K%P
+
+0x18C
+"Roster of Literature Department Psychology Major%NSeminar Members."%K%P
+
+0x198
+... It was from that announcement that I learned for the%Nfirst time that I was assigned to "The (Something)%NSeminar's 5th Camp Group: Kawashima Party".%K%P
+
+0x1A4
+(The Seminar Camp's official name is... Err... I forgot.)%K%P
+
+0x1B0
+(But anyway, what the hell does it mean by "Seminar"!?)%K%P
+
+0x1BC
+Next to that roster was a sheet of paper, which said...%K%P
+
+0x1C8
+(The Seminar Camp is designed to be as an informal%Nsocial gathering between members of each group of the%N(Something) Seminar, as listed.)%K%P
+
+0x1D4
+(Due to the capacity of each camping lodge and other%Ncircumstances, each group will be lodging in at a%Ndifferent day and time, so pay close attention to your%Nown.)%K%P
+
+0x1E0
+(Furthermore, if you cannot attend for a certain reason,%Nyou must submit a report.)%K%P
+
+0x1EC
+(If you don't and are absent without permission, you will%Nimmediately be expelled, regardless of your reasons.)%K%P
+
+0x1F8
+... From what I can remember.%K%P
+
+0x204
+Ours, the Kawashima Party, was assigned to the lodge%Nfrom (Sunday, March 31st-Sunday, April 7th.)%K%P
+
+0x210
+The bottom of the note read: "Other details will be given%Nby your designated group leader. That is all."%K%P
+
+0x21C
+Of course, it makes sense that the leader of the%NKawashima Party was Kawashima herself.%K%P
+
+0x228
+Right. In other words, that half asleep girl from earlier who%Nbarged into my room.%K%P
+
+0x234
+A few days later, she called me about what I'd seen on%Nthe board.%K%P
+
+0x248
+Yuka「... Then I'll tell the other two members that 'We have to%Nmeet on-site, no matter what.'」%K%P
+
+0x254
+Yuka「... Oh, that's all right. You'll get the boat ticket if you go to%Nthe Student Affairs office...」%K%P
+
+0x260
+Yuka「Yeah... Yeah... Um... You'll have until the night of the 31st to%Nget there, so you should be fine.」%K%P
+
+0x26C
+Yuka「Well then, I'll see you there!」%K%P
+
+0x280
+... I ended up arriving here last night about... a little past%N10:00?%K%P
+
+0x28C
+I live about 124 miles from here, but I still managed to%Nmake it here - this island in the middle of nowhere -%Nsafely.%K%P
+
+0x298
+Honestly, I feel like I was dragged so far from home for no%Nreason.%K%P
+
+0x2A4
+...%K%P
+
+0x2B8
+I... think about nothing, and just relax.%K%P
+
+0x2C4
+... ... ...%K%P
+
+0x2E0
+Soon enough...%K%P
+
+0x308
+... The door to the living room slowly opens.%K%P
+
+0x314
+The one who comes in is...%K%P
+
+0x350
+... Huh??%K%N
+
+0x35C
+Oh, yeah. That's right... Come to think of it, I don't think I've%Nheard this girl's name yet...%K%P
+
+0x368
+Makoto「Good morning.」%K%P
+
+0x374
+I greet her cheerfully.%K%P
+
+0x390
+??「...」%K%P
+
+0x39C
+I wait several seconds for a reply, only to get none in%Nreturn.%K%P
+
+0x3C8
+The girl completely ignores me and quickly disappears%Ninto the kitchen, as if nothing had happened.%K%P
+
+0x3D4
+No, she might not have ignored me intentionally, as it%Nseemed to be an unconscious and natural behavior for%Nher.%K%P
+
+0x3E0
+For instance, if she thought she heard the greeting%Ncoming from the TV, then she probably would have%Nignored it.%K%P
+
+0x3EC
+Having been ignored, I become determined to clear up%Nthis "good morning" issue, so I stagger to my feet and%Nhead for the kitchen.%K%P
+
+0x47C
+In an attempt to fix the situation, I face her and try to%Nsay "Good morning", again.%K%P
+
+0x488
+Makoto「Good morning.」%K%P
+
+0x494
+??「...」%K%P
+
+0x4BC
+Without a word, she turns the sink faucet, filling her glass%Ncup with water.%K%P
+
+0x4C8
+With a tiny sound, she drinks the entire cup in one large%Ngulp.%K
+
+0x8E0
+Third time's the charm.
+
+0x8EC
+Try saying something else.
+
+0x524
+I can't give up now.%K%N
+
+0x530
+I should keep trying, shouldn't I?%K%P
+
+0x53C
+Makoto「Good morning!」%K%P
+
+0x548
+The girl places her empty cup at the bottom of the sink%Nand sighs as she mutters...%K%P
+
+0x554
+??「Good morning.」%K%P
+
+0x560
+However, she says this without looking at me.%K%P
+
+0x56C
+It's almost as if she's greeting the water dripping from%Nthe faucet instead.%K%P
+
+0x578
+Makoto「Say... Did I... offend you... somehow?」%K%P
+
+0x584
+??「Why do you think that?」%K%P
+
+0x590
+Her gaze is still fixed on the faucet.%K%P
+
+0x59C
+Makoto「Why...? Well, because... Because it kinda feels like you're...%Navoiding me.」%K%P
+
+0x5A8
+??「...」%K%P
+
+0x5B4
+She doesn't answer me.%K%P
+
+0x5C0
+Not only does she not answer, she doesn't move at all.%K%N
+
+0x5CC
+At this rate, no matter how much I persist, it feels like%Nshe'll never speak again for all eternity.%K%P
+
+0x5D8
+Makoto「Sorry.」%K%P
+
+0x5E4
+I feel like I need to apologize.%K%N
+
+0x5F0
+I probably shouldn't have pestered her like that.%K%P
+
+0x5FC
+(I've got to apologize for being rude, right?)%K%P
+
+0x608
+Just then, she opens her small mouth to speak.%K%P
+
+0x614
+??「It's because...」%K%P
+
+0x624
+??「It's because... I'm different...」%K%P
+
+0x658
+Makoto「So, did you sleep well last night?」%K%P
+
+0x664
+Those words sounded incredibly forced and clich▲d.%K%N
+
+0x670
+I feel my face flush from embarrassment.%K%P
+
+0x67C
+Makoto「I mean, not to be rude, but you don't look like you slept%Nmuch.」%K%P
+
+0x688
+??「...」%K%P
+
+0x694
+No answer.%K%N
+
+0x6A0
+Instead, the absentminded girl just watches the water%Ndrip from the faucet.%K%P
+
+0x6AC
+Makoto「Oh, you're not feeling depressed, are you? After all, you%Nwere taken away from your precious spring break%Nagainst your will. Honestly, I'm bummed about that, too.」%K%P
+
+0x6B8
+??「...」%K%P
+
+0x6C4
+Makoto「But you know, it can't be helped. It's too late now. So let's%Nmake the best of it. Okay?」%K%P
+
+0x6D0
+Makoto「I mean, if we're going to spend the week here, then it'd be%Nbest to pass our time at this camp as optimistically, as%Nproductively, and as energetically as we-」%K%P
+
+0x6DC
+??「It's meaningless.」%K%P
+
+0x6E8
+The girl says this quite suddenly.%K%P
+
+0x6F4
+??「I have nothing to gain from that.」%K%P
+
+0x700
+Makoto「'Nothing to gain'...?」%K%P
+
+0x70C
+These words make my mouth run dry.%K%N
+
+0x718
+I'm speechless.%K%P
+
+0x724
+??「Because I...」%K%P
+
+0x734
+??「Because I... am nothing...」%K%P
+
+0x740
+Makoto「What?」%K%P
+
+0x754
+Before I can ask again, she slips right by me and returns%Nto the living room.%K%P
+
+0x7AC
+Up until earlier, I had been sitting down on the comfy sofa.%K%N
+
+0x7B8
+But now, the girl is sitting where I was in a demure manner.%K%P
+
+0x7C4
+While trying to think about what to say...%K%P
+
+0x7FC
+... It's at that point that "he" shows up, entering the living%Nroom while rubbing the sleep out of his eyes.%K%P
+

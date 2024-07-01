@@ -1,0 +1,216 @@
+text area offset and size:
+0x5A0
+0xBF7
+0x98
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+
+0xA4
+Still half asleep, I blankly stare into space.%K%P
+
+0xB0
+It's a familiar... ceiling...%K%P
+
+0xBC
+I realize I'm freezing, my body soaked with sweat all over.%K%P
+
+0xC8
+I take a deep breath and slowly exhale.%K%P
+
+0xD4
+The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+
+0xE0
+It takes me three more breaths until...%K%P
+
+0xEC
+Makoto「Huh...?」%K%P
+
+0xF8
+Makoto「T-This is...」%K%P
+
+0x104
+Makoto「The lodge...」%K%P
+
+0x110
+Makoto「... This is the lodge, isn't it!?」%K%P
+
+0x150
+I quickly jump out of the bed.%K%P
+
+0x15C
+I stand in the center of the room, and look around.%K%P
+
+0x168
+(There's no mistaking it...)%K%P
+
+0x174
+(This is my bedroom!)%K%P
+
+0x180
+What's going on?%K%P
+
+0x18C
+Then... Then... the dream I had just now...%K%P
+
+0x198
+―That's wrong!%K%P
+
+0x1A4
+―That's wrong! What the hell am I saying!?%K%P
+
+0x1B0
+―That wasn't a "dream"!!%K%P
+
+0x1BC
+―There's no way in hell that was a "dream"...%K%P
+
+0x200
+Suddenly, I hear a sound as violent as a gunshot!%K%P
+
+0x20C
+I turn around, and standing there, I see...%K%N
+
+0x218
+I see...%K%P
+
+0x268
+Yuka「Wh... What's going on!?」%K%P
+
+0x274
+"Yuka..."%K%P
+
+0x280
+I try to speak, but the words won't seem to come out...%K%P
+
+0x28C
+Yuka「Why...!?」%K%P
+
+0x298
+Yuka's... Yuka's... right here!%K%P
+
+0x2A4
+Her breathing is shallow as her shoulders start to%Ntremble...%K%P
+
+0x2B0
+Her hair is swaying...%K%P
+
+0x2BC
+Her face is lively and damp with trails of sweat...%K%P
+
+0x2C8
+Her soft lips... her small, white teeth...%K%P
+
+0x2D4
+Her red, smooth... tongue...%K%P
+
+0x2E0
+Tears well up in the inner corners of her eyes.%K%P
+
+0x2EC
+My heart feels like it's being tightly crushed.%K%P
+
+0x2F8
+Yuka's...%K%P
+
+0x304
+... alive...%K%P
+
+0x310
+She's alive right here, right now!!%K%P
+
+0x348
+I run over and embrace Yuka closely.%K%P
+
+0x354
+We tightly cling to each other, as if we want to melt into%Neach other and become one.%K%P
+
+0x360
+Yuka「Ma... Makoto...」%K%P
+
+0x36C
+Yuka's warmth begins to seep into my body.%K%P
+
+0x378
+Our loud, pounding heartbeats overlap.%K%P
+
+0x384
+Her damp breaths caress my neck...%K%P
+
+0x390
+Yuka「Then, did we... did we...」%K%P
+
+0x39C
+Yuka throws out these bewildered words.%K%P
+
+0x3A8
+She still hasn't gotten a hold of herself.%K%P
+
+0x3B4
+Yes... I'm the same way.%K%P
+
+0x3C8
+When I tear Yuka's body off of me, I slowly raise my left%Nhand.%K%P
+
+0x3D4
+Yuka leans in close as we both look at my watch's face.%K%P
+
+0x3E0
+(1 MON 9:19 A.M.)%K%P
+
+0x3EC
+Makoto「Somehow...」%K%P
+
+0x3F8
+Makoto「... It seems to be that way. In other words, we―」%K%P
+
+0x404
+Before I can finish talking, Yuka dives towards me.%K%P
+
+0x410
+The impact knocks me back to the wall as I stagger on%Nmy feet.%K%P
+
+0x41C
+Even so, Yuka presses herself against me.%K%P
+
+0x428
+She buries her face into my chest while...%K%P
+
+0x450
+... crying.%K%P
+
+0x45C
+Her small back sways unsteadily, as if she's heaving.%K%P
+
+0x470
+Yuka「Makoto... Makoto...」%K%P
+
+0x47C
+Yuka continues to whisper this.%K%P
+
+0x488
+It's as if she's trying to confirm that the "me" right%Nbefore her eyes is real...%K%P
+
+0x494
+Makoto「It's all right, it's all right...」%K%P
+
+0x4A0
+Makoto「I'm... right here...」%K%P
+
+0x4AC
+Yuka is heaving with sobs.%K%P
+
+0x4B8
+It's like she's a lost child who can only cry and cry over%Nand over again.%K%P
+
+0x4C4
+I bring Yuka's soft hair close to my lips.%K%P
+
+0x4D0
+The tip of my nose brushes against her hair.%K%P
+
+0x4DC
+That bewitching, sweet scent captivates me.%K%P
+
+0x4E8
+It's the scent of Yuka's life...%K%P
+

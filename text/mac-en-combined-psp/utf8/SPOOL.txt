@@ -1,0 +1,354 @@
+text area offset and size:
+0x9F0
+0x1683
+0x44
+Her dazzling, marble-like white skin makes it clear that%Nshe's been well bred, as expected...%K%P
+
+0x50
+Hmmmmm...%K%P
+
+0x6C
+I just stand there, admiring her for a while. I wonder if I%Nshould say something.%K
+
+0x9A0
+Pass by silently.
+
+0x9AC
+Praise her dazzling body?
+
+0x9B8
+Spontaneously introduce myself.
+
+0xBC
+Just when I decide to pass by silently...%K%P
+
+0xD0
+Just when I'm thinking about how I should praise her%Ndazzling body...%K%P
+
+0xDC
+Saki「Hey, don't look at me like that!」%K%P
+
+0xE8
+Makoto「Ah!!」%K%P
+
+0xF4
+I can't think of a comeback...%K%P
+
+0x100
+Saki「You can't do that kind of thing to a girl!」%K%P
+
+0x10C
+Makoto「Gah!!」%K%P
+
+0x118
+Why does Saki know that?%K%P
+
+0x124
+No, wait, does she really think I was looking at her like a%Npervert?%K%P
+
+0x130
+I am struck speechless by her embarrassing%Naccusation...%K%P
+
+0x13C
+Saki「Well, if you want to stare, then I don't really care...」%K%P
+
+0x148
+Dammit, she's so full of herself.%K%P
+
+0x154
+She's so obscene...%K%P
+
+0x160
+I leave her without a retort, and quickly head for the%Nstand.%K%P
+
+0x1C0
+When I reach the stand, I look back once, but Saki has%Nalready disappeared from the deck chair...%K%P
+
+0x1DC
+...%K%P
+
+0x1F8
+Makoto「Saki!」%K%P
+
+0x20C
+Saki「What the hell? Don't just drop the honorifics with me.%NYou're talking way too familiar with me!」%K%P
+
+0x218
+Saki「Well, it's not like I care...」%K%P
+
+0x224
+Makoto「Anyway, I realized that I haven't really introduced myself%Nto you!」%K%P
+
+0x230
+Saki「You don't really need to do that!」%K%P
+
+0x23C
+Makoto「It's fine, just listen!」%K%P
+
+0x248
+Makoto「My name is Makoto Ishihara, 20 years old, and my type%Nis...」%K%P
+
+0x254
+Saki「I told you, I'm fine!」%K%P
+
+0x260
+Saki「I thought I told you not to talk to me until I say so!」%K%P
+
+0x26C
+Makoto「...」%K%P
+
+0x278
+Saki「...」%K%P
+
+0x284
+Makoto「...」%K%P
+
+0x290
+Saki「So, what's your type, then!?」%K%P
+
+0x29C
+Makoto「No, never mind.」%K%P
+
+0x2A8
+Saki「You've already started talking, so finish what you were%Nsaying, dammit!」%K%P
+
+0x2B4
+She's quite a domineering woman, but I'm starting to find%Nher sassy attitude alluring.%K%P
+
+0x2C0
+Plus, I have to admit she's incredibly beautiful (in other%Nwords, she's hot).%K%P
+
+0x2CC
+This isn't bad at all...%K%P
+
+0x2D8
+Saki「Why the hell are you smirking!? Don't tell me it's some%Ncrap like 'love at first sight'!?」%K%P
+
+0x2E4
+"However, she's quite self-conscious." I barely manage%Nto stop myself from saying this out loud...%K%P
+
+0x2F0
+Makoto「That's a secret.」%K%P
+
+0x2FC
+Makoto「Would you like me to get you a drink?」%K%P
+
+0x308
+For now, I've got to make an excuse to get out of this%Nawkward situation.%K%P
+
+0x314
+Saki「All right, please get me a ginger ale.」%K%P
+
+0x320
+Makoto「Okay!」%K%P
+
+0x380
+With that cheerful reply, I go to the stand...%K%P
+
+0x38C
+... But unfortunately, they're sold out of ginger ale.%K%P
+
+0x398
+Well then, what should I do?%K
+
+0x9C4
+Go back and ask her.
+
+0x9D0
+Just get some beer.
+
+0x414
+Makoto「It seems they don't have ginger ale.」%K%P
+
+0x428
+Saki「What the hell!? If they didn't have any, then it would have%Nbeen fine if you just bought something else! Geez, this is%Nsomething a kid could do!」%K%P
+
+0x434
+You self-centered... I was just trying be nice...%K%P
+
+0x440
+Well, I might as well ask her now that I'm here.%K%P
+
+0x44C
+Makoto「Then will you be fine with beer?」%K%P
+
+0x458
+Saki「I'll be fine with anything!」%K%P
+
+0x464
+She's so bitchy...%K%P
+
+0x480
+Makoto「They're all out, so is beer okay?」%K%P
+
+0x4D0
+Saki「Don't say that when you've already bought it!」%K%P
+
+0x4DC
+Saki「Well, I don't really care.」%K%P
+
+0x51C
+While the two of us drink beer, I strike up a conversation.%K%P
+
+0x530
+Makoto「By the way, Saki, do you prefer strong alcohol?」%K%P
+
+0x53C
+Saki「Well, I like normal.」%K%P
+
+0x548
+Makoto「How much is normal?」%K%P
+
+0x554
+Saki「Normal is normal.」%K%P
+
+0x560
+Makoto「So how much?」%K%P
+
+0x574
+Saki「You're so damn persistent! If I say normal, I mean normal!」%K%P
+
+0x580
+Makoto「...」%K%P
+
+0x58C
+We never seem to be able to get a pleasant%Nconversation rolling.%K%P
+
+0x598
+I'll try changing the topic.%K%P
+
+0x5A4
+Makoto「So why did you come to this island in the boonies all%Nalone?」%K%P
+
+0x5B0
+Saki「I'm just summering!」%K%P
+
+0x5BC
+Makoto「You're 'summering' even though it's still April?」%K%P
+
+0x5D0
+Saki「It's fine, isn't it!? Why the hell are you just asking me%Nquestions!?」%K%P
+
+0x5DC
+Makoto「...」%K%P
+
+0x5E8
+Saki「So, is anything going on between you and Yuka?」%K%P
+
+0x5F4
+Makoto「Huh?!」%K%P
+
+0x600
+Saki「I'm asking if something's going on between you two.」%K%P
+
+0x60C
+Makoto「I don't think I can decide that when we've only just met...」%K%P
+
+0x620
+Saki「Nevertheless, you two seem to be on pretty good terms,%Nno?」%K%P
+
+0x62C
+Saki's certainly right.%K%P
+
+0x638
+I think so too.%K%P
+
+0x644
+Makoto「I don't think anything's going on yet.」%K%P
+
+0x658
+Saki「What do you mean, 'yet'!? So are you gonna do%Nsomething about that later?」%K%P
+
+0x664
+Makoto「N-Not to my knowledge, no...」%K%P
+
+0x670
+I can't help but stutter.%K%P
+
+0x684
+Saki「That's kind of suspicious... I'll just ask Yuka later.」%K%P
+
+0x690
+Makoto「Hey, hey, I said there's nothing going on!」%K%P
+
+0x69C
+Makoto「Don't go asking unnecessary things!!」%K%P
+
+0x6B0
+Saki「I'm joking. There's no way I'd ask something like that.」%K%P
+
+0x6BC
+Saki「But you're not annoyed with her?」%K%P
+
+0x6C8
+What's with this girl...%K%N
+
+0x6D4
+Why's she so concerned about Yuka?%K%P
+
+0x6E0
+Makoto「Well, I guess Yuka's okay.」%K%P
+
+0x6EC
+Makoto「But I think you're pretty good yourself.」%K%P
+
+0x700
+Saki「Oh, is that so? I didn't think you'd be the kind of person%Nwho'd say things like that.」%K%P
+
+0x70C
+Saki「Well, all guys tend to say such trite compliments anyway.」%K%P
+
+0x718
+She says that, but considering how much she's blushing,%Nit probably made her happy.%K%P
+
+0x724
+Before long...%K%P
+
+0x738
+Saki「See you.」%K%P
+
+0x768
+... Saki flashes me a smile before diving into the pool.%K%P
+
+0x774
+She left me alone...%K%P
+
+0x780
+Well then, what should I do?%K%P
+
+0x78C
+I already drank all the beer in the cup.%K%P
+
+0x798
+Makoto「Guess I should I get another one.」%K%P
+
+0x7A4
+I head back towards the stand to get more beer.%K%P
+
+0x7C0
+...%K%P
+
+0x7CC
+Just then...%K%P
+
+0x7FC
+Yuka「Huh? Well, if it isn't Makoto.」%K%P
+
+0x808
+Makoto「Oh... Yuka.」%K%P
+
+0x814
+Yuka「Anyway, are you thirsty? It's on me.」%K%P
+
+0x820
+Makoto「Oh! Looks like I got lucky! Thank you very much!」%K%P
+
+0x82C
+Yuka「Well then, just wait in that deck chair, and I'll get one for%Nyou.」%K%P
+
+0x838
+Makoto「Okay♪」%K%P
+
+0x880
+... ... ...%K%P
+

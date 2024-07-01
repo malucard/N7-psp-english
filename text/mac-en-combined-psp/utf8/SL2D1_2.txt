@@ -1,0 +1,411 @@
+text area offset and size:
+0xD68
+0x1E42
+0x4C
+No one's in the room yet.%K%P
+
+0x58
+Before long, the door to the living room slowly opens.%K%P
+
+0x64
+The one who comes in... is Haruka.%K%P
+
+0x78
+Makoto「Good morning.」%K%P
+
+0x8C
+Haruka「...」%K%P
+
+0x98
+I try waiting several seconds for a response.%K%P
+
+0xAC
+But Haruka completely ignores me and quickly%Ndisappears into the kitchen, as if nothing had happened.%K%P
+
+0xFC
+I follow her and try to repeat myself.%K%P
+
+0x108
+Makoto「Good morning.」%K%P
+
+0x114
+Haruka「...」%K%P
+
+0x13C
+Without a word, she turns the sink faucet, filling her glass%Ncup with water.%K%P
+
+0x148
+With a tiny sound, she drinks the entire cup in one large%Ngulp.%K%P
+
+0x160
+Makoto「Umm, Haruka?」%K%P
+
+0x16C
+Haruka「...」%K%P
+
+0x178
+Haruka doesn't answer.%K%P
+
+0x184
+She remains silent as she stares at the drops of water%Nfalling from the faucet.%K%P
+
+0x1CC
+... This is all exactly the same as the scene I once%Nexperienced.%K%P
+
+0x1D8
+(Which means... if what I'm thinking is correct, then...)%K%P
+
+0x1EC
+It's at this point that Okuhiko shows up, entering the%Nliving room while rubbing the sleep out of his eyes.%K%P
+
+0x200
+Okuhiko「Hey!」%K%P
+
+0x214
+Okuhiko「Huh? I'm not... interrupting something, am I?」%K%P
+
+0x220
+He asks Haruka this as he ignores my presence.%K%P
+
+0x234
+Okuhiko「... Nah, there's no way it's like that. Ha ha ha!」%K%P
+
+0x248
+He glares at me as he laughs. His eyes are filled with%Nscorn...%K%P
+
+0x254
+(It's the same. Everything's exactly the same...)%K%P
+
+0x260
+(So I alone really did go back in time...)%K%P
+
+0x26C
+(If that's the case... then Saki's still alive...?)%K%P
+
+0x278
+(No, wait. It's too early to be jumping to conclusions,%Nright?)%K%P
+
+0x284
+(... All right. I'll try to confirm if today really is the 1st...)%K%P
+
+0x3B0
+With that thought in my mind, I try my best to let this day%Ngo by as I remember it.%K%P
+
+0x3BC
+Yuka's terrible breakfast.%K%N
+
+0x3C8
+My conversation with Kurumi, who accidentally delivered%Nthe pizza to us instead of Saki.%K%N
+
+0x3D4
+Going to the tennis court in the afternoon...%K%P
+
+0x3E0
+The whole time, I continue to think only of Saki.%K%P
+
+0x3EC
+For the time being, I have no choice but to fret about her.%K%P
+
+0x3F8
+But I can't make any careless actions.%K%P
+
+0x404
+If I take selfish actions, history might change.%K%P
+
+0x410
+I wouldn't like it if that resulted in us not meeting Saki.%K%P
+
+0x41C
+Before long, the sunset arrives...%K%N
+
+0x448
+... We finally arrive at Lunabeach.%K%N
+
+0x454
+We're also able to meet Izumi-san again.%K%P
+
+0x460
+All that's left is...%K%P
+
+0x498
+Saki「My name is 'Asakura'. Is the manager here?」%K%P
+
+0x4CC
+I turn around in surprise, and unintentionally cry.%K%P
+
+0x4D8
+It's Saki... She's alive right now, before my eyes...%K%P
+
+0x4E4
+Izumi「Yes... That would be me...」%K%P
+
+0x508
+Saki「What's the meaning of this!?」%K%P
+
+0x514
+Yep, that's Saki...%K%N
+
+0x520
+That voice... is definitely Saki's...%K%P
+
+0x52C
+Saki「Excuse me. My name is Saki Asakura. I'm from the Asakura%Nsummer house.」%K%P
+
+0x538
+Izumi「So that's it... Thank you for your continued patronage...」%K%P
+
+0x544
+Saki「It's not like I always use this place... Where's the pizza%Nthat I ordered?」%K%P
+
+0x550
+Izumi「Huh? What are you talking about?」%K%P
+
+0x55C
+Saki「My P-I-Z-Z-A! How many hours do you think I've been%Nwaiting for it!?」%K%P
+
+0x568
+Izumi「How many?」%K%P
+
+0x574
+Saki「Six hours, six goddamn hours! Just what kind of shop%Nare you running here!?」%K%P
+
+0x580
+Okuhiko「Seems there's people out there with quite the free time%Non their hands.」%K%P
+
+0x58C
+Saki「I wasn't talking to you people.」%K%P
+
+0x598
+Okuhiko「I wasn't talking to you either.」%K%P
+
+0x5A4
+Saki「Don't talk until I say so! Got it!?」%K%P
+
+0x5B0
+For some reason, I become happy.%K%N
+
+0x5BC
+That's just like Saki... this is definitely Saki!%K%P
+
+0x5C8
+Saki「The hell's up with you? You've been staring at me this%Nwhole time with this strange grin... Stop doing things that%Nare making me sick!」%K%P
+
+0x5D4
+Makoto「...」%K%P
+
+0x5E8
+―Should I tell her the whole truth?%K%P
+
+0x5F4
+No, even if I do that, it'll probably be useless.%K%P
+
+0x600
+There's absolutely no doubt that she wouldn't trust me.%K%P
+
+0x60C
+It's better if we're just close acquaintances.%K%P
+
+0x618
+To Saki, I'm just...%K%N
+
+0x624
+nothing more than a complete stranger.%K%P
+
+0x630
+Anyway, Saki's all right. That alone is enough.%K%P
+
+0x644
+Izumi「So, what did you do for those six hours?」%K%P
+
+0x658
+Saki「I waited, of course!」%K%P
+
+0x66C
+Izumi「For six straight hours?」%K%P
+
+0x688
+Saki「Hell no! Even I don't have that kind of time!」%K%P
+
+0x694
+Saki「Even I, umm... umm... told it that. Yes. I told it to make do with%Njust what was there.」%K%P
+
+0x6A0
+Saki「But it fully knew that I had ordered a pizza, even though%Nit doesn't understand my language. So I didn't have any%Nother choice but to play around and wait!」%K%P
+
+0x6AC
+I see... Saki's talking about that puppy...%K%P
+
+0x6C8
+Izumi「I see.」%K%P
+
+0x6DC
+Kurumi「Onee-chan, you understand what she's saying?」%K%P
+
+0x6F0
+Izumi「It's fine, it's fine. In times like this, all you have to do is%N'that'.」%K%P
+
+0x6FC
+Kurumi「Huh? What do you mean?」%K%P
+
+0x710
+Izumi「It can't be helped, so let's just hear her out for now.」%K%P
+
+0x71C
+Izumi「These types just want to talk, then they go back home.%NUntil then, just endure it... Okay?」%K%P
+
+0x730
+Kurumi「But why do we have to put up with it?」%K%P
+
+0x73C
+Izumi「Because there was a mistake in her delivery, so...」%K%P
+
+0x750
+Kurumi「What!? Kurumi definitely delivered it!」%K%P
+
+0x764
+Izumi「Don't shout. If you didn't make a mistake, then why did it%Nend up like this?」%K%P
+
+0x778
+Kurumi「You're terrible! Onee-chan, you're doubting Kurumi!」%K%P
+
+0x78C
+Izumi「But she said it never arrived...」%K%P
+
+0x798
+Kurumi「It did too! Kurumi... delivered it to an 'Asakura-san'!」%K%P
+
+0x7B4
+Saki「Don't talk until I say so!」%K%P
+
+0x7D0
+Kurumi「Kurumi did deliver it to 'Asakura-san'!」%K%P
+
+0x7EC
+Saki「Just what the hell does that mean!?」%K%P
+
+0x7F8
+Hearing this exchange again makes me a little%Nsentimental.%K%P
+
+0x804
+It's very nostalgic...%K%P
+
+0x810
+(Yeah, and this is the part where Yuka remembers Saki...)%K%P
+
+0x82C
+Yuka「Saki... Could it be that you're THAT Saki Asakura?」%K%P
+
+0x838
+Just as I thought...%K%P
+
+0x84C
+I feel conviction welling up within me as I watch Saki and%NYuka's reunion unfold.%K%P
+
+0x858
+Time is certainly repeating itself. There's no doubt about%Nit.%K%P
+
+0x864
+But why...?%K%P
+
+0x870
+No, more importantly... April 6th is in five days.%K%N
+
+0x87C
+Saki will jump from the tip of the cape at Viewpoint Park...%K%P
+
+0x888
+When I think that, Izumi-san forces her way through Yuka%Nand Saki.%K%P
+
+0x89C
+Izumi「Well then, I'll treat you to dinner tonight. It'll be a%Ncelebration for your reunion!」%K%P
+
+0x8B0
+Yuka「Huh? No way, that's too much.」%K%P
+
+0x8CC
+Saki「Wait a second. I came here to clear up the issue about%Nmy pizza.」%K%P
+
+0x8D8
+Izumi「Then you can also consider this my apology...」%K%P
+
+0x8EC
+... And so, things begin to develop the same way they did%Nlast time.%K%P
+
+0x8F8
+This gets me thinking.%K%P
+
+0x904
+(Perhaps this might be a chance granted to me by God.)%K%P
+
+0x910
+(God is commanding me to save Saki this time...)%K%P
+
+0x91C
+(If things go on this way, then in five days, the same%Ntragedy will occur.)%K%P
+
+0x928
+(Is God lending me his power to attempt to prevent it... ?)%K%P
+
+0x934
+All right... I'll give it all I've got!%K%P
+
+0x940
+For Saki's sake...%K%P
+
+0x94C
+I'll do my best to take care of her and get through these%Nsix days!%K%P
+
+0x960
+Izumi「Will you all eat with them too?」%K%P
+
+0x96C
+Makoto「With pleasure♪」%K%P
+
+0x978
+I immediately answer.%K%P
+
+0x984
+It feels like I'm plunging right into fate.%K%P
+
+0x9BC
+... After that, we went shopping for rice, and ate%NIzumi-san's dinner.%K%P
+
+0x9C8
+After dinner, we snuck into the pool, and fled from the%Nyelling security guard once again...%K%P
+
+0x9D4
+It felt like I was watching a video recording of everything.%K%P
+
+0x9E0
+But there is one difference...%K%P
+
+0x9EC
+Late at night, I didn't pick up the bell on Moon Beach on%Nour way back to the lodge.%K%P
+
+0x9F8
+No, to be precise, I couldn't pick it up.%K%P
+
+0xA04
+The bell wasn't lying on the shore.%K%P
+
+0xA10
+I looked for it as hard as I could, but it was nowhere to%Nbe found.%K%P
+
+0xA1C
+(It's possible that because I have my memories, history%Nmight have changed a little bit.)%K%P
+
+0xA28
+Besides, I don't think it matters that much.%K%P
+
+0xA34
+It's not like the bell was the direct cause of that%Ntragedy, after all.%K%P
+
+0xA40
+If I continue to trust Saki, then that history will never%Nrepeat.%K%P
+
+0xA4C
+The bell isn't a problem.%K%P
+
+0xA58
+... As I think that way, I return to the lodge, and fall%Nasleep...%K%P
+

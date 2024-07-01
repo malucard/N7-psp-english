@@ -1,0 +1,261 @@
+text area offset and size:
+0x9B0
+0xF6D
+0x154
+Haruka and I are on the pier, leisurely dangling our%Nfishing lines.%K%P
+
+0x160
+I've already taught Haruka everything I know about%Nfishing.%K%P
+
+0x16C
+Like the last time, Haruka constantly repeats the cycle%Nof catching a fish, then letting it go.%K%P
+
+0x178
+(If she continues to fish like this, then she'll be hooked in%Nno time.)%K%P
+
+0x184
+... That's what I think.%K%P
+
+0x190
+...%K%P
+
+0x19C
+Well then...%K%P
+
+0x1A8
+I look at my watch.%K%P
+
+0x1B4
+"3:23 P.M."%K%P
+
+0x1C0
+I've got to get going now.%K%P
+
+0x1CC
+When I slowly get up, I turn to Haruka.%K%P
+
+0x1D8
+Makoto「Say, Haruka? I've... got a little errand to take care of.」%K%P
+
+0x1EC
+Haruka「Errand?」%K%P
+
+0x1F8
+Makoto「Yeah... there's something I've got to confirm...」%K%P
+
+0x204
+Haruka「I still... want to fish.」%K%P
+
+0x210
+Makoto「Okay. Just wait right here.」%K%P
+
+0x21C
+Makoto「I'll be back soon...」%K%P
+
+0x228
+Haruka「How long... is 'soon'?」%K%P
+
+0x234
+Makoto「... About an hour.」%K%P
+
+0x240
+Haruka「All right.」%K%P
+
+0x24C
+Makoto「I'm really sorry about this.」%K%P
+
+0x260
+I apologize, leave her with all my gear, and head towards%Na certain place...%K%P
+
+0x2F8
+Makoto「How's it going, Yuka? Did you find it?」%K%P
+
+0x318
+Yuka「Heh heh heh heh heh...」%K%P
+
+0x324
+Makoto「?」%K%P
+
+0x338
+Yuka「Ta-da♪」%K%P
+
+0x360
+A bell is in Yuka's palm.%K%P
+
+0x36C
+Makoto「Phew... this makes two lifel...」%K%P
+
+0x378
+I try to say this, but then I notice something I didn't%Nearlier.%K%P
+
+0x394
+Right next to Yuka is Kurumi...%K%P
+
+0x3A0
+―Kurumi's here!?%K%P
+
+0x3B4
+Yuka「Kurumi-chan also helped out.」%K%P
+
+0x3C0
+Makoto「Huh!?」%K%P
+
+0x3D4
+Kurumi「Yuka-san said it was a memento of her great-grandpa,%Nso...」%K%P
+
+0x3E0
+Kurumi「Kurumi looked very hard for it.」%K%P
+
+0x3EC
+Oh, I see... So that's how it is...%K%P
+
+0x3F8
+Makoto「Were you the one to find it, Kurumi?」%K%P
+
+0x40C
+Kurumi「Yep♪」%K%P
+
+0x418
+Makoto「I see. You're a good girl...」%K%P
+
+0x424
+I pat her on the head.%K%P
+
+0x438
+Kurumi「Eheh♪」%K%P
+
+0x444
+Makoto「Well then, I've got to go back now.」%K%P
+
+0x458
+Yuka「Right.」%K%P
+
+0x464
+Makoto「See you later...」%K%P
+
+0x478
+Leaving with those words, I turn around.%K%P
+
+0x484
+Just then...%K%P
+
+0x490
+... Yuka suddenly approaches me.%K%P
+
+0x4A4
+Yuka「Here...」%K%P
+
+0x4B0
+She whispers this very faintly into my ear.%K%P
+
+0x4BC
+While using her back as a wall so that Kurumi can't see,%NYuka puts something into my palm.%K%P
+
+0x4C8
+I feel a cool sensation... I don't even need to see it to%Nknow what it is.%K%P
+
+0x4DC
+Yuka「This is yours... right?」%K%P
+
+0x4F0
+Yuka says this, then gives me a light tap on my shoulder.%K%P
+
+0x4FC
+Kurumi「Hold on, you two... what are you doing?」%K%P
+
+0x508
+When she hears Kurumi's voice, Yuka jumps up and%Nmoves away from me.%K%P
+
+0x524
+Yuka「Nothing really. It's nothing, it's nothing.」%K%P
+
+0x530
+Kurumi「It's not nothing, is it? What you did just now was too%Nsuspicious!」%K%P
+
+0x544
+Yuka「You think so～?」%K%P
+
+0x558
+Kurumi「Of course!」%K%P
+
+0x564
+Kurumi scrutinizingly glares at us while furrowing her brow.%K%P
+
+0x570
+Makoto「Well then, see you, Kurumi!」%K%P
+
+0x584
+At this rate, things are going to get troublesome. I%Ndecide to leave, and start to run away.%K%P
+
+0x590
+Kurumi「Ah! Wait a minute, Onii-chan!」%K%P
+
+0x60C
+When Kurumi's voice is out of earshot, I stop in the%Ncenter of the road to take a short rest.%K%P
+
+0x618
+Hopefully, Yuka will be able to lie her way out of that%Nsituation...%K%P
+
+0x624
+The only reason why I went all the way to Moon Beach%N(which should be so obvious that I don't have to say it,%Nbut whatever) was to make sure whether or not Yuka%Ncould find the other bell.%K%P
+
+0x630
+Right now, I have it.%K%P
+
+0x63C
+With this, we've been able to obtain both of our lifelines.%K%P
+
+0x648
+I reach into my pocket, as if to make sure it's still there.%K%P
+
+0x654
+All that's left is that day...%K%N
+
+0x660
+... As for the 5th and the 6th, if I keep an eye on Yuka the%Nwhole time, then nothing bad ought to happen.%K%P
+
+0x66C
+I feel a wave of relief wash through me as I walk briskly%Nback to the pier.%K%P
+
+0x6F0
+Haruka「Welcome back.」%K%P
+
+0x6FC
+Makoto「I'm back.」%K%P
+
+0x708
+Haruka「Have you finished your errand?」%K%P
+
+0x714
+Makoto「Completely.」%K%P
+
+0x720
+Haruka「I see...」%K%P
+
+0x72C
+Makoto「Did you catch anything?」%K%P
+
+0x740
+I sit down next to Haruka as I ask her this.%K%P
+
+0x754
+Haruka「Yes... a few.」%K%P
+
+0x760
+Makoto「I see...」%K%P
+
+0x76C
+Haruka「...」%K%P
+
+0x778
+Makoto「...」%K%P
+
+0x784
+Haruka「...」%K%P
+
+0x790
+Makoto「...」%K%P
+
+0x79C
+Haruka「Have you ever kissed someone?」%K%P
+

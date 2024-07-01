@@ -1,0 +1,327 @@
+text area offset and size:
+0x828
+0x153A
+0x80
+In the end, I couldn't get any sleep after that.%K%P
+
+0x8C
+Staying in my room became unbearable, so I headed%Nover to Lunabeach to wait for it to open.%K%P
+
+0x98
+At any rate, I want to see Izumi-san's smile as soon as%Npossible.%K%P
+
+0xA4
+I stand in front of the shop, and bolt open the door.%K%P
+
+0x100
+Izumi「Oh... Makoto-kun...」%K%P
+
+0x10C
+Izumi-san is here, as expected.%K%N
+
+0x118
+A smile rises to her face.%K%P
+
+0x124
+But...%K%N
+
+0x130
+... It's not her usual kind smile.%K%P
+
+0x13C
+It's an unnatural, forced smile.%K%P
+
+0x150
+Izumi「Why are you here so early?」%K%P
+
+0x15C
+Makoto「No... umm...」%K%P
+
+0x168
+I hesitate.%K%P
+
+0x174
+Should I just tell her the truth?%K%P
+
+0x180
+After all, I told Izumi-san about my dream during the Test%Nof Courage.%K%P
+
+0x18C
+But to say "Izumi-san was the one in my dream", or...%K%P
+
+0x198
+"Izumi-san, you might die tomorrow."%K%P
+
+0x1A4
+―There's no way I can say that!%K%P
+
+0x1B8
+Izumi「Huh?」%K%P
+
+0x1C4
+Izumi-san stares at me with an uneasy expression.%K%P
+
+0x1D0
+I hang my head down to avoid her glance.%K%P
+
+0x1E4
+Izumi「Well, you've come all this way, so have a seat.」%K%P
+
+0x1F0
+Izumi「As you can see, there's no customers here...」%K%P
+
+0x1FC
+Makoto「...」%K%P
+
+0x210
+Izumi「Oh, rather than 'as you can see', maybe it would be%Nbetter for me to say 'as usual'?」%K%P
+
+0x21C
+Izumi-san says this as she runs her right hand through%Nher hair.%K%P
+
+0x254
+Upon Izumi-san's urging, I sit down on a chair on the%Nterrace.%K%P
+
+0x260
+She brings two cups of tea, and sits down in the seat%Nopposite of me.%K%P
+
+0x26C
+The sky that I can see over her shoulder is thick with%Nclouds.%K%P
+
+0x280
+Izumi「Makoto-kun...?」%K%P
+
+0x28C
+Makoto「?」%K%P
+
+0x298
+Izumi「Have you had breakfast yet?」%K%P
+
+0x2A4
+Izumi「If not, would you like me to make some?」%K%P
+
+0x2B0
+I silently shake my head.%K%P
+
+0x2BC
+In this situation, I don't think I'd be able to swallow%Nanything.%K%P
+
+0x2D0
+Izumi「Then... I know, how about a game of cards?」%K%P
+
+0x2DC
+Makoto「... Cards?」%K%P
+
+0x2F0
+Without responding to me, Izumi-san stands up and%Nheads for the counter.%K%P
+
+0x2FC
+Before long...%K%P
+
+0x310
+Izumi「One of the customers yesterday forgot them.」%K%P
+
+0x31C
+... Izumi-san returns holding a deck of cards while%Nspeaking in a strange, shrill voice.%K%P
+
+0x330
+Izumi「What shall we play?」%K%P
+
+0x33C
+Makoto「...」%K%P
+
+0x348
+Izumi「How about President?」%K%P
+
+0x354
+Makoto「...」%K%P
+
+0x360
+Izumi「Or how about Old Maid?」%K%P
+
+0x374
+Izumi「Oh... but there's only two of us, so it probably won't be%Nany fun.」%K%P
+
+0x380
+Izumi-san continues to smile.%K%P
+
+0x38C
+However, when I look at that smile, I feel a dull pain in my%Nheart.%K%P
+
+0x398
+(Would it be better if I told her... after all...?)%K%P
+
+0x3A4
+(Tell her everything that I saw...)%K%P
+
+0x3B0
+(If I don't... then will the worst possible outcome occur...?)%K%P
+
+0x3D4
+Izumi「Makoto-kun...」%K%P
+
+0x3E0
+Izumi-san gently places the cards on the table.%K%P
+
+0x3EC
+Izumi「I shouldn't have told you after all...」%K%P
+
+0x3F8
+Makoto「Huh...?」%K%P
+
+0x40C
+Izumi「What I said yesterday...」%K%P
+
+0x418
+Izumi「If I knew things would have gotten this awkward, I wouldn't%Nhave said it...」%K%P
+
+0x424
+Izumi「I'm sorry, Makoto-kun...」%K%P
+
+0x430
+Makoto「No, don't...」%K%P
+
+0x43C
+Izumi「It was always like this in the past...」%K%P
+
+0x448
+Izumi「I never thought that I'd be a bother to the ones I like...%Nand I couldn't stop myself... from falling in love with them,%Nno matter what...」%K%P
+
+0x454
+Makoto「Izumi-san... you're wrong...」%K%P
+
+0x460
+Makoto「You're not being a both-」%K%P
+
+0x46C
+Izumi「It's fine... really...」%K%P
+
+0x478
+Izumi「It's really all right...」%K%P
+
+0x484
+Izumi「In the first place, I didn't have those qualifications to%Nstart with.」%K%P
+
+0x490
+Qualifications...?%K%P
+
+0x49C
+Izumi「I don't have the qualifications to fall in love... with you.」%K%P
+
+0x4A8
+Makoto「What qualifications...?」%K%P
+
+0x4B4
+Izumi「... I'm so sorry.」%K%P
+
+0x4C0
+Makoto「?」%K%P
+
+0x4CC
+Izumi「I'm really... sorry...」%K%P
+
+0x4E0
+With that, Izumi-san shuts her mouth.%K%P
+
+0x4EC
+She casts her eyes downwards, tracing her finger along%Nthe edges of the cards.%K%P
+
+0x4F8
+I...%K%N
+
+0x520
+I don't know what I should do.%K%P
+
+0x52C
+Izumi-san's feelings have reached my heart.%K%P
+
+0x538
+But before I can answer those feelings, there's%Nsomething I have to think about first.%K%P
+
+0x544
+Right now, I don't have the time to consider anything else.%K%P
+
+0x550
+(―I shouldn't tell her about that after all!)%K%P
+
+0x55C
+That's what my instincts are telling me.%K%P
+
+0x568
+I don't know whether Izumi-san believes what I said about%Nmy premonitions or not, but at any rate, if I were to tell%Nher about the "dream", she'd surely freak out.%K%P
+
+0x574
+Last night, under the starry sky, Izumi-san said this.%K%P
+
+0x580
+"Regulus is continuing to shine even now,"...%K%P
+
+0x58C
+I don't want to make Izumi-san any sadder.%K%P
+
+0x598
+Makoto「Izumi-san...」%K%P
+
+0x5A4
+Makoto「Shall we... play cards?」%K%P
+
+0x5B8
+Izumi-san slowly raises her head.%K%P
+
+0x5C4
+Her eyes are brimming with tears.%K%P
+
+0x5D0
+Makoto「Well? Shall we play?」%K%P
+
+0x5E4
+Izumi-san gives me a small nod.%K%P
+
+0x5F8
+When she does that, tears fall from her eyes.%K%P
+
+0x604
+They crash onto the table...%K%P
+
+0x610
+As Izumi-san's shoulders tremble, she keeps wiping%Naway the traces of her tears with her palm over and%Nover again.%K%P
+
+0x61C
+But no matter how many times she does it, new tears just%Nreplace the old ones...%K%P
+
+0x628
+(Izumi-san...)%K%P
+
+0x634
+(I will protect her!)%K%P
+
+0x640
+(No matter what, I will definitely protect her until the end!)%K%P
+
+0x64C
+(I won't... believe in premonitions anymore!)%K%P
+
+0x658
+(That way, Izumi-san will have nothing to worry about!!)%K%P
+
+0x664
+Yes... I remember it clearly.%K%P
+
+0x670
+Izumi-san's words on the night of the Test of Courage...%K%P
+
+0x67C
+"It's all right... because you have nothing to worry about,%NMakoto-kun..."%K%P
+
+0x688
+I will never forget the kindness and warmth she%Nenveloped me in back then.%K%P
+
+0x694
+When I came here, I was finally able to realize it.%K%P
+
+0x6A0
+Izumi-san is a person who, to me, cannot be replaced, an%Nimportant existence...%K%P
+
+0x6E8
+... ... ...%K%P
+

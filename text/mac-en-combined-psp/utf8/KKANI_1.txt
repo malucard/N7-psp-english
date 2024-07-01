@@ -1,0 +1,513 @@
+text area offset and size:
+0xEA0
+0x2211
+0x40
+... Found her.%K%P
+
+0x4C
+Kurumi is leaning on the fence on the terrace, gazing out%Nat the ocean.%K%P
+
+0x58
+Makoto「... Kurumi?」%K%P
+
+0x74
+Kurumi「...」%K%P
+
+0x80
+It seems Kurumi's still mad.%K%P
+
+0x8C
+I give a small sigh, and walk over to her side.%K%P
+
+0x98
+Makoto「Kurumi... I'm sorry about what happened earlier.」%K%P
+
+0xB4
+Kurumi spares me a quick glance, but immediately goes%Nback to staring at the ocean.%K%P
+
+0xC0
+... This is more troublesome than I thought.%K%P
+
+0xCC
+She's acting just like Haruka.%K%P
+
+0xD8
+My shoulders sag as I sigh again, but I soon pull myself%Ntogether and address her.%K%P
+
+0xE4
+Makoto「Nice weather today, huh, Kurumi?」%K%P
+
+0xF0
+Kurumi「...」%K%P
+
+0xFC
+Makoto「Kurumi, you're going to Princess Beach, right?」%K%P
+
+0x108
+Kurumi「...」%K%P
+
+0x114
+Makoto「What're you going to do there?」%K%P
+
+0x128
+Kurumi「Catch crabs...」%K%P
+
+0x134
+Makoto「I see, catching crabs, huh?」%K%P
+
+0x140
+Makoto「And once you catch the crabs, what do you plan to do?」%K%P
+
+0x14C
+Kurumi「Make them sumo wrestle each other...」%K%P
+
+0x158
+Makoto「I see. Well today has the best weather for crabs, after%Nall.」%K%P
+
+0x164
+"The best weather for crabs"? What the hell?%K%P
+
+0x170
+I decide to ignore whatever I just said, and continue%Ntalking.%K%P
+
+0x17C
+Makoto「And while you're making the crabs sumo wrestle, what%Nare you going to do?」%K%P
+
+0x188
+Kurumi「Act as the crab sumo referee...」%K%P
+
+0x194
+Makoto「I see. And what will you do with the winning crab?」%K%P
+
+0x1A0
+Kurumi「Stroke it... and say 'You're strong, you're strong'.」%K%P
+
+0x1AC
+Makoto「That winning crab sure will be happy.」%K%P
+
+0x1C0
+Kurumi「But that's not all. Kurumi will stroke the losing crab too...%Nand tell it to 'hang in there'.」%K%P
+
+0x1CC
+Makoto「Yes, yes... You're kind, Kurumi.」%K%P
+
+0x1E0
+Kurumi「... Yes.」%K%P
+
+0x1EC
+Makoto「But there'll be no audience for the crab sumo.」%K%P
+
+0x1F8
+Kurumi「...?」%K%P
+
+0x204
+Makoto「There'll be no other crabs competing either, right? The%Nonly one watching will be the referee.」%K%P
+
+0x218
+Kurumi「... Right.」%K%P
+
+0x224
+Makoto「I'll be the audience.」%K%P
+
+0x254
+Kurumi「... Really?」%K%P
+
+0x260
+Makoto「Yeah! Leave it to me!」%K%P
+
+0x274
+It seems Kurumi's good mood has completely returned.%K%P
+
+0x2AC
+Kurumi「Hmm? What is it, Onii-chan?」%K%P
+
+0x2B8
+Makoto「Kurumi, you're going to Princess Beach, right?」%K%P
+
+0x2C4
+Kurumi「Yeah.」%K%P
+
+0x2D0
+Makoto「To have the crabs sumo wrestle, right?」%K%P
+
+0x2E4
+Kurumi「That's right♪ And Kurumi will be the crab sumo referee...」%K%P
+
+0x2F0
+Makoto「Yeah, I've already heard it from you, you don't need to%Ntell me twice...」%K%P
+
+0x2FC
+I cut off Kurumi, and continue to speak.%K%P
+
+0x308
+Makoto「I'll go with you.」%K%P
+
+0x314
+Kurumi「Huh? Why?」%K%P
+
+0x320
+Makoto「Doesn't a sumo need an audience?」%K%P
+
+0x32C
+Kurumi「...?」%K%P
+
+0x338
+Makoto「There'll be no other crabs competing, right? The only%None watching will be the referee.」%K%P
+
+0x344
+Kurumi「Right.」%K%P
+
+0x350
+Makoto「I'll be the audience.」%K%P
+
+0x35C
+Kurumi「Really?」%K%P
+
+0x368
+Makoto「Yeah! Leave it to me!」%K%P
+
+0x37C
+When Kurumi hears that, she shows me her usual bright%Nsmile.%K%P
+
+0x400
+―Princess Beach.%K%P
+
+0x40C
+It's a hidden beach, surrounded by tall cliffs that%Nserves as a barrier to isolate it from its surroundings.%K%P
+
+0x418
+It took us a little more than ten minutes to walk here.%K%P
+
+0x42C
+Kurumi「All right! Let's catch some crabs♪」%K%P
+
+0x438
+Makoto「Ma'am, yes Ma'am!」%K%P
+
+0x44C
+We head towards a rocky area likely to have crabs.%K%P
+
+0x4A0
+... ... ...%K%P
+
+0x4AC
+Kurumi「Gotcha♪」%K%P
+
+0x4C0
+Makoto「That was fast...」%K%P
+
+0x4E8
+It hasn't even been five minutes, and yet Kurumi's%Nalready caught a crab under some rocks.%K%P
+
+0x4F4
+Kurumi grabs the edge of a rock, and peeks down at a%Nditch that's been eroded by sea water.%K%P
+
+0x500
+Makoto「Hey, don't trip.」%K%P
+
+0x538
+Kurumi「Wow～～♪ There's a lot of crabs here～♪」%K%P
+
+0x544
+Makoto「Huh? ... Whoa!」%K%P
+
+0x550
+For some reason, a large group of crabs have gathered%Nin the shadow of the rocky area.%K%P
+
+0x55C
+Ugh... the sight of them in swarms is unsettling.%K%P
+
+0x568
+Kurumi「Hey, hey, you think this is a school for crabs?」%K%P
+
+0x574
+Makoto「... Dunno.」%K%P
+
+0x580
+Kurumi「Yay♪ Crabs...」%K%P
+
+0x58C
+Kurumi boldly reaches her hand into the group of crabs.%K%P
+
+0x598
+Makoto「Kurumi, don't put your hands there.」%K%P
+
+0x5A4
+Kurumi「Crabs～～♪」%K%P
+
+0x5B0
+Kurumi lifts up the second crab with all her strength.%K%P
+
+0x5BC
+It seems there was no need to worry.%K%P
+
+0x5C8
+Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with%NKurumi?」%K%P
+
+0x5D4
+Kurumi「Ready, set, Rock, Paper, Scissors... Rock!」%K%P
+
+0x5E0
+Kurumi「Yay, Kurumi won♪」%K%P
+
+0x5EC
+Makoto「...」%K%P
+
+0x5F8
+It seems she wanted to see a crab lose at%NRock-Paper-Scissors.%K%P
+
+0x604
+Makoto「... So carefree.」%K%P
+
+0x610
+Deciding to leave the crab capturing to Kurumi, I decide%Nto sneak off for a little while.%K%P
+
+0x61C
+Kurumi「Huh?」%K%P
+
+0x628
+Makoto「Hmm? What's wrong?」%K%P
+
+0x634
+Kurumi「No... it's nothing.」%K%P
+
+0x640
+Makoto「?」%K%P
+
+0x64C
+Kurumi「Kurumi just picked up something a little interesting...」%K%P
+
+0x658
+Makoto「Something interesting?」%K%P
+
+0x664
+Kurumi「Yeah.」%K%P
+
+0x670
+Makoto「Show me.」%K%P
+
+0x67C
+Kurumi「All right... if you beat Kurumi in Rock-Paper-Scissors♪」%K%P
+
+0x688
+Makoto「Huh～?」%K%P
+
+0x694
+Kurumi「Let's go～♪ Rock, Paper, Scissors...」%K%P
+
+0x6A0
+Makoto「Go!」%K%P
+
+0x6AC
+Kurumi stretches the crab's claw out.%K%P
+
+0x6B8
+... Incidentally, I have paper.%K%P
+
+0x6C4
+Kurumi「Yay, Mr. Crab won～♪ Isn't this fun, Sumo Crab? Are you%Nglad?」%K%P
+
+0x6D0
+Kurumi happily addresses the crab. Geez, don't name it...%K%P
+
+0x6DC
+Makoto「... I... have paper.」%K%P
+
+0x6E8
+Kurumi「Like Kurumi said, you don't get to see it, Onii-chan.」%K%P
+
+0x6F4
+Haah... Enough is enough...%K%P
+
+0x73C
+... ... ...%K%P
+
+0x774
+Kurumi「Ready! ... Go!」%K%P
+
+0x79C
+Before long, the two crabs begin to sumo on a flat rock%Nbeing used as the arena.%K%P
+
+0x7A8
+Kurumi is serving as the referee, and I am the audience.%K%P
+
+0x7BC
+Kurumi「Go, go!」%K%P
+
+0x7C8
+Kurumi and I hold our breaths in anticipation.%K%P
+
+0x7D4
+Kurumi「GOOOO!」%K%P
+
+0x7E0
+... The small crab pushes off the larger crab with its small%Nclaws!%K%P
+
+0x7F4
+Kurumi「Ring out! Sumo Crab wins♪」%K%P
+
+0x800
+Wait, is that the crab that beat me in%NRock-Paper-Scissors earlier? I guess giving it a name%Nwas a good way to distinguish them.%K%P
+
+0x80C
+Kurumi takes the winning crab and the losing crab, and%Nstrokes them equally.%K%P
+
+0x818
+After that, she lets the losing crab go while waving%Nsorrowfully at it...%K%P
+
+0x824
+... It's quite a pleasant scene.%K%P
+
+0x830
+Makoto「Kurumi, you're always having fun, aren't you?」%K%P
+
+0x844
+Kurumi「Eheh♪ Kurumi wonders about that～♪」%K%P
+
+0x850
+Kurumi「It may look that way, but Kurumi's got tons of worries!」%K%P
+
+0x85C
+Kurumi「Kurumi's in the 12th grade... it's a stressful age...」%K%P
+
+0x868
+Makoto「Liar!」%K%P
+
+0x874
+Kurumi「It's true.」%K%P
+
+0x880
+Makoto「Then what kinds of worries are you talking about?」%K%P
+
+0x88C
+Kurumi「Umm... umm...」%K%P
+
+0x898
+Kurumi「For example... getting to the final level of Treasure Strike,%Nonly to find she can't beat it no matter what.」%K%P
+
+0x8A4
+Makoto「...」%K%P
+
+0x8EC
+... ... ...%K%P
+
+0x8F8
+And so, the final day of the April Crab Sumo Wrestling%NTournament has concluded safely...%K%P
+
+0x950
+Kurumi「... It's over.」%K%P
+
+0x95C
+Makoto「Yeah.」%K%P
+
+0x984
+Kurumi and I stare the empty arena, wrapped up in a%Nstillness like the kind you feel at the end of a party.%K%P
+
+0x998
+Kurumi「Well then... what should we do from now on?」%K%P
+
+0x9A4
+Makoto「Let's see... for now, why don't we grab a bite to...」%K%P
+
+0x9B0
+At that time!%K%P
+
+0xA14
+Makoto「... Huh?」%K%P
+
+0xA20
+Kurumi「The ground... is shaking?」%K%P
+
+0xA94
+Kurumi「KYAAAAAA!!!」%K%P
+
+0xAA0
+Makoto「What!?」%K%P
+
+0xAB4
+This might be the strongest earthquake I've felt in my%Nfew days here.%K%P
+
+0xAC0
+We support each other, and wait for the tremors to%Nsubside.%K%P
+
+0xACC
+... Before long, the tremors die down, as if they're being%Npulled away by the waves.%K%P
+
+0xB1C
+Kurumi「... It's calmed down.」%K%P
+
+0xB28
+Makoto「That sure came out of nowhere...」%K%P
+
+0xB34
+We take a breath, and walk over to the basket with our%Nlunches in it.%K%P
+
+0xB40
+...%K%P
+
+0xB4C
+We stuff ourselves with the sandwiches that it seems%NIzumi-san made for us.%K%P
+
+0xB58
+Makoto「... I'm really grateful to you and Izumi-san.」%K%P
+
+0xB64
+Having calmed down after having a sip of black tea, I%Nsay this.%K%P
+
+0xB78
+Kurumi「Huh?」%K%P
+
+0xB84
+With a sandwich crammed in her mouth, Kurumi gives me a%Npuzzled expression.%K%P
+
+0xB90
+Makoto「Even though we're unrelated to you, you've done so%Nmuch for us...」%K%P
+
+0xB9C
+Makoto「Especially Izumi-san; if she weren't here, then we'd%Nprobably be starving to death right about now...」%K%P
+
+0xBA8
+Kurumi「... Mmm... It's fine, it's fine～♪ Don't worry about it so much.」%K%P
+
+0xBB4
+Kurumi swallows the sandwich in one gulp.%K%P
+
+0xBC0
+Kurumi「Besides, it's not like Onee-chan is unrelated to you.」%K%P
+
+0xBCC
+Makoto「Huh?」%K%P
+
+0xBD8
+Kurumi「Because at Onii-chan's college, Onee-chan...」%K%P
+
+0xBEC
+Kurumi「... Oh.」%K%P
+
+0xC14
+Kurumi stops talking and places a hand over her mouth%Nas if to say "oh, crap." She's wearing the guilty face of a%Nchild who's been caught with their hand in a cookie jar.%K%P
+
+0xC20
+Makoto「My college...? ... What do you mean by that?」%K%P
+
+0xC34
+Kurumi「W-Who knows...? Now that Kurumi really thinks about it,%Nthey're completely unrelated.」%K%P
+
+0xC40
+Makoto「H-Hey! Don't play dumb...」%K%P
+
+0xC54
+Kurumi「Ah! Kurumi just remembered she has an important errand%Nto take care of! ... See you, Onii-chan♪」%K%P
+
+0xC60
+Makoto「Ah! Kurumi!? Hold on!!」%K%P
+
+0xC84
+...%K%P
+
+0xC90
+... Kurumi takes the basket with sandwiches.%K%P
+
+0xC9C
+I'm still hungry...%K%P
+

@@ -1,0 +1,1134 @@
+text area offset and size:
+0x2880
+0x5320
+0x40
+In the middle of the quiet, still forest, the only sound we%Nhear are our own footsteps that we make on this nightly%Nstroll.%K%P
+
+0x4C
+We're walking back to the lodge, with Izumi-san in the lead.%K%P
+
+0x7C
+Yuka「I'm so sweaty...」%K%P
+
+0x88
+Yuka frowns as she pinches her clothes, which have%Nstuck to her body.%K%P
+
+0xA4
+Okuhiko「You can say that again...」%K%P
+
+0xB0
+Okuhiko nods sympathetically at her statement. His face%Nseems a little pale.%K%P
+
+0xBC
+Is it due to the pale moonlight pouring down from the sky,%K%P
+
+0xC8
+or is it because of the fear he was feeling just a little%Nwhile ago...? Well, it doesn't really matter.%K%P
+
+0xE4
+Haruka「...」%K%P
+
+0xF0
+Haruka alone says nothing.%K%P
+
+0xFC
+She walks behind the silent Izumi-san with a composed%Nexpression.%K%P
+
+0x110
+Makoto「Let's take showers when we get back.」%K%P
+
+0x11C
+I suggest this to my fellow Seminar Camp members.%K%P
+
+0x128
+Yuka and Okuhiko nod in agreement.%K%P
+
+0x13C
+Kurumi「Ah! Kurumi too, Kurumi too～」%K%P
+
+0x148
+Kurumi, who's walking next to Haruka, is in high spirits%Nafter hearing us.%K%P
+
+0x164
+Izumi「Oh, right. There's actually an open air hot spring nearby.」%K%P
+
+0x170
+... As if she had been anticipating it, Izumi-san abruptly%Nturns around to inform us of this.%K%P
+
+0x17C
+Since she is at the head of the group, Haruka and Kurumi,%Nwho were walking right behind her, both crash their%Nfaces into Izumi's chest.%K%P
+
+0x198
+Kurumi「Geez～, Onee-chan! Don't stop so suddenly～」%K%P
+
+0x1A4
+Haruka「...」%K%P
+
+0x1B0
+Naturally, Kurumi reprimands Izumi-san.%K%P
+
+0x1BC
+Haruka silently shoots Izumi-san a flustered look as she%Nnurses her nose.%K%P
+
+0x1C8
+Izumi-san hastily apologizes, though her mind is clearly%Nstill on the hot springs. She looks at us with a face that%Nsays, "Do you want to go?"%K%P
+
+0x1E4
+Yuka「Huh? Really!? Hey, let's go there, guys!」%K%P
+
+0x1F0
+Yuka gets really excited.%K%P
+
+0x1FC
+Okuhiko and I nod as if to say "sounds good".%K%P
+
+0x208
+Haruka doesn't respond, but it doesn't seem like she%Nhas any particular objections against it.%K%P
+
+0x25C
+Kurumi「...」%K%P
+
+0x268
+However, Kurumi silently hangs her head downwards, all%Nthe enthusiasm she had mere moments ago suddenly%Ngone.%K%P
+
+0x290
+Izumi「Kurumi... are you also okay?」%K%P
+
+0x29C
+She asked the question as if to make sure that Kurumi%Nwas ready for a solemn ritual to begin.%K%P
+
+0x2A8
+Izumi-san uneasily looks at Kurumi.%K%P
+
+0x2BC
+After a short while, Kurumi nods to Izumi-san while giving%Na sweet smile.%K%P
+
+0x2D0
+When she sees that, Izumi-san's expression suddenly%Nrelaxes and she nods back.%K%P
+
+0x2DC
+Makoto「??」%K%P
+
+0x320
+Izumi「Incidentally...」%K%P
+
+0x32C
+Izumi「The hot springs are mixed bathing...」%K%P
+
+0x340
+Okuhiko「What!?」%K%P
+
+0x34C
+Upon hearing that, Okuhiko's face seems to light up.%K%P
+
+0x358
+He takes a fleeting, sidelong glance at Haruka... so it%Nseems, or is it just my imagination?%K%P
+
+0x364
+Makoto「That's... Say what you like, but don't you think that's a bit%Ntoo dangerous?」%K%P
+
+0x370
+Looking at Okuhiko, I feel kinda reluctant.%K%P
+
+0x37C
+It'll be like throwing sheep in front of a wolf...%K%P
+
+0x390
+Izumi「Hmm... Well, we have both men and women... Maybe it really%Nis too dangerous?」%K%P
+
+0x39C
+Izumi-san folds her arms with a troubled face upon%Nhearing my point.%K%P
+
+0x3B8
+Yuka「If we alternate going in between men and women, then%Nthere's no problem at all♪」%K%P
+
+0x3C4
+However, Yuka calmly declares this, not seeming to have%Nfussed over the matter.%K%P
+
+0x3E0
+Okuhiko「... Tch!」%K%P
+
+0x3EC
+Okuhiko clicks his tongue.%K%P
+
+0x400
+... It seems my fears weren't part of my imagination after%Nall.%K%P
+
+0x40C
+However, in the corners of my mind, I think that while I'm%Nrelieved, I also kinda would have liked it if we had gone in%Ntogether...%K%P
+
+0x418
+Guess I'm just a normal guy after all...%K%P
+
+0x42C
+Kurumi「No way, no way, that's not good. There's no guarantee%Nthat Onii-chan and Okkun won't try to peek!」%K%P
+
+0x438
+Kurumi seems to think that we'll definitely peek.%K%P
+
+0x444
+She doesn't have much faith in us, huh...%K%P
+
+0x458
+Izumi「Now that you mention it, there's a wall around that hot%Nspring, but it's completely tattered...」%K%P
+
+0x46C
+Yuka「Hmm... Well then, what if we went in in our swimsuits?」%K%P
+
+0x478
+Yuka「We can go back to get our swimsuits. Then once we've%Nchanged, we won't have to worry about getting peeked%Nat.」%K%P
+
+0x494
+Okuhiko「Oh! That's a nice idea, Yuka-chan♪」%K%P
+
+0x4B0
+Izumi「Hee hee hee... The truth is, I thought this might happen,%Nso I brought a swimsuit♪」%K%P
+
+0x4C4
+Kurumi「Eheheh～♪」%K%P
+
+0x4D0
+Izumi-san gives an impish smile.%K%P
+
+0x4DC
+Kurumi is sticking her tongue out.%K%P
+
+0x4E8
+Was this their plan from the beginning?%K%P
+
+0x4F4
+It seems that they're having fun watching our reactions...%NThey're terrible.%K%P
+
+0x510
+Yuka「Well, it seems that we won't need to find anything to tie%NMakoto and Okuhiko-kun up to a tree...」%K%P
+
+0x51C
+Suddenly, Yuka throws out a ridiculous suggestion.%K%P
+
+0x528
+H-Hey, cut me a break...%K%P
+
+0x544
+Okuhiko「H-Have some faith in us...」%K%P
+
+0x550
+Okuhiko looks like he's about to cry.%K%P
+
+0x55C
+I probably look the same.%K%P
+
+0x578
+Yuka「Well, it was just a joke...」%K%P
+
+0x58C
+Yuka「Well then, it's decided～♪」%K%P
+
+0x598
+Yuka「We'll each go in the lodge, get our swimsuits, and meet in%N20 minutes at the front door.」%K%P
+
+0x5A4
+But Yuka continues the conversation as if we're not%Neven there.%K%P
+
+0x5B0
+... Huh? Something's weird about this exchange.%K%P
+
+0x5BC
+Makoto「Hey, Yuka? I was thinking...」%K%P
+
+0x5D0
+Yuka「Hmm?」%K%P
+
+0x5DC
+Makoto「In times like this, isn't it usually the girl who's reluctant to%Ngo to the hot springs, while the guy's the persuasive%None?」%K%P
+
+0x5F0
+Yuka「Now now, don't worry about it.」%K%P
+
+0x5FC
+With that, we once again head towards the lodge.%K%P
+
+0x608
+Yuka walks lightly, humming some song to herself.%K%P
+
+0x684
+Once we enter the lodge, we each head to our own%Nrooms to change.%K%P
+
+0x690
+Incidentally, Izumi-san and Kurumi are using Yuka and%NHaruka's rooms.%K%P
+
+0x69C
+Just when I'm about to enter my room...%K%P
+
+0x6B0
+Haruka stares firmly at Kurumi, and says this.%K%P
+
+0x6BC
+Haruka「Kurumi... you have pretty skin.」%K%P
+
+0x6D0
+Kurumi「Huh...!?」%K%P
+
+0x6EC
+Yuka「...? Something wrong, Kurumi-chan?」%K%P
+
+0x6F8
+Kurumi「N-No... it's nothing... Th-Thank you, Haruka-san...」%K%P
+
+0x704
+Haruka「...?」%K%P
+
+0x718
+Yuka「But it's true. Kurumi-chan, what do you say to me giving%Nyou a back wash?」%K%P
+
+0x724
+... Just then.%K%P
+
+0x764
+Kurumi's face suddenly freezes.%K%P
+
+0x770
+I hear Izumi-san give a taken aback gasp.%K%P
+
+0x784
+Kurumi「Ah... S-Sorry...」%K%P
+
+0x790
+Kurumi「Now that Kurumi thinks about it, Kurumi's got to watch%N'Oedo Gatten'.」%K%P
+
+0x7A4
+Yuka「Huh?」%K%P
+
+0x7B0
+Yuka's eyes widen.%K%P
+
+0x7BC
+This unexpected event has also left me utterly%Nconfused.%K%P
+
+0x7C8
+Makoto「... Wh-What's wrong? Kuru...」%K%P
+
+0x7D4
+Kurumi「Ah... Kurumi's really sorry! She has to see it no matter%Nwhat...」%K%P
+
+0x7E0
+Kurumi「Umm... Right! If Kurumi doesn't watch it, she won't be able%Nto talk about it with her friends.」%K%P
+
+0x7EC
+Kurumi interrupts me, giving a desperate apology.%K%P
+
+0x808
+Izumi「... I see. Then it can't be helped. Kurumi...」%K%P
+
+0x814
+With a sad face, Izumi-san places a hand on Kurumi's%Nshoulder.%K%P
+
+0x820
+Kurumi「... Sorry, Onee-chan.」%K%P
+
+0x82C
+It seems like Kurumi could burst into tears at any time.%K%P
+
+0x840
+Izumi-san silently shakes her head.%K%P
+
+0x84C
+It's as if she's saying "It's fine..."%K%P
+
+0x858
+Izumi「Well then, we're going to the hot springs... Kurumi, please%Nwatch over the lodge.」%K%P
+
+0x864
+Kurumi「Yeah...」%K%P
+
+0x880
+... I then think:%K%P
+
+0x894
+... I then think:%K
+
+0x2800
+(What a TV addict...)
+
+0x280C
+(Kurumi... what's wrong?)
+
+0x8D4
+(In the end, Kurumi's also a TV addict, huh...?)%K%N
+
+0x8E0
+That thought runs through my head.%K%P
+
+0x8F4
+... ... ...%K%P
+
+0x960
+After changing our clothes, we all meet at the front door.%K%P
+
+0x96C
+Yuka「Well then, we're off, Kurumi-chan♪」%K%P
+
+0x978
+Kurumi watches us leave as we start walking towards%Nthe hot springs.%K%P
+
+0x984
+At first, Izumi-san wasn't that enthused,%K%P
+
+0x990
+but she gradually grew more cheerful, so I stopped%Nworrying about her.%K%P
+
+0xA34
+Soon enough, we're able to see something like steam%Nrising from our destination.%K%P
+
+0xA40
+I can smell the scent of sulfur mixed in the air.%K%P
+
+0xA54
+Haruka「It kind of... stinks.」%K%P
+
+0xA68
+Yuka「Makoto, farting in front of a girl... You're the worst.」%K%P
+
+0xA74
+Makoto「Dumbass! That's the smell of the hot springs, right?!」%K%P
+
+0xA80
+I pinch my nose and reproach Yuka.%K%P
+
+0xA8C
+Despite the stench, I keep moving forward.%K%P
+
+0xAA8
+Izumi「The one who first found this place was...」%K%P
+
+0xABC
+Okuhiko「By the way, my Papa also owns a hot spring...」%K%P
+
+0xAC8
+Izumi-san is talking about the hot spring.%K%P
+
+0xAD4
+Okuhiko interrupts to brag.%K%P
+
+0xAE0
+We ignore him as we advance towards the hot spring%Nthrough the forest.%K%P
+
+0xBCC
+The hot spring isn't very far.%K%P
+
+0xBD8
+We arrive there in under five minutes.%K%P
+
+0xBE4
+It's an isolated, natural hot spring surrounded by rocks,%Nlying in the middle of the forest.%K%P
+
+0xBF0
+In this chilly night, the enveloping steam coming from the%Nmilky white hot water seems very promising.%K%P
+
+0xC70
+Yuka「Wow♪ It kinda looks like a bath where you'd find a%Nbathhouse prostitute...」%K%P
+
+0xC84
+Haruka「... Bathhouse prostitute?」%K%P
+
+0xC90
+Yuka「You don't know what those are, Haruka? Let's see...」%K%P
+
+0xC9C
+Makoto「Idiot! Don't tell what's best left unknown!」%K%P
+
+0xCB0
+Yuka「Hey, what the hell?!」%K%P
+
+0xCCC
+Ignoring the sulking Yuka, I turn my attention to Izumi-san,%Nwho's beginning to explain about the hot springs.%K%P
+
+0xCD8
+It seems no one knows who's the manager and owner of%Nthese natural hot springs.%K%P
+
+0xCE4
+A wall had been built around the hot spring, but it's%Nrotted away to the point where it's riddled with gaps...%K%P
+
+0xCF0
+You really could peek here as much as you liked.%K%P
+
+0xD0C
+Yuka「Is this hot spring even safe to use?」%K%P
+
+0xD20
+Izumi「... Huh? Who knows...」%K%P
+
+0xD34
+Yuka「Huh? You don't know?」%K%P
+
+0xD48
+Izumi「No. But it's all right. I at least know it's not poisonous to%Nthe body...」%K%P
+
+0xD5C
+Yuka「Hmm...」%K%P
+
+0xD68
+I get a little worried when I start to consider how much of%Na ditz Izumi-san can be.%K%P
+
+0xD74
+Well, we probably won't die, but...%K%P
+
+0xDC8
+Yuka「Well then, I'll go first!」%K%P
+
+0xDE8
+Makoto「Whoa!!」%K%P
+
+0xDF4
+Suddenly, Yuka takes off her clothes. I knew she was%Ngoing to do it, but it's still shocking.%K%P
+
+0xE08
+Yuka「...? Something wrong?」%K%P
+
+0xE14
+Makoto「... No, it's nothing.」%K%P
+
+0xE20
+Yuka「... I see. Well, whatever.」%K%P
+
+0xE2C
+Yuka delicately dips her foot in the hot spring, like most%Ngirls would...%K%P
+
+0xED0
+... before she suddenly dives into the hot spring with a%Nsplash.%K%P
+
+0xEF8
+Yuka「Mmm, the water temperature is really good♪」%K%P
+
+0xF04
+Haah～... Geez, you're such a kid.%K%P
+
+0xF2C
+Soon enough, everyone takes off their clothes one by%None and enters the hot spring.%K%P
+
+0xF38
+Well then... should I enter as well?%K%P
+
+0xF64
+... ... ...%K%P
+
+0xF9C
+... It's been ten minutes since I've entered.%K%N
+
+0xFA8
+I feel more and more like I'm boiling up.%K%N
+
+0xFB4
+Aah～... I'm completely relaxed...%K%P
+
+0xFC0
+Well then, I'll...%K
+
+0x2818
+(Whew...) Sit up on the edge of a rock.
+
+0x2824
+(Duh duh duh dah duh♪) Sing.
+
+0x2830
+(Whoosh～ Whoosh...) Start breast stroking.
+
+0x283C
+(Good enough!) Simply bask in the water.
+
+0x1070
+*SPLASH!* I sit on the edge of a rock.%K%P
+
+0x107C
+The gentle night's breeze feels pleasant and cool%Nagainst my burning hot skin.%K%P
+
+0x1088
+Makoto「Whew...」%K%P
+
+0x1094
+Only the top half of my body is exposed to the cold%Nwind, as my lower half is still submerged in the hot water.%K%P
+
+0x10A0
+This is the true charm of open air hot springs!%K%P
+
+0x10AC
+Haah～... But this seriously feels good. I wonder how%Nmany years it's been since going in a bath has made me%Nfeel so good.%K%P
+
+0x10B8
+Now that I think about it, we've done a lot of different%Nthings at this camp, but it's all felt so peaceful.%K%P
+
+0x10C4
+... At that time, I hear Okuhiko's voice.%K%P
+
+0x10D0
+He's apparently talking to someone.%K%P
+
+0x10DC
+I quietly turn my head in the direction of his voice.%K%P
+
+0x10E8
+... There he is. Soon, I also see Haruka. The two of them%Nhave their shoulders submerged in the hot water.%K%P
+
+0x10F4
+Okuhiko is relentlessly trying to talk to Haruka.%K%P
+
+0x1100
+Well, as always, Haruka is staying silent, but...%K%P
+
+0x110C
+She looks gloomy. I don't know why, but that's the feeling%NI get.%K%P
+
+0x1144
+All right! If that's the case... Then I've got an excellent%Nplan to help her out... Time to put my ingenious plot into%Naction.%K%P
+
+0x1150
+I roll up a towel that's full of air...%K%P
+
+0x115C
+I then sink it into the hot water until it's at level with my%Nlower back...%K%P
+
+0x1168
+... And now I'm ready.%K%P
+
+0x1174
+Weapon in hand, I approach them. *Splash, splash,%Nsplash*...%K%P
+
+0x1180
+The two of them watch me.%K%P
+
+0x1200
+Okuhiko glares at me, clearly disgusted by my behavior.%K%P
+
+0x120C
+Makoto「... Ugh!」%K%P
+
+0x1218
+I try to ignore him, but I can't help but groan.%K%P
+
+0x1224
+With that, I squeeze the air out the submerged towel,%Nforming bubbles that rise just above the back of my%Nwaist, making it look like the air came from a certain other%Nplace.%K%P
+
+0x1230
+*Bubble bubble bubble*...%K%P
+
+0x1260
+Okuhiko「WHAAA...!!!」%K%P
+
+0x126C
+Paralyzed, Okuhiko's eyes widen to the size of plates.%NHis mouth opens wider than I ever thought was possible.%K%P
+
+0x1278
+Haruka「Okuhiko's... mouth is huge...」%K%P
+
+0x1284
+Makoto「Yeah. It's so big that I think you could stuff an entire%Nwash basin in there.」%K%P
+
+0x1298
+In response to Haruka's statement, I compare my wash%Nbasin with Okuhiko's face and nod.%K%P
+
+0x12A4
+Okuhiko「Eee...」%K%P
+
+0x12B0
+Haruka「??」%K%P
+
+0x12C4
+Okuhiko「EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEK!!!」%K%P
+
+0x12D8
+*Splash Splash Splash...!!!*%K%P
+
+0x12E4
+While plucking his nose, Okuhiko screams and runs away.%K%P
+
+0x12F8
+Haruka「??」%K%P
+
+0x1304
+Haruka blinks with surprise while watching Okuhiko.%K%P
+
+0x1310
+She probably didn't get it.%K%P
+
+0x131C
+Well, that was an extremely predictable joke, but...%K%P
+
+0x1328
+Haruka「... Hey, what's wrong with Okuhiko?」%K%P
+
+0x1334
+Makoto「... Who knows?」%K%P
+
+0x1350
+... ... ...%K%P
+
+0x1378
+Our silence continues for a short while.%K%P
+
+0x1384
+Haruka「...」%K%P
+
+0x1390
+Makoto「...」%K%P
+
+0x139C
+Haruka「...」%K%P
+
+0x13A8
+Makoto「Say, Haruka...」%K%P
+
+0x13B4
+Haruka「...」%K%P
+
+0x13C0
+Unable to bear the silence any longer, I try to strike up a%Nconversation.%K%P
+
+0x13CC
+... But she doesn't respond.%K%P
+
+0x13D8
+Makoto「... Haruka?」%K%P
+
+0x13EC
+Haruka「Aah～... *boil boil boil*...」%K%P
+
+0x1474
+Makoto「HEY!? Haruka!」%K%P
+
+0x1480
+When I wasn't paying attention, her face turned bright%Nred...%K%P
+
+0x148C
+If she's gotten this bad, then she shouldn't have stayed%Nin for so long.%K%P
+
+0x1498
+Right now, my main priority is to get Haruka out of the%Nwater.%K%P
+
+0x14A4
+I pull up the sinking Haruka, and hold her in my arms.%K%P
+
+0x14B0
+I feel light headed and dizzy from the sensation of her%Nsoft skin transmitting through my hands, but I somehow%Nmanage to carry her until I find a place with a good%Nbreeze.%K%P
+
+0x14BC
+I look at Haruka's face as I place her against the wall%Nwhere our clothes are.%K%P
+
+0x14C8
+*Badump, badump...*%K%P
+
+0x14E4
+Haruka「Haah... haah...」%K%P
+
+0x14F0
+It's quiet, but Haruka starts slowly breathing in and out.%K%P
+
+0x14FC
+I desperately continue to watch her.%K%P
+
+0x1554
+And then, by pure chance, Yuka passes by.%K%P
+
+0x1560
+Makoto「Oh, Yuka! Good timing! Help me out, Haruka just...」%K%P
+
+0x156C
+I talk up til that point, then swallow my words.%K%P
+
+0x15A4
+Her face is flushed red like a lobster, her eyes are all%Nunfocused, her gait is all staggered with no sense of%Nbalance, and... she has sake in her hand.%K%P
+
+0x15B0
+DAAAA...!! She's drunk!!%K%P
+
+0x15C4
+Yuka「Wah, whash rong? Mako-tan?」%K%P
+
+0x15D0
+Yuka「... Oooh? Ish shomefing up wif Haruka-tan?」%K%P
+
+0x15DC
+This isn't good... As she is now, she can't help me at all...%K%P
+
+0x15E8
+I ignore the plastered Yuka, and immediately return all of%Nmy focus to the panting Haruka's face...%K%P
+
+0x1658
+Makoto「Duh duh duh duh dah duh♪」%K%P
+
+0x1664
+Because I'm in such a good mood, I start singing.%K%P
+
+0x1670
+Haah～... But this seriously feels good. I wonder how%Nmany years it's been since going in a bath has made me%Nfeel so good.%K%P
+
+0x167C
+Now that I think about it, we've done a lot of different%Nthings in this camp, but it's all felt so peaceful.%K%P
+
+0x1688
+... I start to drift off to sleep, lulled by these thoughts.%NJust then...%K%P
+
+0x16A4
+??「Hey! Yer sho noishee～」%K%P
+
+0x16B0
+Makoto「... Huh?」%K%P
+
+0x16BC
+I am brought back to reality.%K%P
+
+0x16C8
+... Whose voice was that?%K%P
+
+0x16D4
+Yuka「Shaddahp～ Yuu... tone-deaf～」%K%P
+
+0x16E0
+No doubt about it... it's Yuka. But her voice is extremely%Nslurred. Oh god, please don't be what I think she is...%K%P
+
+0x16EC
+Just then, a gust of wind blows by. It dispels the steam%Nfloating before my eyes.%K%P
+
+0x1788
+I can see the shadow of a person on the other side. As I%Nthought, it's Yuka.%K%P
+
+0x1794
+She is floating in the water like a lantern during the Bon%NFestival, gulping down some sake.%K%P
+
+0x17A0
+(Sh-She's drinking even in a place like this...)%K%P
+
+0x17B4
+Yuka「Nyahahahahahaha... *Gulp, gulp～*」%K%P
+
+0x17C0
+She's considerably drunk. If she doesn't stop soon,%Nthings could get ugly...%K%P
+
+0x17CC
+*Splash, splash, splash*...%K%P
+
+0x17D8
+I quickly approach Yuka.%K%P
+
+0x17F4
+Haah～... But this seriously feels good. I wonder how%Nmany years it's been since going in a bath has made me%Nfeel so good.%K%P
+
+0x1800
+Now that I think about it, we've done a lot of different%Nthings in this camp, but it's all felt so peaceful.%K%P
+
+0x180C
+*Whoosh, whoosh...* I spontaneously begin breast%Nstroking.%K%P
+
+0x1818
+Normally, doing this would piss someone off, but since%Nit's just us, I suppose it's all right.%K%P
+
+0x1824
+??「Hey yuu～!」%K%P
+
+0x1830
+... Scratch that. I really did piss someone off.%K%P
+
+0x18C4
+Yuka「Shtop meikin' weifsh～. It'll shpill!」%K%P
+
+0x18D0
+... Huh? Spill? What will?%K%P
+
+0x18E4
+*Splash Splash Splash...*%K%P
+
+0x18F0
+Makoto「... Gwaa!」%K%P
+
+0x18FC
+I get surprised when I see something approaching me!%K%P
+
+0x1908
+Yuka's floating in the water like a lantern during the Bon%NFestival, gulping down some sake.%K%P
+
+0x1914
+(E-Even in a place like this...)%K%P
+
+0x1920
+Yuka「*Gulp, gulp*... Kyuu～!」%K%P
+
+0x1934
+Yuka「Ash eye fought, hot shpringsh ah de besht! Ishen't dat%Nrite, Mako-tan?」%K%P
+
+0x1940
+Yuka says this with a flushed face. How am I supposed%Nto respond to this!?%K%P
+
+0x194C
+If her parents saw this, they'd probably cry... No, if I were%Nher father, I'd definitely weep.%K%P
+
+0x1958
+She's extremely drunk...%K%P
+
+0x1964
+If I don't stop her now, things could get ugly...%K%P
+
+0x1970
+Well then... How should I stop her...?%K
+
+0x2848
+Start out nice.
+
+0x2854
+Start out forceful.
+
+0x2860
+Get angry.
+
+0x19C0
+I decide to try being nice.%K%P
+
+0x19CC
+Makoto「Hey, Yuka? If you drink so much, you'll poison your body.%NBe a good girl and sto... Whoa!」%K%P
+
+0x19D8
+I am unable finish my speech.%K%N
+
+0x19E4
+Yuka suddenly trips me!%K%N
+
+0x19F0
+I pitch forward and fall...%K%P
+
+0x1A20
+I fall prostrate into the water, making a splendid sound. I%Naccidentally drink a large amount of water.%K%P
+
+0x1A2C
+*Splash* *Cough, cough, cough!*%K%P
+
+0x1A38
+Makoto「...」%K%P
+
+0x1A4C
+Yuka「Nyahahahahaha...♪ Yer show derty!」%K%P
+
+0x1A58
+Tears rise in Yuka's eyes as she laughs her ass off.%K%P
+
+0x1A64
+*Twitch, twitch...!* Y-You little...!!%K%N
+
+0x1A70
+Blood is rushing to my head...%K%N
+
+0x1A7C
+... No, hold on.%K%P
+
+0x1A88
+My opponent is a drunkard. What do I have to do to make%Nthis drunkard take me seriously?%K%P
+
+0x1A94
+I regain my calm, and decide to try one more time, making%Nmy assault a little more forceful this time.%K%P
+
+0x1AA0
+Makoto「Yuka～? Haven't you had enough to drink? Come on,%Nhand it over...」%K%P
+
+0x1AAC
+I try to forcefully snatch the cup of sake out of Yuka's%Nhand.%K%P
+
+0x1AC0
+Yuka「Hmm? ... NAAAAAAH～～WEEEEEEEI!!!」%K%P
+
+0x1ACC
+Just then, Yuka grabs my outstretched arm, and drags%Nme into the hot water.%K%P
+
+0x1AFC
+I fall prostrate into the water, making a splendid sound.%K%P
+
+0x1B08
+A lot of hot water goes flooding into my nose.%K%P
+
+0x1B14
+*Splash*%K%P
+
+0x1B20
+Makoto「...」%K%P
+
+0x1B34
+Yuka「Nyahahahahahahahahahaha...♪ Yer feish ish funee～」%K%P
+
+0x1B40
+She holds her stomach with laughter...%K%P
+
+0x1B4C
+She splashes hot water on me to add even more salt to%Nthe wound.%K%P
+
+0x1B58
+Y-You... bitch...!!%K%N
+
+0x1B64
+... I decide to forcefully cut in.%K%P
+
+0x1B70
+Makoto「Dammit! You're so drunk!!」%K%P
+
+0x1B84
+Yuka「!?」%K%P
+
+0x1B90
+Yuka stares in puzzlement at my raised voice.%K%P
+
+0x1B9C
+(Huh? Did she understand that?)%K%P
+
+0x1BA8
+Just as I'm thinking this, Yuka cuts her way through the%Nhot water and gets behind me.%K%P
+
+0x1C30
+And then, Yuka suddenly walks up behind me and wraps%Nher arms around me!%K%P
+
+0x1C3C
+(WH... WHAA!!?)%K%P
+
+0x1C48
+Makoto「Y-Yuka!? ... Th-This is bad... in a place like this...」%K%P
+
+0x1C54
+I become extremely flustered.%K%P
+
+0x1C60
+... No, but that was a misunderstanding even bigger than%NMt. Fuji.%K%P
+
+0x1C6C
+As she wraps her arms around me, Yuka puts even more%Npower into them, starting to strangle me.%K%P
+
+0x1C78
+My neck is...%K%P
+
+0x1C84
+Makoto「Ug... ghhh...」%K%P
+
+0x1C90
+Yuka「Wai yuu! Hoosh de drunk wan heer!!」%K%P
+
+0x1C9C
+Makoto「Wh... Who... there's no one else... but you...」%K%P
+
+0x1CA8
+I was careless... She must have some really bad drinking%Nhabits to go this far...!%K%P
+
+0x1CB4
+I desperately try to resist her, but...%K%P
+
+0x1CC0
+Yuka「Eyam～ ... NAHT DRUNNNNNK～～!」%K%P
+
+0x1CCC
+*Griiiiiiiiiind...*%W%W
+
+0x1CD8
+With my consciousness fading, I...%K%P
+
+0x1CE4
+(Yuka's... got a nice chest...)%K%P
+
+0x1CF0
+... think this incredibly healthy thought.%K%P
+
+0x1D58
+... ... ...%K%P
+
+0x1D74
+Woohoo～～! This is nothing!!%K%P
+
+0x1D80
+It's not like anyone's watching, so I decide to start an%Nendurance contest with myself.%K%P
+
+0x1D8C
+But that quickly turns out to be a mistake.%K%P
+
+0x1DA8
+... Ah, c-crap.%K%P
+
+0x1DB4
+M-My consciousness is fading... Kuh...%K%P
+
+0x1E0C
+... *ACK!*%K%N
+
+0x1E18
+... ... ...%K%P
+
+0x1E80
+... After I lose consciousness, I have a dream.%K%P
+
+0x1E8C
+In the dream, I'm an octopus being boiled to death in a%Npot...%K%P
+
+0x1E98
+It was such a tragic dream.%K%P
+
+0x1F04
+When I regain consciousness, the first thing I see is%NIzumi-san's worried face.%K%P
+
+0x1F10
+I then notice that it's not just her; everybody else has%Nsurrounded me, concerned looks on their faces.%K%P
+
+0x1F24
+Izumi「... Are you all right?」%K%P
+
+0x1F30
+She asks me this gently.%K%P
+
+0x1F3C
+My head is on top of Izumi-san's thighs! So in other%Nwords, I was sleeping on her lap!!%K%P
+
+0x1F48
+Aah... I'm so happy I could die...%K%P
+
+0x1F54
+I get intoxicated from the feeling of Izumi-san's thighs%Nagainst the back of my head.%K%P
+
+0x1F60
+It seems I was pulled from the hot spring after I fainted.%K%P
+
+0x1F6C
+Everyone else is worried about me.%K%P
+
+0x1F90
+... Well, there's one "exception."%K%P
+
+0x1FC0
+Only the flush-faced Yuka is reprimanding me in a%Ndrunken voice.%K%P
+
+0x1FCC
+It seems she got drunk even in a place like this.%K%P
+
+0x1FD8
+As expected of a drunkard, she reprimands me in a%Nrather nasty way.%K%P
+
+0x1FE4
+Yuka「Paa～fetic～ ... Yer a guy, aren't yuu?!」%K%P
+
+0x200C
+She pokes me hard on the forehead as she asks this.%K%P
+
+0x2018
+Makoto「Gwa! That hurt～!」%K%P
+
+0x2024
+S-Someone stop her...%K%P
+
+0x2030
+Grief ridden tears flow out of my eyes...%K%P
+
+0x20CC
+After our night out, we return to the lodge a little past%N11:00.%K%P
+
+0x20D8
+It had been a refreshing, though exhausting, experience.%K%P
+
+0x20E4
+I fall into a deep sleep the moment I climb into bed...%K%P
+
+0x2158
+(Kurumi... what's wrong?)%K%P
+
+0x2164
+It's really bugging me...%K%P
+
+0x2188
+... ... ...%K%P
+

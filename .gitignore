@@ -1,9 +1,9 @@
 /workdir/
 /bin/
 
-/r11_mac*/
-/r11_etc*/
-/r11_iso_extracted/
+/n7_mac*/
+/n7_etc*/
+/n7_iso_extracted/
 
 /n7_iso_cn_extracted/
 /n7_etc_cn/
@@ -11,6 +11,9 @@
 /e17_etc_cn/
 
 /text/tmp/
+/text/mac-en-combined-psp/*.txt
+/text/mac-en-combined-psp/old
+/text/mac-en-combined-psp/workdir
 /text/font/FONT*
 /text/font/glyphs/
 /text/font/glyphs-cn/
@@ -18,6 +21,7 @@
 /iso/*.iso
 /iso/*.dax
 /iso/*.cso
+/iso/*.xdelta
 
 /patches/xdelta3/
 /patches/bip/

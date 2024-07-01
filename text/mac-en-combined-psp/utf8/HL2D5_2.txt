@@ -1,0 +1,423 @@
+text area offset and size:
+0xDC8
+0x1FA1
+0x4C
+??「Makoto... Makoto...」%K%P
+
+0x58
+Someone's calling my name... who is it?%K%P
+
+0x64
+Is that... Haruka's voice?%K%P
+
+0x70
+Haruka「Makoto! Makoto!」%K%P
+
+0x7C
+Ugh... let me sleep a little longer.%K%P
+
+0x88
+As I try to turn over in my sleep, I am met with resistance.%K%P
+
+0x94
+Haruka「Hey, Makoto! Makoto!」%K%P
+
+0xA0
+Haruka grabs my shoulders and rocks them back and%Nforth.%K%P
+
+0xAC
+I-I get it... I'm up, I'm up...%K%P
+
+0xC0
+Wh-Whoa!%K%P
+
+0xDC
+When I raise my upper body and open my eyes, I see,%Nmere inches away from me, Haruka's... face!?%K%P
+
+0xE8
+Haruka「Kyaa...!」%K%P
+
+0x31C
+Owww... We bump our foreheads into each other.%K%P
+
+0x328
+I can see stars flying around me.%K%P
+
+0x360
+Haruka「Ow...」%K%P
+
+0x36C
+Haruka frowns as she nurses her sore forehead.%K%P
+
+0x378
+Makoto「... Wh-What were you doing, Haruka?」%K%P
+
+0x38C
+Haruka「Makoto... you were having trouble waking up, so...」%K%P
+
+0x398
+Makoto「...」%K%P
+
+0x3A4
+I finally remember the last time we had this conversation.%K%P
+
+0x3B8
+Haruka「Have you ever read... 'Sleeping Beauty'?」%K%P
+
+0x3C4
+Makoto「The Grimm Brothers' story was 'Briar Rose'―and%N'Sleeping Beauty' was by Perrault... right?」%K%P
+
+0x3D8
+Haruka「You're well informed. That's right... but the story is the%Nsame. There was this princess who slept for hundreds%Nof years, right?」%K%P
+
+0x3E4
+Makoto「Yeah, that's right. And then, a prince finally came to the%Nprincess in order to wake her up, and then...」%K%P
+
+0x3F8
+Haruka「...」%K%P
+
+0x404
+Makoto「...」%K%P
+
+0x418
+Haruka「Now that you're awake, let's go fishing.」%K%P
+
+0x424
+It seems that to Haruka, it's already been decided that%NI'm to go fishing with her.%K%P
+
+0x430
+Even though I still haven't said anything...%K%P
+
+0x43C
+Nonetheless, I quickly begin to get ready, since I want to%Nspend as much time with Haruka as possible.%K%P
+
+0x448
+Haruka firmly watches me.%K%P
+
+0x454
+Makoto「Haruka... I'm going to change my clothes soon...」%K%P
+
+0x460
+Haruka「Right.」%K%P
+
+0x46C
+Makoto「... I'll be naked, so, uh...」%K%P
+
+0x480
+Haruka「R-Right... I'll be waiting by the front door...」%K%P
+
+0x494
+Makoto「Haruka...」%K%P
+
+0x4A8
+Haruka「... What?」%K%P
+
+0x4B4
+Makoto「It was the prince that kissed the princess in 'Sleeping%NBeauty', not the other way around.」%K%P
+
+0x4C0
+Haruka「...」%K%P
+
+0x4CC
+Makoto「... That's it.」%K%P
+
+0x4E0
+Haruka「Yes, I understand.」%K%P
+
+0x4EC
+Makoto「I wouldn't try to wake up anyone else with that method.」%K%P
+
+0x508
+Haruka「... You're the only one I'd ever wake up with that method.」%K%P
+
+0x560
+Turning around, Haruka quickly leaves with those words.%K%P
+
+0x56C
+Makoto「Huh...? Did she just say...?」%K%P
+
+0x5F8
+... And so, we've arrived at this pier once again.%K%P
+
+0x604
+How many times have we come here, counting today?%K%N
+
+0x610
+I try counting with my fingers...%K%P
+
+0x61C
+1, 2, 3, 4, 5, 6...%K%N
+
+0x628
+6 times... This is my sixth time.%K%N
+
+0x634
+Of course, to Haruka, this is just the 3rd time.%K%P
+
+0x648
+Haruka「Look, I caught a really big one this time!」%K%P
+
+0x654
+Haruka brightly exclaims this. She's all smiles today.%K%P
+
+0x660
+Her smile is bright and clear, a heavy contrast to the%Ndark clouds hanging overhead.%K%P
+
+0x66C
+In my heart, I'm exactly the same.%K%P
+
+0x678
+I'm having fun being together with Haruka.%K%N
+
+0x684
+However, dark clouds still shroud the corners of my%Nheart.%K%P
+
+0x690
+I'm still anguishing because I still haven't found the%Ndecisive difference between Haruka and Kurumi...%K%P
+
+0x69C
+Haruka「Ah, looks like I got another bite♪」%K%P
+
+0x6B0
+While I'm feeling uneasy, Haruka is in an extremely good%Nmood.%K%P
+
+0x6BC
+Her smile is very dazzling and radiant.%K%P
+
+0x6C8
+Makoto「Haruka... you seem pretty happy.」%K%P
+
+0x6D4
+I say this spontaneously.%K%P
+
+0x720
+Haruka「Well, that's because... it's fun being with you... Up until now,%NI've never done things like this with another person.」%K%P
+
+0x72C
+Haruka「So don't make that sad face... When you're sad, I'm sad%Ntoo... It's true. I only have you, Makoto... only you...」%K%P
+
+0x738
+I wasn't expecting that answer.%K%N
+
+0x744
+I must have accidentally let my anxiety show.%K%P
+
+0x750
+And Haruka, being as sensitive as she is, must have%Nsensed my subtle shift in mood instantly.%K%P
+
+0x75C
+Haruka frowns when she sees how unhappy I look.%K%P
+
+0x768
+It seems I've made Haruka grow gloomy.%K%P
+
+0x77C
+And then... Haruka suddenly leans over on my shoulders.%K%P
+
+0x788
+I feel her comfortable weight against me.%K%P
+
+0x794
+My senses become sharply more aware of how precious%Nthe existence known as Haruka is.%K%P
+
+0x7A0
+(What the hell am I doing...?)%K%P
+
+0x7AC
+(I'm trying to protect Haruka... but instead, all I'm doing is%Nhurting her, right?)%K%P
+
+0x7B8
+(Even though she's thinking of me so much... in the end, is%Nthere nothing I can do for Haruka?)%K%P
+
+0x7D4
+―!?%K%P
+
+0x80C
+Suddenly, something inside me bursts open loudly.%K%P
+
+0x818
+"Something that Haruka has that Kurumi doesn't."%K%N
+
+0x824
+%W%W%W%WWhen I think about it, it's so simple.%K%P
+
+0x830
+That's right... It's "the feelings Haruka has for me."%K%N
+
+0x83C
+And also, "The love I have for Haruka."%K%P
+
+0x850
+To me, Haruka is a precious existence that can't be%Nreplaced.%K%P
+
+0x85C
+Because Haruka is Haruka, I truly love her.%K%P
+
+0x868
+There is not a single thing or person that exists in this%Nworld who could replace Haruka!%K%P
+
+0x8A4
+I gently embrace Haruka, and spontaneously kiss her on%Nher lips.%K%P
+
+0x8B0
+Haruka's soft lips... her body temperature... they're so%Nwarm...%K%P
+
+0x8C4
+Makoto「Haruka, I love you...」%K%P
+
+0x8D0
+Makoto「All this time... Yes, I've loved you all this... mmm.」%K%P
+
+0x8E4
+My confession is interrupted midway.%K%N
+
+0x8F0
+I feel Haruka kissing my lips again.%K%P
+
+0x8FC
+Our time slowly passes by...%K%P
+
+0x908
+... Before long... Haruka gently whispers this.%K%P
+
+0x91C
+Haruka「I love you too. I love you so much!」%K%P
+
+0x928
+Makoto「Haruka...」%K%P
+
+0x934
+Makoto「Say, Haruka... listen carefully...」%K%P
+
+0x940
+Haruka「...? ... What?」%K%P
+
+0x94C
+Makoto「Earlier, you said 'I have no heart', right?」%K%P
+
+0x958
+Haruka「... Yes.」%K%P
+
+0x964
+Makoto「But if you don't have a heart, then you shouldn't be able%Nto fall in love with someone...」%K%P
+
+0x970
+Makoto「Which means... you lied when said you loved me...」%K%P
+
+0x97C
+Haruka「... That's not... That's not true! I really do love you!!」%K%P
+
+0x988
+Makoto「Well then, doesn't that mean you really do have a heart?」%K%P
+
+0x994
+Haruka「...」%K%P
+
+0x9A0
+With a bewildered expression, Haruka averts her gaze%Nfrom me.%K%P
+
+0x9AC
+Makoto「Say, Haruka...」%K%P
+
+0x9B8
+Makoto「Don't lie to yourself...」%K%P
+
+0x9C4
+Makoto「Since the day you were born, you've had a kind heart.」%K%P
+
+0x9D0
+Makoto「You let go of the fish that you catch because you can%Nfeel for them...」%K%P
+
+0x9DC
+(If you didn't, you wouldn't have risked your life to save%Nthat puppy...)%K%P
+
+0x9E8
+Makoto「Even so, you deceive yourself.」%K%P
+
+0x9F4
+Makoto「Saying things like 'I have no heart'... That's just you%Ndeceiving your own feelings...」%K%P
+
+0xA00
+Haruka「...」%K%P
+
+0xA0C
+Makoto「'I'm different from humans... I'm a worthless existence%Nthat's a replacement for another...'」%K%P
+
+0xA18
+Makoto「... That's a pretense you made up yourself... Nothing more%Nthan a delusion...」%K%P
+
+0xA24
+Haruka「...」%K%P
+
+0xA30
+Makoto「Listen, Haruka.」%K%P
+
+0xA3C
+Makoto「There's not a single person in this world who could ever%Nreplace you!」%K%P
+
+0xA48
+Makoto「I love you because you are who you are!」%K%P
+
+0xA54
+Makoto「To me, you are the most important existence in the whole%Nworld, someone that can never be replaced by anything%Nelse!!」%K%P
+
+0xA68
+Haruka「...」%K%P
+
+0xA74
+Makoto「So... never... say that again...」%K%P
+
+0xA80
+Makoto「That you have no heart... or that you're worthless...%NNever say those things again...」%K%P
+
+0xA8C
+Haruka「... Yes...」%K%P
+
+0xAC4
+With that, we decide to kiss for a third time.%K%P
+
+0xAD0
+Before I knew it, large teardrops had started falling from%NHaruka's eyes.%K%P
+
+0xADC
+Haruka's face, soggy with tears... is absolutely beautiful.%K%P
+
+0xAE8
+... Yes, it's a peaceful expression that looks like she's%Nbeen released from a curse.%K%P
+
+0xAF4
+This is the true Haruka...%K%N
+
+0xB00
+... This is "Haruka"...%K%P
+
+0xB0C
+My cheeks are warm from Haruka's tears...%K%P
+
+0xB58
+If I were to say anything about the change in Haruka%Nafter that, all I can say is that it's beyond description.%K%P
+
+0xB64
+Haruka「Huh? And then what happened?」%K%P
+
+0xB70
+Everyone「...」%K%P
+
+0xB7C
+When they see how cheerful Haruka's expression is and%Nhow she practically can't be compared to her past self,%Nno one can hide their surprise.%K%P
+
+0xB90
+Okuhiko「Ishihara, what did you do to her? I've never thought I'd%Nsee Haruka-chan of all people smile like that... Dammit, if%Nit's true, then that should have been my role!」%K%P
+
+0xBAC
+Even when the others are in the middle of talking,%NHaruka's eyes are solely focused on me.%K%P
+
+0xBC0
+When our eyes meet, I give her a broad grin.%K%P
+
+0xBCC
+Haruka smiles at it.%K%P
+
+0xBD8
+I feel happier than I ever have in my entire life...%K%P
+

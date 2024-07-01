@@ -1,0 +1,507 @@
+text area offset and size:
+0xDD0
+0x21BC
+0x74
+As I wake up, I kick the covers off the bed with all my%Nstrength.%K%P
+
+0x80
+Still half asleep, I blankly stare at the ceiling.%K%P
+
+0x8C
+The ceiling looks unfamiliar...%K%N
+
+0x98
+It's slanted and made up of several polished wooden%Nboards that are stuck together and equally spaced.%K%P
+
+0xA4
+These boards were probably built with no space%Nbetween them. The faint scent of the wood lingers in the%Nair.%K%P
+
+0xB0
+I realize I'm freezing, my body soaked with sweat all over.%K%P
+
+0xBC
+I take a deep breath and slowly exhale.%K%N
+
+0xC8
+The warm scent of wood goes through my nose and fills%Nmy head.%K%P
+
+0xD4
+It takes me three more breaths until I reach the point%Nwhere I can realize where I am.%K%P
+
+0xE0
+(That's right... I'm at the camp...)%K%P
+
+0x210
+I slowly sit up by my bedside.%K%P
+
+0x21C
+The sheets that I kicked off are now on the floor.%K%P
+
+0x228
+I should pick them up, but I don't have the strength to do%Nso.%K%P
+
+0x234
+My whole body feels sluggish.%K%N
+
+0x240
+My parched throat begs for water... It feels like I'm waking%Nup with a hangover.%K%P
+
+0x24C
+Despite my body's protests, I raise my left arm to check%Nthe time on my watch.%K%P
+
+0x258
+The digital reading says...%K%N
+
+0x264
+(1 MON 9:17 A.M.) on its display.%K%P
+
+0x270
+I lower my arm...%K%N
+
+0x27C
+(Whew...)%K%N
+
+0x288
+... And take in another deep breath.%K%P
+
+0x294
+(What an awful nightmare...)%K%P
+
+0x2A0
+―Huh?%K%P
+
+0x2AC
+Suddenly, I start to feel a bit worried.%K%P
+
+0x2B8
+But why?%K%N
+
+0x2C4
+It was just a dream.%K%P
+
+0x2D0
+I shouldn't get shaken over some dream!%K%N
+
+0x2DC
+Still, deep down, I can't help but feel a little disturbed.%K%P
+
+0x2E8
+(... A dream.)%K%P
+
+0x2F4
+(But was it really just that...?)%K%P
+
+0x300
+(Saturday, April 6th.)%K%P
+
+0x30C
+(In five days, huh...)%K%P
+
+0x318
+Unconsciously, I start counting the number of days up%Nuntil Saturday on my right hand.%K%P
+
+0x324
+(Pffft, what the hell am I doing? I must still be half asleep.)%K%P
+
+0x330
+I coldly smirk, mocking myself.%K%P
+
+0x33C
+―But, just then!%K%P
+
+0x374
+The door to my room is violently thrown open with enough%Nforce to break it.%K%P
+
+0x3C4
+Standing in the doorway, I see...%K%N
+
+0x3D0
+I see...%K%P
+
+0x3DC
+... Um, who is she again?%K%P
+
+0x3E8
+All of a sudden, she says something.%K%P
+
+0x3F4
+??「Wh... What's going on!?」%K%P
+
+0x400
+She sounds like she's frantically chasing after%Nsomething.%K%P
+
+0x40C
+??「Why...!?」%K%P
+
+0x418
+The girl repeats herself.%K%N
+
+0x424
+Obviously, I have no clue what she's talking about.%K%P
+
+0x430
+Makoto「... C-Come again?」%K%P
+
+0x43C
+I think I sound really stupid, but it's too late to take my%Nwords back.%K%N
+
+0x448
+The girl is startled by my reply and takes in a deep%Nbreath.%K%P
+
+0x454
+She says nothing, but instead stares directly into my%Neyes.%K%P
+
+0x460
+... This is kind of awkward.%K%P
+
+0x46C
+It's almost like this one time at the grocery store when a%Nlittle girl I didn't know tightly clinged to my leg while saying "Daddy～♪"...%K%PYeah, this situation feels the same.%K
+
+0xDA8
+Try giving her a comforting smile.
+
+0xDB4
+Calmly ask her "Did something happen?"
+
+0x4AC
+I give her the same comforting smile that I gave to the%Nlittle girl.%K%P
+
+0x4B8
+Just then...%K%P
+
+0x4E0
+??「Huh...? Is... that it...? So it... was just... that...?」%K%P
+
+0x4EC
+Judging by the tone of her voice, I think she's only%Naddressing herself.%K%P
+
+0x4F8
+Either way, I still don't know what the hell is going on.%K%P
+
+0x504
+??「Then, that was... that was...」%K%P
+
+0x510
+Oh, now I get it.%K%P
+
+0x51C
+It's so obvious. She's probably still half asleep.%K%P
+
+0x528
+When she woke up this morning, she was in a completely%Ndifferent bed with a completely different smell... and a%Ncompletely different lighting...%K%P
+
+0x534
+She probably felt like she was still dreaming.%K%P
+
+0x540
+It happens a lot when you sleep in a new environment.%K%N
+
+0x54C
+After all, I had the same delusion just now...%K%P
+
+0x558
+Makoto「Are you all right?」%K%P
+
+0x564
+I ask this, still smiling.%K%P
+
+0x5A4
+??「A-Ah... Um...」%K%P
+
+0x5B8
+??「... Yes. I'm fine.」%K%P
+
+0x5C4
+Makoto「Are you sure? You don't look too well to me.」%K%P
+
+0x5D0
+??「You... think so?」%K%P
+
+0x5DC
+Makoto「Yeah, your face is really pale.」%K%P
+
+0x5F0
+??「Huh?」%K%P
+
+0x5FC
+She immediately draws her hand towards her cheek...%K%N
+
+0x610
+... But then she unexpectedly bursts into laughter.%K%P
+
+0x61C
+??「You say that, Makoto, but looking at your face, you'd%Nthink you just came crawling out from the bottom of a%Ngrave!」%K%P
+
+0x628
+Makoto「Huh?」%K%P
+
+0x634
+I instantly raise a hand to my cheek, mimicking the girl's%Nprevious action.%K%P
+
+0x640
+―Wait, hold on!%K%N
+
+0x64C
+I almost missed it.%K%P
+
+0x658
+"Makoto".%K%N
+
+0x664
+She definitely said that just now. Saying 'Makoto' just%Nlike that...%K%P
+
+0x670
+Makoto「Hey, you know...」%K%P
+
+0x684
+??「No, it's okay...」%K%P
+
+0x690
+The girl interrupts me and continues.%K%P
+
+0x69C
+??「Really, it was nothing, so don't worry about it!」%K%P
+
+0x6A8
+Makoto「No, I'm not talking about-」%K%P
+
+0x6BC
+??「I'm sorry for suddenly intruding on you like that.」%K%P
+
+0x6C8
+??「It's just... how do I put it... I guess you could say I just%Nmade a misunderstanding...」%K%P
+
+0x6DC
+??「Right. Well, anyway, please forget that this ever%Nhappened.」%K%P
+
+0x6E8
+Makoto「Forget about it?」%K%P
+
+0x6F4
+??「If you don't mind. Well then, I'll see you later.」%K%P
+
+0x708
+Makoto「W-wait a se-」%K%P
+
+0x76C
+But before I could finish, she has already left and%Nclosed the door.%K%P
+
+0x778
+Makoto「Hmph... Geez...」%K%P
+
+0x784
+Still, doesn't she think she's being a little too familiar with%Nme?%K%P
+
+0x790
+"Makoto"... don't go addressing people you barely know%Nwithout a "-kun" or something!%K%P
+
+0x79C
+Isn't that really rude? We just met yesterday...%K%P
+
+0x7C0
+Makoto「Did something happen?」%K%P
+
+0x7CC
+It's at times like this when it's important to stay calm.%K%N
+
+0x7D8
+I don't want the situation to get any more awkward...%K%P
+
+0x7E4
+Just then...%K%P
+
+0x80C
+??「Huh? Was that... it...?」%K%P
+
+0x818
+??「Then, in other words, that was...」%K%P
+
+0x824
+As she speaks, her eyes wander around the room. She%Nlooks really confused.%K%P
+
+0x830
+??「It was just a... 'dream'?」%K%P
+
+0x83C
+Makoto「Are you all right?」%K%P
+
+0x848
+Makoto「You're still half asleep, aren't you?」%K%P
+
+0x854
+I say this as I give her a sympathetic grin.%K%P
+
+0x894
+??「Half asleep...」%K%P
+
+0x8A8
+??「... Yeah. That might be it. It seems that way.」%K%P
+
+0x8B4
+Although she says that, it looks like she hasn't yet%Ngrasped that this is reality.%K%P
+
+0x8C0
+Makoto「What kind of dream was it?」%K%P
+
+0x8CC
+I ask her this.%K%P
+
+0x8D8
+??「Huh?」%K%P
+
+0x8E4
+She seems surprised, so I ask again.%K%P
+
+0x8F0
+Makoto「Your dream. What was it about?」%K%P
+
+0x904
+??「R-Right. It was... Well, I don't really remember it all that well.」%K%P
+
+0x910
+??「It's weird, though. I felt like I could remember it when I woke%Nup...」%K%P
+
+0x91C
+She thoughtfully taps her cheek with her index finger.%K%P
+
+0x928
+Makoto「I know what you mean...」%K%P
+
+0x934
+Makoto「Like when you wake up from a dream cracking up, but%Nthen can't remember what was so funny... or something%Nlike that.」%K%P
+
+0x940
+Makoto「All that would be left behind would be a vague, pleasant%Nfeeling...」%K%P
+
+0x954
+??「Right, kind of like that. Except, in my case, it wasn't a%Nvery happy one...」%K%P
+
+0x960
+Makoto「...?」%K%P
+
+0x974
+??「... I think it was... hopelessness.」%K%P
+
+0x980
+At that moment, her expression becomes dim.%K%P
+
+0x98C
+("Hopelessness"...)%K%P
+
+0x998
+Now that she mentions it, I also woke up this morning from%Na rather grim "dream"...%K%P
+
+0x9AC
+??「But I'm glad.」%K%P
+
+0x9B8
+Suddenly, she begins to smile widely.%K%P
+
+0x9C4
+??「I'm really glad it was just a dream.」%K%P
+
+0x9D0
+Makoto「Huh? But didn't you say you don't remember what%Nhappened in it?」%K%P
+
+0x9DC
+??「No, that's not it... How do I put this? I mean that I'm glad%Nthat the dream's finally over...」%K%P
+
+0x9E8
+??「Even though I don't remember it, I'm sure it was the worst%Nnightmare I ever had.」%K%P
+
+0x9F4
+Looking closely at her, I realize that her entire body is%Nsoaked with sweat.%K%P
+
+0xA00
+She looks like a patient who just escaped from a%Nhospital.%K%N
+
+0xA0C
+Her face is pale too...%K%P
+
+0xA20
+??「Anyway, sorry for suddenly intruding on you.」%K%P
+
+0xA2C
+Makoto「No, I don't mind. I myself just woke up as well.」%K%P
+
+0xA40
+??「I'm a little embarrassed right now, after spouting all of%Nthat gibberish out of the blue... It's like I was a%Nsleepwalker.」%K%P
+
+0xA4C
+She gives me a flustered grin as she tries to comb her%Nmessy bed hair with her right hand.%K%P
+
+0xA58
+In return, I smile back.%K%P
+
+0xA6C
+??「Let's just say this never happened, okay? This is a%Nsecret between you and me, Makoto.」%K%P
+
+0xA78
+After I give a slight nod in agreement, she leaves the%Nroom.%K%P
+
+0xAC4
+... ...%N
+
+0xAEC
+... Wait, hold on!%K%P
+
+0xAF8
+I almost missed it.%K%P
+
+0xB04
+"Makoto".%K She definitely said that just now.%K Like we're%Nbest friends, or something...%K%P
+
+0xB10
+We only just met yesterday; why are you calling me that%Nwithout a "-kun" or something!?%K%P
+
+0xB38
+(Meh, whatever.)%K%P
+
+0xB44
+(Maybe she's just that kind of girl...)%K%P
+
+0xB50
+(The really friendly type...)%K%P
+
+0xB5C
+(Though she seems all right.)%K%P
+
+0xB68
+... I stretch, stand up, and begin thinking.%K%P
+
+0xB74
+(Um, what did she say her name was again..?)%K%P
+
+0xB80
+I definitely think that it started with a "Yu"...%K%N
+
+0xB8C
+Yuriko... Yukie... Yumi... Yue... Yuka...%K%P
+
+0xB98
+―Yuka...?%K%N
+
+0xBA4
+Yeah, that's right! It was "Yuka".%K%P
+
+0xBB0
+I remember now.%K%N
+
+0xBBC
+She said so when she introduced herself last night.%K%P
+
+0xBC8
+And her last name was... "Kawashima"... wasn't it?%K%P
+
+0xBD4
+Yuka Kawashima, huh...%K%P
+
+0xBE0
+...%K%P
+
+0xBEC
+Makoto「Well then...」%K%P
+
+0xBF8
+Muttering those words, I head out to the living room.%K%P
+

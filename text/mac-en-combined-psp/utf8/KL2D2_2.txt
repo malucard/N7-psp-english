@@ -1,0 +1,153 @@
+text area offset and size:
+0x510
+0x9CD
+0x80
+Two hours later, everyone comes back in quick%Nsuccession...%K%P
+
+0x94
+Yuka「Gyahahahahahahaha♪」%K%P
+
+0xA0
+Yuka is drunk, just as expected.%K%P
+
+0xAC
+Kurumi's jaw has dropped as she looks back and forth%Nbetween Yuka and I.%K%P
+
+0xB8
+Izumi「It seems she had quite a lot of beer to drink...」%K%P
+
+0xC4
+Izumi-san explains the circumstances to Kurumi while%Nlooking a little disturbed.%K%P
+
+0xD8
+Yuka「Kurumi-tan... Hau aah yuu feelin'?」%K%P
+
+0xEC
+Kurumi「G-Good... After Kurumi had a nap, she got completely%Nbetter...」%K%P
+
+0xF8
+She's unable to hide just how shocked she is...%K%P
+
+0x104
+Just as I had said, Kurumi is holding a mug in her right%Nhand with a thin film of hot milk in it.%K%P
+
+0x118
+Yuka「Ohhhh! Dash gud, dash gud, nahahahaha♪」%K%P
+
+0x12C
+Yuka「Ah!!」%K%P
+
+0x138
+Yuka suddenly leans forward and points to the mug in%NKurumi's hand.%K%P
+
+0x144
+Yuka「Eye have jusht come up wif shomefing amashin'!」%K%P
+
+0x158
+Kurumi「...?」%K%P
+
+0x164
+Yuka「Whaa doo yuu get when yuu crosh Kurumi wif milk?」%K%P
+
+0x170
+Kurumi「...???」%K%P
+
+0x17C
+Yuka「Ish a joke, a joke!」%K%P
+
+0x188
+Yuka「Whaa doo yuu get when yuu crosh Kurumi wif milk? ...%NKurumilk!」%K%P
+
+0x19C
+Kurumi「... N-No way...」%K%P
+
+0x1A8
+Makoto「Well? Didn't I tell you?」%K%P
+
+0x1B4
+I whisper this into Kurumi's ear.%K%P
+
+0x1C8
+Yuka「Huh? Huuuuuuuh? Wash dat naht funee?」%K%P
+
+0x1D4
+Makoto「...」%K%P
+
+0x1E8
+Kurumi「...」%K%P
+
+0x1F4
+Yuka「Sho it washn't funee... Eye shee...」%K%P
+
+0x208
+Yuka「Haah...」%K%P
+
+0x214
+... Yuka lets out a big sigh, and suddenly looks mopey...%NHere it comes...%K%P
+
+0x228
+Yuka「To... To... To...」%K%P
+
+0x234
+Yuka「To... To... To...」%K%P
+
+0x240
+Yuka「Toro.」%K%P
+
+0x254
+Kurumi「!?」%K%P
+
+0x268
+Yuka「Eye wanna eat toro...」%K%P
+
+0x274
+Yuka「Eye wanna eat toro!!」%K%P
+
+0x280
+Kurumi「Y-Yuka-san... why...???」%K%P
+
+0x28C
+Yuka「Ish faine! Eye want toro! Eye jusht wanna eat shum%NTOROOOOOOOO!!!」%K%P
+
+0x298
+Kurumi looks towards me for help.%K%P
+
+0x2A4
+I give her an encouraging nod.%K%P
+
+0x2B0
+But...%K%P
+
+0x2C4
+Kurumi「Y-You can't, Yuka-san! We absolutely cannot go fishing!%NKurumi promised so!」%K%P
+
+0x2D0
+... Kurumi's response is too direct.%K%P
+
+0x2DC
+This will only end up causing the reverse effect...%K%P
+
+0x2F0
+Yuka「Huh? Pisshing?」%K%P
+
+0x2FC
+Luckily, Yuka's so drunk that she ended up mishearing%NKurumi.%K%P
+
+0x308
+It seems that the crisis has been averted at the last%Nmoment...%K%P
+
+0x380
+After that, it's all Yuka's stage.%K%N
+
+0x38C
+The intoxicated Yuka goes through some violent mood%Nswings, from being calm, to inconsolable, to laughing%Nloudly...%K%N%N
+
+0x398
+... And before I know it, it's gotten dark.%K%P
+
+0x3AC
+At any rate, the incident where Saki almost drowned has%Nbeen erased from our history.%K%N%N
+
+0x3B8
+"The next seven days will be happy ones." ―It seems%Nthe plan's progressing favorably so far...%K%P
+

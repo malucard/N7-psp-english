@@ -1,0 +1,2733 @@
+text area offset and size:
+0x4D88
+0xB382
+0x84
+After that, we left the barbecue in a cheerful mood, and%Nreturned to the lodge.%K%P
+
+0x90
+We were reluctant to break up at Princess Beach and%Nend the party...%K%P
+
+0x9C
+Izumi「Well then, why don't we all go to the lodge and play%Ncards?」%K%P
+
+0xA8
+...So we decided to accept Izumi-san's proposal.%K%P
+
+0xB4
+We had played so many rounds of seven bridge that we%Nlost track of time. In the end, everyone got tired and fell%Nasleep past two in the morning...%K%P
+
+0xC0
+As usual, Haruka's in her own room, and Okuhiko is%Nsleeping up in the loft.%K%P
+
+0xCC
+After the game was over, Saki returned to her summer%Nhouse alone while rubbing her sleepy eyelids.%K%P
+
+0xD8
+Truth be told, it seems she'd wanted to stay overnight%Nat the lodge with everyone, but unfortunately, there%Nwasn't enough room for her to sleep.%K%P
+
+0xE4
+Izumi-san is using the living room sofa, while Kurumi-chan%Ntook Makoto's bed.%K%P
+
+0xF0
+Makoto doesn't even have a place to sleep.%K%P
+
+0xFC
+So for tonight, he's sleeping on top of the hard floor...%K%P
+
+0x108
+As for me...%K%P
+
+0x178
+I'm next to Makoto right now.%K%P
+
+0x184
+We're sitting on the floor of his room, our backs leaning%Nagainst the wall.%K%P
+
+0x190
+Kurumi is sleeping soundly in front of us, breathing%Nquietly.%K%P
+
+0x19C
+We're gazing at her peaceful sleeping face.%K%P
+
+0x1A8
+Yuka「But aren't you glad?」%K%P
+
+0x1B4
+I whisper this without taking an eye off of Kurumi's face.%K%P
+
+0x1C0
+Makoto「About what?」%K%P
+
+0x1CC
+Yuka「About Kurumi-chan!」%K%P
+
+0x1D8
+Yuka「She played cards with us the whole time.」%K%P
+
+0x1E4
+Yuka「We didn't have to specifically watch out for her that way,%Nright?」%K%P
+
+0x1F0
+Makoto「Well, yeah...」%K%P
+
+0x1FC
+Yuka「Judging from her sleeping face, I'm sure she won't wake%Nup until morning...」%K%P
+
+0x208
+Makoto「Yeah...」%K%P
+
+0x214
+Yuka「And we haven't gone back to that shrine this whole time,%Nright?」%K%P
+
+0x220
+Makoto「That's right...」%K%P
+
+0x22C
+Yuka「Feels like a 'happily ever after' is coming our way.」%K%P
+
+0x238
+Makoto「Hey... say what you like, but don't you think it's too early%Nto feel that way?」%K%P
+
+0x244
+Yuka「Really?」%K%P
+
+0x250
+Makoto「Yeah...」%K%P
+
+0x25C
+Yuka「...」%K%P
+
+0x268
+Makoto「Just to be safe, why don't you stay with me tomorrow%Nnight?」%K%P
+
+0x27C
+Yuka「You don't... trust me...」%K%P
+
+0x288
+Makoto「It's not like that, but...」%K%P
+
+0x294
+Yuka「Then what is it like?」%K%P
+
+0x2A0
+Makoto「...I told you, it's just to be safe!」%K%P
+
+0x2B4
+Yuka「So you really don't trust me...」%K%P
+
+0x2C0
+He doesn't trust me...%K When I think that, a dull pain hurts%Nmy heart.%K%P
+
+0x2CC
+Makoto「Just hold it right there...」%K%P
+
+0x2D8
+Makoto「How can you expect me to trust you when you were the%None who broke our promise on the last 6th in the first%Nplace?」%K%P
+
+0x2E4
+Yuka「That was...」%K%P
+
+0x2F0
+Makoto「'Don't come here ever again'...Even though you said that%Nin front of the shrine...」%K%P
+
+0x314
+And then, Makoto seems to be taken aback by his own%Nwords, as he gasps in understanding.%K%P
+
+0x320
+Makoto「Say, Yuka...? I still haven't heard it, have I?」%K%P
+
+0x32C
+Yuka「?」%K%P
+
+0x338
+Makoto「Your reason for wanting to go back to the past...」%K%P
+
+0x344
+(...!!)%K%P
+
+0x358
+Yuka「...But... that's alread―」%K%P
+
+0x364
+Makoto「I don't even know what it is...」%K%P
+
+0x370
+Makoto「You never even... told me...」%K%P
+
+0x37C
+Yuka「I'm telling you, it doesn't-」%K%P
+
+0x388
+Makoto「Even so...」%K%P
+
+0x394
+Makoto「Even so...」%K%P
+
+0x3A0
+Makoto「Even so, there's no way I can trust you!」%K%P
+
+0x3AC
+Makoto「I don't know your reason at all!」%K%P
+
+0x3B8
+Makoto「I have no guarantee that you won't go!!」%K%P
+
+0x3C4
+Yuka「...」%K%P
+
+0x3D0
+In my mind... that scene passes by...%K%P
+
+0x3E4
+Kurumi「Mmm... Mmm...」%K%P
+
+0x3F0
+Makoto's shouting causes Kurumi-chan to turn in her%Nbed.%K%P
+
+0x404
+Yuka「Makoto...」%K%P
+
+0x410
+Yuka「You're horrible... Makoto...」%K%P
+
+0x41C
+Makoto「...」%K%P
+
+0x428
+Yuka「I get it... I get it...」%K%P
+
+0x434
+Yuka「I'll tell you everything...」%K%P
+
+0x448
+I say this, and slowly get up.%K%P
+
+0x454
+Yuka「I don't... want to wake Kurumi-chan...」%K%P
+
+0x47C
+I quietly leave the room.%K%P
+
+0x488
+Makoto follows right after me...%K%P
+
+0x510
+I sit down in the center of the short staircase that leads%Nto the terrace.%K%P
+
+0x51C
+Makoto slowly sits down next to me.%K%P
+
+0x528
+The biting cold night wind nips at my ears.%K%P
+
+0x534
+I'm cold...%K But it's not entirely the wind's fault.%K%P
+
+0x548
+The stars filling the night sky emit a cool and clear%Nradiance.%K%P
+
+0x554
+It's the same sky as that day...%K%P
+
+0x560
+The stars continue to endlessly shine.%K%P
+
+0x56C
+It's as if they're resonating with my still unhealed pain...%K%P
+
+0x578
+Before long, I purse my lips, and cut away the last of my%Nhesitation.%K%P
+
+0x5B8
+I quietly gaze at Makoto... and with a soft voice, I start%Nsincerely explaining everything to him.%K%P
+
+0x5C4
+Yuka「I...」%K%P
+
+0x5D0
+Yuka「I wanted to go back to the past... no matter what...」%K%P
+
+0x5DC
+Yuka「I realized it on the night of the 5th...」%K%P
+
+0x5E8
+Yuka「You and I went to the shrine... and talked about time%Ntravel...」%K%P
+
+0x5F4
+Yuka「After that, even when I returned to my room, I couldn't get%Nit out of my head the whole time...」%K%P
+
+0x600
+Yuka「But...」%K%P
+
+0x60C
+Yuka「I turned in my bed countless times... and just when I%Nfinally felt like I was going to fall asleep... I suddenly%Nrealized it...」%K%P
+
+0x618
+Yuka「The meaning of those words...」%K%P
+
+0x624
+Yuka「The meaning of the words... written on the talisman...」%K%P
+
+0x630
+"The spring rain/ At the end of the cape/ Together with/%NThe ringing bell/ Will free you from time".%K%P
+
+0x63C
+Yuka「And before I realized it, it was pouring rain outside...」%K%P
+
+0x648
+Yuka「I headed for the end of the cape... while feeling the cold%Nsensation of the bell in my pocket with my fingertips...」%K%P
+
+0x654
+Yuka「I thought that if I did that, I'd surely return...」%K%P
+
+0x660
+Yuka「Because I wanted... to go back... to that time...」%K%P
+
+0x66C
+Makoto「...」%K%P
+
+0x678
+Yuka「The first boy I loved...」%K%P
+
+0x684
+Yuka「He told me he loved me...」%K%P
+
+0x690
+Yuka「But even so, I... I...」%K%P
+
+0x69C
+Yuka「I still haven't told him...」%K%P
+
+0x6A8
+Yuka「I never told that boy my own feelings...」%K%P
+
+0x6B4
+Makoto「Yuka...」%K%P
+
+0x6C0
+Makoto「Don't tell me that you...」%K%P
+
+0x6CC
+Yuka「...I wanted to tell him I love him!」%K%P
+
+0x6D8
+Yuka「I needed to tell him that no matter what!」%K%P
+
+0x6E4
+Yuka「If I didn't... If I didn't, I...」%K%P
+
+0x6F0
+Makoto「For that purpose...」%K%P
+
+0x6FC
+Makoto「The only reason you did it was for that purpose...?」%K%P
+
+0x708
+Yuka「But that's already-」%K%P
+
+0x714
+Makoto「Don't screw with me!」%K%P
+
+0x720
+Makoto「Then you're telling me that the only reason we're, no, I've%Ncontinued to be toyed with like this is because of your%Nselfish emotions!?」%K%P
+
+0x72C
+Yuka「...」%K%P
+
+0x738
+Makoto「These past ten days... No, it could be ten years or a%Nhundred years for all I know...」%K%P
+
+0x744
+Makoto「For that whole time, we've been stuck like this because%Nof you recklessly acting upon such ridiculous and%Nchildish emotions!」%K%P
+
+0x750
+Yuka「You're wrong...」%K%P
+
+0x75C
+Makoto「Wrong? WRONG!? Then why don't you try telling me what%Nthe fuck I'm wrong about, then!?」%K%P
+
+0x768
+Yuka「That's...」%K%P
+
+0x774
+Makoto「...」%K%P
+
+0x780
+Yuka「...」%K%P
+
+0x78C
+Makoto「...」%K%P
+
+0x798
+Yuka「...」%K%P
+
+0x7A4
+Makoto「I get it... That's enough...」%K%P
+
+0x7B0
+Makoto「That's enough... Nothing matters right now...」%K%P
+
+0x7BC
+Makoto「...What the hell...」%K%P
+
+0x7C8
+Makoto「...I've had enough...」%K%P
+
+0x7DC
+Makoto stands up while shaking his head.%K%P
+
+0x7E8
+His shoulders slouch...%K He stares off into space, not%Nlooking at anything.%K%P
+
+0x7F4
+He staggers up the stairs.%K%P
+
+0x800
+Yuka「Makoto...」%K%P
+
+0x80C
+I speak up as he ascends the stairs with unsteady feet.%K%P
+
+0x828
+However, Makoto ignores me as he silently disappears%Ninto the lodge...%K%P
+
+0x8BC
+I stare at the dark ceiling in my room while lying on the%Nbed.%K%P
+
+0x8C8
+I can't see the stars in this pitch black room.%K%P
+
+0x8D4
+It's quiet...%K%P
+
+0x8E0
+The only sound that reaches my ears is the ticking of%Nthe clock, reminding me of the passing time.%K%P
+
+0x8EC
+Darkness and silence...%K%P
+
+0x8F8
+While wrapped up in both, several scenes run through%Nmy head.%K%P
+
+0x904
+...%K%P
+
+0x918
+"If I could have one wish granted..."%K%P
+
+0x924
+―In the past, I would always think about that "what if".%K%P
+
+0x930
+"I want to go back to that time once more."%K%P
+
+0x93C
+―The past me wished that.%K%P
+
+0x948
+In order to grant the unfulfilled desire I've held for a long%Ntime.%K%P
+
+0x954
+...%K%P
+
+0x9C4
+Saki「Are you... over him? That boy, I mean...」%K%P
+
+0xA0C
+I'm not over him...%K I'm really not all right about it...%K%P
+
+0xA18
+I still haven't broken free of it.%K%P
+
+0xA24
+Quite the contrary; it's tied me down.%K To the past, to that%Ntime.%K%P
+
+0xA30
+For a long, long time... I've been trying... to forget it.%K%P
+
+0xA3C
+Yuka「...I wanted to tell him I love him!」%K%P
+
+0xA48
+Yuka「I needed to tell him no matter what!」%K%P
+
+0xA54
+That is my one, eternal wish.%K%P
+
+0xA60
+...%K%P
+
+0xAC8
+Makoto「Then you're telling me that the only reason we're, no, I've%Ncontinued to be toyed with like this is because of your%Nselfish emotions!?」%K%P
+
+0xAD4
+Makoto「These past ten days... no, it could be ten years or a%Nhundred years for all I know...」%K%P
+
+0xAE0
+Makoto「For that whole time, we've been stuck like this because%Nof you recklessly acting upon such ridiculous and%Nchildish emotions!」%K%P
+
+0xAEC
+To tell the person you love that you love them.%K I also%Nwanted to tell him those words.%K%P
+
+0xAF8
+Was it really that bad of a thing to do?%K%P
+
+0xB04
+Gradually, I begin to question it more and more...%K%P
+
+0xB10
+Makoto「For that purpose...」%K%P
+
+0xB1C
+Makoto「The only reason you did it was for that purpose...?」%K%P
+
+0xB28
+Yuka「You're wrong...」%K%P
+
+0xB34
+Makoto「Wrong? WRONG!? Then why don't you tell what the fuck I'm%Nwrong about, then!?」%K%P
+
+0xB40
+That's...%K That's...%K%P
+
+0xB4C
+It might actually be a bad thing...%K%P
+
+0xB70
+...%K%P
+
+0xB7C
+"If I could have one wish granted."%K%P
+
+0xB88
+―In the past, I would always think about that "what if".%K%P
+
+0xB94
+―What does the current me wish for?%K%P
+
+0xBE4
+...%K%P
+
+0xBF0
+As I'm gradually being lulled into sleep, I recall the night I%Nsaw the shooting star with Makoto...%K%P
+
+0xCDC
+??「Yuka... Yuka...!」%K%P
+
+0xCE8
+I hear someone calling my name...%K%P
+
+0xCF4
+Yuka「Hmm? ...Mmm...」%K%P
+
+0xD00
+??「If you don't get up soon, you'll be late, right?」%K%P
+
+0xD0C
+―L-Late!?%K%P
+
+0xD40
+Once I realize the meaning of those words, I jump to my%Nfeet, startled.%K%P
+
+0xD74
+I make out Haruka in my still hazy vision.%K%P
+
+0xD9C
+Yuka「Haruka...?」%K%P
+
+0xDA8
+Haruka「...Good morning.」%K%P
+
+0xDC4
+Yuka「Mmm... good morning...」%K%P
+
+0xDD0
+I do my hair up as I say this.%K%P
+
+0xDDC
+Yuka「...Why would I be late?」%K%P
+
+0xDE8
+Haruka「Because it's already the promised time...」%K%P
+
+0xDF4
+The clock's hands are already point at 11:00 A.M.%K%P
+
+0xE00
+Haruka「We made a promise last night, didn't we?」%K%P
+
+0xE0C
+Haruka「That we'd go to Lunabeach for lunch.」%K%P
+
+0xE20
+Yuka「...Is that right?」%K%P
+
+0xE2C
+Haruka「Yes.」%K%P
+
+0xE38
+I don't remember that at all.%K%P
+
+0xE4C
+Haruka「Okuhiko has to treat us too... so why don't we hurry up%Nand go?」%K%P
+
+0xE60
+Yuka「Okuhiko-kun is?」%K%P
+
+0xE6C
+Haruka「Because of what happened when we played seven%Nbridge yesterday.」%K%P
+
+0xE78
+Now that I think about it, didn't we make some kind of bet%Nyesterday at seven bridge...?%K%P
+
+0xE84
+It seems the bet was about today's lunch.%K%P
+
+0xE90
+Yuka「And Okuhiko-kun lost?」%K%P
+
+0xEA4
+Haruka「You don't remember...?」%K%P
+
+0xEB8
+Yuka「No, not really... I was drunk, you see.」%K%P
+
+0xEC4
+Haruka「Hmm...」%K%P
+
+0xED0
+The truth is, I was worried about Kurumi, so I wasn't really%Npaying attention to what was happening...%K%P
+
+0xEDC
+Haruka「Come on, let's get ready...」%K%P
+
+0xEF0
+Yuka「Ah... umm... I'm sorry, but...」%K%P
+
+0xEFC
+Haruka「???」%K%P
+
+0xF08
+Yuka「I'll pass...」%K%P
+
+0xF1C
+Haruka「Huh? Why?」%K%P
+
+0xF28
+Yuka「Well, that's...」%K%P
+
+0xF34
+Yuka「...」%K%P
+
+0xF48
+Yuka「...because I have a hangover...」%K%P
+
+0xF5C
+Haruka「...」%K%P
+
+0xF68
+Haruka lets out a light sigh.%K%P
+
+0xF74
+Haruka「...I see. So you and Makoto won't be coming.」%K%P
+
+0xF88
+Yuka「...Makoto too?」%K%P
+
+0xF9C
+Haruka「He wouldn't wake up... no matter how many times I called%Nhis name.」%K%P
+
+0xFA8
+Haruka「So Okuhiko said to leave him.」%K%P
+
+0xFB4
+Yuka「So that's it...」%K%P
+
+0xFC0
+Haruka「Well then, we'll be going now...」%K%P
+
+0xFD4
+When I nod, Haruka slowly walks towards the door.%K%P
+
+0xFF8
+And the moment she grabs the doorknob, she turns%Naround as if she's remembered something.%K%P
+
+0x100C
+Haruka「...It'd be best if you washed your face quickly.」%K%P
+
+0x1018
+Yuka「Huh?」%K%P
+
+0x102C
+Haruka「Because you've got tearstains left on it...」%K%P
+
+0x10C0
+After I change my clothes, brush my teeth, and wash my%Nface, I sit down on the living room sofa.%K%P
+
+0x10CC
+The sky I see from the window is different than%Nyesterday's, covered in dense clouds.%K%P
+
+0x10D8
+Just as Izumi-san said, it'll rain heavily tonight...%K%P
+
+0x10E4
+Everything is the same as last time.%K%P
+
+0x10F0
+There's just one difference...%K%P
+
+0x10FC
+...Makoto isn't beside me.%K%P
+
+0x116C
+...%K%P
+
+0x1178
+Makoto had woken up around this time.%K%P
+
+0x1184
+Makoto「G-Good morning...」%K%P
+
+0x1190
+He had made an awkward greeting.%K%P
+
+0x11A4
+Yuka「What's with that, Makoto? Are you still half asleep?」%K%P
+
+0x11B8
+Yuka「Shall we get ready and go?」%K%P
+
+0x11CC
+And then we headed out to Lunabeach...%K%P
+
+0x121C
+...%K%P
+
+0x1228
+The ocean is a drab gray color, reflecting the cloudy%Nsky.%K%P
+
+0x1234
+It mirrors the color of my heart right now.%K%P
+
+0x1240
+White would be too cheerful.%K On the other hand, black is%Ntoo gloomy...%K So it's grey.%K%P
+
+0x124C
+Yuka「Haah...」%K%P
+
+0x1258
+I sigh deeply, and head over to the kitchen.%K%P
+
+0x1264
+For now, I'll try to cook something in order to cheer%Nmyself up, even if it's only a little bit.%K%P
+
+0x1270
+(I'm pretty sure that we have eggs, tomatoes, and corn%Nbeef in the fridge...)%K%P
+
+0x127C
+It's been a long time since I've cooked, so I'm worried%Nthat my skills have dulled.%K%P
+
+0x12D8
+After I finish eating, I sit on a dining chair while spacing%Nout.%K%P
+
+0x12E4
+There's nothing to do...%K%P
+
+0x12F0
+On the table in front of me is some after-lunch coffee I%Nplaced there.%K%P
+
+0x1328
+The cuckoo clock in the living room chirps once.%K%P
+
+0x1334
+...It seems it's 1:00 P.M.%K%P
+
+0x135C
+I slowly take the origami cat out of my pocket.%K%P
+
+0x1370
+I slowly take the cat keychain out of my pocket.%K%P
+
+0x137C
+My gaze shifts from the cat to the door leading to%NMakoto's room.%K%P
+
+0x1388
+There's no sign that'll he rise soon.%K%P
+
+0x13A4
+Is he planning on sleeping forever...?%K%P
+
+0x13B0
+But if he does come out of his room, then what kind of%Nface should I show him?%K What words should I use?%K%P
+
+0x13BC
+Should I give him a wide smile and say "Good morning"?%K ...%NOr...%K Should I give him an apologetic glance and say%N"Sorry"?%K%P
+
+0x13C8
+At that time, what face would Makoto make?%K What words%Nwould he respond with?%K%P
+
+0x13D4
+...%K%P
+
+0x13E0
+I've filled my stomach, but my heart is still empty...%K%P
+
+0x1444
+...My head is slumped on the table.%K%P
+
+0x1450
+It seems like I'd dozed off when I wasn't paying attention...%K%P
+
+0x145C
+I take a sip of the coffee.%K%P
+
+0x1468
+It's now completely cold, having lost all its flavor.%K%P
+
+0x1474
+...%K%P
+
+0x14AC
+I hear the sound of a clang.%K%P
+
+0x14B8
+I look towards Makoto's room by reflex.%K%P
+
+0x14C4
+The door slowly begins to open, as if it were in slow%Nmotion...%K%P
+
+0x14D0
+The one who comes out is...%K%P
+
+0x14E4
+...Saki...?%K%P
+
+0x14F8
+Why did Saki...%K Come here...%K%P
+
+0x1504
+...%K%P
+
+0x1510
+...%K%P
+
+0x151C
+... ...Huh!?%K%P
+
+0x1528
+(Wh-Why is Saki coming out of there!?!?)%K%P
+
+0x153C
+My eyes meet Saki's.%K%P
+
+0x1548
+She looks unusually solemn...%K%P
+
+0x1554
+She then quietly walk over to me.%K%P
+
+0x157C
+My heart beats loudly, like a drum.%K%P
+
+0x1588
+...%K%P
+
+0x15D0
+Saki「Good morning.」%K%P
+
+0x15FC
+Yuka「G-Good morning...」%K%P
+
+0x1608
+Saki「Has your hangover cleared up?」%K%P
+
+0x161C
+Yuka「Y... Yes. Completely...」%K%P
+
+0x1628
+Feeling awkward, I avert my gaze from Saki's eyes.%K%P
+
+0x1634
+Saki「I see...」%K%P
+
+0x1640
+Saki「Then do you mind if we talk for a bit?」%K%P
+
+0x164C
+I give her a stiff nod.%K%P
+
+0x1660
+Saki sits down next to me.%K%P
+
+0x166C
+The sweet scent wrapped around her lingers in the air.%K%P
+
+0x1680
+Saki「You're probably wondering what I'm doing here, huh?」%K%P
+
+0x168C
+Yuka「...」%K%P
+
+0x1698
+Saki「I heard about it from Haruka-chan at Lunabeach...」%K%P
+
+0x16A4
+Saki「She said, 'Makoto and Yuka are acting strange'.」%K%P
+
+0x16B0
+Saki「The two of you were so cheerful yesterday, so for you%Nto suddenly be absent was definitely strange.」%K%P
+
+0x16BC
+Yuka「...」%K%P
+
+0x16C8
+Saki「I was worried, so I came here, and found Makoto-kun still%Nin bed at this time.」%K%P
+
+0x16D4
+Saki「Yuka, you also seem kinda depressed.」%K%P
+
+0x16E0
+Yuka「I'm... I'm not depre-」%K%P
+
+0x16F4
+Saki「You're lying.」%K%P
+
+0x1708
+Yuka「W-Why do you...」%K%P
+
+0x1714
+Saki「You didn't look me in the eyes.」%K%P
+
+0x1728
+Yuka「...」%K%P
+
+0x1734
+Saki「Did something happen?」%K%P
+
+0x1740
+Yuka「...」%K%P
+
+0x174C
+Saki「Did you have a fight?」%K%P
+
+0x1758
+Yuka「...」%K%P
+
+0x176C
+Saki「No comment again, huh...」%K%P
+
+0x1780
+Yuka「I'm telling you, it's nothing!」%K%P
+
+0x178C
+Saki「That's also a lie.」%K%P
+
+0x17A0
+Saki「Geez, you and Makoto-kun are such poor liars.」%K%P
+
+0x17AC
+Saki「It's really easy to see through you.」%K%P
+
+0x17C0
+Yuka「You think so...?」%K%P
+
+0x17CC
+Saki「Of course! You haven't changed at all since middle%Nschool.」%K%P
+
+0x17D8
+Saki「You haven't taken a single step forwards since that time.」%K%P
+
+0x17E4
+(That ...time ... )%K%P
+
+0x17F0
+Saki「Didn't I ask you before?」%K%P
+
+0x17FC
+Saki「'Are you over him?'」%K%P
+
+0x1808
+Saki「The truth is, you're not over him at all, nor are you okay,%Nare you?」%K%P
+
+0x1814
+Yuka「...」%K%P
+
+0x1820
+Saki「Ever since then, you've been acting strange.」%K%P
+
+0x182C
+Saki「Makoto-kun also seems to be depressed...」%K%P
+
+0x1838
+(Ma ...koto ... )%K%P
+
+0x1844
+Saki「When I questioned Makoto-kun about it, all he had to say%Nwas this.」%K%P
+
+0x1850
+Saki「'It has nothing to do with you, Saki!'」%K%P
+
+0x185C
+Saki「Those two really are spitting images.」%K%P
+
+0x1868
+Saki「Yuka...」%K%P
+
+0x1874
+Saki「...I loved that boy.」%K%P
+
+0x1898
+Yuka「...!」%K%P
+
+0x18AC
+Saki「Oh? Your face tells me that you want to say something.」%K%P
+
+0x18B8
+Saki「If there's something you want to say, then why don't you%Njust spit it out?」%K%P
+
+0x18CC
+Yuka「...」%K%P
+
+0x18E0
+Saki「If it's about Makoto-kun and that boy, then I think you%Nshould definitely say it.」%K%P
+
+0x18EC
+Yuka「...」%K%P
+
+0x18F8
+Saki「...」%K%P
+
+0x1904
+Yuka「...」%K%P
+
+0x1910
+Saki「Hmm?」%K%P
+
+0x191C
+Yuka「Saki...」%K%P
+
+0x1928
+Yuka「Saki... do you...」%K%P
+
+0x1934
+Yuka「...」%K%P
+
+0x1940
+Yuka「Do you... like Makoto?」%K%P
+
+0x194C
+Saki「...」%K%P
+
+0x1958
+Yuka「...」%K%P
+
+0x1964
+...%K%P
+
+0x1970
+The long silence continues as Saki thinks for what%Nseems to be forever.%K%P
+
+0x197C
+Before long, Saki slowly opens her mouth...%K%P
+
+0x1988
+Saki「I do.」%K%P
+
+0x199C
+Yuka「―!!!」%K%P
+
+0x19A8
+...I instinctively gasp.%K%P
+
+0x19B4
+It feels like someone has tightly grabbed my heart and is%Nsqueezing it...%K%P
+
+0x19C0
+As if all the blood in my body is flowing backwards...%K%P
+
+0x19CC
+...It's that kind of feeling.%K%P
+
+0x19D8
+I was expecting this, but... it's still shocking.%K%P
+
+0x19EC
+Saki「But...」%K%P
+
+0x19F8
+Saki casts down her gaze.%K%P
+
+0x1A04
+Saki「But it might be a little different than the normal definition%Nof 'like'...」%K%P
+
+0x1A10
+Yuka「...?」%K%P
+
+0x1A1C
+Saki「Would you call it 'projection'...? Mmm, that's not right%Neither...」%K%P
+
+0x1A30
+Yuka「...I don't really understand what you're saying...」%K%P
+
+0x1A3C
+Saki「I know... I can't explain it very well with the way I'm talking%Nnow.」%K%P
+
+0x1A48
+Saki「Then I'll just talk about everything one piece at a time...」%K%P
+
+0x1A54
+She takes in a deep breath, and slowly exhales...%K%P
+
+0x1A8C
+Saki leans back on her chair, and stares into space.%K%P
+
+0x1A98
+It's as if her mind is running back to the far off, distant%Npast...%K%P
+
+0x1AC8
+Saki「Just like you...」%K%P
+
+0x1AD4
+Saki「Just like you, I also loved that boy.」%K%P
+
+0x1AE0
+Saki「I don't remember how it started.」%K%P
+
+0x1AEC
+Saki「Did I yearn for his unbound, free lifestyle...?」%K%P
+
+0x1AF8
+Saki「Or maybe it's because he had a lot of things I didn't...」%K%P
+
+0x1B04
+Saki「But...」%K%P
+
+0x1B10
+Saki「But... that boy loved you...」%K%P
+
+0x1B1C
+Yuka「...」%K%P
+
+0x1B30
+Saki「It was frustrating, but... the fact remained that there was%Nnothing I could do about it...」%K%P
+
+0x1B3C
+She says this with a faint voice as she hangs her head...%K%P
+
+0x1B50
+Saki「Before long, time passed... and I met Makoto-kun here.」%K%P
+
+0x1B5C
+Saki「I told you this before, but what Makoto-kun said was the%Nexact same thing that boy said.」%K%P
+
+0x1B68
+Saki「And then, I realized Makoto-kun had begun to captivate%Nme.」%K%P
+
+0x1B74
+Yuka「...」%K%P
+
+0x1B80
+Saki「But I was uneasy.」%K%P
+
+0x1B8C
+Yuka「...?」%K%P
+
+0x1B98
+Saki「Because Makoto-kun also might have already loved%Nsomeone else...」%K%P
+
+0x1BA4
+Saki「I didn't want to feel like I did last time...」%K%P
+
+0x1BB0
+Saki「So I decided to try confirming it during the Test of%NCourage.」%K%P
+
+0x1BBC
+Yuka「...So when you were talking about 'confirming' on that%Nday...?」%K%P
+
+0x1BC8
+Saki「Yes, that's right.」%K%P
+
+0x1BD4
+Saki「Just before we made pairs, I made a secret deal with%NMakoto-kun...」%K%P
+
+0x1BE0
+Yuka「A secret deal?」%K%P
+
+0x1BEC
+Saki「In other words...」%K%P
+
+0x1C00
+Saki explains that they planned to release the same%Nhand during Rock-Paper-Scissors, so that way they%Nwould definitely become a pair.%K%P
+
+0x1C0C
+So that's what those two were talking about on the way%Nto the Test of Courage...%K%P
+
+0x1C58
+Saki「When the Test of Courage began and after the two of us%Nleft, I first thought I'd try bringing up the story of that%Nboy.」%K%P
+
+0x1C64
+Saki「I wanted him to know about just that in advance before I%Nbegan talking about anything...」%K%P
+
+0x1C70
+Saki「Well, he already knew anyway.」%K%P
+
+0x1C7C
+Yuka「...」%K%P
+
+0x1C88
+Saki「But... during the Test of Courage, you interfered...」%K%P
+
+0x1C94
+Yuka「Huh? I... interfered?」%K%P
+
+0x1CB8
+Saki「You suddenly started screaming, so we came running%Nover to you.」%K%P
+
+0x1CC4
+Yuka「Hmm, did I really...?」%K%P
+
+0x1CD0
+Saki「Even if you don't remember it, that's how it went down!」%K%P
+
+0x1CE4
+Saki「Then after that, Makoto-kun said he wasn't going to the%Nhot springs...」%K%P
+
+0x1CF0
+Saki「I also had business to attend to, so I had to give up for%Nthat day...」%K%P
+
+0x1CFC
+Saki「...And so, I attempted to try again at the barbecue%Nyesterday.」%K%P
+
+0x1D64
+Saki「I think it was just about past 8:00.」%K%P
+
+0x1D70
+Saki「It was when the party was reaching the climax...」%K%P
+
+0x1D84
+Saki「It seemed like you and Makoto-kun were considerably%Ndrunk...」%K%P
+
+0x1D90
+Saki「And so I thought 'This is my chance!'」%K%P
+
+0x1D9C
+Saki「You couldn't tell at all what was going on around you.」%K%P
+
+0x1DA8
+Yuka「...」%K%P
+
+0x1DB4
+Saki「And besides, you know what they say: 'In vino veritas'.」%K%P
+
+0x1DC0
+Saki「That's why I decided to pretend to be drunk, and%Ngrabbed Makoto.」%K%P
+
+0x1DCC
+Saki「And then I said 'If I said I liked you, what would you do?'.」%K%P
+
+0x1DD8
+Yuka「...A-And then...?」%K%P
+
+0x1DE4
+Saki「...」%K%P
+
+0x1DF0
+Saki「He made a troubled face, then went deep in thought...」%K%P
+
+0x1DFC
+Saki「...And then, his face grew serious, and he said this...」%K%P
+
+0x1E08
+"I already have someone I love..."%K%P
+
+0x1E14
+Yuka「...」%K%P
+
+0x1E20
+Saki「And on top of that, he said one more thing, as if to%Nsmooth things over.」%K%P
+
+0x1E2C
+Saki「'If you had asked me that before the Seminar Camp had%Nbegun, my answer might have been different,'...」%K%P
+
+0x1E38
+Yuka「...」%K%P
+
+0x1E44
+Saki「However, he most likely doesn't remember saying that%Nanymore...」%K%P
+
+0x1E94
+Saki「...I was quite shocked...」%K%P
+
+0x1EA0
+Saki「It was as if that boy was the one who said that...」%K%P
+
+0x1EAC
+Yuka「...」%K%P
+
+0x1EC0
+Saki「But you know what? I was engulfed by the cheerful%Natmosphere around me, and before I knew it, the pain%Ngradually went away...」%K%P
+
+0x1ECC
+Saki「After that... I thought about it that night, and I realized it...」%K%P
+
+0x1EE0
+...Her eyes lower, and she clenches her hands into fists.%K%P
+
+0x1EEC
+Saki「I ...didn't love Makoto-kun.」%K%P
+
+0x1EF8
+Yuka「Why do you say that...?」%K%P
+
+0x1F0C
+Saki「To 'like' someone has many different meanings.」%K%P
+
+0x1F18
+Saki「How do I put it...」%K%P
+
+0x1F24
+Saki「For example, in Japanese, the word 'suki' can mean to%N'like' or 'love'. It's like the difference between those two.」%K%P
+
+0x1F30
+Yuka「Like and love...?」%K%P
+
+0x1F3C
+Saki「...I'm sorry. It seems like I can't explain it well after all.」%K%P
+
+0x1F50
+Saki「But you know...」%K%P
+
+0x1F5C
+Saki「This was all because I didn't understand something from%Nthe beginning...」%K%P
+
+0x1F68
+Saki「As time passes... and you get older...」%K%P
+
+0x1F7C
+Saki「...You meet a lot more people, don't you? You can fall in%Nlove more than once, can't you?」%K%P
+
+0x1F88
+Saki「And so, I finally understand...」%K%P
+
+0x1F94
+Saki「What 'love' is.」%K%P
+
+0x1FA0
+Yuka「...」%K%P
+
+0x1FAC
+...Are those words her true feelings...?%K%P
+
+0x1FB8
+My eyelids faintly tremor and I become uneasy...%K%P
+
+0x1FC4
+Saki「...」%K%P
+
+0x1FD0
+Yuka「But...」%K%P
+
+0x1FDC
+Yuka「But Saki, you... loved that boy, right?」%K%P
+
+0x1FE8
+Saki「...Yes.」%K%P
+
+0x1FF4
+Yuka「And... you see Makoto as his spitting image in all except%Nappearance...」%K%P
+
+0x2008
+Saki「...That's right.」%K%P
+
+0x2014
+Yuka「Then...!」%K%P
+
+0x2028
+Saki「Hey, Yuka? Do you know about lilacs?」%K%P
+
+0x2034
+Yuka「Lilacs...?」%K%P
+
+0x2040
+...It's the flower used in Saki's perfume.%K%P
+
+0x204C
+"By the way, Saki-chan, is that perfume you're using%Nlilac?"%K%P
+
+0x2058
+Izumi-san said that yesterday.%K%P
+
+0x2064
+It's a spring flower, and it's the sweet scent that's been%Nemanating from Saki...%K%P
+
+0x2078
+Saki「I love purple lilacs very much...」%K%P
+
+0x2084
+Saki「It's the flower I use in my perfume nowadays.」%K%P
+
+0x2090
+Saki「But in flower language, lilac means...」%K%P
+
+0x209C
+Saki「'The joy of youth' . It also means...」%K%P
+
+0x20A8
+Saki「'Memories of younger days'.」%K%P
+
+0x20B4
+Yuka「...Memories?」%K%P
+
+0x20C8
+Saki「It means what it says. To me, everything is nothing more%Nthan a memory.」%K%P
+
+0x20D4
+Saki「In other words, Makoto-kun and that boy are just%Nadditions to those memories...」%K%P
+
+0x20E0
+Saki「The only one I loved was that boy...」%K%P
+
+0x20EC
+...Her eyes... gaze off into the distance...%K%P
+
+0x20F8
+What is she looking at...?%K%P
+
+0x2104
+Saki「Besides... didn't I tell you?」%K%P
+
+0x2110
+Saki「Makoto-kun has it for someone else. He doesn't even%Nthink the slightest about me.」%K%P
+
+0x2124
+Yuka「...」%K%P
+
+0x2130
+Someone else...%K Someone else...%K Who is that...?%K%P
+
+0x213C
+Saki「Ah... For your information, I still haven't aged past my%N'younger days' just yet.」%K%P
+
+0x2148
+Yuka「...」%K%P
+
+0x215C
+Yuka「Huh? Oh, yeah, I know...」%K%P
+
+0x2178
+Saki「What was with that 'pause' just now...?」%K%P
+
+0x2184
+She's thinking deeply, even though I didn't ask her%Nanything...%K%P
+
+0x2198
+Saki「In the first place, we're the same age.」%K%P
+
+0x21AC
+Yuka「Geez, I get it already...」%K%P
+
+0x21C0
+I say this, and immediately offer her the coffee cup in%Nfront of me.%K%P
+
+0x21CC
+Saki obediently accepts it, and brings the cup to her%Nmouth.%K%P
+
+0x21D8
+Saki「―!?」%K%P
+
+0x21EC
+Saki「What the hell is this? It's like ice coffee, only colder!」%K%P
+
+0x21F8
+Yuka「Oh... sorry. I'll go brew another one up...」%K%P
+
+0x220C
+Saki「It's fine, I'll do it.」%K%P
+
+0x2220
+She says that, takes the cup, and disappears into the%Nkitchen.%K%P
+
+0x223C
+...%K%P
+
+0x2248
+It kinda feels like I'm forcing myself to listen to her... At%Nleast, that's what I think.%K%P
+
+0x2254
+I'm much more aware than earlier, but it still doesn't feel%Nlike I can fully awaken yet...%K%P
+
+0x228C
+The cuckoo clock in the living room chirps twice.%K%P
+
+0x2298
+...It's 2:00 P.M.%K%P
+
+0x22D0
+Before long, Saki comes out of the kitchen, holding a%Ntray.%K%P
+
+0x22DC
+On the tray are two steaming hot cups, a sugar pot, and%Nmilk.%K%P
+
+0x22E8
+She silently places the cups on the table.%K%P
+
+0x22F4
+Instead of coffee, the cups contain black tea.%K%P
+
+0x2300
+Yuka「Th-Thank you...」%K%P
+
+0x230C
+Saki silently sits down.%K%P
+
+0x2318
+She puts sugar into her tea, and mixes it with a spoon.%K%P
+
+0x2324
+She spends a few seconds sniffing up the aroma of the%Ntea, then drinks it...%K%P
+
+0x2330
+...%K%P
+
+0x2344
+Saki「Ahh... that was calming.」%K%P
+
+0x2350
+...She's finally begun talking again.%K%P
+
+0x235C
+I let out a spontaneous sigh of relief.%K%P
+
+0x2368
+Saki「...Well then, now it's your turn.」%K%P
+
+0x2384
+Yuka「Huh?」%K%P
+
+0x2390
+She says this so abruptly that I don't know what she's%Ntalking about.%K%P
+
+0x239C
+Saki「It's your turn to tell me your real feelings.」%K%P
+
+0x23B0
+Yuka「...」%K%P
+
+0x23BC
+I gulp deeply.%K%P
+
+0x23C8
+Saki「Yuka, you're different than me, right?」%K%P
+
+0x23D4
+Saki「You're deeply in love with Makoto-kun...」%K%P
+
+0x23E0
+Saki「...aren't you?」%K%P
+
+0x23EC
+Yuka「...」%K%P
+
+0x23F8
+Saki stares intently at me, as if she can see through my%Nmind...%K%P
+
+0x2424
+Saki and I are the only ones in the room...%K The dining room%Nis as still as death...%K%P
+
+0x2430
+Saki's captivating eyes don't move an inch.%K%P
+
+0x243C
+I wonder if she plans to keep staring at me like that%Nforever until she gets an answer...%K%P
+
+0x2448
+"Well?"%K Her eyes are asking me that.%K%P
+
+0x2454
+Unable to stand the tension anymore, I slowly shake my%Nhead.%K%P
+
+0x2484
+Saki「You're lying...」%K%P
+
+0x2490
+Saki's eyes narrow.%K%P
+
+0x249C
+Yuka「...」%K%P
+
+0x24A8
+Saki「You won't admit it?」%K%P
+
+0x24B4
+Yuka「...I-I don't know...」%K%P
+
+0x24C0
+I continue to shake my head...%K%P
+
+0x24CC
+Saki「You're just trying to deceive me again...!」%K%P
+
+0x24D8
+Saki「How long...?」%K%P
+
+0x24E4
+Saki「How long will this continue?」%K%P
+
+0x24F0
+―The air freezes over.%K%P
+
+0x2504
+Saki「You've always continued to deceive me!!!」%K%P
+
+0x2728
+Saki strikes the table with a "bang!"%K%P
+
+0x2740
+She leans her body forward, and glares at me.%K%P
+
+0x274C
+Saki「I... want to know your true feelings.」%K%P
+
+0x2758
+Saki「I'm sick of hearing all of these lies and crap coming from%Nyou.」%K%P
+
+0x2764
+Saki「Just earlier, I'd planned on telling you my true feelings%Nfrom the start.」%K%P
+
+0x2770
+Saki「So tell me what's on your mind.」%K%P
+
+0x277C
+Saki「I can't wait any longer for this. You've made me impatient%Nenough.」%K%P
+
+0x27A0
+Saki「Come on...!」%K%P
+
+0x29CC
+Yuka「―I WISH I COULD TELL YOU!!!」%K%P
+
+0x29E4
+Something within me bursts open and springs forth.%K%P
+
+0x2A00
+Saki「Yu―?」%K%P
+
+0x2A24
+Yuka「I want to know that... myself...!」%K%P
+
+0x2A38
+Saki「...」%K%P
+
+0x2A4C
+Yuka「Of course, I do...」%K%P
+
+0x2A58
+Yuka「...like Makoto...」%K%P
+
+0x2A64
+Yuka「But...」%K%P
+
+0x2A70
+Saki「...」%K%P
+
+0x2A84
+Yuka「I... I don't know.」%K%P
+
+0x2A90
+Yuka「I still don't know...」%K%P
+
+0x2A9C
+Yuka「Whether these feelings are love or not.」%K%P
+
+0x2AA8
+Yuka「I don't know if they're something else...」%K%P
+
+0x2AB4
+Saki「...」%K%P
+
+0x2AC0
+Yuka「I can't tell the difference between 'like' and love' either...!」%K%P
+
+0x2ACC
+Everything that's pouring out of me is a scream from my%Nheart.%K%P
+
+0x2AD8
+Finally, I feel tears trickling down my face...%K%P
+
+0x2AE4
+Saki「...」%K%P
+
+0x2AF0
+Yuka「I have no confidence in my own feelings...」%K%P
+
+0x2B04
+Saki「Because you might just be chasing after a memory...?」%K%P
+
+0x2B10
+I silently nod.%K%P
+
+0x2B34
+...%K%P
+
+0x2B48
+Saki「Yuka...」%K%P
+
+0x2B54
+Saki「Do you know... why it is you can't tell the difference?」%K%P
+
+0x2B60
+I shake my head.%K%P
+
+0x2B6C
+Saki「I said it earlier, right? It's because you haven't changed%Na bit from when we were in middle school.」%K%P
+
+0x2B78
+Saki「You're not that much different from a child who's only%Njust started to love someone.」%K%P
+
+0x2B84
+Saki「People must meet others, fall in love, and get hurt...」%K%P
+
+0x2B90
+Saki「...That's how you grow up.」%K%P
+
+0x2B9C
+Saki「But you stopped growing up at that time...」%K%P
+
+0x2BA8
+Saki「Ever since 'that time'...」%K%P
+
+0x2BD0
+(That time... That time... )%K%P
+
+0x2BDC
+I start to feel a throbbing pain in my head.%K My body%Ntrembles violently.%K%P
+
+0x2BE8
+I instantly wrap my arms around myself as tight as I can,%Nembracing my body.%K%P
+
+0x2BFC
+Saki「It seems like you still haven't told Makoto-kun about it%Nyet...」%K%P
+
+0x2C08
+Yuka「...」%K%P
+
+0x2C14
+Saki「About that boy who was in our class in 9th grade ...and%Nthe incident in June...」%K%P
+
+0x2C20
+Saki「That is, what happened at the hotel we stayed at at the%Nend of our field trip...」%K%P
+
+0x2C58
+I instinctively shut my eyes tightly.%K%P
+
+0x2C64
+Not wanting to hear the rest, I try to cover my ears.%K%P
+
+0x2C70
+―But Saki pins my hands down.%K%P
+
+0x2CB0
+Saki「Are you planning to ignore the truth by covering your%Nears and closing your eyes like that...?」%K%P
+
+0x2CBC
+I violently shake my head like a spoiled child throwing a%Ntantrum.%K%P
+
+0x2CC8
+Saki「You can't do that...」%K%P
+
+0x2CD4
+Saki「If you do, then you'll never get past the whole thing.」%K%P
+
+0x2CE0
+Saki「Because...」%K%P
+
+0x2CEC
+Saki「Because that boy is already...」%K%P
+
+0x2D18
+Saki「―Dead.」%K%P
+
+0x2D24
+Yuka「―――――!!」%K%P
+
+0x2D30
+My eyes open, and I freeze on the spot.%K%P
+
+0x2D3C
+Large tears come pouring down from my eyes.%K%P
+
+0x2D48
+It feels like my heart has been gouged out.%K%P
+
+0x2D54
+If possible, I had wanted to forget... that part of my past.%K%P
+
+0x2D68
+Saki「Yuka...」%K%P
+
+0x2D74
+Saki「Since that incident happened, your time has stopped.」%K%P
+
+0x2D80
+Saki「No... perhaps...」%K%P
+
+0x2D8C
+Saki「It might be more accurate to say... that you've been%Ncoming and going back to the same time.」%K%P
+
+0x2D98
+Saki「Because at this rate, you'll just repeat the same mistake%Nover and over again...」%K%P
+
+0x2DA4
+(Repeat the same... mistake...)%K%P
+
+0x2DB0
+(...Over and over again...)%K%P
+
+0x2DBC
+Saki「What the current you needs to do is not to forget, but to%Nmove on.」%K%P
+
+0x2DC8
+Saki「In order to do that, you need to face the source of your%Nobstacle.」%K%P
+
+0x2DD4
+Yuka「...」%K%P
+
+0x2DE0
+(I don't want to remember... I don't want to remember... I%NDON'T WANT TO REMEMBER... )%K%P
+
+0x2DEC
+(If I remember, then... my heart will completely break... )%K%P
+
+0x2DF8
+I shiver once again.%K%P
+
+0x2E04
+Saki then firmly grasps my hand.%K%P
+
+0x2E10
+As she grasps it...%K%P
+
+0x2E24
+Saki「...It's all right. Don't think that you're weak at all.」%K%P
+
+0x2E30
+...she says this with an admonishing tone.%K%P
+
+0x2E44
+Saki「So it's all right...」%K%P
+
+0x2E50
+Her voice is very gentle and full of tranquility...%K%P
+
+0x2E5C
+It's warm...%K%P
+
+0x2E68
+It feels like being held against a mother's chest...%K%P
+
+0x2E7C
+Saki「Can you remember?」%K%P
+
+0x2E88
+My tears and trembling haven't stopped.%K%P
+
+0x2E94
+However...%K%P
+
+0x2EA0
+I bite my lip, and give a faint nod...%K%P
+
+0x2EF0
+Yuka「It was the second day of our field trip in 9th grade...」%K%P
+
+0x2EFC
+Yuka「That night... at the hotel we were staying at...」%K%P
+
+0x2F08
+Yuka「...A fire broke out.」%K%P
+
+0x2F14
+I speak slowly as vague memories are awoken from within%Nme.%K%P
+
+0x2F20
+Yuka「I'm sure... it happened past 2:00 in the night...」%K%P
+
+0x2F2C
+Yuka「I was shaken awake by my friends who were staying in%Nthe same room as me.」%K%P
+
+0x2F38
+Yuka「When I woke up, the fire alarm was ringing...」%K%P
+
+0x2F44
+Yuka「I had barely gotten any sleep the night before, so I was%Nso deeply asleep that night that I couldn't hear the%Nsound of the bell...」%K%P
+
+0x2F50
+Yuka「We frantically tried to run outside by going down the%Nstairs... but the 3rd floor was already a sea of flames...」%K%P
+
+0x2F5C
+The vivid images of the disaster back then are%Nresurrected in my mind.%K%P
+
+0x2F68
+I shake even more violently.%K Saki grasps my hand even%Ntighter.%K%P
+
+0x2F74
+Yuka「...All we could do was to run back to our rooms...」%K%P
+
+0x2F80
+Yuka「Because... we were on the highest floor... we couldn't run%Nup...」%K%P
+
+0x2F8C
+Yuka「We frantically waved our hands from our rooms, begging%Nfor help...」%K%P
+
+0x2F98
+Yuka「...Even though we knew it was a futile effort...」%K%P
+
+0x2FA4
+Yuka「Everyone was suffering from the heat and smoke that%Npoured into our room from the lower floor...」%K%P
+
+0x2FB0
+Yuka「Gradually, it became painful for us to breathe, and our%Nconsciousnesses were turning dim.」%K%P
+
+0x2FC4
+Yuka「...At that time, something unbelievable happened.」%K%P
+
+0x2FD0
+Saki「That boy arrived?」%K%P
+
+0x2FDC
+I slowly nod.%K%P
+
+0x2FE8
+Yuka「I thought I was seeing an illusion....」%K%P
+
+0x2FF4
+Yuka「Because he was staying at the same annex you were in,%NSaki.」%K%P
+
+0x3000
+Yuka「But... it was really him, in the flesh.」%K%P
+
+0x300C
+Yuka「He ran over to us, carried up the weakest girl... and said%Nthis...」%K%P
+
+0x3018
+Yuka「'This room is still safe... I'll be back right away, so wait%Nhere.'」%K%P
+
+0x3024
+Yuka「When he finished saying that, he rushed out of the room,%Nstill holding the girl...」%K%P
+
+0x3030
+Saki「And just like that, he passed through the blaze, and%Nbrought each girl out in succession, helping them%Nescape...」%K%P
+
+0x303C
+Yuka「...Yes.」%K%P
+
+0x3058
+Saki「You were the last one he took out...」%K%P
+
+0x3064
+Saki「Why's that...?」%K%P
+
+0x3070
+Yuka「...」%K%P
+
+0x307C
+Yuka「Actually, he tried to save me second, after the first girl...」%K%P
+
+0x3088
+Yuka「But I told him this...」%K%P
+
+0x3094
+Yuka「'I'm still okay! Get the others out first!'」%K%P
+
+0x30A0
+Yuka「'This room is still safe, right? I'm this group's leader, so I'll%Ngo last!'」%K%P
+
+0x30AC
+Saki「...」%K%P
+
+0x30C8
+Yuka「Because I believed in his words... that it was still safe'...」%K%P
+
+0x30D4
+Yuka「So I trusted him, and let the other girls take priority...」%K%P
+
+0x30E0
+Yuka「It was strange, but... we both trusted each other.」%K%P
+
+0x30EC
+Saki「...」%K%P
+
+0x30F8
+Yuka「When the time came for my turn... I had already nearly lost%Nconsciousness...」%K%P
+
+0x3104
+Yuka「I remember... as he held me in his arms, I continued to call%Nhis name again and again...」%K%P
+
+0x3110
+"It's all right, it's all right..."%K%P
+
+0x311C
+"I'm... right here..."%K%P
+
+0x3128
+Yuka「Those were the only words he spoke...」%K%P
+
+0x3134
+Yuka「...Before I knew it, I had regained consciousness, and%Nwas outside...」%K%P
+
+0x3140
+Yuka「But... he... had used up all his strength...」%K%P
+
+0x315C
+Yuka「...And just like that, he breathed his last...」%K%P
+
+0x3168
+Saki「...」%K%P
+
+0x3174
+Yuka「There was almost no oxygen in the building, yet he kept%Ngoing in and out countless times.」%K%P
+
+0x3180
+Yuka「Thinking about it now, it was a miracle he managed to%Nsave all of us...」%K%P
+
+0x318C
+Yuka「He was so reckless... doing it even though he wasn't%Nobligated to do so...」%K%P
+
+0x3198
+(...Yes . Just like... Makoto...)%K%P
+
+0x31A4
+Saki「That's true...」%K%P
+
+0x31B0
+Yuka「...」%K%P
+
+0x31BC
+Yuka「Just before he died, as he held me in his arms, he spoke%Nhis last words...」%K%P
+
+0x31D0
+...%K%P
+
+0x31DC
+...%K%P
+
+0x31E8
+Boy「Yuka... all this time... I've...」%K%P
+
+0x31F4
+Boy「...I've loved you...」%K%P
+
+0x3200
+...%K%P
+
+0x320C
+...%K%P
+
+0x3278
+...I don't know how much time has passed since then...%K%P
+
+0x3284
+Ever since I finished my whole story, I've continued to%Ncry on and on.%K%P
+
+0x3290
+My tears are like blood pouring out of my emotional%Nscars... Tears from the bottom of my heart.%K%P
+
+0x329C
+Once again, I clearly remember that day.%K%P
+
+0x32A8
+That unlucky accident...%K%P
+
+0x32B4
+His death...%K%P
+
+0x32C0
+His last words...%K%P
+
+0x32CC
+I wished to completely forget that, because the memory%Nwas just too bitter.%K%P
+
+0x32D8
+Even so, Saki held on to my hand tightly the whole time to%Nmake sure I don't lose sight of it...%K%P
+
+0x32E4
+Even after I've finished my story, she's still here.%K%P
+
+0x32F0
+When I finally calm down and regain my composure, Saki%Nstarts talking again.%K%P
+
+0x3320
+Saki「Ever since that fire, you've been scared to fall in love%Nagain, haven't you...?」%K%P
+
+0x332C
+Saki「You're definitely afraid of getting hurt again...」%K%P
+
+0x3338
+Yuka「...」%K%P
+
+0x3344
+Saki「You created a shell to protect yourself.」%K%P
+
+0x3350
+Saki「As a result, even if you fall in love with someone, you'd%Nbe leaving your safety zone...」%K%P
+
+0x335C
+Saki「You've always been unable to take another step%Nforward.」%K%P
+
+0x3368
+(Another step forward...)%K%P
+
+0x3374
+Is that why I couldn't talk to Makoto about the fire...?%K%P
+
+0x3380
+I didn't want to burden him with that weight.%K%P
+
+0x338C
+As a result, I feel like Makoto and I are beginning to drift%Nfar apart...%K%P
+
+0x3398
+Yuka「...」%K%P
+
+0x33AC
+Saki「Try to remember...」%K%P
+
+0x33B8
+Saki「After that, did you ever fall in love again? With someone%Nas great as that boy?」%K%P
+
+0x33C4
+I shake my head slightly.%K%P
+
+0x33D0
+I don't understand.%K%P
+
+0x33DC
+At least not now.%K%P
+
+0x33E8
+Saki「I think you probably couldn't.」%K%P
+
+0x33F4
+Saki「After all, you had a reason, right?」%K%P
+
+0x3400
+Saki「If you fell in love with someone, you would have to reveal%Neverything about yourself.」%K%P
+
+0x340C
+Yuka「...」%K%P
+
+0x3418
+Saki「But it's all right now...」%K%P
+
+0x3424
+Saki「You've found someone you can love...」%K%P
+
+0x3430
+Saki「Even if it started because of the reason it did, that's all%Nright, isn't it?」%K%P
+
+0x343C
+Saki「That's definitely a half-step forward.」%K%P
+
+0x3448
+Saki「I think the rest depends on your feelings.」%K%P
+
+0x3454
+Yuka「...」%K%P
+
+0x3468
+I look at Makoto's room.%K%P
+
+0x3474
+Is he still sleeping...?%K%P
+
+0x3488
+Yuka「The reason Makoto's like this...」%K%P
+
+0x3494
+Yuka「Is because... of me.」%K%P
+
+0x34A0
+Saki「...That's right.」%K%P
+
+0x34AC
+Yuka「I did something terrible... to Makoto.」%K%P
+
+0x34B8
+Yuka「That's why I think that at any rate, it's already too late%Nfor us.」%K%P
+
+0x34C4
+Yuka「It's already a lost cause...」%K%P
+
+0x34D0
+Saki「...」%K%P
+
+0x34DC
+Saki「Do you really... think that?」%K%P
+
+0x34E8
+Yuka「...」%K%P
+
+0x3504
+Saki「For god's sake... you're always so hesitant. It hurts to%Nlook at you.」%K%P
+
+0x3518
+Saki「Listen to me, Yuka.」%K%P
+
+0x3524
+Saki「Taking into account the conversation we had just now%Nand your strong feelings on the subject...」%K%P
+
+0x3530
+Saki「I don't think it's too late at all.」%K%P
+
+0x353C
+Saki「Before long, you're sure to have completely settled%Neverything...」%K%P
+
+0x3548
+Saki「No, you definitely will!」%K%P
+
+0x3554
+Yuka「...Wh-Why do you say that?」%K%P
+
+0x3560
+Saki「Hmm? Let's see...」%K%P
+
+0x3574
+Saki「Intuition, perhaps?」%K%P
+
+0x3580
+Yuka「...」%K%P
+
+0x3594
+Saki「Come on, keep your chin up, Yuka Kawashima! Isn't your%Ngreatest redeeming feature your cheerfulness?」%K%P
+
+0x35A0
+Saki「This is all I'm going to say, so get back on your feet!」%K%P
+
+0x35AC
+Yuka「...」%K%P
+
+0x35C0
+Saki「Haah... fine, then...」%K%P
+
+0x35E4
+Saki says this, and stands up.%K%P
+
+0x35F0
+And then...%K%P
+
+0x3604
+Saki「The Fourth Law of Professor Asakura's Love Formula!!」%K%P
+
+0x3610
+Yuka「―!?」%K%P
+
+0x3664
+Saki「The Third Law of Professor Asakura's Love%NFormula―Promises must definitely be kept.」%K%P
+
+0x3670
+Yuka「Then what should the Fourth Law be?」%K%P
+
+0x367C
+Saki「Good question...」%K%P
+
+0x36BC
+Saki「Professor Asakura's Fourth Law of Love―」%K%P
+
+0x36C8
+Saki「Men are courageous...」%K%P
+
+0x36D4
+Saki「Women are...?」%K%P
+
+0x36E0
+Yuka「...」%K%P
+
+0x36EC
+Saki stares into space...%K%P
+
+0x36F8
+Before long...%K%P
+
+0x370C
+Yuka「Pfft ! ...Hee hee hee , ahahahaha...♪」%K%P
+
+0x3718
+...I instinctively start laughing.%K%P
+
+0x3724
+Laughing?%K%P
+
+0x3730
+I actually want to cry...%K%P
+
+0x373C
+But I can't cry.%K%P
+
+0x3748
+Because, the Fourth Law is...%K%P
+
+0x3754
+The Fourth Law is...%K%P
+
+0x3768
+Saki「Come on. Go on, go on...」%K%P
+
+0x377C
+Yuka「Y-Yeah... right, right...」%K%P
+
+0x3788
+Yuka「Women are...」%K%P
+
+0x37C0
+Yuka「Then what should the Fourth Law be?」%K%P
+
+0x37CC
+Saki「Good question...」%K%P
+
+0x37D8
+??「What are you two thinking about?」%K%P
+
+0x37E4
+Yuka「Waah!! Hey! Were you listening!?」%K%P
+
+0x37F0
+??「I wasn't aware that listening was a crime.」%K%P
+
+0x37FC
+Saki「Geez! This is a private conversation―!!」%K%P
+
+0x3808
+??「My bad, my bad... More importantly, how about this?」%K%P
+
+0x3814
+Yuka「Hmm??」%K%P
+
+0x3820
+??「Men are courageous, women are charming.」%K%P
+
+0x382C
+Saki「...What's that?」%K%P
+
+0x3848
+Boy「―The Fourth Law of Professor Asakura's Love%NForumula.」%K%P
+
+0x3888
+Yuka「Women... are charming♪」%K%P
+
+0x3894
+I say that, and grin widely.%K%P
+
+0x38A0
+I wipe the tears rising to my eyes.%K%P
+
+0x38AC
+It's like seeing the sun appear in the sky after a%Nrainstorm... That's what it feels like.%K%P
+
+0x38C0
+Saki「Good, good♪」%K%P
+
+0x38CC
+In middle school, one day, when the two of us were%Nfooling around, we thought up the Love Formulas and%Ntheir laws.%K%P
+
+0x38D8
+The Fourth Law is profoundly memorable to me.%K%P
+
+0x38E4
+Specifically... because those were HIS words of%Nencouragement.%K%P
+
+0x38F0
+Another memory of him that I have...%K%P
+
+0x3904
+Saki「Well then, it would seem my role is over...」%K%P
+
+0x3918
+Saki「The rest is up to you ♪」%K%P
+
+0x3924
+She gives me a light tap on the head as she says this.%K%P
+
+0x3938
+Yuka「Um...」%K%P
+
+0x394C
+Yuka「Th-Thank you... Saki.」%K%P
+
+0x3960
+Saki「...It wasn't a big deal.」%K%P
+
+0x396C
+Saki「I was just doing it for my own sake, so it's fine...」%K%P
+
+0x3980
+(...?)%K%P
+
+0x3994
+Just like that, Saki turns around and walks to the front%Ndoor.%K%P
+
+0x39A0
+The gentle aroma of lilac that filled my nose slowly%Ndisappears...%K%P
+
+0x3A04
+―And, when she puts her hand on the doorknob...%K%P
+
+0x3A10
+Saki「Oh, right, almost forgot.」%K%P
+
+0x3A1C
+...She turns back around.%K%P
+
+0x3A30
+Yuka「?」%K%P
+
+0x3A44
+Saki「While I'm at it, I'll tell you something good♪」%K%P
+
+0x3A50
+Yuka「What's that?」%K%P
+
+0x3A5C
+Saki「The way to tell the difference between 'like' and 'love'.」%K%P
+
+0x3A68
+Saki「I myself have only felt it once, but I still know it.」%K%P
+
+0x3A74
+Yuka「So what is it...?」%K%P
+
+0x3A80
+Saki「Well, it's...」%K%P
+
+0x3ACC
+I sink deeply into the sofa as I blankly stare out the%Nwindow.%K%P
+
+0x3AD8
+In my head, Saki's last words repeat many times...%K%P
+
+0x3AEC
+Saki「The way to tell the difference between 'like' and 'love'...」%K%P
+
+0x3AF8
+Saki「It's whether or not you're able to think of yourself%Nsecond, and put the one you like ahead of you.」%K%P
+
+0x3B04
+Saki「After all, humans are very weak creatures...」%K%P
+
+0x3B10
+Saki「So being considerate of the one you like first and%Nforemost rather than yourself―that's love', wouldn't%Nyou say?」%K%P
+
+0x3BC4
+Just past 5:00, Haruka and Okuhiko-kun return.%K%N
+
+0x3BD0
+At 6:00, Haruka begins cooking.%K%N%N
+
+0x3BDC
+That's quite rare...%K%N
+
+0x3BE8
+I think she did this last time as well.%K Since she did it both%Ntimes, is this her way of being considerate and trying to%Nhelp...?%K%P
+
+0x3BFC
+I didn't remember how it tasted last time... so I'm a little%Nsurprised at how delicious it is.%K%N
+
+0x3C08
+When I jokingly comment "You'll make a good wife%Nsomeday", Okuhiko-kun seems rather embarrassed for%Nsome reason.%K%N
+
+0x3C14
+(...???)%K%N
+
+0x3C20
+Haruka and I just tilt our heads in confusion...%K%N%N
+
+0x3C2C
+―Even though dinner has ended, Makoto is still in his%Nroom.%K%P
+
+0x3CB0
+The cuckoo clock chirps eight times.%K%P
+
+0x3CBC
+It's 8:00 P.M...%K%P
+
+0x3CC8
+―Makoto still hasn't come out of his room.%K%P
+
+0x3CD4
+Haruka calls out to him countless times, but there's no%Nresponse.%K%P
+
+0x3CE0
+He may have fallen asleep while thinking about%Nsomething...%K%P
+
+0x3CEC
+I'm worried, but as I am now, I don't have the courage to%Nknock on his door.%K%P
+
+0x3CF8
+I still don't know what sort of face I should greet him with...%K%P
+
+0x3D10
+"You've always been unable to take another step%Nforward."%K%P
+
+0x3D1C
+That's right. Eventually, I'll have to knock...%K%P
+
+0x3D28
+"I think the rest depends on your feelings."%K%P
+
+0x3D34
+I have to knock, or the door will never open...%K%P
+
+0x3D9C
+I slowly look at the clock while lying in bed.%K Soon, the%Ndate will change to the 6th.%K%P
+
+0x3DA8
+At this rate, tomorrow will end without any trouble...%K%P
+
+0x3DB4
+We've done everything possible in the last five days to%Neliminate the sources of those troubles.%K%P
+
+0x3DC0
+―Saki didn't get swallowed by the wave.%K ―Haruka%Nand Saki never quarreled.%K ―Kurumi-chan didn't go%Nmissing.%K%P
+
+0x3DCC
+―We never saw that talisman.%K ―And all we have to%Ndo tomorrow is not go to the shrine...%K%P
+
+0x3DD8
+So at this rate, it'll be fine if I just sleep in until noon...%K%P
+
+0x3DE4
+With this, everything will end.%K%P
+
+0x3DF0
+Everything will end...%K%P
+
+0x3E0C
+It'll soon be the 7th―in other words, the last day of%Nthe camp.%K%P
+
+0x3E18
+When the time comes to go back, Makoto will have no%Nchoice but to see me.%K%P
+
+0x3E24
+...At that time, I plan to go out to Makoto and say this.%K%P
+
+0x3E30
+"Good morning..."%K%P
+
+0x3E3C
+I'll act very natural, like my usual self.%K%P
+
+0x3E48
+That's what my heart has decided...%K%P
+
+0x3E54
+... ... ...%K%P
+
+0x3E98
+Haruka「Yuka, are you awake...?」%K%P
+
+0x3EA4
+I hear a voice from behind the door.%K%P
+
+0x3EB0
+Yuka「...Haruka?」%K%P
+
+0x3EBC
+Yuka「It's open. Come on in...」%K%P
+
+0x3EE4
+Yuka「What's wrong...? It's rather late...」%K%P
+
+0x3F14
+Haruka「I forgot... to give you this...」%K%P
+
+0x3F20
+She says that, and stretches her hand out.%K She's%Ngrasping a small glass bottle in her hand.%K%P
+
+0x3F2C
+It's a purple bottle.%K%P
+
+0x3F48
+Yuka「What's that?」%K%P
+
+0x3F54
+Haruka「Today, when I was returning to the lodge... I met up with%NSaki...」%K%P
+
+0x3F60
+Haruka「She wanted me... to give this to you.」%K%P
+
+0x3F6C
+Yuka「O-Oh... thank you.」%K%P
+
+0x3F80
+I take the bottle.%K%P
+
+0x3F8C
+(...Perfume?)%K%P
+
+0x3F98
+I open it, and give it a sniff.%K A sweet aroma drifts in the air.%K%P
+
+0x3FA4
+The sweet aroma of lilac and fruit...%K%P
+
+0x3FB0
+It's the kind that Saki always uses...%K%P
+
+0x3FC4
+Yuka「But... why...?」%K%P
+
+0x3FD0
+I don't understand why she gave this to me.%K%P
+
+0x3FDC
+Haruka「She said... that she didn't need it anymore.」%K%P
+
+0x3FF0
+Yuka「I see...」%K%P
+
+0x3FFC
+Suddenly, I remember the flower language of lilacs that%NSaki told me about earlier.%K%P
+
+0x4008
+"The joy of youth."%K%P
+
+0x4014
+And... "Memories of younger days."%K%P
+
+0x4020
+Yuka「'Memories of younger days'...huh?」%K%P
+
+0x402C
+(Is she telling that she doesn't need to remember%Nanymore...?)%K%P
+
+0x4038
+Haruka「Huh?」%K%P
+
+0x4044
+Yuka「A-Ah... umm, it's what lilacs mean in flower language...」%K%P
+
+0x4050
+Yuka「'The joy of youth' . And also... 'memories of younger days'.」%K%P
+
+0x4064
+Haruka「That's flower language for white lilacs... right?」%K%P
+
+0x4070
+Yuka「Huh? ...White?」%K%P
+
+0x407C
+Haruka「Yes... The meaning of lilacs in flower language is different%Ndepending on its color. It's something that you see with%Na lot of different flowers.」%K%P
+
+0x4088
+White lilacs...%K A purple bottle...%K%P
+
+0x4094
+Haruka「For example, with roses...」%K%P
+
+0x40A8
+Yuka「Hey, Haruka. What do purple lilacs mean in flower%Nlanguage?」%K%P
+
+0x40BC
+Haruka「Huh!? R-Right... purple means...」%K%P
+
+0x40E0
+Haruka「Purple means... 'first love'.」%K%P
+
+0x40EC
+Haruka「And... 'the early emotions of love'.」%K%P
+
+0x4100
+(――!?)%K%P
+
+0x410C
+Yuka「The early emotions ...of love?」%K%P
+
+0x4118
+Haruka「Yes.」%K%P
+
+0x4124
+Yuka「...」%K%P
+
+0x4130
+Haruka「Is something wrong?」%K%P
+
+0x4144
+Yuka「No... It's nothing...」%K%P
+
+0x4150
+Yuka「Thank you. I'll definitely accept this.」%K%P
+
+0x415C
+Haruka「...?」%K%P
+
+0x4168
+Haruka「Well then, good night...」%K%P
+
+0x417C
+Haruka leaves the room while tilting her head.%K%P
+
+0x41D4
+...%K%P
+
+0x41E0
+Saki「To me, everything is nothing more than a memory.」%K%P
+
+0x41EC
+―My eyelids tremble faintly.%K%P
+
+0x41F8
+―Did she really... remember?%K%P
+
+0x4204
+Saki「I love purple lilacs very much...」%K%P
+
+0x4210
+Saki「It's the flower I use in my perfume nowadays.」%K%P
+
+0x421C
+―Purple lilacs.%K ―A purple bottle.%K%P
+
+0x4228
+Haruka「Purple means... 'first love'.」%K%P
+
+0x4234
+Haruka「And... 'the early emotions of love'.」%K%P
+
+0x4240
+―In other words, feelings that are only... just%Nsprouting.%K%P
+
+0x424C
+―She gave them... to me...%K%P
+
+0x4258
+It might only be a coincidence...%K%P
+
+0x4264
+But... does that mean the perfume has the same meaning%Nas the purple lilac...?%K%P
+
+0x4270
+Yuka「So Saki...」%K%P
+
+0x427C
+Yuka「So Saki really does...」%K%P
+
+0x4288
+(Saki loves Makoto...!)%K%P
+
+0x4294
+Even so...%K Even so...!%K%P
+
+0x42A0
+Saki「I... didn't love... Makoto-kun.」%K%P
+
+0x42AC
+...%K%P
+
+0x42B8
+I stare off into space, then look back at the clock.%K%P
+
+0x42D4
+The hands are pointing to midnight...%K%P
+
+0x42E0
+―The time when both doves would simultaneously%Nchirp.%K%P
+

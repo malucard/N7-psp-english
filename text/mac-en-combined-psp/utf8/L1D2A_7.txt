@@ -1,0 +1,543 @@
+text area offset and size:
+0x10A8
+0x2E23
+0x40
+??「Hey, Makoto...」%K%P
+
+0x4C
+Several minutes later, someone else restrains my upper%Narm.%K%P
+
+0x58
+I turn around and see...%K%P
+
+0x88
+... Crap... Why her of all people?%K%P
+
+0x94
+Makoto「Hey, it'll be nice if we catch a lot of tuna.」%K%P
+
+0xA0
+With a strangely shrill voice, I go to shake Yuka's hand%Noff of me.%K%P
+
+0xB4
+Yuka「Huh? Tuna?」%K%P
+
+0xC0
+Yuka「... What the hell are you saying?」%K%P
+
+0xCC
+Yuka narrows her eyebrows.%K%N
+
+0xD8
+I notice that all traces of her previously flushed face%Nhave vanished.%K%P
+
+0xE4
+If anything, she just looks kind of pale.%K%P
+
+0xF0
+It seems that she's finally sobered up.%K%P
+
+0xFC
+Yuka「But more importantly...」%K%P
+
+0x108
+Her grip around my arm grows tighter.%K%P
+
+0x154
+Yuka「Maybe we... shouldn't go fishing after all.」%K%P
+
+0x160
+Makoto「Wh-Why are you saying this now?」%K%P
+
+0x16C
+Yuka「For some reason, I have a bad feeling about this.」%K%P
+
+0x178
+Yuka「A very... bad feeling...」%K%P
+
+0x184
+Makoto「The hell are you saying? Weren't you the one who said, 'I%Nwanna eat fresh toro' in the first place?」%K%P
+
+0x198
+Yuka「I know that... I know... but...」%K%P
+
+0x1A4
+Makoto「Are you going to say 'It's because I was drunk when I%Nsaid that'?」%K%P
+
+0x1B0
+Yuka「No. That's not it at all...」%K%P
+
+0x1BC
+Makoto「Well, either way, we're not going to change plans now%Njust because you want to.」%K%P
+
+0x1C8
+Makoto「Everyone else is quite pumped up for this...」%K%P
+
+0x1D4
+With my fishing rod, I point to the others, who are far%Nahead of us.%K%P
+
+0x1E8
+Yuka「But...」%K%P
+
+0x1F4
+Before she can say anymore, Yuka stops herself from%Nspeaking.%K%N
+
+0x200
+She hangs her head, defeated.%K%P
+
+0x20C
+Makoto「What kind of bad feeling is it anyway?」%K%P
+
+0x218
+I ask her this.%K%P
+
+0x224
+Yuka「I can't put it clearly into words. But it's vague... just a%Nsense of anxiety...」%K%P
+
+0x230
+Makoto「Anxiety?」%K%P
+
+0x23C
+Yuka「For example, let's see...」%K%P
+
+0x248
+Yuka「It's like seeing someone standing on a pile of books,%Ntrying to reach something off a high shelf.」%K%P
+
+0x254
+Yuka「Wouldn't you feel anxious if you saw that happening?」%K%P
+
+0x260
+Makoto「I get what you're trying to say... but fishing isn't%Nsomething you can really compare to standing on a pile%Nof books.」%K%P
+
+0x274
+Yuka「Geez, you don't get it at all!」%K%P
+
+0x280
+Makoto「I get it, I get it!」%K%P
+
+0x28C
+I really don't get it, but I can't think of anything else to%Nsay.%K%P
+
+0x298
+I give her a nod while gently prying her hand off of me.%K%P
+
+0x2A4
+I give her a light push, which causes her to pick up her%Nreluctant march to the harbor.%K%P
+
+0x328
+The fragrant stench of the sullen tides overwhelm us,%Nand those of us who are fishing have spread out on the%Npier. It's a rather peaceful scene.%K%P
+
+0x334
+Yuka is standing on the pier, twisting her fishing line%Nround and round her finger. She still looks very anxious.%K%P
+
+0x340
+A bad feeling, huh...%K%P
+
+0x354
+Makoto「Yuka, can I talk to you for a second?」%K%P
+
+0x360
+Yuka「What?」%K%P
+
+0x36C
+Makoto「About what you said earlier, was that a premonition...?」%K%P
+
+0x380
+Yuka's expression warps. As I'm about to continue%Nspeaking...%K%P
+
+0x3A4
+―We suddenly hear the echo of Saki's voice!%K%P
+
+0x3B0
+Yuka and I turn around.%K%P
+
+0x3D8
+On top of the pier, we see Saki in the middle of shaking%NHaruka off.%K%P
+
+0x3E4
+However, Haruka refuses to budge and tries to block her%Npath. We can't hear what they're saying. However, I've%Nnever seen Haruka so angry before.%K%P
+
+0x3F0
+Saki shakes her head in what appears to be%Nastonishment as Haruka forces her to move back. Saki%Nthen runs to the tip of the pier.%K%P
+
+0x3FC
+Okuhiko begins to run towards Haruka, who's as still as a%Nstatue.%K%P
+
+0x408
+Yuka「I wonder what's wrong?」%K%P
+
+0x414
+Makoto「Yeah, let's go see.」%K%P
+
+0x420
+Then, just as we're about to run towards them...%K%P
+
+0x43C
+Saki「AAAAAH!」%K%P
+
+0x464
+Saki screams at the same time as the booming roar of a%Nwave breaks out.%K%P
+
+0x4A8
+What a monstrous wave! The unbelievably large wave%Nstrikes the pier with a large sheet of water!%K%P
+
+0x4B4
+As it strikes, the wave devours Saki and drags her into%Nthe ocean!%K%P
+
+0x4CC
+I'm frozen in place. This incredibly sudden event has%Nsnatched away my sense of reality..%K%P
+
+0x4D8
+It feels like I'm watching a scene from a movie...%K%P
+
+0x4E4
+Just then!%K%P
+
+0x50C
+Izumi-san runs and dives into the ocean off of the tip of%Nthe pier!%K%P
+
+0x518
+(I-Izumi-san...!! That's suicide...!!)%K%P
+
+0x524
+I grab Yuka by the hand, and we runs towards the tip.%K%P
+
+0x530
+By the time we reach it, Saki and Izumi-san are nowhere%Nto be seen in the ocean.%K%P
+
+0x53C
+Okuhiko, Haruka, and Kurumi also come running over.%NKurumi's face is completely drained of blood.%K%P
+
+0x548
+I'll...%K
+
+0x1068
+Dive in and save them.
+
+0x1074
+Pray for their safety.
+
+0x598
+I'll dive into the ocean to save them.%K%P
+
+0x5A4
+I focus on the raging sea.%K%P
+
+0x5B8
+Yuka「!! ... M-Makoto, you can't be thinking-!?」%K%P
+
+0x5C4
+Yuka is taken aback when she realizes what I'm about to%Ndo.%K%P
+
+0x5D0
+Yuka「Don't! You might drown if you do that!」%K%P
+
+0x5DC
+Makoto「Then what the hell should we do!? Are you saying we%Nshould just stay here and watch!?」%K%P
+
+0x5F0
+Yuka「But... But...!!」%K%P
+
+0x60C
+Haruka「Why...?」%K%P
+
+0x618
+Confused by our argument, Haruka asks this.%K%P
+
+0x624
+Haruka「Why...? Why are you so desperate, Makoto?」%K%P
+
+0x630
+Makoto「Because... Saki... and Izumi-san might die!」%K%P
+
+0x63C
+Haruka「Even so, you're not the one in danger, right?」%K%P
+
+0x648
+Makoto「But we need to save them... you understand, right?」%K%P
+
+0x65C
+Haruka「...」%K%P
+
+0x668
+Haruka「I don't understand...」%K%P
+
+0x674
+Makoto「Even if it might be useless, I feel the want to save them...%NThat's just empathy.」%K%P
+
+0x680
+Haruka「Empathy...」%K%P
+
+0x68C
+Haruka lowers her head, pondering on this. Perhaps she%Nreally doesn't understand...?%K%P
+
+0x6A0
+Makoto「...」%K%P
+
+0x6AC
+I'm about to dive into the ocean... but then, someone%Ngrabs my arm.%K%N
+
+0x6C0
+... It's Kurumi.%K%P
+
+0x6CC
+Kurumi「Believe in... Onee-chan... She'll definitely be okay...」%K%P
+
+0x6D8
+Kurumi's eyes are brimming with tears.%K%P
+
+0x6E4
+Kurumi... her suffering is far greater than mine right now.%NIzumi-san is her blood-related sister.%K%P
+
+0x6F0
+Nevertheless, no, for this reason... Kurumi believes in%NIzumi-san.%K%P
+
+0x6FC
+Makoto「... I understand. I'll trust Izumi-san as well.」%K%P
+
+0x710
+Once again, I look out at the raging sea.%K%P
+
+0x738
+That's why... you have to return safely!! Izumi-san... Saki...!%K%P
+
+0x74C
+Saki... Izumi-san... Please be safe!%K%P
+
+0x758
+I pray for their safety.%K%P
+
+0x7A8
+The wave coils into a whirlpool. We're all silent, unmoving.%NIt feels like if we even spoke or moved a little, everything%Nwould end.%K%P
+
+0x7B4
+It's as if time itself is frozen.%K%P
+
+0x7C0
+The wave begins to quietly pulls back... Just then,%NIzumi-san and Saki's faces emerge. Suddenly, time%Nseems to move again as everyone's anxiety is lifted.%K%P
+
+0x7DC
+Kurumi「Onee-chaaaan!」%K%P
+
+0x7E8
+Yuka「Sakiiiiii!」%K%P
+
+0x7F4
+Izumi-san is the only one swimming, frantically moving her%Narms across the water. It seems Saki is unconscious.%NThe giant wave surges forward, and Izumi-san rides it,%Nwashing up on the banks with Saki's body.%K%P
+
+0x800
+The rest of us descend to the bank's edge to join them.%NSaki's face is completely pale. For some reason, her%Nexpression is strikingly beautiful.%K%P
+
+0x80C
+Perhaps because of that, none of us dare reach out%Nour hands to them, our feet rooted to the ground.%K%P
+
+0x820
+Finally, the soaking wet Izumi-san manages to firmly%Nstand up. Since Okuhiko is closer to Saki, he carries her%Nup the bank.%K%P
+
+0x82C
+Izumi「L-Look after her for a while. I'm going to go get some%Nhelp...!」%K%P
+
+0x848
+Kurumi「K-Kurumi will too!」%K%P
+
+0x85C
+Kurumi tails Izumi-san. I'm still standing frozen on the%Nbeach. It's not just me. Yuka and Haruka are the same...%K%P
+
+0x880
+Okuhiko「Saki-chan! Saki-chan...!」%K%P
+
+0x88C
+Okuhiko lays Saki down on the bank, and slaps Saki's%Ncheeks.%K%P
+
+0x898
+Okuhiko「Have you come to your senses? Do you know who I am?」%K%P
+
+0x8AC
+We frantically rush over towards them. Saki's eyes%Nflutter open, and she blankly stares at Okuhiko.%K%P
+
+0x8B8
+I hear the stir of many people approaching us. When I%Nturn around, I see Izumi-san is leading them, with Kurumi%Nbehind her.%K%P
+
+0x8C4
+Izumi「Has Saki-chan come to her senses?」%K%P
+
+0x8D0
+I nod, and Izumi-san falls to her knees as she lets out a%Nsigh of relief.%K%P
+
+0x8DC
+Kurumi desperately tries to stop her sister from%Ncollapsing. I look back at Saki, who is still firmly staring at%NOkuhiko...%K%P
+
+0x954
+We went to a clinic located just outside the shopping%Ndistrict. It only has one sickroom, with pieces of%Nwallpaper peeled off here and there.%K%P
+
+0x960
+The bed Saki is lying on has springs that creak every%Ntime she moves.%K%P
+
+0x96C
+Though she had no external wounds and was clearly%Nconscious, the doctor examined her just to be safe.%K%P
+
+0x978
+There weren't any particularly serious issues, but the%Ndoctor wants Saki to stay here, just in case.%K%P
+
+0x984
+He said it'll only have to be for one night.%K%P
+
+0x998
+Yuka「But I'm glad. I didn't know what would happen there for a%Nwhile.」%K%P
+
+0x9AC
+Saki「It seems humans can't die that easily after all.」%K
+
+0x1080
+"What's up with that?"
+
+0x108C
+(What's that supposed to mean...?)
+
+0x9F4
+Makoto「What's up with that? It sounds like you wanted to die.」%K%P
+
+0xA00
+Saki「That's not what I meant at all.」%K%P
+
+0xA0C
+Makoto「If that's the case, then you should be really happy%Nabout this.」%K%P
+
+0xA18
+Saki「But the fact that I'm alive is also due to chance.」%K%P
+
+0xA24
+Makoto「You know, you shouldn't talk about these things that%Nway...」%K%P
+
+0xA38
+Izumi「It's fine, isn't it? Anyway, it's not that important.」%K%P
+
+0xA44
+Makoto「Well, that's true, but...」%K%P
+
+0xA50
+Saki「That's right. It's not like you were swallowed by a wave.」%K%P
+
+0xA5C
+Makoto「Hey, you little...!」%K%P
+
+0xA78
+Yuka「Makoto, please stop it!」%K%P
+
+0xA94
+Okuhiko「Ishihara, do you have no common sense? Where do you%Nthink we are now?」%K%P
+
+0xAA0
+Makoto「Hey, I don't think I'm the only...」%K%P
+
+0xABC
+Izumi「Come on, that's enough. More importantly, what are we%Ngoing to do now? It doesn't seem like we can all stay%Nhere with Saki-chan the whole time.」%K%P
+
+0xAC8
+Makoto「We don't need to.」%K%P
+
+0xAD4
+When I say that, Saki haughtily turns her head away.%NGeez, just what you'd expect from a spoiled rich girl...%K%P
+
+0xB20
+Izumi「Anyway, why don't we head back to my shop to settle%Ndown? As for Saki-chan... I know. Kurumi, stay with her.」%K%P
+
+0xB34
+Kurumi「Huh? Just Kurumi?」%K%P
+
+0xB48
+Izumi「You need to be helpful to others every once in a while.%NThink of it as atonement for failing to deliver the pizza to%NSaki-chan.」%K%P
+
+0xB5C
+Kurumi「Ah―, no fair. Even though that wasn't Kurumi's fault...」%K%P
+
+0xB70
+Izumi「You're not going to listen to your sister?」%K%P
+
+0xB84
+Kurumi「... Why'd you have to put it that way... Kurumi gets it, geez.」%K%P
+
+0xB90
+As we leave for Lunabeach, Kurumi pouts as she stays%Nin the sickroom.%K%P
+
+0xBA4
+(What's that supposed to mean...?)%K%P
+
+0xBB0
+Did Saki... want to die...?%K%P
+
+0xBBC
+I try to read Saki's expression.%K%P
+
+0xBC8
+... Up until now, I haven't seen any signs of Saki being%Nsuicidal.%K%P
+
+0xBD4
+Then those probably aren't her true feelings. If that's%Nthe case...%K%P
+
+0xBE0
+Saki「Anyway, it seems I must thank you. You have my%Ngratitude.」%K%P
+
+0xBEC
+Saki says this without making eye contact with anyone.%K%P
+
+0xC00
+Yuka「Saki... you know, that's not how you go thanking people!」%K%P
+
+0xC0C
+Yuka shouts at Saki, offended by her behavior.%K%P
+
+0xC20
+Izumi「It's fine, isn't it? Anyway, it's not that important.」%K%P
+
+0xC2C
+Yuka「Well, that true, but...」%K%P
+
+0xC38
+Saki「That's right. It's not like you were swallowed up by a%Nwave.」%K%P
+
+0xC4C
+Yuka「Saki, cut the cr...!」%K%P
+
+0xC58
+Makoto「Stop it, Yuka. That's enough.」%K%P
+
+0xC6C
+I pacify Yuka. I think I understand Saki's feelings.%K%P
+
+0xC78
+It's likely... that Saki's simply embarrassed. She's just%Nthat kind of girl.%K%P
+
+0xC84
+Izumi「More importantly, what are we going to do now? It%Ndoesn't seem like we can all stay here with Saki-chan%Nthe whole time.」%K%P
+
+0xC98
+Yuka「We don't need to.」%K%P
+
+0xCA4
+When Yuka says that, Saki haughtily turns her head%Naway.%K%P
+
+0xCB0
+(Man, just what you'd expect from a spoiled rich girl...)%K%P
+
+0xD04
+Izumi「Anyway, why don't we head back to my shop to settle%Ndown? As for Saki-chan... I know. Kurumi, stay with her.」%K%P
+
+0xD18
+Kurumi「Huh? Just Kurumi?」%K%P
+
+0xD2C
+Izumi「You need to be helpful to others every once in a while.%NThink of it as atonement for failing to deliver the pizza to%NSaki-chan.」%K%P
+
+0xD40
+Kurumi「Ah―, no fair. Even though that wasn't Kurumi's fault...」%K%P
+
+0xD54
+Izumi「You're not going to listen to your sister?」%K%P
+
+0xD68
+Kurumi「... Why'd you have to put it that way... Kurumi gets it, geez.」%K%P
+
+0xD74
+As we leave for Lunabeach, Kurumi pouts as she stays%Nin the sickroom.%K%P
+

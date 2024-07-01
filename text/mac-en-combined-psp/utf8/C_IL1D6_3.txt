@@ -1,0 +1,510 @@
+text area offset and size:
+0xDA0
+0x1C41
+0xBC
+I pursue Izumi-san in the intense rain.%K%P
+
+0xC8
+For some reason, I feel strangely uneasy.%K%P
+
+0xD4
+(I have to hurry!) ―I urge myself onwards.%K%P
+
+0x118
+I arrive out on the coastline road, and look around.%K%P
+
+0x124
+―Found her!%K%P
+
+0x130
+I see Izumi-san's small, retreating figure.%K%N
+
+0x13C
+She's running to the west.%K%P
+
+0x148
+I run after her with all my strength, kicking off the wet%Nasphalt...%K%P
+
+0x19C
+Even when I enter the forest path, Izumi-san's speed still%Nhasn't dropped a bit.%K%P
+
+0x1A8
+I run up the hill road as fast as I can.%K%P
+
+0x1B4
+Izumi-san hasn't looked back once.%K%P
+
+0x1C0
+Despite that, she desperately runs, as if she knows I'm%Nchasing her.%K%P
+
+0x1CC
+I'm unable to close the distance between us.%K%P
+
+0x210
+Izumi-san finally stops just as she arrives in the vicinity%Nof the lodge.%K%P
+
+0x224
+Izumi「Stay away!」%K%P
+
+0x230
+When she notices me, Izumi-san shouts.%K%P
+
+0x254
+And once again, she goes running off...%K%P
+
+0x260
+Makoto「Izumi-san!」%K%P
+
+0x298
+Izumi-san pushes through the deep thicket while%Nretreating deep into the forest.%K%P
+
+0x2A4
+But as a natural result, her speed drops.%K%P
+
+0x2B0
+I use this opportunity to quickly catch up to her and%Ngrab her arm.%K%P
+
+0x2BC
+Makoto「Izumi-san!」%K%P
+
+0x2C8
+I tug her arm, forcing her to turn around.%K%P
+
+0x2EC
+Izumi「... Why did you chase after me?」%K%P
+
+0x2F8
+Makoto「...」%K%P
+
+0x304
+Izumi「...」%K%P
+
+0x310
+Makoto「...」%K%P
+
+0x31C
+Izumi「...」%K%P
+
+0x328
+Makoto「I'm sorry... I went way too far earlier.」%K%P
+
+0x334
+When I mutter these words, Izumi-san shakes her head.%K%P
+
+0x340
+Izumi「Makoto-kun, it was reasonable for you to blame me.」%K%P
+
+0x34C
+Izumi「It's only natural that you said those things.」%K%P
+
+0x358
+Izumi「I don't care how badly you think about me.」%K%P
+
+0x364
+Izumi「... But... I want you...」%K%P
+
+0x370
+Izumi「I want you to believe this, if nothing else...」%K%P
+
+0x37C
+Makoto「...」%K%P
+
+0x388
+Izumi「The one thing I couldn't lie about... were my feelings...」%K%P
+
+0x39C
+Izumi「I love you, Makoto-kun, so if nothing else, I want you%Nbelieve my feelings!」%K%P
+
+0x3C4
+I stare into Izumi-san's eyes.%K%P
+
+0x3D0
+Izumi-san is also looking straight into my eyes.%K%P
+
+0x3DC
+I can't feel anything that makes it seem like she's lying in%Nthat serious gaze of hers.%K%P
+
+0x3F4
+Makoto「... Then why...?」%K%P
+
+0x400
+Makoto「Why did you team up to do all these ridiculous things?」%K%P
+
+0x414
+Izumi「That's because of...」%K%P
+
+0x428
+Izumi「That's because of...」%K%P
+
+0x454
+Izumi「... Cur▲...」%K%P
+
+0x460
+Then, just as Izumi-san says this...%K%P
+
+0x46C
+Okuhiko「Hey!」%K%P
+
+0x478
+Yuka「Izumi-san!」%K%P
+
+0x484
+... I can hear Okuhiko and the others' voices from behind.%K%P
+
+0x498
+I turn around.%K%P
+
+0x4A4
+In that instant, my attention slips from Izumi-san to the%Nothers.%K%P
+
+0x4B0
+At that time, Izumi-san shakes off my grip.%K%P
+
+0x4C4
+Izumi「I'm so sorry...」%K%P
+
+0x4D8
+Izumi-san takes off again.%K%P
+
+0x4E4
+Makoto「WAIT!!」%K%P
+
+0x4F0
+I pursue her.%K%P
+
+0x4FC
+Izumi-san steadily advances through the forest.%K%P
+
+0x508
+She pushes her way through the plants while heading%Ntowards a treetop that's sticking out...%K%P
+
+0x514
+―But in the blink of an eye!%K%P
+
+0x520
+Izumi「!!!」%K%P
+
+0x52C
+Izumi-san...%K%N
+
+0x538
+... disappears.%K%P
+
+0x544
+It's so sudden... as if she was spirited away...%K%P
+
+0x550
+Makoto「I... Izumi-san!?」%K%P
+
+0x55C
+I rush over there and then...%K%N
+
+0x568
+I see...%K%P
+
+0x5C0
+―Izumi-san!!!%K%P
+
+0x5E8
+I instantly stretch out my hand.%K%P
+
+0x5F4
+Izumi-san has fallen off a steep cliff at the farthest end%Nof the forest...%K%P
+
+0x600
+She barely managed to grab a protruding tree root with%Nher left hand.%K%P
+
+0x60C
+With all my strength, I reach my arm out, and touch her%Nhand.%K%P
+
+0x620
+I bend myself forward far as I can in order to grab her%Nwrist.%K%P
+
+0x62C
+I look down, and see the black, wet ground...%K%P
+
+0x638
+My eyes get disoriented from the staggering height.%K%P
+
+0x644
+Izumi「Makoto-kun...」%K%P
+
+0x650
+Her eyes are filled with fear.%K%P
+
+0x65C
+Izumi「Makoto-kun...」%K%P
+
+0x668
+I don't answer.%K%P
+
+0x674
+I have no time to answer.%K%P
+
+0x680
+I'm lying on my stomach so I can reach her, but all of the%Nsudden, my body begins to slip forward.%K%P
+
+0x68C
+I've nothing supporting me, since I've put all my strength%Ninto pulling her up.%K%P
+
+0x698
+Izumi「Makoto-kun...」%K%P
+
+0x6A4
+Izumi「Let go...」%K%P
+
+0x6B0
+(―!?)%K%P
+
+0x6BC
+Izumi「At this rate...」%K%P
+
+0x6C8
+Izumi「Even you will...」%K%P
+
+0x6D4
+(―What are you saying!?)%K%P
+
+0x6E0
+(―Why are you saying something so ridiculous?!!)%K%P
+
+0x6EC
+I'm gripping her thin wrist as tightly as possible.%K%P
+
+0x6F8
+I grind my molars so hard that it feels like they could%Nbreak.%K%P
+
+0x704
+I'm reaching my limit.%K%P
+
+0x710
+I feel Izumi-san's arm begin to rapidly lose strength.%K%P
+
+0x72C
+―And, right after that!%K%P
+
+0x740
+Whoosh! She pulls my arm with ferocious strength,%Npropelling me forward.%K%P
+
+0x74C
+I feel like I'm gently floating...%K%P
+
+0x758
+I don't know what just happened...%K%N
+
+0x764
+... I just see the black sky...%K%P
+
+0x770
+...%K%N
+
+0x77C
+...%K%N
+
+0x788
+...%K%P
+
+0x7B8
+Slam!%K%P
+
+0x820
+Izumi-san's cold body is stretched out in the soaking%Nwet mud...%K%P
+
+0x82C
+(... Ah... Aah...)%K%P
+
+0x838
+(... I need to hurry...)%K%P
+
+0x844
+(... and save Izumi-san...)%K%P
+
+0x850
+I try to stand up, but for some reason, my body can't%Nmove.%K%P
+
+0x85C
+I can't put any strength into it.%K%P
+
+0x868
+Suddenly, I feel intense nausea...%K%P
+
+0x874
+With a loud gurgle, I throw everything up.%K%P
+
+0x880
+(... It's blood...)%K%P
+
+0x88C
+My bright red blood begins to dissolve into the water...%K%P
+
+0x898
+(... Izumi-san...)%K%P
+
+0x8A4
+(... What...)%K%P
+
+0x8B0
+(... What... should I do...?)%K%P
+
+0x8BC
+Even though my body feels like it's been smashed into%Npieces, I force power into it.%K%P
+
+0x8C8
+I do my best to painfully crawl across the mud until I'm%Nbeside Izumi-san.%K%P
+
+0x8D4
+Izumi「... Makoto... kun...」%K%P
+
+0x8E0
+I hear a small, faint voice come from her mouth.%K%P
+
+0x8EC
+Izumi「I wanted...」%K%P
+
+0x8F8
+Izumi「... to see...」%K%P
+
+0x904
+Izumi「the stars with you...」%K%P
+
+0x910
+Izumi「... just one more time...」%K%P
+
+0x92C
+Izumi-san slowly begins to close her eyes...%K%P
+
+0x938
+(―Izumi-san!)%K%P
+
+0x944
+I try to scream this out...%K%N
+
+0x950
+... But instead of words coming out of my mouth...%Noverflowing blood comes out instead.%K%P
+
+0x95C
+I embrace Izumi-san's body while covered in rain, mud,%Nand blood.%K%P
+
+0x984
+(Hey...)%K%P
+
+0x990
+(... Wake up...)%K%P
+
+0x99C
+(Wake up... Izumi-san...)%K%P
+
+0x9A8
+(... The stars...)%K%P
+
+0x9B4
+(I want to see...)%K%P
+
+0x9C0
+(The stars with you, Izumi-san!!)%K%P
+
+0x9CC
+I embrace her tighter than I've ever held anything ever%Nbefore, as I am assaulted with intense pain that feels%Nlike it's splitting me apart.%K%P
+
+0x9E4
+However...%K%P
+
+0x9F8
+... Izumi-san has already stopped moving.%K%P
+
+0xA04
+Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
+
+0xA10
+―The bell.%K%N
+
+0xA1C
+It's that "bell"...%K%P
+
+0xA28
+Before long, the bell begins to quietly slip out of her%Npalm...%K%P
+
+0xA34
+... It then...%K%P
+
+0xA80
+... slips out and falls.%K%P
+
+0xA8C
+I tearfully cling to Izumi-san's back as the trembling of my%Nbody gradually intensifies.%K%P
+
+0xA98
+In my arms, I can feel her cold, wet skin...%K%P
+
+0xAA4
+Looking at her ghastly pale, almost transparent cheeks,%NI feel like she might shatter into a thousand pieces if I%Ntouched her cheek.%K%P
+
+0xAB0
+As if she were a doll made of glass...%K%P
+
+0xAC4
+Izumi「Makoto-kun...」%K%P
+
+0xAD0
+Izumi「I...」%K%P
+
+0xADC
+Izumi「I...」%K%P
+
+0xAE8
+Izumi「Makoto-kun...」%K%P
+
+0xAF4
+Izumi「I love you...」%K%P
+
+0xB24
+At Viewpoint Park...%K%N
+
+0xB30
+Under the starry sky...%K%N
+
+0xB3C
+Izumi-san told me that.%K%P
+
+0xB48
+(... Even so... I...)%K%P
+
+0xB54
+(... I wasn't able... to tell her...)%K%P
+
+0xB60
+(... that I also felt the same for her...)%K%P
+
+0xB6C
+(... Even though...)%K%P
+
+0xB78
+(... I loved her...)%K%P
+
+0xB84
+Why... didn't I tell her!?%K%P
+
+0xB90
+Makoto「Why...」%K%P
+
+0xB9C
+My hoarse voice alone fills this empty void.%K%P
+
+0xBA8
+My sadness and self-loathing rapidly become more and%Nmore profound.%K%P
+
+0xBB4
+This hot rage overwhelms me and brutally snatches%Naway my sense of reasoning.%K%P
+
+0xBC0
+I feel as if I've lost my sense of self.%K%P
+
+0xBCC
+In the middle of the pelting rain...%K%P
+
+0xBD8
+... I soon...%K%N
+
+0xBF4
+... Lose... consciousness...%K%P
+

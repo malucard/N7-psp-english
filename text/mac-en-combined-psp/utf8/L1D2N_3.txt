@@ -1,0 +1,360 @@
+text area offset and size:
+0x9E0
+0x187E
+0x5C
+We then walk towards the lodge.%K%P
+
+0x70
+Okuhiko「Hey, Ishihara!」%K%P
+
+0x7C
+Makoto「What is it?」%K%P
+
+0x88
+Okuhiko「You'll come with me, right?」%K%P
+
+0x94
+Makoto「Where?」%K%P
+
+0xA0
+Okuhiko「Isn't it obvious!?」%K%P
+
+0xAC
+Okuhiko「To see Saki.」%K%P
+
+0xB8
+(Why me? You're the one who was invited.)%K%P
+
+0xC4
+... However, I'd be lying if I said I wasn't worried about Saki.%K%P
+
+0xD0
+Well then, what should I do...?%K
+
+0x9A0
+Don't go.
+
+0x9AC
+Go.
+
+0x110
+Makoto「This has nothing to do with me.」%K%P
+
+0x11C
+Makoto「If you're going, then go alone.」%K%P
+
+0x130
+Okuhiko「You're such a cold bastard.」%K%P
+
+0x13C
+Makoto「Besides, aren't you the one Saki has a thing for?」%K%P
+
+0x148
+I smirk as I tease Okuhiko, jabbing his shoulder mockingly%Nwith my finger.%K%P
+
+0x15C
+Okuhiko「I'm not good at these kinds of things.」%K%P
+
+0x168
+Makoto「I see. Sucks to be you, then.」%K%P
+
+0x174
+I walk away and leave Okuhiko behind with those%Nsarcastic words.%K%P
+
+0x1E0
+Makoto「Sure, why not?」%K%P
+
+0x1EC
+I guess I'll go with him to the clinic.%K%P
+
+0x1F8
+Besides, I'm a little curious about what happened%Nbetween her and Haruka...%K%P
+
+0x204
+As we begin walking away, Kurumi follows us.%K%P
+
+0x220
+Kurumi「Okkun, Kurumi has something good to tell you.」%K%P
+
+0x22C
+Okuhiko「Hmm? What is it, Kurumi-chan?」%K%P
+
+0x238
+Kurumi「It seems Saki-san thinks Okkun is the one who rescued%Nher from the sea.」%K%P
+
+0x244
+Okuhiko「Huh?」%K%P
+
+0x250
+Makoto「Hey, but it was Izumi-san who...」%K%P
+
+0x264
+Kurumi「It's fine, forget about her.」%K%P
+
+0x270
+Makoto「But if Izumi-san hears about this, she'll get angry.」%K%P
+
+0x284
+Kurumi「Just forget about Onee-chan, okay!?」%K%P
+
+0x298
+Okuhiko「It's all right. It's not your fault she left you behind at the%Nclinic, even though you didn't want to.」%K%P
+
+0x2AC
+Kurumi「Right, right? See Okkun, you do understand.」%K%P
+
+0x2B8
+Makoto「...」%K%P
+
+0x2CC
+Kurumi nods to herself as she heads back to%NLunabeach again...%K%P
+
+0x348
+The closed shopping district is cold and deserted,%Nmaking it feel like a ghost town.%K%P
+
+0x354
+I would never have imagined walking alone with Okuhiko in%Nmy entire life...%K%P
+
+0x360
+Anyway, it's unusual for Okuhiko to invite me along.%K%N
+
+0x36C
+If he's bringing me, a guy, along, he must be planning%Nsomething.%K%P
+
+0x378
+Sure enough, Okuhiko starts to talk to me.%K%P
+
+0x38C
+Okuhiko「Ishihara. Before Saki-chan fell into the ocean, did you%Nknow she was arguing with Haruka-chan?」%K%P
+
+0x398
+Makoto「Yeah, it wasn't like Haruka at all...」%K%P
+
+0x3A4
+Okuhiko「You want to know what Haruka-chan was saying too,%Nright?」%K%P
+
+0x3B0
+Makoto「Have you tried asking Haruka?」%K%P
+
+0x3BC
+Okuhiko「You're thickheaded. It's more important to sympathize%Nwith her instead of asking directly, right?」%K%P
+
+0x3C8
+Makoto「What? By 'sympathize', you mean you're going to ask%NSaki, right?」%K%P
+
+0x3D4
+Okuhiko「No way. There's no way I would ask her.」%K%P
+
+0x3E0
+Makoto「?」%K%P
+
+0x3EC
+Okuhiko「That's what you're here for.」%K%P
+
+0x3F8
+Makoto「...」%K%P
+
+0x414
+I see. So that's what he had up his sleeve.%K%N
+
+0x420
+As I thought, he's a selfish bastard.%K%P
+
+0x42C
+However, I don't go as far as say it to his face.%K%N
+
+0x438
+Either way, I just want to check up on Saki.%K%P
+
+0x4AC
+Kurumi was right.%K%N
+
+0x4B8
+Saki completely believes it was Okuhiko who saved her%Nlife.%K%P
+
+0x4C4
+He isn't even denying it. On the contrary, he's embracing%Nthis.%K%N
+
+0x4D0
+What a despicable bastard...%K%P
+
+0x4E4
+Okuhiko「Hey, Ishihara, isn't that right?」%K%P
+
+0x4F0
+What the hell's up with that "Hey"? It's like he thinks we're%Nbest friends.%K%N
+
+0x4FC
+However, after I ignore him for the umpteenth time, he%Nfinally stomps his foot.%K%P
+
+0x508
+(I get it. I get it, for God's sake...)%K%P
+
+0x514
+It's clear he wants me to ask about what happened with%NHaruka.%K%P
+
+0x520
+Makoto「By the way, what were you talking to Haruka about at%Nthat time?」%K%P
+
+0x52C
+Saki「...」%K%P
+
+0x540
+Okuhiko「Huh? At that time? Haruka-chan? What are you talking%Nabout?」%K%P
+
+0x554
+I try to ignore the urge to punch Okuhiko in the face.%K%P
+
+0x560
+Makoto「Just before the monstrous wave hit, you were talking%Nwith Haruka, right? After that, you ran all the way towards%Nthe tip of the pier...」%K%P
+
+0x56C
+Saki「U-Um... did you hear something from Haruka-chan?」%K%P
+
+0x578
+Makoto「No, but I was just a little curious.」%K%P
+
+0x584
+Saki「It was nothing...」%K%P
+
+0x590
+It seems that Saki's not in the mood to answer...%K
+
+0x9B8
+Keep pressing her.
+
+0x9C4
+If she doesn't want to talk, then forget it.
+
+0x5D0
+Makoto「It sure didn't look like it was nothing. After all, you%Npractically pushed Haruka off of you!」%K%P
+
+0x5DC
+Saki「I never did something like that.」%K%P
+
+0x5E8
+Makoto「You did.」%K%P
+
+0x5F4
+Saki「I didn't. Goddammit, I didn't do something like that!」%K%P
+
+0x600
+Makoto「What were you talking about, then?」%K%P
+
+0x60C
+Saki「Nothing... we weren't talking about anything at all!」%K%P
+
+0x618
+Makoto「You're lying.」%K%P
+
+0x624
+Saki「Wh-What's with you!? Why are you talking like that? Do%Nyou have a grudge against me or something?」%K%P
+
+0x630
+Makoto「It's nothing like that at all.」%K%P
+
+0x63C
+Saki「Then what do you want!?」%K%P
+
+0x648
+Makoto「I want to know the truth...」%K%P
+
+0x65C
+Okuhiko「Ishihara, back off. Quit interrogating her.」%K%P
+
+0x668
+Makoto「D-Damn you...」%K%P
+
+0x67C
+Okuhiko「Leave right now. You're terrible, pestering a wounded%Nwoman.」%K%P
+
+0x688
+Makoto「A wounded woman... But Saki's injuries aren't even all that%Nserious, are they?」%K%P
+
+0x694
+Okuhiko「You're rubbing salt in her heart's wounds. Can't you%Nunderstand that much?」%K%P
+
+0x6A0
+Makoto「...」%K%P
+
+0x6BC
+Makoto「... If you don't want to talk, then I won't force you to do so.」%K%P
+
+0x6C8
+Saki「Well then... All's well, isn't it...?」%K%P
+
+0x6D4
+Makoto「...」%K%P
+
+0x6E0
+Saki「What!? What is it!?」%K%P
+
+0x6EC
+Saki「Why are you looking at me with those eyes!? What do%Nyou want from me?」%K%P
+
+0x6F8
+Makoto「It's not like I'm trying to pester you... I just want to know%Nthe truth.」%K%P
+
+0x704
+Saki「...」%K%P
+
+0x710
+Makoto「You weren't your normal self at the pier. I was worried...」%K%P
+
+0x71C
+Saki「...」%K%P
+
+0x728
+Makoto「I was worried. For you... and Haruka.」%K%P
+
+0x734
+Saki「!!」%K%P
+
+0x740
+Makoto「Saki...?」%K%P
+
+0x74C
+Saki「... Get out.」%K%P
+
+0x758
+Makoto「Huh?!」%K%P
+
+0x764
+Saki「Get out! Get the hell out of here!!」%K%P
+
+0x770
+Makoto「Saki... what's wrong?」%K%P
+
+0x784
+Okuhiko「Leave right now. You're pissing her off.」%K%P
+
+0x790
+Makoto「H-Hey, Okuhiko...」%K%P
+
+0x79C
+Makoto「... This was... your ide―」%K%P
+
+0x7B0
+I defensively raise my voice.%K%P
+
+0x7BC
+At that time, I look at Saki.%K%N
+
+0x7C8
+She's clinging to Okuhiko's arm, leaning on him while%Ntrembling as if she's relying on him.%K%P
+
+0x7D4
+I must sound ridiculous right now. There's no way I can do%Nsomething like have a direct conversation with her like%Nthis.%K%P
+
+0x7F0
+Saki「Get out!」%K%P
+
+0x828
+I storm off, leaving the clinic without a word.%K%P
+
+0x834
+This whole thing has left a sour taste in my mouth.%K%N
+
+0x840
+Damn you, Okuhiko... You'll regret this...%K%P
+

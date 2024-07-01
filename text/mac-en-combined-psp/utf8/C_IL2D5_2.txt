@@ -1,0 +1,405 @@
+text area offset and size:
+0x950
+0x1AC7
+0x5C
+―The next day.%K%N
+
+0x68
+I'm visiting Lunabeach again.%K%P
+
+0x74
+As usual, there are no customers.%K%P
+
+0x80
+Izumi-san lays her hands on the table while blankly%Nstaring out at the dark ocean.%K%P
+
+0x94
+Izumi「The weather's not looking good...」%K%P
+
+0xA0
+Makoto「Yeah...」%K%P
+
+0xAC
+Izumi「The earlier weather forecast said that 'It will start raining%Ntonight.」%K%P
+
+0xB8
+Makoto「Ha ha, looks like they're right for a change.」%K%P
+
+0xCC
+Izumi「Hee hee hee, that's true.」%K%P
+
+0xD8
+Izumi「It certainly will rain tomorrow, won't it?」%K%P
+
+0xEC
+Izumi「... Huh? ... Was the way I said that a bit weird?」%K%P
+
+0x100
+A smile rises to my face, and I shake my head.%K%P
+
+0x114
+Izumi-san returns the smile, and stares off towards the%Nsky.%K%P
+
+0x120
+The thick, grey clouds are low in the sky...%K%P
+
+0x12C
+Just like the last 5th, the scenery is colorless.%K%P
+
+0x140
+Izumi「Rain, huh...?」%K%P
+
+0x14C
+She mutters this with a sigh.%K%P
+
+0x158
+Makoto「But I thought you liked rain, Izumi-san.」%K%P
+
+0x164
+Izumi「Yes... I like rain itself.」%K%P
+
+0x170
+Izumi「But when I think of tomorrow's rain... I remember... you%Nknow...」%K%P
+
+0x17C
+Makoto「... Are you nervous?」%K%P
+
+0x188
+Izumi-san nods while looking at the dark sky.%K%P
+
+0x194
+Makoto「It's all right! There's nothing to worry about!」%K%P
+
+0x1A0
+Makoto「Tomorrow, if the two of us stay closed up in this shop,%Nnothing should happen!」%K%P
+
+0x1AC
+Izumi「... You think so?」%K%P
+
+0x1B8
+Makoto「?」%K%P
+
+0x1C4
+Izumi「Makoto-kun... do you really think that?」%K
+
+0x910
+I do.
+
+0x91C
+I don't.
+
+0x20C
+Makoto「Yeah!」%K%P
+
+0x218
+I loudly declare this without a second thought.%K%P
+
+0x224
+Izumi「But remember what you said earlier?」%K%P
+
+0x238
+Makoto「...」%K%P
+
+0x244
+I'm unable to answer.%K%P
+
+0x250
+Izumi-san has seen through my "bluff".%K%P
+
+0x25C
+It's already too late to offer a rebuttal.%K%P
+
+0x268
+Izumi「Remember what you said earlier?」%K%P
+
+0x274
+Izumi「'For all we know, we could time travel again on the 6th at%Nthat time even if we're sleeping in our beds.%NNevertheless, in the end, no one knows if 'we will or won't%Ntime travel'...」%K%P
+
+0x280
+Makoto「...」%K%P
+
+0x294
+Izumi「We really don't know anything...」%K%P
+
+0x2A0
+Izumi「About the true nature of the time travel... or its cause...」%K%P
+
+0x2AC
+Izumi-san is certainly right.%K%P
+
+0x2B8
+The two of us don't believe the hypothesis of the%NIzumi-san as a psychologist―that this reality is a%Ndelusion.%K%P
+
+0x2C4
+Then what is the true cause of the time travel?%K%P
+
+0x2D0
+In the end, Izumi-san and I know nothing.%K%P
+
+0x2DC
+Izumi「Hey, Makoto-kun?」%K%P
+
+0x2E8
+Izumi「What if... what if, at that time...」%K%P
+
+0x2F4
+Izumi「If someone besides us dies... What do you think will%Nhappen?」%K%P
+
+0x300
+Makoto「What!?」%K%P
+
+0x30C
+Izumi「Would we still time travel then?」%K%P
+
+0x318
+Makoto「That's...」%K%P
+
+0x32C
+Izumi「Then, what if it happens at a different time?」%K%P
+
+0x338
+Izumi「What if, instead of during the day, we fall off the cliff in a%Nsimilar incident at night... If that happened, what would%Nhappen then?」%K%P
+
+0x344
+I can't answer her.%K%P
+
+0x350
+Since I don't know the true cause of the time travel, I%Ncan't deny Izumi-san's words.%K%P
+
+0x35C
+However...%K%N
+
+0x368
+However, right now... the bell is gone... That's the only%Nthing that gives me peace of mind.%K%P
+
+0x374
+If that bell is gone, then even if something happens, the%Nexact same history shouldn't repeat itself.%K%P
+
+0x380
+That's why...%K%P
+
+0x38C
+Makoto「Izumi-san?」%K%P
+
+0x398
+Makoto「About that bell...」%K%P
+
+0x3A4
+... I decide to give it my all by asking her.%K%P
+
+0x3B8
+Izumi「Bell...?」%K%P
+
+0x3C4
+Makoto「Izumi-san, you don't have that bell, do you?」%K%P
+
+0x3D0
+Izumi-san purses her lips, and puts her hand into her%Npocket.%K%P
+
+0x3DC
+She firmly grasps something, pulls it out of her pocket%Nslowly, and places it on the table.%K%P
+
+0x3F0
+Izumi「I got this from Kurumi... yesterday.」%K%P
+
+0x3FC
+She quietly opens her palm while saying this.%K%P
+
+0x410
+―It's star sand.%K%N
+
+0x41C
+Specifically, it's a "star sand" in a small glass bottle.%K%P
+
+0x428
+Izumi「Yes... it's not that bell.」%K%P
+
+0x434
+That's what Kurumi picked up at Princess Beach%Nyesterday... It's a star sand, not the bell.%K%P
+
+0x440
+I breathe a sigh of relief.%K%P
+
+0x45C
+(But... nevertheless, where is that bell now...?)%K%P
+
+0x468
+Should I tell Izumi-san...?%K
+
+0x928
+Mention the bell's disappearance.
+
+0x934
+Don't mention it.
+
+0x4C0
+... I'll tell her about the bell.%K%P
+
+0x4CC
+Makoto「Izumi-san... the truth is...」%K%P
+
+0x4D8
+Makoto「I... found the bell... on the night of the 1st.」%K%P
+
+0x4EC
+Izumi「... Huh?」%K%P
+
+0x4F8
+Makoto「I found it on Moon Beach, just like last time... and tried to%Nsmash it with a piece of concrete.」%K%P
+
+0x504
+Makoto「I tried to smash it into pieces... so that it would never%Nappear before me ever again...」%K%P
+
+0x518
+Izumi「...」%K%P
+
+0x524
+Makoto「But... when I flipped the concrete over...」%K%P
+
+0x530
+Makoto「... It was gone...」%K%P
+
+0x53C
+Izumi「The bell... disappeared?」%K%P
+
+0x548
+Makoto「... Yes.」%K%P
+
+0x55C
+Izumi「The bell... disappeared...」%K%P
+
+0x568
+Izumi-san repeats herself.%K%P
+
+0x574
+She vacantly stares into space, motionless like a stone.%K%P
+
+0x580
+Her face is drained of color.%K%P
+
+0x58C
+It's as if I'm looking at an old photograph.%K%P
+
+0x598
+Makoto「No, but you see, it was night, so everything was dark...」%K%P
+
+0x5A4
+Makoto「When it was hit by the concrete, the pieces must have%Nflown far away!」%K%P
+
+0x5B0
+I try to rationalize the situation while looking at%NIzumi-san's serious expression.%K%P
+
+0x5BC
+Makoto「Anyway, the bell's already gone...」%K%P
+
+0x5C8
+Makoto「I don't have it, and you don't have it.」%K%P
+
+0x5D4
+Makoto「I don't think any of the others have it either...」%K%P
+
+0x5E0
+Makoto「―So that means it's absolutely impossible for the%Nsame event to repeat itself!」%K%P
+
+0x5EC
+Makoto「That's why...」%K%P
+
+0x5F8
+Makoto「That's why it's all right!」%K%P
+
+0x604
+Makoto「There's nothing to be worried about!」%K%P
+
+0x628
+... I won't tell her about the bell's disappearance.%K%P
+
+0x634
+At this rate, there's no need give her anything more to%Nworry about.%K%P
+
+0x640
+Makoto「So nothing should happen after all!」%K%P
+
+0x64C
+I try to act as cheerful as possible.%K%P
+
+0x658
+Makoto「If that bell is gone, then even if something happens, the%Nexact same history can't repeat itself!」%K%P
+
+0x664
+Makoto「It's all right! Don't worry, everything will be okay!」%K%P
+
+0x694
+When she hears me, a faint smile appears on Izumi-san's%Nlips.%K%P
+
+0x6A0
+Makoto「That's right! Smile!」%K%P
+
+0x6AC
+Makoto「Come on, just like you did at the barbecue!」%K%P
+
+0x6C0
+As I say this, I lightly pinch Izumi-san's cheeks with my%Nhands.%K%P
+
+0x6CC
+Even I don't really know why I chose to do such a thing.%K%P
+
+0x6D8
+I just want Izumi-san to smile.%K%P
+
+0x6E4
+I want to see her look at me with her usual kind smile.%K%P
+
+0x6F0
+... I pinch and stretch her squishy cheeks, making her%Nface look comical.%K%P
+
+0x6FC
+I swirl the eyebrows above her questioning eyes.%K%P
+
+0x708
+Makoto「P... Pffft...」%K%P
+
+0x714
+Izumi「...」%K%P
+
+0x720
+Makoto「Ha ha ha ha ha ha ha ha!」%K%P
+
+0x72C
+I'm the first one to laugh.%K%P
+
+0x738
+Izumi「Geez, don't play with people's faces!」%K%P
+
+0x744
+Although she says this, Izumi-san's smile returns.%K%P
+
+0x750
+Izumi「Take this!」%K%P
+
+0x75C
+Izumi-san pinches my cheeks with her fingers.%K%P
+
+0x768
+Izumi「Hee hee... hee hee hee hee...」%K%P
+
+0x774
+Izumi「Ahahahahahaha...♪」%K%P
+
+0x780
+Izumi-san and I... pinch each other's cheeks while%Nlaughing so hard that we're crying.%K%P
+
+0x7A4
+Just then...%K%P
+
+0x7B8
+Kurumi「Good morning―♪」%K%P
+
+0x7CC
+Kurumi「... Huh?」%K%P
+
+0x7D8
+Kurumi「What are you two doing...?」%K%P
+
+0x7E4
+Kurumi descends from the second floor, and quickly%Nopens her mouth.%K%P
+

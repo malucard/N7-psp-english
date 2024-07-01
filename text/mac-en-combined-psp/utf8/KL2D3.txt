@@ -1,0 +1,108 @@
+text area offset and size:
+0x538
+0xAE8
+0x170
+Today, Wednesday, April 3rd, was a peaceful, uneventful%Nday...%K%N
+
+0x17C
+When Haruka and I returned from fishing, Okuhiko was on%Nthe terrace, spouting his usual crap, but...%K%N
+
+0x188
+... Saki was nearby, but she calmly and silently passed%Nby as if nothing was happening.%K%N
+
+0x194
+Naturally, the basket remained unscathed as well.%K%P
+
+0x1A8
+Since Saki didn't fall into the ocean, she doesn't have%Nany feelings for Okuhiko. Thus, she didn't get angry.%K%N
+
+0x1B4
+That also means that no one knows that Haruka is a%Nclone.%K%N
+
+0x1C0
+I'm doubtful whether or not Saki even knew that.%K%N
+
+0x1CC
+Anyway, their relationship is peaceful this time around,%Nas if all their quarreling in the last history was all false...%K%P
+
+0x1E0
+Since Saki didn't almost drown... this peaceful day was%Nable to happen.%K%N
+
+0x1EC
+Everything's going well so far. There's nothing to worry%Nabout...%K%N%N
+
+0x230
+...After that, Izumi-san made curry for dinner, and it's%Ndecided that we'd go to the Test of Courage. This time,%NSaki's coming too.%K%P
+
+0x244
+...After that, Izumi-san made cream stew for dinner, and%Nit's decided that we'd go to the Test of Courage. This%Ntime, Saki's coming too.%K%P
+
+0x258
+...After that, Izumi-san made meat-potato stew for dinner,%Nand it's decided that we'd go to the Test of Courage.%NThis time, Saki's coming too.%K%P
+
+0x264
+After the Test of Courage, the others go to the hot%Nsprings...%K%N
+
+0x270
+Kurumi and I stay behind and watch "Oedo Gatten"%Ntogether... And then...%K%P
+
+0x2C8
+Kurumi「Onii-chan?」%K%P
+
+0x2D4
+Kurumi「Do you want go somewhere interesting?」%K%P
+
+0x2E8
+... Naturally, I adamantly refuse that invitation, and act to%Nobstruct her.%K%P
+
+0x2F4
+I grasp Kurumi's palm tightly while continuing to watch%N"Oedo Gatten" to the end.%K%P
+
+0x300
+I think I might have overwhelmed her, as Kurumi didn't%Nbring it up after that.%K%P
+
+0x30C
+Before long, everyone returns from the hot springs, and%NKurumi and Izumi-san go home to Lunabeach...%K%P
+
+0x318
+And so...%K%P
+
+0x3BC
+... I am now lying down on my bed, staring at the dark%Nceiling.%K%P
+
+0x3C8
+Tomorrow is no doubt the most important day yet.%K%P
+
+0x3D4
+It's probably my only chance.%K%P
+
+0x3E0
+―My chance to solve all the mysteries.%K%P
+
+0x3EC
+I'll go to Lunabeach to help Izumi-san, and then... I'll ask%Nher for the truth!%K%P
+
+0x3F8
+About the shrine... about the kidnapping... about their link%Nby blood...%K%P
+
+0x404
+Up until now, there's been almost no opportunities to ask%Nher, and I can't ask her directly, seeing as how I'm not%Nsupposed to know that story yet.%K%P
+
+0x410
+All I can do is just wait for her to voluntarily tell it to me.%K%P
+
+0x41C
+And that time will come tomorrow.%K%P
+
+0x428
+However, if I wait until we're at the pier tomorrow%Nafternoon, it'll definitely be too late.%K%P
+
+0x434
+I have to ask her as early as possible. ―Maybe when%NKurumi's at Princess Beach, when we won't be%Ninterrupted...%K%P
+
+0x440
+―I want to know everything about Kurumi.%K%P
+
+0x44C
+That way, I won't make the same mistake again...%K%P
+

@@ -1,0 +1,351 @@
+text area offset and size:
+0x7B8
+0x1700
+0x64
+However, I'm a little concerned about something.%K%N
+
+0x70
+Why did Izumi-san ask me to team up with her...?%K%P
+
+0x7C
+... Because she didn't want to be alone?%K%N
+
+0x88
+... No, that's not it...%K%P
+
+0x94
+Izumi-san isn't frightened at all.%K%N
+
+0xA0
+If she were scared, she would have opposed going on%Nthis Test of Courage from the start...%K%P
+
+0xAC
+Not to mention that since Izumi-san knows this island%Ninside out, she would have forbidden Kurumi from holding%Nthe Test of Courage here if it had been too dangerous.%K%P
+
+0xB8
+Just like the time she strictly forbade the Mystery Tour...%K%P
+
+0xC4
+If that's the case... then I don't know why she was so%Ndetermined to team up with me.%K%P
+
+0xD0
+I might as well ask her...%K%P
+
+0xDC
+Makoto「Hey, Izumi-san?」%K%P
+
+0xF0
+Izumi「Yes? What is it?」%K%P
+
+0xFC
+Makoto「Why did you want to be paired with me?」%K%P
+
+0x110
+However, I'm a little concerned about something.%K%N
+
+0x11C
+Why is Izumi-san happy that we were teamed up...?%K%P
+
+0x128
+... Because she didn't want to be alone?%K%N
+
+0x134
+... No, that's not it...%K%P
+
+0x140
+Izumi-san isn't frightened at all.%K%N
+
+0x14C
+If she were scared, she would have opposed going on%Nthis Test of Courage from the start...%K%P
+
+0x158
+Not to mention that since Izumi-san knows this island%Ninside out, she would have forbade Kurumi from holding%Nthe Test of Courage here if it had been too dangerous.%K%P
+
+0x164
+Just like the time she strictly forbade the Mystery Tour...%K%P
+
+0x170
+If that's the case... then I don't know why she wanted to%Nbe teamed up with me.%K%P
+
+0x17C
+I might as well ask her...%K%P
+
+0x188
+Makoto「Hey, Izumi-san?」%K%P
+
+0x19C
+Izumi「Yes? What is it?」%K%P
+
+0x1A8
+Makoto「Why are you happy that you were paired with me?」%K%P
+
+0x1C4
+Izumi「...」%K%P
+
+0x1D0
+Makoto「I'm just curious.」%K%P
+
+0x1E4
+Izumi-san suddenly stops walking, and ponders on it for%Na moment.%K%P
+
+0x1F0
+Finally, she begins to speak.%K%P
+
+0x1FC
+Izumi「... Well, you see...」%K%P
+
+0x208
+Makoto「...」%K%P
+
+0x214
+Izumi「It's because I also...」%K%P
+
+0x220
+Makoto「?」%K%P
+
+0x22C
+Izumi「... wanted to ask you something, Makoto-kun.」%K%P
+
+0x238
+Makoto「Me...?」%K%P
+
+0x260
+Izumi「Do you remember our promise from yesterday?」%K%P
+
+0x26C
+Izumi「I said that I wanted to have a long talk to you about your%Npremonitions, right?」%K%P
+
+0x278
+―Premonitions.%K%P
+
+0x284
+My blood runs cold at the mention of the word.%K%P
+
+0x290
+I've been trying to avoid this dreaded conversation, but%Nnow there's no escape.%K%P
+
+0x29C
+Izumi「Makoto-kun... Before we went fishing yesterday, you%Ncorrectly guessed that the car's battery was dead.」%K%P
+
+0x2A8
+Makoto「...」%K%P
+
+0x2B4
+Izumi「And the day before that... you had predicted the lack of%Nrice and the earthquake, right?」%K%P
+
+0x2C0
+Makoto「And tonight's dinner... right?」%K%P
+
+0x2D4
+Izumi「... Yes.」%K%P
+
+0x2E8
+She sits down on a nearby stone, her head lowered as%Nshe remains deep in thought.%K%P
+
+0x2F4
+Following suit, I sit down next to her.%K%P
+
+0x300
+Izumi「Why...?」%K%P
+
+0x30C
+Izumi「Why did these things...?」%K%P
+
+0x318
+(These things?)%K%P
+
+0x324
+I feel a strange strange sense of discomfort in her tone.%K%P
+
+0x330
+It's like she knows this "something" that I don't...%K%P
+
+0x33C
+Izumi「Because... even though...」%K%P
+
+0x348
+Izumi「Something like premonitions is impossible...」%K%P
+
+0x35C
+Izumi「Why? Why do you know the future, Makoto-kun?」%K%P
+
+0x368
+Izumi-san raises her head, and intensely stares into my%Neyes.%K%P
+
+0x374
+Izumi「Please... tell me...」%K%P
+
+0x380
+Izumi-san's questioning eyes shine and sway in the%Nmoonlight.%K%P
+
+0x38C
+Those eyes are surprisingly clear and beautiful...%K%P
+
+0x398
+Makoto「Izumi-san...」%K%P
+
+0x3A4
+Makoto「I... I...」%K%P
+
+0x3B0
+My hands faintly tremble.%K%P
+
+0x3BC
+I try to answer her... but I can't...%K%P
+
+0x3C8
+Even I'm clueless about this.%K%P
+
+0x3D4
+Makoto「Izumi-san... I... really don't know.」%K%P
+
+0x3E0
+Makoto「Why am I able to have something like premonitions...?」%K%P
+
+0x3EC
+Makoto「Why did I have... that dream...?」%K%P
+
+0x400
+Izumi「... Dream?」%K%P
+
+0x40C
+I nod.%K%P
+
+0x418
+I feel that if it's Izumi-san, it's okay to tell her everything.%K%P
+
+0x424
+No, maybe I just want to get it off my chest.%K%P
+
+0x430
+I think that if it's Izumi-san, then she'll definitely%Nsympathize with the agony that lurks within my heart.%K%P
+
+0x43C
+Makoto「Everything began on that morning...」%K%P
+
+0x448
+Makoto「The morning of the 1st... when I had that hopeless dream...」%K%P
+
+0x454
+Izumi「What... kind of dream?」%K%P
+
+0x460
+Makoto「A dream...」%K%P
+
+0x46C
+Makoto「Where someone... died.」%K%P
+
+0x480
+Izumi「Huh? ... A dream about death?」%K%P
+
+0x48C
+Makoto「No matter what, I can't remember who the one that died%Nwas.」%K%P
+
+0x498
+Makoto「For some reason, all I can remember is the date...」%K%P
+
+0x4AC
+Izumi「...」%K%P
+
+0x4B8
+Makoto「Saturday... April 6th...」%K%P
+
+0x4C4
+Makoto「And if it's just like those premonitions I've been having%Nup until now, then...」%K%P
+
+0x4D0
+Izumi-san silently listens.%K%P
+
+0x4DC
+Occasionally, her eyes drift around as she thinks about%Nsomething.%K%P
+
+0x4E8
+Makoto「I wonder if... I might have gone completely insane...」%K%P
+
+0x4F4
+Makoto「Even I have absolutely no clue what's what...」%K%P
+
+0x500
+Makoto「It's like there's someone else within me...」%K%P
+
+0x50C
+Just then...%K%P
+
+0x530
+Izumi「Makoto-kun.」%K%P
+
+0x53C
+... Izumi-san suddenly mutters my name.%K%P
+
+0x550
+Just then...%K%P
+
+0x564
+... She embraces me tightly.%K%P
+
+0x570
+My cheek presses against her warm chest...%K%P
+
+0x57C
+Makoto「...」%K%P
+
+0x588
+It was so sudden that I'm dumbfounded.%K%P
+
+0x594
+I can't speak. I can't move.%K%P
+
+0x5BC
+Izumi「It's all right...」%K%P
+
+0x5C8
+Izumi「It'll definitely be all right...」%K%P
+
+0x5D4
+Makoto「...」%K%P
+
+0x5E0
+Izumi「Relax... Soon, everything will be back to the way it was...」%K%P
+
+0x5EC
+Izumi「Because everything... will end...」%K%P
+
+0x5F8
+I'm wrapped up in Izumi-san's kindness.%K%P
+
+0x604
+I feel peaceful and secure in her arms.%K%P
+
+0x610
+It's as if I'm being embraced by a goddess.%K%P
+
+0x61C
+Before I realize it, all traces of the agony within me has%Ndisappeared.%K%P
+
+0x628
+... ... ...%K%P
+
+0x634
+How long have we been like this?%K%P
+
+0x640
+I feel like I'm dozing off, as time seems to be passing%Nslowly.%K%P
+
+0x64C
+In the end, Izumi-san...%K%P
+
+0x658
+Izumi「Anyway, don't tell anyone else about the dream.」%K%P
+
+0x664
+Izumi「It's all right... because you have nothing to worry about,%NMakoto-kun...」%K%P
+
+0x670
+... whispers this softly into my ear, and stands up.%K%P
+
+0x684
+The ecstasy of tranquility that I felt lingered for a while%Nafterwards.%K%P
+
+0x694
+By the time my senses have cleared up, the Test of%NCourage has already ended.%K%P
+

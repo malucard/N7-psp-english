@@ -1,0 +1,222 @@
+text area offset and size:
+0x570
+0xF5D
+0x5C
+We decide to walk down Moon Beach instead of the%Npaved road.%K%P
+
+0x68
+As I am the last one to leave the shop, I follow the others%Nfrom behind.%K%P
+
+0x74
+At the head are Yuka and Saki, who are talking about%Nstories from their past.%K%P
+
+0x80
+Okuhiko, true to his skirt-chaser nature, looks at%NHaruka's face again and again while attempting to strike%Nup a conversation.%K%P
+
+0x8C
+... Just then, I stop walking.%K%P
+
+0x98
+At the beach, I come across a group of lights coming%Nfrom sea fireflies.%K%P
+
+0xA4
+Every time the waves break, the blue lights brighter than%Nneon begin to casually extend seawards...%K%P
+
+0xB0
+The moonlight sways on the surface of the charming%Nblack sea.%K%P
+
+0xBC
+The blue lights' boisterous dance, and the swaying%Nmoonlight...%K%P
+
+0xC8
+That romantic scene takes my breath away.%K%P
+
+0xD4
+The sea breeze is warm, atypical for a night in April...%K%P
+
+0xE0
+I feel like I could watch this forever, but as I'm staring, the%Nothers are getting farther and farther away from me.%K%P
+
+0xEC
+As I stare at the sea, I start walking again.%K%P
+
+0xF8
+Several steps later, another source of light shines into%Nmy field of vision.%K%P
+
+0x104
+It's a cold, stinging light...%K%P
+
+0x110
+―What is it?%K%P
+
+0x11C
+I stagger towards the source of the light as if it's%Ninviting me.%K%P
+
+0x128
+It's lying on top of the wave soaked sand.%K%P
+
+0x134
+I lean down and pick up the light...%K%P
+
+0x14C
+―!!!%K%P
+
+0x160
+It's that... "bell"...%K%P
+
+0x198
+Suddenly, a shiver crawls up my spine.%K%P
+
+0x1A4
+Goosebumps form all over my entire body, and my heart%Nviolently jumps up and down.%K%P
+
+0x1B0
+(It's... impossible...)%K%P
+
+0x1BC
+This is... This is... definitely what I saw in my dream...%K%P
+
+0x1C8
+The bell in my palm has a freezing cold metal texture...%K%P
+
+0x1D4
+It has a light crimson string...%K%P
+
+0x1E0
+... There's no mistaking it!%K%P
+
+0x1EC
+But why the hell is it here!?%K%P
+
+0x200
+I've looked at something that shouldn't have been%Nseen... I'm captured by feelings of intense guilt.%K%P
+
+0x20C
+I have to hide this truth.%K%P
+
+0x218
+―Right now!%K%P
+
+0x224
+Frightened to death, my body shakes as I throw the bell%Ntowards the sea.%K%P
+
+0x24C
+I want to quickly run away from this reality.%K%P
+
+0x258
+The bell flies in an arc before it sinks into the dark%Nocean...%K%P
+
+0x264
+My body won't stop trembling.%K%P
+
+0x270
+A scene passes through my mind...%K%P
+
+0x284
+―The hopeless nightmare from this morning...%K%P
+
+0x298
+I shake my head to erase that image from my mind.%K%P
+
+0x2A4
+(There's no way... something like that will happen...)%K%P
+
+0x2B0
+(Absolutely not... absolutely not...)%K%P
+
+0x2BC
+I repeat these words to myself again and again like a%Nspell.%K%P
+
+0x2C8
+(It just happens to resemble... the bell from that dream...)%K%P
+
+0x2D4
+(No, even if it was the same bell, so what...?)%K%P
+
+0x2E0
+(There's nothing to be scared of, right...?)%K%P
+
+0x2EC
+I feverishly run down the sandy beach.%K%P
+
+0x2F8
+I can't stop.%K%P
+
+0x304
+Though my feet are tripped up by the sand, I keep on%Nrunning.%K%P
+
+0x310
+The ominous ring of the bell echoes through my head...%K%P
+
+0x394
+As soon as I return to my room, I crash down on the bed,%Ncrawl under the sheets, and close my eyes.%K%P
+
+0x3A0
+I want to fall asleep right now...%K%P
+
+0x3AC
+By tomorrow morning, I'll definitely forget all of this ever%Nhappened.%K%P
+
+0x3B8
+However, the sound of my heart pounding loudly in my%Nears hinders me from sleeping.%K%P
+
+0x3C4
+(What if all the strange events that I've experienced%Ntoday were really premonitions...?)%K%P
+
+0x3D0
+(If that's the case... was that dream... a prophetic%Ndream?)%K%P
+
+0x3DC
+For argument's sake, let's say that's true. Then just who%Nwas... the girl in my dream?%K%P
+
+0x3E8
+―Yuka?%K%P
+
+0x3F4
+―Haruka?%K%P
+
+0x400
+―Saki?%K%P
+
+0x40C
+―Kurumi?%K%P
+
+0x418
+―Izumi-san?%K%P
+
+0x424
+Just which one of those five was it...?%K%P
+
+0x430
+Saturday, April 6th―on that day, which one of them%Nwill... die...?%K%P
+
+0x43C
+―No!%K%P
+
+0x448
+Why the hell am I thinking such bullshit...!?%K%P
+
+0x454
+There's something wrong with me...%K%P
+
+0x460
+I'm thinking like this just because I had three or four%Nweird things happen to me by coicidence...%K%P
+
+0x46C
+Of course! It's just a coincidence!%K%N
+
+0x478
+Everything's nothing more than a simple coincidence...%K%P
+
+0x484
+A simple... coincidence...%K%P
+
+0x490
+...%K%P
+
+0x49C
+The night feels like an eternity.%K%P
+
+0x4B8
+I finally fall asleep as dawn approaches...%K%P
+

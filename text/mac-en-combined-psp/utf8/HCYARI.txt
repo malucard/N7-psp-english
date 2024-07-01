@@ -1,0 +1,264 @@
+text area offset and size:
+0x728
+0x139A
+0x88
+I exit the shop.%K%N
+
+0x9C
+Haruka is silently waiting there.%K%P
+
+0xA8
+Makoto「Well then, ready to go?」%K%P
+
+0xB4
+Haruka「Yes...」%K%P
+
+0xC0
+As we walk, I find myself being overwhelmed by Haruka's%Nindifference.%K%P
+
+0xCC
+Izumi「Wait a minute!」%K%P
+
+0xD8
+I watch as Izumi-san comes running out of the shop.%K%P
+
+0xF4
+Izumi「Sorry. I forgot to tell you that there's a bike by the side%Nof the shop. Please use it.」%K%P
+
+0x100
+Makoto「A bike? Is that really necessary?」%K%P
+
+0x10C
+Izumi「Well, even though it's not far on foot, you still have a lot%Nto bring back, right?」%K%P
+
+0x118
+Makoto「True. Carrying 22 pounds of rice while walking does%Nseem like a pain...」%K%P
+
+0x12C
+Izumi「The key's attached to it. Well then, you two take care.」%K%P
+
+0x138
+Makoto「Will do.」%K%P
+
+0x14C
+I politely wait for Izumi-san to leave before I walk towards%Nthe side of the shop.%K%P
+
+0x158
+Just then... The bike starts moving, then quickly goes%Nflying off. It's Haruka.%K%P
+
+0x164
+Makoto「Huh? Haruka, when did you-」%K%P
+
+0x170
+She doesn't reply or stop.%K%P
+
+0x17C
+Makoto「Hey, wait up! Man...!」%K%P
+
+0x1A4
+I instinctively start to run after her.%K%P
+
+0x1B0
+Haruka is getting farther away, despite my efforts to%Ncatch up. I desperately run faster.%K%P
+
+0x1BC
+However, she's pedaling way too hard for me to keep up.%K%P
+
+0x1C8
+Makoto「Hey, Haruka! I told you to wait!」%K%P
+
+0x244
+After that outburst, Haruka finally hits the brakes.%K%P
+
+0x250
+I catch up to her, but then she says...%K%P
+
+0x264
+Haruka「I can take care of this by myself...」%K%P
+
+0x270
+... Her words shock me.%K%P
+
+0x27C
+Makoto「You know, it kinda kills the purpose of me inviting you%Nalong if you go on without me.」%K%P
+
+0x288
+Haruka「... I can do this by myself.」%K%P
+
+0x294
+Makoto「Listen up, Haruka. There's only one bike. Do you%Nunderstand what that means?」%K%P
+
+0x2A0
+Haruka「...」%K%P
+
+0x2AC
+Makoto「That's why...」%K%P
+
+0x2B8
+Haruka「Then do you want to get on?」%K%P
+
+0x2C4
+Makoto「Huh!?」%K%P
+
+0x2D0
+Haruka「I think you might be able to fit on the luggage carrier.」%K
+
+0x700
+"Thanks, but I don't think I should."
+
+0x70C
+"Sounds like a plan... I guess."
+
+0x318
+Makoto「Thanks, but I don't think I should.」%K%P
+
+0x324
+Haruka「...」%K%P
+
+0x330
+Makoto「Try to understand my position. I was the one who-」%K%P
+
+0x33C
+Haruka「Nevermind, then.」%K%P
+
+0x348
+She gets ready to pedal again, wearing a calm%Nexpression. (Well, even if I DID invite her...) Swallowing my%Npride, I quickly jump onto the bike's luggage carrier.%K%P
+
+0x354
+Haruka「What? Are you going to ride?」%K%P
+
+0x360
+Makoto「...」%K%P
+
+0x36C
+Haruka「...」%K%P
+
+0x378
+Makoto「Yes... I'll take you up on your offer...」%K%P
+
+0x38C
+Makoto「Sounds like a plan... I guess.」%K%P
+
+0x398
+I say this reluctantly.%K%P
+
+0x3A4
+(Why does it have to be this way?)%K%P
+
+0x3B0
+―And so, Haruka pedals the bike while I sit on the%Nluggage carrier, barely fitting.%K%P
+
+0x3BC
+This is a little pathetic and annoying, and... just a little bit%Nsad.%K%P
+
+0x3C8
+(We're so close, and yet she feels so distant...)%K%P
+
+0x3D4
+It bothers me.%K%P
+
+0x424
+I cram the large grocery bag into the bike's basket.%K%P
+
+0x430
+Just then, the front wheel begins to bend under the%Nweight of the rice. Figures. We did buy 22 pounds of it,%Nafter all.%K%P
+
+0x444
+Without giving me a glance, Haruka heads straight for the%Nbike again, with the same composure as earlier.%K%P
+
+0x450
+Makoto「Hold on.」%K%P
+
+0x45C
+Haruka「Hurry up and get on.」%K%P
+
+0x468
+No matter what, I can't let her handle the bike this time.%NNot with the bike in this condition.%K%P
+
+0x474
+And besides, Haruka's a girl. Even if she has an unusual%Nside to her, it's my duty as a man to help her in a%Nsituation like this...%K%P
+
+0x480
+Haruka「Are you staying?」%K%P
+
+0x48C
+Makoto「Isn't it my turn?」%K%P
+
+0x498
+I imminently ask this.%K%P
+
+0x4A4
+Haruka「Huh?」%K%P
+
+0x4B0
+Makoto「Yeah. This time, I'll pedal. Okay?」%K%P
+
+0x4BC
+I help Haruka off the bike, and then grab its handles.%NHaruka turns around to face the luggage carrier.%K%P
+
+0x4C8
+Makoto「People have to help each other out, right?」%K%P
+
+0x4D4
+This might come back to bite me in the ass later on, but%Nwho cares?%K%P
+
+0x4E0
+Haruka「Help each other... out...」%K%P
+
+0x4EC
+Makoto「Right. Anyway, get on.」%K%P
+
+0x4F8
+Haruka nods. She seems stubborn, but she can also be%Nsurprisingly obedient.%K%P
+
+0x50C
+I glance at Haruka, whose legs are dangling off one side%Nof the bike, and I feel warm inside.%K%P
+
+0x550
+Looks like it really did come back to bite me in the ass.%NThat is, letting Haruka ride on the luggage carrier.%K%P
+
+0x55C
+She's petite, and doesn't weigh much, but those 22%Npounds of rice sure do. My thigh muscles are burning... Is%Nthis much pain even normal?%K%P
+
+0x568
+Haruka「Should I get off?」%K%P
+
+0x574
+Haruka firmly grabs my waist from behind, waiting for an%Nanswer.%K%P
+
+0x580
+Makoto「No, I'm fine.」%K%P
+
+0x58C
+I hear a clink. That can't be good, but I can't just give up%Nnow!%K%P
+
+0x598
+Haruka「I think it would be logical for me to do so.」%K%P
+
+0x5A4
+Logical? Screw that.%K%P
+
+0x5B0
+Makoto「I said I'm fine! There's no way I'm stopping here!」%K%P
+
+0x5BC
+Haruka「Why are you angry?」%K%P
+
+0x5C8
+Makoto「Enough already! Look, I said I would do this, so I'm%Ndefinitely doing it...!」%K%P
+
+0x5D4
+Haruka「... I see.」%K%P
+
+0x5E0
+Curious, I try to get a glimpse of her facial expression.%K%P
+
+0x5EC
+However, just then, the rear wheel slips and collapses%Nfrom the pressure.%K%P
+
+0x5F8
+Haruka「Look out!」%K%P
+
+0x604
+Haruka clings to me with all her might. I feel two soft%Nobjects bulge against me. My whole body then burns up%Nwith extreme heat...%K%P
+

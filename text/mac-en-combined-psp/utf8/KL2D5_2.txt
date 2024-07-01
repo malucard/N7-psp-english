@@ -1,0 +1,210 @@
+text area offset and size:
+0x4E0
+0xDBD
+0x6C
+Makoto「All right! It's done!」%K%P
+
+0x78
+Kurumi「Let's see it!」%K%P
+
+0x84
+Makoto「Ta-da～♪ It's a MakoMako Makotour de force～♪」%K%P
+
+0x90
+Kurumi「...」%K%P
+
+0x9C
+Makoto「Well? I did a pretty damn good job, didn't I?」%K%P
+
+0xA8
+Kurumi「Hmm... maybe 63 out of 100?」%K%P
+
+0xB4
+Kurumi「The shape of the shell is slightly crooked.」%K%P
+
+0xC0
+Professor Kurumi is as strict as always.%K%N
+
+0xCC
+But... I'm a little happy.%K%P
+
+0xD8
+It's because last time, she gave me a 62, but this time,%Nshe gave me a 63.%K%P
+
+0xE4
+(That's a whole point higher!)%K%P
+
+0xF0
+(This is proof that I'm slowly improving!)%K%P
+
+0xFC
+(If I fold 37 more, I'll definitely ace it!)%K%P
+
+0x108
+... Suddenly, I come to my senses and realize I've folded%Nan origami bird.%K%N
+
+0x114
+What about Kurumi's origami? Thinking that, I look towards%Nher...%K%P
+
+0x120
+Makoto「Whoa!!」%K%P
+
+0x12C
+(She made different ones from last time!)%K%P
+
+0x138
+Kurumi「Isn't it amazing?」%K%P
+
+0x144
+Kurumi says this proudly.%K%P
+
+0x150
+As she says this, I carefully pick up one of them in%Nbetween my fingers.%K%P
+
+0x15C
+Makoto「What's this?」%K%P
+
+0x168
+Kurumi「A horshoe crab.」%K%P
+
+0x174
+Makoto「Then what's this?」%K%P
+
+0x180
+Kurumi「The Yamato no Orochi- the Eight Forked Serpent.」%K%P
+
+0x18C
+Makoto「...」%K%P
+
+0x198
+Kurumi「And this is 'Mori Motonari', this is a 'gold flower', this is the%N'Okinawa Summit'...」%K%P
+
+0x1A4
+But when I look more closely, I realize that they're almost%Nthe same things as last time...%K%P
+
+0x1B0
+(Though the Okinawa Summit is exactly the same.)%K%P
+
+0x1CC
+Makoto「Ah, b-but Kurumi? Th-There's one more left... isn't there?」%K%P
+
+0x1D8
+I'm a little fidgety.%K%P
+
+0x1E4
+To be more accurate, I'm a little embarrassed.%K%P
+
+0x1F0
+Kurumi「Oh, this?」%K%P
+
+0x1FC
+Makoto「Th-That wrinkled origami... what is it?」%K%P
+
+0x208
+Kurumi「This is...」%K%P
+
+0x214
+Kurumi「... Onii-chan.」%K%P
+
+0x228
+Kurumi「This is Onii-chan when he's smiling!」%K%P
+
+0x234
+Makoto「...」%K%P
+
+0x240
+Kurumi「Eheh♪」%K%P
+
+0x24C
+Makoto「Ha ha ha ha ha ha ha ha...」%K%P
+
+0x258
+Makoto「I look way more badass than Mori Motonari～」%K%P
+
+0x264
+Kurumi「Don't you think? This is Kurumi's favorite♪」%K%P
+
+0x270
+Kurumi「That's why...」%K%P
+
+0x27C
+Kurumi「Kurumi will give you this... as a commemoration♪」%K%P
+
+0x288
+Kurumi places "me" on my palm.%K%P
+
+0x294
+Kurumi「It's a modest present from Kurumi...」%K%P
+
+0x2A0
+This wrinkled, smiling face...%K%P
+
+0x2AC
+An origami that Kurumi folded herself...%K%P
+
+0x2B8
+(But does it really... resemble me...?)%K%P
+
+0x2C4
+Although I think this...%K%P
+
+0x2D0
+Makoto「Thank you.」%K%P
+
+0x2DC
+... I mutter these words, and carefully place "me" in my%Npocket.%K%P
+
+0x2E8
+A warm smile rises on Kurumi's face as she looks at me...%K%P
+
+0x35C
+After that, Kurumi and I continue to fold origami for an%Nhour.%K%P
+
+0x368
+Before I know it, I realize that Kurumi's childlike innocence%Nis rubbing off on me.%K%P
+
+0x374
+We use up all the origami, the black papers, the silver%Npapers, and the gold papers.%K%P
+
+0x380
+Ah...%K%N
+
+0x38C
+There's one sheet of white origami paper left that I%Nforgot about...%K%P
+
+0x398
+I got so lost in myself after making that origami bird that I%Ncompletely forgot about it.%K%P
+
+0x3A4
+Kurumi places all of the completed origami works in the%Nempty basket like a mountain.%K%P
+
+0x3B0
+She closes the lid, and with a snap, lowers the snap%Nfastener.%K%P
+
+0x3C4
+Kurumi「Well then, shall we go back?」%K%P
+
+0x3D0
+Kurumi seems happy.%K%P
+
+0x3DC
+However, I'm a little disappointed.%K%P
+
+0x3E8
+Kurumi Unit 17...%K%P
+
+0x3F4
+I wanted to see it disappear as it flew towards the sea%Nonce more...%K%P
+
+0x400
+When I close my eyes, the image of the white paper%Nairplane clearly rises to my mind.%K%P
+
+0x40C
+I remember as it glided across the windless sea in a%Nstraight line, flying far, far away...%K%P
+
+0x418
+By remembering that scene, I'm finally able to give up on%Nseeing it again.%K%P
+
+0x424
+... Kurumi and I spontaneously hold hands, and leave%NViewpoint Park.%K%P
+

@@ -3,7 +3,7 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
-.orga 0x761c
+.orga 0x7618
 .area 4
 	; Home menu language:
 	; 0 - ja
@@ -12,7 +12,7 @@
 	li a0, 1
 .endarea
 
-.orga 0x7624
+.orga 0x7620
 .area 4
 	; Home button layout
 	; 0 - O=OK; 1 - X=OK
@@ -20,16 +20,16 @@
 .endarea
 
 ; Decrease line spacing in fullscreen text.
-.org 0x881CCB0
+.org 0x881C9D8
 .area 4
 	addiu a2, v0, -0x1
 .endarea
 
 ; Fix the text bug for "All Choices:". (Inlined strcpy didn't copy the last char)
-.org 0x8828084
+.org 0x8827A40
 .area 4*3, 0
 	lw    v0, 0x14(v1)
-	blez  s1,0x08828498
+	blez  s1,0x08827E2C
 	sw    v0, 0x14(s0)
 .endarea
 
@@ -37,21 +37,21 @@
 ; Decrease spacing between characters in scene texts (originally 2 px)
 ; (Doesn't apply to menus, choice texts, history)
 @FontSpacing equ 0x0
-; .org 0x881AA9C - width calc subroutine address
-.org 0x881AAF4
+; .org 0x881A7C4 - width calc subroutine address
+.org 0x881A81C
 ;	nop
 	addiu v0, v0, @FontSpacing
-.org 0x881AB20
+.org 0x881A848
 ;	nop
 	addiu v0, v0, @FontSpacing
-.org 0x881AB50
+.org 0x881A878
 	addiu v0, v1, @FontSpacing
 
 
 ; Comparator for a string of unbreakable symbols. Rewrote it to only check the 1st ascii byte.
 ; returns v0: 1 - if matched, 0 - not matched
-.org 0x0881A984
-.area 4*18, 0
+.org 0x0881A6AC
+.area 4*16, 0
 	lbu	a2, 0x0(a0)
 	lbu	v1, 0x0(a1)
 @@CheckNext:
@@ -77,12 +77,12 @@ HACK_00:
 .endarea
 ; Clear the relocation entry for the jump at 0x0881A990 (4th instruction in the original subroutine)
 ; Can be worked around, but it's safer this way.  
-.orga 0x1518D4
+.orga 0x14C7FC
 	.word 0x0
 
 
 ; menu glyph spacing, depending (somewhat) on scale
-.org 0x08866908
+.org 0x08863578
 .area 4*2
 	;li	t1, 2	;<-original
 	j	HACK_00  ; uses free space from a different subroutine
@@ -90,13 +90,13 @@ HACK_00:
 HACK_00_RETURN:
 .endarea
 ; do not multiply the value by 2
-.org 0x08866570
+.org 0x088631E0
 	sll fp, t1, 0
 
 
 ; Increases the size of the glyph buffer for choice lines from 22 to 44
 ; (Caused some choice lines to be overwritten by the following ones)
-.org 0x0881FE54
+.org 0x0881FB08
 .area 4*2, 0
 	sll	v0,a2,0x6
 	sll	a2,a2,0x2

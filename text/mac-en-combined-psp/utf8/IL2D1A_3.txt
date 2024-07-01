@@ -1,0 +1,762 @@
+text area offset and size:
+0x1830
+0x379E
+0x88
+Okuhiko「Hey!」%K%P
+
+0x94
+9:34 A.M.―right on schedule. Okuhiko wakes up at the%Nsame time he did on the 1st.%K%P
+
+0xA0
+Of course, that's only natural. He himself is trying to%Ndeceive me, after all...%K%P
+
+0xBC
+Okuhiko「Huh? I'm not... interrupting something, am I?」%K%P
+
+0xC8
+He asks this to Haruka as he ignores my presence.%K%P
+
+0xD4
+Of course, she doesn't answer him.%K%P
+
+0xF8
+Okuhiko「... Nah, there's no way it's like that. Ha ha ha!」%K%P
+
+0x10C
+While laughing, he glares at me again.%K%P
+
+0x118
+His eyes are full with scorn...%K%P
+
+0x12C
+The scene unfolding before my eyes is the same as that%Nday.%K%P
+
+0x138
+It's a truly strange sight.%K%P
+
+0x144
+He loudly yawns as he slowly walks towards the sofa%Nbefore sitting down.%K%P
+
+0x150
+He remembers to keep 50 cm between him and Haruka.%K%P
+
+0x15C
+It's something he remembers quite well.%K I'm honestly%Nimpressed.%K%P
+
+0x168
+Okuhiko is really serious in going all out to try to make%Nthis trick work on me.%K%N
+
+0x174
+You could call him a "despicable bastard", for that, but...%K%P
+
+0x180
+It must be really difficult to repeat the exact same%Nactions. I must commend him.%K%P
+
+0x18C
+If I didn't know any better, I would have honestly felt like I%Nhad time traveled.%K%P
+
+0x198
+Nevertheless, all of us (myself included) are putting on a%Ntrue to life performance here.%K%P
+
+0x1A4
+Who knew we had this much acting talent? Perhaps we%Nshould join the drama club... or even consider acting as%Na career.%K%P
+
+0x1B0
+Makoto「Hey, Okuhiko?」%K%P
+
+0x1BC
+I turn towards Okuhiko and say the same thing I did back%Nthen.%K%P
+
+0x1D0
+Okuhiko「Yeah?」%K%P
+
+0x1DC
+Makoto「It's just... What exactly are we trying to achieve at this%Nso-called 'Seminar Camp' here?」%K%P
+
+0x200
+Okuhiko「...」%K%P
+
+0x20C
+Makoto「Huh? ... What's wrong, Okuhiko?」%K%P
+
+0x218
+Okuhiko「... Ishihara, didn't you ask me that before?」%K%P
+
+0x224
+Okuhiko was probably expecting me to ask, "What's%Ntoday's date?"%K%P
+
+0x230
+But instead, I asked the same question I did on the 1st.%K%P
+
+0x23C
+In addition, I'm not agitated or perturbed at all. I'm acting%Nas if nothing ever happened.%K%N
+
+0x248
+As a result, Okuhiko is surprised.%K%P
+
+0x254
+Makoto「... What are you talking about, Okuhiko?」%K%P
+
+0x260
+Feigning ignorance, I unleash my counterattack.%K%P
+
+0x274
+Okuhiko「H-Hey, Ishihara... What's... today's date?」%K%P
+
+0x280
+Okuhiko is clearly uneasy.%K%P
+
+0x28C
+Makoto「Huh? It's April 1st, isn't it? Did you forget that already?」%K%P
+
+0x298
+I answer calmly. Right... calmly.%K%P
+
+0x2C8
+Okuhiko「Th... That's right... ahaha.」%K%P
+
+0x2D4
+Okuhiko begins to break out into a cold sweat. His face%Nis twitching a bit.%K%P
+
+0x2E0
+Makoto「Hey, it's only the first day of the Camp, so what's wrong?%NHang in there, Okuhiko～」%K%P
+
+0x2EC
+I'm also putting on a stellar performance, if I may say so%Nmyself.%K%P
+
+0x300
+Okuhiko's face has gone pale. Heh heh heh... Serves you%Nright.%K%P
+
+0x384
+Yuka「Good morning!」%K%P
+
+0x390
+Yuka has "awoken". It's probably at the same time as the%N1st.%K%P
+
+0x39C
+Makoto「Good morning.」%K%P
+
+0x3B8
+Okuhiko「... H-Hey...」%K%P
+
+0x3C4
+Okuhiko and I return her greeting. Haruka, needless to%Nsay, doesn't reply at all.%K%P
+
+0x3D0
+Okuhiko's voice sounds slightly devoid of energy.%NObviously...%K%P
+
+0x3EC
+Yuka「Have any of you had breakfast yet?」%K%P
+
+0x3F8
+Makoto「No, not yet...」%K%P
+
+0x404
+Yuka「I see. Well then, I guess I'll make some myself.」%K%P
+
+0x410
+Makoto「What!?」%K%P
+
+0x41C
+Yuka「What, do you have any complaints?」%K%P
+
+0x428
+Yuka's also doing a great job. Thanks to that, things are%Nhappening the same way they were last time.%K%P
+
+0x444
+Huh...? Happening the same way...?%K%P
+
+0x450
+H-Hold on. At this rate, the same events will unfold again,%Nmeaning...%K%P
+
+0x478
+―I'll have to suffer Yuka's cooking again!!!!%K%P
+
+0x484
+Yuka「I think it'll probably take about 15 minutes. Um, toast's%Nokay, right?」%K%P
+
+0x498
+And then I...%K%P
+
+0x4A4
+Makoto「Hold it!!!」%K
+
+0x1808
+... say this.
+
+0x1814
+... barely avoid saying this.
+
+0x500
+A loud thud comes from my feet.%K%P
+
+0x514
+When I look, I see Haruka has used her heel to stomp on%Nmy foot with all of her strength.%K%P
+
+0x528
+Makoto「... O-OWWWWW!!!」%K%P
+
+0x534
+I jump up and down, holding my crushed foot. Tears rise%Nto my eyes.%K%P
+
+0x548
+Okuhiko「???」%K%P
+
+0x554
+Okuhiko looks suspicious.%K%P
+
+0x570
+Haruka quickly backs me up.%K%P
+
+0x57C
+Haruka「There was... this huge mosquito. ... It was about to suck%Nhis blood.」%K%P
+
+0x588
+... Well, it seems that Haruka might also be getting into this%Nwhole performance.%K%P
+
+0x59C
+Okuhiko「Huh.」%K%P
+
+0x5A8
+He seems to understand.%K%P
+
+0x5B4
+(Is this even the season for mosquitoes!?)%K%P
+
+0x5C0
+If I were to say this out loud, then I would feel like I was in%Nsome traditional comedy sketch, with me as the straight%Nman.%K%N
+
+0x5CC
+But... Though I'm tempted to say this, I don't want to get%Nstomped on again...%K%P
+
+0x5D8
+Haruka's fine... she'll sacrifice her breakfast if it means%Nrepeating the same history.%K%P
+
+0x5E4
+But there's no way I can get out of this...!%K%P
+
+0x5F0
+Just remembering that "food" makes my stomach churn...%K%P
+
+0x604
+I frantically swallow the words that almost come bursting%Nout of my mouth.%K%P
+
+0x610
+That was close...%K%P
+
+0x61C
+Haruka and Okuhiko are calm.%K%P
+
+0x628
+It's only natural. They'll sacrifice their breakfasts if it%Nmeans letting the same history play out.%K%P
+
+0x634
+But I'll be forced to eat that crap again!%K%P
+
+0x640
+Just remembering that "food" makes my stomach churn...%K%P
+
+0x6A0
+While waiting for Yuka to finish cooking, we watch "A%NHealthy YOUtopia" on the TV.%K%P
+
+0x6AC
+Needless to say, this isn't the episode that's airing now.%K%P
+
+0x6B8
+The images projected from the cathode ray tube right%Nnow are from Haruka's recording.%K%P
+
+0x6C4
+Okuhiko is so surprised that this episode is playing that%Nit seems his brain is frying.%K%P
+
+0x6D0
+At last, with that trump card, Okuhiko finally seems to%Nbelieve that today is the 1st.%K%P
+
+0x700
+Yuka「Sorry to keep you waiting～」%K%P
+
+0x70C
+Before long, Yuka's done cooking.%K%P
+
+0x718
+Yuka「I've already set the food on the table. Let's eat!」%K%P
+
+0x724
+No one even tries stands up in spite of those words.%K%P
+
+0x730
+Of course... we all know the result of her cooking...%K%P
+
+0x744
+Yuka「Huh～? What's wrong, guys? Weren't you hungry?」%K%P
+
+0x750
+Okuhiko「...」%K%P
+
+0x75C
+Haruka「...」%K%P
+
+0x768
+Makoto「Th-That's right... we're starving... Come on, let's go eat♪」%K%P
+
+0x774
+I urge everyone on cheerfully in an attempt to cheer%Nmyself up, even if only slightly.%K%P
+
+0x788
+Yuka「Well then, go ahead and eat up～♪」%K%P
+
+0x794
+In the end, let's just say that Yuka's food drove me to%Nhell and back.%K%P
+
+0x7A0
+...%K%P
+
+0x81C
+Makoto「Ugh...」%K%P
+
+0x828
+I feel sick...%K%P
+
+0x834
+I can feel my chest and throat filling up with nausea.%K%P
+
+0x840
+I have once again become a victim of that sad excuse%Nfor food.%K%P
+
+0x84C
+I sink down deep into the sofa and stare at the living%Nroom's ceiling as I swear that "I'll never let Yuka cook%Never again!"%K%P
+
+0x858
+I swear this 42 times.%K%P
+
+0x864
+Like last time, Yuka is happily humming while washing the%Ndishes.%K%P
+
+0x870
+Haruka is also brushing her teeth, just like last time.%K%P
+
+0x87C
+But this time, Okuhiko isn't helping Yuka.%K%P
+
+0x888
+He seems to be in deep thought. The pose he's in%Nresembles Rodin's "The Thinker"...%K%P
+
+0x8C0
+Just then, the doorbell rings from the front door.%K%P
+
+0x8CC
+Is she here? ... I think this.%K%P
+
+0x8D8
+Kurumi has come to deliver the pizza.%K%P
+
+0x938
+Kurumi「Thank you for your continued patronage♪」%K%P
+
+0x944
+Kurumi「Here's the seafood pizza you ordered!」%K%P
+
+0x950
+Kurumi's also doing a good job at acting.%K%P
+
+0x95C
+If anyone saw her now, they'd think the Kurumi in front of%Nmy eyes was the Kurumi from the 1st.%K%P
+
+0x978
+Kurumi「Then, this isn't the Asakura house...」%K%P
+
+0x984
+After informing her that "No one here ordered pizza", a%Nsurprised look appears on Kurumi's face.%K%P
+
+0x990
+Makoto「No, there isn't anyone here name Asaku...」%K%P
+
+0x99C
+This is the part where Okuhiko shouts...%K%P
+
+0x9A8
+Okuhiko「...」%K%P
+
+0x9C4
+... Huh? He's not going to do it?%K%P
+
+0x9D0
+I stop talking, and sneak a glance at Okuhiko.%K%P
+
+0xA08
+Kurumi also tries peeking into the lodge.%K%P
+
+0xA1C
+It seems that Okuhiko is still in deep thought.%K%P
+
+0xA28
+He's walked up behind me, but...%K%P
+
+0xA34
+He's probably worried...%K%P
+
+0xA40
+If he doesn't take the pizza, then he'll stay hungry.%K%N
+
+0xA4C
+But if he does take the pizza, then he'll have to face%NSaki's wrath later.%K%P
+
+0xA58
+To Okuhiko, this might be a forked road.%K%P
+
+0xA80
+―This is bad!%K%P
+
+0xA8C
+My mind races.%K%P
+
+0xA98
+If Okuhiko doesn't take the pizza, then Saki will have lost%Nher reason to go to Lunabeach!%K%P
+
+0xAA4
+If that happens, then various things will need to happen%Nafterwards for history to correct its course.%K%P
+
+0xAB0
+If possible, I'd rather avoid any deviations...%K%P
+
+0xAE8
+Haruka「Hey...」%K%P
+
+0xAFC
+Haruka must have finished brushing her teeth, as she%Ncomes over.%K%P
+
+0xB08
+She tugs on Okuhiko's clothes.%K%P
+
+0xB14
+Haruka「Hey... Okuhiko... I'm hungry...」%K%P
+
+0xB44
+Okuhiko「Ah, thank you for all your trouble～」%K%P
+
+0xB50
+Makoto「Huh?」%K%P
+
+0xB64
+Okuhiko「I'm Okuhiko Asakura.」%K%P
+
+0xB78
+For some reason, Okuhiko looks like he's about to cry.%K%N
+
+0xB84
+The rest of us feel relieved.%K%P
+
+0xBF8
+Okuhiko「Hey, shouldn't we go now?」%K%P
+
+0xC04
+As he rises, Okuhiko flicks his long bangs away from his%Nface.%K%P
+
+0xC20
+Yuka「Huh? Go where, Okuhiko-kun?」%K%P
+
+0xC34
+Okuhiko「Huh? Yuka-chan... e-er, look, didn't we make a promise on%Nthe night of March 31st? That we'd all go play tennis the%Nnext day.」%K%P
+
+0xC40
+He didn't say "yesterday", but "March 31st", like a time%Ntraveler.%K%P
+
+0xC4C
+That's because to Okuhiko, it probably doesn't feel like%N"March 31st" was yesterday. Well, it's the same for all of%Nus...%K%P
+
+0xC58
+However...%K%N
+
+0xC64
+I glare at Yuka.%K%P
+
+0xC70
+(Yuka, don't forget what you're supposed to say!)%K%P
+
+0xC84
+Yuka「... Ah! Yeah! Right, right... that's right... How careless of%Nme♪」%K%P
+
+0xC98
+Okuhiko「... H-Hang in there... Yuka-chan.」%K%P
+
+0xCA4
+For once, I agree with Okuhiko.%K%P
+
+0xCC0
+Yuka looks at me as if to say "sorry."%K%P
+
+0xCCC
+Fortunately, Okuhiko doesn't seem suspicious.%K%P
+
+0xCE0
+Yuka「Well then, everyone, please get ready!」%K%P
+
+0xD30
+... And so, we arrive at the tennis court.%K%P
+
+0xD44
+Yuka「All right then, let's play!」%K%P
+
+0xD50
+Yuka has rented four rackets from the court's manager,%Nand forced them into our hands.%K%P
+
+0xD5C
+It's almost blinding how much joy her eyes are radiating.%K%P
+
+0xD68
+Just then...%K%P
+
+0xD84
+Haruka「I'll... pass...」%K%P
+
+0xD90
+... She places the racket she had just received gently%Nagainst the bench.%K%P
+
+0xDA4
+Yuka「Whaaat?」%K%P
+
+0xDC0
+Okuhiko「Well then, Haruka-chan, shall we go to the ocean?」%K%P
+
+0xDCC
+At that moment, Okuhiko invites Haruka.%K%P
+
+0xDD8
+Okuhiko「Let's go. You want to go to the ocean, right?」%K%P
+
+0xDE4
+Well, if this is the same history, then Haruka should be%Nanxious to go to the ocean.%K%P
+
+0xDF0
+Okuhiko「I know where you want to go, Haruka-chan... Do you know%Nwhy?」%K%P
+
+0xDFC
+No way... is Okuhiko trying to turn the situation against%Nus...?%K%P
+
+0xE08
+This isn't good... I have no clue how we're going to be%Nable to keep deceiving him at this rate.%K%P
+
+0xE14
+Haruka「It's because...」%K%P
+
+0xE20
+Okuhiko「Huh? What's wrong?」%K%P
+
+0xE3C
+Haruka「I... want to go fishing.」%K%P
+
+0xE50
+Okuhiko「What?」%K%P
+
+0xE78
+Okuhiko is petrified.%K%P
+
+0xE84
+Heh... heh heh heh heh... That was wonderful, Haruka.%NYou're the best.%K%P
+
+0xE90
+Okuhiko「Wh-Why...?」%K%P
+
+0xE9C
+Haruka「Because fishing is more fun...」%K%P
+
+0xEA8
+Okuhiko「But... Haruka-chan... you've never fished before, right?」%K%P
+
+0xEB4
+Haruka「... Why do you know that?」%K%P
+
+0xEC0
+Okuhiko「Ah... no, um... Because I know everything you're thinking.」%K%P
+
+0xECC
+Haruka「Then... try to guess what I'm thinking now.」%K%P
+
+0xEE0
+Okuhiko「Sure, okay...」%K%P
+
+0xEEC
+Okuhiko「What you're thinking right now is: 'Okuhiko-kun can see%Nthrough everything about me♪ Amazing!' Right?」%K%P
+
+0xEF8
+Haruka「Wrong...」%K%P
+
+0xF0C
+Okuhiko「Huh?」%K%P
+
+0xF18
+Haruka「What I was thinking right now is... 'I absolutely don't want%NOkuhiko to follow me,'... That's what it was.」%K%P
+
+0xF2C
+Okuhiko「... WHA-!?」%K%P
+
+0xF38
+Ahahahaha! Serves you right, Okuhiko.%K%P
+
+0xF44
+He's so motionless and dumbstruck that it takes all of my%Nwillpower to keep myself from bursting into laughter.%K%P
+
+0xF98
+Yuka「Then we'll be right here.」%K%P
+
+0xFA4
+Yuka acts like she's consented, and shrugs.%K%P
+
+0xFB8
+Umm, let's see, this is where I...%K%P
+
+0xFD4
+Now that I think about it, I'm supposed to stay here and%Nplay tennis with Yuka...%K%P
+
+0xFE0
+It's probably for the best if I do so and act in%Naccordance with "history"...%K%P
+
+0xFF4
+Okuhiko「Well, see you later.」%K%P
+
+0x1000
+Okuhiko quickly recovers. As the heir of the world%Nfamous Iida Financial Group, it's to be expected. He's got%Nstrong, staunch nerves.%K%P
+
+0x100C
+Okuhiko「Well then, let's go, Haruka-ch...」%K%P
+
+0x1018
+... Haruka has already left, and is walking far away from%Nus.%K%P
+
+0x102C
+Okuhiko「W-Wait! Haruka-chan!!」%K%P
+
+0x105C
+Okuhiko frantically starts to chase after her.%K%P
+
+0x1068
+Okuhiko「I'LL TEACH YOU HOW TO FISH!!!」%K%P
+
+0x10D8
+Now that I think about it, I went with Haruka to the ocean.%K%P
+
+0x10E4
+It's probably for the best if I do so to act in accordance%Nwith "history"... That's what I think.%K%P
+
+0x10F0
+Well, Haruka already said that she wants to go fishing, so%Nhistory's changed anyway, but...%K%P
+
+0x10FC
+Makoto「Hey, wait a minute, Yuka.」%K%P
+
+0x1110
+Yuka「?」%K%P
+
+0x111C
+Makoto「I never said I was going to play tennis.」%K%P
+
+0x1128
+Yuka「??」%K%P
+
+0x1144
+Okuhiko「H-Hey, Ishihara～!」%K%P
+
+0x1150
+After a swift recovery, Okuhiko immediately snaps at me.%NHe's sure got nerves of steel...%K%P
+
+0x1164
+Okuhiko「Ishihara can't be allowed to go!!」%K%P
+
+0x1170
+He shoots me a sharp glare and scowls.%K%P
+
+0x117C
+Geez... How pathetic...%K%P
+
+0x1188
+Makoto「I'm also... going fishing.」%K%P
+
+0x119C
+Yuka「Huuuh!?」%K%P
+
+0x11B0
+Okuhiko「Kuh... Dammit, why do you always have to get in my way?!」%K%P
+
+0x11BC
+A harsh expression rises on Okuhiko's face as he%Nbegins to whine.%K%P
+
+0x11C8
+Okuhiko「This time... this time, I won't let you two go together!」%K%P
+
+0x11D4
+Haruka「...」%K%P
+
+0x11E8
+Yuka「H-Hey...」%K%P
+
+0x1214
+Okuhiko「Ishihara, there's no way in hell I'll let you go fishing with%NHaruka-chan... I won't let you!!」%K%P
+
+0x1220
+Okuhiko is desperately trying to change history.%K%P
+
+0x1234
+And just like that, he tries to grab me!%K%P
+
+0x1240
+... But I remain calm, and quietly speak.%K%P
+
+0x124C
+Makoto「Here's a prediction for you...%K You're the one who'll never%Nbe able to go... Okuhiko.」%K%P
+
+0x1260
+Okuhiko「What? ... Oh shit!」%K%P
+
+0x126C
+By the time Okuhiko realizes it, it's too late.%K%P
+
+0x1294
+A thick sound rings out.%K%P
+
+0x12A0
+Okuhiko「☆○◎×...!」%K%P
+
+0x12F8
+The racket smashes into the back of Okuhiko's head. He%Ncollapses to the ground in a daze.%K%P
+
+0x1304
+Yuka crouches down and shakes his body. He's%Nknocked out.%K%P
+
+0x1310
+However... this time, he has a nosebleed.%K He might have%Nhit his nose when he fell.%K%P
+
+0x1324
+Yuka「W-What should I do...」%K%P
+
+0x1330
+Though Yuka's words are familiar, there's a new%Nimplication behind them.%K%N
+
+0x133C
+That's because she hit him on purpose this time...%K%P
+
+0x1360
+Nevertheless... I think to myself.%K%N
+
+0x136C
+Okuhiko... he never learns, does he?%K%P
+
+0x1394
+Haruka and I decide to leave now, while Okuhiko's still%Nsprawled out on the ground.%K%P
+
+0x13A0
+As we leave, I talk to Yuka.%K%P
+
+0x13AC
+Makoto「Yuka, we're going to Princess Beach now...」%K%P
+
+0x13C0
+Yuka「Huh?」%K%P
+
+0x13CC
+Makoto「I want to repeat history to a T as much as possible... If%Nwe can't, things might get too complicated.」%K%P
+
+0x13D8
+Yuka「... Yeah, I understand.」%K%P
+
+0x13E4
+That settled, I begin to chase after Haruka.%K%P
+

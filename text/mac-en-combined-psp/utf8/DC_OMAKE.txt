@@ -1,0 +1,321 @@
+text area offset and size:
+0xB90
+0x14E0
+0x124
+I'm in the middle of the ocean.%K%P
+
+0x130
+The sun in the blue sky shines on the azure sea...%K%P
+
+0x13C
+I can't see anything else.%K%P
+
+0x148
+I'm leaning against the ship's railing while enjoying the%Nspring sea breeze.%K%P
+
+0x154
+I look at the sea, and see its surface being cut to%Npieces by the bow of the speeding ship.%K%P
+
+0x160
+As a white sheet of water rises up, I see several%Ndolphins playing around the ship.%K%P
+
+0x16C
+It's probably been about roughly one hour since we left%Nthe harbor.%K%P
+
+0x178
+From behind, I can hear the innocent cheers of the%Nothers.%K%P
+
+0x184
+―Wham.%K%P
+
+0x190
+I feel someone tapping my shoulder, so I turn around.%K%P
+
+0x1A4
+It's Saki...%K%P
+
+0x1B0
+At her feet is a puppy, playfully circling her.%K%P
+
+0x1C4
+Saki「Here...」%K%P
+
+0x1D0
+With a kind gaze, Saki presents me with a beer can.%K%P
+
+0x1DC
+Makoto「Oh, thank you!」%K%P
+
+0x1E8
+I take the beer can, open it up, and press it to my lips.%K%P
+
+0x1F4
+I gulp it down a sip...%K%P
+
+0x200
+Makoto「But anyway, Saki... Are you really okay with it?」%K%P
+
+0x214
+Saki「With what?」%K%P
+
+0x220
+Makoto「Didn't you say earlier that you planned to transfer from%NK University to our college in spring next year?」%K%P
+
+0x22C
+Makoto「There's too much of a difference in level between K%NUniversity and my college, isn't there...?」%K%P
+
+0x240
+Saki「Well, I've lost any interest I had in that university.」%K%P
+
+0x24C
+Saki「Besides, the atmosphere there is also the worst...」%K%P
+
+0x258
+Makoto「'Atmosphere'... That's your only reason?」%K%P
+
+0x26C
+Saki「Hmm...」%K%P
+
+0x278
+Saki「It might be a bit different than that...」%K%P
+
+0x284
+Makoto「Huh? Then what is it?」%K%P
+
+0x290
+Saki「...」%K%P
+
+0x29C
+Makoto「...?」%K%P
+
+0x2B0
+Saki「... Hee hee♪」%K%P
+
+0x2BC
+Makoto「...???」%K%P
+
+0x2C8
+Kurumi「It's because Onii-chan's there, right?」%K%P
+
+0x2D4
+Makoto「Oh, Kurumi...」%K%P
+
+0x324
+Kurumi「Saki-san, you just want to go to the same college as%NOnii-chan.」%K%P
+
+0x338
+Saki「Hell no! You're wrong!」%K%P
+
+0x34C
+Kurumi「But your ears are bright red, Saki-san.」%K%P
+
+0x360
+Saki「I'm telling you, you're wrong!」%K%P
+
+0x374
+Kurumi「Huh～? You really sure about that～?」%K%P
+
+0x388
+Kurumi「Incidentally, Kurumi has also decided to attend your%Ncollege.」%K%P
+
+0x394
+Makoto「... What?」%K%P
+
+0x3A8
+Kurumi「That's why, starting next year, Kurumi's decided not to%Ncall you 'Onii-chan', but rather, 'Senpai'♪」%K%P
+
+0x3B4
+Makoto「Wait a minute, Kurumi!」%K%P
+
+0x3C0
+Makoto「You do know that you have to take exams for these%Nkinds of things, don't you?」%K%P
+
+0x3D4
+Kurumi「Kurumi knows that.」%K%P
+
+0x3E0
+Kurumi「But she will definitely be accepted.」%K%P
+
+0x3EC
+Makoto「Oh ho, you're quite confident about that, aren't you...?」%K%P
+
+0x3F8
+Kurumi「Yep... That's because the one taking the exam won't be%NKurumi.」%K%P
+
+0x404
+Makoto「... Huh?」%K%P
+
+0x420
+Haruka「Hey, Makoto?」%K%P
+
+0x42C
+Makoto「...」%K%P
+
+0x440
+Haruka「Geez. Hey, Makoto!」%K%P
+
+0x44C
+Makoto「... A-Ah... Haruka... What is it?」%K%P
+
+0x460
+Haruka「Actually, there's something I wanted to ask you.」%K%P
+
+0x46C
+Makoto「Me?」%K%P
+
+0x478
+Haruka「Yes. Do you know who wrote 'The Ten Foot Square Hut'?」%K%P
+
+0x484
+Makoto「N-No. But why are you asking me?」%K%P
+
+0x490
+Haruka「Because I've already completely forgotten it...」%K%P
+
+0x49C
+Haruka「It's been several years since I took the exam...」%K%P
+
+0x4A8
+Makoto「Exam...」%K%P
+
+0x4B4
+Makoto「Wait, you're the one taking it!?」%K%P
+
+0x4C0
+Haruka「Yes.」%K%P
+
+0x4CC
+Makoto「Say, Haruka? That's called a proxy exam, which is ille-」%K%P
+
+0x4D8
+Haruka「I know.」%K%P
+
+0x4EC
+Haruka「That's why this is a secret from Onee-chan... okay?」%K%P
+
+0x4F8
+Izumi「And what secret would that be～?」%K%P
+
+0x514
+Makoto「Ah, Izumi-san, good timing...」%K%P
+
+0x520
+Izumi「I heard everything you said just now.」%K%P
+
+0x534
+Haruka「Huh? H-Heard what?」%K%P
+
+0x548
+Izumi「There's no use in playing dumb, Haruka.」%K%P
+
+0x55C
+Haruka「...」%K%P
+
+0x570
+Izumi「And Kurumi!」%K%P
+
+0x58C
+Izumi「If you use a proxy, then Onee-chan will never forgive%Nyou.」%K%P
+
+0x598
+Kurumi「But-」%K%P
+
+0x5AC
+Izumi「No buts!」%K%P
+
+0x5C0
+Izumi「If you want to enroll in our college, then you're going to%Nhave to study hard and take the exam fair and square!」%K%P
+
+0x5D4
+Izumi「... All right?」%K%P
+
+0x5E0
+Kurumi「...」%K%P
+
+0x5F4
+Izumi「It's all right, because Onee-chan will teach you properly...」%K%P
+
+0x600
+Izumi「―All about next year's entrance exam questions.」%K%P
+
+0x60C
+(... Wh-What?)%K%P
+
+0x628
+Okuhiko「Shalom!!」%K%P
+
+0x63C
+Okuhiko「Hey there, ladies and gentlemen!」%K%P
+
+0x648
+Okuhiko「Well? Do you have the resolution to join the Artificial%NHuman Squadron?」%K%P
+
+0x654
+Everyone「...」%K%P
+
+0x668
+Okuhiko「You too can get a handshake from me at my show at the%NParadise Banquet Theme Park!」%K%P
+
+0x674
+Everyone「...」%K%P
+
+0x688
+Okuhiko「Huh? Now that I think about it, I don't think I see Lady%NJenny anywhere.」%K%P
+
+0x694
+Makoto「... Lady... Jenny???」%K%P
+
+0x6B0
+Izumi「You're right... I wonder where Yuka-chan could have gone.」%K%P
+
+0x6CC
+Haruka「Even though she was over there just earlier...」%K%P
+
+0x6E8
+Kurumi「That's strange...」%K%P
+
+0x6FC
+Everyone「...」%K%P
+
+0x710
+Saki「―Huh!?」%K%P
+
+0x71C
+Saki「Wh-What the hell!?」%K%P
+
+0x728
+Saki suddenly shouts up...%K%P
+
+0x73C
+When we hear her, we all turn simulaneously at the same%Ntime.%K%P
+
+0x758
+When we look up at the aboveboard pilothouse, we see...%K%P
+
+0x788
+Yuka「Woohoo! Hard to shtarboard!」%K%P
+
+0x794
+Yuka「Kyahahahahahahaha♪」%K%P
+
+0x7A0
+Yuka「I've alwaysh wanted to doo dish wansh in mai life～♪」%K%P
+
+0x7AC
+We see her holding a 1.8 liter bottle in one hand,%Nstaggering as she handles the steering wheel.%K%P
+
+0x7B8
+Yuka「Ngh, Ngh, Ngh, Ngh, Ngh... Phaaa!」%K%P
+
+0x7C4
+Yuka「Shake really ish besht when ish drunk on a ship～♪%NRight? Right?」%K%P
+
+0x7D0
+Once again, she turns back to steering the ship around.%K%P
+
+0x7DC
+We begin to see ourselves... slowly approaching%Nsomething beyond the horizon.%K%P
+
+0x7E8
+The thing that floats like a faint mirage is the silhouette%Nof a small island covered with fresh green leaves.%K%P
+

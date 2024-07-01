@@ -1,0 +1,153 @@
+text area offset and size:
+0x4F8
+0x856
+0x9C
+The hot spring is completely empty in the middle of the%Nnight...%K%P
+
+0xA8
+(But it's rather charming, despite how desolate it looks...)%K%P
+
+0xB4
+Coming here has distracted me from my thoughts.%K%P
+
+0xC0
+I enthusiastically throw off my clothes, wrap a towel%Naround my waist, and start walking towards the springs.%K%P
+
+0xCC
+Just then...%K%P
+
+0x13C
+Makoto「???」%K%P
+
+0x148
+Makoto「Ah... Yuka.」%K%P
+
+0x15C
+Yuka「KYAAAAAAA!!!」%K%P
+
+0x168
+Makoto「GWAAAAAAAH!!!」%K%P
+
+0x190
+Yuka「Wh-What are you doing, Makoto!?」%K%P
+
+0x19C
+Makoto「I could be asking you the same thing!」%K%P
+
+0x1A8
+Yuka「You were peeking, weren't you!?」%K%P
+
+0x1B4
+Makoto「I-Idiot! It's not like that at all!」%K%P
+
+0x1C0
+Yuka「...」%K%P
+
+0x1CC
+Makoto「...」%K%P
+
+0x1D8
+Yuka「...」%K%P
+
+0x1E4
+Makoto「...?」%K%P
+
+0x230
+Yuka「Well, whatever♪」%K%P
+
+0x23C
+Huuuh!? R-Really!?%K%P
+
+0x248
+Those words completely baffle me.%K%P
+
+0x254
+Because Yuka only has one bath towel on...%K%P
+
+0x260
+And I also only have a very thin towel wrapped around%Nmy waist...%K%P
+
+0x26C
+Furthermore, it's the dead of night right now...%K%P
+
+0x278
+Yuka and I are all alone in this hot spring in the middle of%Nnowhere...%K%P
+
+0x284
+Yuka「Come on... if you stand in a place like that, you'll catch a%Ncold.」%K%P
+
+0x290
+Yuka「Why don't we go in together?」%K%P
+
+0x29C
+Yuka invites me with a smile.%K%P
+
+0x2A8
+Inviting me...?%K%P
+
+0x2B4
+(... I-Is this really... all right?)%K%P
+
+0x2C0
+I slowly approach the hot spring as my body stiffens in%Nvarious places.%K%P
+
+0x2CC
+And just then...%K%P
+
+0x2D8
+―Whoosh...%K%P
+
+0x2E4
+Something falls...%K%P
+
+0x32C
+Yuka's face starts to grow grim.%K%P
+
+0x338
+Makoto「Hmm? What's wrong?」%K%P
+
+0x344
+Yuka「Umm... Makoto...」%K%P
+
+0x350
+Makoto「Hmm?」%K%P
+
+0x35C
+Yuka「Y-Y-Y...」%K%P
+
+0x368
+Makoto「...?」%K%P
+
+0x374
+Yuka「Your towel!」%K%P
+
+0x380
+Makoto「My towel???」%K%P
+
+0x3A8
+Now that she's pointed it out, I finally notice.%K%P
+
+0x3B4
+The towel wrapped around my waist has fallen off without%Nme noticing...%K%P
+
+0x3C0
+Makoto「GWAAA!!!!!!!」%K%P
+
+0x3CC
+While panicking, I quickly grab my clothes on the ground,%Nand run away as fast as I can.%K%P
+
+0x414
+Having scurried back to my room, I get into my bed, still%Nnaked, throw the covers over me, and shut my eyes.%K%P
+
+0x420
+(Geez, Yuka...)%K%P
+
+0x42C
+I didn't get any hot water on me, but my whole body feels%Nhot, like it's burning...%K%P
+
+0x438
+(I guess that means I've still got a pure heart...)%K%P
+
+0x444
+(Yeah... that's right...)%K%P
+

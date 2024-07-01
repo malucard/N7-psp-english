@@ -1,0 +1,840 @@
+text area offset and size:
+0x1EE8
+0x34EE
+0x154
+It's already been almost an hour since Yuka's room went%Nquiet.%K%P
+
+0x160
+Before I knew it, the sound of rainfall had started%Nresounding outside the lodge.%K%P
+
+0x16C
+I glance at the cuckoo clock.%K%P
+
+0x178
+It's around this time that I heard the sound of that bell...%K%P
+
+0x194
+―Just then, at that time!%K%N
+
+0x1BC
+I hear something striking a window, but it's hard to%Npinpoint which window it is.%K%P
+
+0x1C8
+My body becomes tense...%K%P
+
+0x1D4
+I strain my ears as I search in the darkness for the%Nsource of the sound.%K%P
+
+0x1FC
+Saki「Makoto-kun... Makoto-kun...」%K%P
+
+0x208
+It's Saki's voice.%K%N
+
+0x214
+I heard it coming from my room.%K%P
+
+0x220
+I jump off the sofa and rush into my room...%K%P
+
+0x290
+No one's here.%K%N
+
+0x29C
+I don't hear her voice anymore.%K%N
+
+0x2A8
+The sound of the window being tapped on has stopped%Nas well.%K%P
+
+0x2FC
+I open the ceiling window, and raise my body up there.%K%P
+
+0x308
+The sound of the rainfall becomes a deafening roar, and%Nmy upper body gets completely soaked in mere%Nseconds.%K%P
+
+0x314
+I stare out into the darkness while squinting my eyes in%Nthe rain.%K%P
+
+0x320
+There's no sign of anyone there.%K%P
+
+0x348
+I jump down to the top of my bed, and shut the window.%K%P
+
+0x354
+―And at the same time, I hear the front door closing!%K%P
+
+0x38C
+Dammit!!%K%P
+
+0x414
+I burst out of my room with the force of a bullet.%K%P
+
+0x420
+There's no one in the living room.%K%P
+
+0x42C
+I open the front door and rush outside.%K%P
+
+0x480
+I hear the tapping sound of someone running down the%Nstaircase.%K%P
+
+0x48C
+I lean forward on the terrace and look down.%K%P
+
+0x498
+In my field of vision, I can see a girl running.%K%P
+
+0x4A4
+―It's Saki!%K%P
+
+0x4B0
+Saki is fiercely running towards the forest path in the%Nmiddle of the downpour.%K%P
+
+0x4BC
+Makoto「SAKI!!!」%K%P
+
+0x4C8
+I shout as loud as I can.%K%N
+
+0x4D4
+She can't hear me, though.%K%N
+
+0x4E0
+The violent roar of the rain has drowned my voice out.%K%P
+
+0x4EC
+That's when I notice something.%K%P
+
+0x4F8
+Looking at Saki from above, I can see that she's holding%Nsomething against her chest.%K%P
+
+0x504
+Holding... something...%K%P
+
+0x510
+No way... it can't be...%K%P
+
+0x51C
+So... the thief really was... Saki!?%K%P
+
+0x57C
+I rush down the stairs, plunging into the downpour.%K%P
+
+0x594
+Near the entrance of the forest path, I see two bright%Nred lights.%K%P
+
+0x5A0
+It's the taxi...%K%P
+
+0x5AC
+Saki's ponytail sways as she runs towards it.%K%P
+
+0x5D4
+... Saki gets in.%K%P
+
+0x5E0
+The headlights turn on, illuminating the countless falling%Nraindrops in the darkness.%K%P
+
+0x608
+... The taxi starts driving away in unison with the sound%Nof exhaust coming from its pipe.%K%P
+
+0x614
+The bright red tail lights of the taxi get farther and%Nfarther away, and the sound of the tires driving on%Ngravel is eventually drowned away by the rain...%K%P
+
+0x6BC
+Izumi「WHAAAAAAAAAAAAAAT!!!?」%K%P
+
+0x6C8
+The next morning... I stagger to the living room when I%Nhear Izumi-san's scream.%K%P
+
+0x72C
+I watch blankly as Izumi-san overturns her handbag with%Na pale face.%K%P
+
+0x738
+Okuhiko「What's wrong?」%K%P
+
+0x74C
+Izumi「Yesterday's proceeds... they're all gone!」%K%P
+
+0x768
+Kurumi「Onee-chan, did you look thoroughly?」%K%P
+
+0x784
+Izumi「Of course!」%K%P
+
+0x7A0
+Yuka「Did you possibly put them down in a different place?」%K%P
+
+0x7BC
+Izumi「No way. This is the only place they'd be!」%K%P
+
+0x7D8
+Okuhiko「If that's the case, then they were stolen. That's the only%Npossibility I can think of...」%K%P
+
+0x7F4
+Yuka「What should we do?」%K%P
+
+0x808
+Okuhiko「Actually, there's something bugging me.」%K%P
+
+0x81C
+Yuka「What?」%K%P
+
+0x838
+Kurumi「More importantly, we need to inform the police!」%K%P
+
+0x84C
+Yuka「You're right. Anyway, the police...」%K%P
+
+0x860
+I pay no attention to their conversation.%K%P
+
+0x86C
+After what happened last night, I couldn't sleep, as all I%Ncould think about was Saki.%K%P
+
+0x878
+Just what was it... that Saki was holding against her%Nchest last night...?%K%P
+
+0x884
+It couldn't be...%K%N
+
+0x890
+No, that's impossible!%K%N
+
+0x89C
+I'm definitely making a mistake!%K%P
+
+0x8A8
+... Saki will come soon.%K%P
+
+0x8B4
+When she does, what should I do...?%K%P
+
+0x8C0
+I have to make sure that things don't get screwed up%Nagain!!!%K%P
+
+0x8DC
+Saki「Pardon my intrusion! Makoto-kun, are you there?」%K%P
+
+0x90C
+Finally, Saki comes. She wipes the raindrops out of her%Nhair...%K%P
+
+0x918
+Saki「Sorry for barging in like this, but it's really pouring out%Nthere. Sorry, but could I borrow a towel?」%K%P
+
+0x924
+Yuka heads towards the kitchen.%K%N
+
+0x930
+Izumi-san slightly raises her head and looks at Saki.%K%P
+
+0x93C
+Okuhiko glances at Saki.%K%N
+
+0x948
+Kurumi looks at Saki without lifting her head.%K%P
+
+0x954
+Only Haruka's behavior feels slightly different from last%Ntime.%K%P
+
+0x968
+Saki「Ah, Makoto-kun, glad you're here. I have something to tell%Nyou.」%K%P
+
+0x974
+This is the second time I've seen her face like this.%K%P
+
+0x980
+She's beaming, as if something good happened to make%Nher happy...%K%P
+
+0x98C
+Is it because she's happy about taking the money...?%K%N
+
+0x998
+Dumbass! Why the hell am I thinking something so stupid!?%K%P
+
+0x9AC
+Saki「Huh? Is something wrong?」%K%P
+
+0x9B8
+Saki tilts her head questioningly as she surveys her%Nsurroundings.%K%P
+
+0x9D4
+Yuka「A thief broke in.」%K%P
+
+0x9F0
+Saki「What? A thief...」%K%P
+
+0x9FC
+Okuhiko「You came here in the dead of night last night, right? I%Nsaw it. I saw you just as you left the lodge. And where%Ndid you go on that taxi you got into?」%K%P
+
+0xA18
+Yuka「Is that true?」%K%P
+
+0xA34
+Saki「I-I...」%K%P
+
+0xA50
+Okuhiko「You can't say you don't know about it. There was%Nanother witness...」%K%P
+
+0xA7C
+Yuka「Who?」%K%P
+
+0xA98
+Okuhiko「Ishihara... Would you please tell us exactly what you%Nsaw?」%K%P
+
+0xAB4
+Izumi「Makoto-kun, you saw it?」%K%P
+
+0xAC0
+Makoto「...」%K%P
+
+0xADC
+Yuka「What did you see?」%K%P
+
+0xAF0
+Okuhiko「You chased her outside, didn't you? You should have%Nseen her face as well...」%K%P
+
+0xB04
+Yuka「Makoto, you chased her?」%K%P
+
+0xB10
+Makoto「N-No, I...」%K%P
+
+0xB24
+Okuhiko「Would you stop lying?」%K%P
+
+0xB30
+I lower my head, fully aware of the others' piercing glares.%K%P
+
+0xB3C
+I look towards Saki.%K%N
+
+0xB48
+She is staring straight into my eyes.%K%P
+
+0xB54
+Makoto「... Yeah, I definitely followed them...」%K%P
+
+0xB70
+Izumi「Who was it?」%K%P
+
+0xB84
+Yuka「Who!?」%K%P
+
+0xBA0
+Kurumi「...」%K%P
+
+0xBCC
+Haruka「...」%K
+
+0x1EA8
+Saki didn't steal anything!
+
+0x1EB4
+I don't know...
+
+0xC0C
+Makoto「Saki didn't steal anything!」%K%P
+
+0xC28
+Okuhiko「What was that?」%K%P
+
+0xC34
+Makoto「Saki definitely isn't the kind of person who would do that!」%K%P
+
+0xC40
+Saki「...」%K%P
+
+0xC54
+Okuhiko「But don't you think she's acting weird?」%K%P
+
+0xC60
+Makoto「... It's true... It's true that last night, I saw Saki get into a%Ntaxi.」%K%P
+
+0xC6C
+Makoto「But while that may be true, it doesn't necessarily mean%Nthat Saki's the culprit!」%K%P
+
+0xC78
+Makoto「No! That's impossible!」%K%P
+
+0xC8C
+Okuhiko「Then what was she doing?」%K%P
+
+0xC98
+Makoto「'What'... that doesn't matter, does it!?」%K%P
+
+0xCAC
+Okuhiko「I don't like this... look, you can see the concern written on%Neveryone's faces.」%K%P
+
+0xCC8
+Yuka「Makoto... what is the meaning of this? If you know, then%Nexplain it.」%K%P
+
+0xCD4
+Makoto「Y-Yuka...」%K%P
+
+0xCE8
+Izumi「Saki-chan... can I ask you one thing? ... Was it you?」%K%P
+
+0xD04
+Kurumi「Will you tell us? Will you tell us the truth?」%K%P
+
+0xD10
+Saki averts her eyes. She purses her lips, and clenches%Nher hands into fists.%K%P
+
+0xD1C
+Makoto「Izumi-san, Kurumi... how could you say that!?」%K%P
+
+0xD38
+Saki「...」%K%P
+
+0xD44
+Makoto「Can't you trust her without an explanation!? Do you%Nreally need words in order to trust her!?」%K%P
+
+0xD50
+Haruka「I'm... different.」%K%P
+
+0xD5C
+Makoto「... Huh?」%K%P
+
+0xD68
+Haruka「I...」%K%P
+
+0xD90
+Saki「That's enough! Stop!」%K%P
+
+0xD9C
+Makoto「Saki...」%K%P
+
+0xDA8
+Saki「Enough already!」%K%P
+
+0xDB4
+Saki「All humans are the same!!」%K%P
+
+0xDC8
+Makoto「Saki!!」%K%P
+
+0xDD4
+Saki turns around, and starts running towards the front%Ndoor.%K%P
+
+0xDE0
+Just as I'm about to go pursue her... Haruka mutters this.%K%P
+
+0xDF4
+Haruka「Makoto... I... trust Saki.」%K%P
+
+0xE00
+Her words slowly sink into my heart.%K%P
+
+0xE0C
+I give Haruka a firm nod, then immediately pursue Saki...%K%P
+
+0xE30
+Haruka「...」%K%P
+
+0xE3C
+Makoto「...」%K%P
+
+0xE58
+Okuhiko「Hey! Ishihara!」%K%P
+
+0xE64
+Makoto「I don't know... I don't know!」%K%P
+
+0xE78
+I just want to scream that she's innocent...%K%P
+
+0xE84
+"You're wrong! It wasn't Saki!" ―I want to so badly, but I%Ncan't.%K%P
+
+0xE90
+That person I saw last night was definitely Saki.%K%N
+
+0xE9C
+That's why I can't cover for her. Even though I want to%Ntrust her, I can't.%K%P
+
+0xEA8
+I don't know what to do.%K%P
+
+0xEB4
+My mind is scrambled, and I lose the ability to make any%Nsound judgements.%K%P
+
+0xEC8
+Okuhiko「Whatever... Judging from your behavior, you don't even%Nneed to say anything for me to know...」%K%P
+
+0xED4
+Makoto「...」%K%P
+
+0xEE0
+Okuhiko「Saki-chan! What were you doing here last night!?」%K%P
+
+0xEFC
+Saki「I didn't do it.」%K%P
+
+0xF08
+Saki「... I didn't steal anything!」%K%P
+
+0xF24
+Okuhiko「If that's the case, then why don't you tell us what you%Nwere doing?」%K%P
+
+0xF40
+Saki「I don't know anything!」%K%P
+
+0xF5C
+Okuhiko「There's no way you don't know about what you did!」%K%P
+
+0xF78
+Saki「I don't know what I don't know!」%K%P
+
+0xF94
+Izumi「Saki-chan... can I ask you one thing? ... Was it you?」%K%P
+
+0xFB0
+Kurumi「Will you tell us? Will you tell us the truth?」%K%P
+
+0xFC4
+Saki averts her eyes. She purses her lips, and clenches%Nher hands into fists.%K%P
+
+0xFD8
+Makoto「... Saki...」%K%P
+
+0xFE4
+I finally manage to wring my voice out.%K%P
+
+0xFF0
+Saki looks towards me.%K%P
+
+0xFFC
+Her desperate gaze is begging me to help her...%K%P
+
+0x1010
+Saki「Makoto-kun... you trust me, right?」%K%P
+
+0x101C
+Makoto「Y-Yeah... I trust you...」%K%P
+
+0x1030
+Saki「... You're lying!」%K%P
+
+0x103C
+Makoto「I'm not...」%K%P
+
+0x1050
+Saki「If you're not lying, then why aren't you saying anything!?%NWhy aren't you saying it wasn't me!?」%K%P
+
+0x105C
+Makoto「Th-That's...」%K%P
+
+0x1068
+Makoto「Saki... Even... Even I want to trust you! But...」%K%P
+
+0x1074
+Saki「So you too can't really trust me unless I use words!?」%K%P
+
+0x1080
+Saki slowly shakes her head...%K%P
+
+0x108C
+Saki「You're the same, Makoto... All humans are the same!!」%K%P
+
+0x10A0
+Saki turns back, and bursts out the front door.%K%P
+
+0x10AC
+Makoto「Saki!!」%K%P
+
+0x115C
+Saki begins to descend the forest path, which has%Npractically changed into a marsh, as if she's tumbling%Ndown.%K%P
+
+0x1168
+I desperately chase after her.%K%P
+
+0x11A0
+I keep running against the pouring rain.%K%P
+
+0x11AC
+Will history repeat itself after all...?%K%P
+
+0x11E4
+No... I definitely won't let that happen!%K%P
+
+0x11F0
+I'll definitely prevent it!%K%P
+
+0x11FC
+Saki... I don't want to lose you...%K%P
+
+0x1244
+The tip of the cape... the dead end...%K%P
+
+0x1250
+Saki grips the fence with her back turned to me.%K%P
+
+0x125C
+I hear the sound of waves breaking at the bottom of the%Ncliff.%K%P
+
+0x1268
+The cold rain intensely beats down on Saki's back.%K%P
+
+0x1274
+Makoto「SAKI!!!」%K%P
+
+0x1280
+As I shout, I run to her.%K%P
+
+0x128C
+Saki doesn't try to answer or turn around...%K%N
+
+0x1298
+... She then crosses over the boundary of the dead end.%K%P
+
+0x1320
+Saki「Stay away!」%K%P
+
+0x132C
+Saki「Don't get any closer!」%K%P
+
+0x1338
+I come to a halt.%K%P
+
+0x1344
+The fiercely blowing wind waves through Saki's hair.%K%P
+
+0x1350
+Saki「It's as I've thought this whole time...」%K%P
+
+0x135C
+Makoto「... Huh?」%K%P
+
+0x1378
+Saki「No one even gives a shit about me...」%K%P
+
+0x1384
+Makoto「Saki...」%K%P
+
+0x1390
+Saki「That's why I don't trust people. I can't trust them... I don't%Nwant to trust them...」%K%P
+
+0x139C
+Makoto「...」%K%P
+
+0x1EC0
+I'm here because I trust you.
+
+0x1ECC
+Trust me.
+
+0x1430
+Makoto「Saki... listen...」%K%P
+
+0x143C
+Makoto「I didn't come all the way here because I wanted you to%Ntrust me...」%K%P
+
+0x1448
+Saki「...」%K%P
+
+0x1454
+Makoto「It's because I trust you, Saki... that's why I came here!!」%K%P
+
+0x1460
+Saki「!!」%K%P
+
+0x146C
+Saki「... Why? ... Why are you sticking up for me?」%K%P
+
+0x1478
+Makoto「Because I trust you... Because I trust you completely,%NSaki...」%K%P
+
+0x1484
+Saki「You're lying!」%K%P
+
+0x1490
+Makoto「I'm not lying!」%K%P
+
+0x149C
+Saki「...」%K%P
+
+0x14A8
+Makoto「Didn't I tell you? You don't need words...」%K%P
+
+0x14B4
+Saki「...」%K%P
+
+0x14C0
+Makoto「From now on, I'll... I'll be your cat and tree... I said that,%Nright...?」%K%P
+
+0x14CC
+Saki「...」%K%P
+
+0x14D8
+Makoto「And besides... you now have a reason to 'trust' people!」%K%P
+
+0x14E4
+Saki is breathlessly taken aback.%K%N
+
+0x14F0
+She purses her lips tightly.%K%N
+
+0x14FC
+Tears are pouring from her wide eyes down her cheeks.%K%P
+
+0x1508
+Saki「But... but...!」%K%P
+
+0x1514
+Makoto「Saki... you're such an idiot...」%K%P
+
+0x1520
+Saki is sobbing.%K%P
+
+0x152C
+I slowly approach her...%K%N
+
+0x1538
+... and embrace her from the other side of the fence.%K%P
+
+0x1544
+Just like that, I carefully lift Saki up and pull her towards%Nme...%K%P
+
+0x1584
+Saki「Makoto-kun...!」%K%P
+
+0x1590
+With those words, Saki rubs her cheek against my chest.%NIt's embarrassing...%K%P
+
+0x159C
+That gesture is very sweet and lovely.%K%P
+
+0x15A8
+The tip of Saki's nose touches my chest, tickling me.%K%P
+
+0x15B4
+Saki hugs me as if she's regained something she's lost...%K%P
+
+0x15C0
+I gently return her embrace to answer her feelings.%K%P
+
+0x15CC
+I want to accept Saki's entirety.%K%N
+
+0x15D8
+I want to feel all of it wrapping around my heart.%K%P
+
+0x15E4
+"You don't need words."%K%N
+
+0x15F0
+Saki's feelings are directly reaching my heart.%K%P
+
+0x15FC
+Mine are definitely reaching hers...%K%P
+
+0x1608
+In the beating rain, we bring our lips together, and%Nconfirm our feelings for each other together...%K%P
+
+0x165C
+Makoto「Saki... trust me!」%K%P
+
+0x1668
+Saki「...」%K%P
+
+0x1674
+Makoto「I don't care if you don't trust anyone else.」%K%P
+
+0x1680
+Makoto「But I want you to trust me alone!」%K%P
+
+0x168C
+Saki「I don't trust people. I can't trust them... I don't want to%Ntrust them!」%K%P
+
+0x1698
+Saki repeats the same words she did last time.%K%P
+
+0x16A4
+Saki「I was also lying to you.」%K%P
+
+0x16B0
+Saki「I didn't trust you.」%K%P
+
+0x16BC
+Saki quietly raises her dangling left hand, and opens it.%K%P
+
+0x16C8
+Lying there... in her palm is...%K%P
+
+0x16DC
+... That's... impossible...%K%P
+
+0x16E8
+Why... is that bell...%K%P
+
+0x16F4
+I definitely threw it away from this park, so why...%K%P
+
+0x1708
+I stagger towards her, completely baffled by this turn of%Nevents.%K%P
+
+0x1714
+Saki「I told you not to get any closer!」%K%P
+
+0x1720
+Makoto「...」%K%P
+
+0x172C
+Saki「Stay away!」%K%P
+
+0x1738
+Makoto「...」%K%P
+
+0x1744
+Saki「Don't get any closer, or I'll really...」%K%P
+
+0x1750
+I slowly approach Saki in my dim sense of%Nconsciousness.%K%P
+
+0x175C
+I take another firm step... and at that instant!%K%P
+
+0x1778
+Saki lets go of the fence with her right hand.%K%P
+
+0x1784
+She gently closes her eyes...%K%P
+
+0x1790
+... Her body leans backwards.%K%P
+
+0x179C
+The bell slips and falls from her now powerless left hand...%K%P
+
+0x17F0
+And like that, she falls.%K%P
+
+0x17FC
+She falls into the pitch black, alluring darkness...%K%P
+
+0x1808
+Like a scrap of paper dancing in the wind...%K%P
+
+0x1814
+Makoto「Saki...」%K%P
+
+0x1820
+Makoto「Why...」%K%P
+
+0x182C
+Makoto「Why... Saki...」%K%P
+
+0x1838
+Makoto「Saki...」%K%P
+
+0x1844
+I lose all strength in my body...%K%P
+
+0x1850
+I stagger forward like I'm being drawn in...%K%N
+
+0x185C
+... And chase... after Saki...%K%P
+

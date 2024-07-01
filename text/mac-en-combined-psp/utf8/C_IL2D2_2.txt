@@ -1,0 +1,150 @@
+text area offset and size:
+0x5E8
+0xDF3
+0xA8
+We arrive at the cherry blossom trees.%K%P
+
+0xB4
+Right now, Yuka and Kurumi are playfully chasing each%Nother around the lighthouse in Viewpoint Park.%K%P
+
+0xC0
+The rest of us are still standing on the cherry blossom%Nroad, completely stunned.%K%P
+
+0xCC
+This is Saki, Haruka, and Okuhiko's first time seeing these%Ncherry blossoms.%K%P
+
+0xD8
+The three of them seem to be under an incredible sense%Nof awe.%K%P
+
+0xEC
+Izumi「'Express your feelings on the Cape of Affection, and%Ncarry out those feelings at the Cove of Love.'」%K%P
+
+0xF8
+Izumi-san is at the edge of the cherry blossom road,%Nabsently watching Yuka and Kurumi run around the%Nlighthouse.%K%P
+
+0x114
+Saki「Huh...? What's that?」%K%P
+
+0x128
+Izumi「It's an old tradition on this island.」%K%P
+
+0x134
+Izumi「If a man and woman confess their feelings for each%Nother under that lighthouse, it's said that their affection%Nwill bear fruit...」%K%P
+
+0x140
+It's the story she told us on the last 2nd when we were%Nsitting in a circle.%K%P
+
+0x14C
+Why is Izumi-san so interested in telling the same story%Ntwice?%K%P
+
+0x158
+I feel like I somewhat understand the reason.%K%P
+
+0x174
+Okuhiko「But Professor?」%K%P
+
+0x180
+Okuhiko「From what I've seen of the map, I thought I saw another%Ncape that's near here.」%K%P
+
+0x194
+Izumi「Cape? ... Oh, are you talking about that cape that's a bit%Nto the west from Viewpoint Park?」%K%P
+
+0x1A0
+Okuhiko「Right, that's it!」%K%P
+
+0x1AC
+Okuhiko「And you know what? I was thinking...」%K%P
+
+0x1B8
+Okuhiko「If there's a 'Cape of Affection', then perhaps there's%Nsomething special about that one as well.」%K%P
+
+0x1D4
+Haruka「... What do you mean?」%K%P
+
+0x1E8
+Okuhiko「You don't know? On the map is a marker of a shrine's%Narchway on the tip of that cove.」%K%P
+
+0x1FC
+Okuhiko「In other words, there's a shrine there!」%K%P
+
+0x208
+Okuhiko「I was thinking that if you confessed in front of the shrine%Ninstead of under the lighthouse, it'd be as though you%Nwere receiving great, divine blessings.」%K%P
+
+0x224
+Izumi「Hmm... your conjecture might be correct.」%K%P
+
+0x238
+Okuhiko「Right?」%K%P
+
+0x24C
+Izumi「But you know what?」%K%P
+
+0x258
+Izumi「If you're right, then that legend itself has completely lost%Nall meaning.」%K%P
+
+0x26C
+Everyone「???」%K%P
+
+0x278
+Izumi「Because... there's no longer a shrine at that cape.」%K%P
+
+0x28C
+Okuhiko「Huh?」%K%P
+
+0x298
+(―What!?)%K%P
+
+0x2A4
+Izumi「That shrine was destroyed 21 years ago by an%Nearthquake.」%K%P
+
+0x2B0
+Izumi「Of course, because it wasn't rebuilt, I'd say all that's%Nthere now is a thicket.」%K%P
+
+0x2BC
+Okuhiko「Then... what about what I saw on the map?」%K%P
+
+0x2C8
+Izumi「It must have been a map made before the earthquake%Noccurred.」%K%P
+
+0x2D4
+Izumi「If not, then you must be using an old version that still%Nhasn't been redrawn.」%K%P
+
+0x2E8
+Izumi「Anyway, the shrine's already gone, so rather than%Nconfessing in a deep thicket...」%K%P
+
+0x2F4
+Izumi「Wouldn't it be lovelier to confess under this lighthouse%Nwith the great view after all?」%K%P
+
+0x308
+Okuhiko「I see... that's true...」%K%P
+
+0x31C
+Okuhiko is convinced by her answer, but of course, I%Nknow everything Izumi-san said just now was a lie.%K%P
+
+0x328
+Obviously, it's because I've seen that shrine before...%K%P
+
+0x334
+Not only have I seen it, but I've been inside it too...%K%P
+
+0x340
+Now that I think about it, on our way back to Lunabeach%Nfrom the shrine, Kurumi said this...%K%P
+
+0x3A0
+Kurumi「That shrine... had a very nostalgic scent to it...」%K%P
+
+0x3AC
+Kurumi「It was the smell of the traditional clothes... that Kurumi%Ngot as hand-me-downs from Onee-chan when she was%Nyounger...」%K%P
+
+0x40C
+(Izumi-san, Kurumi, and the shrine...)%K%P
+
+0x418
+(... Do they have some sort of connection?)%K%P
+
+0x424
+After that, we quickly move away from the topic of the%Nshrine, and everyone is once again captivated by the%Nbeauty of the cherry blossom trees.%K%P
+
+0x484
+... ... ...%K%P
+

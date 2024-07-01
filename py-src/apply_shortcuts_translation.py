@@ -9,22 +9,34 @@ import r11
 
 table_offset = 0x10
 table_entry_sz = 0x34
-table_entry_count = 30
-addr_text = [0x62c, 0xf2e]
-shortcut_data_offset = 0xf30
+table_entry_count = 44
+addr_text = [0xde4, 0x2eca]
+shortcut_data_offset = 0x2ecc
+tail_size = 2
+append_text = [0x6c8, 0xe99]
+append_data_offset = 0xe9c
+append_tail_size = 3
 data2_offset = 0x36c8
 data2_table_off = 0x30
 data2_table_sz = 90
 
 def main():
 
-  if not 4 <= len(sys.argv) <= 5:
+  if not 4 <= len(sys.argv) <= 6:
     exit("Usage: %s translation.txt in.SHORTCUTS.SCN out.SHORTCUTS.SCN <(optional) translation_lang='en'>"%(sys.argv[0]))
 
   txt     = sys.argv[1]
   bin_in  = sys.argv[2]
   bin_out = sys.argv[3]
-  encoding_table_lang = sys.argv[4] if sys.argv[4] else "en"
+  encoding_table_lang = sys.argv[4] if len(sys.argv) > 4 else "en"
+  if len(sys.argv) > 5 and sys.argv[5] == "append":
+    addr_text = append_text
+    shortcut_data_offset = append_data_offset
+    tail_size = append_tail_size
+  else:
+    addr_text = globals()['addr_text']
+    shortcut_data_offset = globals()['shortcut_data_offset']
+    tail_size = globals()['tail_size']
 
   txt_lines = r11.readlines_utf8_crop_crlf(txt)
   with open(bin_in, "rb") as f_scn:
@@ -33,9 +45,10 @@ def main():
   
   head = scn_bytes[:addr_text[0]]
   # two bytes "0x90 0x90" not sure what they do. Could be just an alignment artifact
-  text_magic_tail = scn_bytes[addr_text[1]:addr_text[1]+2]
-  shortcut_data = scn_bytes[shortcut_data_offset:data2_offset]
-  data2 = scn_bytes[data2_offset:]
+  text_magic_tail = scn_bytes[addr_text[1]:addr_text[1]+tail_size]
+  #shortcut_data = scn_bytes[shortcut_data_offset:data2_offset]
+  #data2 = scn_bytes[data2_offset:]
+  other_data = scn_bytes[shortcut_data_offset:]
 
   head_mv = memoryview(head)
   head_int = head_mv.cast("I")
@@ -45,12 +58,20 @@ def main():
   jp_pattern = re.compile("^;([\da-fA-F]*);([\d]*);(.*)$")
   text_pos = 0
   text_max_len = 0
-  for ln in txt_lines:
+  i = 0
+  while i < len(txt_lines):
+    ln = txt_lines[i]
+    i += 1
+    if len(ln) > 0 and ln[0] == '#': continue
     match = jp_pattern.match(ln)
     if match:
       table_off = int(match.group(1), 16)
       max_len = int(match.group(2), 10)
-      string = match.group(3)
+      nextstr = txt_lines[i]
+      if len(nextstr) != 0 and nextstr[0] != '#':
+        string = nextstr
+      else:
+        string = match.group(3)
 
       text_max_len += max_len + 1
 
@@ -90,11 +111,12 @@ def main():
   f_out=open(bin_out, "wb")
   f_out.write(head)
   f_out.write(body)
-  # f_out.write(text_magic_tail)
+  #f_out.write(text_magic_tail)
 
   f_out.seek(new_data_offset)
-  f_out.write(shortcut_data)
-  f_out.write(data2)
+  #f_out.write(shortcut_data)
+  #f_out.write(data2)
+  f_out.write(other_data)
   
   f_out.close()
 

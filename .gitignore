@@ -1,9 +1,15 @@
 /workdir/
 /bin/
 
+/n7_mac*/
+/n7_etc*/
+/n7_iso_extracted/
 /r11_mac*/
 /r11_etc*/
 /r11_iso_extracted/
+/e17_mac*/
+/e17_etc*/
+/e17_iso_extacted/
 
 /n7_iso_cn_extracted/
 /n7_etc_cn/
@@ -11,6 +17,11 @@
 /e17_etc_cn/
 
 /text/tmp/
+# Never7
+/text/mac-en-combined-psp/*.txt
+/text/mac-en-combined-psp/old
+/text/mac-en-combined-psp/workdir
+
 /text/font/FONT*
 /text/font/glyphs/
 /text/font/glyphs-cn/

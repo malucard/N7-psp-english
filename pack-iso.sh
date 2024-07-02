@@ -1,4 +1,6 @@
 #!/bin/bash
+GAME="n7"
+for i in ${GAME}_iso_extracted/PSP_GAME/SYSDIR/UPDATE/*.* ; do rm $i; touch $i ; done
 
 mkisofs \
 	-U \
@@ -9,5 +11,5 @@ mkisofs \
 	-volset "" \
 	-p "" \
 	-publisher "" \
-	-o iso/n7-repacked.iso \
-	n7_iso_extracted/
+	-o iso/${GAME}-repacked.iso \
+	${GAME}_iso_extracted/

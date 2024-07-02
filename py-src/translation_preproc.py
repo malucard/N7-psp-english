@@ -202,6 +202,8 @@ def prepareTlLines(tl_buckets, tl_suffix, current_filename, jp_mac_chapter_lines
             #TODO reformat text to get rid of this case
             export_translated_line = "\u300c"
             eprint("TL Line auto-bracketed 「」 '{}' (~{})[{}]".format(en_line, i*4, current_filename))
+        elif (jp_trailing_bracket == "\u300f"):
+          jp_trailing_bracket = ""
 
       export_translated_line += en_line
       export_translated_line += jp_trailing_bracket if jp_trailing_bracket else ""

@@ -1,6 +1,7 @@
 #!/bin/sh
 set -e
 
+./cleanup.sh
 ./compile.sh
 ./unpack-iso.sh
 ./unpack-afs.sh

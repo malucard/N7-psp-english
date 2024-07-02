@@ -720,7 +720,7 @@ Kurumi is definitely here!%K%P
 I finish ascending the stairs, and run through the%Ngrounds.%K%P
 0x13EC
 神社の正面に着いたオレは、大声で呼びかけてみた。%K%P
-「I reach the front of the shrine, and shout loudly.%K%P
+I reach the front of the shrine, and shout loudly.%K%P
 0x13F8
 誠「くるみ！」%K%P
 Makoto「Kurumi!」%K%P

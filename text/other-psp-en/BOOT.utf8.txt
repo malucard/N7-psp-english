@@ -436,7 +436,7 @@ This story is a work of fiction.%NAll names, organizations,%Nplaces, incidents a
 ;11f3d0;11;tips task
 
 ;11f3e0;59;ここからゲームを再開しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
-Do you want to resume the game from here?%N%SYes%n  /  %n%SNo
+Do you want to resume the game from here?%N%SYes%n / %n%SNo
 
 ;11f41c;51;ログを初期化しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
 Initialize the log?%N%SYes%n  /  %n%SNo
@@ -593,7 +593,6 @@ AM
 ;11fb80;3;？
 
 ;11fb84;7;▼回想
-▼Recollection
 
 ;11fd6c;27;スクリーンアジャスト設定
 Screen position

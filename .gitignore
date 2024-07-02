@@ -18,6 +18,7 @@
 /iso/*.iso
 /iso/*.dax
 /iso/*.cso
+/iso/*.xdelta
 
 /patches/xdelta3/
 /patches/bip/

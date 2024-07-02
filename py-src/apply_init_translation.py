@@ -30,7 +30,7 @@ def main():
   head_int_view = mv.cast("I")
   body = bytearray()
   
-  jp_pattern = re.compile("^;([\da-fA-F]*);([\d]*);(.*)$")
+  jp_pattern = re.compile("^;([\\da-fA-F]*);([\\d]*);(.*)$")
   dupestr = ";dupe:"
   unusedstr = ";unused"
   i = 0

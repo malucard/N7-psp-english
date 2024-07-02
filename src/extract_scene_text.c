@@ -105,7 +105,7 @@ int main(int argc, char **argv)
         else table_offsets[n] = find_addr_in_mem((uint32_t)current_off, scn, control_area_off, text_area_off);
 
         if (table_offsets[n] == -1) {
-            fprintf(stderr, "Error: address %X not found!\n", current_off);
+            fprintf(stderr, "Error: address %lX not found!\n", current_off);
             exit(1);
         }
 

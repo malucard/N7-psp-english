@@ -64,7 +64,7 @@ def main():
   txt_lines = r11.readlines_utf8_crop_crlf(txt)
   txt_lines = [t for t in txt_lines if not t.startswith("#")]
 
-  jp_pattern = re.compile("^;([\da-fA-F]*);([\d]*);(.*)$")
+  jp_pattern = re.compile("^;([\\da-fA-F]*);([\\d]*);(.*)$")
   JP=1
   TL=2
   state=JP

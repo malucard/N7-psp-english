@@ -42,7 +42,7 @@ def main():
 
   body = bytearray()
   
-  jp_pattern = re.compile("^;([\da-fA-F]*);([\d]*);(.*)$")
+  jp_pattern = re.compile("^;([\\da-fA-F]*);([\\d]*);(.*)$")
   text_pos = 0
   text_max_len = 0
   for ln in txt_lines:

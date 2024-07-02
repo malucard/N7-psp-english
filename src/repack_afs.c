@@ -63,7 +63,7 @@ int main(int argc, char **argv) {
             assert2(stbs[i].name[0] != '/' && !strstr(stbs[i].name, ".."), "unsafe filename\n");
             write_file(stbs[i].name, map+stas[i].pos, stas[i].len);
         }
-        chdir("..");
+        assert2(!chdir(".."), "chdir failed\n");
     }
 
     int out_size = size*4;

@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 ISO_RES_DIR=r11_iso_extracted/PSP_GAME/USRDIR
 ISO_BIN_DIR=r11_iso_extracted/PSP_GAME/SYSDIR
 WORKDIR=./workdir
@@ -27,11 +28,11 @@ repack_mac_afs () {
 	}
 
 	mkdir -p r11_mac_${TL_SUFFIX}/
-	
-	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/SHORTCUT.SCN.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1;
-	# cp -f r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1;
+
+	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/SHORTCUT.SCN.txt r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX}
+	# cp -f r11_mac/SHORTCUT.SCN r11_mac_${TL_SUFFIX}/SHORTCUT.SCN
 	$COMPRESS ./r11_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
-	
+
 	for i in text/tmp/mac-${TL_SUFFIX}-combined-psp/*.txt ; do
 		echo Repacking $i
 		repack_scene `basename $i .txt` #& WAITPIDS="$! "$WAITPIDS
@@ -39,7 +40,7 @@ repack_mac_afs () {
 	# wait $WAITPIDS &> /dev/null
 	echo "Finished repacking scenes"
 
-	$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./r11_mac_${TL_SUFFIX} || exit 1;
+	$REPACK_AFS $WORKDIR/mac.afs $WORKDIR/mac-repacked.afs ./r11_mac_${TL_SUFFIX}
 	mv -f $WORKDIR/mac-repacked.afs $ISO_RES_DIR/mac.afs
 }
 
@@ -53,7 +54,7 @@ compose_font () {
 		7z x glyphs-cn.7z
 		mv -f glyphs-cn/* glyphs/
 	fi
-	$PY ../../py-src/extract_font.py repack glyphs/ || exit 1;
+	$PY ../../py-src/extract_font.py repack glyphs/
 	cp FONT00.NEW ../../r11_etc_${TL_SUFFIX}/FONT00.NEW
 	cd ../..
 }
@@ -64,7 +65,7 @@ repack_etc_afs () {
 
 	if [ -f r11_etc_${TL_SUFFIX}/FONT00.NEW ]; then
 	$COMPRESS r11_etc_${TL_SUFFIX}/FONT00.NEW r11_etc_${TL_SUFFIX}/FONT00.FOP
-	$REPACK_AFS $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs r11_etc_${TL_SUFFIX} || exit 1;
+	$REPACK_AFS $WORKDIR/etc.afs $WORKDIR/etc-repacked.afs r11_etc_${TL_SUFFIX}
 	mv -f $WORKDIR/etc-repacked.afs $ISO_RES_DIR/etc.afs
 	fi
 }
@@ -73,7 +74,7 @@ repack_etc_afs () {
 repack_init_bin () {
 	echo "Applying translation to init.bin"
 	# Apply init.bin strings
-	$PY ./py-src/apply_init_translation.py text/other-psp-${TL_SUFFIX}/init.bin.utf8.txt workdir/init.dec workdir/init.dec.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
+	$PY ./py-src/apply_init_translation.py text/other-psp-${TL_SUFFIX}/init.bin.utf8.txt workdir/init.dec workdir/init.dec.${TL_SUFFIX} ${TL_SUFFIX}
 
 	INIT_SRC=$WORKDIR/init.dec.${TL_SUFFIX}
 	if [ ! -f $INIT_SRC ]; then
@@ -82,7 +83,7 @@ repack_init_bin () {
 		INIT_SRC=$WORKDIR/init.dec
 	fi
 	echo "Compressing $INIT_SRC -> $WORKDIR/init.${TL_SUFFIX}.bin"
-	$COMPRESS $INIT_SRC $WORKDIR/init.${TL_SUFFIX}.bin || exit 1;
+	$COMPRESS $INIT_SRC $WORKDIR/init.${TL_SUFFIX}.bin
 	mv -f $WORKDIR/init.${TL_SUFFIX}.bin $ISO_RES_DIR/init.bin
 }
 
@@ -90,17 +91,17 @@ repack_init_bin () {
 patch_boot_bin () {
 	# Apply translation
 	echo "Applying translation to BOOT"
-	$PY ./py-src/apply_boot_translation.py text/other-psp-${TL_SUFFIX}/BOOT.utf8.txt workdir/BOOT.BIN workdir/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX} || exit 1;
+	$PY ./py-src/apply_boot_translation.py text/other-psp-${TL_SUFFIX}/BOOT.utf8.txt workdir/BOOT.BIN workdir/BOOT.BIN.${TL_SUFFIX} ${TL_SUFFIX}
 
 	echo "Applying other patches to BOOT"
 	mv -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} $WORKDIR/BOOT.BIN.patched
 	if [ "cn" == "${TL_SUFFIX}" ]; then
-		$ARMIPS src/boot-patches-cn.asm -root workdir/ || exit 1;
+		$ARMIPS src/boot-patches-cn.asm -root workdir/
 	else
-		$ARMIPS src/boot-patches.asm -root workdir/ || exit 1;
+		$ARMIPS src/boot-patches.asm -root workdir/
 	fi
 	mv -f $WORKDIR/BOOT.BIN.patched $WORKDIR/BOOT.BIN.${TL_SUFFIX}
-	
+
 	rm -f $ISO_BIN_DIR/BOOT.BIN
 	rm -f $ISO_BIN_DIR/EBOOT.BIN
 	cp -f $WORKDIR/BOOT.BIN.${TL_SUFFIX} ./$ISO_BIN_DIR/BOOT.BIN

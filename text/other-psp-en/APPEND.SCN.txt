@@ -69,7 +69,7 @@ if-finity
 infinity 0
 
 ;14;54;優夏キュア%Nシナリオ：中澤⑳工%N脚本協力：打越⑳鋼太郎
-Yuka Cure%NScenario: Takumi Nakazawa%NIn cooperation with: Kotaro Uchikoshi
+Yuka Cure%NScenario: Takumi Nakazawa%NIn cooperation with:%NKotaro Uchikoshi
 
 ;48;34;彼女たちの未来%Nシナリオ：ユキノブ
 

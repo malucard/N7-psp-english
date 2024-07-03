@@ -62,7 +62,7 @@ Yuka - April 5 (2nd)
 Yuka - April 6 (2nd)
 
 ;454;18;エンディング⑳優夏
-Yuka Ending
+Yuka End
 
 ;488;20;４月５日⑳遙／１ｓｔ
 Haruka - April 5 (1st)
@@ -89,7 +89,7 @@ Haruka - April 5 (2nd)
 Haruka - April 6 (2nd)
 
 ;628;16;エンディング⑳遙
-Haruka Ending
+Haruka End
 
 ;65C;30;４月５日⑳沙紀／１ｓｔ（前編）
 Saki - April 5 (1st) (1)
@@ -119,7 +119,7 @@ Saki - April 5 (2nd)
 Saki - April 6 (2nd)
 
 ;830;18;エンディング⑳沙紀
-Saki Ending
+Saki End
 
 ;864;24;４月５日⑳くるみ／１ｓｔ
 Kurumi - April 5 (1st)
@@ -146,7 +146,7 @@ Kurumi - April 5 (2nd)
 Kurumi - April 6 (2nd)
 
 ;A04;20;エンディング⑳くるみ
-Kurumi Ending
+Kurumi End
 
 ;A38;24;４月５日⑳いづみ／１ｓｔ
 Izumi - April 5 (1st)
@@ -167,7 +167,7 @@ Izumi - April 3 (2nd?)
 Izumi - April 4 (2nd?)
 
 ;B70;20;エンディング⑳いづみ
-Izumi Ending
+Izumi End
 
 ;BA4;30;４月５日⑳いづみキュア／１ｓｔ
 Izumi Cure - April 5 (1st)
@@ -197,68 +197,48 @@ Izumi Cure - April 5 (2nd)
 Izumi Cure - April 6 (2nd)
 
 ;D78;28;エンディング⑳いづみキュアＡ
-Izumi Cure Ending A
+Izumi Cure End A
 
 ;DAC;28;エンディング⑳いづみキュアＢ
-Izumi Cure Ending B
+Izumi Cure End B
 
 ;14;78;４月６日土曜日──%n絶望に満ちた世界……。%nそして……%n誠は目を覚ました……。
-April 6, Saturday──%nA world full of despair.%nAnd then, Makoto woke up.
 
 ;48;82;リビングに揃った皆の前に、%n優夏が作った朝食が出される。%nその料理の出来栄えは？？
-In front of everyone in the living%nroom, a breakfast prepared by%nYuka is served.
-#%nHow good is that food?
 
 ;7C;80;テニス組と海組に分かれた%n誠達２組は、夕方合流し、%n商店街に繰り出すことに……。
-The ocean and the tennis groups%nmeet up in the evening%nand decide to go out to the%nshopping district...
 
 ;B0;84;買い出しから帰ってきた誠達。%nあとはいづみさんの料理を%n待つばかり。⑳さて、お味は？
-Makoto and his friends return from%nshopping. All we have to do now is%nto wait for Izumi-san's cooking.
 
 ;E4;102;悪夢で見たあの『鈴』%nそれと同じものを拾った誠は%n不安で長い夜を過ごす。%n翌朝、約束のプールに向かう。
-Makoto picks up that same "bell" he%nsaw in his nightmare and spends a%nlong night in anxiety. The next%nmorning, he heads for the promised%nswimming pool.
 
 ;118;84;プールからルナビーチに戻り、%n皆は会話に華を咲かせる。%n夕食後、みんなで月浜へ……。
-Back at Lunabeach from the pool%neveryone is in good conversation.%nAfter dinner, everyone goes to%nMoon Beach...
 
 ;14C;84;『無いから……心が……』%nそんな遙に、釣りを教えると%n約束する誠。そして、翌朝……。
-『Because I don't have a heart...』%nMakoto promises to teach Haruka%nhow to fish.%nThen, the next morning...
 
 ;180;96;釣った魚をすぐに逃がす遙。%nそんな遙を、%n守ってあげたいと感じる誠。%nそして、辺りは夕闇に……。
-Haruka immediately lets go of the fish%nshe catches. Makoto feels like%nprotecting Haruka. And then,%nthe evening darkness falls...
 
 ;1B4;106;沙紀の口から発せられた、%n遙がクローンだという事実。%nそんな中、いづみさんは%nクローン法改正の経緯を話す。
-The fact that Haruka is a clone was%nuttered from Saki's mouth. In the%nmidst of all this, Izumi tells the story%nof the revision of the cloning law.
 
 ;1E8;104;気まずい夕食のなか、%nくるみが肝試しを提案する。%nそれは、くるみなりの気配り%nだったのかもしれない……。
-During an awkward dinner, Kurumi%nsuggests a test of courage%nMaybe that was Kurumi's way of%nbeing considerate...
 
 ;21C;114;自由な時間を過ごした各人。%nその後、ルナビーチに集合した%n一同は、姫ヶ浜へ集合する。%nバーベキュー大会の始まりだ。
-After spending their free time,%neveryone gather at Lunabeach,%nand then at Princess Beach.%nThe barbecue is about to begin.
 
 ;250;86;些細なことから、%n再び遙と沙紀は衝突。%nバーベキューは重苦しい%n空気のまま終わり……。
-Haruka and Saki clash again over%nnothing.%nThe barbecue ends with heavy air...
 
 ;284;102;夜、行方不明になったくるみを%n神社で見つけた優夏と誠。%nその後、疲労困ぱいのまま%n眠りについたが……。
-Yuka and Makoto find Kurumi, who%nhas gone missing, at the shrine.%nTired, they go to sleep.
 
 ;2B8;110;優夏と誠は今後一切、神社には%n近寄らないと誓い合った。%Nやがて……日付は６日──%n運命の日が、やってきた──。
-Yuka and Makoto vowed%nto stay away from the shrine for%nthe rest of their lives.%nThe fateful day has arrived...
 
 ;2EC;90;神社と共に優夏は失われた。%nそして、ふたりの手から%nこぼれ落ちた鈴…………。%nそして──。
-The shrine collapses, taking Yuka%nwith it. The bell falls from their hands.%nThen...
 
 ;320;102;目覚めると、そこは、%n２度目の４月１日……。%n誠と優夏は混乱しながらも、%nテニスコートへと足を向ける。
-Upon waking up, they find%nthemselves in April 1 again...%nStill confused, they go to the tennis%ncourt.
 
 ;354;80;『良い歴史はそのままに』。%nそう優夏と画策した誠は、%n前回と同様プールへ向かう。
-The good history is still intact.%nMakoto heads to the swimming pool%nas he did before.
 
 ;388;94;釣りを教えて欲しいと言う遙。%n前回と同じように、誠は%n威勢良く承諾するのだった。%nそして……。
-Haruka asks Makoto to teach her%nhow to fish. Makoto eagerly agrees.%nThen...
 
 ;3BC;98;３日に沙紀は溺れず、%n平穏な１日が生まれた。%n計画どおりで安堵する誠。%nそして、４日を迎えた……。
-Saki does not drown on Day 3.%nMakoto is relieved that everything%nwent as planned.%nAnd then comes the 4th...
 
 ;3F0;94;バーベキューでも、%n悪い歴史は良く変わった。%n良い流れを感じながら、%n２人は５日を迎える……。
 

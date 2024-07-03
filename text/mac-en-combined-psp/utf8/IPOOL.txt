@@ -152,7 +152,7 @@ Makoto「WHAT!? Really?」%K%P
 Izumi「Yes.」%K%P
 
 0x330
-Makoto「All right～! I've gotta win!!」%K%P
+Makoto「All right〜! I've gotta win!!」%K%P
 
 0x33C
 I get fired up.%K%P
@@ -209,7 +209,7 @@ Makoto「AAHH!!」%K%P
 Makoto「...Y-YOU JUST COST ME MY HEAD REST AND MY EAR PICKING!!」%K%P
 
 0x4CC
-Yuka「Huh～?」%K%P
+Yuka「Huh〜?」%K%P
 
 0x4E0
 I frantically start swimming.%K%P
@@ -269,7 +269,7 @@ Izumi「You're an honest one, Makoto-kun.」%K%P
 Makoto「Th-That didn't count!」%K%P
 
 0x64C
-Izumi「Huh～, why not～?」%K%P
+Izumi「Huh〜, why not〜?」%K%P
 
 0x658
 Makoto「Because...」%K%P
@@ -560,13 +560,13 @@ Makoto「Y-You're wrong... Wh-What are you saying?」%K%P
 Izumi「Hee hee♪ You're getting embarrassed.」%K%P
 
 0xB90
-Izumi「Ge～ez, guess I have no choice. At times like these, it's%Nthe big sister's duty to pitch in and help～」%K%P
+Izumi「Ge〜ez, guess I have no choice. At times like these, it's%Nthe big sister's duty to pitch in and help〜」%K%P
 
 0xB9C
 Makoto「P-Please stop...」%K%P
 
 0xBA8
-Izumi「Heh heh～♪ Just honestly confess to her.」%K%P
+Izumi「Heh heh〜♪ Just honestly confess to her.」%K%P
 
 0xBB4
 Izumi-san says this with an impish face while poking me%Nwith her index finger.%K%P
@@ -629,7 +629,7 @@ Izumi「That I've had my license suspended.」%K%P
 Makoto「... Come again?」%K%P
 
 0xCC4
-Izumi「It's strange～. Even though I have every intention of%Nbeing a safe driver...」%K%P
+Izumi「It's strange〜. Even though I have every intention of%Nbeing a safe driver...」%K%P
 
 0xCD0
 A suspended license...%K%N
@@ -722,7 +722,7 @@ Izumi「His endless deductive skills, which he would use to%Nderive tricks from 
 Izumi「And his fortitude, which wouldn't allow him to give up until%Nthe end...」%K%P
 
 0xE48
-Izumi「Ah... He's so amazing～. Don't you think so?」%K%P
+Izumi「Ah... He's so amazing〜. Don't you think so?」%K%P
 
 0xE54
 Makoto「Y-Yeah... sure.」%K%P
@@ -737,7 +737,7 @@ This isn't helping me to get to know Izumi-san better.%K%P
 Makoto「Izumi-san, do you have a boyfriend?」%K%P
 
 0xE9C
-Izumi「Huh～? Normally, you shouldn't ask such an insensitive%Nquestion without a lead-in.」%K%P
+Izumi「Huh〜? Normally, you shouldn't ask such an insensitive%Nquestion without a lead-in.」%K%P
 
 0xEB0
 Izumi「What if I had been dumped recently? That question would%Nhave reopened sore wounds.」%K%P
@@ -893,7 +893,7 @@ Izumi「Yes... But I just want to be safe.」%K%P
 Izumi「Well then, I'll see you later, Makoto-kun♪」%K%P
 
 0x11A8
-Yuka「Huh～? Makoto?」%K%P
+Yuka「Huh〜? Makoto?」%K%P
 
 0x11D8
 ... After parting with Izumi-san, I'm feeling thirsty, so I go to%Nget a drink.%K%P
@@ -917,7 +917,7 @@ Yuka「?」%K%P
 Makoto「Earlier, when Izumi-san and I were racing in the pool...」%K%P
 
 0x1234
-Yuka「Oh～～! Right right right right right...」%K%P
+Yuka「Oh〜〜! Right right right right right...」%K%P
 
 0x1240
 Makoto「... You really get on my nerves sometimes, you know?」%K%P
@@ -935,7 +935,7 @@ My shoulders are shaking.%K%N
 DAMMIT! You'll pay for that!!!%K%P
 
 0x1284
-Yuka「Gee～ez! It's so unmanly for you to mope over trivial%Nthings forever.」%K%P
+Yuka「Gee〜ez! It's so unmanly for you to mope over trivial%Nthings forever.」%K%P
 
 0x1290
 Yuka「Even though I apologized to you in good faith...」%K%P

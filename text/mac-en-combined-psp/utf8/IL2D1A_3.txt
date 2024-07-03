@@ -5,7 +5,7 @@ text area offset and size:
 Okuhiko「Hey!」%K%P
 
 0x94
-9:34 A.M.―right on schedule. Okuhiko wakes up at the%Nsame time he did on the 1st.%K%P
+9:34 A.M.—right on schedule. Okuhiko wakes up at the%Nsame time he did on the 1st.%K%P
 
 0xA0
 Of course, that's only natural. He himself is trying to%Ndeceive me, after all...%K%P
@@ -119,7 +119,7 @@ Okuhiko「Th... That's right... ahaha.」%K%P
 Okuhiko begins to break out into a cold sweat. His face%Nis twitching a bit.%K%P
 
 0x2E0
-Makoto「Hey, it's only the first day of the Camp, so what's wrong?%NHang in there, Okuhiko～」%K%P
+Makoto「Hey, it's only the first day of the Camp, so what's wrong?%NHang in there, Okuhiko〜」%K%P
 
 0x2EC
 I'm also putting on a stellar performance, if I may say so%Nmyself.%K%P
@@ -170,7 +170,7 @@ Huh...? Happening the same way...?%K%P
 H-Hold on. At this rate, the same events will unfold again,%Nmeaning...%K%P
 
 0x478
-―I'll have to suffer Yuka's cooking again!!!!%K%P
+—I'll have to suffer Yuka's cooking again!!!!%K%P
 
 0x484
 Yuka「I think it'll probably take about 15 minutes. Um, toast's%Nokay, right?」%K%P
@@ -272,7 +272,7 @@ Okuhiko is so surprised that this episode is playing that%Nit seems his brain is
 At last, with that trump card, Okuhiko finally seems to%Nbelieve that today is the 1st.%K%P
 
 0x700
-Yuka「Sorry to keep you waiting～」%K%P
+Yuka「Sorry to keep you waiting〜」%K%P
 
 0x70C
 Before long, Yuka's done cooking.%K%P
@@ -287,7 +287,7 @@ No one even tries stands up in spite of those words.%K%P
 Of course... we all know the result of her cooking...%K%P
 
 0x744
-Yuka「Huh～? What's wrong, guys? Weren't you hungry?」%K%P
+Yuka「Huh〜? What's wrong, guys? Weren't you hungry?」%K%P
 
 0x750
 Okuhiko「...」%K%P
@@ -302,7 +302,7 @@ Makoto「Th-That's right... we're starving... Come on, let's go eat♪」%K%P
 I urge everyone on cheerfully in an attempt to cheer%Nmyself up, even if only slightly.%K%P
 
 0x788
-Yuka「Well then, go ahead and eat up～♪」%K%P
+Yuka「Well then, go ahead and eat up〜♪」%K%P
 
 0x794
 In the end, let's just say that Yuka's food drove me to%Nhell and back.%K%P
@@ -404,7 +404,7 @@ But if he does take the pizza, then he'll have to face%NSaki's wrath later.%K%P
 To Okuhiko, this might be a forked road.%K%P
 
 0xA80
-―This is bad!%K%P
+—This is bad!%K%P
 
 0xA8C
 My mind races.%K%P
@@ -431,7 +431,7 @@ She tugs on Okuhiko's clothes.%K%P
 Haruka「Hey... Okuhiko... I'm hungry...」%K%P
 
 0xB44
-Okuhiko「Ah, thank you for all your trouble～」%K%P
+Okuhiko「Ah, thank you for all your trouble〜」%K%P
 
 0xB50
 Makoto「Huh?」%K%P
@@ -653,7 +653,7 @@ Makoto「I never said I was going to play tennis.」%K%P
 Yuka「??」%K%P
 
 0x1144
-Okuhiko「H-Hey, Ishihara～!」%K%P
+Okuhiko「H-Hey, Ishihara〜!」%K%P
 
 0x1150
 After a swift recovery, Okuhiko immediately snaps at me.%NHe's sure got nerves of steel...%K%P

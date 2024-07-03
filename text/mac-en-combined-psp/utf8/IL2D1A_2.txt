@@ -17,7 +17,7 @@ Okuhiko is scheduled to wake up at 9:34 A.M., so we don't%Nhave a moment to wast
 Once everyone is gathered, I lay out the details of my%Nplan in simple terms.%K%P
 
 0x168
-Yuka「Heh～, sounds like fun!」%K%P
+Yuka「Heh〜, sounds like fun!」%K%P
 
 0x17C
 Kurumi「Sounds good♪ Let's do it!」%K%P
@@ -56,7 +56,7 @@ Haruka says nothing. I guess she fine either way?%K%P
 After all, the others didn't seem to oppose to Okuhiko's%Nplan to deceive me.%K%P
 
 0x23C
-Kurumi「Huu―h!? What about Kurumi? There's no way that%NKurumi can skip school!」%K%P
+Kurumi「Huu—h!? What about Kurumi? There's no way that%NKurumi can skip school!」%K%P
 
 0x250
 Izumi「Hmm... Then you'll just be have to drop out of the plan...」%K%P

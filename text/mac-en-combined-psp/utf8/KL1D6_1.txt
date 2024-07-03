@@ -122,7 +122,7 @@ Makoto「One way or another, I want to heal... Kurumi's emotional%Nscars...」%K
 Izumi「...」%K%P
 
 0x3DC
-Makoto「She didn't get that scar from falling down the%Nstairs―did she?」%K%P
+Makoto「She didn't get that scar from falling down the%Nstairs—did she?」%K%P
 
 0x3E8
 Makoto「'She probably got it shortly after she was born,'...%NKurumi's realized that, you know.」%K%P
@@ -146,7 +146,7 @@ Izumi-san keeps her eyes firmly on the ground, her%Nmouth tightly shut.%K%P
 At this rate, she's not going to tell me anything, is she?%K%N
 
 0x43C
-―Just what happened to Kurumi as a baby?%K%P
+—Just what happened to Kurumi as a baby?%K%P
 
 0x448
 If I don't know that, then I don't think I can heal Kurumi's%Nscars.%K%P

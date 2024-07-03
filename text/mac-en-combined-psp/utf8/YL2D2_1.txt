@@ -146,7 +146,7 @@ Yuka「Fwah...!」%K%P
 ... Yuka is sitting in the deckchair, a glass of beer%Nclutched in her hand.%K%P
 
 0x4E8
-Yuka「Oh, welcome back～♪」%K%P
+Yuka「Oh, welcome back〜♪」%K%P
 
 0x4F4
 Makoto「Y-Yuka... When did you get that beer...」%K%P

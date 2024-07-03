@@ -149,7 +149,7 @@ Izumi-san runs and dives into the ocean off of the tip of%Nthe pier!%K%P
 (Izumi-san...!)%K%P
 
 0x508
-(―No, she should be all right...)%K%P
+(—No, she should be all right...)%K%P
 
 0x514
 ... ... ...%K%P

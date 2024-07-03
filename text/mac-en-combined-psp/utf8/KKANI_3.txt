@@ -104,10 +104,10 @@ Makoto「See you later, Okuhiko...」%K%P
 And as I'm talking!%K%P
 
 0x35C
-―Rip!%K%P
+—Rip!%K%P
 
 0x368
-―Roll, roll, roll, roll...!%K%P
+—Roll, roll, roll, roll...!%K%P
 
 0x374
 Unable to bear the weight of the onions any longer, the%Nhandle of the plastic bag tears off.%K%P
@@ -128,7 +128,7 @@ While grumbling to himself, Okuhiko slowly bends over to%Nhelp.%K%P
 Just then...%K%P
 
 0x3DC
-―Wham.%K%P
+—Wham.%K%P
 
 0x3E8
 Something falls to the floor.%K%P
@@ -200,13 +200,13 @@ Makoto「Let's have a look...」%K%P
 I glance at the first page of the file.%K%P
 
 0x51C
-"Cur▲ Syndrome Inquiry"%K%P
+"Curé Syndrome Inquiry"%K%P
 
 0x528
 It's written in a large, black Gothic font.%K%P
 
 0x534
-Makoto「Cur▲ Syndrome? What the hell's that?」%K%P
+Makoto「Curé Syndrome? What the hell's that?」%K%P
 
 0x540
 This time, I flip open to a random page and try reading it.%K%P
@@ -218,7 +218,7 @@ This time, I flip open to a random page and try reading it.%K%P
 "Actual experiences are recalled, but in a fictional,%Nexaggerated, dramatized way."%K%P
 
 0x580
-"This is especially the case with those with hysterical%Npersonalities who crave attention, impostors, or%Npossibly liars―the pattern is that they all deceive%Nothers..."%K%P
+"This is especially the case with those with hysterical%Npersonalities who crave attention, impostors, or%Npossibly liars—the pattern is that they all deceive%Nothers..."%K%P
 
 0x58C
 "While they deliberately mix personal experiences with%Nimaginary, exaggerated stories as they talk..."%K%P
@@ -302,10 +302,10 @@ I turn my elbows while steering the handles as I blithely%Nride the bike while t
 (Even though I'm a Psychology student, I didn't%Nunderstand any of that stuff about False Memory%NSyndrome or Mythomania.)%K%P
 
 0x784
-(Of course, to me, that "Cur▲ Syndrome" stuff may as%Nwell have been gibberish.)%K%P
+(Of course, to me, that "Curé Syndrome" stuff may as%Nwell have been gibberish.)%K%P
 
 0x790
-(Cur▲ Syndrome...)%K%P
+(Curé Syndrome...)%K%P
 
 0x79C
 (Just what is that supposed to mean?)%K%P
@@ -347,7 +347,7 @@ I mutter this, and straddle over to the bike.%K%P
 I put the food in the cage by the front wheel, and load%Nthe case of beer cans on the luggage carrier on the%Nback wheel.%K%P
 
 0x8E4
-―Why do I have to buy so much beer?%K%P
+—Why do I have to buy so much beer?%K%P
 
 0x8F0
 Before I went shopping, I asked Izumi-san this.%K%P

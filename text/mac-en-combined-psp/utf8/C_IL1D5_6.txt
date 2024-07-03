@@ -17,7 +17,7 @@ Kurumi「Start what?」%K%P
 Makoto「Playing cards.」%K%P
 
 0xB0
-Kurumi「Huh, cards? Then Kurumi will join in～♪」%K%P
+Kurumi「Huh, cards? Then Kurumi will join in〜♪」%K%P
 
 0xBC
 Makoto「All right, then that makes three of us.」%K%P
@@ -260,7 +260,7 @@ With a doubtful voice, she flips over her cards: the "Ace%Nof Hearts" and the "K
 Makoto「Oh, looks I got lucky!」%K%P
 
 0x618
-Izumi「Ah～, I failed...」%K%P
+Izumi「Ah〜, I failed...」%K%P
 
 0x62C
 While giving a sidelong glance at the disappointed%NIzumi-san, I take the "King of Hearts" she flipped as well%Nas the "King of Spades" that Kurumi had flipped.%K%P
@@ -272,7 +272,7 @@ Makoto「Well then...」%K%P
 I reach out for the next card.%K%P
 
 0x650
-―Flip.%K%P
+—Flip.%K%P
 
 0x65C
 This time, it's the "Ace of Spades".%K%P
@@ -290,7 +290,7 @@ Izumi「Not bad, Makoto-kun.」%K%P
 With an embarrassed smile, I reach for the next card...%K%P
 
 0x698
-―Flip.%K%N
+—Flip.%K%N
 
 0x6A4
 It's the "10 of Clubs".%K%P
@@ -299,7 +299,7 @@ It's the "10 of Clubs".%K%P
 I don't think anyone flipped another "10" earlier, so...%K%P
 
 0x6BC
-―Flip.%K%P
+—Flip.%K%P
 
 0x6C8
 Kurumi「Ah! Amazing, Onii-chan!」%K%P
@@ -314,7 +314,7 @@ Makoto「Woohoo!」%K%P
 I pump my fist, and reach for another card.%K%P
 
 0x6F8
-―Flip.%K%N
+—Flip.%K%N
 
 0x704
 "6 of Hearts".%K%N
@@ -377,7 +377,7 @@ Kurumi「...」%K%P
 Izumi「...」%K%P
 
 0x804
-―Flip.%K%P
+—Flip.%K%P
 
 0x810
 In this silence, the only sound is me flipping the plastic%Ncards.%K%P
@@ -392,7 +392,7 @@ I slowly reach for the next card.%K%P
 Before I know it, my fingertips are trembling like crazy.%K%P
 
 0x840
-―Flip.%K%N
+—Flip.%K%N
 
 0x84C
 It's the...%K%N
@@ -653,16 +653,16 @@ Kurumi「We did it once and that happened once as a result, so...%Nthat means it
 Izumi「???」%K%P
 
 0xDBC
-Kurumi「Geez～, you don't get it?」%K%P
+Kurumi「Geez〜, you don't get it?」%K%P
 
 0xDC8
 Kurumi「In short, what Kurumi wants to say is...」%K%P
 
 0xDD4
-Kurumi「This is the same thing as 'Schr▼dinger's cat'!」%K%P
+Kurumi「This is the same thing as 'Schrödinger's cat'!」%K%P
 
 0xDE0
-Schr▼dinger's... cat???%K%P
+Schrödinger's... cat???%K%P
 
 0xDF4
 Kurumi「Kurumi isn't that well-informed about it...」%K%P
@@ -752,7 +752,7 @@ I can't even guess what it could be.%K%P
 What Kurumi just said... To be honest, I don't really get it.%K%P
 
 0xF60
-In the first place, just what the hell is "Schr▼dinger's%Ncat"?%K%P
+In the first place, just what the hell is "Schrödinger's%Ncat"?%K%P
 
 0xF6C
 Thinking about it does me no good, and so time slowly,%Nslowly passes by...%K%P

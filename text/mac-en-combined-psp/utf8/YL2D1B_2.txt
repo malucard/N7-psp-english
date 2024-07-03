@@ -125,7 +125,7 @@ Makoto「It's kinda like the Japanese expression 'When the wind%Nblows, the barr
 Makoto「...No.」%K%P
 
 0x2A4
-Yuka「'Does the flap of a butterfly's wings in Brazil set off a%Ntornado in Texas?' ―That's the butterfly effect.」%K%P
+Yuka「'Does the flap of a butterfly's wings in Brazil set off a%Ntornado in Texas?' —That's the butterfly effect.」%K%P
 
 0x2B0
 Yuka「In short, it means 'A tiny little microscopic change could%Naffect even an enormous phenomenon'.'」%K%P
@@ -191,7 +191,7 @@ Makoto「When we wake up on the next morning of the 1st, there's%Nno guarantee t
 Yuka「... Yeah... That certainly... might happen...」%K%P
 
 0x3BC
-Makoto「We'll change history―of course I agree with you%Nthere!」%K%P
+Makoto「We'll change history—of course I agree with you%Nthere!」%K%P
 
 0x3C8
 Makoto「But... either way, if we act selfishly, then it'll all go to%Nnothing. Understand?」%K%P
@@ -215,7 +215,7 @@ Makoto「No matter what happens, never go near that shrine%Nagain...」%K%P
 Yuka「... Got it... I swear it...」%K%P
 
 0x424
-Makoto「'Promises must definitely be kept'―That's what you%Nwrote in your letter.」%K%P
+Makoto「'Promises must definitely be kept'—That's what you%Nwrote in your letter.」%K%P
 
 0x430
 Makoto「Don't forget this vow... okay?」%K%P

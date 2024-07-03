@@ -116,7 +116,7 @@ Izumi「Do you remember our promise from yesterday?」%K%P
 Izumi「I said that I wanted to have a long talk to you about your%Npremonitions, right?」%K%P
 
 0x278
-―Premonitions.%K%P
+—Premonitions.%K%P
 
 0x284
 My blood runs cold at the mention of the word.%K%P

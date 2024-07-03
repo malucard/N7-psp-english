@@ -116,7 +116,7 @@ Kurumi「Onii-chan...」%K%P
 She... mutters this in a lonely voice...%K%N
 
 0x354
-―At that very instant!%K%P
+—At that very instant!%K%P
 
 0x3B8
 The earth shakes.%K%N
@@ -146,16 +146,16 @@ Small splinters come falling from the ceiling as it tears%Napart.%K%N
 When I look up, I see that the shrine is now slanting left%Nand right, like a swaying heat haze.%K%P
 
 0x424
-―It's collapsing...%K%N
+—It's collapsing...%K%N
 
 0x430
-―The shrine... is collapsing...%K%P
+—The shrine... is collapsing...%K%P
 
 0x43C
 (Kurumi...)%K%P
 
 0x448
-―At this rate, Kurumi will...!!!%K%N
+—At this rate, Kurumi will...!!!%K%N
 
 0x454
 I push myself up with my hands, but the moment I try to%Nstand up...%K%P
@@ -218,7 +218,7 @@ As if she were a doll made of glass...%K%N
 Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
 
 0x630
-―The bell.%K%N
+—The bell.%K%N
 
 0x63C
 It's that bell...%K%N
@@ -350,7 +350,7 @@ To go to a haunted house... together...%K%P
 To the amusement park... What should I do...?%K%N
 
 0x8EC
-―What should I do, Kurumi!!?%K%P
+—What should I do, Kurumi!!?%K%P
 
 0x8F8
 Kurumi「Hey, Onii-chan?」%K%P

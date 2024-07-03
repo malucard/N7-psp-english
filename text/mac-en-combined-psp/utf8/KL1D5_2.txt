@@ -26,7 +26,7 @@ I wash my face, brush my teeth, change my clothes, and%Nhead out.%K%P
 My destination is obvious.%K%P
 
 0xF0
-―I'm going to Lunabeach.%K%P
+—I'm going to Lunabeach.%K%P
 
 0x130
 With the sky as cloudy as it is, it's hard to believe that it%Nwas so starry last night.%K%P
@@ -116,7 +116,7 @@ It was definitely on this road as well...%K%P
 Kurumi「So let's go watch some crab sumo♪」%K%P
 
 0x32C
-Makoto「No, but... I have to go take a wal―」%K%P
+Makoto「No, but... I have to go take a wal—」%K%P
 
 0x338
 Kurumi「A walk? It's not like you promised to walk with someone%Nelse, right?」%K%P
@@ -140,7 +140,7 @@ Makoto「It is a problem! I'm really in the mood for a walk today. I%Ntold mysel
 Makoto「If I don't do it, I think I'll really start to kick myself over it-」%K%P
 
 0x3B0
-Kurumi「Then Kurumi will go with you～♪」%K%P
+Kurumi「Then Kurumi will go with you〜♪」%K%P
 
 0x3BC
 Makoto「...」%K%P
@@ -155,7 +155,7 @@ Makoto「...」%K%P
 Kurumi「...」%K%P
 
 0x3EC
-Makoto「... Well, that was a joke. In reality, there's no problem at all%Nwhatsoever～」%K%P
+Makoto「... Well, that was a joke. In reality, there's no problem at all%Nwhatsoever〜」%K%P
 
 0x3F8
 Kurumi「Eheh♪ Well then, it's decided!」%K%P
@@ -221,7 +221,7 @@ Kurumi「Hey, Mr. Crab. Wanna play Rock-Paper-Scissors with%NKurumi?」%K%P
 Kurumi「Ready, set, Rock, Paper, Scissors... Rock!」%K%P
 
 0x558
-Kurumi「Yay, Kurumi won～♪」%K%P
+Kurumi「Yay, Kurumi won〜♪」%K%P
 
 0x564
 (It's like... the Kurumi last night was fake...)%K%P
@@ -272,7 +272,7 @@ Kurumi「Then you can... if you beat Kurumi in%NRock-Paper-Scissors♪」%K%P
 Makoto「Huh?」%K%P
 
 0x62C
-Kurumi「Let's go～♪ Rock, Paper, Scissors...」%K%P
+Kurumi「Let's go〜♪ Rock, Paper, Scissors...」%K%P
 
 0x638
 Makoto「Go!」%K%P
@@ -284,7 +284,7 @@ Kurumi stretches the crab's claw out.%K%P
 ... Incidentally, I have paper.%K%P
 
 0x664
-Kurumi「Yay, Mr. Crab won～♪ Isn't this fun, Sumo Crab? Are you%Nglad?」%K%P
+Kurumi「Yay, Mr. Crab won〜♪ Isn't this fun, Sumo Crab? Are you%Nglad?」%K%P
 
 0x670
 Kurumi happily addresses the crab. Geez, don't name it...%K%P
@@ -299,7 +299,7 @@ Kurumi「Like Kurumi said, you don't get to see it, Onii-chan.」%K%P
 Kurumi puts the "something interesting" in her pocket.%K%P
 
 0x6BC
-―Huh???%K%P
+—Huh???%K%P
 
 0x6C8
 Just now, I thought I heard something...%K%P
@@ -368,7 +368,7 @@ Kurumi's smile seems like an angel's...%K%P
 ... That angelic smile has blown away all traces of%Nuneasiness in my heart.%K%P
 
 0x7E0
-Something has begun to sprout within me ―I finally%Nrealize what it is now.%K%P
+Something has begun to sprout within me —I finally%Nrealize what it is now.%K%P
 
 0x7EC
 It's my want... to watch over Kurumi forever...%K%P
@@ -758,7 +758,7 @@ Origami is really hard...%K%P
 Fold, fold... fold, fold... fold, fold... bend, bend...%K%P
 
 0x1018
-―Riiiip.%K%P
+—Riiiip.%K%P
 
 0x102C
 Kurumi「Aaah! Why is it completely torn off!?」%K%P
@@ -1109,7 +1109,7 @@ Just then...%K%P
 Whoosh...%K%P
 
 0x17C0
-―All of the sudden, Kurumi raises all the clothes off%Nthe upper half of her body up to her neck...%K%P
+—All of the sudden, Kurumi raises all the clothes off%Nthe upper half of her body up to her neck...%K%P
 
 0x17CC
 I can now see... Kurumi's small back.%K%P
@@ -1145,7 +1145,7 @@ I steady myself, and look at the scar.%K%P
 To be honest, it's a scar that makes me sad just seeing%Nit.%K%P
 
 0x186C
-The pointy zigzag lines of scars― lots and lots of%Nsuch lines are running down her tiny, narrow back.%K%P
+The pointy zigzag lines of scars— lots and lots of%Nsuch lines are running down her tiny, narrow back.%K%P
 
 0x1878
 Rough bulges are protruding unnaturally on the%Notherwise smooth surface of her bare skin.%K%P
@@ -1166,7 +1166,7 @@ I can't find the words.%K%P
 "It's no big deal,"... "Don't worry about it,"...%K%P
 
 0x18C0
-―No!%K%P
+—No!%K%P
 
 0x18CC
 Those aren't the words Kurumi wants to hear!%K%P
@@ -1202,7 +1202,7 @@ Kurumi...%K%P
 Kurumi「Well then, shall we hurry back?」%K%P
 
 0x1988
-Kurumi「Ruun, ruun, ruun, Kurumi-chan～, ran, ran, ran, Onii-chan～♪」%K%P
+Kurumi「Ruun, ruun, ruun, Kurumi-chan〜, ran, ran, ran, Onii-chan〜♪」%K%P
 
 0x1994
 Kurumi is back to the way she was just minutes ago...%K%P
@@ -1214,7 +1214,7 @@ As if nothing happened...%K%P
 What... What...%K%P
 
 0x19B8
-―What the hell am I doing!?%K%P
+—What the hell am I doing!?%K%P
 
 0x19C4
 Even though Kurumi courageously showed it to me...%K%P
@@ -1271,7 +1271,7 @@ Kurumi「Huh!? You'll take Kurumi?」%K%P
 Makoto「Yeah...」%K%P
 
 0x1ABC
-Kurumi「Yaay～♪」%K%P
+Kurumi「Yaay〜♪」%K%P
 
 0x1AD0
 Kurumi「For real?」%K%P

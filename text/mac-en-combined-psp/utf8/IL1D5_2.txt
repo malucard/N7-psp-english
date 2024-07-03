@@ -176,31 +176,31 @@ Makoto「You're right...」%K%P
 Izumi-san and I then begin to talk as we recall everything%Nthat's happened so far.%K%P
 
 0x3D4
-―Kurumi delivering the pizza to our place by mistake.%K%N
+—Kurumi delivering the pizza to our place by mistake.%K%N
 
 0x3E0
-―When I came to Lunabeach with the others.%K%N
+—When I came to Lunabeach with the others.%K%N
 
 0x3EC
-―Saki coming in to yell and complain.%K%P
+—Saki coming in to yell and complain.%K%P
 
 0x3F8
-―When we all went to the pool.%K%N
+—When we all went to the pool.%K%N
 
 0x404
-―Going fishing with Haruka, and Saki's anger.%K%N
+—Going fishing with Haruka, and Saki's anger.%K%N
 
 0x410
-―Learning that Haruka was a clone.%K%P
+—Learning that Haruka was a clone.%K%P
 
 0x41C
-―The Test of Courage.%K%N
+—The Test of Courage.%K%N
 
 0x428
-―The barbecue.%K%N
+—The barbecue.%K%N
 
 0x434
-―And... about the others.%K%P
+—And... about the others.%K%P
 
 0x440
 One by one, Izumi-san rattles off everyone's good and%Nbad traits.%K%P
@@ -323,7 +323,7 @@ I didn't know...%K%N
 I didn't notice it at all...%K%P
 
 0x64C
-Izumi-san said it earlier―"You're bad at%Nunderstanding people's feelings..."%K%N
+Izumi-san said it earlier—"You're bad at%Nunderstanding people's feelings..."%K%N
 
 0x658
 Those words deeply pierce me in the heart like a dagger.%K%P
@@ -353,5 +353,5 @@ No, that might not be it.%K%P
 I'm not being loved by a "person"...%K%N
 
 0x6FC
-―I might be being loved... by a "goddess".%K%P
+—I might be being loved... by a "goddess".%K%P
 

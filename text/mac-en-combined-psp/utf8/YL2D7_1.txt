@@ -41,7 +41,7 @@ I slowly get up from the bed.%K%P
 I stand in the center of the room, and look around.%K%P
 
 0x164
-―It can't be...%K%P
+—It can't be...%K%P
 
 0x19C
 Suddenly, I hear a sound as violent as an explosion!%K%P
@@ -80,7 +80,7 @@ I timidly raise my left arm.%K%P
 Yuka leans in close as we both look at my watch's face.%K%P
 
 0x2BC
-(―1―)%K%P
+(—1—)%K%P
 
 0x2C8
 Makoto「Th-That's impossible!!!」%K%P
@@ -92,7 +92,7 @@ No...%K%P
 I stare at it carefully one more time.%K%P
 
 0x2EC
-(―7―)%K%P
+(—7—)%K%P
 
 0x2F8
 (7 SUN 5:03 A.M.)%K%P
@@ -242,7 +242,7 @@ Yuka and I rapidly break off like nothing happened.%K%P
 Yuka's cheeks are bright red.%K%P
 
 0x6B4
-Izumi「Ah ha... I see. So that's what it was～」%K%P
+Izumi「Ah ha... I see. So that's what it was〜」%K%P
 
 0x6C8
 Saki「So the two of you eloped for a night and two days?」%K%P

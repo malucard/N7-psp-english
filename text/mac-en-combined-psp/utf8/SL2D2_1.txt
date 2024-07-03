@@ -2,7 +2,7 @@ text area offset and size:
 0x910
 0xF5B
 0x180
-"This time, I'll definitely save Saki." ―I promise myself%Nthis.%K%P
+"This time, I'll definitely save Saki." —I promise myself%Nthis.%K%P
 
 0x18C
 (But just where should I start from?)%K%P
@@ -35,7 +35,7 @@ In the end, I just dragged myself along as I went with the%Nflow, and now we've 
 No, wait! Doesn't this mean that incident will...!?%K%P
 
 0x220
-―It's starting.%K%N
+—It's starting.%K%N
 
 0x22C
 Saki and Haruka's quarrel, that is...%K%N
@@ -89,7 +89,7 @@ Her weight is straining my arm.%K%N
 Ocean water floods into my throat.%K%N%N
 
 0x420
-―I'll be damned if I die here!%K%P
+—I'll be damned if I die here!%K%P
 
 0x470
 When I finally raise our heads out in an interval between%Nthe waves, I hear the group's voices.%K%P

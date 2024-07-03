@@ -38,7 +38,7 @@ I repeat this vow to myself 21 times.%K%P
 Just then, the doorbell rings from the front door.%K%P
 
 0x100
-―Huh?%K%P
+—Huh?%K%P
 
 0x10C
 Our group has four members. Nobody else was%Nscheduled to come here except for us, right...?%K%P
@@ -83,7 +83,7 @@ Makoto「Okay, I'm on it.」%K%P
 I massage my stomach with my left hand while opening%Nthe door with my right.%K%P
 
 0x25C
-??「Thank you very much for your continued patronage～♪」%K%P
+??「Thank you very much for your continued patronage〜♪」%K%P
 
 0x268
 Makoto「... Huh?」%K%P
@@ -266,7 +266,7 @@ Makoto「What is it, Okuhiko?」%K%P
 Okuhiko had walked over without me noticing it, and is%Ncurrently standing next to me.%K%P
 
 0x5DC
-Okuhiko「Ah, thank you for all your trouble～」%K%P
+Okuhiko「Ah, thank you for all your trouble〜」%K%P
 
 0x5E8
 Makoto「Huh?」%K%P
@@ -380,7 +380,7 @@ Makoto「She means she's hungry now, but wasn't earlier.」%K%P
 Haruka gives a small nod in agreement.%K%P
 
 0x8E8
-Yuka「Geez―」%K%P
+Yuka「Geez—」%K%P
 
 0x8F4
 Defeated, Yuka sullenly drops down onto the sofa.%K%P

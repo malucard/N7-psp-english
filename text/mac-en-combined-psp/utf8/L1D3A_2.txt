@@ -200,7 +200,7 @@ That's because I thought she was right on mark. Haruka%Nplaces the fishing rod d
 "I've got to do something", "I've got to say something."%NThese thoughts rush through my head.%K%P
 
 0x4D4
-―But nothing will come out of my mouth. Trying to pass%Nmy silence off as boredom, I pick up Haruka's fishing%Nrod.%K%P
+—But nothing will come out of my mouth. Trying to pass%Nmy silence off as boredom, I pick up Haruka's fishing%Nrod.%K%P
 
 0x4E0
 I place the bait on the end, and cast the line out to sea.%NThen, I pass it to Haruka, who firmly stares at me.%K%P
@@ -239,7 +239,7 @@ Haruka「Why...?」%K%P
 The question I've dreaded has finally come. I seek a%Ncompelling answer for Haruka.%K%P
 
 0x580
-―But nothing is coming out.%K%P
+—But nothing is coming out.%K%P
 
 0x58C
 Haruka is firmly staring at me, waiting for me to speak.%K%P

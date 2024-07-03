@@ -23,7 +23,7 @@ Makoto「A-An earthquake...?」%K%P
 As soon as I notice the small tremors... I know what's%Ncoming!%K%P
 
 0x16C
-―Rumble!%K%P
+—Rumble!%K%P
 
 0x178
 The shock waves feel like they're pushing me up...%K%P
@@ -125,7 +125,7 @@ Okuhiko「... that earthquake hit. That was really powerful. I wonder%Nhow many 
 Okuhiko「Huh? Now that I think about it, earlier...」%K%P
 
 0x420
-―Crap!%K%P
+—Crap!%K%P
 
 0x42C
 D-Did he see us!? Did he see Izumi-san and I holding%Neach other!?%K%P
@@ -140,7 +140,7 @@ Makoto「I don't need to see it!!」%K%P
 Okuhiko「Huh? Ishihara... that's...」%K%P
 
 0x47C
-―Shit!!%K%P
+—Shit!!%K%P
 
 0x488
 C-Could I have accidentally gotten a kiss mark on my%Nface from Izumi-san when we were rolling earlier!?%K%P
@@ -227,7 +227,7 @@ But it's locked, so it won't open.%K%P
 Okuhiko「Huh? Are they still out?」%K%P
 
 0x6E4
-Okuhiko「Hee～y... open up! Anyone here?」%K%P
+Okuhiko「Hee〜y... open up! Anyone here?」%K%P
 
 0x6F0
 We wait for an opening, then sneak away.%K%P

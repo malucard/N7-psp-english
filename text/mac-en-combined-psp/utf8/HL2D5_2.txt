@@ -65,7 +65,7 @@ I finally remember the last time we had this conversation.%K%P
 Haruka「Have you ever read... 'Sleeping Beauty'?」%K%P
 
 0x3C4
-Makoto「The Grimm Brothers' story was 'Briar Rose'―and%N'Sleeping Beauty' was by Perrault... right?」%K%P
+Makoto「The Grimm Brothers' story was 'Briar Rose'—and%N'Sleeping Beauty' was by Perrault... right?」%K%P
 
 0x3D8
 Haruka「You're well informed. That's right... but the story is the%Nsame. There was this princess who slept for hundreds%Nof years, right?」%K%P
@@ -230,7 +230,7 @@ My senses become sharply more aware of how precious%Nthe existence known as Haru
 (Even though she's thinking of me so much... in the end, is%Nthere nothing I can do for Haruka?)%K%P
 
 0x7D4
-―!?%K%P
+—!?%K%P
 
 0x80C
 Suddenly, something inside me bursts open loudly.%K%P

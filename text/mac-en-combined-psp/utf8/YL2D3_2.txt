@@ -17,7 +17,7 @@ For what?%K%P
 Okuhiko「Why did you go fishing with Ishihara?」%K%P
 
 0xBC
-―Right! That's why!%K%P
+—Right! That's why!%K%P
 
 0xC8
 I rush out to the terrace as fast as an arrow.%K%P

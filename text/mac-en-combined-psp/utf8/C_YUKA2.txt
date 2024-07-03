@@ -119,7 +119,7 @@ Let go of him midway.
 At that time...%K%P
 
 0x408
-―Whoosh!%K%P
+—Whoosh!%K%P
 
 0x414
 ...In a completely unexpected turn of events, my arm is%Npulled back with great strength.%K%P
@@ -158,7 +158,7 @@ Yuka「W-Whaa ah yuu tocking abaut?」%K%P
 Makoto「You were planning on letting me go, right?」%K%P
 
 0x570
-(―Ugh!)%K%P
+(—Ugh!)%K%P
 
 0x57C
 Makoto「It was obvious.」%K%P
@@ -209,7 +209,7 @@ Makoto「Yeah, I'll get you one cup of anything... except alcohol.」%K%P
 Makoto「Ah, your nose is dripping with snot... how dirty!」%K%P
 
 0x678
-(―!!!!!)%K%P
+(—!!!!!)%K%P
 
 0x68C
 Yuka「U-U-Ughhhh...」%K%P
@@ -1430,7 +1430,7 @@ Just then, Makoto speaks up.%K%P
 A shooting star streams across the night sky...%K%P
 
 0x2204
-―I've gotta make a wish!%K%P
+—I've gotta make a wish!%K%P
 
 0x2210
 I instantly make a firm, powerful wish...%K%P
@@ -1694,7 +1694,7 @@ I take a bath, brush my teeth, change my clothes, and lie%Non my bed.%K%P
 I look at the clock, and find it's close to 10:00 P.M.%K%P
 
 0x2820
-Yuka「Fwaah～...」%K%P
+Yuka「Fwaah〜...」%K%P
 
 0x282C
 I open my mouth widely, and yawn loudly.%K Anyway, I'm%Ndead tired...%K%P
@@ -1757,5 +1757,5 @@ The world in front of me fades into white.%K%P
 Before long, my consciousness is taken to the%Ncomfortable world of sleep...%K%P
 
 0x2924
-...And then , I have a different dream than last%Nnight――.%K%P
+...And then , I have a different dream than last%Nnight——.%K%P
 

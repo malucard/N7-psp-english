@@ -8,7 +8,7 @@ Makoto「All right! It's done!」%K%P
 Kurumi「Let's see it!」%K%P
 
 0x84
-Makoto「Ta-da～♪ It's a MakoMako Makotour de force～♪」%K%P
+Makoto「Ta-da〜♪ It's a MakoMako Makotour de force〜♪」%K%P
 
 0x90
 Kurumi「...」%K%P
@@ -119,7 +119,7 @@ Kurumi「Eheh♪」%K%P
 Makoto「Ha ha ha ha ha ha ha ha...」%K%P
 
 0x258
-Makoto「I look way more badass than Mori Motonari～」%K%P
+Makoto「I look way more badass than Mori Motonari〜」%K%P
 
 0x264
 Kurumi「Don't you think? This is Kurumi's favorite♪」%K%P

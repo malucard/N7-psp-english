@@ -8,7 +8,7 @@ An hour has already passed since the barbecue began.%K%P
 Everything is calm as we fool around and poke fun at%Neach other... It's as noisy as ever.%K%P
 
 0x114
-Yuka「Woohoo～～～! Woohoohoohoo～～～!」%K%P
+Yuka「Woohoo〜〜〜! Woohoohoohoo〜〜〜!」%K%P
 
 0x138
 Yuka「Meat, meat, meat man♪ Meat, meat, meat time♪」%K%P
@@ -20,7 +20,7 @@ Yuka「Jumping! Chop green peppersh up intoo bitsh!」%K%P
 Yuka「Shtrummin'... shtrummin'...♪」%K%P
 
 0x16C
-Yuka「Shunshet... grilled meat... companionsh on da River%NShtyksh～♪」%K%P
+Yuka「Shunshet... grilled meat... companionsh on da River%NShtyksh〜♪」%K%P
 
 0x178
 Yuka's the same as always...%K%P
@@ -179,7 +179,7 @@ Makoto「So are you saying the two of you didn't say a single%Nword to each othe
 Kurumi「Well, we did talk about some trifling things...」%K%P
 
 0x544
-Kurumi「―Ah!」%K%P
+Kurumi「—Ah!」%K%P
 
 0x550
 Kurumi「Now that Kurumi thinks about it, she did hear one%Ninteresting thing.」%K%P
@@ -293,7 +293,7 @@ Yuka「... Da toolsh, dat ish♪」%K%P
 Yuka puts her left hand in her pocket as she tampers%Nwith the "tools", twisting and turning them.%K%P
 
 0x798
-Kurumi「―GEEZ! ―Yuka-san!」%K%P
+Kurumi「—GEEZ! —Yuka-san!」%K%P
 
 0x7AC
 Yuka「Huh? Whaa?」%K%P
@@ -344,7 +344,7 @@ Kurumi「Hey, that's just plain weird!」%K%P
 Kurumi「There's no way such a bizarre story would be well known!」%K%P
 
 0x8CC
-―And at that time!%K%P
+—And at that time!%K%P
 
 0x8F4
 The sound of water splashing echoes!%K%P
@@ -359,7 +359,7 @@ I don't need to turn around to understand the situation.%K%P
 Saki's hand accidentally slipped, and she spilled the%Nbeer in her paper cup on Yuka.%K%P
 
 0x930
-―Huh...??? Yuka???%K%P
+—Huh...??? Yuka???%K%P
 
 0x93C
 But Yuka's in front of me right now, isn't she?%K%P
@@ -377,7 +377,7 @@ By the iron plate... Saki is holding a now empty paper cup.%K%P
 And the beer has landed on...%K%P
 
 0x9E8
-―Haruka!%K%P
+—Haruka!%K%P
 
 0x9F4
 Haruka's clothes are soaked from her chest to the%Nbottom of her shirt.%K%P

@@ -56,16 +56,16 @@ Then... Then... the dream I had just now...%K%N
 Was...%K%P
 
 0x178
-―That's wrong!%K%N
+—That's wrong!%K%N
 
 0x184
-―That's wrong! What the hell am I saying!?%K%N
+—That's wrong! What the hell am I saying!?%K%N
 
 0x190
-―That wasn't a "dream"!!%K%N
+—That wasn't a "dream"!!%K%N
 
 0x19C
-―There's no way in hell that was a "dream"...%K%P
+—There's no way in hell that was a "dream"...%K%P
 
 0x1E0
 Suddenly, I hear a sound as violent as a gunshot!%K%P
@@ -92,13 +92,13 @@ I quickly look at my watch.%K%P
 "1 MON 09:19 A.M."%K%P
 
 0x284
-―1st.%K%N
+—1st.%K%N
 
 0x290
-―1st?%K%N
+—1st?%K%N
 
 0x29C
-―1st???%K%P
+—1st???%K%P
 
 0x2A8
 Makoto「THE FIRST!!!!!!!!?」%K%P

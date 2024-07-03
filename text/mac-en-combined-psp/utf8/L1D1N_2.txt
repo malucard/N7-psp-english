@@ -176,7 +176,7 @@ This time, Kurumi speaks...%K%P
 I respond to her question with a smile.%K%P
 
 0x3C8
-―Wait, where's Haruka...?%K%P
+—Wait, where's Haruka...?%K%P
 
 0x3D4
 Glancing around, I quickly spot Haruka.%K%P
@@ -344,7 +344,7 @@ Izumi「There, I've got you now!」%K%P
 ... Izumi-san finally grabs Kurumi by her sleeve.%K%P
 
 0x790
-―Just then, at that exact moment!%K%P
+—Just then, at that exact moment!%K%P
 
 0x7D0
 The ground suddenly begins to shake.%K%P

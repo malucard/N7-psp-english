@@ -74,7 +74,7 @@ Kurumi「Huh? Just Kurumi?」%K%P
 Izumi「You need to be helpful to others every once in a while.%NThink of it as atonement for failing to deliver the pizza to%NSaki-chan.」%K%P
 
 0x1AC
-Kurumi「Ah―, no fair. Even though that wasn't Kurumi's fault...」%K%P
+Kurumi「Ah—, no fair. Even though that wasn't Kurumi's fault...」%K%P
 
 0x1B8
 Izumi「You're not going to listen to your sister?」%K%P

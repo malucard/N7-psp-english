@@ -32,7 +32,7 @@ Izumi「What, really?」%K%P
 Kurumi「Yeah...」%K%P
 
 0x12C
-Izumi「Huh～... that's strange...」%K%P
+Izumi「Huh〜... that's strange...」%K%P
 
 0x140
 Kurumi「Well, whatever, it doesn't matter♪」%K%P
@@ -74,7 +74,7 @@ Kurumi「Ah! If that's the case...」%K%P
 Kurumi「... Let's play cards♪」%K%P
 
 0x214
-―C-Cards!?%K%P
+—C-Cards!?%K%P
 
 0x220
 The instant I hear that, a shudder runs through me.%K%P
@@ -182,7 +182,7 @@ But I'm unable to understand what that is.%K%P
 Soon enough...%K%P
 
 0x490
-Kurumi「―Ah!」%K%P
+Kurumi「—Ah!」%K%P
 
 0x49C
 Kurumi shouts out.%K%P
@@ -353,10 +353,10 @@ The long staircase behind me that I only just ran up...%K%P
 But... the only thing that's gone...%K%P
 
 0x99C
-―Is the shrine!%K%N
+—Is the shrine!%K%N
 
 0x9A8
-―The Shiki no Mori Shrine has disappeared!%K%P
+—The Shiki no Mori Shrine has disappeared!%K%P
 
 0x9DC
 (... That's... impossible...)%K%P
@@ -611,10 +611,10 @@ I silently continue to eat the food.%K%P
 Although I'm attempting to act cheerful, my mind is%Ncompletely chaotic.%K%P
 
 0xED8
-―Is this fiction? ―Is this reality?%K%N
+—Is this fiction? —Is this reality?%K%N
 
 0xEE4
-―Is this a delusion? ―Is this for real?%K%P
+—Is this a delusion? —Is this for real?%K%P
 
 0xEF0
 Just what meaning does this world have to me?%K%P

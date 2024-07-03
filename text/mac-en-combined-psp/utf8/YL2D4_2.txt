@@ -158,7 +158,7 @@ I smoothly bind Okuhiko's arms behind his back so he%Ncan't try to run away.%K%P
 Okuhiko「Huh? Ishihara... what are you doing?」%K%P
 
 0x49C
-―And in the next instant.%K%P
+—And in the next instant.%K%P
 
 0x4A8
 The opening to the plastic bag opens up, and the large%Ngroup of sea roaches scatter.%K%P
@@ -314,7 +314,7 @@ Maybe I should have waited until she was sober before%Nbringing this up...%K%P
 That's what I think.%K%P
 
 0x890
-―And at that time!%K%P
+—And at that time!%K%P
 
 0x8B8
 The sound of water splashing echoes!%K%P
@@ -329,7 +329,7 @@ I don't need to turn around to understand the situation.%K%P
 Saki's hand accidentally slipped, and she spilled the%Nbeer in her paper cup on Yuka.%K%P
 
 0x8E8
-―Huh??? ... Yuka???%K%P
+—Huh??? ... Yuka???%K%P
 
 0x8F4
 But Yuka's in front of me right now, isn't she?%K%P
@@ -347,7 +347,7 @@ By the iron plate... Saki is holding a now empty paper cup.%K%P
 And the beer has landed on...%K%P
 
 0x96C
-―Kurumi!%K%P
+—Kurumi!%K%P
 
 0x978
 Kurumi's clothes are soaked from her chest to the%Nbottom of her shirt.%K%P

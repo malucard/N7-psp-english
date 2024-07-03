@@ -77,7 +77,7 @@ Either way, it seems that today's going to be a busy day.%K%P
 Yuka「...For now, I'll just sleep...」%K%P
 
 0x270
-―Click.%K%P
+—Click.%K%P
 
 0x284
 (I'll just get some good sleep, then think about it when I%Nwake up...)%K%P
@@ -167,7 +167,7 @@ This conversation happened in the last loop, when%NKurumi-chan went missing...%K
 My whole body starts shivering...%K%P
 
 0x560
-―A flashback dashes through my mind!%K%P
+—A flashback dashes through my mind!%K%P
 
 0x56C
 My memories are showing me a vivid image of that%Nscene...!!%K%P
@@ -239,7 +239,7 @@ Saki「Hold on, Makoto-kun! Where are you going!?」%K%P
 At that moment, I see... Makoto rushing out the front door!%K%P
 
 0x728
-―Wham!%K%P
+—Wham!%K%P
 
 0x734
 In that instant, it feels like all the blood in my body has%Nbeen drained away.%K%P
@@ -323,13 +323,13 @@ But that doesn't matter right now!%K%P
 All I want to do is to stop Makoto from going to the shrine.%K%P
 
 0x984
-―The earthquake will cause the ground to shake.%K%N
+—The earthquake will cause the ground to shake.%K%N
 
 0x990
-―The shrine will collapse.%K%N
+—The shrine will collapse.%K%N
 
 0x99C
-―And we'll be sqaushed by the debris...%K%P
+—And we'll be sqaushed by the debris...%K%P
 
 0x9A8
 (I can't let that happen...! Absolutely not!!)%K%P
@@ -344,10 +344,10 @@ I clench my teeth to make that horrible scene go away.%K%P
 (We'll see the sunrise of the 7th together...!)%K%P
 
 0x9D8
-Yuka「―That's right, we promised each other!!!」%K%P
+Yuka「—That's right, we promised each other!!!」%K%P
 
 0xA10
-I've reached the long staircase that leads up to the%Nshrine―%K%P
+I've reached the long staircase that leads up to the%Nshrine—%K%P
 
 0xA1C
 I've finally caught up to Makoto.%K%P
@@ -497,25 +497,25 @@ The desperation I've been able to hold back up until now%Ncomes pouring out.%K%P
 Yuka「No more... I don't... want this!」%K%P
 
 0xD74
-―This feeling definitely isn't anger.%K%P
+—This feeling definitely isn't anger.%K%P
 
 0xD80
 Yuka「I don't want to lose... another precious person!」%K%P
 
 0xD8C
-―On the other hand, it's not sadness.%K%P
+—On the other hand, it's not sadness.%K%P
 
 0xD98
 Yuka「I don't want to lose you...」%K%P
 
 0xDA4
-―Nor is it pity, misery, or compassion.%K%P
+—Nor is it pity, misery, or compassion.%K%P
 
 0xDB0
 Yuka「You went as far... as risking your own life... trying to%Nsave... mine...」%K%P
 
 0xDBC
-―It's just my plain feelings for Makoto at the bottom%Nof my heart...%K%P
+—It's just my plain feelings for Makoto at the bottom%Nof my heart...%K%P
 
 0xDC8
 Yuka「Please... please...」%K%P
@@ -542,7 +542,7 @@ They're swelling with determination.%K%P
 Where have I seen... eyes that resemble those before...?%K%P
 
 0xE30
-―In that instant, a certain scene that I remember is%Nreflected before my eyes.%K%P
+—In that instant, a certain scene that I remember is%Nreflected before my eyes.%K%P
 
 0xE3C
 A scene dyed in orange...%K%P
@@ -698,7 +698,7 @@ I see Makoto running up the staircase.%K The pouring rain%Nbrings me back to my 
 (I ...If Makoto's going, then I should go in to make sure he%Nstays safe...!)%K%P
 
 0x1300
-(――!?)%K%P
+(——!?)%K%P
 
 0x130C
 Suddenly, in the darkness, I see a radiance as bright as%Nthe sun!%K%P
@@ -737,10 +737,10 @@ Yuka「But I realized it was wrong... That feeling was wrong...」%K%P
 Yuka「Makoto, I love you...」%K%P
 
 0x1404
-Makoto「...Y- Yu―」%K%P
+Makoto「...Y- Yu—」%K%P
 
 0x142C
-―And then I thrust Makoto away!%K%P
+—And then I thrust Makoto away!%K%P
 
 0x1438
 Makoto falls behind me, dancing in the air briefly before%Nhitting the ground with a thud.%K%P
@@ -806,7 +806,7 @@ With all my strength, I run up the staircase, and step onto%Nthe shrine's ground
 And then, without stopping, I run into the shrine with the%Nspeed of a hurricane.%K%P
 
 0x1668
-(―What!?)%K%P
+(—What!?)%K%P
 
 0x1674
 The shrine is completely empty...%K%P
@@ -818,7 +818,7 @@ The shrine is completely empty...%K%P
 I look around in confusion.%K%P
 
 0x1698
-(―!?)%K%P
+(—!?)%K%P
 
 0x16A4
 I can feel a faint draft of wind...%K%P
@@ -839,7 +839,7 @@ I can hear Makoto behind me.%K%P
 (This is bad! I've got to hurry!!)%K%P
 
 0x16EC
-I go out to the backside of the shrine as fast as I%Ncan―!%K%P
+I go out to the backside of the shrine as fast as I%Ncan—!%K%P
 
 0x1700
 However...%K%P
@@ -866,7 +866,7 @@ Mine are probably the same...%K%P
 ...Before long, the earth begins to violently shake.%K%P
 
 0x17A4
-Our time limit's up――.%K%P
+Our time limit's up——.%K%P
 
 0x17B0
 Those words flash through my mind.%K%P
@@ -893,7 +893,7 @@ Overhead, small splinters are falling, the wooden%Nstructure collasping.%K%P
 I look behind me, and see Makoto staring at this with wide%Neyes.%K%P
 
 0x1874
-(――――!!!)%K%P
+(————!!!)%K%P
 
 0x1880
 Althogh I can't think anymore, there's still one thought in%Nmy head...%K%P
@@ -947,7 +947,7 @@ With this...%K%P
 Everything is over...%K%P
 
 0x1A18
-―At that time, Makoto fiercely lunges forward!%K%P
+—At that time, Makoto fiercely lunges forward!%K%P
 
 0x1A34
 He grabs me, pushes down on the ground and jumps...%K%P
@@ -965,7 +965,7 @@ Makoto and I embrace each other as we fall down%Ntowards the black sea...%K%P
 That star of hope makes a clear sound...%K%P
 
 0x1AC4
-And finally, I lose consciousness―.%K%P
+And finally, I lose consciousness—.%K%P
 
 0x1B40
 ...%K%P
@@ -974,13 +974,13 @@ And finally, I lose consciousness―.%K%P
 ...%K%P
 
 0x1B58
-―I'm in a black space.%K%P
+—I'm in a black space.%K%P
 
 0x1B64
-―There, I find a fragment of my memories.%K%P
+—There, I find a fragment of my memories.%K%P
 
 0x1B70
-―A memory of that far off day, when I looked at that%Nclear sky and heard the story about the twins...%K%P
+—A memory of that far off day, when I looked at that%Nclear sky and heard the story about the twins...%K%P
 
 0x1B7C
 "The two of them were so close that they were always%Ntogether, no matter what time."%K%P

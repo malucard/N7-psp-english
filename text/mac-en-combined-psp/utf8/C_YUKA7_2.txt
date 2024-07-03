@@ -86,7 +86,7 @@ Makoto「...」%K%P
 Yuka「...」%K%P
 
 0x254
-"―7―"%K%P
+"—7—"%K%P
 
 0x260
 "7 SUN 5:03 A.M."%K%P
@@ -233,7 +233,7 @@ Makoto and I rapidly break off like nothing happened.%K%P
 My cheeks are bright red.%K%P
 
 0x618
-Izumi「Ah ha... I see. So that's what it was～」%K%P
+Izumi「Ah ha... I see. So that's what it was〜」%K%P
 
 0x634
 Saki「So the two of you eloped for a night and two days?」%K%P
@@ -353,7 +353,7 @@ And so, the two of us have arrived at Moon Beach.%K%P
 Makoto and I made a promise... "We'll see the sunrise of%Nthe 7th together."%K%P
 
 0x9E0
-―Today's the 7th.%K%P
+—Today's the 7th.%K%P
 
 0x9EC
 It's the start of the morning...%K%P
@@ -362,10 +362,10 @@ It's the start of the morning...%K%P
 The morning sun is now beginning to slowly rise from%Nbeyond the golden ocean...%K%P
 
 0xA04
-"Will free you from time."%K ―That surely meant "to be%Nreleased from the infinite loop's flow of time"...%K%P
+"Will free you from time."%K —That surely meant "to be%Nreleased from the infinite loop's flow of time"...%K%P
 
 0xA10
-"At the end of the cape"%K ―That was probably%Nindicating, "The real end of the cape"...In other words, "in%Nthe ocean."%K%P
+"At the end of the cape"%K —That was probably%Nindicating, "The real end of the cape"...In other words, "in%Nthe ocean."%K%P
 
 0xA1C
 Right now, we've been released...%K%P

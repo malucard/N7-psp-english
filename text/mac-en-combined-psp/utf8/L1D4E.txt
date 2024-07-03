@@ -725,7 +725,7 @@ Well, for the time being, I'm relieved.%K%N
 If Yuka and Kurumi were in perfect synch, then I'd fear for%Nthe future of this planet.%K%P
 
 0x1120
-Yuka「Hmmm～～～～～～～mmmm.」%K%P
+Yuka「Hmmm〜〜〜〜〜〜〜mmmm.」%K%P
 
 0x1134
 Yuka「Den haush dish?」%K%P
@@ -734,7 +734,7 @@ Yuka「Den haush dish?」%K%P
 Yuka's eyes sparkle.%K%P
 
 0x1164
-―And at that time!%K%P
+—And at that time!%K%P
 
 0x11A8
 This time, Saki's the one who commits a blunder.%K%N
@@ -782,7 +782,7 @@ Saki「... Really, I'm sorry.」%K%P
 Saki「It's just what Okuhiko-kun, hee hee, said was... kinda true...」%K%P
 
 0x12C0
-―The instant she says this, something comes flying%Nfrom a different direction!%K%P
+—The instant she says this, something comes flying%Nfrom a different direction!%K%P
 
 0x12CC
 It's an orange colored liquid... juice.%K%N

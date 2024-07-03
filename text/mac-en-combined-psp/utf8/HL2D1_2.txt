@@ -38,7 +38,7 @@ Haruka...%K%N
 Right now, Haruka is here, right in front of me.%K%N
 
 0x134
-She's warm and breathing― Haruka, who shouldn't be%Nalive, is a short distance away!%K%P
+She's warm and breathing— Haruka, who shouldn't be%Nalive, is a short distance away!%K%P
 
 0x140
 My heart is filled to the brim with a surge of happiness.%K%N
@@ -80,7 +80,7 @@ My mind is still in chaos.%K%N
 I'm unable to fully grasp the reality before me.%K%P
 
 0x258
-"'Alive?'" ―Haruka doesn't bother to turn towards me%Nas she asks this.%K%P
+"'Alive?'" —Haruka doesn't bother to turn towards me%Nas she asks this.%K%P
 
 0x264
 Instead, she blankly stares at the dripping faucet.%K%P
@@ -605,7 +605,7 @@ Haruka's cheeks are bathed in sunlight.%K%N
 The sea breeze begins to gently blow in the space%Nbetween us...%K%P
 
 0x1124
-―I wonder how long I've been watching Haruka like%Nthis.%K%P
+—I wonder how long I've been watching Haruka like%Nthis.%K%P
 
 0x1130
 (For Haruka's sake alone, I will live through these next%Nsix days.)%K%P

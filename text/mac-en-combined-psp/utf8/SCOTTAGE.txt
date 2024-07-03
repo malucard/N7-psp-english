@@ -74,7 +74,7 @@ Saki「Whose way?」%K%P
 Makoto「Well, that's... huh?」%K%P
 
 0x184
-―GWAAAAA! When did she get here!?%K%P
+—GWAAAAA! When did she get here!?%K%P
 
 0x190
 Saki「So, what are you doing here?」%K%P
@@ -239,7 +239,7 @@ I turn the basket around to show off the other side of it.%K%P
 Just then... The bell in the charm rings loudly.%K%P
 
 0x4B4
-―Suddenly, Saki's complexion changes.%K%P
+—Suddenly, Saki's complexion changes.%K%P
 
 0x4C8
 Saki「Noooo...!」%K%P
@@ -275,7 +275,7 @@ Saki examines the basket, rotating it.%K%P
 Just then... The bell in the charm rings loudly.%K%P
 
 0x5B0
-―Suddenly, Saki's complexion changes.%K%P
+—Suddenly, Saki's complexion changes.%K%P
 
 0x5BC
 Saki「Noooo...!」%K%P
@@ -353,7 +353,7 @@ Just when I close in on her... I hear a sound that sounds%Nlike a roar from the 
 The floor violently shakes.%K%N
 
 0x758
-―It's an earthquake!%K%P
+—It's an earthquake!%K%P
 
 0x7A0
 Saki「Kyaa!」%K%P
@@ -617,7 +617,7 @@ Saki「I'm not lying!」%K%P
 Haruka「You're lying! You're lying! Give it back! Give me back that%N'bell'!」%K%P
 
 0xE80
-―Bell???%K%P
+—Bell???%K%P
 
 0xE8C
 (Now that I think about it, when Saki heard that bell on the%Ncharm...)%K%P
@@ -845,7 +845,7 @@ I thought it was strange at first.%K%N
 I thought that even if Kurumi pulled an all-nighter, there's%Nno way she could have fixed it by herself in one night.%K%P
 
 0x1368
-Makoto「But I really have urgent busi―」%K%P
+Makoto「But I really have urgent busi—」%K%P
 
 0x1374
 Izumi「Whaaat? ... Makoto-kun, do you plan to abandon us%Nsisters?」%K%P

@@ -104,7 +104,7 @@ A flash runs through my mind.%K%P
 I quickly look out the window.%K%P
 
 0x3E0
-―A downpour...%K%P
+—A downpour...%K%P
 
 0x3EC
 The rain clouds covering the whole sky are getting%Nbrighter.%K%P
@@ -131,10 +131,10 @@ I know...%K%P
 I don't even need to think about it.%K%P
 
 0x498
-―Kurumi's in that shrine.%K%P
+—Kurumi's in that shrine.%K%P
 
 0x4A4
-―And today is Saturday, April 6th.%K%P
+—And today is Saturday, April 6th.%K%P
 
 0x4B0
 The earthquake will happen soon...%K%P
@@ -161,7 +161,7 @@ No way...%K%P
 No way, she couldn't have!!!%K%P
 
 0x53C
-―I kick off the chair and rush outside!%K%P
+—I kick off the chair and rush outside!%K%P
 
 0x5FC
 I look around for Yuka.%K%P
@@ -209,7 +209,7 @@ History is repeating itself...%K%P
 If Yuka goes over there right now, nothing will change.%K%P
 
 0x730
-Kurumi―she didn't go missing on the 4th.%K%P
+Kurumi—she didn't go missing on the 4th.%K%P
 
 0x73C
 "History changed"... Yuka and I were overjoyed with that%Nthought.%K%P
@@ -347,7 +347,7 @@ The rain beats on me...%K%P
 The sound of the heavy rainfall drowns out all other%Nnoise.%K%P
 
 0xA88
-―I kick off the chair and rush outside!%K%P
+—I kick off the chair and rush outside!%K%P
 
 0xB20
 Saki「Hold on, Makoto-kun! Where are you going!?」%K%P
@@ -362,10 +362,10 @@ This is a race against the clock.%K%P
 (Where's Kurumi?)%K%P
 
 0xB5C
-―That's obvious, isn't it!?%K%P
+—That's obvious, isn't it!?%K%P
 
 0xB68
-―That shrine!%K%P
+—That shrine!%K%P
 
 0xB74
 And today is Saturday, April 6th.%K%P
@@ -398,7 +398,7 @@ History is repeating itself...%K%P
 If I go over there right now, nothing will change.%K%P
 
 0xC60
-Kurumi―she didn't go missing on the 4th.%K%P
+Kurumi—she didn't go missing on the 4th.%K%P
 
 0xC6C
 "History changed"... Yuka and I were overjoyed with that%Nthought.%K%P
@@ -551,7 +551,7 @@ Makoto「I can't... go back to the past...」%K%P
 Makoto「I will end... everything here...」%K%P
 
 0xFF0
-Makoto「So―」%K%P
+Makoto「So—」%K%P
 
 0x1020
 Yuka「No...」%K%P
@@ -653,7 +653,7 @@ Makoto「But it's all right...」%K%P
 Makoto「Because I'll get another chance...」%K%P
 
 0x1200
-Makoto「That's why―」%K%P
+Makoto「That's why—」%K%P
 
 0x120C
 Yuka「No! I absolutely can't let you... absolutely not...」%K%P
@@ -749,7 +749,7 @@ Makoto「Yuka!」%K%P
 I survey my surroundings, but I don't see Kurumi%Nanywhere.%K%P
 
 0x1488
-―Where's Yuka!?%K%P
+—Where's Yuka!?%K%P
 
 0x1494
 Right now, Yuka's trying to go through the small hole in%Nthe front wall.%K%P
@@ -770,10 +770,10 @@ Kurumi isn't here either.%K%P
 Only Yuka looks towards me, with eyes that seem to be%Nasking me something.%K%P
 
 0x1560
-―CRASH!%K%P
+—CRASH!%K%P
 
 0x156C
-―Rumble rumble!%K%P
+—Rumble rumble!%K%P
 
 0x1578
 The slanting shrine's wall... slowly draws near us.%K%P
@@ -785,7 +785,7 @@ Over the panicked Yuka's shoulder, I see segments of%Nthe thick pillars breaking
 In the next instant, I hear the sound of the shrine%Ncrumbling...%K%P
 
 0x15D4
-―What should I do!?%K%P
+—What should I do!?%K%P
 
 0x15E0
 My mind hesitates for a moment as I think this...%K%P
@@ -866,7 +866,7 @@ I can see her heavily dangling palm.%K%P
 On top of it is a small fragment of light...%K%P
 
 0x179C
-―The bell.%K%P
+—The bell.%K%P
 
 0x17A8
 I muster the last of my strength to crawl like an insect%Nover to Yuka's side.%K%P
@@ -896,16 +896,16 @@ Before long, from Yuka's palm...%K%P
 In that instant...%K%P
 
 0x1848
-―All light fades.%K%N
+—All light fades.%K%N
 
 0x1854
-―I've lost everything.%K%P
+—I've lost everything.%K%P
 
 0x18FC
 Yuka「I'll go with you, too...」%K%P
 
 0x1908
-―Huh!?%K%P
+—Huh!?%K%P
 
 0x1914
 In Yuka's palm is her bell.%K%P
@@ -929,7 +929,7 @@ At the same time, I hear the sound of the shrine%Ncrumbling...%K%P
 "I will definitely protect Yuka!"%K%P
 
 0x19DC
-―I don't hesitate for an instant!!%K%P
+—I don't hesitate for an instant!!%K%P
 
 0x19E8
 With all of my strength, I kick off the ground and leap%Ntowards her!%K%P

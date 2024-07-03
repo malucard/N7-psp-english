@@ -77,7 +77,7 @@ I repeat it like a mantra.%K%P
 My attention is drawn to the watch wrapped around my%Nleft wrist.%K%P
 
 0x2A4
-―12:30 A.M.%K%P
+—12:30 A.M.%K%P
 
 0x2B0
 The date's already changed to the 6th...%K%P
@@ -275,7 +275,7 @@ Makoto「I see... a puppy...」%K%P
 Just then...%K%P
 
 0x7A8
-―*Thump thump thump thump thump thump*...%K%P
+—*Thump thump thump thump thump thump*...%K%P
 
 0x7B4
 ... Izumi-san returns from upstairs.%K%P
@@ -323,7 +323,7 @@ Izumi「There's nothing that can be done about that. It's still too%Nearly.」%K
 Izumi「Besides... with this rain...」%K%P
 
 0x968
-Yuka「Aah... I'm feeling kinda melancholic～」%K%P
+Yuka「Aah... I'm feeling kinda melancholic〜」%K%P
 
 0x974
 Yuka「Ever since I was little, I've hated rain.」%K%P

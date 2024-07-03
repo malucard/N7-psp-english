@@ -32,10 +32,10 @@ Yuka「O Lighting! O Lightning! Please, don't strike me down!!」%K%P
 Yuka「ROARING ELECTRIC STRIKE!」%K%P
 
 0x100
-Makoto「―!?」%K%P
+Makoto「—!?」%K%P
 
 0x128
-―*SLAM!*...%K%P
+—*SLAM!*...%K%P
 
 0x13C
 ...%K%P
@@ -152,7 +152,7 @@ By the time I realize it, Yuka's splendid volley is settled in%Nthe right corner
 Yuka「It'll take more than that to beat me, Mr. Echizen.」%K%P
 
 0x448
-(D-Damn it～)%K%P
+(D-Damn it〜)%K%P
 
 0x454
 (Now it's "30-15"...)%K%P
@@ -167,7 +167,7 @@ I'm so mortified that I'm struck speechless.%K%P
 Yuka「Well then...」%K%P
 
 0x484
-Yuka「At this rate, I'll settle it in one blow～♪」%K%P
+Yuka「At this rate, I'll settle it in one blow〜♪」%K%P
 
 0x498
 I return the ball down the line.%K%P
@@ -191,7 +191,7 @@ By the time I realize it, Yuka's splendid volley is settled in%Nthe right corner
 Yuka「It'll take more than that to beat me, Mr. Echizen.」%K%P
 
 0x588
-(D-Damn it～)%K%P
+(D-Damn it〜)%K%P
 
 0x594
 (Now it's "30-15"...)%K%P
@@ -206,7 +206,7 @@ I'm so mortified that I'm struck speechless.%K%P
 Yuka「Well then...」%K%P
 
 0x5C4
-Yuka「At this rate, I'll settle it in one blow～♪」%K%P
+Yuka「At this rate, I'll settle it in one blow〜♪」%K%P
 
 0x5D8
 I just barely make it to the baseline, and lob the ball.%K%P
@@ -284,7 +284,7 @@ Straight.
 Just like that, I hit a crosscourt return.%K%P
 
 0x7EC
-―Oh crap!%K%P
+—Oh crap!%K%P
 
 0x7F8
 I completely screwed up the shot...%K%P
@@ -350,7 +350,7 @@ Wait for my chance.
 I immediately charge for the net.%K%P
 
 0x9EC
-―But!%K%P
+—But!%K%P
 
 0xA1C
 (Shit! This is bad!)%K%P
@@ -371,7 +371,7 @@ It flies over my head...%K%P
 ... and disappears into the forest...%K%P
 
 0xA6C
-Yuka「Ugh, I missed～」%K%P
+Yuka「Ugh, I missed〜」%K%P
 
 0xA78
 I let out a sigh of relief.%K%P
@@ -422,7 +422,7 @@ The ball slams into the court, then bounces up over the%Nfence and into the fore
 (All right! I'll lob it...)%K%P
 
 0xC00
-―Oh crap!%K%P
+—Oh crap!%K%P
 
 0xC0C
 I completely screwed up the shot...%K%P
@@ -575,7 +575,7 @@ The ball shoots up in the air, and loses speed as it%Nunsteadily heads for the g
 Yuka wildly charges towards where it'll fall.%K%P
 
 0x10C0
-(―No way! ―Will she make it!?)%K%P
+(—No way! —Will she make it!?)%K%P
 
 0x10CC
 And then...%K%P
@@ -608,7 +608,7 @@ Yuka pouts in frustration.%K%P
 Yuka hops back to the base line, and prepares another%Nball.%K%P
 
 0x1198
-Yuka「Here I go～♪」%K%P
+Yuka「Here I go〜♪」%K%P
 
 0x11A4
 Yuka「From all ages and all countries...」%K%P
@@ -698,7 +698,7 @@ Makoto「Um, um, um...」%K%P
 (No good! I can't think of anything!)%K%P
 
 0x16A8
-―*SLAM!*...%K%P
+—*SLAM!*...%K%P
 
 0x16B4
 The ball flies straight past the court, and crashes in the%Nfence behind me.%K%P

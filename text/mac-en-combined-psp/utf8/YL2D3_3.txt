@@ -11,7 +11,7 @@ After we finish eating Izumi-san's cream stew, we go on%Nthe Test of Courage Kur
 After we finish eating Izumi-san's meat-potato stew, we%Ngo on the Test of Courage Kurumi suggested.%K%P
 
 0xFC
-Kurumi「Well then, let's go～♪」%K%P
+Kurumi「Well then, let's go〜♪」%K%P
 
 0x108
 Kurumi takes the lead as she enters the forest...%K%P
@@ -113,7 +113,7 @@ Why did history change?%K%P
 I don't think I've done anything particularly different in%Nthese past few hours...%K%P
 
 0x39C
-―Ah!%K%P
+—Ah!%K%P
 
 0x3A8
 I see... That's it...%K%P
@@ -314,7 +314,7 @@ Saki「It feels like you're just like that boy if...」%K%P
 If... if... what?%K%P
 
 0x77C
-―Then, at that time.%K%P
+—Then, at that time.%K%P
 
 0x788
 ??「KYAAAAAAAAAAAAAAAAAA!!!」%K%P
@@ -503,7 +503,7 @@ Making up my mind, I jump out of my bed.%K%P
 As I absently stare at the ceiling, I think about today.%K%P
 
 0xD3C
-―Wednesday, April 3rd.%K%P
+—Wednesday, April 3rd.%K%P
 
 0xD48
 The April 3rd in the last loop had Saki getting pissed off%Nand storming away.%K%P
@@ -542,7 +542,7 @@ I close my eyes, and instantly fall into a peaceful sleep...%K%P
 As I soak in the hot water, I look back on today.%K%P
 
 0xEA8
-―Wednesday, April 3rd.%K%P
+—Wednesday, April 3rd.%K%P
 
 0xEB4
 The April 3rd in the last loop had Saki getting pissed off%Nand storming away.%K%P

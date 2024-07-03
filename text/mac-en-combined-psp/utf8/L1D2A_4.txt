@@ -293,7 +293,7 @@ Without listening to me, Yuka briskly walks over towards%Nthe parasol.%K%P
 (A hopeless dream.) I'm a little worried for some reason.%K%P
 
 0x7D8
-"But I do know-" ―"But I do know"... What was Yuka%Ngoing to say after that?%K%P
+"But I do know-" —"But I do know"... What was Yuka%Ngoing to say after that?%K%P
 
 0x7E4
 My heart is filled with a heavy sense of dread.%K%P
@@ -380,7 +380,7 @@ Yuka「Oh, Kurumi... yuu meen Kurumi-tan? Yesh yesh yesh yesh...」%K%P
 Makoto「If we don't hurry back, she'll be lonely.」%K%P
 
 0xAC0
-Yuka「H～～～mm............ Dash true.」%K%P
+Yuka「H〜〜〜mm............ Dash true.」%K%P
 
 0xACC
 Somehow, it seems I've managed to get her to agree with%Nme.%K%N

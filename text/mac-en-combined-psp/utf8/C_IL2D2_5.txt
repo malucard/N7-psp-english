@@ -119,7 +119,7 @@ Izumi「It's just... extremely remote from common sense...」%K%P
 Makoto「...」%K%P
 
 0x2F4
-Izumi「First... about 'Cur▲ Syndrome'...」%K%P
+Izumi「First... about 'Curé Syndrome'...」%K%P
 
 0x300
 Izumi「I'll begin by talking about that...」%K%P
@@ -128,7 +128,7 @@ Izumi「I'll begin by talking about that...」%K%P
 Makoto「W-Wait a minute!」%K%P
 
 0x318
-Makoto「'Cur▲ Syndrome'...」%K%P
+Makoto「'Curé Syndrome'...」%K%P
 
 0x324
 Makoto「Is that somehow connected to the time travel?」%K%P
@@ -161,7 +161,7 @@ Her eyes dart around the room as she runs a hand%Nthrough her hair. Finally, Izu
 Izumi「This is something that I haven't told Okuhiko...」%K%P
 
 0x3E0
-Izumi「I only mentioned two traits of Cur▲ Syndrome%Nyesterday...」%K%P
+Izumi「I only mentioned two traits of Curé Syndrome%Nyesterday...」%K%P
 
 0x3EC
 Izumi「But there's actually one more...」%K%P
@@ -206,10 +206,10 @@ Izumi「But that mental illness was already called 'Shared%NPsychotic Disorder',
 Makoto「So then... it was like this?」%K%P
 
 0x49C
-Makoto「In short, when examining Tom's symptoms, Dr. Cabin%Ndiscovered a different trait that wasn't part of 'Shared%NPsychotic Disorder'―'The Third Trait'.」%K%P
+Makoto「In short, when examining Tom's symptoms, Dr. Cabin%Ndiscovered a different trait that wasn't part of 'Shared%NPsychotic Disorder'—'The Third Trait'.」%K%P
 
 0x4A8
-Makoto「That's precisely why he had to define it with a new name:%N'Cur▲ Syndrome'.」%K%P
+Makoto「That's precisely why he had to define it with a new name:%N'Curé Syndrome'.」%K%P
 
 0x4BC
 Izumi「Yes, that's right...」%K%P
@@ -257,16 +257,16 @@ Izumi「Makoto-kun...」%K%P
 Izumi「Calmly listen to me.」%K%P
 
 0x588
-Izumi「About Cur▲ Syndrome's 'Third Trait'.」%K%P
+Izumi「About Curé Syndrome's 'Third Trait'.」%K%P
 
 0x594
-Izumi「The truth is, it's related to the 'Schr▼dinger's cat' Kurumi%Nwas talking about.」%K%P
+Izumi「The truth is, it's related to the 'Schrödinger's cat' Kurumi%Nwas talking about.」%K%P
 
 0x5A0
-Makoto「Schr▼dinger's cat!?」%K%P
+Makoto「Schrödinger's cat!?」%K%P
 
 0x5C4
-―Then, just before she can reply!%K%P
+—Then, just before she can reply!%K%P
 
 0x618
 Haruka「Ah...」%K%P
@@ -461,7 +461,7 @@ I promise to go fishing with Haruka, and crawl under the%Ncovers of my bed.%K%P
 "The Third Trait."%K
 
 0xA98
-"Schr▼dinger's cat."%K%P
+"Schrödinger's cat."%K%P
 
 0xAA4
 Just how are they all connected?%K%P
@@ -476,7 +476,7 @@ But even though I want to, I can't.%K%P
 She's asleep now, stuck between Yuka and Kurumi like a%Nsandwich.%K%P
 
 0xAD4
-(Ah... just what is this "Schr▼dinger's cat"!?)%K%P
+(Ah... just what is this "Schrödinger's cat"!?)%K%P
 
 0xAE0
 (What is "The Third Trait"!!?)%K%P

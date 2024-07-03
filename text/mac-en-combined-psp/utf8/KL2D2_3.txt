@@ -29,7 +29,7 @@ Soon, Izumi-san will probably start telling the others the%Nstory of the "Shiki 
 If possible, I want these seven days to end without%NKurumi learning about the shrine.%K%P
 
 0xE8
-What's Kurumi's connection to the shrine? ―I still%Ndon't know...%K%P
+What's Kurumi's connection to the shrine? —I still%Ndon't know...%K%P
 
 0xF4
 Kurumi「Talk?」%K%P
@@ -215,7 +215,7 @@ That means that if I can prevent that conversation, then%NI can avert that trage
 I can't do anything about events that have already%Noccurred, after all.%K%P
 
 0x548
-―Anyway, I've got to think positively!%W%W%N%N
+—Anyway, I've got to think positively!%W%W%N%N
 
 0x554
 I immediately pull myself together.%K%P

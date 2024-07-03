@@ -341,7 +341,7 @@ I already told her I'd help with whatever she wanted me%Nto, so there's no way I
 A man's word is his honor.%K%P
 
 0x764
-Izumi「Really? You're a lifesaver～♪」%K%P
+Izumi「Really? You're a lifesaver〜♪」%K%P
 
 0x770
 Izumi「Thank you, Makoto-kun♪」%K%P
@@ -383,7 +383,7 @@ Makoto「It's no problem at all! This much will be a piece of cake!」%K%P
 Makoto「That's too little! It's simple! It'll be easy! Please leave it to%Nme!」%K%P
 
 0x814
-Izumi「Huh? Really? You're a lifesaver～♪」%K%P
+Izumi「Huh? Really? You're a lifesaver〜♪」%K%P
 
 0x820
 Izumi「Thank you, Makoto-kun♪」%K%P
@@ -425,7 +425,7 @@ Even it's too late, I'm regretting forcing myself to%Nundertake such a Herculean
 And... Just then...%K%P
 
 0x95C
-―An earthquake hits.%K%P
+—An earthquake hits.%K%P
 
 0x968
 It feels stronger than the one on the 1st...%K%P
@@ -521,7 +521,7 @@ I finished window cleaning much earlier than I had%Nexpected, thanks to a salt r
 "A salt removing detergent."%N%N
 
 0xBD4
-―I never knew until now something like that existed in%Nthis world.%K%P
+—I never knew until now something like that existed in%Nthis world.%K%P
 
 0xBE8
 This is the same feeling of culture shock I felt in the past%Nwhen a friend of mine who worked in a screw factory%Nproudly showed me a magazine called "Monthly Toolbox".%K%N%N
@@ -803,10 +803,10 @@ Makoto「Yes...」%K%P
 Izumi「No way, you know that I made up that story...?」%K%P
 
 0x1168
-―Made up!?%K%P
+—Made up!?%K%P
 
 0x1174
-―So that means she created the story about the God%Nof Demons!?%K%P
+—So that means she created the story about the God%Nof Demons!?%K%P
 
 0x1180
 Makoto「Yeah, I did...」%K%P
@@ -860,7 +860,7 @@ She softly runs her hand through her soft hair as a%Ngentle breeze strokes it...
 It's clear from her sorrow filled eyes that she's brooding%Nabout something...%K%P
 
 0x12F0
-This is beginning to feel like d▲j▽ vu.%K%P
+This is beginning to feel like déjà vu.%K%P
 
 0x12FC
 I've seen a pair of eyes like that quite recently before,%Neyes full of secrets kept locked away.%K%P
@@ -986,7 +986,7 @@ Izumi「The truth is...」%K%P
 Izumi「... Kurumi... might not be my real sister...」%K%P
 
 0x152C
-―What!?%K%P
+—What!?%K%P
 
 0x1538
 I can't say a word...%K%P
@@ -1010,7 +1010,7 @@ Izumi「To put it accurately, she was kidnapped...」%K%P
 Makoto「K-Kidnapped!?」%K%P
 
 0x158C
-―And just then!%K%P
+—And just then!%K%P
 
 0x15CC
 Kurumi「Ah! Finally found you...」%K%P
@@ -1043,7 +1043,7 @@ Kurumi「If we go back now... hmm... We'll be ten minutes late, right?」%K%P
 I look at my watch.%K%P
 
 0x1674
-"4:40 P.M."―On foot, it's about half an hour from here%Nto Lunabeach...%K%P
+"4:40 P.M."—On foot, it's about half an hour from here%Nto Lunabeach...%K%P
 
 0x1680
 ... Kurumi's right.%K%P
@@ -1103,13 +1103,13 @@ Kurumi pushes Izumi-san and I forward, and we get into%Nthe taxi.%K%P
 In the end, I never got to hear the rest of Izumi-san's%Nstory.%K%P
 
 0x177C
-―Kurumi's kidnapping...%K%P
+—Kurumi's kidnapping...%K%P
 
 0x1788
-―The reason Izumi-san doesn't want Kurumi to go to%Nthe shrine...%K%P
+—The reason Izumi-san doesn't want Kurumi to go to%Nthe shrine...%K%P
 
 0x1794
-―And the fact that Kurumi may not be Izumi-san's%Nsister...%K%P
+—And the fact that Kurumi may not be Izumi-san's%Nsister...%K%P
 
 0x17A0
 Just where is the so-called tangent point between%Nthese three stories?%K%P

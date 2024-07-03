@@ -164,7 +164,7 @@ Yuka「?」%K%P
 Makoto「Your reason for wanting to go back to the past...」%K%P
 
 0x498
-Yuka「... But... that's alread―」%K%P
+Yuka「... But... that's alread—」%K%P
 
 0x4A4
 Makoto「I don't even know what it is...」%K%P
@@ -767,10 +767,10 @@ No, I don't want to think about anything.%K%P
 That shocking truth feels like it just punched me in the%Ngut.%K%P
 
 0x10D4
-―I'm similar to that boy...%K%P
+—I'm similar to that boy...%K%P
 
 0x10E0
-―How ironic...%K%P
+—How ironic...%K%P
 
 0x10EC
 I suddenly get dizzy, and I feel a pain in my head as if my%Nbrain tissues were oozing pus.%K%P

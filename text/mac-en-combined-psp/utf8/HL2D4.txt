@@ -53,7 +53,7 @@ I get out of my bed and pace around my room.%K%P
 By my second lap around the room, I finally realize that%Nthis is pointless, and stop.%K%P
 
 0x334
-―Today is Thursday, April 4th.%K%N
+—Today is Thursday, April 4th.%K%N
 
 0x340
 I don't have much time left.%K%P

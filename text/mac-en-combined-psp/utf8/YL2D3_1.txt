@@ -92,7 +92,7 @@ I try to say this, but then I notice something I didn't%Nearlier.%K%P
 Right next to Yuka is Kurumi...%K%P
 
 0x3A0
-―Kurumi's here!?%K%P
+—Kurumi's here!?%K%P
 
 0x3B4
 Yuka「Kurumi-chan also helped out.」%K%P
@@ -173,7 +173,7 @@ Yuka「Nothing really. It's nothing, it's nothing.」%K%P
 Kurumi「It's not nothing, is it? What you did just now was too%Nsuspicious!」%K%P
 
 0x544
-Yuka「You think so～?」%K%P
+Yuka「You think so〜?」%K%P
 
 0x558
 Kurumi「Of course!」%K%P

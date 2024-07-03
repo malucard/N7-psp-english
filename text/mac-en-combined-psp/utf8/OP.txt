@@ -32,7 +32,7 @@ With every breath I take, my windpipe and lungs let out a%Ndry sound as if they'
 That heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
 
 0x1B0
-―A bell?%K%P
+—A bell?%K%P
 
 0x1BC
 It's a small sphere... The smooth, metal surface shines as%Nit emits a cold light.%K%P
@@ -77,7 +77,7 @@ A completely... empty shell.%K%P
 Today is Saturday, April 6th, 2019.%K%N
 
 0x2C4
-―I've lost her.%K%P
+—I've lost her.%K%P
 
 0x2D0
 (Why...?)%K%P

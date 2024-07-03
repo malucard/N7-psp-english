@@ -74,7 +74,7 @@ But for now, I'll humor her.%K%P
 In that short period of time, I try to make my decision.%K%P
 
 0x19C
-―Should I go? ―Or should I not?%K%P
+—Should I go? —Or should I not?%K%P
 
 0x1A8
 It's not like I completely believe Izumi-san's story, but%Nthat's not the real part that bothers me.%K%P
@@ -269,7 +269,7 @@ And then, in the instant Kurumi mutters this!%K%P
 ??「HEY!!!」%K%P
 
 0x588
-―A shout that could pierce the darkness breaks out%Nlike a roar!%K%P
+—A shout that could pierce the darkness breaks out%Nlike a roar!%K%P
 
 0x594
 ??「Who the hell are you damn kids!!!?」%K%P
@@ -434,7 +434,7 @@ And then, in the instant I yell this!%K%P
 ??「HEY!!!」%K%P
 
 0x938
-―A shout that could pierce the darkness breaks out%Nlike a roar!%K%P
+—A shout that could pierce the darkness breaks out%Nlike a roar!%K%P
 
 0x944
 ??「Who the hell are you damn kids!!!?」%K%P

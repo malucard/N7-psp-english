@@ -89,7 +89,7 @@ Recall last night's events.
 Talk to Okuhiko.
 
 0x258
-―Sunday, March 31st.%K%N
+—Sunday, March 31st.%K%N
 
 0x264
 When I arrived here, it was a little past 10:00 at night.%K%P
@@ -113,13 +113,13 @@ Maybe it's a vacation spot for the college's staff.%K%P
 The room was filled with a mysterious atmosphere that%Nseemed uncharacteristic.%K%P
 
 0x2DC
-―A lone girl was sitting on the floor, clutching her%Nknees.%K%P
+—A lone girl was sitting on the floor, clutching her%Nknees.%K%P
 
 0x2E8
-―I saw another sitting at the dining table, spacing out%Nwhile resting her chin in her hands.%K%P
+—I saw another sitting at the dining table, spacing out%Nwhile resting her chin in her hands.%K%P
 
 0x2F4
-―A man was reclining on the sofa, swirling a wine glass%Nin his hand.%K%P
+—A man was reclining on the sofa, swirling a wine glass%Nin his hand.%K%P
 
 0x300
 No one spoke to each other; I don't even think there was%Nany conversation to begin with.%K%P
@@ -134,7 +134,7 @@ No, I could occasionally hear the faint sound of the man%Ngulping down his wine,
 Before long, the girl from the round table noticed me...%K%P
 
 0x338
-??「Ah, glad you could make it～」%K%P
+??「Ah, glad you could make it〜」%K%P
 
 0x344
 ... Is what she said.%K%P
@@ -200,7 +200,7 @@ Makoto「... Nice to... meet you too...」%K%P
 I was so startled that I messed up my greeting. I couldn't%Nhelp it, though.%K%P
 
 0x478
-"Okuhiko Iida"―I couldn't believe the infamous%N"Okuhiko" was in the same group as me!%K%P
+"Okuhiko Iida"—I couldn't believe the infamous%N"Okuhiko" was in the same group as me!%K%P
 
 0x484
 Suddenly, I began to contemplate whether or not to fake%Nan illness so I could go home.%K%N

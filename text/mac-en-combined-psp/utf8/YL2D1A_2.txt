@@ -68,7 +68,7 @@ My heart beats very loudly at those words.%K%P
 That was the night I made that vow...%K%P
 
 0x148
-To... protect Y―%K%P
+To... protect Y—%K%P
 
 0x15C
 Yuka「It looks like we've gone back to the starting point.」%K%P
@@ -146,7 +146,7 @@ I am surprised by her tone.%K%P
 In a matter of seconds, she's gone from an extremely%Nserious tone to an almost unimaginably cheerful voice.%K%P
 
 0x328
-"Pretend that nothing happened."―Yuka is really%Ntrying her best to do so.%K%P
+"Pretend that nothing happened."—Yuka is really%Ntrying her best to do so.%K%P
 
 0x344
 Okuhiko「Hey!」%K%P
@@ -284,7 +284,7 @@ I say this timidly.%K%P
 Right as I say that, Yuka stomps on my tiptoes!%K%P
 
 0x5EC
-―Damn, this really hurts! ... But I've got to endure it!%K%P
+—Damn, this really hurts! ... But I've got to endure it!%K%P
 
 0x600
 Okuhiko「Huh!?」%K%P
@@ -428,7 +428,7 @@ Okuhiko「I can just tell it's going to be hard going... Hang in there,%Nleader.
 Our guess was right after all.%K%P
 
 0x8B4
-Today is Monday, April 1st ―My watch was correct.%K%P
+Today is Monday, April 1st —My watch was correct.%K%P
 
 0x8C8
 Yuka「Ah!」%K%P
@@ -497,7 +497,7 @@ Yuka「Never say anything like what you said earlier again, all%Nright!?」%K%P
 Yuka「For now, can you act like you usually do, like you did just%Nnow?」%K%P
 
 0xA8C
-Makoto「But―」%K%P
+Makoto「But—」%K%P
 
 0xAA0
 Yuka「It's fine! Just do as I say!」%K%P
@@ -761,7 +761,7 @@ Yuka「Well then, what's the name on the receiver's address?」%K%P
 Kurumi「A-S-A-K-U-R-A... it says Asakura here.」%K%P
 
 0x12CC
-Yuka「See? Unfortunately, there isn't anyone here named―」%K%P
+Yuka「See? Unfortunately, there isn't anyone here named—」%K%P
 
 0x12D8
 Haruka「Wait...」%K%P

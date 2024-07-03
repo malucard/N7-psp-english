@@ -149,7 +149,7 @@ Despite the height, Yuka easily gets down onto the%Nbeach.%K%P
 Okuhiko and I go after her.%K%P
 
 0x3D8
-―Then, at that moment!%K%P
+—Then, at that moment!%K%P
 
 0x484
 I hear a loud thud from behind me, causing me to turn%Naround.%K%P
@@ -248,7 +248,7 @@ As if trying to cover up her trembling, she quickly gets%Nto her feet and moves 
 ... For a little while, I stand frozen in place, dumbfounded.%K%P
 
 0x6DC
-―Was that d▲j▽-vu? No...%K%P
+—Was that déjà-vu? No...%K%P
 
 0x6E8
 That's the phenomenon where after an event occurs,%Nyou're under the delusion you've experienced that%Nevent before.%K%P

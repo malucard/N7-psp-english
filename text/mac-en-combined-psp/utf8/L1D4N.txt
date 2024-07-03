@@ -32,7 +32,7 @@ Against my will, I'm suddenly dragged into an intense%Ndrowsiness that's wrappin
 Despite my efforts, I lose consciousness in the blink of%Nan eye...%K%P
 
 0x304
-(Haruka and Saki― What exactly is their history?)%K%P
+(Haruka and Saki— What exactly is their history?)%K%P
 
 0x310
 ("Bell"... So was the "bell" Haruka mentioned the same as%Nthat one'?)%K%P
@@ -53,7 +53,7 @@ Haruka「Will you protect me?」%K%P
 Just before I fall asleep... I feel like I can hear Haruka's%Nwhispering voice in my head...%K%P
 
 0x360
-(Saki and Haruka―What exactly is their history?)%K%P
+(Saki and Haruka—What exactly is their history?)%K%P
 
 0x36C
 Haruka「You're lying! You're lying! Give it back! Give me back that%N'bell'!」%K%P
@@ -86,7 +86,7 @@ Though I don't want to, I find myself drifting off to sleep.%K%P
 Despite my efforts, I lose consciousness in the blink of%Nan eye...%K%P
 
 0x478
-―Suddenly, I hear the sound of something bursting%Nopen.%K%P
+—Suddenly, I hear the sound of something bursting%Nopen.%K%P
 
 0x484
 Surprised by the sound, I frantically jump off the bed to%Nmy feet.%K%P
@@ -320,7 +320,7 @@ And then she told us the story about the shrine%Nafterwards...%K%P
 ...???%K%P
 
 0xB3C
-―The shrine!?%K%P
+—The shrine!?%K%P
 
 0xB48
 That's right, she could be at the shrine!%K%P
@@ -852,9 +852,9 @@ I walk in an absentminded manner, as if my soul was%Nsomehow drained from my bod
 Yuka「But Kurumi-chan... why were you in a place like this?」%K%P
 0x172C
 ──優夏が言ったその時だった。%K%P
-―Yuka asks this.%K%P
+—Yuka asks this.%K%P
 0x1774
-―The sound of a bell!?%K%P
+—The sound of a bell!?%K%P
 
 0x1780
 I heard it from behind me.%K%P
@@ -893,7 +893,7 @@ I try gently holding my hands out to the bell.%K%P
 I realize there's a faint wind blowing from somewhere.%K%P
 
 0x1874
-―Is there a draft?%K%P
+—Is there a draft?%K%P
 
 0x1880
 I try looking around and investigating my surroundings.%K%P
@@ -959,7 +959,7 @@ It's the shrine, its image vaguely materializing in the%Ndarkness...%K%P
 A wooden, rectangular sign is hanging under the eaves.%K%P
 
 0x1A20
-"Shiki no Mori" ―That's what's written on it.%K%P
+"Shiki no Mori" —That's what's written on it.%K%P
 
 0x1A70
 Being under the streetlights has made Kurumi and Yuka a%Nlot calmer than they were earlier.%K%P
@@ -1052,7 +1052,7 @@ It's likely that there could have been a subtle fragrance%Nin that shrine that o
 Kurumi tries to keep close to Yuka and I, and before I%Nknow it, she's smiling.%K%P
 
 0x1C84
-Kurumi「Kurumi's home～♪」%K%P
+Kurumi「Kurumi's home〜♪」%K%P
 
 0x1C90
 When she hears that voice, Izumi-san quickly stands up.%K%P

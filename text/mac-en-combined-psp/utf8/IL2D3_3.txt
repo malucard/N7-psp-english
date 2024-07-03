@@ -275,7 +275,7 @@ Me - Yuka.%K%N
 Haruka - Izumi-san.%K%N
 
 0x668
-Okuhiko ― all alone.%K%P
+Okuhiko — all alone.%K%P
 
 0x67C
 Okuhiko dejectedly sits down on a nearby tombstone...%K%P
@@ -296,7 +296,7 @@ Makoto「Good for you.」%K%P
 Yuka「Wh-What the hell!? In the first place, if you hadn't%Nrejected me, then...」%K%P
 
 0x760
-―Suddenly, the bushes shake.%K%P
+—Suddenly, the bushes shake.%K%P
 
 0x774
 Yuka「KYAAAAA!」%K%P
@@ -581,7 +581,7 @@ Once again, we begin walking towards the old well.%K%P
 ... ... ...%K%P
 
 0xD34
-―Suddenly!!%K%P
+—Suddenly!!%K%P
 
 0xD78
 The bushes shake violently.%K%N

@@ -65,7 +65,7 @@ In her palm...%K%P
 ... is...%K%P
 
 0x194
-―The bell!!%K%P
+—The bell!!%K%P
 
 0x1A0
 There's no doubt about it!%K%N
@@ -125,13 +125,13 @@ Kurumi「Kurumi just picked up something a little interesting...」%K%P
 It was... that bell?%K%P
 
 0x2E8
-―Impossible!%K%P
+—Impossible!%K%P
 
 0x2F4
-―Why!? ―Why!?%K%P
+—Why!? —Why!?%K%P
 
 0x300
-―Why Izumi-san, of all people!!?%K%P
+—Why Izumi-san, of all people!!?%K%P
 
 0x330
 Izumi「M-Makoto-kun... what's wrong? Your face is scary...」%K%P
@@ -161,13 +161,13 @@ Izumi-san nervously stretches her palm out, frightened%Nby my angry voice.%K%P
 I quickly snatch the bell from her palm.%K%P
 
 0x3BC
-And then, with all my might―I throw it to the ground!%K%P
+And then, with all my might—I throw it to the ground!%K%P
 
 0x3C8
-―Clang!%K%N
+—Clang!%K%N
 
 0x3D4
-―Ring, ring...%K%P
+—Ring, ring...%K%P
 
 0x3E0
 Haruka「Huh...!?」%K%P
@@ -251,7 +251,7 @@ Makoto「If you have it...」%K%P
 Makoto「Then you...」%K%P
 
 0x54C
-Makoto「―might die!!」%K%P
+Makoto「—might die!!」%K%P
 
 0x560
 Izumi「...!?」%K%P
@@ -395,7 +395,7 @@ Okuhiko「Allow me to cut to the chase...」%K%P
 Okuhiko「Ishihara, you've been...」%K%P
 
 0x830
-Okuhiko「―deceived by us!」%K%P
+Okuhiko「—deceived by us!」%K%P
 
 0x83C
 Makoto「Deceived... me...?」%K%P
@@ -566,7 +566,7 @@ Makoto「When you said 'Don't worry' during the Test of Courage,%Nthat's what yo
 Makoto「And that night... The words you told me at Viewpoint Park...」%K%P
 
 0xB88
-Makoto「―From the beginning to the end, was everything a lie!?」%K%P
+Makoto「—From the beginning to the end, was everything a lie!?」%K%P
 
 0xB9C
 Izumi「... You're wrong... You're wrong...」%K%P
@@ -641,7 +641,7 @@ Izumi「... is whether you can believe it or not, isn't it...?」%K%P
 Izumi-san's words from back then come back to me.%K%P
 
 0xDD0
-―Izumi-san!%K%P
+—Izumi-san!%K%P
 
 0xE08
 I fly out of the shop, chasing after Izumi-san as fast as%Nlightning!%K%P

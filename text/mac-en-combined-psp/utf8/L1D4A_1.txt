@@ -131,7 +131,7 @@ Makoto「Hmm? ... Zzz...」%K%P
 ??「Geez, if you don't wake up soon, aren't you going to be%Nlate!?」%K%P
 
 0x420
-―L-Late!?%K%P
+—L-Late!?%K%P
 
 0x42C
 Once I realize the meaning of those words, I frantically%Njump to my feet.%K%P

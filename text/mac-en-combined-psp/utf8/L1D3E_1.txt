@@ -2,7 +2,7 @@ text area offset and size:
 0x698
 0x102F
 0x5C
-―And so, we didn't stop fishing until the late%Nafternoon.%K%P
+—And so, we didn't stop fishing until the late%Nafternoon.%K%P
 
 0x84
 We only took a break to head back to Lunabeach for%Nlunch. We caught nothing, since Haruka released every%Nsingle fish she caught.%K%P
@@ -224,7 +224,7 @@ When I return Haruka's gaze, a faint blush appears on%Nher cheeks. She quickly a
 I can't comprehend how I feel. It's like happiness... but I%Ncan't quite explain it...%K%P
 
 0x534
-―The sun is setting. We decide to finish putting away%Nthe fishing gear.%K%P
+—The sun is setting. We decide to finish putting away%Nthe fishing gear.%K%P
 
 0x540
 Our heightened awareness of each other made the trip%Nback to the lodge a quiet one.%K%P

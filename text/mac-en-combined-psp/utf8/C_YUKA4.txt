@@ -398,7 +398,7 @@ Izumi「By the way, Saki-chan, is that perfume you're using lilac?」%K%P
 Saki「Oh, you noticed? It's a blend of lilac and fruit...」%K%P
 
 0xABC
-Izumi「Could it be... that you're in love with someone,%NSaki-chan～?♪」%K%P
+Izumi「Could it be... that you're in love with someone,%NSaki-chan〜?♪」%K%P
 
 0xAC8
 Yuka「...」%K%P
@@ -416,7 +416,7 @@ Saki「Shut the hell up, it's mine! Besides, I don't see your name%Nwritten anyw
 Makoto「Mmmmmmmph...」%K%P
 
 0xB1C
-Makoto「Yukaaaa, do something about her! I can't deal with rich%Ngirls～」%K%P
+Makoto「Yukaaaa, do something about her! I can't deal with rich%Ngirls〜」%K%P
 
 0xB28
 Yuka「...」%K%P
@@ -659,7 +659,7 @@ Boy「...」%K%P
 Boy「The cat keychain.」%K%P
 
 0x1104
-Yuka「―!?」%K%P
+Yuka「—!?」%K%P
 
 0x1110
 "I'll give this to you, so don't cry anymore..."%K%P
@@ -959,7 +959,7 @@ Makoto「...」%K%P
 Yuka「Mako-tan, the trufe ish ...eye alsho lo...」%K%P
 
 0x1810
-(―Huh?)%K%P
+(—Huh?)%K%P
 
 0x181C
 ...I sober up...%K%P
@@ -1052,7 +1052,7 @@ Makoto shrugs his shoulders.%K%P
 He might be thinking "I should've waited until she%Nsobered up."%K%P
 
 0x1A80
-―And, at that time!%K%P
+—And, at that time!%K%P
 
 0x1AB4
 The sound of water splashing echoes!%K%P
@@ -1067,7 +1067,7 @@ I don't need to turn around to understand the situation.%K%P
 Saki's hand accidentally slipped, and she spilled the%Nbeer in her paper cup on me.%K%P
 
 0x1AE4
-(―Huh???)%K%P
+(—Huh???)%K%P
 
 0x1AF0
 (...Me???)%K%P
@@ -1088,7 +1088,7 @@ By the iron plate... Saki is holding a now empty paper cup.%K%P
 And the beer has landed on...%K%P
 
 0x1B6C
-―Kurumi-chan!%K%P
+—Kurumi-chan!%K%P
 
 0x1B78
 Kurumi's clothes are soaked from her chest to the%Nbottom of her shirt.%K%P

@@ -41,7 +41,7 @@ Makoto「Izumi-san...」%K%P
 As I say this, I grab Izumi-san by the arm...%K%N
 
 0x120
-―And then drag her between the tombstones!%K%P
+—And then drag her between the tombstones!%K%P
 
 0x134
 Izumi「Huh? Huh? What? What?」%K%P
@@ -254,10 +254,10 @@ Izumi「Then shall we begin?」%K%P
 Her voice echoes in the darkness, as if she were%Ndeclaring the start of a solemn ceremony.%K%P
 
 0x578
-Izumi「Schr▼dinger's cat.」%K%P
+Izumi「Schrödinger's cat.」%K%P
 
 0x584
-Izumi「The Third Trait of Cur▲ Syndrome.」%K%P
+Izumi「The Third Trait of Curé Syndrome.」%K%P
 
 0x590
 Izumi「Makoto-kun... do you know how these two are%Nconnected?」%K%P
@@ -272,7 +272,7 @@ Makoto「In the first place, I don't know a thing about The Third%NTrait...」%K
 Izumi「Yes.」%K%P
 
 0x5C0
-Izumi「But you do know what Schr▼dinger's cat is, right,%NMakoto-kun?」%K%P
+Izumi「But you do know what Schrödinger's cat is, right,%NMakoto-kun?」%K%P
 
 0x5CC
 Makoto「I didn't so much 'know' it as much as I 'learned' about it.」%K%P
@@ -374,7 +374,7 @@ Izumi「The observer's wish completely changing the truth of%Nthe past.」%K%P
 Izumi「There's a phenomenon described as such that's%Nactually been published as a thesis.」%K%P
 
 0x768
-Izumi「The name of the person who wrote that thesis―is%NMichael Cabin.」%K%P
+Izumi「The name of the person who wrote that thesis—is%NMichael Cabin.」%K%P
 
 0x774
 Makoto「What!? That's the man who counseled Tom...」%K%P
@@ -383,7 +383,7 @@ Makoto「What!? That's the man who counseled Tom...」%K%P
 Izumi「Yes... the very same Dr. Cabin.」%K%P
 
 0x78C
-Makoto「Then, The Third Trait of Cur▲ Syndrome is-」%K%P
+Makoto「Then, The Third Trait of Curé Syndrome is-」%K%P
 
 0x7A0
 Izumi「Wait!」%K%P
@@ -506,7 +506,7 @@ Izumi「When Dr. Cabin noticed this, he discussed it with his%Nfellow doctors.�
 Izumi「However, the doctors didn't listen to such a strange,%Noccult-like story.」%K%P
 
 0x9C4
-Izumi「In the end, Dr. Cabin decided to investigate the origin of%N'Cure'―the phenomenon known as the 'Immortality%NContagion'―all alone.」%K%P
+Izumi「In the end, Dr. Cabin decided to investigate the origin of%N'Cure'—the phenomenon known as the 'Immortality%NContagion'—all alone.」%K%P
 
 0x9D0
 Izumi「Before long, several months had passed, and Dr. Cabin%Nfinally reached a hypothesis.」%K%P
@@ -584,13 +584,13 @@ Izumi「Dr. Cabin then considered this.」%K%P
 Izumi「The religious miracles from all ages and countries might%Nbe similar to this phenomenon.」%K%P
 
 0xBCC
-Izumi「―That's why it's Cur▲ Syndrome.」%K%P
+Izumi「—That's why it's Curé Syndrome.」%K%P
 
 0xBD8
-Izumi「In French, the word 'cur▲' refers to a 'curate', or a%N'senior parish priest'.」%K%P
+Izumi「In French, the word 'curé' refers to a 'curate', or a%N'senior parish priest'.」%K%P
 
 0xBE4
-Makoto「So that's why he used the French word 'cur▲' instead of%Nthe English word 'cure'... Wait, then The Third Trait of Cur▲%NSyndrome is...」%K%P
+Makoto「So that's why he used the French word 'curé' instead of%Nthe English word 'cure'... Wait, then The Third Trait of Curé%NSyndrome is...」%K%P
 
 0xBF8
 Izumi「That's right...」%K%P

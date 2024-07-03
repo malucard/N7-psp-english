@@ -98,7 +98,7 @@ We hear a tremendous noise breaking out from the%Nbottom of the earth.%K%P
 *Rumble, Rumble, Rumble!* The pier shakes intensely.%K%P
 
 0x2F4
-―It's an earthquake.%K%P
+—It's an earthquake.%K%P
 
 0x308
 Haruka「Aah...!」%K%P
@@ -194,7 +194,7 @@ Haruka「...」%K%P
 Makoto「...」%K%P
 
 0x5A0
-―In the time that exchange happened, the morning%Npassed by.%K%P
+—In the time that exchange happened, the morning%Npassed by.%K%P
 
 0x5AC
 As usual, we went to Lunabeach for lunch, then returned%Nto the pier.%K%P
@@ -506,7 +506,7 @@ Saki「I'm not lying!」%K%P
 Haruka「You're lying! You're lying! Give it back! Give me back that%N'bell'!」%K%P
 
 0xCD8
-―"Bell"!? Did she just say "bell"!?%K%N
+—"Bell"!? Did she just say "bell"!?%K%N
 
 0xCE4
 The thing Saki stole from Haruka was a "bell"!?%K%P
@@ -551,7 +551,7 @@ Haruka steadily closes the distance between her and%NSaki as she throws a furiou
 Saki slowly shakes her head.%K%P
 
 0xD9C
-Haruka grabs Saki's hand again, but this time― Saki%Nthrusts Haruka away with all her strength!%K%P
+Haruka grabs Saki's hand again, but this time— Saki%Nthrusts Haruka away with all her strength!%K%P
 
 0xDA8
 Haruka falls flat on her back.%K%N
@@ -677,7 +677,7 @@ Haruka and I head towards Lunabeach.%K%P
 It's almost time to meet Yuka and the others.%K%P
 
 0x10F4
-―After that incident, Haruka and I just quietly passed%Nthe time together.%K%P
+—After that incident, Haruka and I just quietly passed%Nthe time together.%K%P
 
 0x1100
 All while listening to the sea breeze and the roar of the%Nwaves...%K%P

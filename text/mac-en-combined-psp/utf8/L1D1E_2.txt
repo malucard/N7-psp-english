@@ -2,13 +2,13 @@ text area offset and size:
 0x2C50
 0x7260
 0xA4
-Yuka「Wow, to think there'd be a caf▲ here...」%K%P
+Yuka「Wow, to think there'd be a café here...」%K%P
 
 0xB0
 Yuka says this on our way to the shopping district, as%Nwe walk on a paved road alongside the coastline.%K%P
 
 0xBC
-I didn't notice it until she said it, but there is indeed a%Nlone caf▲ erected by the road.%K%P
+I didn't notice it until she said it, but there is indeed a%Nlone café erected by the road.%K%P
 
 0xC8
 It's a two story building made of wood, with a blue%Ntriangular roof, and white-washed walls. The walls are%Ngiven a rosy hue by the setting sun gently shining on it.%K%P
@@ -32,7 +32,7 @@ Lunabeach... huh.%K%P
 The front door has has a plate with the word "OPEN"%Nwritten on it.%K%P
 
 0x168
-After a little while, we stop walking as we take in the sight%Nof the caf▲ interweaving itself with the late afternoon%Nsky.%K%P
+After a little while, we stop walking as we take in the sight%Nof the café interweaving itself with the late afternoon%Nsky.%K%P
 
 0x174
 ??「Huh? Could you be...」%K%P
@@ -44,7 +44,7 @@ Makoto「Huh?」%K%P
 I search for the owner of that voice. It sounds familiar...%K%P
 
 0x198
-... It came from the back of the caf▲.%K%N
+... It came from the back of the café.%K%N
 
 0x1A4
 I see a girl standing there with a broom in her hands.%NShe's staring right at us.%K%P
@@ -122,7 +122,7 @@ Everybody's attention immediately turns towards her.%K%P
 Okuhiko「You're right, I'm a little tired from all that walking. Yeah,%Nlet's do that.」%K%P
 
 0x36C
-??「Ah, yeah, yeah. Do it～♪」%K%P
+??「Ah, yeah, yeah. Do it〜♪」%K%P
 
 0x378
 This gives Yuka's idea two votes of approval.%K%P
@@ -209,7 +209,7 @@ The girl replies to my answer with a satisfied smile.%K%P
 The girl guides us through Lunabeach's entrance.%K%P
 
 0x5B8
-??「Onee-chan, we have customers～♪」%K%P
+??「Onee-chan, we have customers〜♪」%K%P
 
 0x5C4
 ... Huh? Onee... chan?%K%P
@@ -497,7 +497,7 @@ Izumi「Yes, you're right. I understand.」%K%P
 Izumi-san smiles, undaunted by Haruka's behavior. It's%Nhard to tell if she really does...%K%P
 
 0xBB0
-Kurumi「So you're Haruka-san. Nice to meet you～♪」%K%P
+Kurumi「So you're Haruka-san. Nice to meet you〜♪」%K%P
 
 0xBBC
 Kurumi holds out her hand, awaiting a handshake from%NHaruka.%K%P

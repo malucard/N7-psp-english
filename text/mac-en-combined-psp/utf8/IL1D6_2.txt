@@ -8,13 +8,13 @@ I pursue Izumi-san in the intense rain.%K%P
 For some reason, I feel strangely uneasy.%K%P
 
 0x104
-(I have to hurry!) ―I urge myself forwards.%K%P
+(I have to hurry!) —I urge myself forwards.%K%P
 
 0x164
 I arrive out on the coastline road, and look around.%K%P
 
 0x170
-―Found her!%K%P
+—Found her!%K%P
 
 0x17C
 I see Izumi-san's small, retreating figure.%K%P
@@ -179,7 +179,7 @@ Izumi-san steadily advances through the forest.%K%P
 She pushes her way through the plants while heading%Ntowards a treetop that's sticking out...%K%P
 
 0x62C
-―But in the blink of an eye!%K%P
+—But in the blink of an eye!%K%P
 
 0x638
 Izumi「!!!」%K%P
@@ -236,7 +236,7 @@ She... isn't moving.%K%P
 Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
 
 0x820
-―A bell.%K%P
+—A bell.%K%P
 
 0x82C
 It's that bell...%K%P
@@ -248,13 +248,13 @@ As soon as I see it, I suddenly remember something.%K%P
 Kurumi's words from when we went to see the crab sumo...%K%P
 
 0x850
-―"Kurumi just picked up something a little%Ninteresting."%K%P
+—"Kurumi just picked up something a little%Ninteresting."%K%P
 
 0x85C
 And yesterday, at Lunabeach, Izumi-san told me...%K%P
 
 0x868
-―"This morning, I got a present from Kurumi...%NAccording to her, it seems she found it on Princess%NBeach."%K%P
+—"This morning, I got a present from Kurumi...%NAccording to her, it seems she found it on Princess%NBeach."%K%P
 
 0x874
 (Kurumi found this bell... on Princess Beach...)%K%P

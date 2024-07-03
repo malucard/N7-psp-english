@@ -56,7 +56,7 @@ Izumi「It's an old tradition on this island.」%K%P
 Izumi「If a man and woman confess their feelings for each%Nother under that lighthouse, it's said that their affection%Nwill bear fruit.」%K%P
 
 0x1A8
-Yuka「Oh～」%K%P
+Yuka「Oh〜」%K%P
 
 0x1B4
 Izumi「And then, in order to complete their love, they go to the%Nnearby cove... In other words, it's at Princess Beach%Nwhere their love will bear fruit.」%K%P
@@ -122,7 +122,7 @@ Makoto「Ah, I see...」%K%P
 Everyone's eyes all turn towards Izumi-san.%K%P
 
 0x314
-―Is that true?%K%P
+—Is that true?%K%P
 
 0x320
 We all wait for that answer.%K%P
@@ -182,7 +182,7 @@ Izumi「Of course, I also dismissed it as just a myth or folklore...%NUsed to, a
 Izumi「But then...」%K%P
 
 0x478
-Kurumi「What～, so you this is where you all were～」%K%P
+Kurumi「What〜, so you this is where you all were〜」%K%P
 
 0x484
 We all turn to find a girl running towards us, kicking up%Nwhite clouds of sand as she moves across the beach.%K%P

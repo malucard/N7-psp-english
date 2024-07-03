@@ -359,13 +359,13 @@ I decide to go with Kurumi to Princess Beach.%K%P
 However, before I know it, Kurumi is nowhere to be found.%K%P
 
 0x9F4
-Makoto「Heeey, Kurumi～?」%K%P
+Makoto「Heeey, Kurumi〜?」%K%P
 
 0xA00
 ... Huh? Where'd she go?%K%P
 
 0xA0C
-Makoto「Kurumi～ Kurumi～? Kurumi-chaa～n?」%K%P
+Makoto「Kurumi〜 Kurumi〜? Kurumi-chaa〜n?」%K%P
 
 0xA44
 I look for her.%K%P
@@ -410,7 +410,7 @@ Just then, I hear an argument going on outside the front%Ndoor.%K%P
 One of them is Saki... the other is...%K%P
 
 0xB74
-―Haruka.%K%P
+—Haruka.%K%P
 
 0xB80
 I have a very bad feeling about this, so I quickly open%Nthe front door.%K%P

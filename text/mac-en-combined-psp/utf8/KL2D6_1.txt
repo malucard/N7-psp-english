@@ -101,7 +101,7 @@ Izumi「Last time...?」%K%P
 I'm getting very irritated.%K%N
 
 0x3CC
-Just tell her everything―I'm doing everything in my%Npower to resist that impulse.%K%P
+Just tell her everything—I'm doing everything in my%Npower to resist that impulse.%K%P
 
 0x3E0
 Izumi「Hey? How could you say that without any doubts?」%K%P
@@ -170,7 +170,7 @@ Izumi「Yes... that's right...」%K%P
 Makoto「But you know, what, Izumi-san? That baby was definitely%N'Kurumi'!」%K%P
 
 0x588
-Makoto「The scar on Kurumi's back―that's the biggest proof%Nof all.」%K%P
+Makoto「The scar on Kurumi's back—that's the biggest proof%Nof all.」%K%P
 
 0x59C
 Izumi「Huh...? The scar...? That scar is... the proof?」%K%P
@@ -191,7 +191,7 @@ Izumi「...?」%K%P
 Makoto「In other words...」%K%P
 
 0x5EC
-Makoto「―Kurumi time traveled three years into the future!」%K%P
+Makoto「—Kurumi time traveled three years into the future!」%K%P
 
 0x600
 Izumi「... What?」%K%P
@@ -293,7 +293,7 @@ Suddenly, I see something moving from over Izumi-san's%Nshoulder...%K%P
 Izumi「It's as I said yesterday...」%K%P
 
 0x82C
-The shop's door―on the other side of that glass%Ndoor...%K%P
+The shop's door—on the other side of that glass%Ndoor...%K%P
 
 0x838
 Izumi「I think of Kurumi... as my real sister.」%K%P
@@ -320,7 +320,7 @@ Izumi「It has nothing to do with being related by blood!」%K%P
 Izumi「Rather, it's because we're not blood related sisters%Nthat-」%K%P
 
 0x8E0
-―A sudden noise.%K%P
+—A sudden noise.%K%P
 
 0x8F4
 That sound causes Izumi-san to jump back as she turns%Naround.%K%P
@@ -383,7 +383,7 @@ The terrace seems to be a dead end, but Kurumi jumps%Ndown off of it onto Moon B
 I also immediately jump over the handrail...%K%P
 
 0xD04
-―Wham!%K%N
+—Wham!%K%N
 
 0xD10
 Intense pain runs through my body!%K%N
@@ -602,7 +602,7 @@ Without hesitating, I jump over the handrail onto Moon%NBeach.%K%N
 That's right! I'll get there before she does!%K%P
 
 0x13AC
-―Wham!%K%N
+—Wham!%K%N
 
 0x13B8
 Intense pain runs through my body!%K%N
@@ -698,7 +698,7 @@ Kurumi「...」%K%P
 Makoto「But you know what, Kurumi? That baby was definitely you.」%K%P
 
 0x1588
-Makoto「The scar on your back― that's the proof.」%K%P
+Makoto「The scar on your back— that's the proof.」%K%P
 
 0x1594
 Kurumi「...」%K%P
@@ -791,7 +791,7 @@ Kurumi trips and falls down on the beach.%K%N
 In that instant...%K%P
 
 0x1784
-―The bell!!!%K%P
+—The bell!!!%K%P
 
 0x1790
 (Th-That's... impossible!!!!!)%K%P
@@ -806,7 +806,7 @@ She darts across the beach.%K%P
 I try to pursue her, but the instant I take a step forward%Non the beach...%K%P
 
 0x17C0
-―Pain runs through my body!%K%P
+—Pain runs through my body!%K%P
 
 0x17CC
 It shoots up towards my brain, numbing it.%K%N

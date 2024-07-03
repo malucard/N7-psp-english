@@ -395,7 +395,7 @@ Kurumi「So Kurumi wants to make as many memories as possible%Nwith you and the 
 Makoto「Memories, huh...」%K%P
 
 0x950
-Kurumi「And so... Kurumi was thinking that she'd go sleep over at%Nthe lodge tonight～♪」%K%P
+Kurumi「And so... Kurumi was thinking that she'd go sleep over at%Nthe lodge tonight〜♪」%K%P
 
 0x95C
 Makoto「I see...」%K%P

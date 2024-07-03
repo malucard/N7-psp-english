@@ -230,7 +230,7 @@ Kurumi「Yep. Expect an amazing plan♪」%K%P
 Departing with those words, I once again force my way%Nthrough the thicket.%K%P
 
 0x610
-Kurumi「W-Wait up～」%K%P
+Kurumi「W-Wait up〜」%K%P
 
 0x61C
 Kurumi jogs right after me.%K%N
@@ -290,7 +290,7 @@ Haruka「...」%K%P
 Izumi「Geez, do you have to be so self-centered...?」%K%P
 
 0x878
-Kurumi「Well then, let's go～♪」%K%P
+Kurumi「Well then, let's go〜♪」%K%P
 
 0x884
 Only Kurumi seems to be enthusiastic as she leads the%Ngroup into the forest.%K%P
@@ -407,7 +407,7 @@ Makoto「Well, it sounds fun, so maybe I'll give it a try.」%K%P
 Departing with those words, I once again step into the%Nthicket.%K%P
 
 0xA8C
-Yuka「W-Wait up～」%K%P
+Yuka「W-Wait up〜」%K%P
 
 0xA98
 Yuka jogs after me.%K%P
@@ -1091,7 +1091,7 @@ It's difficult to find the well in this darkness.%K%P
 To think I thought this was going to be easy...%K%P
 
 0x1E50
-―Suddenly,the sound of rustling leaves comes from%Nthe bushes between the tombstones.%K%P
+—Suddenly,the sound of rustling leaves comes from%Nthe bushes between the tombstones.%K%P
 
 0x1E5C
 Yuka「H-hey, Makoto... Did you... hear something just now?」%K%P
@@ -1211,10 +1211,10 @@ Makoto「A cheerful song...」%K
 "I Love Dolls♪"
 
 0x20E4
-Makoto「Fresh blood dripping in the twilight～♪」%K%P
+Makoto「Fresh blood dripping in the twilight〜♪」%K%P
 
 0x20F0
-Makoto「He'll cut your head off with his scythe～♪」%K%P
+Makoto「He'll cut your head off with his scythe〜♪」%K%P
 
 0x2104
 Makoto「I love dolls, papapaya-♪」%K%P
@@ -1289,7 +1289,7 @@ The lingering clouds slowly cover the moon.%K%N
 Before I realize it, the darkness around me has grown%Nthicker...%K%N
 
 0x2294
-―And, at that time!%K%P
+—And, at that time!%K%P
 
 0x22F4
 Once again, I hear something moving in the grass.%K%P
@@ -1382,7 +1382,7 @@ Surprisingly, Yuka doesn't object.%K%N
 I guess she can't even try to talk tough here.%K%P
 
 0x24E0
-Just then, Yuka suddenly―no, it's sudden, but it also%Nfeels natural, as if it were a completely normal%Naction―takes my hand.%K%P
+Just then, Yuka suddenly—no, it's sudden, but it also%Nfeels natural, as if it were a completely normal%Naction—takes my hand.%K%P
 
 0x24FC
 Her hand is very soft.%K%N
@@ -1451,7 +1451,7 @@ Makoto「F-Found it... Found what?」%K%P
 Yuka「This!」%K%P
 
 0x268C
-Yuka stops, and in front of her lies our target―the%Nwell.%K%N
+Yuka stops, and in front of her lies our target—the%Nwell.%K%N
 
 0x2698
 Her face was stiff with fear a few moments ago, but now%Na broad grin is stretched across her face.%K%P
@@ -1484,7 +1484,7 @@ How is it that only the area around the well got this clean%Nwhen the rest of th
 Even though this is a place where it wouldn't be%Nunnatural to find a pebble or two on the ground, there%Nare trees; there ought to be fallen branches.%K%P
 
 0x2718
-―An old graveyard and an old well.%K%N
+—An old graveyard and an old well.%K%N
 
 0x2724
 For some reason, I remember Kurumi's words from just%Nbefore we left...%K%P
@@ -1640,7 +1640,7 @@ Kurumi「Kyahahahahahahaha♪ Geez, Yuka-san, you're the%Ngreatest!」%K%P
 Kurumi is delighted for having scared Yuka so much.%K%P
 
 0x2AA0
-―However!!%K%P
+—However!!%K%P
 
 0x2AE4
 For some reason, the bushes rustle again...%K%N
@@ -1799,7 +1799,7 @@ Yuka「One head... two heads...」%K%P
 Makoto「Haah... Oh brother...」%K%P
 
 0x2EA0
-―After that, I drag Yuka back towards the the lodge%Nas she continues rambling incoherently, like a drunk%Nmiddle-aged salaryman...%K%P
+—After that, I drag Yuka back towards the the lodge%Nas she continues rambling incoherently, like a drunk%Nmiddle-aged salaryman...%K%P
 
 0x2F14
 Kurumi「Well then, Group #1, heading out!♪」%K%P
@@ -2165,7 +2165,7 @@ Makoto「What? What did she steal from you?」%K%P
 Haruka「My...」%K%P
 
 0x36B4
-―Then, at that time.%K%P
+—Then, at that time.%K%P
 
 0x36C8
 ??「KYAAAAAAAAAAAAAAAAAAAAA!!!」%K%P

@@ -53,16 +53,16 @@ What's going on?%K%P
 Then... Then... the dream I had just now...%K%P
 
 0x19C
-―That's wrong!%K%N
+—That's wrong!%K%N
 
 0x1A8
-―That's wrong! What the hell am I saying!?%K%P
+—That's wrong! What the hell am I saying!?%K%P
 
 0x1B4
-―That wasn't a "dream"!!%K%N
+—That wasn't a "dream"!!%K%N
 
 0x1C0
-―There's no way in hell that was a "dream"...%K%P
+—There's no way in hell that was a "dream"...%K%P
 
 0x204
 Suddenly, I hear a sound as violent as a gunshot!%K%P
@@ -89,10 +89,10 @@ I quickly look at my watch.%K%P
 "1 MON 9:19 A.M."%K%P
 
 0x2C4
-―1st.%K%P
+—1st.%K%P
 
 0x2D0
-―1st!?!?!?%K%P
+—1st!?!?!?%K%P
 
 0x2DC
 Makoto「That's... impossible...」%K%P
@@ -362,7 +362,7 @@ Was Izumi-san saved, just like me?%K%P
 (Please...)%K%P
 
 0xA68
-(―Be alive, Izumi-san!)%K%P
+(—Be alive, Izumi-san!)%K%P
 
 0xA90
 I continue to run to Lunabeach while praying with all my%Nheart.%K%P
@@ -773,7 +773,7 @@ The letters on the watch between Izumi-san and I are%Nclearly visible.%K%P
 "1.. MON..."%K%P
 
 0x1298
-Makoto「―Just cut it out already!」%K%P
+Makoto「—Just cut it out already!」%K%P
 
 0x12A4
 I forcefully shake off Izumi-san's hand.%K%P
@@ -944,10 +944,10 @@ For now, I decide to head back to the lodge.%K%P
 Before I hear Izumi-san's story, there's something vital%Nthat I must confirm.%K%P
 
 0x1738
-―Is today really April 1st?%K%P
+—Is today really April 1st?%K%P
 
 0x1744
-―Or is Okuhiko tricking me again?%K%P
+—Or is Okuhiko tricking me again?%K%P
 
 0x1750
 No! Why I am even thinking about this!?%K%P
@@ -1145,10 +1145,10 @@ There's also the possibility that even Kurumi is in%Ncahoots with Okuhiko.%K%P
 Izumi-san said to trust Kurumi, but I don't know... if she%Nwas being honest.%K%P
 
 0x1C74
-―What's the truth?%K%N
+—What's the truth?%K%N
 
 0x1C80
-―Which is reality?%K%P
+—Which is reality?%K%P
 
 0x1C8C
 There's three possibilities.%K%P
@@ -1496,7 +1496,7 @@ However, everyone replies with this, as if it's obvious.%K%N%N
 There's no more room for doubt.%K%N%N
 
 0x25DC
-Today―is April 1st.%K%N%N
+Today—is April 1st.%K%N%N
 
 0x25E8
 In other words...%K%N

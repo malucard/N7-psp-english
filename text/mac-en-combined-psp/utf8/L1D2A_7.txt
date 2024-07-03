@@ -146,7 +146,7 @@ Makoto「About what you said earlier, was that a premonition...?」%K%P
 Yuka's expression warps. As I'm about to continue%Nspeaking...%K%P
 
 0x3A4
-―We suddenly hear the echo of Saki's voice!%K%P
+—We suddenly hear the echo of Saki's voice!%K%P
 
 0x3B0
 Yuka and I turn around.%K%P
@@ -449,7 +449,7 @@ Kurumi「Huh? Just Kurumi?」%K%P
 Izumi「You need to be helpful to others every once in a while.%NThink of it as atonement for failing to deliver the pizza to%NSaki-chan.」%K%P
 
 0xB5C
-Kurumi「Ah―, no fair. Even though that wasn't Kurumi's fault...」%K%P
+Kurumi「Ah—, no fair. Even though that wasn't Kurumi's fault...」%K%P
 
 0xB70
 Izumi「You're not going to listen to your sister?」%K%P
@@ -530,7 +530,7 @@ Kurumi「Huh? Just Kurumi?」%K%P
 Izumi「You need to be helpful to others every once in a while.%NThink of it as atonement for failing to deliver the pizza to%NSaki-chan.」%K%P
 
 0xD40
-Kurumi「Ah―, no fair. Even though that wasn't Kurumi's fault...」%K%P
+Kurumi「Ah—, no fair. Even though that wasn't Kurumi's fault...」%K%P
 
 0xD54
 Izumi「You're not going to listen to your sister?」%K%P

@@ -47,7 +47,7 @@ Several steps later, another source of light shines into%Nmy field of vision.%K%
 It's a cold, stinging light...%K%P
 
 0x110
-―What is it?%K%P
+—What is it?%K%P
 
 0x11C
 I stagger towards the source of the light as if it's%Ninviting me.%K%P
@@ -59,7 +59,7 @@ It's lying on top of the wave soaked sand.%K%P
 I lean down and pick up the light...%K%P
 
 0x14C
-―!!!%K%P
+—!!!%K%P
 
 0x160
 It's that... "bell"...%K%P
@@ -95,7 +95,7 @@ I've looked at something that shouldn't have been%Nseen... I'm captured by feeli
 I have to hide this truth.%K%P
 
 0x218
-―Right now!%K%P
+—Right now!%K%P
 
 0x224
 Frightened to death, my body shakes as I throw the bell%Ntowards the sea.%K%P
@@ -113,7 +113,7 @@ My body won't stop trembling.%K%P
 A scene passes through my mind...%K%P
 
 0x284
-―The hopeless nightmare from this morning...%K%P
+—The hopeless nightmare from this morning...%K%P
 
 0x298
 I shake my head to erase that image from my mind.%K%P
@@ -170,28 +170,28 @@ However, the sound of my heart pounding loudly in my%Nears hinders me from sleep
 For argument's sake, let's say that's true. Then just who%Nwas... the girl in my dream?%K%P
 
 0x3E8
-―Yuka?%K%P
+—Yuka?%K%P
 
 0x3F4
-―Haruka?%K%P
+—Haruka?%K%P
 
 0x400
-―Saki?%K%P
+—Saki?%K%P
 
 0x40C
-―Kurumi?%K%P
+—Kurumi?%K%P
 
 0x418
-―Izumi-san?%K%P
+—Izumi-san?%K%P
 
 0x424
 Just which one of those five was it...?%K%P
 
 0x430
-Saturday, April 6th―on that day, which one of them%Nwill... die...?%K%P
+Saturday, April 6th—on that day, which one of them%Nwill... die...?%K%P
 
 0x43C
-―No!%K%P
+—No!%K%P
 
 0x448
 Why the hell am I thinking such bullshit...!?%K%P

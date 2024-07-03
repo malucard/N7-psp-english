@@ -29,7 +29,7 @@ I hear the faint sound of the bell again...%K%P
 And at the same time, I hear the sound of tapping%Nfootsteps running down the short staircase on the%Nterrace.%K%P
 
 0x224
-―It's coming from outside!%K%P
+—It's coming from outside!%K%P
 
 0x230
 I immediately open the front door.%K%P
@@ -53,7 +53,7 @@ I see a shadow running towards the car...%K%P
 The shadow has a ponytail that sways with the rain.%K%P
 
 0x300
-―Saki!?%K%P
+—Saki!?%K%P
 
 0x328
 ... The car's door slams shut.%K%P
@@ -224,7 +224,7 @@ Yuka begins to run for her room.%K%P
 Taking that as a signal, we all run off to check our%Nrespective wallets.%K%P
 
 0x7D0
-―Several minutes later.%K%N
+—Several minutes later.%K%N
 
 0x7DC
 All our faces have gone pale.%K%P
@@ -521,7 +521,7 @@ Makoto「I don't know... I just don't know...」%K%P
 I just want to scream that she's innocent...%K%P
 
 0xF84
-"You're wrong! It wasn't Saki!"― I want to so badly, but%NI can't.%K%P
+"You're wrong! It wasn't Saki!"— I want to so badly, but%NI can't.%K%P
 
 0xF90
 That person I saw last night was definitely Saki.%K%P
@@ -704,7 +704,7 @@ I call out to her.%K%P
 Saki doesn't try to answer or turn around...%K%N
 
 0x1448
-―Suddenly, she begins to cross over the boundary%Nof the dead end!%K%P
+—Suddenly, she begins to cross over the boundary%Nof the dead end!%K%P
 
 0x1454
 Makoto「Saki!!!」%K%P

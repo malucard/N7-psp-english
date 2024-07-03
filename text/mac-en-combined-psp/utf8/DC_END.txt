@@ -62,7 +62,7 @@ I see a gray sky.%K%N
 Countless drops of water are flying down.%K%P
 
 0x1A4
-Izumi「―Ma-Makoto-kun!!!」%K%P
+Izumi「—Ma-Makoto-kun!!!」%K%P
 
 0x1B0
 Makoto「...」%K%P
@@ -113,7 +113,7 @@ Izumi「... Makoto-kun... you...」%K%P
 Izumi「... protected... me...」%K%P
 
 0x280
-(―Cliff?)%K%P
+(—Cliff?)%K%P
 
 0x28C
 I muster my strength and raise my left hand.%K%P
@@ -164,7 +164,7 @@ Though my left hand is numb, I use it to search my%Npocket, despite my body's co
 And I take out...%K%P
 
 0x408
-―The three grains of star sand.%K%N
+—The three grains of star sand.%K%N
 
 0x414
 They're in the blue, transparent water...%K%N

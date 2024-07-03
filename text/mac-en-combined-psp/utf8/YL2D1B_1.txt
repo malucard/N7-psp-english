@@ -41,13 +41,13 @@ Makoto「Yeah.」%K%P
 Yuka「I think there's three things that we can definitely say for%Nsure.」%K%P
 
 0x15C
-Yuka「#1―You and I share the same memories from April 1st%Nto the 6th...」%K%P
+Yuka「#1—You and I share the same memories from April 1st%Nto the 6th...」%K%P
 
 0x19C
-Yuka「#2―Today's date is definitely Monday, April 1st...」%K%P
+Yuka「#2—Today's date is definitely Monday, April 1st...」%K%P
 
 0x1D4
-Yuka「#3―On the last April 1st, we had the same dream...」%K%P
+Yuka「#3—On the last April 1st, we had the same dream...」%K%P
 
 0x21C
 Makoto「Hey, Yuka? Don't make this more complicated than it%Nactually is.」%K%P
@@ -146,7 +146,7 @@ Makoto「...?」%K%P
 Yuka「Perhaps... we've been repeating the days from April 1st%Nthrough the 6th countless times for all eternity.」%K%P
 
 0x478
-Yuka「If there's no beginning, then there's no end―this is%Ndefinitely a part of an infinite loop!」%K%P
+Yuka「If there's no beginning, then there's no end—this is%Ndefinitely a part of an infinite loop!」%K%P
 
 0x48C
 An infinite loop...%K%P
@@ -188,10 +188,10 @@ If we can't age, then our bodies will never rot away.%K%P
 In other words, we... won't die?%K%P
 
 0x528
-―That's wrong!%K%P
+—That's wrong!%K%P
 
 0x570
-―We CAN'T die!%K%P
+—We CAN'T die!%K%P
 
 0x57C
 Suddenly, I'm hit with a sense of intense despair.%K%P
@@ -269,7 +269,7 @@ It's because I held my own life dear!%K%P
 So the one...%K%P
 
 0x6CC
-―The one who killed Yuka was me!%K%P
+—The one who killed Yuka was me!%K%P
 
 0x6D8
 I've killed her thousands, if not tens of thousands, of%Ntimes!!%K%P
@@ -311,7 +311,7 @@ All of them...%K%P
 "If you want to be free, then you mustn't be afraid."%K%P
 
 0x7A0
-―I'll fight!%K%P
+—I'll fight!%K%P
 
 0x7AC
 Even if it's a predetermined fate...%K%P
@@ -323,16 +323,16 @@ Even if it's a predetermined fate...%K%P
 I'll destroy such a ridiculous fate!%K%P
 
 0x7D0
-―I'll break out!%K%N
+—I'll break out!%K%N
 
 0x7DC
-―I'll break out from this hellish cell!%K%P
+—I'll break out from this hellish cell!%K%P
 
 0x7E8
-―From within the darkness of this infinite loop!%K%N
+—From within the darkness of this infinite loop!%K%N
 
 0x7F4
-―I'll tear off these chains!%K%P
+—I'll tear off these chains!%K%P
 
 0x800
 I'll never repeat this again!%K%P
@@ -383,7 +383,7 @@ Yuka「H-How?」%K%P
 Makoto「We'll take the ferry... Isn't that obvious?」%K%P
 
 0x954
-Yuka「But Makoto―」%K%P
+Yuka「But Makoto—」%K%P
 
 0x960
 Makoto「I'll buy us tickets, so wait here for a bit!」%K%P
@@ -440,7 +440,7 @@ Makoto「No, that's not it... I... I want to return to the mainland!」%K%P
 Fisherman「Oh, yah got some business yah got tah do on the%Nmainland, huh?」%K%P
 
 0xA90
-Makoto「W-Well, something like that. That's why―」%K%P
+Makoto「W-Well, something like that. That's why—」%K%P
 
 0xA9C
 Fisherman「Ah... but that's too bad.」%K%P
@@ -536,7 +536,7 @@ Makoto「Tomorrow...?」%K%P
 Fisherman「Right. Tomorrow, yah can see that there'll be some huge%Nwaves comin'.」%K%P
 
 0xC10
-Tomorrow ― April 2nd.%K%P
+Tomorrow — April 2nd.%K%P
 
 0xC1C
 That was the day Saki was swallowed by that large wave.%K%P

@@ -410,7 +410,7 @@ It bolts off to chase Saki.%K%N
 It crosses the wet road diagonally...%K%P
 
 0xAB8
-―And in the next instant!%K%P
+—And in the next instant!%K%P
 
 0xB00
 A intense flash pierces my eyes.%K%N
@@ -422,7 +422,7 @@ I reflexively put my hand over my eyes and squint.%K%P
 When I look, I see a car with its headlights on...%K%N
 
 0xB78
-―It's approaching from the other side of the curve!%K%P
+—It's approaching from the other side of the curve!%K%P
 
 0xB8C
 Saki「!!!」%K%P
@@ -449,7 +449,7 @@ Haruka suddenly moves.%K%N
 She rushes out onto the road, running to the puppy.%K%P
 
 0xC3C
-Makoto「―Haruka!」%K%P
+Makoto「—Haruka!」%K%P
 
 0xC48
 Haruka quickly picks the puppy up in her arms.%K%P
@@ -902,7 +902,7 @@ In the next instant... Something slips out of it.%K%P
 The object lying on the floor... is...%K%P
 
 0x1880
-―It's that bell!!%K%P
+—It's that bell!!%K%P
 
 0x188C
 Makoto「!!」%K%P

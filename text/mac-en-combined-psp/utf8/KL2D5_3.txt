@@ -107,13 +107,13 @@ I stand my ground, and look at that scar.%K%N
 It may be ugly and pitiful, but it's also a part of Kurumi.%K%P
 
 0x280
-―The pointy zigzag lines of scars.%K%N
+—The pointy zigzag lines of scars.%K%N
 
 0x28C
-―The rough, protruding bulges.%K%N
+—The rough, protruding bulges.%K%N
 
 0x298
-―That reddish-violet discoloration.%K%P
+—That reddish-violet discoloration.%K%P
 
 0x2A4
 This time, I am definitely going to take that sadness from%Nher.%K%N
@@ -200,7 +200,7 @@ Kurumi「Thank you...」%K%P
 With those words, my heart seems to burst open...%K%P
 
 0x440
-Kurumi「Ruun, ruun, ruun, Kurumi-chan～, ran, ran, ran, Onii-chan～♪」%K%P
+Kurumi「Ruun, ruun, ruun, Kurumi-chan〜, ran, ran, ran, Onii-chan〜♪」%K%P
 
 0x44C
 Makoto「Kurumi...?」%K%P
@@ -230,7 +230,7 @@ Kurumi「Huh!? You'll take Kurumi?」%K%P
 Makoto「Yeah...」%K%P
 
 0x4C8
-Kurumi「Yaay～♪」%K%P
+Kurumi「Yaay〜♪」%K%P
 
 0x4D4
 Kurumi「For real?」%K%P

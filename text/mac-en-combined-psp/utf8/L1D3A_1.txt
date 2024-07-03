@@ -74,7 +74,7 @@ Makoto「I-I see...」%K%P
 Kurumi「Kurumi's starving. Can we eat now?」%K%P
 
 0x318
-Yuka「You're right. Let's eat～!」%K%P
+Yuka「You're right. Let's eat〜!」%K%P
 
 0x324
 Makoto「Ah, let's... eat...」%K%P
@@ -278,7 +278,7 @@ Saki「Um, Okuhiko-kun. I tried making these, what do you think?」%K%P
 She opens the basket, which contains small sandwiches%Nthat are neatly lined up.%K%P
 
 0x828
-Kurumi「Wow, it's cute～. Saki-san, did you make these for Okkun?」%K%P
+Kurumi「Wow, it's cute〜. Saki-san, did you make these for Okkun?」%K%P
 
 0x834
 Saki「Huh? No, I just made these on a whim, that's all...」%K%P

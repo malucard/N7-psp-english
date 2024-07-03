@@ -59,10 +59,10 @@ The pain I felt back then cuts into my chest.%K%P
 Pangs of that sorrow and rage reemerge so intensely%Nthat I can't stand staying still.%K%P
 
 0x20C
-(―I've got to go!)%K%P
+(—I've got to go!)%K%P
 
 0x218
-(―I have to go be by Izumi-san's side!)%K%P
+(—I have to go be by Izumi-san's side!)%K%P
 
 0x224
 Resolved, I stand up.%K%P
@@ -110,7 +110,7 @@ Silently leave.
 Okuhiko「All right, here I go!」%K%P
 
 0x320
-Okuhiko「Neutrino Energy, Power On! Trans～form! There!」%K%P
+Okuhiko「Neutrino Energy, Power On! Trans〜form! There!」%K%P
 
 0x32C
 Okuhiko「Beep boop beep boop beep boop beep boop, swish%Nswish swish swish swish♪ Vroom♪」%K%P
@@ -125,7 +125,7 @@ Okuhiko「The always invigorated youth, the gallant man with a%Ntender heart.」
 Okuhiko「The warrior of justice sent by God himself for the sake%Nof protecting the Earth...」%K%P
 
 0x35C
-Okuhiko「His name is―'Artificial Human Okkuman'!」%K%P
+Okuhiko「His name is—'Artificial Human Okkuman'!」%K%P
 
 0x368
 Okuhiko「Shalom!」%K%P
@@ -137,13 +137,13 @@ Okuhiko「You've shown yourself, Mysterious Hi-Tech Washing%NMachine Man...」%K
 Okuhiko「Ugh... my eyes... are spinning...」%K%P
 
 0x38C
-Okuhiko「'―Look out! ―Okkuman!'」%K%P
+Okuhiko「'—Look out! —Okkuman!'」%K%P
 
 0x398
-Okuhiko「'―Good luck! ―Okkuman!'」%K%P
+Okuhiko「'—Good luck! —Okkuman!'」%K%P
 
 0x3A4
-Okuhiko「'―Don't lose! ―Our Hero, Okkuman!'」%K%P
+Okuhiko「'—Don't lose! —Our Hero, Okkuman!'」%K%P
 
 0x3B0
 Okuhiko「Ten thousand to the second power♪ He is Okkuman♪」%K%P
@@ -197,7 +197,7 @@ But it didn't have the feeling it had on "that" night... and%Nbesides...%K%P
 I have to tell Izumi-san something important tonight.%K%P
 
 0x510
-―My answer.%K%P
+—My answer.%K%P
 
 0x51C
 I still haven't given Izumi-san a clear answer about her%Nfeelings towards me.%K%P
@@ -242,7 +242,7 @@ I think about what to do.%K%P
 Just then...%K%P
 
 0x640
-―Step... step... step... step...%K%P
+—Step... step... step... step...%K%P
 
 0x64C
 I can hear the sound of footsteps on sand coming from%Nsomewhere.%K%P
@@ -287,7 +287,7 @@ As if she's inviting me to go with her, I totter after%NIzumi-san...%K%P
 At the end of Moon Beach... I slip through a space%Nbetween some hedges...%K%P
 
 0x790
-―That's right. I'm at Tsukiya Hotel.%K%P
+—That's right. I'm at Tsukiya Hotel.%K%P
 
 0x79C
 Izumi-san is sitting by the poolside, dipping her bare%Nfeet in the water.%K%P
@@ -350,7 +350,7 @@ Her toes make small ripples that spread with a clear%Nsound.%K%P
 I sit down next to Izumi-san, and take my shoes and%Nsocks off.%K%P
 
 0x894
-―Splash.%K%P
+—Splash.%K%P
 
 0x8A0
 When I sink my feet into the water, a cool, comfortable%Nsensation spreads through me.%K%P
@@ -524,7 +524,7 @@ Izumi「I told him that I was coming back again at the beginning%Nof April...」
 Izumi「And the manager said...」%K%P
 
 0xBA8
-"Ah～. Actually, that's exactly the time I'm goin' to%NItaly～."%K%P
+"Ah〜. Actually, that's exactly the time I'm goin' to%NItaly〜."%K%P
 
 0xBB4
 Izumi「The instant I heard that, it hit me...」%K%P
@@ -602,7 +602,7 @@ Makoto「In the first place, the origin of this incident...」%K%P
 ... the cause of me getting caught up in this infinite loop%Nwas due to an Izumi-san from another history, the one%Nwho started this experiment...%K%P
 
 0xD04
-―What!?%K%P
+—What!?%K%P
 
 0xD10
 Isn't that wrong!? What the hell am I saying!?%K%P
@@ -629,7 +629,7 @@ Makoto「No, don't be.」%K%P
 Izumi「But you know? I wanted to know no matter what...」%K%P
 
 0xD78
-Izumi「About The Third Trait of Cur▲ Syndrome...」%K%P
+Izumi「About The Third Trait of Curé Syndrome...」%K%P
 
 0xD84
 Izumi「To see whether it was true or not...」%K%P
@@ -674,7 +674,7 @@ Makoto「Izumi-san? Now that I think about it, there's something%NI've been mean
 While saying this, I avert my gaze so that she doesn't%Nrealize how flustered I am.%K%P
 
 0xE44
-Makoto「The Cur▲ Syndrome experiment...」%K%P
+Makoto「The Curé Syndrome experiment...」%K%P
 
 0xE50
 Makoto「It must have been planned for a specific reason...」%K%P
@@ -734,7 +734,7 @@ Izumi「'A firm thought can produce a new reality.'」%K%P
 Izumi「'If it's really possible, then it can even erase that three%Nyear blank from history, can't it?'... That's what I thought.」%K%P
 
 0xF4C
-Izumi「That was the trigger for my interest in Cur▲ Syndrome.」%K%P
+Izumi「That was the trigger for my interest in Curé Syndrome.」%K%P
 
 0xF58
 Makoto「...」%K%P
@@ -743,7 +743,7 @@ Makoto「...」%K%P
 Izumi「But now... it doesn't matter anymore...」%K%P
 
 0xF78
-Izumi「Cur▲ Syndrome and the missing three years... They%Nhave already passed away from my mind...」%K%P
+Izumi「Curé Syndrome and the missing three years... They%Nhave already passed away from my mind...」%K%P
 
 0xF84
 Izumi「I've... already resolved myself...」%K%P
@@ -779,7 +779,7 @@ Izumi-san doesn't answer.%K%P
 She doesn't even show any signs of answering...%K%P
 
 0x1048
-―Just then, she sinks into the water.%K%P
+—Just then, she sinks into the water.%K%P
 
 0x1054
 Though it was sudden, I'm surprisingly not alarmed.%K%P
@@ -806,7 +806,7 @@ The clear, transparent blue lights illuminate Izumi-san's%Nentire body.%K%P
 It looks as if her body is enveloped in a divine light.%K%P
 
 0x10C0
-―A goddess floating on light.%K%P
+—A goddess floating on light.%K%P
 
 0x10CC
 It's like light is pouring out from Heaven to the physical%Nworld...%K%P
@@ -890,7 +890,7 @@ Izumi「It was by the time my father, me, Kurumi, and Haruka... when%Nthe four o
 Izumi「At that time, my father also told the story.」%K%P
 
 0x124C
-(Izumi-san, Kurumi, and―Haruka???)%K%P
+(Izumi-san, Kurumi, and—Haruka???)%K%P
 
 0x1258
 Izumi「It was only... for a month.」%K%P
@@ -998,7 +998,7 @@ The water feels pleasant...%K%P
 (Water... water, huh...)%K%P
 
 0x140C
-Haruka, Kurumi, and Izumi-san. Their "primal scenery"%Nis―memories of water.%K%P
+Haruka, Kurumi, and Izumi-san. Their "primal scenery"%Nis—memories of water.%K%P
 
 0x1418
 I don't know what kind of days passed by for those%Nthree during that one month.%K%P
@@ -1064,7 +1064,7 @@ But my words won't come out audibly.%K%P
 Before I can let them out, they disappear without a trace.%K%P
 
 0x1534
-―They've been stolen.%K%N
+—They've been stolen.%K%N
 
 0x1540
 By the goddess floating on light...%K%N

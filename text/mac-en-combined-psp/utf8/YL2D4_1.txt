@@ -50,10 +50,10 @@ Makoto「Huh...?」%K%P
 Yuka「The first boy that I loved.」%K%P
 
 0x234
-―Those words gnaw at my heart.%K%P
+—Those words gnaw at my heart.%K%P
 
 0x240
-―It grows hot like an angry, blazing fire flaring up.%K%P
+—It grows hot like an angry, blazing fire flaring up.%K%P
 
 0x24C
 Why the hell... do I feel so depressed...!?%K%P
@@ -167,7 +167,7 @@ Makoto「A-A bet?」%K%P
 Izumi「On whether it'll rain or not tomorrow night.」%K%P
 
 0x4B8
-Makoto「There's no way I'd bet on that! Because tomorrow ni―」%K%P
+Makoto「There's no way I'd bet on that! Because tomorrow ni—」%K%P
 
 0x4E8
 Makoto「Ow!」%K%P
@@ -455,7 +455,7 @@ Izumi「No way. The forecast's not always correct, is it?」%K%P
 The two of them smile merrily...%K%P
 
 0xAD8
-At 11:17 A.M.―the earthquake attacks.%K%N%N
+At 11:17 A.M.—the earthquake attacks.%K%N%N
 
 0xAE4
 But since Yuka and I already knew about it, we've gotten%Nto the point where nothing surprises or frightens us%Nanymore.%K%N
@@ -491,7 +491,7 @@ but to nod every now and then at Izumi-san's words.%K%N
 At any rate, today is Thursday, April 4th... the day Kurumi%Nactually went missing.%K%P
 
 0xB80
-―Kurumi's disappearance?%K%N%N
+—Kurumi's disappearance?%K%N%N
 
 0xB8C
 I see... now that I think about it, that was how all of this%Nbegan.%K%N

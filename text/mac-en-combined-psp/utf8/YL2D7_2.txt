@@ -6,7 +6,7 @@ text area offset and size:
 Yuka and I made a promise... "We'll see the sunrise of the%N7th together."%K%P
 0x10C
 ──７日。%K%N
-―Today's the 7th.%K%N
+—Today's the 7th.%K%N
 0x118
 はじめての朝……。%K%N
 It's the start of the morning...%K%N
@@ -15,10 +15,10 @@ It's the start of the morning...%K%N
 The morning sun is now beginning to slowly rise from%Nbeyond the golden ocean...%K%P
 0x130
 『ときはとかれん』──それはきっと『無限ループの時の流れから解き放たれる』と言う意味で……%K%P
-"Will free you from time"―That surely meant "to be%Nreleased from the infinite loop's flow of time"...%K%P
+"Will free you from time"—That surely meant "to be%Nreleased from the infinite loop's flow of time"...%K%P
 0x13C
 『みさきのはて』──それはたぶん『本当の岬の果て……つまり海の中』のことを指していたのだろう。%K%P
-"At the end of the cape"―That was probably%Nindicating, "The real end of the cape"... in other words,%N"in the ocean."%K%P
+"At the end of the cape"—That was probably%Nindicating, "The real end of the cape"... in other words,%N"in the ocean."%K%P
 0x148
 オレ達は今、解き放たれたのだ……。%K%P
 Right now, we've been released...%K%P

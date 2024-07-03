@@ -26,7 +26,7 @@ Saki「I thought the security guard would catch Izumi-san,%Nsince she was fallin
 Kurumi「If it weren't for Haruka-san's quick thinking, we'd all be%Ncaught right now♪」%K%P
 
 0xF4
-Okuhiko「No one else would have thought to take off that guard's%Nhat～♪」%K%P
+Okuhiko「No one else would have thought to take off that guard's%Nhat〜♪」%K%P
 
 0x108
 Saki「Normally, you wouldn't have noticed that he was wearing%Na wig under there either♪」%K%P
@@ -254,7 +254,7 @@ Okuhiko「Basically, when Ishihara shouted, 'An earthquake's%Ncoming,' it had al
 Okuhiko「We were all so focused on Izumi-san and Kurumi-chan's%Ngame, so we didn't notice...」%K%P
 
 0x650
-Okuhiko「But if Ishihara wasn't, then he might have felt some light%Nshaking that we didn't―In other words, the preliminary%Ntremors.」%K%P
+Okuhiko「But if Ishihara wasn't, then he might have felt some light%Nshaking that we didn't—In other words, the preliminary%Ntremors.」%K%P
 
 0x65C
 Okuhiko「Naturally, if you notice the preliminary tremors,then it's%Nsimple to guess right about the arrival of the main tremor.」%K%P

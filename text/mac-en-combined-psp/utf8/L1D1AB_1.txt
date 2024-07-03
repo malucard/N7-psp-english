@@ -38,7 +38,7 @@ Though both of the shows are boring, I think the one%Nabout streams might have b
 My stomach is rumbling. I don't think I can last much%Nlonger.%K%P
 
 0xF4
-Yuka「Sorry to keep you waiting～」%K%P
+Yuka「Sorry to keep you waiting〜」%K%P
 
 0x100
 Finally, Yuka peeks her head out from the kitchen.%K%P
@@ -80,7 +80,7 @@ As if it had come from outer space, this "Mystery%NObject" has a complicated and
 As for Yuka's "toast", it's a solid black mass (It might as%Nwell be called "charcoal"...).%K%P
 
 0x1E8
-Yuka「Well then, go ahead and eat up～♪」%K%P
+Yuka「Well then, go ahead and eat up〜♪」%K%P
 
 0x204
 Yuka urges us on with a large, proud smile.%K%P
@@ -113,7 +113,7 @@ Haruka「I'm... not hungry.」%K%P
 Haruka! Not you too!%K%P
 
 0x2A8
-Yuka「Whaaat――!? But I just finished it and everything!」%K%P
+Yuka「Whaaat——!? But I just finished it and everything!」%K%P
 
 0x2B4
 Yuka「I remade it countless times, you know!」%K%P

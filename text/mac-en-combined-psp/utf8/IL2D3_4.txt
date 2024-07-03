@@ -122,7 +122,7 @@ Originally, the Camp was already supposed to be over,%Nand we were supposed to h
 But we all wanted to find a way to forcefully extend it so%Nthat we could continue remaining here.%K%P
 
 0x2F4
-"Deceiving Okuhiko." ―The only reason we're doing%Nthat is to stay here...%K%P
+"Deceiving Okuhiko." —The only reason we're doing%Nthat is to stay here...%K%P
 
 0x300
 And tomorrow, that all ends.%K%P
@@ -137,7 +137,7 @@ I yearn for Izumi-san again.%K%P
 This will end tomorrow, but when I think about how I'll have%Nto leave the day after that, I can't help but feel rushed.%K%P
 
 0x368
-―There's no more time!%K%N
+—There's no more time!%K%N
 
 0x374
 I still haven't told Izumi-san how I feel!%K%P

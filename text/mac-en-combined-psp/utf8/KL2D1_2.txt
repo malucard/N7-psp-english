@@ -191,7 +191,7 @@ I take three deep breaths.%K%P
 ... the door to Lunabeach...%K%P
 
 0x524
-Izumi「Welcome～♪」%K%P
+Izumi「Welcome〜♪」%K%P
 
 0x530
 It's Izumi-san, who's the same as always...%K%P
@@ -242,7 +242,7 @@ But...%K%N
 But...%K%P
 
 0x654
-Kurumi「Oh, welcome～♪」%K%P
+Kurumi「Oh, welcome〜♪」%K%P
 
 0x660
 Makoto「KURUMI!!!」%K%P
@@ -296,7 +296,7 @@ It feels like I've been struck hard in the gut...%K%P
 Of course, it's not like this was "completely%Nunexpected," but... actually hearing those words is very%Npainful.%K%P
 
 0x758
-―Should I tell them the truth?%K%N
+—Should I tell them the truth?%K%N
 
 0x764
 No, even if I did, that'd be pointless...%K%N
@@ -404,7 +404,7 @@ I begin to think as I walk...%K%N
 ...%K%P
 
 0xAA0
-Kurumi is alive―finding that out was the happiest%Nmoment of my life.%K%P
+Kurumi is alive—finding that out was the happiest%Nmoment of my life.%K%P
 
 0xAAC
 I'm so ecstatic that it feels as if every fiber of my being%Nis dancing in joy.%K%P
@@ -431,7 +431,7 @@ I don't know the reason.%K%N
 I don't know the reason, but there's just two things I've%Nconfirmed.%K%P
 
 0xB0C
-―I time traveled.%K%N
+—I time traveled.%K%N
 
 0xB18
 On that day... on that rainy morning, I leapt through time,%Nback into the past.%K%P
@@ -443,7 +443,7 @@ That's why I'm re-experiencing the morning of the 1st%Nright now.%K%P
 And the other thing I've confirmed is...%K%N
 
 0xB3C
-―This is an infinite loop.%K%N
+—This is an infinite loop.%K%N
 
 0xB48
 This is definitely not the first time I've time traveled.%K%P
@@ -470,7 +470,7 @@ No... that's wrong...%K%N
 ... There's one very clear difference from the "me" of%Ntoday and the "me" of the last loop's 1st.%K%P
 
 0xBA8
-―My memories.%K%N
+—My memories.%K%N
 
 0xBB4
 I clearly remember what happened in those last six%Ndays, don't I?!%K%P
@@ -500,13 +500,13 @@ For argument's sake, even if there is, I might not have my%Nmemories, just like 
 That's why this is my last chance...%K%P
 
 0xC20
-―I won't make the same mistake again!%K%N
+—I won't make the same mistake again!%K%N
 
 0xC2C
-―I will definitely protect Kurumi!%K%N
+—I will definitely protect Kurumi!%K%N
 
 0xC38
-―I won't let Kurumi's smile disappear!%K%P
+—I won't let Kurumi's smile disappear!%K%P
 
 0xCC4
 (But even though I said I'll change history, what should I%Ndo first?)%K%P
@@ -575,7 +575,7 @@ What should I do?%K%N
 What should I do?%K%P
 
 0xE38
-―!!!%K%N
+—!!!%K%N
 
 0xE44
 Something suddenly flashes through my mind...%K%N
@@ -584,7 +584,7 @@ Something suddenly flashes through my mind...%K%N
 I immediately break off into a run...%K%P
 
 0xEC4
-―I'll destroy the shrine itself!%K%N
+—I'll destroy the shrine itself!%K%N
 
 0xED0
 I run up to the shrine.%K%N
@@ -650,7 +650,7 @@ The most important matter is to take away the true scar%Nthat lies inside Kurumi
 This time, I have to completely cure her emotional scars...%K%P
 
 0x104C
-Furthermore, is it really true that Kurumi and Izumi-san%Naren't related by blood? ―I need to determine%Nwhether that's true or not.%K%P
+Furthermore, is it really true that Kurumi and Izumi-san%Naren't related by blood? —I need to determine%Nwhether that's true or not.%K%P
 
 0x1058
 If possible, it'd be nice if I could prove that those two%Nare true sisters.%K%P
@@ -731,13 +731,13 @@ Judging from her condition, Haruka seems to have%Nsafely escaped this time as we
 Suddenly, the doorbell rings. Since I'm standing in front%Nof the door, I open it without thinking.%K%P
 
 0x12E8
-Kurumi「Thank you very much for your continued patronage～♪」%K%P
+Kurumi「Thank you very much for your continued patronage〜♪」%K%P
 
 0x12F4
 Makoto「K... Kurumi...!」%K%P
 
 0x1300
-I quickly glance at my watch―"11:32 A.M."%K%P
+I quickly glance at my watch—"11:32 A.M."%K%P
 
 0x130C
 That's right...%K%N
@@ -764,7 +764,7 @@ Kurumi「So you're staying at this lodge...」%K%P
 Makoto「Y-Yeah... well, for the time being...」%K%P
 
 0x13EC
-Kurumi「All right♪ Anyway, here's the seafood pizza you%Nordered～♪」%K%P
+Kurumi「All right♪ Anyway, here's the seafood pizza you%Nordered〜♪」%K%P
 
 0x13F8
 Makoto「...」%K%P
@@ -953,7 +953,7 @@ Okuhiko and Haruka head for Princess Beach while Yuka%Nand I end up playing tenn
 The reason is simple... I'm still sore from my loss to Yuka%Nlast time.%K%N%N
 
 0x1810
-―So this time, I will definitely have my revenge!!%K%N%P
+—So this time, I will definitely have my revenge!!%K%N%P
 
 0x1824
 But despite my enthusiasm, the result is still the same%Ncrushing defeat I suffered last time...%K%N
@@ -1001,7 +1001,7 @@ Still, it doesn't mean that I can just ignore all the girls%Nexcept Kurumi.%K%N%
 It may account to nothing, but I want everyone to be as%Nhappy as possible.%K%P
 
 0x18F8
-For example, there's the incident where Saki got%Nswallowed by a wave ―Since I know about it, there's%Nno way I can feign ignorance and watch it happen%Nagain.%K%N
+For example, there's the incident where Saki got%Nswallowed by a wave —Since I know about it, there's%Nno way I can feign ignorance and watch it happen%Nagain.%K%N
 
 0x1904
 The same goes for Saki and Haruka's quarreling. I want to%Nchange that too, if possible.%K%N%N
@@ -1100,7 +1100,7 @@ I quickly look up to see the red western skies are%Nburning dark red.%K%P
 The sound of the waves breaking on shore are gentler%Nthan a lullaby...%K%P
 
 0x1BE8
-Yuka「Oh, to think there'd be a caf▲ here...」%K%P
+Yuka「Oh, to think there'd be a café here...」%K%P
 
 0x1C0C
 Okuhiko「It's got pretty good taste.」%K%P
@@ -1145,7 +1145,7 @@ When I think that, I find the flow of time truly amusing.%K%P
 Okuhiko「You're right, I'm a little tired from all that walking. Yeah,%Nlet's do that.」%K%P
 
 0x1CFC
-Kurumi「Ah, yeah, yeah. Do it～♪」%K%P
+Kurumi「Ah, yeah, yeah. Do it〜♪」%K%P
 
 0x1D18
 Yuka「Makoto? What about you?」%K%P
@@ -1229,7 +1229,7 @@ Kurumi guides us through Lunabeach's entrance.%K%P
 (Whew... that was close...)%K%P
 
 0x1F24
-Kurumi「Onee-chan, we have customers～♪」%K%P
+Kurumi「Onee-chan, we have customers〜♪」%K%P
 
 0x1F30
 Izumi「What's this? It's rare for Kurumi to attract customers.」%K%P
@@ -1601,7 +1601,7 @@ To the other girls, this is the first time we've met.%K%N
 "I don't really know him, but he's a pretty gloomy guy,"...%Nthat might be what they're thinking.%K%N%N
 
 0x2948
-Especially Kurumi―Ever since I went flying back in time,%NI've barely spoken to her.%K%P
+Especially Kurumi—Ever since I went flying back in time,%NI've barely spoken to her.%K%P
 
 0x295C
 Why was it that Kurumi trusted me the last time?%K%N
@@ -1703,7 +1703,7 @@ Makoto「But...」%K%P
 Kurumi「Kurumi... wants to go to the pool.」%K%P
 
 0x2BC0
-―Huh!?%K%P
+—Huh!?%K%P
 
 0x2BCC
 Are my ears deceiving me?%K%P
@@ -1793,7 +1793,7 @@ Now that I think about it, it was right about now that I%Nfound that "bell" wash
 I threw the bell back into the ocean... and somehow%NKurumi picked it up on Princess Beach.%K%P
 
 0x2DF8
-Why on Princess Beach? ―That's not the current%Nproblem!%K%P
+Why on Princess Beach? —That's not the current%Nproblem!%K%P
 
 0x2E04
 The important part is the fact that "in my dream on the%Nmorning of the 1st in the last loop, that bell was there."%K%P
@@ -1829,7 +1829,7 @@ Because I've been thinking too much today, my head's%Nbeen going in circles!%K%P
 Well, that doesn't matter.%K%P
 
 0x2E88
-―Anyway, I've got to hurry and look for the bell!%K%N
+—Anyway, I've got to hurry and look for the bell!%K%N
 
 0x2E94
 ... Be that as it may, it still doesn't change the fact that%Nit's been six days.%K%P
@@ -1847,7 +1847,7 @@ As I begin to look, I totter and meander on the sand as I%Nbegin investigating..
 ... ... ...%K%P
 
 0x2ED0
-―It's not here!%K%N
+—It's not here!%K%N
 
 0x2EDC
 Why isn't it here!?%K%P
@@ -1901,7 +1901,7 @@ Kurumi「... Do you like jellyfish?」%K%P
 Makoto「You could say I'm quite the jellyfish maniac.」%K%P
 
 0x2FF0
-Kurumi「Wow～. Then you're the same as Kurumi.」%K%P
+Kurumi「Wow〜. Then you're the same as Kurumi.」%K%P
 
 0x2FFC
 Makoto「I see... what an unexpected coincidence...」%K%P
@@ -1949,7 +1949,7 @@ Kurumi「Well then, Kurumi will be going now.」%K%P
 Makoto「Sure... I'll see you tomorrow.」%K%P
 
 0x30B8
-Kurumi「Good night～♪」%K%P
+Kurumi「Good night〜♪」%K%P
 
 0x30DC
 Kurumi runs down the beach.%K%P
@@ -1994,7 +1994,7 @@ On the other hand, I'm feeling quite happy.%K%P
 If I couldn't find the bell after all of that, then that means%N"the bell is gone."%K%P
 
 0x320C
-"The bell is gone,"―in other words, it means that%Nhistory has changed.%K%P
+"The bell is gone,"—in other words, it means that%Nhistory has changed.%K%P
 
 0x3218
 That bell probably won't appear in this world ever again.%K%P

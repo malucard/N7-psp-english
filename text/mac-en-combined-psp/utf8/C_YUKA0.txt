@@ -2,7 +2,7 @@ text area offset and size:
 0x1208
 0x1D6E
 0x94
-―Seven days of the Camp.%K%N
+—Seven days of the Camp.%K%N
 
 0xA0
 It should have ended peacefully without any incidents.%K%P
@@ -23,7 +23,7 @@ Yuka「I'm 'Yuka'... 'Yuka Kawashima'. I really don't know why, but%Nbefore I kn
 Yuka「Well, anyway, I'm pleased to meet you!」%K%P
 
 0x164
-Yuka「Well then, go ahead and eat up～♪」%K%P
+Yuka「Well then, go ahead and eat up〜♪」%K%P
 
 0x170
 Okuhiko「S- Sorry... My stomach's not feeling so good...」%K%P
@@ -140,7 +140,7 @@ Yuka「But...」%K%P
 Yuka「But even now, I can't forget him...」%K%P
 
 0x4E4
-Makoto「―!?」%K%P
+Makoto「—!?」%K%P
 
 0x4F0
 Yuka「He was...」%K%P
@@ -152,7 +152,7 @@ Yuka「He was very similar...」%K%P
 Yuka「To you, Makoto...」%K%P
 
 0x560
-―That's right. All that would be left afterwards would%Nbe normal days and just a few happy memories...%K%P
+—That's right. All that would be left afterwards would%Nbe normal days and just a few happy memories...%K%P
 
 0x56C
 Just memories...%K%P
@@ -224,7 +224,7 @@ Yuka「All right, Makoto?」%K%P
 Yuka「Will you remain calm and listen to me?」%K%P
 
 0x7B0
-Yuka「The dream you had―the truth is... I also... had the same%Ndream...」%K%P
+Yuka「The dream you had—the truth is... I also... had the same%Ndream...」%K%P
 
 0x7BC
 Makoto「...!?」%K%P
@@ -251,16 +251,16 @@ Makoto「...Huh?」%K%P
 Yuka「To be 'set free' from the flow of 'time' and to be blown%Naway to a different time...」%K%P
 
 0x850
-Yuka「In other words―it means time travel!」%K%P
+Yuka「In other words—it means time travel!」%K%P
 
 0x86C
-Yuka「On that day―Saturday, April 6th... we were sent... to%Nthe world of five days ago...」%K%P
+Yuka「On that day—Saturday, April 6th... we were sent... to%Nthe world of five days ago...」%K%P
 
 0x878
 Yuka「And if this hypothesis is right, then what I'm about to say%Nmight also be possible.」%K%P
 
 0x884
-Yuka「Tomorrow―On Saturday, April 6th... we will be sent... to%Nthe world of five days ago...」%K%P
+Yuka「Tomorrow—On Saturday, April 6th... we will be sent... to%Nthe world of five days ago...」%K%P
 
 0x890
 Makoto「That... can't be...」%K%P
@@ -353,7 +353,7 @@ At that time, an earthquake destroyed the shrine...%K%N
 Makoto tried to protect me...%K%P
 
 0xC20
-Makoto「Men ought to try their best to protect women―that's%Nthe way it's been for ages!」%K%P
+Makoto「Men ought to try their best to protect women—that's%Nthe way it's been for ages!」%K%P
 
 0xC2C
 Yuka「Well then, are you saying you'll try to protect me?」%K%P
@@ -404,7 +404,7 @@ I saw Makoto's heavily dangling palm.%K%P
 On top of it was a small fragment of light...%K%P
 
 0xD50
-―The bell.%K%P
+—The bell.%K%P
 
 0xD5C
 It was so painful...%K%N
@@ -428,7 +428,7 @@ My heart... felt as if it had been gouged out by a sharp%Nknife.%K%P
 I broke my promise...%K%P
 
 0xDB0
-"After this, with no exceptions, I won't approach this%Nshrine..." ―Even though I swore that...%K%P
+"After this, with no exceptions, I won't approach this%Nshrine..." —Even though I swore that...%K%P
 
 0xDBC
 This is the reparation... for my extremely great betrayal.%K%P
@@ -455,8 +455,8 @@ It might have been my wish.%K%N
 Or it might have been Makoto's wish.%K%P
 
 0xEBC
-"I want to go back to that time , once more―!"%K%P
+"I want to go back to that time , once more—!"%K%P
 
 0xF2C
-―At that time , a miracle happened...%K%P
+—At that time , a miracle happened...%K%P
 

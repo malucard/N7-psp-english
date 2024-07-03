@@ -23,8 +23,8 @@ Kurumi「Shall we go pay our respects?」%K%P
 誠「お参りって……どこに？」%K%P
 Makoto「'Pay our respects'... where?」%K%P
 0x1AC
-くるみ「そんなの決まってるじゃな～い！」%K%P
-Kurumi「That's obvious～!」%K%P
+くるみ「そんなの決まってるじゃな〜い！」%K%P
+Kurumi「That's obvious〜!」%K%P
 0x1B8
 誠「？？？」%K%P
 Makoto「???」%K%P
@@ -68,7 +68,7 @@ Makoto「... H-Hey, Kurumi, could you not say that so bluntly?」%K%P
 誠「ひっそりと、自分だけの胸のうちにしまっとくもんだ」%K%P
 Makoto「It's kind of embarrassing if you put it like that.」%K%P
 0x300
-くるみ「ふ～ん……そうなんだぁ」%K%P
+くるみ「ふ〜ん……そうなんだぁ」%K%P
 Kurumi「Hmm... is that so...」%K%P
 0x30C
 言いながら、くるみはひとり、顔をほころばせている。%K%P
@@ -92,7 +92,7 @@ Makoto「W-What!?」%K%P
 くるみ「ちゅう、しよっ？」%K%P
 Kurumi「Let's kiss.」%K%P
 0x368
-誠「だからぁ～、そういうもんはなぁ……」%K%P
+誠「だからぁ〜、そういうもんはなぁ……」%K%P
 Makoto「I told you, saying something like that is...」%K%P
 0x37C
 くるみ「ダメ？」%K%P
@@ -101,8 +101,8 @@ Kurumi「You won't do it?」%K%P
 誠「……………………」%K%P
 Makoto「...」%K%P
 0x39C
-くるみ「じゃあくるみ、約束破っちゃお～♪」%K%P
-Kurumi「Then Kurumi will break our promise～♪」%K%P
+くるみ「じゃあくるみ、約束破っちゃお〜♪」%K%P
+Kurumi「Then Kurumi will break our promise〜♪」%K%P
 0x3A8
 誠「約束？？？」%K%P
 Makoto「Promise???」%K%P
@@ -134,8 +134,8 @@ Kurumi presents her cheek.%K%P
 ……どうしよう……？%K%P
 ... What should I do...?%K%P
 0x430
-……う～ん……。%K%P
-... Hmm～...%K%P
+……う〜ん……。%K%P
+... Hmm〜...%K%P
 0x43C
 思い悩んだ末、そのやわらかな頬に、オレはくちびるを寄せ……%K%P
 I decide not to worry about it, and my lips close in on%Nthat soft cheek...%K%P
@@ -149,7 +149,7 @@ Kurumi「Ah!」%K%P
 誠「な、何だ？　どうかしたのか？」%K%P
 Makoto「Wh-What? Is something wrong?」%K%P
 0x47C
-くるみ「いっけな～いっ！　すっかり忘れてたよぉ！」%K%P
+くるみ「いっけな〜いっ！　すっかり忘れてたよぉ！」%K%P
 Kurumi「This is bad! Kurumi completely forgot about it!」%K%P
 0x488
 誠「な、何を？」%K%P

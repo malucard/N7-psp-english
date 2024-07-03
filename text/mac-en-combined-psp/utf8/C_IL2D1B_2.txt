@@ -56,7 +56,7 @@ Makoto「... Well, that's pretty much right.」%K%P
 Okuhiko「But is it really all right, Professor?」%K%P
 
 0x1AC
-―Professor!?%K%P
+—Professor!?%K%P
 
 0x1C0
 I carefully follow Okuhiko's gaze, which is fixed on...%K%P
@@ -119,7 +119,7 @@ Okuhiko「Ah, damn, how should I explain this?」%K%P
 Okuhiko「In short, the two of us...」%K%P
 
 0x2F8
-Okuhiko「―Were trying to deceive all of you.」%K%P
+Okuhiko「—Were trying to deceive all of you.」%K%P
 
 0x314
 Haruka「... All of us?」%K%P
@@ -164,7 +164,7 @@ Makoto「... 'Professor'... Why are you calling Izumi-san 'Professor'?」%K%P
 Makoto「What the hell... is this experiment...?」%K%P
 
 0x410
-Makoto「―What is this fucking experiment!!?」%K%P
+Makoto「—What is this fucking experiment!!?」%K%P
 
 0x41C
 My legs are trembling.%K%P

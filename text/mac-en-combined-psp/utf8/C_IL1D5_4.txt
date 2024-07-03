@@ -53,7 +53,7 @@ But to say "Izumi-san was the one in my dream", or...%K%P
 "Izumi-san, you might die tomorrow."%K%P
 
 0x1A4
-―There's no way I can say that!%K%P
+—There's no way I can say that!%K%P
 
 0x1B8
 Izumi「Huh?」%K%P
@@ -242,7 +242,7 @@ But before I can answer those feelings, there's%Nsomething I have to think about
 Right now, I don't have the time to consider anything else.%K%P
 
 0x550
-(―I shouldn't tell her about that after all!)%K%P
+(—I shouldn't tell her about that after all!)%K%P
 
 0x55C
 That's what my instincts are telling me.%K%P

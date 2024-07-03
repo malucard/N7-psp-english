@@ -17,7 +17,7 @@ One of my legs and one of my arms are in casts...%K%P
 According to the doctor, it appears I also fractured one%Nof my ribs.%K%P
 
 0x11C
-Kurumi「Why are you saying that～? It's not Kurumi's fault～!」%K%P
+Kurumi「Why are you saying that〜? It's not Kurumi's fault〜!」%K%P
 
 0x128
 Kurumi「It's because of that ridiculous stunt you pulled,%NOnii-chan!」%K%P
@@ -203,7 +203,7 @@ Their radiant smiles glow in the morning sunlight.%K%P
 When they show me smiles like that, I can't turn them down.%K%P
 
 0x5A8
-Kurumi「Yay, yay～♪ Just as planned...」%K%P
+Kurumi「Yay, yay〜♪ Just as planned...」%K%P
 
 0x5B4
 Makoto「...」%K%P
@@ -248,7 +248,7 @@ Haruka「No, it really does exist!」%K%P
 While listening to their cheerful conversation, I continue%Nto walk at a leisurely pace.%K%P
 
 0x700
-―Clank.%K%N
+—Clank.%K%N
 
 0x70C
 The tip of my crutches touch something.%K%P
@@ -287,7 +287,7 @@ Haruka bends down, and picks up the shining object.%K%P
 Haruka places it in my unbroken hand.%K%P
 
 0x7B4
-―It's the bell.%K%N
+—It's the bell.%K%N
 
 0x7C0
 It's smashed and crushed flat, but it's "that bell".%K%P
@@ -314,7 +314,7 @@ Makoto「No... it's nothing.」%K%P
 Makoto「This thing is just...」%K%P
 
 0x85C
-Makoto「―Junk!」%K%P
+Makoto「—Junk!」%K%P
 
 0x868
 I say this, and throw the smashed bell towards the%Nocean.%K%P
@@ -365,7 +365,7 @@ Kurumi「Oh, that's right! Almost forgot!」%K%P
 Kurumi「Would you put these on the counter of the shop?」%K%P
 
 0xB20
-Kurumi takes something out of her pocket―it's the%Ncards.%K%P
+Kurumi takes something out of her pocket—it's the%Ncards.%K%P
 
 0xB2C
 As I take the cards from Kurumi...%K%P
@@ -548,10 +548,10 @@ A scrap of paper... It seems like some kind of leaflet.%K%P
 (Why do I feel like I've seen this before...?)%K%P
 
 0xFC8
-"July 6th (Saturday) ―Shiki no Mori(司紀杜) Festival."%K%N
+"July 6th (Saturday) —Shiki no Mori(司紀杜) Festival."%K%N
 
 0xFD4
-"July 7th (Sunday) ―Tokitsukasa (杜紀司) Festival".%K%N
+"July 7th (Sunday) —Tokitsukasa (杜紀司) Festival".%K%N
 
 0xFE0
 "Invite all of your family members, and please%Nparticipate."%K%P
@@ -647,7 +647,7 @@ I can see her glossy, shining lips, wet from the tea.%K%P
 I can see the tip of her red tongue between her white%Nteeth.%K%P
 
 0x1154
-―Clang!%K%P
+—Clang!%K%P
 
 0x1160
 When I come to my senses, I've sprung up from the chair,%Nand am now standing.%K%P
@@ -695,5 +695,5 @@ We're confirming each other's existences, and our%Nmaturing feelings.%K%P
 Before long, our lips part from each other...%K%N
 
 0x122C
-... Izumi-san says this last.%K%P"The stars will continue to shine for eternity..."%K%P"In the water... always... always..."%K%P"So don't... forget this shine, okay?"%K%P"We'll always..."%K%P"Be together, right...?"%K%PI silently rummage through my pocket.%K%PI take out...%K%P―The small glass bottle. The three stars are swaying in%Nthe water, twinkling brightly...%K%PThe cards spread out on the floor...%K%N... They're completely blank...%K%P%LC%C[afaTo see the Grand Finale, please watch this ending%Nonce more.%K%P
+... Izumi-san says this last.%K%P"The stars will continue to shine for eternity..."%K%P"In the water... always... always..."%K%P"So don't... forget this shine, okay?"%K%P"We'll always..."%K%P"Be together, right...?"%K%PI silently rummage through my pocket.%K%PI take out...%K%P—The small glass bottle. The three stars are swaying in%Nthe water, twinkling brightly...%K%PThe cards spread out on the floor...%K%N... They're completely blank...%K%P%LC%C[afaTo see the Grand Finale, please watch this ending%Nonce more.%K%P
 

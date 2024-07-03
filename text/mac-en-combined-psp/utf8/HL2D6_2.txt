@@ -248,7 +248,7 @@ And in the worst-case scenario that she's not there, if I%Nborrow the bicycle at
 BANG, BANG! BANG, BANG! ... I pound on the door to%NLunabeach with enough force to break it.%K%P
 
 0xC54
-Izumi「Yesss... who is it～?」%K%P
+Izumi「Yesss... who is it〜?」%K%P
 
 0xC60
 It seems that Izumi-san is still awake.%K%P
@@ -830,10 +830,10 @@ When she looked at me... her gaze...%K%N
 The feel of her arms... her warmth... Her soft lips...%K%P
 
 0x2158
-―I don't want to forget that!%K%N
+—I don't want to forget that!%K%N
 
 0x2164
-―I don't want to lose that!%K%P
+—I don't want to lose that!%K%P
 
 0x2170
 So I've got to think!%K%P
@@ -944,7 +944,7 @@ But... If Kurumi isn't there either...%K%N
 I can think nothing but bad thoughts.%K%P
 
 0x269C
-―Just then, someone calls out!%K%P
+—Just then, someone calls out!%K%P
 
 0x26A8
 Okuhiko「OI! ISHIHARAAA!!! I FOUND HER, OVER HERE!!」%K%P
@@ -992,7 +992,7 @@ But now's not the time to think about things like that!%K%P
 Makoto「Kurumi! Ride in the back!」%K%P
 
 0x27C4
-Kurumi「Huh, huh? Don't be pushy, Onii-chan～」%K%P
+Kurumi「Huh, huh? Don't be pushy, Onii-chan〜」%K%P
 
 0x27D0
 Makoto「Look, just hurry!!」%K%P
@@ -1082,7 +1082,7 @@ Before I know it, I forget the pain in my whole body, and%Nkiss Haruka on her li
 ... Haruka's breath... is warm...%K%N
 
 0x2A70
-―WARM!?%K%P
+—WARM!?%K%P
 
 0x2AA0
 Haruka「... Good morning.」%K%P
@@ -1313,5 +1313,5 @@ Although I knew everything beforehand, I couldn't%Nchange anything.%K%P
 And so, I will probably go to meet Haruka again.%K%N
 
 0x30D0
-―A Haruka who doesn't know me...%K%P
+—A Haruka who doesn't know me...%K%P
 

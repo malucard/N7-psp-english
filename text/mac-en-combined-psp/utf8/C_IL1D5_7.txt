@@ -41,7 +41,7 @@ The gray skies make me feel like I'm in an old black and%Nwhite photo.%K%P
 The air is very damp, but there's no sea breeze. The%Nonly sound I hear is that of the waves breaking on the%Ncape.%K%P
 
 0x1C4
-Makoto「Schr▼dinger's cat, huh...」%K%P
+Makoto「Schrödinger's cat, huh...」%K%P
 
 0x1D0
 I mutter this to myself as I blankly stare at this colorless%Nworld.%K%P
@@ -80,28 +80,28 @@ In other words, that's the way it is.%K%P
 There's no way that event could have happened unless%NI'd known all of the positions of the cards!%K%P
 
 0x290
-―A premonition.%K%N
+—A premonition.%K%N
 
 0x29C
 It was another premonition, just like all the others...%K%P
 
 0x2A8
-―Haruka falling onto Moon Beach.%K%N
+—Haruka falling onto Moon Beach.%K%N
 
 0x2B4
-―The fact that there was no rice left at Lunabeach.%K%N
+—The fact that there was no rice left at Lunabeach.%K%N
 
 0x2C0
-―The earthquake at Tsukiya Hotel's pool.%K%P
+—The earthquake at Tsukiya Hotel's pool.%K%P
 
 0x2CC
-―The car battery.%K%N
+—The car battery.%K%N
 
 0x2D8
-―What we were eating for dinner.%K%N
+—What we were eating for dinner.%K%N
 
 0x2E4
-―And those cards...%K%P
+—And those cards...%K%P
 
 0x2F0
 ...%K%P
@@ -203,13 +203,13 @@ Makoto「Why...」%K%P
 Makoto「Why does Izumi-san have to die!!!?」%K%P
 
 0x544
-―Clang!%K%P
+—Clang!%K%P
 
 0x550
 I kick the iron fence with all of my might.%K%P
 
 0x55C
-―Clang! Clang! Clang! Clang!%K%P
+—Clang! Clang! Clang! Clang!%K%P
 
 0x568
 I kick it countless times, to the point where I want to%Ndestroy it.%K%P
@@ -227,10 +227,10 @@ Nothing is breaking...%K%P
 That only serves to make me more irritated than before.%K%P
 
 0x5A4
-―Clang! Clang! Clang! Clang!%K%P
+—Clang! Clang! Clang! Clang!%K%P
 
 0x5B0
-―Clang! Clang! Clang! Clang!%K%P
+—Clang! Clang! Clang! Clang!%K%P
 
 0x5BC
 The dull sound of my kicks against the iron echoes%Nunder the grey skies...%K%P

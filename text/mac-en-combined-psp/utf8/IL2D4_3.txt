@@ -14,7 +14,7 @@ Right now, Okuhiko is holding the medicine in his hand%Nwhile apparently looking
 When Yuka sees Okuhiko like that, she suddenly speaks%Nup.%K%P
 
 0x94
-Yuka「Hey～, Makoto～. Did you steal them?」%K%P
+Yuka「Hey〜, Makoto〜. Did you steal them?」%K%P
 
 0xA0
 Makoto「Huh?」%K%P
@@ -116,7 +116,7 @@ I stand by on the sidelines, watching as a spectator.%K%N
 But...%K%P
 
 0x370
-Yuka「Mmmph～～～!! Dash it, eyam pisshed!!!」%K%P
+Yuka「Mmmph〜〜〜!! Dash it, eyam pisshed!!!」%K%P
 
 0x384
 Saki「... Huh?」%K%P
@@ -131,7 +131,7 @@ She looks really drunk...%K%P
 Saki「Ow, ow... AGH! You've done it now!!!」%K%P
 
 0x3D8
-Yuka「Kya! Yuu shcratched me wif yer nailsh... Damn yuu～!」%K%P
+Yuka「Kya! Yuu shcratched me wif yer nailsh... Damn yuu〜!」%K%P
 
 0x3E4
 And so, a big fight begins between both of them, one%Nthat we had not planned.%K%P

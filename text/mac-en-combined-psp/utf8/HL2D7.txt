@@ -149,7 +149,7 @@ And then one week after that... Haruka is finally allowed%Nto leave the hospital
 いづみ「本当によかったわね。一時はどうなることかと%N思ったわ」%K%P
 Izumi「I'm really glad. For a while, I was really worried over what%Nwould happen.」%K%P
 0x540
-くるみ「ホントよ～。それにあの時、お兄ちゃんったら%N何にも言わないでくるみを自転車に乗せたんだから！どっかさらわれちゃうのかと思ったよ～。%N結構怖かったんだからね～！！」%K%P
+くるみ「ホントよ〜。それにあの時、お兄ちゃんったら%N何にも言わないでくるみを自転車に乗せたんだから！どっかさらわれちゃうのかと思ったよ〜。%N結構怖かったんだからね〜！！」%K%P
 Kurumi「Same. Back then, Onii-chan said nothing and took off with%NKurumi on the bike! Kurumi thought she was being%Nkidnapped. She was really scared!!」%K%P
 0x54C
 日曜日、退院した遙とオレは、置きっぱなしに%Nなっていた荷物を取りに、島に戻って来た。%K%P
@@ -206,8 +206,8 @@ Izumi-san looks straight at Haruka. Her eyes are cloudy%Nwith tears.%K%N
 そして……それは遙も同じだった……。%K%P
 And... Haruka is the same...%K%P
 0x6E4
-くるみ「えー？　お姉ちゃん何言ってるの？%N遙さんの方がお姉ちゃんだよ～。%Nお兄ちゃんもいるしね～」%K%P
-Kurumi「Huh? What are you talking about, Onee-chan?%NHaruka-san is the older sister here. Because she's with%NOnii-chan～」%K%P
+くるみ「えー？　お姉ちゃん何言ってるの？%N遙さんの方がお姉ちゃんだよ〜。%Nお兄ちゃんもいるしね〜」%K%P
+Kurumi「Huh? What are you talking about, Onee-chan?%NHaruka-san is the older sister here. Because she's with%NOnii-chan〜」%K%P
 0x6F8
 遙「うん……そうね。くるみはいい子にしてるのよ」%K%P
 Haruka「Yes... you're right. You're a good girl, Kurumi.」%K%P

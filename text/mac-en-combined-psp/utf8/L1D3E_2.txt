@@ -419,25 +419,25 @@ Haruka「...」%K%P
 Saki「What is it? Get the hell away from me! I have no business%Nwith you, you damn clone...!」%K%P
 
 0x11FC
-Haruka「―!」%K%P
+Haruka「—!」%K%P
 
 0x1208
-Makoto「―!」%K%P
+Makoto「—!」%K%P
 
 0x1214
-Okuhiko「―Ah...」%K%P
+Okuhiko「—Ah...」%K%P
 
 0x1220
-Yuka「―Huh?」%K%P
+Yuka「—Huh?」%K%P
 
 0x122C
-Kurumi「―Clone?」%K%P
+Kurumi「—Clone?」%K%P
 
 0x1254
 In that instant, it feels like the world has stopped.%K%P
 
 0x1260
-―She says Haruka's a clone.%K%P
+—She says Haruka's a clone.%K%P
 
 0x126C
 An existence created by using part of some person's%Ncells to artificially fertilize an egg.%K%P
@@ -467,7 +467,7 @@ Haruka's sweating face as she pedaled the bike.%K%P
 The enthusiastic Haruka who forgot herself as much as%Nshe could when she went fishing with me.%K%P
 
 0x12F8
-The Haruka who asked me to kiss her. ―That face. That%Nblushing face.%K%P
+The Haruka who asked me to kiss her. —That face. That%Nblushing face.%K%P
 
 0x1304
 That same Haruka is a clone?%K%P
@@ -512,7 +512,7 @@ That's right. The existence of clones is legal.%K%P
 In the past, those who created clones were accused as%Nhaving committed a grave sin, and the clones%Nthemselves were also persecuted by humans...%K%P
 
 0x13F4
-―But why?%K%N
+—But why?%K%N
 
 0x1400
 Okuhiko's and Yuka's defense sounded a bit off.%K%P
@@ -539,7 +539,7 @@ Yuka「Ah, wait, Saki...!」%K%P
 When she sees Saki begin to run, Yuka chases after her.%NThey head down the road towards the summer house.%K%P
 
 0x1490
-―I can't see Yuka anymore. She runs past us faster%Nthan a raging storm, leaving us stranded.%K%P
+—I can't see Yuka anymore. She runs past us faster%Nthan a raging storm, leaving us stranded.%K%P
 
 0x149C
 An awkward atmosphere hangs in the air.%K%P
@@ -704,7 +704,7 @@ I'm worried about Haruka's expression just now. She%Ndidn't look very happy...%K
 I go to Saki's summer house. The chilly late afternoon air%Npierces my body.%K%P
 
 0x187C
-―After Haruka went inside, I calmed down the sobbing%NKurumi, and tried going to Haruka's room. I called out to%Nher many times, but she didn't leave her room.%K%P
+—After Haruka went inside, I calmed down the sobbing%NKurumi, and tried going to Haruka's room. I called out to%Nher many times, but she didn't leave her room.%K%P
 
 0x1888
 Did I say something wrong?%K%P

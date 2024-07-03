@@ -89,7 +89,7 @@ Haruka「...」%K%P
 Saki「What is it?! Get the hell away from me! I have no business%Nwith you, you damn clone...!」%K%P
 
 0x328
-Haruka「―!」%K%P
+Haruka「—!」%K%P
 
 0x354
 Haruka「Will you... will you always help me?」%K%P
@@ -191,7 +191,7 @@ For eternity...%K%P
 ...%K%P
 
 0x63C
-(... Mmm... Mmm～...)%K%P
+(... Mmm... Mmm〜...)%K%P
 
 0x650
 My eyes suddenly open.%K%N
@@ -320,7 +320,7 @@ There's something I want to ask her, right?%K%N
 I know what it is...%K%P
 
 0x904
-―Haruka, what do you think of me?%K%P
+—Haruka, what do you think of me?%K%P
 
 0x920
 Makoto「... Haruka!」%K%P

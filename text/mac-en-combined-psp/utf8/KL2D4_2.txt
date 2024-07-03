@@ -74,7 +74,7 @@ In the end, all we've done is switch positions, as the%Nsame thing happened.%K%P
 History... repeated itself.%K%N
 
 0x258
-―History repeated itself.%K%N
+—History repeated itself.%K%N
 
 0x264
 Such unpleasant words...%K%P

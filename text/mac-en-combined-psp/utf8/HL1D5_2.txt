@@ -74,7 +74,7 @@ Makoto「W-well... a little... It's that fairytale by the Grimm Brothers,%Nright
 I've never read it before, but I do have a very vague%Nmemory of seeing it in a picture book once...%K%P
 
 0x404
-Haruka「The Grimm Brothers' story is 'Briar Rose'―'Sleeping%NBeauty' was written by Perrault.」%K%P
+Haruka「The Grimm Brothers' story is 'Briar Rose'—'Sleeping%NBeauty' was written by Perrault.」%K%P
 
 0x410
 Makoto「Huh? Oh, really?」%K%P

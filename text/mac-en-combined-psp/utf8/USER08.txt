@@ -447,7 +447,7 @@ Yuka「Oooh? Yer sure havin' fuuun, huh, Okuhiko-taaan?」%K%P
 Okuhiko「Oh, it's nothing, really. You see, actually, Haruka-chan%Nwas just...」%K%P
 0xD90
 億彦「っておわぁっ！？」%K%P
-Okuhiko「Wha―hey?!」%K%P
+Okuhiko「Wha—hey?!」%K%P
 0xD9C
 いきなり目の前に現れた優夏ちゃんの顔に僕は思わずのけぞった。%K%P
 I spontaneously fall backwards at Yuka-chan's face%Nsuddenly appearing in front of my own.%K%P

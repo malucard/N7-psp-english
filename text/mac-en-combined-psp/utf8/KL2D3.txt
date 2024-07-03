@@ -77,7 +77,7 @@ Tomorrow is no doubt the most important day yet.%K%P
 It's probably my only chance.%K%P
 
 0x3E0
-―My chance to solve all the mysteries.%K%P
+—My chance to solve all the mysteries.%K%P
 
 0x3EC
 I'll go to Lunabeach to help Izumi-san, and then... I'll ask%Nher for the truth!%K%P
@@ -98,10 +98,10 @@ And that time will come tomorrow.%K%P
 However, if I wait until we're at the pier tomorrow%Nafternoon, it'll definitely be too late.%K%P
 
 0x434
-I have to ask her as early as possible. ―Maybe when%NKurumi's at Princess Beach, when we won't be%Ninterrupted...%K%P
+I have to ask her as early as possible. —Maybe when%NKurumi's at Princess Beach, when we won't be%Ninterrupted...%K%P
 
 0x440
-―I want to know everything about Kurumi.%K%P
+—I want to know everything about Kurumi.%K%P
 
 0x44C
 That way, I won't make the same mistake again...%K%P

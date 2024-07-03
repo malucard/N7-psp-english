@@ -2,10 +2,10 @@ text area offset and size:
 0xE90
 0x203A
 0x134
-―*Knock*, *knock*! *Knock*, *knock*! Someone's%Nknocking on the door.%K%P
+—*Knock*, *knock*! *Knock*, *knock*! Someone's%Nknocking on the door.%K%P
 
 0x140
-(Mmm... Mmm～...)%K%P
+(Mmm... Mmm〜...)%K%P
 
 0x14C
 (Who would come over... so late at night...?)%K%P
@@ -20,7 +20,7 @@ The knocking continues.%K%N
 I walk over to the door, and open it.%K%P
 
 0x3B0
-―Wham!%K%P
+—Wham!%K%P
 
 0x3BC
 Makoto「!?」%K%P
@@ -236,7 +236,7 @@ When I look up in surprise...%K%P
 Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
 
 0x928
-Okuhiko「Neutrino Energy, Power On! ... Trans～form! ... There! ...%NZzz...」%K%P
+Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ...%NZzz...」%K%P
 
 0x93C
 Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
@@ -287,7 +287,7 @@ There's a cool and clear beauty to her face as she%Nlooks up at the stars.%K%N
 It looks as if all the filthy things the world has burdened%Nher with are starting to be dispelled by the light of the%Nstars...%K%P
 
 0xAC0
-That's when it hits me.%K ―What does Haruka mean to%Nme...?%K%P
+That's when it hits me.%K —What does Haruka mean to%Nme...?%K%P
 
 0xACC
 My heart clutches at the thought.%K%PThe memories of the time I've spent with Haruka here over%Nthe past few days rush through my mind.%K%P

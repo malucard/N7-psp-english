@@ -110,7 +110,7 @@ This is bad...%K%P
 This is really bad.%K%P
 
 0x288
-Yuka's definitely going to say it―that's what my%Nintuition is telling me.%K%P
+Yuka's definitely going to say it—that's what my%Nintuition is telling me.%K%P
 
 0x294
 I've got to turn this conversation in a different direction!%K%P
@@ -155,7 +155,7 @@ Makoto「Ah! If you look closely, Haruka's eyes are like a rabbit's!%NBounce, bo
 Haruka「...」%K%P
 
 0x36C
-Makoto「Okuhiko, umm... Falalalalalala～♪」%K%P
+Makoto「Okuhiko, umm... Falalalalalala〜♪」%K%P
 
 0x380
 Okuhiko「A-Are you all right, Ishihara?」%K%P
@@ -167,7 +167,7 @@ Makoto「Um, umm... Let's see, let's see...」%K%P
 Yuka「To... To... To...」%K%P
 
 0x3B4
-―Shit!%K%P
+—Shit!%K%P
 
 0x3C0
 Yuka「To... To... To...」%K%P
@@ -287,7 +287,7 @@ But, well... things turned out all right in the end...%K%N
 If we stay like this, Saki won't get swallowed up by the%Nwave.%K%P
 
 0x890
-―We changed history.%K%N%N
+—We changed history.%K%N%N
 
 0x89C
 Yuka and I were actually able to change it.%K%N
@@ -422,7 +422,7 @@ I casually examine the others.%K%P
 They really seem lively, their cheeks dyed pink from the%Nsetting sun.%K%P
 
 0xD54
-―I'll only change the bad events into good ones.%K%P
+—I'll only change the bad events into good ones.%K%P
 
 0xD60
 That plan has been a splendid success so far.%K%P
@@ -482,7 +482,7 @@ Haruka and I going fishing...%K%P
 Kissing her on the forehead under that sunset sky...%K%P
 
 0xEE8
-Yes. That's tomorrow―on the 3rd.%K%P
+Yes. That's tomorrow—on the 3rd.%K%P
 
 0xEF4
 Makoto「Yeah! I'm great at fishing!」%K%P

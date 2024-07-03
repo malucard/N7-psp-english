@@ -41,7 +41,7 @@ A dream, huh?%K%P
 (What an awful nightmare...)%K%P
 
 0x134
-―??? The 1st? Isn't that impossible? I definitely...%K%P
+—??? The 1st? Isn't that impossible? I definitely...%K%P
 
 0x15C
 That's right. Last night, I definitely went out on a walk with%NHaruka. And then...%K And then, she tried to save that%Npuppy...%K%P
@@ -68,7 +68,7 @@ No, there's no way that's possible.%K%P
 I coldly smirk, mocking myself.%K%P
 
 0x1D8
-―Then, at that moment!%K%N
+—Then, at that moment!%K%N
 
 0x1E4
 The door to my room is violently thrown open with enough%Nforce to break it.%K%P

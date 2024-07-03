@@ -53,7 +53,7 @@ When I look up in surprise...%K%P
 Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
 
 0x2EC
-Okuhiko「Neutrino Energy, Power On! ... Trans～form! ... There! ...%NZzz...」%K%P
+Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ...%NZzz...」%K%P
 
 0x300
 Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
@@ -203,7 +203,7 @@ Saki crouches down, and presents the plastic container%Nto the puppy.%K%P
 It excitedly chews on the meat.%K%P
 
 0x6E8
-―I see!%K%P
+—I see!%K%P
 
 0x6F4
 I recall the quarrel at the barbecue.%K%P
@@ -791,7 +791,7 @@ Saki and I continue to lie on the ground while being%Nbathed by the stars' radia
 ... ... ...%K%P
 
 0x152C
-―If this were a movie, then things would have ended%Nperfectly, but...%K%N
+—If this were a movie, then things would have ended%Nperfectly, but...%K%N
 
 0x1538
 ... Reality is something that doesn't often go that well.%K%P

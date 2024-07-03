@@ -74,16 +74,16 @@ I have memories of what happened before that, and the%Nday before that, and the 
 One by one, I remember the various events that%Nhappened during the Camp.%K%P
 
 0x1D4
-―That's wrong!%K%P
+—That's wrong!%K%P
 
 0x1E0
-―That's wrong! What the hell am I saying!?%K%P
+—That's wrong! What the hell am I saying!?%K%P
 
 0x1EC
-―That wasn't a "dream"!!%K%P
+—That wasn't a "dream"!!%K%P
 
 0x1F8
-―There's no way in hell that was a "dream"...%K%P
+—There's no way in hell that was a "dream"...%K%P
 
 0x220
 Suddenly, I hear a sound as violent as a gunshot!%K%P
@@ -110,13 +110,13 @@ I quickly look at my watch.%K%P
 "1 MON 09:19 A.M."%K%P
 
 0x2C4
-―1st.%K%P
+—1st.%K%P
 
 0x2D0
-―1st?%K%P
+—1st?%K%P
 
 0x2DC
-―1st???%K%P
+—1st???%K%P
 
 0x2E8
 Makoto「THE FIRST!!!!!!!!?」%K%P

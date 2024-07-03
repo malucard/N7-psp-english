@@ -77,7 +77,7 @@ Right now, it's clear that only Izumi-san can understand%Nmy mental state.%K%P
 Likewise, I'm the only one who's able to understand hers.%K%P
 
 0x294
-What is Izumi-san feeling right now? ―The answer to%Nthat is clear to me.%K%P
+What is Izumi-san feeling right now? —The answer to%Nthat is clear to me.%K%P
 
 0x2A0
 Obviously, it's because the only ones that experienced%Nthis incomprehensible phenomenon are Izumi-san and I...%K%P
@@ -179,7 +179,7 @@ While I'm thinking this, we arrive at Moon Beach in the blink%Nof an eye.%K%P
 Yuka lets go of my hand, and ascends the bank in front%Nof her.%K%P
 
 0x564
-Yuka「Wow～♪ Look, the scenery's amazing...」%K%P
+Yuka「Wow〜♪ Look, the scenery's amazing...」%K%P
 
 0x570
 Lured in by her voice, Haruka and Okuhiko also climb up%Nthe bank.%K%P
@@ -278,7 +278,7 @@ And before Haruka actually fell, I definitely saw that%Nevent happen.%K%P
 Up until now, I just thought that was a premonition, but it%Nseems that I was wrong.%K%P
 
 0x7E0
-―Time travel.%K%P
+—Time travel.%K%P
 
 0x7EC
 If I had time traveled once more before those past six%Ndays, then it wouldn't be odd for me to know in advance%Nabout Haruka falling.%K%P
@@ -293,7 +293,7 @@ Which means... isn't it like this?%K%P
 There's today's April 1st, then there was the last April 1st,%Nand an April 1st before that one, so if I continue with that%Npattern...%K%P
 
 0x81C
-―Is this an infinite loop?%K%P
+—Is this an infinite loop?%K%P
 
 0x828
 I may have been experiencing these past six days%Ncountless times, with no end in sight.%K%P
@@ -374,7 +374,7 @@ This is all too confusing.%K%P
 Just when I was starting to have a grasp on things,%Neverything falls apart and doesn't make any sense.%K%P
 
 0x99C
-Yuka「Hey, Makoto～! Over here!」%K%P
+Yuka「Hey, Makoto〜! Over here!」%K%P
 
 0x9A8
 I turn around, and see Yuka waving in front of Lunabeach.%K%P

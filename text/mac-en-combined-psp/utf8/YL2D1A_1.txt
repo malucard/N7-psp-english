@@ -53,16 +53,16 @@ What's going on?%K%P
 Then... Then... the dream I had just now...%K%P
 
 0x198
-―That's wrong!%K%P
+—That's wrong!%K%P
 
 0x1A4
-―That's wrong! What the hell am I saying!?%K%P
+—That's wrong! What the hell am I saying!?%K%P
 
 0x1B0
-―That wasn't a "dream"!!%K%P
+—That wasn't a "dream"!!%K%P
 
 0x1BC
-―There's no way in hell that was a "dream"...%K%P
+—There's no way in hell that was a "dream"...%K%P
 
 0x200
 Suddenly, I hear a sound as violent as a gunshot!%K%P
@@ -161,7 +161,7 @@ Yuka leans in close as we both look at my watch's face.%K%P
 Makoto「Somehow...」%K%P
 
 0x3F8
-Makoto「... It seems to be that way. In other words, we―」%K%P
+Makoto「... It seems to be that way. In other words, we—」%K%P
 
 0x404
 Before I can finish talking, Yuka dives towards me.%K%P

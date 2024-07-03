@@ -71,7 +71,7 @@ Kurumi sits down on the bed next to me, acting like she's%Ndeep in thought.%K%P
 She's so close to me that our shoulders are almost%Ntouching each other... Kurumi is blushing a little.%K%P
 
 0x218
-―And at that time!%K%P
+—And at that time!%K%P
 
 0x248
 From outside the partly open door, I hear the sound of%Nsomething striking the floor.%K%P
@@ -95,7 +95,7 @@ There's something in front of my room...%K%N
 Lying at the foot of the door is...%K%N
 
 0x2EC
-―"Aspirin".%K%P
+—"Aspirin".%K%P
 
 0x2F8
 The box of medicine seems to have been thrown%Nconsiderably hard, as it's smashed.%K%P

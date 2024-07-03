@@ -98,7 +98,7 @@ What are the odds of that?%K%P
 ... ... ...%K%P
 
 0x24C
-Makoto「Whew～, thanks for the meal!」%K%P
+Makoto「Whew〜, thanks for the meal!」%K%P
 
 0x258
 Izumi-san's shrimp pilaf has finally satisfied my hunger.%K%P
@@ -164,7 +164,7 @@ Izumi「Could you please help out?」%K
 Makoto「Yes, leave it to me, Izumi-san!」%K%P
 
 0x404
-Izumi「Really? You're a lifesaver～♪」%K%P
+Izumi「Really? You're a lifesaver〜♪」%K%P
 
 0x418
 Izumi「Thank you, Makoto-kun♪」%K%P

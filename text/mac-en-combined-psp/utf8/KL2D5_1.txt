@@ -68,7 +68,7 @@ Kurumi「Hee hee hee hee hee...」%K%P
 Kurumi「Kurumi thought this would happen...」%K%P
 
 0x2C0
-Kurumi「Ta-da～♪ It's a KuruKuru Kurumiracle～♪」%K%P
+Kurumi「Ta-da〜♪ It's a KuruKuru Kurumiracle〜♪」%K%P
 
 0x2CC
 Kurumi opens the basket she's been holding.%K%P
@@ -182,7 +182,7 @@ Kurumi「Then you can... if you beat Kurumi in%NRock-Paper-Scissors♪」%K%P
 Rock-Paper-Scissors???%K%P
 
 0x524
-Kurumi「Let's go～♪ Rock, Paper, Scissors...」%K%P
+Kurumi「Let's go〜♪ Rock, Paper, Scissors...」%K%P
 
 0x530
 Makoto「Go!」%K%P
@@ -191,13 +191,13 @@ Makoto「Go!」%K%P
 In that instant, I remember that I lost by using "paper"%Nlast time, so I instantly go with "rock".%K%P
 
 0x550
-Kurumi「Yay～, Kurumi won～♪」%K%P
+Kurumi「Yay〜, Kurumi won〜♪」%K%P
 
 0x55C
 She's right... Kurumi has "paper".%K%P
 
 0x568
-Kurumi「Like Kurumi said, you don't get to see it, Onii-chan～」%K%P
+Kurumi「Like Kurumi said, you don't get to see it, Onii-chan〜」%K%P
 
 0x574
 ...%K%N
@@ -260,7 +260,7 @@ Kurumi「Ta-da♪ It's KuruKuru Kurumi Magic♪」%K%P
 Makoto「That's origami, isn't it?」%K%P
 
 0x6F4
-Kurumi「Bingo～♪」%K%P
+Kurumi「Bingo〜♪」%K%P
 
 0x700
 Kurumi「By the way, Onii-chan, can you fold origami?」%K%P
@@ -269,7 +269,7 @@ Kurumi「By the way, Onii-chan, can you fold origami?」%K%P
 Makoto「Yeah! Leave it to me! I'm a master at folding origami%Nturtles!」%K%P
 
 0x720
-Kurumi「Wha～at! No way～!」%K%P
+Kurumi「Wha〜at! No way〜!」%K%P
 
 0x72C
 She stares at me with doubt...%K%P
@@ -329,28 +329,28 @@ Kurumi「Ah... impressive. Even though that's the most difficult%Npart...」%K%P
 Her praise makes me a little proud.%K%P
 
 0x818
-Humm, humm～♪ Humm, humm～♪ Humm, humm, humm～♪%K%P
+Humm, humm〜♪ Humm, humm〜♪ Humm, humm, humm〜♪%K%P
 
 0x824
 Fold, fold... fold, fold... Fold, fold... bend, bend...%K%N
 
 0x830
-―Rip.%K%P
+—Rip.%K%P
 
 0x83C
 Makoto「Ah...」%K%P
 
 0x850
-Kurumi「Aah～! Why is it completely torn off!」%K%P
+Kurumi「Aah〜! Why is it completely torn off!」%K%P
 
 0x85C
-Kurumi「You can't do it after all～!」%K%P
+Kurumi「You can't do it after all〜!」%K%P
 
 0x868
 Makoto「No... This is...」%K%P
 
 0x874
-Kurumi「You're helpless. Kurumi will teach you～♪」%K%P
+Kurumi「You're helpless. Kurumi will teach you〜♪」%K%P
 
 0x880
 Makoto「... Sure...」%K%P

@@ -146,7 +146,7 @@ Makoto「Your reason for wanting to go back to the past...」%K%P
 (...!!)%K%P
 
 0x358
-Yuka「...But... that's alread―」%K%P
+Yuka「...But... that's alread—」%K%P
 
 0x364
 Makoto「I don't even know what it is...」%K%P
@@ -416,13 +416,13 @@ While wrapped up in both, several scenes run through%Nmy head.%K%P
 "If I could have one wish granted..."%K%P
 
 0x924
-―In the past, I would always think about that "what if".%K%P
+—In the past, I would always think about that "what if".%K%P
 
 0x930
 "I want to go back to that time once more."%K%P
 
 0x93C
-―The past me wished that.%K%P
+—The past me wished that.%K%P
 
 0x948
 In order to grant the unfulfilled desire I've held for a long%Ntime.%K%P
@@ -500,10 +500,10 @@ It might actually be a bad thing...%K%P
 "If I could have one wish granted."%K%P
 
 0xB88
-―In the past, I would always think about that "what if".%K%P
+—In the past, I would always think about that "what if".%K%P
 
 0xB94
-―What does the current me wish for?%K%P
+—What does the current me wish for?%K%P
 
 0xBE4
 ...%K%P
@@ -524,7 +524,7 @@ Yuka「Hmm? ...Mmm...」%K%P
 ??「If you don't get up soon, you'll be late, right?」%K%P
 
 0xD0C
-―L-Late!?%K%P
+—L-Late!?%K%P
 
 0xD40
 Once I realize the meaning of those words, I jump to my%Nfeet, startled.%K%P
@@ -1034,7 +1034,7 @@ Before long, Saki slowly opens her mouth...%K%P
 Saki「I do.」%K%P
 
 0x199C
-Yuka「―!!!」%K%P
+Yuka「—!!!」%K%P
 
 0x19A8
 ...I instinctively gasp.%K%P
@@ -1433,7 +1433,7 @@ I say this, and immediately offer her the coffee cup in%Nfront of me.%K%P
 Saki obediently accepts it, and brings the cup to her%Nmouth.%K%P
 
 0x21D8
-Saki「―!?」%K%P
+Saki「—!?」%K%P
 
 0x21EC
 Saki「What the hell is this? It's like ice coffee, only colder!」%K%P
@@ -1574,7 +1574,7 @@ Saki「How long...?」%K%P
 Saki「How long will this continue?」%K%P
 
 0x24F0
-―The air freezes over.%K%P
+—The air freezes over.%K%P
 
 0x2504
 Saki「You've always continued to deceive me!!!」%K%P
@@ -1604,13 +1604,13 @@ Saki「I can't wait any longer for this. You've made me impatient%Nenough.」%K%
 Saki「Come on...!」%K%P
 
 0x29CC
-Yuka「―I WISH I COULD TELL YOU!!!」%K%P
+Yuka「—I WISH I COULD TELL YOU!!!」%K%P
 
 0x29E4
 Something within me bursts open and springs forth.%K%P
 
 0x2A00
-Saki「Yu―?」%K%P
+Saki「Yu—?」%K%P
 
 0x2A24
 Yuka「I want to know that... myself...!」%K%P
@@ -1724,7 +1724,7 @@ I instinctively shut my eyes tightly.%K%P
 Not wanting to hear the rest, I try to cover my ears.%K%P
 
 0x2C70
-―But Saki pins my hands down.%K%P
+—But Saki pins my hands down.%K%P
 
 0x2CB0
 Saki「Are you planning to ignore the truth by covering your%Nears and closing your eyes like that...?」%K%P
@@ -1745,10 +1745,10 @@ Saki「Because...」%K%P
 Saki「Because that boy is already...」%K%P
 
 0x2D18
-Saki「―Dead.」%K%P
+Saki「—Dead.」%K%P
 
 0x2D24
-Yuka「―――――!!」%K%P
+Yuka「—————!!」%K%P
 
 0x2D30
 My eyes open, and I freeze on the spot.%K%P
@@ -2219,10 +2219,10 @@ And then...%K%P
 Saki「The Fourth Law of Professor Asakura's Love Formula!!」%K%P
 
 0x3610
-Yuka「―!?」%K%P
+Yuka「—!?」%K%P
 
 0x3664
-Saki「The Third Law of Professor Asakura's Love%NFormula―Promises must definitely be kept.」%K%P
+Saki「The Third Law of Professor Asakura's Love%NFormula—Promises must definitely be kept.」%K%P
 
 0x3670
 Yuka「Then what should the Fourth Law be?」%K%P
@@ -2231,7 +2231,7 @@ Yuka「Then what should the Fourth Law be?」%K%P
 Saki「Good question...」%K%P
 
 0x36BC
-Saki「Professor Asakura's Fourth Law of Love―」%K%P
+Saki「Professor Asakura's Fourth Law of Love—」%K%P
 
 0x36C8
 Saki「Men are courageous...」%K%P
@@ -2294,7 +2294,7 @@ Yuka「Waah!! Hey! Were you listening!?」%K%P
 ??「I wasn't aware that listening was a crime.」%K%P
 
 0x37FC
-Saki「Geez! This is a private conversation―!!」%K%P
+Saki「Geez! This is a private conversation—!!」%K%P
 
 0x3808
 ??「My bad, my bad... More importantly, how about this?」%K%P
@@ -2309,7 +2309,7 @@ Yuka「Hmm??」%K%P
 Saki「...What's that?」%K%P
 
 0x3848
-Boy「―The Fourth Law of Professor Asakura's Love%NForumula.」%K%P
+Boy「—The Fourth Law of Professor Asakura's Love%NForumula.」%K%P
 
 0x3888
 Yuka「Women... are charming♪」%K%P
@@ -2369,7 +2369,7 @@ Just like that, Saki turns around and walks to the front%Ndoor.%K%P
 The gentle aroma of lilac that filled my nose slowly%Ndisappears...%K%P
 
 0x3A04
-―And, when she puts her hand on the doorknob...%K%P
+—And, when she puts her hand on the doorknob...%K%P
 
 0x3A10
 Saki「Oh, right, almost forgot.」%K%P
@@ -2414,7 +2414,7 @@ Saki「It's whether or not you're able to think of yourself%Nsecond, and put the
 Saki「After all, humans are very weak creatures...」%K%P
 
 0x3B10
-Saki「So being considerate of the one you like first and%Nforemost rather than yourself―that's love', wouldn't%Nyou say?」%K%P
+Saki「So being considerate of the one you like first and%Nforemost rather than yourself—that's love', wouldn't%Nyou say?」%K%P
 
 0x3BC4
 Just past 5:00, Haruka and Okuhiko-kun return.%K%N
@@ -2441,7 +2441,7 @@ When I jokingly comment "You'll make a good wife%Nsomeday", Okuhiko-kun seems ra
 Haruka and I just tilt our heads in confusion...%K%N%N
 
 0x3C2C
-―Even though dinner has ended, Makoto is still in his%Nroom.%K%P
+—Even though dinner has ended, Makoto is still in his%Nroom.%K%P
 
 0x3CB0
 The cuckoo clock chirps eight times.%K%P
@@ -2450,7 +2450,7 @@ The cuckoo clock chirps eight times.%K%P
 It's 8:00 P.M...%K%P
 
 0x3CC8
-―Makoto still hasn't come out of his room.%K%P
+—Makoto still hasn't come out of his room.%K%P
 
 0x3CD4
 Haruka calls out to him countless times, but there's no%Nresponse.%K%P
@@ -2486,10 +2486,10 @@ At this rate, tomorrow will end without any trouble...%K%P
 We've done everything possible in the last five days to%Neliminate the sources of those troubles.%K%P
 
 0x3DC0
-―Saki didn't get swallowed by the wave.%K ―Haruka%Nand Saki never quarreled.%K ―Kurumi-chan didn't go%Nmissing.%K%P
+—Saki didn't get swallowed by the wave.%K —Haruka%Nand Saki never quarreled.%K —Kurumi-chan didn't go%Nmissing.%K%P
 
 0x3DCC
-―We never saw that talisman.%K ―And all we have to%Ndo tomorrow is not go to the shrine...%K%P
+—We never saw that talisman.%K —And all we have to%Ndo tomorrow is not go to the shrine...%K%P
 
 0x3DD8
 So at this rate, it'll be fine if I just sleep in until noon...%K%P
@@ -2501,7 +2501,7 @@ With this, everything will end.%K%P
 Everything will end...%K%P
 
 0x3E0C
-It'll soon be the 7th―in other words, the last day of%Nthe camp.%K%P
+It'll soon be the 7th—in other words, the last day of%Nthe camp.%K%P
 
 0x3E18
 When the time comes to go back, Makoto will have no%Nchoice but to see me.%K%P
@@ -2636,7 +2636,7 @@ Haruka「Purple means... 'first love'.」%K%P
 Haruka「And... 'the early emotions of love'.」%K%P
 
 0x4100
-(――!?)%K%P
+(——!?)%K%P
 
 0x410C
 Yuka「The early emotions ...of love?」%K%P
@@ -2672,10 +2672,10 @@ Haruka leaves the room while tilting her head.%K%P
 Saki「To me, everything is nothing more than a memory.」%K%P
 
 0x41EC
-―My eyelids tremble faintly.%K%P
+—My eyelids tremble faintly.%K%P
 
 0x41F8
-―Did she really... remember?%K%P
+—Did she really... remember?%K%P
 
 0x4204
 Saki「I love purple lilacs very much...」%K%P
@@ -2684,7 +2684,7 @@ Saki「I love purple lilacs very much...」%K%P
 Saki「It's the flower I use in my perfume nowadays.」%K%P
 
 0x421C
-―Purple lilacs.%K ―A purple bottle.%K%P
+—Purple lilacs.%K —A purple bottle.%K%P
 
 0x4228
 Haruka「Purple means... 'first love'.」%K%P
@@ -2693,10 +2693,10 @@ Haruka「Purple means... 'first love'.」%K%P
 Haruka「And... 'the early emotions of love'.」%K%P
 
 0x4240
-―In other words, feelings that are only... just%Nsprouting.%K%P
+—In other words, feelings that are only... just%Nsprouting.%K%P
 
 0x424C
-―She gave them... to me...%K%P
+—She gave them... to me...%K%P
 
 0x4258
 It might only be a coincidence...%K%P
@@ -2729,5 +2729,5 @@ I stare off into space, then look back at the clock.%K%P
 The hands are pointing to midnight...%K%P
 
 0x42E0
-―The time when both doves would simultaneously%Nchirp.%K%P
+—The time when both doves would simultaneously%Nchirp.%K%P
 

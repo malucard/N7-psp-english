@@ -26,7 +26,7 @@ That smile instantly calms my heart down.%K%P
 Makoto「W-Well... I don't really have anything to do today, so I%Nthought I'd help you out...」%K%P
 
 0xE0
-Izumi「Hu～uh? What a curious turn of events. Why?」%K%P
+Izumi「Hu〜uh? What a curious turn of events. Why?」%K%P
 
 0xFC
 Makoto「Remember the promise we made when I lost our race at%Nthe pool?」%K%P
@@ -38,7 +38,7 @@ Izumi「?」%K%P
 Makoto「'One day, I'll help you out at Lunabeach.'」%K%P
 
 0x120
-Izumi「Oh～. That's what you mean... It's fine, you don't have to%Ndo that...」%K%P
+Izumi「Oh〜. That's what you mean... It's fine, you don't have to%Ndo that...」%K%P
 
 0x12C
 Makoto「But I do. 'A man never goes back on his word', remember?」%K%P
@@ -134,7 +134,7 @@ Unaccustomed to this level of customers, Izumi's%Nscatterbrain mode is on turbo 
 ...%K%P
 
 0x2F4
-Izumi「Whew～, my eyes are a bit tired...」%K%P
+Izumi「Whew〜, my eyes are a bit tired...」%K%P
 
 0x300
 Makoto「AH! Izumi-san! Don't rub your eyes while holding that%Nkitchen knife!!」%K%P
@@ -143,7 +143,7 @@ Makoto「AH! Izumi-san! Don't rub your eyes while holding that%Nkitchen knife!!�
 ...%K%P
 
 0x328
-Izumi「Umm... the customer with the peperoncino and the%Nsteamed clam saut▲e was... um-」%K%P
+Izumi「Umm... the customer with the peperoncino and the%Nsteamed clam sautée was... um-」%K%P
 
 0x334
 Makoto「Izumi-san! In front of you!」%K%P
@@ -368,7 +368,7 @@ Izumi「Well then... after I'm done cleaning up, don't you think we%Nbetter be g
 ... Izumi-san prompts Kurumi, and stands up.%K%P
 
 0xA94
-Kurumi「Hu～uh!? We have to go back already?」%K%P
+Kurumi「Hu〜uh!? We have to go back already?」%K%P
 
 0xAA0
 Kurumi complains about Izumi-san's request.%K%P
@@ -443,7 +443,7 @@ Makoto「Don't worry, don't worry♪」%K%P
 Okuhiko「I'm worried!!」%K%P
 
 0xC44
-Yuka「It's all right～♪ If it's you, Okuhiko-kun, then you should%Nbe able to sleep elegantly even on the sofa♪」%K%P
+Yuka「It's all right〜♪ If it's you, Okuhiko-kun, then you should%Nbe able to sleep elegantly even on the sofa♪」%K%P
 
 0xC50
 Okuhiko「Just how the hell do you sleep elegantly on a sofa!!」%K%P

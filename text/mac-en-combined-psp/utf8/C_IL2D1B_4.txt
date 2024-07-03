@@ -56,7 +56,7 @@ There are some events that I don't want to happen%Ntwice... For example, Saki ge
 There's also that one horrific event that I don't ever%Nwant to happen again...%K%N
 
 0x1FC
-―I must prevent that terrible conclusion no matter%Nwhat, if nothing else!%K%N%N
+—I must prevent that terrible conclusion no matter%Nwhat, if nothing else!%K%N%N
 
 0x208
 But this is something that doesn't concern the others.%K%N

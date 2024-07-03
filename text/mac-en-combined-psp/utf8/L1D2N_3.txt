@@ -332,7 +332,7 @@ Okuhiko「Leave right now. You're pissing her off.」%K%P
 Makoto「H-Hey, Okuhiko...」%K%P
 
 0x79C
-Makoto「... This was... your ide―」%K%P
+Makoto「... This was... your ide—」%K%P
 
 0x7B0
 I defensively raise my voice.%K%P

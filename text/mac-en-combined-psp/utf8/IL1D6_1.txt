@@ -248,7 +248,7 @@ Izumi「KURUMIIII!!!」%K%P
 Time slowly and quietly passes by...%K%P
 
 0x810
-Izumi「Haah～... might as well close up for today.」%K%P
+Izumi「Haah〜... might as well close up for today.」%K%P
 
 0x81C
 No customers have come, so it seems like Izumi-san has%Ngiven up on today's work.%K%P
@@ -353,7 +353,7 @@ Izumi「... Makoto-kun?」%K%P
 Makoto「... 'Sorry'? ... SORRY!?」%K%P
 
 0xAD8
-Izumi「―!!」%K%P
+Izumi「—!!」%K%P
 
 0xB00
 Makoto「So you're saying that everyone has been deceiving%Nme!?」%K%P
@@ -515,7 +515,7 @@ Yuka「Makoto... are you okay... with not going after her?」%K%P
 Makoto「...」%K%P
 
 0xF68
-Yuka「The Most Important Law of Professor Yuka's Love%NFormula: ―'It's no use crying over spilt milk.'」%K%P
+Yuka「The Most Important Law of Professor Yuka's Love%NFormula: —'It's no use crying over spilt milk.'」%K%P
 
 0xF74
 Makoto「Yuka...」%K%P

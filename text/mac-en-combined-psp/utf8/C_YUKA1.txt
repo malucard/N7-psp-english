@@ -44,7 +44,7 @@ Yuka「...This is the lodge!」%K%P
 (If that's the case... if that's the case, then...)%K%P
 
 0x148
-(――!!!!)%K%P
+(——!!!!)%K%P
 
 0x15C
 I leap out of my bed and rush out of my room like a%Nspeeding bullet.%K%P
@@ -383,7 +383,7 @@ Okuhiko「Oh well...」%K%P
 Okuhiko「Hey, Ishihara? Do this young lady a favor and tell her.」%K%P
 
 0x898
-(―!?)%K%P
+(—!?)%K%P
 
 0x8A4
 Makoto「H-Huh!? ...T-Tell her what!?」%K%P
@@ -611,7 +611,7 @@ I decide to fake a laugh.%K%P
 ...Our guess was right after all.%K%P
 
 0xE0C
-Today is Monday, April 1st ―Makoto's watch was%Ncorrect.%K%P
+Today is Monday, April 1st —Makoto's watch was%Ncorrect.%K%P
 
 0xE18
 ...In that case...%K%P
@@ -986,7 +986,7 @@ Yuka「Well then, what's the name on the receiver's address?」%K%P
 Kurumi「A - S - A - K - U - R - A... It says Asakura here.」%K%P
 
 0x1928
-Yuka「See? Unfortunately, there isn't anyone here named―」%K%P
+Yuka「See? Unfortunately, there isn't anyone here named—」%K%P
 
 0x1944
 Haruka「Wait...」%K%P
@@ -1112,7 +1112,7 @@ Yuka「Right, right... Then shall we go play tennis...?」%K%P
 Makoto「But... Haruka, you don't want to play, do you?」%K%P
 
 0x1D40
-(―!?)%K%P
+(—!?)%K%P
 
 0x1D4C
 I glare at Makoto.%K%P
@@ -1211,13 +1211,13 @@ Makoto「Yeah.」%K%P
 Yuka「I think there's three things that we can definitely say for%Nsure.」%K%P
 
 0x2004
-Yuka「#1―You and I share the same memories from April 1st%Nto the 6th...」%K%P
+Yuka「#1—You and I share the same memories from April 1st%Nto the 6th...」%K%P
 
 0x2044
-Yuka「#2―Today's date is definitely Monday, April 1st...」%K%P
+Yuka「#2—Today's date is definitely Monday, April 1st...」%K%P
 
 0x207C
-Yuka「#3―On the last April 1st, we had the same dream...」%K%P
+Yuka「#3—On the last April 1st, we had the same dream...」%K%P
 
 0x20C4
 Makoto「Hey, Yuka? Don't make this more complicated than it%Nactually is.」%K%P
@@ -1322,7 +1322,7 @@ Makoto「...?」%K%P
 Yuka「Perhaps... we've been repeating the days from April 1st%Nthrough the 6th countless times for all eternity?」%K%P
 
 0x2338
-Yuka「If there's no beginning, then there's no end―this is%Ndefinitely a part of an infinite loop!」%K%P
+Yuka「If there's no beginning, then there's no end—this is%Ndefinitely a part of an infinite loop!」%K%P
 
 0x2344
 All the trees sway in the wind.%K%P
@@ -1337,7 +1337,7 @@ That dry sound reaches my ears.%K%P
 Makoto's eyes slowly go blank as he stares out into%Nspace.%K%P
 
 0x23A0
-―An infinite loop.%K%P
+—An infinite loop.%K%P
 
 0x23AC
 In other words... our time has been sealed off.%K%P
@@ -1346,7 +1346,7 @@ In other words... our time has been sealed off.%K%P
 A limited, confined interval of time.%K%P
 
 0x23C4
-―An infinite loop.%K%P
+—An infinite loop.%K%P
 
 0x23D0
 Going around and around to the same places at the%Nsame times...%K%P
@@ -1355,7 +1355,7 @@ Going around and around to the same places at the%Nsame times...%K%P
 Something we'll never be able to escape from for all of%Neternity.%K%P
 
 0x23E8
-It's like we're ants being forced to walk on a M▼bius%Nstrip...%K%P
+It's like we're ants being forced to walk on a Möbius%Nstrip...%K%P
 
 0x23F4
 We have can't live by looking towards the future, but on%Nthe other hand, we can't rot away and die.%K%P
@@ -1415,7 +1415,7 @@ Repeating the same events...%K%P
 Repeating... the same...%K%P
 
 0x2560
-―Huh?%K%P
+—Huh?%K%P
 
 0x256C
 Spread out before my eyes is the empty tennis court...%K%P
@@ -1649,7 +1649,7 @@ Yuka「Makoto, do you know what the butterfly effect is?」%K%P
 Makoto「...No.」%K%P
 
 0x2AAC
-Yuka「'Does the flap of a butterfly's wings in Brazil set off a%Ntornado in Texas?' ―that's the butterfly effect.」%K%P
+Yuka「'Does the flap of a butterfly's wings in Brazil set off a%Ntornado in Texas?' —that's the butterfly effect.」%K%P
 
 0x2AB8
 Yuka「In short, it means 'A tiny little microscopic change could%Naffect even an enormous phenomenon'.」%K%P
@@ -1694,7 +1694,7 @@ Makoto「When we wake up on the next morning of the 1st, there's%Nno guarantee t
 Yuka「...Yeah... That certainly... might happen...」%K%P
 
 0x2B70
-Makoto「We'll change history―of course I agree with you%Nthere!」%K%P
+Makoto「We'll change history—of course I agree with you%Nthere!」%K%P
 
 0x2B7C
 Makoto「But... either way, if we act selfishly, then it'll all go to%Nnothing. Understand?」%K%P
@@ -1715,7 +1715,7 @@ Makoto「Swear it right here, right now... No matter what happens,%Nnever go nea
 Yuka「...Got it... I swear it...」%K%P
 
 0x2BCC
-Makoto「'Promises must definitely be kept' ―that's what you%Nwrote in your letter.」%K%P
+Makoto「'Promises must definitely be kept' —that's what you%Nwrote in your letter.」%K%P
 
 0x2BD8
 Makoto「Don't forget this vow... okay?」%K%P
@@ -1760,7 +1760,7 @@ There's only one thing... that I can think of.%K%P
 "The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time."%K%P
 
 0x2D00
-If that's the case, then what we should be doing is――%K%P
+If that's the case, then what we should be doing is——%K%P
 
 0x2D0C
 Makoto「Say, Yuka? There's something I want you to tell me...」%K%P
@@ -1991,7 +1991,7 @@ Yuka「Do you have any specific ideas?」%K%P
 Makoto「I'm going to destroy the bells!」%K%P
 
 0x3290
-(―!?)%K%P
+(—!?)%K%P
 
 0x329C
 Yuka「H-Hold on!」%K%P
@@ -2009,7 +2009,7 @@ Makoto「Isn't that obvious? If those bells weren't there, none of%Nthis would h
 Makoto「That's already been proven, hasn't it?」%K%P
 
 0x32D8
-Makoto「'The echoing bell/ Will free you from time' ―It was%Nwritten on that talisman...」%K%P
+Makoto「'The echoing bell/ Will free you from time' —It was%Nwritten on that talisman...」%K%P
 
 0x32EC
 Yuka「See, we're clashing.」%K%P
@@ -2069,7 +2069,7 @@ Yuka「That's why, on the morning of the last 1st... I headed%Nstraight for... y
 "A dream where someone died."%K%P
 
 0x3450
-"―Was that someone... Makoto...?"%K%P
+"—Was that someone... Makoto...?"%K%P
 
 0x345C
 Yuka「When I saw that you knew nothing, Makoto...」%K%P
@@ -2324,7 +2324,7 @@ Makoto「Heeeey, Yukaaaaa, did you find iiiiit?」%K%P
 I hear Makoto, who is a a bit away from me, shout.%K%P
 
 0x3A38
-Yuka「Not yet～...」%K%P
+Yuka「Not yet〜...」%K%P
 
 0x3A44
 I shout back, then briefly interrupt my search to look%Nwhere Makoto is.%K%P
@@ -2456,7 +2456,7 @@ Yuka「But-」%K%P
 Makoto「Besides...」%K%P
 
 0x3D00
-Makoto「Didn't I say it before? Men ought to protect%Nwomen―that's how it's been for ages.」%K%P
+Makoto「Didn't I say it before? Men ought to protect%Nwomen—that's how it's been for ages.」%K%P
 
 0x3D0C
 Perhaps he's embarrassed to say this, as Makoto says%Nthis while rubbing the bottom of his nose with his fingertip.%K%P
@@ -2531,7 +2531,7 @@ And we know all those sources.%K%N
 In that case...%K%P
 
 0x3F04
-―I'll only change the bad events into good ones.%K%N
+—I'll only change the bad events into good ones.%K%N
 
 0x3F10
 Makoto must be thinking the same thing...%K%N
@@ -3023,7 +3023,7 @@ As Izumi-san enters the shop with Makoto, she points to%Nthe rice bin on the cou
 I nod, and take the shopping bags from her.%K%P
 
 0x4B24
-―Whoosh!%K%P
+—Whoosh!%K%P
 
 0x4B30
 (W-Wow, this is heavy...)%K%P
@@ -3077,7 +3077,7 @@ According to what I heard, it seems that Izumi-san fell%Ninto the pool last time
 But Makoto pretends not to know about it.%K%N
 
 0x4CBC
-―It's in order to create a good history.%K%N
+—It's in order to create a good history.%K%N
 
 0x4CC8
 After all, this is also "A precious memory".%K%P
@@ -3260,7 +3260,7 @@ I wait impatiently to fall asleep so that I can forget%Neverything...%K%P
 ...%K%P
 
 0x5144
-―I finally begin to feel myself dozing off.%K%P
+—I finally begin to feel myself dozing off.%K%P
 
 0x5150
 I feel like I can hear the sound of a small bird chirping%Nfrom somewhere...%K%P

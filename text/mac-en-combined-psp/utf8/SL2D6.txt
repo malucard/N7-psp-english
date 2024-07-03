@@ -14,7 +14,7 @@ I glance at the cuckoo clock.%K%P
 It's around this time that I heard the sound of that bell...%K%P
 
 0x194
-―Just then, at that time!%K%N
+—Just then, at that time!%K%N
 
 0x1BC
 I hear something striking a window, but it's hard to%Npinpoint which window it is.%K%P
@@ -62,7 +62,7 @@ There's no sign of anyone there.%K%P
 I jump down to the top of my bed, and shut the window.%K%P
 
 0x354
-―And at the same time, I hear the front door closing!%K%P
+—And at the same time, I hear the front door closing!%K%P
 
 0x38C
 Dammit!!%K%P
@@ -86,7 +86,7 @@ I lean forward on the terrace and look down.%K%P
 In my field of vision, I can see a girl running.%K%P
 
 0x4A4
-―It's Saki!%K%P
+—It's Saki!%K%P
 
 0x4B0
 Saki is fiercely running towards the forest path in the%Nmiddle of the downpour.%K%P
@@ -446,7 +446,7 @@ Makoto「I don't know... I don't know!」%K%P
 I just want to scream that she's innocent...%K%P
 
 0xE84
-"You're wrong! It wasn't Saki!" ―I want to so badly, but I%Ncan't.%K%P
+"You're wrong! It wasn't Saki!" —I want to so badly, but I%Ncan't.%K%P
 
 0xE90
 That person I saw last night was definitely Saki.%K%N

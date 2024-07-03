@@ -68,13 +68,13 @@ Kurumi「Huh? Understand what?」%K%P
 Makoto「You plan to invite me to go catch crabs on Princess%NBeach! Am I right?」%K%P
 
 0x33C
-Kurumi「Bzzt! Wrong answer～」%K%P
+Kurumi「Bzzt! Wrong answer〜」%K%P
 
 0x348
 Makoto「Huh? Then what is it?」%K%P
 
 0x35C
-Kurumi「The correct answer was 'Kurumi was thinking of inviting%Nyou to watch crab sumo on Princess Beach'～♪」%K%P
+Kurumi「The correct answer was 'Kurumi was thinking of inviting%Nyou to watch crab sumo on Princess Beach'〜♪」%K%P
 
 0x368
 Makoto「...」%K%P
@@ -215,7 +215,7 @@ Izumi「But I guess this island is lacking in able men...」%K%P
 Makoto「I understand! I'm a man too, you know! I'll take care of it all!」%K%P
 
 0x620
-Izumi「Huh? Really? You're a lifesaver～♪」%K%P
+Izumi「Huh? Really? You're a lifesaver〜♪」%K%P
 
 0x62C
 Izumi「Thank you, Makoto-kun♪」%K%P

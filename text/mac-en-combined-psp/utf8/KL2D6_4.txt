@@ -17,7 +17,7 @@ Kurumi「You were looking for jellyfish in a place like this?」%K%P
 Kurumi「... Do you like jellyfish?」%K%P
 
 0x64
-Kurumi「Wow～. Then you're the same as Kurumi.」%K%P
+Kurumi「Wow〜. Then you're the same as Kurumi.」%K%P
 
 0x70
 Back then...%K%N
@@ -98,7 +98,7 @@ Izumi「... Kurumi... might not be my real sister...」%K%P
 (Why did she say that...?)%K%P
 
 0x3A8
-("Kurumi is my real sister"―if you had just thought%Nthat, then... dammit!)%K%P
+("Kurumi is my real sister"—if you had just thought%Nthat, then... dammit!)%K%P
 
 0x3B4
 I find myself looking at my watch as I come to my senses.%K%P
@@ -182,7 +182,7 @@ Removing her emotional scars...%K%P
 Kurumi definitely time traveled here from this shrine.%K%P
 
 0x630
-(Time travel ―just how the hell can I prove that?)%K%P
+(Time travel —just how the hell can I prove that?)%K%P
 
 0x63C
 I continue to wait for Kurumi while watching the white%Nraindrops flow down from the edge of the eaves...%K%P
@@ -392,7 +392,7 @@ As if she were a doll made of glass...%K%N
 Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
 
 0xCA8
-―The bell.%K%N
+—The bell.%K%N
 
 0xCB4
 It's that bell...%K%P

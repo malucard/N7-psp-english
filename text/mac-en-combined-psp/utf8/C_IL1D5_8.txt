@@ -140,7 +140,7 @@ Perhaps she thought I must've been worrying about%Nsomething insignificant when 
 But to me, those words have become salvation.%K%P
 
 0x2AC
-―What must I do now?%K%P
+—What must I do now?%K%P
 
 0x2B8
 Thanks to Haruka, I've finally been able to find the%Nanswer to that.%K%P
@@ -176,7 +176,7 @@ What is it that I have to do now?%K%P
 When I think about it, it's simple.%K%P
 
 0x3D0
-―I have to be by Izumi-san's side.%K%P
+—I have to be by Izumi-san's side.%K%P
 
 0x3DC
 It has nothing to do with the premonition I had or%Nanything like that.%K%N

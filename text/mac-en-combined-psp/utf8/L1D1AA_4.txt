@@ -38,10 +38,10 @@ As if to emphasize his point, Okuhiko continues with this:%K%P
 Okuhiko「Don't you think so, Haruka-chan?」%K%P
 
 0xC8
-―Haruka!?%K%N
+—Haruka!?%K%N
 
 0xD4
-―I see, so "Haruka" is that girl's name!%K%P
+—I see, so "Haruka" is that girl's name!%K%P
 
 0xF8
 Okuhiko「Don't you think so?」%K%P
@@ -80,7 +80,7 @@ Haruka gives a slight nod.%K%P
 Makoto「Now that you mention it, shouldn't the flames have%Nalready gone out a long time ago?」%K%P
 
 0x1A8
-Okuhiko「Ishihara～, do you really think that the smell of%Ncigarettes is something that simply disappears just like%Nthat?」%K%P
+Okuhiko「Ishihara〜, do you really think that the smell of%Ncigarettes is something that simply disappears just like%Nthat?」%K%P
 
 0x1B4
 Okuhiko「A frequent smoker may not realize it, but a non-smoker%Ncan notice it instantly.」%K%P
@@ -110,7 +110,7 @@ Okuhiko「Let me ask you something... Who was the first person to%Nenter the roo
 Makoto「I was... But when I came in, that ashtray was already%Nthere, on top of the sofa...」%K%P
 
 0x230
-Okuhiko「Oh-ho～... So that's it...」%K%P
+Okuhiko「Oh-ho〜... So that's it...」%K%P
 
 0x23C
 Makoto「...」%K%P
@@ -278,7 +278,7 @@ Makoto「There's something I'd like to ask you... do you smoke?」%K%P
 Yuka「There's no way I'd do something like smoking...」%K%P
 
 0x600
-Yuka「If you look at my perfect skin, it's obvious～♪」%K%P
+Yuka「If you look at my perfect skin, it's obvious〜♪」%K%P
 
 0x614
 Yuka comically places her hands to her cheeks,%Nmuttering to herself in agreement as she enters the%Nkitchen...%K%P

@@ -11,7 +11,7 @@ Today's the barbecue... I can't let Izumi-san make the%Npreparations by herself.
 After discussing it, Kurumi and I have decided to help%Nout...%K%P
 
 0xB4
-Kurumi「Ruun, ruun, ruun, Kurumi-chan～, ran, ran, ran, Onii-chan～♪」%K%P
+Kurumi「Ruun, ruun, ruun, Kurumi-chan〜, ran, ran, ran, Onii-chan〜♪」%K%P
 
 0xC0
 Before I know it, Kurumi's smile has completely returned%Nto the way it was earlier.%K%P
@@ -62,7 +62,7 @@ Kurumi「Huh!? You'll take Kurumi?」%K%P
 Makoto「Yeah...」%K%P
 
 0x1A8
-Kurumi「Yay～♪」%K%P
+Kurumi「Yay〜♪」%K%P
 
 0x1B4
 Kurumi lets out a shout of joy, then skips...%K%P
@@ -119,7 +119,7 @@ Makoto「...」%K%P
 Kurumi「... Ah...」%K%P
 
 0x2B4
-Kurumi「Kurumi sees～... So that's it～」%K%P
+Kurumi「Kurumi sees〜... So that's it〜」%K%P
 
 0x2C0
 Makoto「... Huh?」%K%P
@@ -140,7 +140,7 @@ Makoto「Wh-What are you saying!? That's not-」%K%P
 Kurumi「Do you like her?」%K%P
 
 0x310
-Makoto「―Wh-What!?」%K%P
+Makoto「—Wh-What!?」%K%P
 
 0x31C
 Kurumi「You like Onee-chan, don't you?」%K%P
@@ -284,7 +284,7 @@ Kurumi「Right?」%K%P
 Kurumi「And Onii-chan's completely paying for all of us as well♪」%K%P
 
 0x6D0
-―WHAT!?%K%P
+—WHAT!?%K%P
 
 0x6E4
 Izumi「No way... I'd feel bad about that...」%K%P
@@ -344,7 +344,7 @@ Haruka「I'm really... sorry...」%K%P
 With those words, Haruka walks briskly towards the exit.%K%P
 
 0x870
-Kurumi「Huh? W-Wait a minute～」%K%P
+Kurumi「Huh? W-Wait a minute〜」%K%P
 
 0x884
 Kurumi「Did Kurumi do something wr-」%K%P
@@ -380,7 +380,7 @@ Haruka「Well then... see you later...」%K%P
 Haruka leaves the shop, still smiling.%K%P
 
 0x974
-Kurumi「Geez. Kurumi said wait～!」%K%P
+Kurumi「Geez. Kurumi said wait〜!」%K%P
 
 0x980
 Kurumi「Come with us to the amusement park!」%K%P
@@ -461,7 +461,7 @@ Strangely, I'm not unsettled.%K%P
 When I think about the other events of the past ten%Ndays, this isn't anywhere near as strange.%K%P
 
 0xB68
-―Haruka and Izumi-san are actually sisters.%K%P
+—Haruka and Izumi-san are actually sisters.%K%P
 
 0xB74
 Under normal circumstances, this should've shocked me.%K%P
@@ -488,7 +488,7 @@ Haruka, Izumi-san... and Kurumi. Just what happened in%Ntheir pasts...?%K%P
 ... ... ...%K%P
 
 0xC7C
-―It was on July 20th, 1998, 21 years ago.%K%N
+—It was on July 20th, 1998, 21 years ago.%K%N
 
 0xC88
 Kurumi was kidnapped by someone.%K%N
@@ -497,7 +497,7 @@ Kurumi was kidnapped by someone.%K%N
 At that time, Kurumi was only a month old, while Izumi-san%Nwas 16 months old.%K%P
 
 0xCA8
-―July 27th, the same year.%K%N
+—July 27th, the same year.%K%N
 
 0xCB4
 The Shiki no Mori Shrine was destroyed due to a swarm%Nof earthquakes.%K%N
@@ -512,7 +512,7 @@ It was identified as the kidnapper who was wanted for%Ntaking Kurumi.%K%N
 But Kurumi was nowhere to be found in the vicinity.%K%P
 
 0xCEC
-―20 years ago, March 1999.%K%N
+—20 years ago, March 1999.%K%N
 
 0xCF8
 Kurumi still hadn't been found.%K%N
@@ -521,19 +521,19 @@ Kurumi still hadn't been found.%K%N
 Her father, Shigezo Morino (the world authority on%Ngenetic engineering), crushed by feelings of loss,%Nbegan to make preparations to clone Kurumi.%K%N%N
 
 0xD10
-―May 1999.%K%N
+—May 1999.%K%N
 
 0xD1C
 Via a somatic cell nuclear transfer, the nucleus of one%Nof Kurumi's cells was successfully extracted and%Nimplanted into an egg cell, then placed into the mother's%Nwomb.%K%P
 
 0xD30
-―19 years ago, February 15th, 2000.%K%N
+—19 years ago, February 15th, 2000.%K%N
 
 0xD3C
 Kurumi's clone was born into the world.%K%N%N
 
 0xD48
-―18 years ago, June 2001.%K%N
+—18 years ago, June 2001.%K%N
 
 0xD54
 The still young Izumi-san thrust away her "new sister"%Nwho was chasing after her, injuring her on the forehead.%K%N
@@ -542,7 +542,7 @@ The still young Izumi-san thrust away her "new sister"%Nwho was chasing after he
 It seems that the injury still remains to this day.%K%P
 
 0xD74
-―July 22nd of the same year.%K%N
+—July 22nd of the same year.%K%N
 
 0xD80
 Kurumi was found in the Shiki no Mori Shrine, and was%Ntaken in by the Morinos.%K%N
@@ -554,7 +554,7 @@ There was a deep cut on her back... She had to be taken%Nto the hospital because
 But her body had not aged at all since her kidnapping.%K%P
 
 0xDAC
-―August of the same year.%K%N
+—August of the same year.%K%N
 
 0xDB8
 Shigezo's assistants (a young married couple) adopted%Nthe "new sister" as their own child.%K%N
@@ -629,7 +629,7 @@ Makoto「The whole 'Kurumi is not my real sister'...」%K%P
 Izumi「...」%K%P
 
 0xF68
-Makoto「―That three year blank. ―In that time, she hadn't%Naged at all.」%K%P
+Makoto「—That three year blank. —In that time, she hadn't%Naged at all.」%K%P
 
 0xF74
 Makoto「'That's impossible. So Dr. Morino must have falsified the%NDNA results and probably pretended that another,%Nunfamiliar baby was Kurumi.'」%K%P
@@ -680,7 +680,7 @@ Makoto「But if there was anyone who was capable of believing%Nthis... it'd be y
 Makoto「Because you and I have actually time traveled!」%K%P
 
 0x1044
-Makoto「―We definitely time traveled!」%K%P
+Makoto「—We definitely time traveled!」%K%P
 
 0x1050
 I repeat myself for emphasis.%K%P

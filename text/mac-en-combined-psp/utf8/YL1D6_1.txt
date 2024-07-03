@@ -53,7 +53,7 @@ I'll go back to my room and try again...%K%P
 I briskly walk back in front of my room.%K%P
 
 0x2B8
-―Hmm?%K%P
+—Hmm?%K%P
 
 0x2F0
 I suddenly notice it.%K%N
@@ -65,7 +65,7 @@ The door to Yuka's bedroom, which is right next to mine...%Nis slightly ajar.%K%
 I quietly open it...%K%P
 
 0x36C
-―She's not here!!!%K%N
+—She's not here!!!%K%N
 
 0x378
 Yuka isn't here!%K%P
@@ -107,7 +107,7 @@ There's a notepad on top of a white table near the%Nwindow...%K%P
 "That's why, okay? Please... you mustn't come after me!"%K%P
 
 0x478
-"The Third Law of Professor Yuka's Love%NFormula:―Promises must be kept―"%K%P
+"The Third Law of Professor Yuka's Love%NFormula:—Promises must be kept—"%K%P
 
 0x484
 "... Yuka."%K%P
@@ -119,7 +119,7 @@ I rush out of the lodge.%K%P
 I run through the furious rain, disregarding my%Nsurroundings.%K%P
 
 0x534
-―If I go there, won't history repeat itself?%K%P
+—If I go there, won't history repeat itself?%K%P
 
 0x540
 But I instantly deny that. I won't falter.%K%P
@@ -143,7 +143,7 @@ You said that, didn't you!?%K%P
 Then why...!?%K%P
 
 0x5C0
-Today―in other words, the 6th―.%K%P
+Today—in other words, the 6th—.%K%P
 
 0x5CC
 Even though you said that dream might have occurred in%Nthat shrine!%K%N
@@ -161,7 +161,7 @@ It can't be...%K%N
 It can't be that that was Yuka?%K%P
 
 0x654
-Yuka said that she had―"a dream where someone%Ndied".%K%P
+Yuka said that she had—"a dream where someone%Ndied".%K%P
 
 0x660
 What if that was a lie?%K%P
@@ -209,7 +209,7 @@ I run over to the front of the shrine.%K%N
 But when I get there, I am once again seized with discord.%K%P
 
 0x7BC
-―Should I go in? ―Should I stop here?%K%P
+—Should I go in? —Should I stop here?%K%P
 
 0x7C8
 If I go in, won't I just repeat history?%K%N
@@ -239,7 +239,7 @@ There's no way I'm going to break my promise!%K%P
 I made a vow to that starry sky!%K%N
 
 0x834
-―"I will definitely protect Yuka!"%K%P
+—"I will definitely protect Yuka!"%K%P
 
 0x840
 No, but this isn't anything like a sense of duty.%K%N

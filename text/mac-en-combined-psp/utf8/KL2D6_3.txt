@@ -383,10 +383,10 @@ Kurumi「Ready! ... Go!」%K%P
 Kurumi「Go, go!」%K%P
 
 0x958
-Kurumi「GOOOOO～～!」%K%P
+Kurumi「GOOOOO〜〜!」%K%P
 
 0x964
-Kurumi「Ring out! Sumo Crab wins～♪」%K%P
+Kurumi「Ring out! Sumo Crab wins〜♪」%K%P
 
 0x970
 I want to look at it forever...%K%P

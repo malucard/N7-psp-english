@@ -128,7 +128,7 @@ Makoto「Well, anyway, I'm talking about the special ability to%Nperceive specif
 Makoto「Kurumi, do you believe that such a special ability exists?」%K%P
 
 0x4A4
-Kurumi「Kurumi thinks it would be cool if it did～」%K%P
+Kurumi「Kurumi thinks it would be cool if it did〜」%K%P
 
 0x4B0
 Kurumi「But... why are you asking?」%K%P
@@ -161,7 +161,7 @@ Kurumi「Are you going to accurately guess something that's%Ngoing to happen in 
 Makoto「That's right.」%K%P
 
 0x540
-Kurumi「You're lying! That kinda thing's impossible for you～!」%K%P
+Kurumi「You're lying! That kinda thing's impossible for you〜!」%K%P
 
 0x54C
 All right... Everything's going exactly as planned...%K%P
@@ -218,5 +218,5 @@ If everything goes according to the plan, then none of%Nus will go fishing today
 And if we don't go fishing... that's right... the incident%Nwhere Saki gets swallowed up by that wave won't happen%K%P
 
 0x634
-―But will my plan succeed???%K%P
+—But will my plan succeed???%K%P
 

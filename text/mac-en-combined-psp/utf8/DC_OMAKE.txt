@@ -26,7 +26,7 @@ It's probably been about roughly one hour since we left%Nthe harbor.%K%P
 From behind, I can hear the innocent cheers of the%Nothers.%K%P
 
 0x184
-―Wham.%K%P
+—Wham.%K%P
 
 0x190
 I feel someone tapping my shoulder, so I turn around.%K%P
@@ -113,7 +113,7 @@ Kurumi「But your ears are bright red, Saki-san.」%K%P
 Saki「I'm telling you, you're wrong!」%K%P
 
 0x374
-Kurumi「Huh～? You really sure about that～?」%K%P
+Kurumi「Huh〜? You really sure about that〜?」%K%P
 
 0x388
 Kurumi「Incidentally, Kurumi has also decided to attend your%Ncollege.」%K%P
@@ -194,7 +194,7 @@ Haruka「I know.」%K%P
 Haruka「That's why this is a secret from Onee-chan... okay?」%K%P
 
 0x4F8
-Izumi「And what secret would that be～?」%K%P
+Izumi「And what secret would that be〜?」%K%P
 
 0x514
 Makoto「Ah, Izumi-san, good timing...」%K%P
@@ -236,7 +236,7 @@ Kurumi「...」%K%P
 Izumi「It's all right, because Onee-chan will teach you properly...」%K%P
 
 0x600
-Izumi「―All about next year's entrance exam questions.」%K%P
+Izumi「—All about next year's entrance exam questions.」%K%P
 
 0x60C
 (... Wh-What?)%K%P
@@ -278,7 +278,7 @@ Kurumi「That's strange...」%K%P
 Everyone「...」%K%P
 
 0x710
-Saki「―Huh!?」%K%P
+Saki「—Huh!?」%K%P
 
 0x71C
 Saki「Wh-What the hell!?」%K%P
@@ -299,7 +299,7 @@ Yuka「Woohoo! Hard to shtarboard!」%K%P
 Yuka「Kyahahahahahahaha♪」%K%P
 
 0x7A0
-Yuka「I've alwaysh wanted to doo dish wansh in mai life～♪」%K%P
+Yuka「I've alwaysh wanted to doo dish wansh in mai life〜♪」%K%P
 
 0x7AC
 We see her holding a 1.8 liter bottle in one hand,%Nstaggering as she handles the steering wheel.%K%P
@@ -308,7 +308,7 @@ We see her holding a 1.8 liter bottle in one hand,%Nstaggering as she handles th
 Yuka「Ngh, Ngh, Ngh, Ngh, Ngh... Phaaa!」%K%P
 
 0x7C4
-Yuka「Shake really ish besht when ish drunk on a ship～♪%NRight? Right?」%K%P
+Yuka「Shake really ish besht when ish drunk on a ship〜♪%NRight? Right?」%K%P
 
 0x7D0
 Once again, she turns back to steering the ship around.%K%P

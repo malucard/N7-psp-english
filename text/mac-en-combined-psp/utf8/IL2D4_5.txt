@@ -32,7 +32,7 @@ I'm pretty sure that there's still a vivid red color%Nengraved on it.%K%P
 I wonder if Saki is still angry?%K%P
 
 0xD0
-―And at that time!%K%P
+—And at that time!%K%P
 
 0x100
 Suddenly, a clamorous sound echoes, along with%NOkuhiko bursting into my room.%K%P
@@ -119,7 +119,7 @@ Okuhiko「Haruka-chan, wait for me! I'll definitely find you!」%K%P
 Makoto「Wait, Okuhiko... Maybe Haruka ran away because she was%Nfed up with being in your presence for too long.」%K%P
 
 0x398
-Okuhiko「Ishihara～! Why would you say something like that!?」%K%P
+Okuhiko「Ishihara〜! Why would you say something like that!?」%K%P
 
 0x3A4
 Makoto「It's a possibility. We need to consider all possibilities in%Nthis situation, right...?」%K%P
@@ -299,13 +299,13 @@ Izumi「Shall I call Haruka-chan over?」%K%P
 Makoto「You think so too, Izumi-san? All right, let's just live it up in%Nthe lodge for a bit until Okuhiko gets back...」%K%P
 
 0x938
-Yuka「Yaay～♪ Sounds good, sounds good～♪」%K%P
+Yuka「Yaay〜♪ Sounds good, sounds good〜♪」%K%P
 
 0x944
 Makoto「But no alcohol for you, Yuka!」%K%P
 
 0x958
-Yuka「Whaaat!? Why not～!?」%K%P
+Yuka「Whaaat!? Why not〜!?」%K%P
 
 0x964
 Makoto「Do I even need to say it!?」%K%P

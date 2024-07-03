@@ -38,7 +38,7 @@ Okuhiko「What are you doing, you two?」%K%P
 Okuhiko「Were you discussing something you didn't want me to%Nhear?」%K%P
 
 0x138
-―Oh crap!%K%P
+—Oh crap!%K%P
 
 0x14C
 Okuhiko「... Nah, there's no way it's like that. Ha ha ha!」%K%P
@@ -212,7 +212,7 @@ Yuka「... Ah.」%K%P
 Izumi「... Ah.」%K%P
 
 0x580
-Kurumi「Ah～!」%K%P
+Kurumi「Ah〜!」%K%P
 
 0x58C
 Haruka「...」%K%P
@@ -281,13 +281,13 @@ Izumi「...K-Kurumi. ... Do I have to send you back to kindergarten?」%K%P
 Izumi-san looks seriously worried.%K%P
 
 0x768
-Kurumi「Geez～! That's not what Kurumi's saying, guys! ... What%Nshe wants to say is...」%K%P
+Kurumi「Geez〜! That's not what Kurumi's saying, guys! ... What%Nshe wants to say is...」%K%P
 
 0x784
 Haruka「I understand... you're saying we'll decide to just skip%NApril 2nd...」%K%P
 
 0x798
-Kurumi「Right, right♪ Impressive, Haruka-san. You understand～♪」%K%P
+Kurumi「Right, right♪ Impressive, Haruka-san. You understand〜♪」%K%P
 
 0x7A4
 Kurumi snaps her fingers, excited that someone gets%Nher.%K%P
@@ -299,7 +299,7 @@ However, Haruka is as stoic as ever...%K%P
 Yuka「Oh, I see...」%K%P
 
 0x7E8
-Saki「I get it～. Good thinking, Kurumi-chan～♪」%K%P
+Saki「I get it〜. Good thinking, Kurumi-chan〜♪」%K%P
 
 0x7FC
 Kurumi「Eheheh♪ In other words, this is what we'll do! We'll have%NOkkun forget this 'April 2nd'♪」%K%P
@@ -407,7 +407,7 @@ Izumi「Huh?」%K%P
 Makoto「The truth is, I want to talk to you...」%K%P
 
 0xACC
-Kurumi「Geez～... You can just talk to Onee-chan tomorrow, right?」%K%P
+Kurumi「Geez〜... You can just talk to Onee-chan tomorrow, right?」%K%P
 
 0xAE0
 Kurumi「More importantly, talk with Kurumi. She doesn't have to%Nleave until tomorrow morning. Okay, Onii-chan?」%K%P
@@ -425,7 +425,7 @@ The only one I want to talk to right now is Izumi-san.%K%P
 Izumi「You can't, Kurumi. It's past 11:00. You have to wake up%Nearly tomorrow, so go to sleep.」%K%P
 
 0xB2C
-Kurumi「Boo～!」%K%P
+Kurumi「Boo〜!」%K%P
 
 0xB38
 Makoto「Izumi-san...」%K%P

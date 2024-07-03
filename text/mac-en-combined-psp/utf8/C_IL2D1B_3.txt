@@ -86,10 +86,10 @@ Izumi「Because I wanted to understand it...」%K%P
 Makoto「Understand what!?」%K%P
 
 0x1D8
-Izumi「Cur▲ Syndrome.」%K%P
+Izumi「Curé Syndrome.」%K%P
 
 0x1E4
-Makoto「... Cur▲... Syndrome?」%K%P
+Makoto「... Curé... Syndrome?」%K%P
 
 0x1F0
 (It feels like... I've heard that somewhere before...)%K%P
@@ -101,7 +101,7 @@ Makoto「That's right! Okuhiko!」%K%P
 Makoto「The title of the report Okuhiko had...」%K%P
 
 0x214
-Makoto「It was 'Cur▲ Syndrome Inquiry'.」%K%P
+Makoto「It was 'Curé Syndrome Inquiry'.」%K%P
 
 0x220
 Izumi「... Makoto-kun... did you read that report?」%K%P
@@ -161,7 +161,7 @@ I can't even move an inch on this hard seat.%K%P
 Izumi「Then I'll explain things from the start, one by one...」%K%P
 
 0x320
-Izumi「First, about Cur▲ Syndrome.」%K%P
+Izumi「First, about Curé Syndrome.」%K%P
 
 0x32C
 Izumi「It's been several years since these words first started%Nto be used.」%K%P
@@ -404,10 +404,10 @@ Izumi「Tom himself called this 'act of infecting other with%Nimmortality,' 'Cur
 Izumi「'Cure'... as you know, that means 'to heal'.」%K%P
 
 0x708
-Izumi「And so Dr. Cabin named this unique type of paranoia%N'Cur▲ Syndrome'.」%K%P
+Izumi「And so Dr. Cabin named this unique type of paranoia%N'Curé Syndrome'.」%K%P
 
 0x714
-Izumi「While Tom used the English word 'Cure' to refer to his%Nability, Dr. Cabin used the French word 'Cur▲' for Cur▲%NSyndrome.」%K%P
+Izumi「While Tom used the English word 'Cure' to refer to his%Nability, Dr. Cabin used the French word 'Curé' for Curé%NSyndrome.」%K%P
 
 0x720
 (The French word...?)%K%P
@@ -416,7 +416,7 @@ Izumi「While Tom used the English word 'Cure' to refer to his%Nability, Dr. Cab
 (Why didn't he just stick with the English word...?)%K%P
 
 0x738
-Izumi「Anyway, Cur▲ Syndrome is...」%K%P
+Izumi「Anyway, Curé Syndrome is...」%K%P
 
 0x744
 Izumi「The definition of the act of firmly believing, without a%Ndoubt, that the lies told by people surrounding you are%Nthe truth.」%K%P
@@ -434,7 +434,7 @@ Izumi「They seriously believe it from the bottom of their hearts.」%K%P
 Izumi「In a sense, you might say that's the 'spreading of the%Ndelusion'.」%K%P
 
 0x780
-Izumi「These are the two principle traits of Cur▲ Syndrome.」%K%P
+Izumi「These are the two principle traits of Curé Syndrome.」%K%P
 
 0x7C4
 Izumi-san takes a deep breath.%K%P
@@ -470,7 +470,7 @@ But we don't have time to deal with Saki right now.%K%P
 She's not even close to done with explaining%Neverything...%K%P
 
 0x8AC
-With the exception of Cur▲ Syndrome... I still know%Nnothing...%K%P
+With the exception of Curé Syndrome... I still know%Nnothing...%K%P
 
 0x8D4
 Makoto「Izumi-san, earlier, you said 'Because I wanted to%Nunderstand it', right?」%K%P
@@ -479,7 +479,7 @@ Makoto「Izumi-san, earlier, you said 'Because I wanted to%Nunderstand it', righ
 Izumi「Yes...」%K%P
 
 0x8EC
-Makoto「You wanted to understand Cur▲ Syndrome... That's why%Nyou told Okuhiko to deceive me...」%K%P
+Makoto「You wanted to understand Curé Syndrome... That's why%Nyou told Okuhiko to deceive me...」%K%P
 
 0x8F8
 Izumi「Yes...」%K%P
@@ -500,7 +500,7 @@ Makoto「... When he said 'experiment'.」%K%P
 Izumi「...」%K%P
 
 0x940
-Makoto「In short, this Seminar Camp's goal was 'To run an%Nexperiment on Cur▲ Syndrome'.」%K%P
+Makoto「In short, this Seminar Camp's goal was 'To run an%Nexperiment on Curé Syndrome'.」%K%P
 
 0x94C
 Makoto「... Is that right, Izumi-san?」%K%P
@@ -590,7 +590,7 @@ Makoto「... you tried to make me firmly believe that 'I have%Nprecognition'.」
 Makoto「In other words, you intentionally tried to make me%Nembrace my 'delusion'.」%K%P
 
 0xAA8
-Makoto「You attempt to cause me to be afflicted with 'Cur▲%NSyndrome', just like Tom...」%K%P
+Makoto「You attempt to cause me to be afflicted with 'Curé%NSyndrome', just like Tom...」%K%P
 
 0xAB4
 Izumi「...」%K%P
@@ -716,7 +716,7 @@ Although I'm flustered and don't understand what's going%Non, I do what she says
 Izumi「Once more...」%K%P
 
 0xD68
-―Click. ―Click. ―Click.%K%P
+—Click. —Click. —Click.%K%P
 
 0xD74
 I turn the key countless times, but the engine no longer%Nshows any reaction.%K%P

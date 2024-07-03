@@ -92,7 +92,7 @@ Izumi「Because... there's no longer a shrine at that cape.」%K%P
 Okuhiko「Huh?」%K%P
 
 0x298
-(―What!?)%K%P
+(—What!?)%K%P
 
 0x2A4
 Izumi「That shrine was destroyed 21 years ago by an%Nearthquake.」%K%P

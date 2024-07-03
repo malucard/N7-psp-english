@@ -101,7 +101,7 @@ Makoto「Izumi-san, I'll help you out.」%K%P
 I think I should follow her example.%K%P
 
 0x24C
-Izumi「Huh～? It's fine. If you want to help, just set the table.」%K%P
+Izumi「Huh〜? It's fine. If you want to help, just set the table.」%K%P
 
 0x258
 Makoto「No way... I'll be fine!」%K%P
@@ -425,7 +425,7 @@ Haruka「We're having... meat-potato stew for dinner...」%K%P
 Izumi「That's right! Tonight's dinner is meat-potato stew!」%K%P
 
 0x970
-Izumi「Since I rarely cook any traditional Japanese dishes at%Nthe caf▲, I thought it'd be a nice change in pace... right?」%K%P
+Izumi「Since I rarely cook any traditional Japanese dishes at%Nthe café, I thought it'd be a nice change in pace... right?」%K%P
 
 0x984
 Yuka「Meat-potato stew, huh...」%K%P
@@ -476,7 +476,7 @@ Kurumi「Onee-chan! Please don't put any onions in!」%K%P
 Izumi「Huh? I can't just do that! I just bought a lot of onions...」%K%P
 
 0xAA0
-Kurumi「Whaa～t!? No way, no way! Kurumi hates onions!」%K%P
+Kurumi「Whaa〜t!? No way, no way! Kurumi hates onions!」%K%P
 
 0xAB4
 Izumi「Hey! Don't be so selfish!」%K%P
@@ -506,7 +506,7 @@ Izumi「Really? ... Well then, I guess I'll just leave the onions out.」%K%P
 Izumi「Kurumi? Go ahead and thank everyone.」%K%P
 
 0xB70
-Kurumi「Ye～s.」%K%P
+Kurumi「Ye〜s.」%K%P
 
 0xB84
 Kurumi「Thank you very much, everyone.」%K%P
@@ -542,7 +542,7 @@ That smile of hers kills me every time; I'm defenseless%Nagainst it.%K%P
 So I...%K%P
 
 0xC7C
-Makoto「Okay～♪」%K%P
+Makoto「Okay〜♪」%K%P
 
 0xCB4
 ... obediently reply like a child, and return to the living%Nroom.%K%P

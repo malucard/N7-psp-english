@@ -266,10 +266,10 @@ It feels like it would be wrong if I tried to cheerfully%Nencourage her, or to t
 I grow more and more quiet as I struggle over thinking up%Nways to distract Kurumi from her pain.%K%P
 
 0x58C
-―And, right after that!%K%P
+—And, right after that!%K%P
 
 0x5E8
-―WHAM!%K%P
+—WHAM!%K%P
 
 0x5F4
 The earth abruptly rumbles from a violent shock wave.%K%P
@@ -305,10 +305,10 @@ My palm is touching Kurumi's back.%K%P
 Though my hand is on top of her clothes, I can clearly%Nfeel something through it.%K%P
 
 0x6D8
-―It's a very deeply engraved scar.%K%N
+—It's a very deeply engraved scar.%K%N
 
 0x6E4
-―I can feel rough bulges protruding unnaturally on%Nthe otherwise smooth surface of her bare skin.%K%P
+—I can feel rough bulges protruding unnaturally on%Nthe otherwise smooth surface of her bare skin.%K%P
 
 0x6F0
 Kurumi's sadness is passing itself through my palm.%K%P
@@ -362,7 +362,7 @@ The feeling of Kurumi's scar wraps up around my hand.%K%P
 I feel myself boiling with rage from within.%K%P
 
 0x7BC
-(―This thing should just disappear!)%K%P
+(—This thing should just disappear!)%K%P
 
 0x7C8
 This strong thought can't help but worm its way into my%Nhead.%K%P

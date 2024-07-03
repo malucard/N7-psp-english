@@ -38,7 +38,7 @@ she won't... she won't... she won't...%K%P
 ... ... ...%K%P
 
 0x2B0
-―!?%K%P
+—!?%K%P
 
 0x2BC
 That's not an illusion.%K%P
@@ -389,7 +389,7 @@ The puppy feverishly runs without looking aside.%K%N
 It hasn't noticed the car! It can only see Saki, who's right%Nbefore its eyes!%K%P
 
 0xB6C
-―The sound of the car's horn pierces my eardrums!%K%P
+—The sound of the car's horn pierces my eardrums!%K%P
 
 0xB78
 And at the same time, Haruka... Haruka...%K shakes off my%Nhand and starts running!!!%K
@@ -410,7 +410,7 @@ Reflexively, I quickly stretch out my hand and grab%NHaruka's arm.%K%P
 Haruka「But that puppy will...! I can't!!!」%K%P
 
 0xBF4
-―Haruka's shout pierces my ears.%K%P
+—Haruka's shout pierces my ears.%K%P
 
 0xC00
 I unintentionally lessen the power in my hand...%K%P
@@ -422,7 +422,7 @@ In the next instant...%K%P
 Haruka shakes off my hand again and starts running!%K%P
 
 0xC24
-Makoto「―Haruka!」%K%P
+Makoto「—Haruka!」%K%P
 
 0xC30
 Haruka rushes over to the puppy, picks it up, and holds%Nit against her chest as if to protect it.%K%P

@@ -17,10 +17,10 @@ Yesterday... no, on the morning of the last April 6th, on%Nthe tip of that cliff
 "I wanted to go back to the past, no matter what."%K%P
 
 0xBC
-―I wanted... to go back to the past...?%K%P
+—I wanted... to go back to the past...?%K%P
 
 0xC8
-―Why??%K%P
+—Why??%K%P
 
 0xD4
 The waves breaking onto the pier are still calm right now.%K%P
@@ -65,7 +65,7 @@ Makoto「Then why...?」%K%P
 Yuka「... I understand. I'll tell you...」%K%P
 
 0x184
-Yuka「But before that―」%K%P
+Yuka「But before that—」%K%P
 
 0x190
 Makoto「Yuka! You've been saying 'but before that' way too many%Ntimes!」%K%P
@@ -278,7 +278,7 @@ Makoto「Isn't that obvious? If those bells weren't there, none of%Nthis would h
 Makoto「That's already been proven, hasn't it?」%K%P
 
 0x674
-Makoto「'The echoing bell/ Will free you from time' ―It was%Nwritten on that talisman...」%K%P
+Makoto「'The echoing bell/ Will free you from time' —It was%Nwritten on that talisman...」%K%P
 
 0x688
 Yuka「See, we're clashing.」%K%P
@@ -347,7 +347,7 @@ Yuka「That's why also why on the morning of the last 1st... I%Nheaded straight.
 "A dream where someone died."%K%P
 
 0x7F4
-―So in other words, that someone... was me...%K%P
+—So in other words, that someone... was me...%K%P
 
 0x800
 Yuka「When I saw that you knew nothing, Makoto... I felt relieved,%Nand for a little while after that, I thought that 'it was just a%Ndream'...」%K%P
@@ -470,7 +470,7 @@ Makoto「???」%K%P
 Yuka「If Kurumi-chan hadn't given you that bell, you'd be dead.」%K%P
 
 0xABC
-―The word "dead" pierces my chest.%K%P
+—The word "dead" pierces my chest.%K%P
 
 0xAC8
 Yuka「'The echoing bell/ Will free you from time'... so if you didn't%Nhave that bell...」%K%P
@@ -710,7 +710,7 @@ Makoto「Yeah! You're great, Yuka! You're awesome! Fantastic!」%K%P
 I say that as I muss Yuka's hair, messing it up.%K%P
 
 0xFDC
-Yuka「Geez, what are you doing～」%K%P
+Yuka「Geez, what are you doing〜」%K%P
 
 0xFE8
 In an attempt to get away from my hand, Yuka bends%Nover while desperately trying to fix her hair.%K%P
@@ -758,13 +758,13 @@ Makoto「You found this bell.」%K%P
 Makoto「So this is yours.」%K%P
 
 0x10BC
-Yuka「... But―」%K%P
+Yuka「... But—」%K%P
 
 0x10C8
 Makoto「Didn't I say it before?」%K%P
 
 0x10D4
-Makoto「Men ought to protect women― that's how it's been for%Nages.」%K%P
+Makoto「Men ought to protect women— that's how it's been for%Nages.」%K%P
 
 0x10E8
 Yuka purses her lips, her eyes swaying.%K%P
@@ -884,7 +884,7 @@ Okuhiko「Hey! Yuka-chan♪」%K%P
 Okuhiko runs over towards her.%K%P
 
 0x13BC
-―And, at that time!%K%P
+—And, at that time!%K%P
 
 0x1408
 I hear a loud thud from behind me, causing me to turn%Naround.%K%P
@@ -935,7 +935,7 @@ I suddenly look up at the western skies, beautifully dyed%Nin a mad red glow.%K%
 The sound of the waves breaking on shore sound%Ngentler than a lullaby...%K%P
 
 0x155C
-―After that...%K%N
+—After that...%K%N
 
 0x1568
 Yuka and I join up with Haruka and Okuhiko, and proceed%Nto Lunabeach.%K%N
@@ -980,7 +980,7 @@ Saki caused a lot of problems for us, but on the other%Nhand, if we can resolve 
 That's how I feel.
 
 0x1628
-―I want to turn back time!%K%N%N
+—I want to turn back time!%K%N%N
 
 0x1634
 Even though they know that's impossible, everyone's%Nwished for that once or twice in their life.%K%N
@@ -998,7 +998,7 @@ If I think that way, then, setting aside the infinite loop, I%Nfeel I don't have
 On the contrary, I can use the current circumstances in%Na positive way.%K%P
 
 0x1680
-―I'll only change the bad events into good ones.%K%N%N
+—I'll only change the bad events into good ones.%K%N%N
 
 0x168C
 It'll be a piece of cake.%K%N
@@ -1007,10 +1007,10 @@ It'll be a piece of cake.%K%N
 Even the flap of one butterfly's wings can cause a%Ntornado.%K%P
 
 0x16AC
-―I'm not scared!%K%N
+—I'm not scared!%K%N
 
 0x16B8
-―Everything will surely go well!%K%N
+—Everything will surely go well!%K%N
 
 0x16C4
 ... I'm finally beginning to think that way.%K%N%N
@@ -1094,7 +1094,7 @@ I break the ice...%K%P
 ... I also pretend not to know about Izumi-san falling into%Nthe pool.%K%P
 
 0x1974
-―I'll only change the bad events into good ones.%K%N%N
+—I'll only change the bad events into good ones.%K%N%N
 
 0x1980
 Then what are the good ones?%K%N

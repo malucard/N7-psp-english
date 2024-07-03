@@ -224,7 +224,7 @@ Makoto「I'm sorry... but that's... my final word on it...」%K%P
 I apologize once more.%K%P
 
 0x54C
-Yuka「Well then, what shall I have you do～...」%K%P
+Yuka「Well then, what shall I have you do〜...」%K%P
 
 0x558
 Yuka returns to her normal self as if nothing ever%Nhappened.%K%P

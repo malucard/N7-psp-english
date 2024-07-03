@@ -5,7 +5,7 @@ text area offset and size:
 And then, when Izumi-san's finally wept her eyes out and%Ntheir red disappears...%K%P
 
 0x54
-Kurumi「Good morning―♪」%K%P
+Kurumi「Good morning—♪」%K%P
 
 0x7C
 ... The tension is shattered as Kurumi comes down from%Nthe second floor.%K%P
@@ -62,13 +62,13 @@ Kurumi「Uwa! Owwwwwwwwwwwwwwww!」%K%P
 Izumi「What???」%K%P
 
 0x1E8
-Kurumi「It hurts～, it hurts～! Kurumi's going to die from the pain～」%K%P
+Kurumi「It hurts〜, it hurts〜! Kurumi's going to die from the pain〜」%K%P
 
 0x1FC
 Izumi「Geez, I didn't tug that hard, did I?」%K%P
 
 0x208
-Kurumi「You did, you did～!」%K%P
+Kurumi「You did, you did〜!」%K%P
 
 0x214
 Kurumi「You grabbed Kurumi's weak point!」%K%P
@@ -83,10 +83,10 @@ Kurumi「You're wrong! Kurumi's not faking this!」%K%P
 Kurumi「Waah! Onii-chan, save Kurumi!」%K%P
 
 0x25C
-Kurumi「The younger sister is being teased by the older%Nsister～!」%K%P
+Kurumi「The younger sister is being teased by the older%Nsister〜!」%K%P
 
 0x268
-Kurumi「It's like your sister-in-law is being teased～!」%K%P
+Kurumi「It's like your sister-in-law is being teased〜!」%K%P
 
 0x274
 Izumi「...」%K%P
@@ -101,7 +101,7 @@ Do it.
 Don't do it.
 
 0x2D8
-Makoto「Hmm, well, I guess it can't be helped～」%K%P
+Makoto「Hmm, well, I guess it can't be helped〜」%K%P
 
 0x2F4
 Makoto「Hey there, Kurumi... You're not a kid anymore...」%K%P
@@ -128,7 +128,7 @@ Kurumi「No no no no!」%K%P
 Kurumi「Do it do it do it do it!!」%K%P
 
 0x374
-Kurumi「It hurts, so do it――――!!!」%K%P
+Kurumi「It hurts, so do it————!!!」%K%P
 
 0x380
 Makoto「...」%K%P
@@ -137,7 +137,7 @@ Makoto「...」%K%P
 Izumi「Makoto-kun? Won't you do it?」%K%P
 
 0x3A8
-―What!? Are you serious!?%K%P
+—What!? Are you serious!?%K%P
 
 0x3B4
 Izumi-san looks at me, urging me on.%K%P
@@ -149,7 +149,7 @@ Izumi-san looks at me, urging me on.%K%P
 (There's no way I can deny them when they're like that.)%K%P
 
 0x3F8
-Makoto「Here... Abracadabra, pain, pain, fly away, all the way to%NAndromeda～!」%K%P
+Makoto「Here... Abracadabra, pain, pain, fly away, all the way to%NAndromeda〜!」%K%P
 
 0x404
 I pat Kurumi on the head.%K%P

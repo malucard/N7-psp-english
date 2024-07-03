@@ -8,7 +8,7 @@ Even though she shouldn't be far ahead, I still lose sight%Nof Haruka at the for
 When I come out of the forest road and into the%Ncoastline, I arrive at a crossroads.%K There's this small%Ncove called Princess Beach, to the west, and it seems%Nlike the east leads to a long beach called Moon Beach.%K%P
 
 0x7C
-Where should I go? ―It's at that moment that I see%NHaruka heading towards "Princess Beach". But... she%Nvanishes shortly afterwards, as if she were a mirage...%K%P
+Where should I go? —It's at that moment that I see%NHaruka heading towards "Princess Beach". But... she%Nvanishes shortly afterwards, as if she were a mirage...%K%P
 
 0xA4
 I start running towards "Princess Beach".%K%P
@@ -35,7 +35,7 @@ I'm unable to move, as if my soul had been drained from%Nmy body. It feels like 
 Haruka suddenly looks this way. Our eyes meet. I try to%Nsay something.%K%P
 
 0x190
-―I can't. My throat has become parched.%K%P
+—I can't. My throat has become parched.%K%P
 
 0x1C0
 Haruka「... Why?」%K%P
@@ -176,7 +176,7 @@ All I can do is nod. I clumsily nod countless times.%K%P
 Satisfied, Haruka lets go. Phew! As I take a deep breath,%Nshe quickly grabs my hand and jerks me along.%K%P
 
 0x470
-Makoto「―!」%K%P
+Makoto「—!」%K%P
 
 0x47C
 Haruka「Come on.」%K%P
@@ -314,7 +314,7 @@ Yuka「Makoto's just spacing out.」%K%P
 Damn you, Yuka... Don't talk about people behind their%Nbacks! Don't just agree with whatever Okuhiko says%Neither! And why the hell are you saying my name without%Nany honorifics...%K%P
 
 0x7A8
-―Huh?? Yuka??%K%P
+—Huh?? Yuka??%K%P
 
 0x7B4
 (Come to think of it, I've just been calling her "Yuka"%Nwithout any honorifics either!)%K%P
@@ -443,7 +443,7 @@ The wind plays with her hair and gently caresses my%Nface.%K
 A wild fancy strikes me. ... Is she not human? Did she%Ncome from the bottom of the ocean? Or is she someone%Nfrom a different planet or another dimension? Nah, no%Nway...%K%P
 
 0xA94
-―I wonder how long I've been watching Haruka?%K%P
+—I wonder how long I've been watching Haruka?%K%P
 
 0xAA0
 Until Haruka leaves Princess Beach, it's as if my soul was%Ndrained from my body.%K%P

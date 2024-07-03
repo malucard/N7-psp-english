@@ -110,7 +110,7 @@ I want to get out of here as soon as possible.%K%P
 Suddenly...%K%P
 
 0x34C
-―Whoosh.%K%P
+—Whoosh.%K%P
 
 0x358
 Makoto「AAH!」%K%P

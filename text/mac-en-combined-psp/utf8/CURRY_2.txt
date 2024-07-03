@@ -41,10 +41,10 @@ Kurumi「Are you listening, Onii-chan!? Doesn't it sound fun!?」%K%P
 Makoto「Huh? Ah, sure, I don't mind.」%K%P
 
 0x14C
-Kurumi「Yay―! Then it's decided!」%K%P
+Kurumi「Yay—! Then it's decided!」%K%P
 
 0x168
-Yuka「Huu―uuh!? Hold on!」%K%P
+Yuka「Huu—uuh!? Hold on!」%K%P
 
 0x17C
 Kurumi「Huh? Don't tell me you're scared, Yuka-san?」%K%P

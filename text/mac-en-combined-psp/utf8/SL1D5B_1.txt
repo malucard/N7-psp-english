@@ -128,7 +128,7 @@ Makoto「You're wrong! It's not an issue of which one of you I trust!」%K%P
 Haruka「I understand. It's fine...」%K%P
 
 0x2CC
-Makoto「No it's not! Haruka― what happened between you and%NSaki in the past?」%K%P
+Makoto「No it's not! Haruka— what happened between you and%NSaki in the past?」%K%P
 
 0x2D8
 Haruka「...」%K%P
@@ -212,7 +212,7 @@ Just then, I see the silhouette of a girl walking towards%Nthe harbor.%K%P
 Though she's far away, I can tell that she's on the road%Nthat leads to the shopping district.%K%P
 
 0x4BC
-―It's Saki.%K%P
+—It's Saki.%K%P
 
 0x4C8
 I instantly begin to run towards her.%K%P
@@ -479,7 +479,7 @@ Crash! The waves break, and a sheet of spray hits Saki%Nin the face.%K%P
 But Saki doesn't seem fazed by the water, and just%Nsilently stares at the sea.%K%P
 
 0xB20
-―"Because they lie, I can't trust humans."%K%P
+—"Because they lie, I can't trust humans."%K%P
 
 0xB2C
 In that instant, I recall Yuka's words.%K%P

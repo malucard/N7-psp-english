@@ -191,7 +191,7 @@ Makoto「Are you saying the person known as me is nothing but%Nan existence in y
 Izumi「... Yes...」%K%P
 
 0x560
-Makoto「―It's not 'yes', is it!?」%K%P
+Makoto「—It's not 'yes', is it!?」%K%P
 
 0x588
 Makoto「I'm a human who has his own personality!」%K%P
@@ -230,10 +230,10 @@ Izumi「Although I witnessed 'the scene of Makoto-kun dead',%Nright now, I'm try
 Izumi「The moment I create a history in which you, Makoto-kun,%Ndon't die, I'll go back to the true, real world...」%K%P
 
 0x618
-Izumi「In my world, the one afflicted with Cur▲ Syndrome wasn't%Nyou...」%K%P
+Izumi「In my world, the one afflicted with Curé Syndrome wasn't%Nyou...」%K%P
 
 0x624
-Izumi「―It was me.」%K%P
+Izumi「—It was me.」%K%P
 
 0x630
 Makoto「...」%K%P
@@ -248,7 +248,7 @@ Izumi「When I saw that, I realized it was a phenomenon that%Ncould only be desc
 Izumi「... That's right... I actually witnessed a 'miracle'.」%K%P
 
 0x660
-Izumi「As a matter of course, I reached the point where I firmly%Nbelieved in The Third Trait of Cur▲ Syndrome.」%K%P
+Izumi「As a matter of course, I reached the point where I firmly%Nbelieved in The Third Trait of Curé Syndrome.」%K%P
 
 0x66C
 Izumi「In other words, I reached the point where I embraced the%Ndelusion that 'delusions become reality'.」%K%P
@@ -284,7 +284,7 @@ Izumi「The me who saw that scene strongly wished this.」%K%P
 Izumi「The next instant, it was arranged so that my delusion to%Nseek another possibility began.」%K%P
 
 0x700
-Izumi「I had no doubts that Cur▲ Syndrome had already%Nsettled within me.」%K%P
+Izumi「I had no doubts that Curé Syndrome had already%Nsettled within me.」%K%P
 
 0x70C
 Izumi「I just firmly believed... from the bottom of my heart...」%K%P
@@ -326,13 +326,13 @@ Izumi-san is across the deep darkness...%K%N
 Her features slowly dissolve into it...%K%P
 
 0x7B8
-―Like she's a delusion.%K%N
+—Like she's a delusion.%K%N
 
 0x7C4
-―A fantasy.%K%N
+—A fantasy.%K%N
 
 0x7D0
-―An illusion.%K%P
+—An illusion.%K%P
 
 0x7DC
 Makoto「Bullshit!」%K%P
@@ -344,7 +344,7 @@ I instinctively stand up.%K%P
 Makoto「There's no way some bullshit like that is true!」%K%P
 
 0x800
-Makoto「It has nothing to do with Cur▲ Syndrome or%NSchr▼dinger!」%K%P
+Makoto「It has nothing to do with Curé Syndrome or%NSchrödinger!」%K%P
 
 0x80C
 Makoto「I'm currently existing here right now, and Izumi-san is%Nreally here, in the flesh, sitting down before me!」%K%P

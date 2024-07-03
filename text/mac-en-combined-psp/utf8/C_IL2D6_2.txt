@@ -14,7 +14,7 @@ Izumi「Are you really okay?」%K%P
 Makoto「Yeah... umm, what were we talking about?」%K%P
 
 0xB4
-Izumi「―Star sand!」%K%P
+Izumi「—Star sand!」%K%P
 
 0xC0
 Izumi「We were talking about the 'star sand' Haruka gave me%Nthis afternoon!」%K%P
@@ -68,7 +68,7 @@ Izumi「Don't forget... my existence, okay?」%K%P
 ("I'll always be by Izumi-san's side"...)%K%P
 
 0x1F4
-(―I swore those things, didn't I?!)%K%P
+(—I swore those things, didn't I?!)%K%P
 
 0x200
 Izumi-san is right here!%K%P
@@ -92,7 +92,7 @@ There's no need to think about them!%K%P
 I just need to settle things with Izumi-san!%K%P
 
 0x254
-Makoto「―Izumi-san!」%K%P
+Makoto「—Izumi-san!」%K%P
 
 0x268
 Izumi「... Huh!?」%K%P
@@ -284,7 +284,7 @@ Izumi-san closes the hand with the "star sand" in it, and%Nuses her other hand t
 The thing she takes out is as big as her thumb...%K%P
 
 0x714
-―A small glass bottle.%K%N
+—A small glass bottle.%K%N
 
 0x720
 Inside, there are two small stars shining.%K%P
@@ -314,7 +314,7 @@ Izumi-san takes the cork off the small bottle, and puts%Nthe "star sand" she jus
 The grain of sand sinks to the bottom of the bottle%Ntogether with the other small grains in Izumi-san's hand.%K%P
 
 0x808
-―The three grains of stars...%K%P
+—The three grains of stars...%K%P
 
 0x814
 The star sand that Kurumi picked up...%K%N
@@ -374,10 +374,10 @@ Makoto「Izumi-san!」%K%P
 I grab Izumi-san's wrist, and embrace her.%K%P
 
 0x994
-Makoto「―I love you!」%K%P
+Makoto「—I love you!」%K%P
 
 0x9A0
-Makoto「―I've loved you all this time!」%K%P
+Makoto「—I've loved you all this time!」%K%P
 
 0x9AC
 Izumi「... Why...?」%K%P
@@ -437,7 +437,7 @@ Makoto「That was my fault!」%K%P
 Makoto「It was because I couldn't save you!」%K%P
 
 0xA90
-Izumi「―Stop!」%K%P
+Izumi「—Stop!」%K%P
 
 0xA9C
 Makoto「I don't want to see you sad anymore!」%K%P
@@ -446,10 +446,10 @@ Makoto「I don't want to see you sad anymore!」%K%P
 Makoto「No matter what happens, I will protect you until the end!」%K%P
 
 0xAB4
-Makoto「―Because I love you!」%K%P
+Makoto「—Because I love you!」%K%P
 
 0xAC0
-Makoto「―Because I love you more than anyone else!」%K%P
+Makoto「—Because I love you more than anyone else!」%K%P
 
 0xACC
 Izumi「Stop it already!」%K%P
@@ -515,10 +515,10 @@ My body is boiling with heat...%K%N
 Her warmth is scorching my chest.%K%P
 
 0xC14
-―Warmth...%K%N
+—Warmth...%K%N
 
 0xC20
-―The proof that we're right here, right now.%K%P
+—The proof that we're right here, right now.%K%P
 
 0xC2C
 I hold her tightly in my arms, something I've waited too%Nlong to do.%K%P
@@ -539,7 +539,7 @@ To prove that we won't disappear...%K%P
 Right now... we're...%K%N
 
 0xC74
-―carrying out our feelings.%K%P
+—carrying out our feelings.%K%P
 
 0xCBC
 ... ... ...%K%P
@@ -569,7 +569,7 @@ Izumi「I'll... give this to you...」%K%P
 She opens her palm in the space between us while%Nbending her stiff arms.%K%P
 
 0xD64
-―It's the small glass bottle.%K%N
+—It's the small glass bottle.%K%N
 
 0xD70
 The one with the three stars inside.%K%P
@@ -635,7 +635,7 @@ The instant I say this, an uneasy expression forms on%NIzumi-san's face.%K%P
 Makoto「It's all right! I'll be back soon!」%K%P
 
 0xF70
-Izumi「Huuh～? ... I don't want to...」%K%P
+Izumi「Huuh〜? ... I don't want to...」%K%P
 
 0xF7C
 Makoto「Why not?」%K%P
@@ -665,7 +665,7 @@ Izumi「Hee hee♪」%K%P
 Izumi-san gives an innocent smile.%K%P
 
 0x1010
-―Then, a second later!%K%P
+—Then, a second later!%K%P
 
 0x102C
 Izumi-san's knees suddenly lose strength.%K%P

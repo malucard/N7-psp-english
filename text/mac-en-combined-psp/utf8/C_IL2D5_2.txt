@@ -2,7 +2,7 @@ text area offset and size:
 0x950
 0x1AC7
 0x5C
-―The next day.%K%N
+—The next day.%K%N
 
 0x68
 I'm visiting Lunabeach again.%K%P
@@ -128,7 +128,7 @@ Izumi「About the true nature of the time travel... or its cause...」%K%P
 Izumi-san is certainly right.%K%P
 
 0x2B8
-The two of us don't believe the hypothesis of the%NIzumi-san as a psychologist―that this reality is a%Ndelusion.%K%P
+The two of us don't believe the hypothesis of the%NIzumi-san as a psychologist—that this reality is a%Ndelusion.%K%P
 
 0x2C4
 Then what is the true cause of the time travel?%K%P
@@ -206,7 +206,7 @@ Izumi「I got this from Kurumi... yesterday.」%K%P
 She quietly opens her palm while saying this.%K%P
 
 0x410
-―It's star sand.%K%N
+—It's star sand.%K%N
 
 0x41C
 Specifically, it's a "star sand" in a small glass bottle.%K%P
@@ -299,7 +299,7 @@ Makoto「I don't have it, and you don't have it.」%K%P
 Makoto「I don't think any of the others have it either...」%K%P
 
 0x5E0
-Makoto「―So that means it's absolutely impossible for the%Nsame event to repeat itself!」%K%P
+Makoto「—So that means it's absolutely impossible for the%Nsame event to repeat itself!」%K%P
 
 0x5EC
 Makoto「That's why...」%K%P
@@ -392,7 +392,7 @@ Izumi-san and I... pinch each other's cheeks while%Nlaughing so hard that we're 
 Just then...%K%P
 
 0x7B8
-Kurumi「Good morning―♪」%K%P
+Kurumi「Good morning—♪」%K%P
 
 0x7CC
 Kurumi「... Huh?」%K%P

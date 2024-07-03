@@ -35,7 +35,7 @@ Makoto「True. Carrying 22 pounds of rice while walking does%Nseem like a pain..
 Izumi「The key's attached to it. Well then, you two take care.」%K%P
 
 0x12C
-Yuka「Will do～」%K%P
+Yuka「Will do〜」%K%P
 
 0x140
 Izumi「... Ah! Can I ask you to do one more thing?」%K%P
@@ -164,7 +164,7 @@ Makoto「... The power to receive premonitions?」%K%P
 Just then, a memory flashes through my mind.%K%P
 
 0x414
-―It was when Haruka fell on Moon Beach.%K%N
+—It was when Haruka fell on Moon Beach.%K%N
 
 0x420
 It's true that I did see Haruka fall down before she%Nactually did.%K%N
@@ -206,7 +206,7 @@ Currently, Yuka is checking the contents of a large%Ngrocery bag on the ground.%
 Right, Izumi-san's last request was for fresh cream.%K%P
 
 0x524
-Sheesh, what type of caf▲ doesn't stock up on fresh%Ncream?%K%P
+Sheesh, what type of café doesn't stock up on fresh%Ncream?%K%P
 
 0x530
 And there's also the pizza incident from this afternoon...%Nthat shop has quite the sloppy business policy.%K%P

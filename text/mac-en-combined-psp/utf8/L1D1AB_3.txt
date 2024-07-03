@@ -299,7 +299,7 @@ Yuka「Geez, stop being so persistent!」%K%P
 Makoto「But-」%K%P
 
 0x658
-Yuka「The First Law of Professor Yuka's Love Formula:%N―'Dislike persistent men.' ―Please remember that♪」%K%P
+Yuka「The First Law of Professor Yuka's Love Formula:%N—'Dislike persistent men.' —Please remember that♪」%K%P
 
 0x66C
 Yuka gives me a kind smile.%K%P
@@ -314,7 +314,7 @@ I can feel my ears burn hot.%K%P
 When I realize what that means, I try not to act anxious.%K%P
 
 0x6B8
-"Dislike persistent men." ―Dislike... who?%K%P
+"Dislike persistent men." —Dislike... who?%K%P
 
 0x6C4
 Flustered, I feel the wind playfully brush against my%Ncheeks.%K%P
@@ -401,7 +401,7 @@ There's a victorious glint in Okuhiko's eyes. His mouth%Nalso warps into another
 Yuka「Then we'll be right here.」%K%P
 
 0x8F0
-―What? "We"? W... We?%K%P
+—What? "We"? W... We?%K%P
 
 0x8FC
 So by "we", Yuka means me and her?%K
@@ -500,7 +500,7 @@ Makoto「Divine punishment, huh?」%K%P
 Yuka「Why must I receive that...!?」%K%P
 
 0xB48
-Makoto「Not you, Yuka―Huh? Where's Haruka?」%K%P
+Makoto「Not you, Yuka—Huh? Where's Haruka?」%K%P
 
 0xB5C
 I've lost sight of her. I look around... Found her. Haruka's%Nalready far away from the tennis court.%K%P

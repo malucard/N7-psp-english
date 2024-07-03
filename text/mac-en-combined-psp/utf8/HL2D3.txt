@@ -557,7 +557,7 @@ And then, I begin to bring my lips near her forehead...%K%P
 ... Just then... I suddenly notice something.%K%P
 
 0x1030
-In the recesses of Haruka's now exposed forehead―%NI find a small scar.%K%P
+In the recesses of Haruka's now exposed forehead—%NI find a small scar.%K%P
 
 0x103C
 I feel like I've seen something I shouldn't have, so I%Nquickly take my hand out of Haruka's hair.%K%P
@@ -875,7 +875,7 @@ In the empty room, my thoughts turn to Haruka.%K%N
 The most important thing about Izumi-san's story just%Nnow is...%K%N
 
 0x18D8
-―that Kurumi might be Haruka's "Original"!%K%P
+—that Kurumi might be Haruka's "Original"!%K%P
 
 0x18E4
 Haruka must be dying to learn this sort of information%Nabout her roots.%K%P
@@ -899,7 +899,7 @@ It echoes in the dark and quiet room.%K%P
 (What should I do...???)%K%P
 
 0x1938
-―That's right!%K%N
+—That's right!%K%N
 
 0x1944
 Struck by a sudden idea, I spontaneously stand on top%Nof my bed.%K%P

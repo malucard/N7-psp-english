@@ -68,7 +68,7 @@ When I look up in surprise...%K%P
 Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
 
 0x324
-Okuhiko「Neutrino Energy, Power On! ... Trans～form! ... There! ...%NZzz...」%K%P
+Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ...%NZzz...」%K%P
 
 0x338
 Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
@@ -584,10 +584,10 @@ I'm thinking about way too much right now...%K%P
 Izumi-san's story is still lurking in my heart as well.%K%P
 
 0xD98
-―The shrine. ―The kidnapping. ―The possibility%Nthat they may not be real sisters.%K%P
+—The shrine. —The kidnapping. —The possibility%Nthat they may not be real sisters.%K%P
 
 0xDA4
-―And the scar on her back...%K%P
+—And the scar on her back...%K%P
 
 0xDB0
 Tomorrow, I'll ask Izumi-san to continue her story.%K%P

@@ -440,7 +440,7 @@ Yuka「But quietly drawing pictures like that might have been me%Nresetting my h
 Resetting, huh...?%K%P
 
 0xA30
-―The image of an empty art room, save for Yuka%Ndrawing pictures in a corner.%K%P
+—The image of an empty art room, save for Yuka%Ndrawing pictures in a corner.%K%P
 
 0xA3C
 I can't imagine that very well.%K%P
@@ -515,7 +515,7 @@ Hmm... it doesn't sound right to me.%K%P
 It might be because it's a little narrow-minded.%K%P
 
 0xB5C
-I wouldn't be able to look at it without feeling a%Nheat-pounding restlessness―all I'm getting is an%Nuneasy impression.%K%P
+I wouldn't be able to look at it without feeling a%Nheat-pounding restlessness—all I'm getting is an%Nuneasy impression.%K%P
 
 0xB68
 That clock hand pinned down by the bird's wing sounds%Nlike it'll slip free at any moment...%K%P
@@ -524,7 +524,7 @@ That clock hand pinned down by the bird's wing sounds%Nlike it'll slip free at a
 In that instant, time will start moving again, won't it...?%K%P
 
 0xB80
-―However, indifferent to my thoughts, Yuka continues%Nfrom where she left off.%K%P
+—However, indifferent to my thoughts, Yuka continues%Nfrom where she left off.%K%P
 
 0xB8C
 Yuka「And then, all of the sudden, a certain student I%Nrecognized came in.」%K%P
@@ -683,7 +683,7 @@ Yuka「But...」%K%P
 Yuka「But even now, I can't forget him.」%K%P
 
 0xF6C
-―My breath is instinctively taken away.%K%P
+—My breath is instinctively taken away.%K%P
 
 0xF78
 My body feels shocked numb, as if I had been struck by%Nlightning.%K%P
@@ -827,7 +827,7 @@ I don't know if something happened, but when I look%Ntowards Yuka, her posture h
 Yuka almost falls over, but she grabs the handrail in%Nfront of her, putting her whole strength into it...%K%P
 
 0x12CC
-―At that time, I hear a small sound...%K%P
+—At that time, I hear a small sound...%K%P
 
 0x1328
 Yuka「Ah...」%K%P
@@ -860,7 +860,7 @@ Makoto「You're right...」%K%P
 And in the instant I mutter this!%K%P
 
 0x13E4
-―Rumble!%K%P
+—Rumble!%K%P
 
 0x13F0
 The tremors arrive together with shock waves that feel%Nlike they're pushing up.%K%P
@@ -884,7 +884,7 @@ Yuka grabs the fence with both of her hands, and bends%Ndown a bit, waiting for 
 I also grasp the fence with one hand, and with both of my%Nfeet, I step firmly on the ground that's shaking like the%Nbelly of a beast.%K%P
 
 0x1450
-―In the midst of this, I hear a small sound...%K%P
+—In the midst of this, I hear a small sound...%K%P
 
 0x1478
 It's a certain high-pitched metallic sound I know I've%Nheard before...%K%P
@@ -908,7 +908,7 @@ The ringing sound is in the direction of... Yuka's feet...%K%P
 I squint and stare at the ground's surface.%K%P
 
 0x14F8
-―A sparkling light.%K%P
+—A sparkling light.%K%P
 
 0x1504
 The sharp light pierces both of my eyes.%K%P
@@ -947,7 +947,7 @@ But... why is it here...?%K%P
 Why... is it at Yuka's feet...?%K%P
 
 0x15EC
-―It's the sound of the bell I heard earlier.%K%P
+—It's the sound of the bell I heard earlier.%K%P
 
 0x15F8
 There's no mistaking that it was the sound of the bell%Nstriking the ground.%K%P
@@ -1175,7 +1175,7 @@ Girl「... The moon!」%K%P
 Girl「I picked it up on that sandy beach shaped like a%Ncrescent moon!」%K%P
 
 0x1B08
-―Moon Beach!!%K%P
+—Moon Beach!!%K%P
 
 0x1B14
 I am astonished...%K%P
@@ -1193,13 +1193,13 @@ The bell I threw into the ocean on the night of the 1st%Nwashed back up on shore
 (Maybe if I'd thrown it farther...)%K%P
 
 0x1B50
-―No, that's wrong!%K%P
+—No, that's wrong!%K%P
 
 0x1B5C
 (Maybe if I'd smashed it with a rock or something...)%K%P
 
 0x1B68
-―That's not it!%K%P
+—That's not it!%K%P
 
 0x1B74
 That's not it!%K%P
@@ -1316,13 +1316,13 @@ The girl looks back and forth between Yuka and I%Nrestlessly.%K%P
 Her eyes are just overflowing with tears... she's%Ncompletely frightened.%K%P
 
 0x1D60
-Makoto「Y-You're wrong. That's not it at―」%K%P
+Makoto「Y-You're wrong. That's not it at—」%K%P
 
 0x1D6C
 Girl「PAPAAAAAAAAAAAAAAAAAA!!!」%K%P
 
 0x1D78
-―Suddenly, my ears are shattered by the girl's loud,%Nshrill scream.%K%P
+—Suddenly, my ears are shattered by the girl's loud,%Nshrill scream.%K%P
 
 0x1D84
 I wince at this unexpected development.%K%P
@@ -1424,7 +1424,7 @@ Leaving with those words, Yuka runs away.%K%P
 She shoots me a glance that shuts down any thoughts I%Nhad of chasing her.%K%P
 
 0x1FF8
-Yuka's hiding something―that's for certain.%K%P
+Yuka's hiding something—that's for certain.%K%P
 
 0x2004
 But I have the feeling that asking her anything right now%Nwould be useless...%K%P
@@ -1469,10 +1469,10 @@ And even earlier than that... Yuka said this when she saw%Nthe bell I picked up.
 In other words, Yuka recognized it... that "bell"...%K%P
 
 0x2134
-―Why?%K%N
+—Why?%K%N
 
 0x2140
-―Why does Yuka know about that "bell"!?%K%N%N
+—Why does Yuka know about that "bell"!?%K%N%N
 
 0x214C
 But the truth... is in a deep darkness...%K%N
@@ -1487,7 +1487,7 @@ It'll remain there until I can get the truth from Yuka's own%Nlips...%K%N
 And there's one more, much more important problem%Nthat's coiling around my head.%K%N
 
 0x2184
-―The fact that that "bell" has appeared before me%Nonce again.%K%N
+—The fact that that "bell" has appeared before me%Nonce again.%K%N
 
 0x2190
 There's no mistake that it's the "bell" from my dream.%K%N
@@ -1505,7 +1505,7 @@ What the hell am I saying...?%K%N
 Something like this is nothing more than a simple%Ncoincidence.%K%N%N
 
 0x21D4
-("A simple coincidence!?"―That old excuse again?)%K%N
+("A simple coincidence!?"—That old excuse again?)%K%N
 
 0x21E0
 (Can all these strange incidents over the past few days%Nbe explained by those three simple words?)%K%P
@@ -1544,7 +1544,7 @@ Rather, what's the first thing I should do?%K%N
 All I can do is untie the tangled threads until I can catch%Nhold of that clue.%K%N
 
 0x2288
-―The "bell"... I have to find that "bell".%K%N
+—The "bell"... I have to find that "bell".%K%N
 
 0x2294
 I can worry about Yuka later.%K%P
@@ -1577,7 +1577,7 @@ Before I can reach them, they suddenly open up.%K%P
 And the one who comes outside is...%K%P
 
 0x2398
-―that girl!!%K%P
+—that girl!!%K%P
 
 0x23CC
 I've looked high and low for that girl for several hours,%Nbut in the end, I couldn't find her...%K%P
@@ -1598,7 +1598,7 @@ Dropping my shoulders, I turn around.%K%P
 Just then... Right in front of the fish market, playing with a%Npushcart...%K%P
 
 0x2414
-―is that girl!!%K%P
+—is that girl!!%K%P
 
 0x2420
 I start fiercely running over towards the fish market...%K%P
@@ -1634,7 +1634,7 @@ On top of her small palm... is a keychain that I recognize.%K%P
 Attached to the keychain is that fat cat mascot%Ncharacter.%K%P
 
 0x24F4
-―It's Yuka's!%K%P
+—It's Yuka's!%K%P
 
 0x2500
 There's no doubt about it, this is the keychain Yuka said%Nshe bought from the souvenir shop!%K%P
@@ -1763,7 +1763,7 @@ I'm at a loss for words.%K%P
 It's not because she's demanding that I fulfill a promise%Nthat I clearly never made... it's not like that.%K%P
 
 0x2864
-―Yuka's back to her normal self.%K%P
+—Yuka's back to her normal self.%K%P
 
 0x2870
 That has left me dumbfounded.%K%P

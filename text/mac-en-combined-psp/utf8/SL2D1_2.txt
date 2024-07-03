@@ -194,7 +194,7 @@ Saki「The hell's up with you? You've been staring at me this%Nwhole time with t
 Makoto「...」%K%P
 
 0x5E8
-―Should I tell her the whole truth?%K%P
+—Should I tell her the whole truth?%K%P
 
 0x5F4
 No, even if I do that, it'll probably be useless.%K%P

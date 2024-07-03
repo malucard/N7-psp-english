@@ -179,7 +179,7 @@ Okuhiko is clearly starting to get suspicious!%K%P
 Okuhiko「Could it be... that you're all deceiving me?」%K%P
 
 0x574
-―Shit!!%K%N
+—Shit!!%K%N
 
 0x580
 H-Have we been found out!?%K%P
@@ -248,13 +248,13 @@ By the time we finish fishing, half a day has already%Npassed.%K%P
 The sky is dyed a beautiful mad red.%K%P
 
 0x784
-Makoto「Aaaaah... I didn't catch anything～」%K%P
+Makoto「Aaaaah... I didn't catch anything〜」%K%P
 
 0x798
 Haruka「... Doesn't seem like it.」%K%P
 
 0x7A4
-―Whoa!%K%P
+—Whoa!%K%P
 
 0x7B0
 She spoke so suddenly that it surprised me.%K%N
@@ -647,7 +647,7 @@ Why... Why is this happening?%K%P
 I fortify my newfound determination.%K%P
 
 0xFFC
-―At that moment, I hear Okuhiko's voice.%K%P
+—At that moment, I hear Okuhiko's voice.%K%P
 
 0x1008
 (I see, it's that time already...)%K%P
@@ -737,7 +737,7 @@ Before long, we finish fishing, and return to the lodge.%K%P
 I lie down on my bed while waiting for the next event to%Noccur.%K%P
 
 0x1278
-―And then, I hear Okuhiko's voice...%K%P
+—And then, I hear Okuhiko's voice...%K%P
 
 0x1284
 I run out of my room faster than a hurricane.%K%P

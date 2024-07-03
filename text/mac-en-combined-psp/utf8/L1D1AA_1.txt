@@ -68,7 +68,7 @@ I lower my arm...%K%N
 (What an awful nightmare...)%K%P
 
 0x2A0
-―Huh?%K%P
+—Huh?%K%P
 
 0x2AC
 Suddenly, I start to feel a bit worried.%K%P
@@ -107,7 +107,7 @@ Unconsciously, I start counting the number of days up%Nuntil Saturday on my righ
 I coldly smirk, mocking myself.%K%P
 
 0x33C
-―But, just then!%K%P
+—But, just then!%K%P
 
 0x374
 The door to my room is violently thrown open with enough%Nforce to break it.%K%P
@@ -155,7 +155,7 @@ She says nothing, but instead stares directly into my%Neyes.%K%P
 ... This is kind of awkward.%K%P
 
 0x46C
-It's almost like this one time at the grocery store when a%Nlittle girl I didn't know tightly clinged to my leg while saying "Daddy～♪"...%K%PYeah, this situation feels the same.%K
+It's almost like this one time at the grocery store when a%Nlittle girl I didn't know tightly clinged to my leg while saying "Daddy〜♪"...%K%PYeah, this situation feels the same.%K
 
 0xDA8
 Try giving her a comforting smile.
@@ -239,7 +239,7 @@ Makoto「Huh?」%K%P
 I instantly raise a hand to my cheek, mimicking the girl's%Nprevious action.%K%P
 
 0x640
-―Wait, hold on!%K%N
+—Wait, hold on!%K%N
 
 0x64C
 I almost missed it.%K%P
@@ -479,7 +479,7 @@ I definitely think that it started with a "Yu"...%K%N
 Yuriko... Yukie... Yumi... Yue... Yuka...%K%P
 
 0xB98
-―Yuka...?%K%N
+—Yuka...?%K%N
 
 0xBA4
 Yeah, that's right! It was "Yuka".%K%P

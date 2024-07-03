@@ -8,13 +8,13 @@ I pursue Izumi-san in the intense rain.%K%P
 For some reason, I feel strangely uneasy.%K%P
 
 0xD4
-(I have to hurry!) ―I urge myself onwards.%K%P
+(I have to hurry!) —I urge myself onwards.%K%P
 
 0x118
 I arrive out on the coastline road, and look around.%K%P
 
 0x124
-―Found her!%K%P
+—Found her!%K%P
 
 0x130
 I see Izumi-san's small, retreating figure.%K%N
@@ -137,7 +137,7 @@ Izumi「That's because of...」%K%P
 Izumi「That's because of...」%K%P
 
 0x454
-Izumi「... Cur▲...」%K%P
+Izumi「... Curé...」%K%P
 
 0x460
 Then, just as Izumi-san says this...%K%P
@@ -179,7 +179,7 @@ Izumi-san steadily advances through the forest.%K%P
 She pushes her way through the plants while heading%Ntowards a treetop that's sticking out...%K%P
 
 0x514
-―But in the blink of an eye!%K%P
+—But in the blink of an eye!%K%P
 
 0x520
 Izumi「!!!」%K%P
@@ -203,7 +203,7 @@ I rush over there and then...%K%N
 I see...%K%P
 
 0x5C0
-―Izumi-san!!!%K%P
+—Izumi-san!!!%K%P
 
 0x5E8
 I instantly stretch out my hand.%K%P
@@ -254,7 +254,7 @@ Izumi「Makoto-kun...」%K%P
 Izumi「Let go...」%K%P
 
 0x6B0
-(―!?)%K%P
+(—!?)%K%P
 
 0x6BC
 Izumi「At this rate...」%K%P
@@ -263,10 +263,10 @@ Izumi「At this rate...」%K%P
 Izumi「Even you will...」%K%P
 
 0x6D4
-(―What are you saying!?)%K%P
+(—What are you saying!?)%K%P
 
 0x6E0
-(―Why are you saying something so ridiculous?!!)%K%P
+(—Why are you saying something so ridiculous?!!)%K%P
 
 0x6EC
 I'm gripping her thin wrist as tightly as possible.%K%P
@@ -281,7 +281,7 @@ I'm reaching my limit.%K%P
 I feel Izumi-san's arm begin to rapidly lose strength.%K%P
 
 0x72C
-―And, right after that!%K%P
+—And, right after that!%K%P
 
 0x740
 Whoosh! She pulls my arm with ferocious strength,%Npropelling me forward.%K%P
@@ -374,7 +374,7 @@ Izumi「... just one more time...」%K%P
 Izumi-san slowly begins to close her eyes...%K%P
 
 0x938
-(―Izumi-san!)%K%P
+(—Izumi-san!)%K%P
 
 0x944
 I try to scream this out...%K%N
@@ -416,7 +416,7 @@ However...%K%P
 Her heavily dangling palm is clutching onto a small%Nfragment of light.%K%P
 
 0xA10
-―The bell.%K%N
+—The bell.%K%N
 
 0xA1C
 It's that "bell"...%K%P

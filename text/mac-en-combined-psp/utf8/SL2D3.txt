@@ -194,7 +194,7 @@ Makoto「I trust Haruka!」%K%P
 Makoto「We made a promise last night. I trust Haruka. That's why%NHaruka trusts me, too!」%K%P
 
 0x5D0
-―Suddenly, a dry sound echoes.%K%P
+—Suddenly, a dry sound echoes.%K%P
 
 0x5DC
 Taken aback, we all turn towards the sound. Saki is%Nstanding frozen at the front door...%K%P
@@ -236,10 +236,10 @@ Just then, she suddenly crushes the basket.%K%P
 She's crushing it!%K%N
 
 0x714
-――The sound of wood snapping is heard.%K%N
+——The sound of wood snapping is heard.%K%N
 
 0x720
-――The basket has now broken apart.%K%P
+——The basket has now broken apart.%K%P
 
 0x72C
 Plastic tableware scatters everywhere. Sandwiches%Ncome flying out.%K%P

@@ -92,7 +92,7 @@ Izumi「My father is currently the authority on genetic%Nengineering. I'm... I'm
 Izumi-san's father is...%K%N
 
 0x270
-―Dr. Shigezo Morino!?%K%P
+—Dr. Shigezo Morino!?%K%P
 
 0x27C
 If I'm not mistaken, several decades ago, Dr. Morino%Nparticipated in the Human Genome Project, and was the%None who discovered the ground breaking analysis for%Nthe DNA sequence, right?%K%P

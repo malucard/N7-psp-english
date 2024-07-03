@@ -23,7 +23,7 @@ It must be because I've done this work once already, so%NI already knew what to 
 At exactly the same time I finish that job... the customers%Nstop coming.%K%N%N
 
 0xD8
-―The time has finally come!%K%P
+—The time has finally come!%K%P
 
 0x164
 Izumi「Haah... I'm tired.」%K%P
@@ -134,7 +134,7 @@ Izumi「Oh! Then you'll go and bring it back?」%K%P
 Makoto「Well, actually, I-」%K%P
 
 0x334
-Izumi「Thank you♪ You're a real lifesaver～♪」%K%P
+Izumi「Thank you♪ You're a real lifesaver〜♪」%K%P
 
 0x340
 Makoto「No, I-」%K%P
@@ -185,7 +185,7 @@ Orange juice?%K%N
 Orange juice!?%K%P
 
 0x420
-―That's it! That's how it began!%K%N
+—That's it! That's how it began!%K%N
 
 0x42C
 Which means that now that she brought it up... I can turn%Nthis conversation in the direction I want it to!%K%P
@@ -215,7 +215,7 @@ Izumi「...」%K%P
 Makoto「Actually, I'm not sure... Maybe Haruka actually does drink...」%K%P
 
 0x498
-Izumi「What～? Is that right...?」%K%P
+Izumi「What〜? Is that right...?」%K%P
 
 0x4A4
 Izumi「Well, either way, Kurumi can't drink, so even if you buy it,%Nat least the juice won't go to waste.」%K%P
@@ -494,7 +494,7 @@ Makoto「However... Makoto-kun, did you know this? Me and%NKurumi's father is a 
 Yes... I heard about it from Kurumi. Your father, Dr. Morino,%Nis also the world famous authority on the subject...%K%P
 
 0x9AC
-Makoto「―And just then, it hits me!」%K%P
+Makoto「—And just then, it hits me!」%K%P
 
 0x9B8
 Izumi「D-Don't tell me... Are you saying that Dr. Morino falsified%Nthe results of the DNA test!?」%K%P
@@ -539,7 +539,7 @@ Still, the real problem isn't Dr. Morino's involvement, but%Nrather the fact tha
 For argument's sake, let's say that Kurumi had aged%Nthree years when she was found. Then Izumi-san and%Neveryone else wouldn't have had any doubts to begin%Nwith.%K%P
 
 0xA60
-―A three year blank.%K%P
+—A three year blank.%K%P
 
 0xA6C
 Izumi「If I can clear up that mystery, then naturally, I'll probably%Nbe able to figure out the truth...」%K%P
@@ -656,13 +656,13 @@ Izumi「Yes...」%K%P
 Izumi「Before long, the collapsed shrine was rebuilt...」%K%P
 
 0xCAC
-Makoto「Then, three years after the shrine was destroyed―a%Ntourist who was passing by the area by pure chance%Nheard a baby crying inside the shrine...」%K%P
+Makoto「Then, three years after the shrine was destroyed—a%Ntourist who was passing by the area by pure chance%Nheard a baby crying inside the shrine...」%K%P
 
 0xCB8
 And that's when Kurumi was found.%K%P
 
 0xCC4
-―Huh??? Wait...%K%P
+—Huh??? Wait...%K%P
 
 0xCD0
 The shrine... An earthquake... The destruction of the%Nshrine...%K%P
@@ -671,7 +671,7 @@ The shrine... An earthquake... The destruction of the%Nshrine...%K%P
 Not aging for three years...%K%P
 
 0xCE8
-Could that have been... ―Time travel!?%K%P
+Could that have been... —Time travel!?%K%P
 
 0xCF4
 In my case, I was sent to the past, but Kurumi was sent%Nthree years into the future...%K%P
@@ -701,7 +701,7 @@ Just before the shrine was destroyed, Kurumi was in%Nthere with the kidnapper.%K
 But via some kind of unknown source, "immediately after%Nthe shrine was destroyed", only Kurumi time traveled%Nthree years into the future...%K%P
 
 0xD60
-Immediately after it was destroyed... ―therefore, she%Ngot injured on her back due to debris that fell during%Nthe destruction of the shrine.%K%P
+Immediately after it was destroyed... —therefore, she%Ngot injured on her back due to debris that fell during%Nthe destruction of the shrine.%K%P
 
 0xD6C
 ... If this is right, then this means that I can explain%Neverything!%K%P
@@ -806,7 +806,7 @@ Thinking about it, it's only natural. In this history, Saki and%NHaruka are gett
 Of course, Kurumi's disappearance and the uproar that%Nsurrounded it don't happen this time, either.%K%N
 
 0x1014
-―But maybe she'll go missing later???%K%N
+—But maybe she'll go missing later???%K%N
 
 0x1020
 No, that definitely won't happen.%K%P

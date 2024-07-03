@@ -14,7 +14,7 @@ Step, step, step, step...%K%N
 I can hear footsteps on the sand.%K%N
 
 0x98
-―She's at Moon Beach!%K%P
+—She's at Moon Beach!%K%P
 
 0xD0
 I jump over the banks, and land on the sandy beach.%K%N
@@ -143,7 +143,7 @@ Kurumi「... Kurumi hates them...」%K%P
 Kurumi「... Kurumi hates...」%K%P
 
 0x308
-Makoto「Kurumi... you're wrong. We were just thinking of y―」%K%P
+Makoto「Kurumi... you're wrong. We were just thinking of y—」%K%P
 
 0x314
 Kurumi「I hate you!」%K%P
@@ -152,7 +152,7 @@ Kurumi「I hate you!」%K%P
 Kurumi「I HATE EVERYONE!!」%K%P
 
 0x32C
-Makoto「Kurumi―」%K%P
+Makoto「Kurumi—」%K%P
 
 0x338
 Kurumi「Leave me alone! JUST LEAVE ME ALONE ALREADY!!」%K%P
@@ -173,7 +173,7 @@ Rain begins to fall from the sky...%K%P
 (... She'll never recover!)%K%P
 
 0x3B4
-―I pick up the pursuit.%K%P
+—I pick up the pursuit.%K%P
 
 0x3C0
 Makoto「Kurumi!」%K%P
@@ -293,7 +293,7 @@ Its faint and gray appearance makes it look like a mirage.%K%P
 I tumble into the illusion-like shrine while slipping across%Nthe stone paving, wet from the rain.%K%P
 
 0x824
-―She's not here.%K%N
+—She's not here.%K%N
 
 0x830
 She's not here...%K%N
@@ -335,7 +335,7 @@ The sound... of that bell...?%K%P
 That's a different sound than the bell in my dream.%K%P
 
 0x910
-It's an altar bell―a bell dangling from a small building%Nmodeled after a small Shinto shrine that rests on the%Naltar.%K%P
+It's an altar bell—a bell dangling from a small building%Nmodeled after a small Shinto shrine that rests on the%Naltar.%K%P
 
 0x91C
 There's probably a draft blowing from somewhere that's%Ncausing the bell to swing...%K%P
@@ -581,7 +581,7 @@ I called Kurumi's scar "horrifying." I'd intended to take%Nthat pain away... but
 I loathe that scar. I can't even touch it. I can't heal%NKurumi's scar.%K%P
 
 0x1284
-Her true scar―is the one that's been very deeply%Nengraved into the innermost depths of her heart...%K%P
+Her true scar—is the one that's been very deeply%Nengraved into the innermost depths of her heart...%K%P
 
 0x1290
 (I wonder what she's... thinking about right now.)%K%P

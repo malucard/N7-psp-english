@@ -56,7 +56,7 @@ Just relax.
 I... try to pull my thoughts together.%K%P
 
 0x150
-―First, the camp.%K%N
+—First, the camp.%K%N
 
 0x15C
 Well, I say "camp", but this isn't for a school club or%Nanything.%K%P
@@ -275,7 +275,7 @@ Just then, she opens her small mouth to speak.%K%P
 Makoto「So, did you sleep well last night?」%K%P
 
 0x664
-Those words sounded incredibly forced and clich▲d.%K%N
+Those words sounded incredibly forced and clichéd.%K%N
 
 0x670
 I feel my face flush from embarrassment.%K%P

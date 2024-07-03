@@ -104,7 +104,7 @@ Saki「N-No way! You're wrong!」%K%P
 Makoto「Heh heh... is that so...」%K%P
 
 0x2F0
-Saki「Stop laughing, you creep! ―I'll do it. I'll get on. Hurry up%Nand head straight there.」%K%P
+Saki「Stop laughing, you creep! —I'll do it. I'll get on. Hurry up%Nand head straight there.」%K%P
 
 0x2FC
 Makoto「Yes, ma'am.」%K%P
@@ -347,7 +347,7 @@ Makoto「I-Idiot! Let go of my arm!! There's a curve!!」%K%P
 Saki「Huh!? ... K-KYAAA!!」%K%P
 
 0xA38
-―And so, we've finally come back.%K%P
+—And so, we've finally come back.%K%P
 
 0xA44
 We drag the bike, with its bent handles, warped saddle,%Nand smashed basket.%K%P

@@ -74,13 +74,13 @@ Before long, we can hear Yuka and Okuhiko's voices.%K%P
 そして、遙はあの時のようにオレを廃船の中へと誘い込んだ。%K%P
 And just like last time, Haruka and I hide inside the%Nwrecked ship.%K%P
 0x21C
-優夏「あれ～？　やっぱりいないねぇ～」%K%P
+優夏「あれ〜？　やっぱりいないねぇ〜」%K%P
 Yuka「Huh? Looks like they're not here after all?」%K%P
 0x228
 億彦「だから、２人は釣りに行くって言ってたじゃないかぁ……」%K%P
 Okuhiko「Like I said, those two said they were going fishing,%Nright...?」%K%P
 0x234
-優夏「う～ん……そうなんだけど……」%K%P
+優夏「う〜ん……そうなんだけど……」%K%P
 Yuka「Hmm?... that's true...」%K%P
 0x240
 億彦「ここにはいないよ。きっと」%K%P
@@ -137,7 +137,7 @@ She shakes her head again...%K%N
 え？　違うの？%K%P
 Huh? I'm wrong again?%K%P
 0x344
-誠「う～ん……。%Kそれじゃ、泳ぎたいとか？」%K%P
+誠「う〜ん……。%Kそれじゃ、泳ぎたいとか？」%K%P
 Makoto「Hmm...%K Then do you want to swim?」%K%P
 0x350
 ふるふる……。%K%P

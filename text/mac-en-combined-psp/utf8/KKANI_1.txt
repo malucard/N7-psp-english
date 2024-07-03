@@ -170,7 +170,7 @@ Makoto「Yeah! Leave it to me!」%K%P
 When Kurumi hears that, she shows me her usual bright%Nsmile.%K%P
 
 0x400
-―Princess Beach.%K%P
+—Princess Beach.%K%P
 
 0x40C
 It's a hidden beach, surrounded by tall cliffs that%Nserves as a barrier to isolate it from its surroundings.%K%P
@@ -206,7 +206,7 @@ Kurumi grabs the edge of a rock, and peeks down at a%Nditch that's been eroded b
 Makoto「Hey, don't trip.」%K%P
 
 0x538
-Kurumi「Wow～～♪ There's a lot of crabs here～♪」%K%P
+Kurumi「Wow〜〜♪ There's a lot of crabs here〜♪」%K%P
 
 0x544
 Makoto「Huh? ... Whoa!」%K%P
@@ -233,7 +233,7 @@ Kurumi boldly reaches her hand into the group of crabs.%K%P
 Makoto「Kurumi, don't put your hands there.」%K%P
 
 0x5A4
-Kurumi「Crabs～～♪」%K%P
+Kurumi「Crabs〜〜♪」%K%P
 
 0x5B0
 Kurumi lifts up the second crab with all her strength.%K%P
@@ -290,10 +290,10 @@ Makoto「Show me.」%K%P
 Kurumi「All right... if you beat Kurumi in Rock-Paper-Scissors♪」%K%P
 
 0x688
-Makoto「Huh～?」%K%P
+Makoto「Huh〜?」%K%P
 
 0x694
-Kurumi「Let's go～♪ Rock, Paper, Scissors...」%K%P
+Kurumi「Let's go〜♪ Rock, Paper, Scissors...」%K%P
 
 0x6A0
 Makoto「Go!」%K%P
@@ -305,7 +305,7 @@ Kurumi stretches the crab's claw out.%K%P
 ... Incidentally, I have paper.%K%P
 
 0x6C4
-Kurumi「Yay, Mr. Crab won～♪ Isn't this fun, Sumo Crab? Are you%Nglad?」%K%P
+Kurumi「Yay, Mr. Crab won〜♪ Isn't this fun, Sumo Crab? Are you%Nglad?」%K%P
 
 0x6D0
 Kurumi happily addresses the crab. Geez, don't name it...%K%P
@@ -362,7 +362,7 @@ After that, she lets the losing crab go while waving%Nsorrowfully at it...%K%P
 Makoto「Kurumi, you're always having fun, aren't you?」%K%P
 
 0x844
-Kurumi「Eheh♪ Kurumi wonders about that～♪」%K%P
+Kurumi「Eheh♪ Kurumi wonders about that〜♪」%K%P
 
 0x850
 Kurumi「It may look that way, but Kurumi's got tons of worries!」%K%P
@@ -467,7 +467,7 @@ Makoto「Even though we're unrelated to you, you've done so%Nmuch for us...」%K
 Makoto「Especially Izumi-san; if she weren't here, then we'd%Nprobably be starving to death right about now...」%K%P
 
 0xBA8
-Kurumi「... Mmm... It's fine, it's fine～♪ Don't worry about it so much.」%K%P
+Kurumi「... Mmm... It's fine, it's fine〜♪ Don't worry about it so much.」%K%P
 
 0xBB4
 Kurumi swallows the sandwich in one gulp.%K%P

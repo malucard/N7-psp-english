@@ -65,7 +65,7 @@ When I look up in surprise...%K%P
 Okuhiko「This is bad... I... don't have... enough... energy...... Zzz...」%K%P
 
 0x338
-Okuhiko「Neutrino Energy, Power On! ... Trans～form! ... There! ...%NZzz...」%K%P
+Okuhiko「Neutrino Energy, Power On! ... Trans〜form! ... There! ...%NZzz...」%K%P
 
 0x34C
 Okuhiko「You've shown yourself, Mysterious Hi-Tech Vacuum%NCleaner Man... Ugh... He's... sucking... me in... ... Zzz...」%K%P
@@ -101,7 +101,7 @@ I take my hand off the fridge, and walk straight to the%Nfront door.%K%P
 I put on a pair of sandals, open the door, and go outside.%K%P
 
 0x474
-―???%K%P
+—???%K%P
 
 0x480
 There is a dark figure sitting in the corner of the terrace.%K%P
@@ -146,7 +146,7 @@ Makoto「...!!」%K%P
 The whole sky is engulfed by a glimmering sea of stars.%K%P
 
 0x584
-No, that's lame. This isn't something that can be%Ndescribed with such clich▲d lines!%K%P
+No, that's lame. This isn't something that can be%Ndescribed with such clichéd lines!%K%P
 
 0x590
 There are an infinite amount of shining stars all over the%Nvast sky, packed densely together.%K%P
@@ -203,7 +203,7 @@ Makoto「...」%K%P
 Yuka「Now that I think about it, it's the same feeling as when I%Nsaw those cherry blossoms...」%K%P
 
 0x69C
-―Cherry blossoms?%K%P
+—Cherry blossoms?%K%P
 
 0x6A8
 Those words bring me back to reality.%K%P
@@ -212,13 +212,13 @@ Those words bring me back to reality.%K%P
 That's right... when we saw those cherry blossoms... I%Nhave to ask her about "that".%K%P
 
 0x6C0
-―Why did she know about the "bell"?%K%P
+—Why did she know about the "bell"?%K%P
 
 0x6CC
-―Why did she have to take back the "bell" from that%Ngirl?%K%P
+—Why did she have to take back the "bell" from that%Ngirl?%K%P
 
 0x6D8
-―And... does she have that "bell" even now?%K%P
+—And... does she have that "bell" even now?%K%P
 
 0x6E4
 I've been waiting for the chance for the two of us to be%Nall alone.%K%P

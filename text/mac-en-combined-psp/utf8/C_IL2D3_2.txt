@@ -20,7 +20,7 @@ The top half's been torn off, so I don't really know the%Ndetails.%K%P
 But on the bottom half is...%K%P
 
 0xC8
-"July 7th (Sunday)―(杜紀司) Festival".%K%P
+"July 7th (Sunday)—(杜紀司) Festival".%K%P
 
 0xD4
 "Invite all of your family members, and please%Nparticipate."%K%P
@@ -29,13 +29,13 @@ But on the bottom half is...%K%P
 ... That's what's written.%K%P
 
 0xEC
-((杜紀司) Festival ―The "Tokitsukasa" Festival, huh?)%K%P
+((杜紀司) Festival —The "Tokitsukasa" Festival, huh?)%K%P
 
 0xF8
 (...)%K%P
 
 0x114
-(―What!? ―To(杜)-ki(紀)-tsukasa(司)???)%K%P
+(—What!? —To(杜)-ki(紀)-tsukasa(司)???)%K%P
 
 0x120
 All of the sudden!%K%P
@@ -128,7 +128,7 @@ Yuka「Bleed, bleed, bleed, bleed...」%K%P
 Yuka「ORYAAAAAAAAAAAAAA!」%K%P
 
 0x2F4
-―Thump.%K%P
+—Thump.%K%P
 
 0x300
 Yuka raises the sword overhead, but I grab it with my%Nright hand.%K%P
@@ -161,7 +161,7 @@ Yuka「Ah, are you going to see Izumi-san?」%K%P
 Makoto「W-What!? There's no way that'd be it!」%K%P
 
 0x3AC
-―*Stab*!%K%P
+—*Stab*!%K%P
 
 0x3C0
 Yuka「It's written all over your face.」%K%P
@@ -362,10 +362,10 @@ Makoto「Then what name do you have in mind?」%K%P
 Yuka「Heh heh♪ This cat's name is...」%K%P
 
 0x774
-Yuka「'Schr▼dy'♪」%K%P
+Yuka「'Schrödy'♪」%K%P
 
 0x780
-Makoto「Schr▼dy?」%K%P
+Makoto「Schrödy?」%K%P
 
 0x78C
 Yuka「Yeah. Kurumi-chan picked that out.」%K%P
@@ -386,16 +386,16 @@ Makoto「No... but I've heard of it...」%K%P
 Yuka「I've not read it either, so I don't know that much, but%Napparently, that cat and this key chain look very similar.」%K%P
 
 0x7E4
-Makoto「It couldn't be... Schr▼dinger's cat?」%K%P
+Makoto「It couldn't be... Schrödinger's cat?」%K%P
 
 0x7F8
 Yuka「Huh?」%K%P
 
 0x804
-Makoto「Does that manga feature 'Schr▼dinger's cat'?」%K%P
+Makoto「Does that manga feature 'Schrödinger's cat'?」%K%P
 
 0x810
-Makoto「After all, it has a cat in it named 'Schr▼dy'...」%K%P
+Makoto「After all, it has a cat in it named 'Schrödy'...」%K%P
 
 0x81C
 Yuka「Huh? How did you know that? I thought you just said you%Nhaven't read it...」%K%P
@@ -404,13 +404,13 @@ Yuka「Huh? How did you know that? I thought you just said you%Nhaven't read it.
 Makoto「As I thought...」%K%P
 
 0x834
-Yuka「According to Kurumi-chan, the theme of that manga is%N'Schr▼dinger's cat'.」%K%P
+Yuka「According to Kurumi-chan, the theme of that manga is%N'Schrödinger's cat'.」%K%P
 
 0x840
 Yuka「It sounds interesting, so I'm thinking of giving it a read%Nthe next chance I get.」%K%P
 
 0x84C
-Makoto「'Interesting'... Then you know what it is!? What's%N'Schr▼dinger's cat'!?」%K%P
+Makoto「'Interesting'... Then you know what it is!? What's%N'Schrödinger's cat'!?」%K%P
 
 0x860
 Yuka「Huh? Makoto, you don't know what it is...?」%K%P
@@ -419,10 +419,10 @@ Yuka「Huh? Makoto, you don't know what it is...?」%K%P
 Makoto「N-No, I don't...」%K%P
 
 0x880
-Yuka「I don't get you～」%K%P
+Yuka「I don't get you〜」%K%P
 
 0x88C
-Yuka「Even though you know what 'Vain Island' is, you don't%Nknow what 'Schr▼dinger's cat' is?」%K%P
+Yuka「Even though you know what 'Vain Island' is, you don't%Nknow what 'Schrödinger's cat' is?」%K%P
 
 0x898
 Makoto「That doesn't matter, just hurry up and tell me!」%K%P
@@ -431,7 +431,7 @@ Makoto「That doesn't matter, just hurry up and tell me!」%K%P
 Yuka「Huh? Tell you what?」%K%P
 
 0x8B8
-Makoto「About 'Schr▼dinger's cat', of course!!」%K%P
+Makoto「About 'Schrödinger's cat', of course!!」%K%P
 
 0x8CC
 Yuka「Geez! There's no need to shout, is there!?」%K%P
@@ -491,13 +491,13 @@ Yuka「Hmm... well, it's good enough.」%K%P
 Yuka says this, swings the sword once, and sheathes it%Nin a scabbard on her back.%K%P
 
 0x9D0
-Makoto「So? What's 'Schr▼dinger's cat'?」%K%P
+Makoto「So? What's 'Schrödinger's cat'?」%K%P
 
 0x9E4
 Yuka「That's obvious!」%K%P
 
 0x9F0
-Yuka「―They're a species of cats that come from the%NSchr▼dinger providence!」%K%P
+Yuka「—They're a species of cats that come from the%NSchrödinger providence!」%K%P
 
 0x9FC
 Yuka「It's rumored that they're distant relatives of the Iriomote%Nwildcat...」%K%P
@@ -515,7 +515,7 @@ Yuka「Nope! Just kidding!」%K%P
 Yuka「Okay? I'm only going to explain this once, so listen%Ncarefully♪」%K%P
 
 0xA50
-Yuka「Huh～? Makoto-kun, your shoulders are trembling ever%Nso slightly. You okay～?」%K%P
+Yuka「Huh〜? Makoto-kun, your shoulders are trembling ever%Nso slightly. You okay〜?」%K%P
 
 0xA5C
 Makoto「...」%K%P
@@ -530,7 +530,7 @@ Yuka「Well then, umm, where do I begin?」%K%P
 Yuka「First...」%K%P
 
 0xA94
-Yuka「Schr▼dinger was an Austrian theoretical physicist who%Ncreated wave mechanics.」%K%P
+Yuka「Schrödinger was an Austrian theoretical physicist who%Ncreated wave mechanics.」%K%P
 
 0xAA0
 Yuka「He developed a wave equation to describe the%Nmovement of electrons within atoms-」%K%P
@@ -548,7 +548,7 @@ Makoto「I can't understand any of that stuff... Is it going to get%Nmore compli
 Yuka「Hmm... are you going to be okay?」%K%P
 
 0xAEC
-Yuka「Well, in short, Schr▼dinger was a very famous physicist.」%K%P
+Yuka「Well, in short, Schrödinger was a very famous physicist.」%K%P
 
 0xAF8
 Yuka「If you keep that much in mind, you'll probably be okay.」%K%P
@@ -557,7 +557,7 @@ Yuka「If you keep that much in mind, you'll probably be okay.」%K%P
 Makoto「Okay, got it... Then please continue.」%K%P
 
 0xB10
-Yuka「And so, it was he who came up with the story of%N'Schr▼dinger's cat'.」%K%P
+Yuka「And so, it was he who came up with the story of%N'Schrödinger's cat'.」%K%P
 
 0xB1C
 Yuka「I'll have you know that the following story is completely%Nfictional.」%K%P
@@ -704,7 +704,7 @@ Makoto「In the end, the cat's life or death status is affected by%Nwhether or n
 Makoto「In other words 'When did the radioactive material emit α%Nparticles?'... If I can predict that, then I could also tell the%Ncat's life or death status, couldn't I?」%K%P
 
 0xE20
-Yuka「Wow～♪ Amazing～♪ You're a smart boy～♪」%K%P
+Yuka「Wow〜♪ Amazing〜♪ You're a smart boy〜♪」%K%P
 
 0xE2C
 As she says this, Yuka draws the sword out of her%Nsheath and whacks me on the head.%K%P
@@ -716,7 +716,7 @@ Yuka「That's right!」%K%P
 Yuka「If you know when the α particles were emitted, then%Nyou'll also inevitably know whether or not the cat is%Ndead!」%K%P
 
 0xE60
-Yuka「―HOWEVERRRRRRRR!!」%K%P
+Yuka「—HOWEVERRRRRRRR!!」%K%P
 
 0xE74
 Yuka「These α particles are increeeeeeeedibly tiny%Nparticles...」%K%P
@@ -791,7 +791,7 @@ Yuka「Obviously, once you open the lid to see if it's dead or%Nalive... one of 
 Makoto「...」%K%P
 
 0xFAC
-Yuka「This is the story of 'Schr▼dinger's cat'.」%K%P
+Yuka「This is the story of 'Schrödinger's cat'.」%K%P
 
 0xFB8
 Yuka「Well, it seems that even today, physicists are divided%Nbetween various opinions on how to interpret this story.」%K%P
@@ -908,7 +908,7 @@ Makoto「Are you saying that by opening the lid, I changed the%Npast!?」%K%P
 Yuka「Rather than 'changed', it would be more accurate to say%N'decided'.」%K%P
 
 0x11E0
-Yuka「At 3:51 P.M.―you 'decided the past'.」%K%P
+Yuka「At 3:51 P.M.—you 'decided the past'.」%K%P
 
 0x11EC
 Makoto「Such a ridiculous thing-」%K%P
@@ -977,7 +977,7 @@ Yuka and Kurumi begin a make-believe sword fight using%Nplastic swords.%K%P
 Honestly... I'm lost now.%K%P
 
 0x1398
-"―You 'decided the past'."%K%P
+"—You 'decided the past'."%K%P
 
 0x13A4
 "It's impossible... to go back to the past..."%K%P
@@ -986,10 +986,10 @@ Honestly... I'm lost now.%K%P
 Yuka's words run through my head.%K%P
 
 0x13BC
-"Schr▼dinger's cat."%K%P
+"Schrödinger's cat."%K%P
 
 0x13C8
-Apparently, it's somehow related to "The Third Trait" of%NCur▲ Syndrome.%K%P
+Apparently, it's somehow related to "The Third Trait" of%NCuré Syndrome.%K%P
 
 0x13D4
 Izumi-san definitely said that last night.%K%P
@@ -1025,7 +1025,7 @@ Kurumi「Huh??? A squid man?」%K%P
 Yuka「Gotcha!」%K%P
 
 0x1494
-―*Wham*!%K%P
+—*Wham*!%K%P
 
 0x14A8
 Kurumi「Ah! Yuka-san, that was unfair!」%K%P

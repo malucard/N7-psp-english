@@ -53,7 +53,7 @@ Yuka, Haruka, and Okuhiko went back to the lodge, while%NSaki returned to her su
 All that's left on Moon Beach is my objective... That's%Nright...%K%P
 
 0x18C
-―The bell that I'm looking for.%K%P
+—The bell that I'm looking for.%K%P
 
 0x198
 I don't know if the bell is directly connected to the tragic%Nend Izumi-san and I reached and the time travel or not...%K%P
@@ -104,10 +104,10 @@ It's large and heavy enough to smash the bell.%K%P
 I place the bell in my hand on the asphalt, pick up the%Nfragment of concrete, and with all my strength...%K%P
 
 0x2D4
-―I strike the bell from above!%K%P
+—I strike the bell from above!%K%P
 
 0x2E0
-―WHAM!!%K%P
+—WHAM!!%K%P
 
 0x2EC
 In the silent night, only the grave sound of the stone%Ncolliding with something echoes.%K%P
@@ -122,7 +122,7 @@ As I think this, I turn over the fragment of concrete.%K%P
 When I do...%K%P
 
 0x32C
-―It... It's gone!!!%K%P
+—It... It's gone!!!%K%P
 
 0x338
 (... The bell... is gone...)%K%P

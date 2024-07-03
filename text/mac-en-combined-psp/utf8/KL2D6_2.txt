@@ -104,7 +104,7 @@ I draw my body close, and shiver as I try to warm up.%K%P
 I place my cold, icy fingers in my pockets.%K%P
 
 0x378
-―I feel... something.%K%P
+—I feel... something.%K%P
 
 0x3AC
 I gently start to pull it out.%W%W%W%K%P
@@ -149,7 +149,7 @@ Removing her emotional scars...%K%P
 Kurumi definitely time traveled here from this shrine.%K%P
 
 0x464
-(Time travel―just how the hell can I prove that?)%K%P
+(Time travel—just how the hell can I prove that?)%K%P
 
 0x470
 I continue to wait for Kurumi while watching the white%Nraindrops flow down from the edge of the eaves.%K%P

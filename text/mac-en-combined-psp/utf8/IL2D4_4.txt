@@ -293,7 +293,7 @@ Makoto「Huh?」%K%P
 ... Saki's order:%K%P
 
 0x648
-"Receive your punishment from me." ―In other words,%Nlet her slap me once with all she's got.%K%P
+"Receive your punishment from me." —In other words,%Nlet her slap me once with all she's got.%K%P
 
 0x69C
 It hurts so much that I pass out...%K%P

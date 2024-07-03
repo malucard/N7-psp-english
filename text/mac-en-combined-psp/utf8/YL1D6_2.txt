@@ -164,7 +164,7 @@ I ran through this downpour without an umbrella. It's only%Nnatural that I'm col
 In an attempt to warm up my body a little, I casually put%Nmy hands in my pockets.%K%P
 
 0x310
-―Huh?%K%P
+—Huh?%K%P
 
 0x31C
 I feel my fingertips brush against what feels like paper.%K%P
@@ -182,13 +182,13 @@ Right... it's the paper bag Haruka gave me... I'd put it away%Nin my pocket.%K%P
 "Do you want something good?"%K%N
 
 0x358
-―In here must be that "something good" Kurumi was%Ntalking about.%K%P
+—In here must be that "something good" Kurumi was%Ntalking about.%K%P
 
 0x364
 I tear the paper bag open, and take out what was inside%Nit.%K%N
 
 0x370
-―There's two things: a pure white lump of cotton and a%Nscrap of paper.%K%P
+—There's two things: a pure white lump of cotton and a%Nscrap of paper.%K%P
 
 0x37C
 I check the scrap of paper first. It seems to be a short%Nletter.%K%P
@@ -212,7 +212,7 @@ No... when I feel it carefully, I can tell the cotton is%Nwrapping up something.
 I carefully begin to tear off the layers of cotton...%K%P
 
 0x404
-―A shudder runs through me!%K%P
+—A shudder runs through me!%K%P
 
 0x48C
 I immediately look away, and close my palm into a fist...%K%P
@@ -320,7 +320,7 @@ Yuka「...The bell?」%K%P
 Yuka says this.%K%P
 
 0x680
-―That's right!%K%N
+—That's right!%K%N
 
 0x68C
 First, I've got to get rid of this bell!%K%P
@@ -341,13 +341,13 @@ The fact that I didn't realize such a basic thing proves%Nhow much of a panic my
 ... to cast it into the ocean...%K%P
 
 0x6EC
-―But at that instant!!%K%P
+—But at that instant!!%K%P
 
 0x748
 A-An earthquake...?%K%P
 
 0x754
-―CRASH!%K%N
+—CRASH!%K%N
 
 0x760
 My ears are pierced by a roaring sound coming from%Nbehind me.%K%N
@@ -356,7 +356,7 @@ My ears are pierced by a roaring sound coming from%Nbehind me.%K%N
 I turn around...%K%P
 
 0x778
-―Rumble rumble!!%K%N
+—Rumble rumble!!%K%N
 
 0x784
 Once again, I hear the high-pitched sound of something%Ncracking.%K%P
@@ -374,7 +374,7 @@ The eaves sticking out from overhead are weightily%Nlooming over us!%K%P
 With our feet on the cliff... there's nowhere to run!%K%P
 
 0x7C0
-―What should I do!?%K%P
+—What should I do!?%K%P
 
 0x7CC
 I hesitate for a moment.%K%N
@@ -452,7 +452,7 @@ I can see her heavily dangling palm.%K%P
 On top of it is a small fragment of light...%K%P
 
 0x9B4
-―The bell.%K%P
+—The bell.%K%P
 
 0x9C0
 It's so painful...%K%N
@@ -533,5 +533,5 @@ And from my palm as well...%K%P
 At that moment...%K%N
 
 0xB38
-―All light fades.%K%P
+—All light fades.%K%P
 

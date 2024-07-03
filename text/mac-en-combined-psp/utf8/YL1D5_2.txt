@@ -401,7 +401,7 @@ Yuka「Will you remain calm and listen to me?」%K%P
 I gulp.%K%P
 
 0x858
-Yuka「The dream you had―the truth is... I also... had the same%Ndream...」%K%P
+Yuka「The dream you had—the truth is... I also... had the same%Ndream...」%K%P
 
 0x864
 Makoto「...!?」%K%P
@@ -536,7 +536,7 @@ And then...%K%P
 Yuka「But you know? That bell washed up on shore once%Nagain...」%K%P
 
 0xAA4
-Yuka「That girl―she said 'I picked it up on that sandy beach%Nshaped like a crescent moon'―right?」%K%P
+Yuka「That girl—she said 'I picked it up on that sandy beach%Nshaped like a crescent moon'—right?」%K%P
 
 0xAB0
 Makoto「Yeah...」%K%P
@@ -545,7 +545,7 @@ Makoto「Yeah...」%K%P
 Yuka「I was completely confused, and had no clue what was%Nwhat...」%K%P
 
 0xAC8
-Yuka「But the reality that 'that girl has the bell from my%Ndream'―that alone was an undeniable fact...」%K%P
+Yuka「But the reality that 'that girl has the bell from my%Ndream'—that alone was an undeniable fact...」%K%P
 
 0xAD4
 Yuka「So that's why I left you at Viewpoint Park yesterday and%Nimmediately chased after that girl.」%K%P
@@ -629,7 +629,7 @@ For now, the matter of the bell has been settled.%K%P
 Of course, I still have many questions left.%K%P
 
 0xC20
-The "premonitions", the "prophetic dream", and―"Why%Ndid Yuka and I have the same dream at the same time?"%K%P
+The "premonitions", the "prophetic dream", and—"Why%Ndid Yuka and I have the same dream at the same time?"%K%P
 
 0xC2C
 However, now that the issue of the bell has been%Nsettled, those things aren't really an issue anymore.%K%P
@@ -701,7 +701,7 @@ Yuka「So can you wait just a little longer?」%K%P
 Yuka「Just a little more, and I'll feel like I've solved all the%Nmysteries.」%K%P
 
 0xD58
-―Mysteries?%K%P
+—Mysteries?%K%P
 
 0xD64
 Makoto「But don't you think it would be more efficient if we teamed%Nup and thought about it together to solve them? It'd go%Na lot quicker.」%K%P
@@ -830,7 +830,7 @@ Izumi-san instantly sensed our situation, and graciously%Nleft us alone about it
 And, over there...%K%P
 
 0x10D4
-Kurumi「Ah～, you're here!」%K%P
+Kurumi「Ah〜, you're here!」%K%P
 
 0x10E0
 ... Kurumi shows up.%K%P
@@ -935,7 +935,7 @@ Kurumi leaves her seat with those words...%K%P
 I watch as Kurumi heads for the entrance, then turns and%Ndisappears up the stairs to the second floor.%K%P
 
 0x12F0
-―And at that time!%K%P
+—And at that time!%K%P
 
 0x130C
 Yuka「I've got it!」%K%P
@@ -1016,7 +1016,7 @@ Yuka「That's right. At that time, didn't Izumi-san mention 'spiriting%Naway' in
 Makoto「Yeah.」%K%P
 
 0x1534
-Yuka「'Spirited away'―when a person suddenly%Ndisappears―」%K%P
+Yuka「'Spirited away'—when a person suddenly%Ndisappears—」%K%P
 
 0x1540
 Makoto「... Well, in the end, it was proven to be just a superstition.」%K%P
@@ -1076,13 +1076,13 @@ Makoto「... Huh?」%K%P
 Yuka「To be 'set free' from the flow of 'time' and to be blown%Naway to a different time...」%K%P
 
 0x1698
-Yuka「In other words―it means time travel!」%K%P
+Yuka「In other words—it means time travel!」%K%P
 
 0x16A4
 Makoto「W-What???」%K%P
 
 0x16B0
-Yuka「To suddenly disappear from the flow of this reality's%Ntime―that's the true identity of the 'spiriting away'%NIzumi-san was talking about.」%K%P
+Yuka「To suddenly disappear from the flow of this reality's%Ntime—that's the true identity of the 'spiriting away'%NIzumi-san was talking about.」%K%P
 
 0x16C4
 Makoto「Are you being serious!?」%K%P
@@ -1130,7 +1130,7 @@ Yuka points her finger towards the roof of the shrine.%K%P
 And hanging under the roof of the shrine is the large%Nrectangular sign.%K%P
 
 0x17A0
-Shiki no Mori (司紀杜)―that's what's written on it.%K%P
+Shiki no Mori (司紀杜)—that's what's written on it.%K%P
 
 0x17AC
 Makoto「Shiki no Mori... What about it?」%K%P
@@ -1169,7 +1169,7 @@ Yuka「And the 'Ki' (紀) part is the same in both, so how would%Nyou read it no
 Makoto「To-ki-tsukasa... 'to rule time'...」%K%P
 
 0x1844
-Makoto「―To rule time!?」%K%P
+Makoto「—To rule time!?」%K%P
 
 0x1858
 Yuka「It seems you've finally realized it.」%K%P
@@ -1211,7 +1211,7 @@ Makoto「Isn't that obvious!? What you're saying is just an%Nabstract theory bas
 Makoto「The shrine's true name is the 'Time Ruling Shrine'? Even if I%Nwere to unwillingly give into that point, so what!? It means%Nnothing!」%K%P
 
 0x190C
-Makoto「'Will free you from time'―How can you say there's a%Nbasis for time travel from something that was written on%Na talisman!?」%K%P
+Makoto「'Will free you from time'—How can you say there's a%Nbasis for time travel from something that was written on%Na talisman!?」%K%P
 
 0x1918
 Makoto「Being 'spirited away' was just a rumor!」%K%P
@@ -1253,7 +1253,7 @@ Yuka「Well, that's fine. You want proof? I've got it.」%K%P
 Yuka「... Well, more like 'witnesses' than 'proof'.」%K%P
 
 0x19C4
-Makoto「Witnesses? Where would such people―」%K%P
+Makoto「Witnesses? Where would such people—」%K%P
 
 0x19D0
 Yuka「Right here.」%K%P
@@ -1265,7 +1265,7 @@ Makoto「Huh???」%K%P
 Yuka「There are two witnesses right here...」%K%P
 
 0x19F4
-Makoto「Wh-What are you―」%K%P
+Makoto「Wh-What are you—」%K%P
 
 0x1A00
 Yuka「We time traveled from this shrine!」%K%P
@@ -1334,13 +1334,13 @@ I feel a chill suddenly spread from the back of my neck.%NMy forehead is damp wi
 I don't want to think any further from that point.%K%P
 
 0x1BA8
-Yuka「On that day―Saturday, April 6th... we were sent... to%Nthe world of five days ago...」%K%P
+Yuka「On that day—Saturday, April 6th... we were sent... to%Nthe world of five days ago...」%K%P
 
 0x1BB4
 Yuka「And if this hypothesis is right, then what I'm about to say%Nmight also be possible.」%K%P
 
 0x1BC0
-Yuka「Tomorrow―On Saturday, April 6th... we will be sent... to%Nthe world of five days ago...」%K%P
+Yuka「Tomorrow—On Saturday, April 6th... we will be sent... to%Nthe world of five days ago...」%K%P
 
 0x1BCC
 Makoto「... That dream.」%K%P
@@ -1391,7 +1391,7 @@ Hers are hiding an uncorrupted, pure light.%K%P
 That bold look causes my heart to mercilessly tighten up.%K%P
 
 0x1C9C
-Acceptance and denial―a violent battle between%Nthese two is going on in my mind.%K%P
+Acceptance and denial—a violent battle between%Nthese two is going on in my mind.%K%P
 
 0x1CA8
 Yuka「So please... I want you to swear just one thing...」%K%P
@@ -1436,7 +1436,7 @@ In the end, we can't be sure if anything will happen or not%Nuntil tomorrow.%K%P
 As a precaution, I've decided to play it safe.%K%P
 
 0x1D68
-I won't ever return to the shrine―I don't have a reason%Nnot to take this seriously.%K%P
+I won't ever return to the shrine—I don't have a reason%Nnot to take this seriously.%K%P
 
 0x1D7C
 Yuka「Thanks.」%K%P
@@ -1526,7 +1526,7 @@ I glance at the ceiling again.%K%P
 As I absently stare at the ceiling, I go over the story%NYuka told me one more time...%K%P
 
 0x2024
-―Time travel.%K%N%N
+—Time travel.%K%N%N
 
 0x2030
 You don't even need to use Einstein's Theory of%NRelativity to tell that something like that could never%Nhappen in real life.%K%N
@@ -1580,7 +1580,7 @@ Why do I feel a sense of discomfort from those words?%K%N
 Just what is hidden in those words?%K%P
 
 0x2170
-―And at that time.%K%P
+—And at that time.%K%P
 
 0x2198
 The door suddenly opens!%K%P
@@ -1643,7 +1643,7 @@ This is that "something good"?%K%P
 (...)%K%P
 
 0x22F4
-―AH!!!%K%P
+—AH!!!%K%P
 
 0x2300
 In that instant, I recall a vivid scene in my mind.%K%P
@@ -1658,7 +1658,7 @@ Yuka「Why...!?」%K%P
 That's it! That's why I've been feeling that sense of%Ndiscomfort!%K%P
 
 0x23C8
-―On the morning of the 1st, Yuka burst into my room.%K%P
+—On the morning of the 1st, Yuka burst into my room.%K%P
 
 0x23D4
 That's the cause of the inconsistency!%K%P
@@ -1679,7 +1679,7 @@ However!%K%N
 There was just one time where Yuka and I took%Ncompletely different actions, right!?%K%N
 
 0x249C
-On the morning of the 1st―Yuka came into my room―%Nbut I never thought about trying to go to Yuka's room!%K%N
+On the morning of the 1st—Yuka came into my room—%Nbut I never thought about trying to go to Yuka's room!%K%N
 
 0x24A8
 That's right! This is it! There's a contradiction here!%K%N
@@ -1709,7 +1709,7 @@ Why...?%K%N
 Of course!%K%N%N
 
 0x2524
-―Because I was in Yuka's dream!!!%K%N%N
+—Because I was in Yuka's dream!!!%K%N%N
 
 0x2530
 When she woke up that morning, Yuka probably thought%Nthe "dream" was "reality".%K%N
@@ -1733,7 +1733,7 @@ Wait a minute...%K%N
 I was in Yuka's dream???%K%N
 
 0x2594
-―ME!?!?!?%K%N
+—ME!?!?!?%K%N
 
 0x25A0
 Then, what Yuka saw on that morning...%K%N
@@ -1766,7 +1766,7 @@ Yuka also said so on the coastline road.%K%N%N
 「"How could I? Saying something as so dreary like 'I had a%Ndream where someone died'...」%K%P
 
 0x2630
-"I had a dream where someone died." ―"Someone".%K%N
+"I had a dream where someone died." —"Someone".%K%N
 
 0x263C
 If she herself had died, then she definitely wouldn't have%Ndescribed it that way.%K%N
@@ -1787,13 +1787,13 @@ Then what is it...?%K%N%N
 ...%K%N%N
 
 0x268C
-―I see! That's it!%K%N
+—I see! That's it!%K%N
 
 0x2698
 It's so simple!%K%N
 
 0x26A4
-In other words―Yuka and I witnessed it together! The%Nmoment that "someone" died!%K%P
+In other words—Yuka and I witnessed it together! The%Nmoment that "someone" died!%K%P
 
 0x26B8
 Let's say, for argument's sake, "First, I witnessed that%Nmoment, and next, Yuka, who was following behind me,%Nwitnessed it."%K%N
@@ -1826,13 +1826,13 @@ That's because by deriving the solution, I've gotten rid%Nof the contradiction..
 This means that the credibility of Yuka's story has%Nconsiderably increased.%K%P
 
 0x2774
-―Death.%K%N
+—Death.%K%N
 
 0x2780
-―Is someone really going to die?%K%N
+—Is someone really going to die?%K%N
 
 0x278C
-―And if so, who will it be?%K%P
+—And if so, who will it be?%K%P
 
 0x27FC
 Izumi「If a man and woman confess their feelings for each%Nother under that lighthouse, it's said that their affection%Nwill bear fruit.」%K%P

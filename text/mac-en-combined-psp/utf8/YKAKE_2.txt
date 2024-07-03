@@ -2,7 +2,7 @@ text area offset and size:
 0xFA0
 0x2C1E
 0x5C
-Yuka「Ah, I can't find it～」%K%P
+Yuka「Ah, I can't find it〜」%K%P
 
 0x68
 I hear Yuka complaining in the thicket.%K%P
@@ -149,7 +149,7 @@ It's a sweet and pleasant scent, like ripened fruit.%K%P
 (Yuka, huh...)%K%P
 
 0x300
-―Hmm???%K%P
+—Hmm???%K%P
 
 0x30C
 Yuka???%K%P
@@ -266,7 +266,7 @@ It's a sweet and pleasant scent, like ripened fruit.%K%P
 (Yuka, huh...)%K%P
 
 0x50C
-―Hmm???%K%P
+—Hmm???%K%P
 
 0x518
 Yuka???%K%P

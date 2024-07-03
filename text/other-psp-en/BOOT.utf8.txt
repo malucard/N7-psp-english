@@ -10,32 +10,45 @@
 
 ;11d118;51;現在の状態をメモリースティック™にセーブします。
 Save current state to Memory Stick™.
+
 ;11d14c;55;メモリースティック™に保存したデータをロードします。
 Load data from Memory Stick™.
+
 ;11d184;123;現在の状態を一時的に保存します。クイックセーブのデータはシステムデータをセーブするとメモリースティック™内に保存されます。
 Temporarily save current state. Quick Save data is stored to Memory Stick™ when you save the system data.
+
 ;11d200;39;クイックセーブデータをロードします。
 Load Quick Save data.
+
 ;11d228;51;現在までプレイした履歴の表示及びロードを行います。
 View and load the current game history.
+
 ;11d25c;43;ゲームプレイに関する様々な設定を行います。
 Modify the game settings.
+
 ;11d288;35;ゲーム中の操作方法を確認します。
 Make sure you know the controls.
+
 ;11d2ac;47;ゲーム中に出現する専門用語の説明を閲覧します。
 View the terminology that appears in the game.
+
 ;11d2dc;119;タイトル画面に戻ります。（ラストゲームから再開できますが、システムセーブを行わないと現在のデータはセーブされません）
 Return to the Title Screen. (You can restart from the last save)
+
 ;11d354;163;＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 
 ;11d3f8;107;セーブ%Nロード%Nクイックセーブ%Nクイックロード%Nテキストログ%Nオプション%Nヘルプ%N用語解説%Nタイトル画面へ
 Save%NLoad%NQuick Save%NQuick Load%NText Log%NOptions%NHelp%NTips%NTitle Screen
+
 ;11d464;67;タイトル画面へ戻ります。よろしいですか？%N%Sはい%n⑳／⑳%n%Sいいえ
-Returning to the Title Screen. Is this OK?%N%SYes%n  /  %N%SNo
+Returning to the Title Screen. Is this OK?%N%SYes%n  /  %n%SNo
+
 ;11d4a8;67;電源をオフにしてゲームを終了しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
 Power off and end the game?%N%SYes%n  /  %N%SNo
+
 ;11d4ec;23;総プレイ時間%X128%XS16
 Total played%X128%XS16
+
 ;11d504;3;%2d
 
 ;11d508;3;：
@@ -44,98 +57,129 @@ Total played%X128%XS16
 
 ;11d514;23;プレイ時間%X128%XS16
 Play time%X128%XS16
+
 ;11d52c;7;ＢＧ：
 BG: 
+
 ;11d534;23;−−−−−−−−−−
 
 ;11d54c;7;%04d
 
 ;11d554;3;／
 /
+
 ;11d558;23;−−／−−（−−−）
 --/-- (---)
+
 ;11d570;3;⑳
 
 ;11d574;7;ＰＭ
 PM
+
 ;11d57c;7;ＡＭ
 AM
+
 ;11d584;11;−−：−−
 --:--
+
 ;11d590;11;ＢＧＭ：
-BGM:
+BGM: 
+
 ;11d59c;31;シーンメッセージ：%X152%XS10
 Scene messages:%X152%XS10
+
 ;11d5bc;3;%3d
 
 ;11d5c0;3;％
 
 ;11d5c4;11;−−−−
 ----
+
 ;11d5d0;27;（Ｄ）シーンＭＥＳ数：　
-(D) Number of scene message
+
 ;11d5ec;3;%d
 
 ;11d5f0;27;シーン選択肢：%X152%XS10
 Scene choices:%X152%XS10
+
 ;11d60c;27;（Ｄ）シーンＳＥＬ数：　
-(D) Number of scene choices
+
 ;11d628;27;全メッセージ：%X152%XS10
 All messages:%X152%XS10
-;11d644;23;（Ｄ）全ＭＥＳ数：　
-(D) Total number of mes
+
+;11d644;23;（Ｄ）全ＭＥＳ数：
+
 ;11d65c;23;全選択肢：%X152%XS10
 All choices:%X152%XS10
+
 ;11d674;23;（Ｄ）全ＳＥＬ数：　
-(D) Total number of cho
+
 ;11d68c;7;セーブ
 Save
+
 ;11d694;7;ロード
 Load
+
 ;11d69c;15;クイックセーブ
 Quick Save
+
 ;11d6ac;15;クイックロード
 Quick Load
+
 ;11d6bc;11;オプション
 Options
+
 ;11d6c8;7;ヘルプ
 Help
+
 ;11d6d0;11;Ｔｉｐｓ
 Tips
+
 ;11d6dc;11;タイトル
 Title
+
 ;11d6e8;11;スキップ
 Skip
+
 ;11d6f4;15;オートプレイ
 Auto play
+
 ;11d704;15;テキストログ
 Text log
+
 ;11d714;11;ＮＵＬＬ
 
 ;11d720;63;タイトルに戻ります。よろしいですか？%N%Sはい%n⑳／⑳%n%Sいいえ
 Returning to title screen. Is this OK?%N%SYes%n  /  %N%SNo
+
 ;11d760;7;%04d
 
 ;11d768;11;Ｄａｔｅ：
 Date:
+
 ;11d774;3;／
 /
+
 ;11d778;7;%02d
 
 ;11d780;19;Ｃｌｕｓｔｅｒ：
 Cluster:
+
 ;11d8f4;7;ＰＭ
 PM
+
 ;11d8fc;7;%02d
 
 ;11d904;7;ＡＭ
 AM
+
 ;11d90c;3;：
 
 ;11d910;7;%04d
 
 ;11d918;3;／
 /
+
 ;11d91c;7;%02d
 
 ;11d924;3;%3d
@@ -152,6 +196,7 @@ AM
 
 ;11d94c;23;−エンディングリスト−
 − Endings List −
+
 ;11d964;3;%d
 
 ;11d968;3;／
@@ -164,28 +209,38 @@ AM
 
 ;11d984;27;−シーンタイトルリスト−
 − Scenes List −
+
 ;11d9a0;7;−−−
 
 ;11d9a8;27;−Ｐｌａｙｉｎｇ⑳Ｌｏｇ−
 − Playing Log −
+
 ;11d9c4;15;⑳エンディング
 ⑳Endings
+
 ;11d9d4;19;⑳シーンタイトル
 ⑳Scenes
+
 ;11d9e8;7;⑳ＣＧ
 ⑳CGs
+
 ;11d9f0;15;⑳Ｍｏｖｉｅ
 ⑳Movies
+
 ;11da00;15;⑳Ｍｕｓｉｃ
 ⑳Music
+
 ;11da10;15;⑳メッセージ
 ⑳Messages
+
 ;11da20;3;%5d
 
 ;11da24;11;⑳選択肢
 ⑳Choices
+
 ;11da30;15;⑳総プレイ時間
 ⑳Total played
+
 ;11da40;31;０１２３４５６７８９±＋−／
 
 ;11da60;67;＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
@@ -206,14 +261,17 @@ AM
 
 ;11dbc8;15;Ｖｏｌ．⑳%XS16
 Vol.%XS16
+
 ;11dbd8;3;%3d
 
 ;11dbdc;7;⑳/#
 
 ;11dbe4;15;Ｔｉｍｅ⑳%XS16
 Time%XS16
+
 ;11dbf4;11;−：−−
 -:--
+
 ;11dc00;3;%1d
 
 ;11dc04;3;：
@@ -243,137 +301,199 @@ Time%XS16
 ;11dd84;155;プログレッシブ出力でよろしいでしょうか？%N〔１５秒以内に”はい”を選択しない場合は%N自動的に通常モニタ出力に切り替わります。〕%N%Sはい%n⑳／⑳%n%Sいいえ
 
 ;11de20;107;この物語はフィクションであり、%N登場する人物・団体・地名・事件等は、%N実在のものとは一切関係がありません
-This story is a work of fiction.%NAll names, organizations,%Nplaces, incidents and history%Nmentioned here 
+This story is a work of fiction.%NAll names and history mentioned here%Nare in no way related to real ones
+
 ;11de8c;67;電源をオフにしてゲームを終了しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
 Turn off the power and exit the game?%N%SYes%n  /  %n%SNo
+
 ;11ded0;19;title bgm no entry
 
 ;11dee4;11;▼始めから
 ▼New Game
+
 ;11def0;15;▼Ｍｉｒａｇｅ
 ▼Mirage
+
 ;11df00;15;▼ラストゲーム
 ▼Continue
+
 ;11df14;155;『Never7 -the end of infinity-』の%%Nセーブデータが破損している可能性があります%%Nセーブデータを上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 『Never7 -the end of infinity-』 save data will be lost.%%NAre you sure you want to overwrite the save data?%%N%%SYes%%n  /  %%n%%SNo
+
 ;11dfb0;79;セーブデータを上書きしています%%Nメモリースティック™を絶対抜かないでください
 Overwriting save data%%NPlease do not remove the Memory Stick™
+
 ;11e000;47;複写%%N張り付け%%N削除%%N書き込み%%N元に戻す
+Copy%%NPaste%%NDelete%%NSave%%NUndo
 
 ;11e030;99;現在の状態をメモリースティック™に%%N書き込んでもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
+Are you sure you want to write the current state to Memory Stick™?%%N%%SYes  /  %%n%%SNo
 
 ;11e094;95;編集中のデータを破棄して%%N元の状態に戻してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
+Are you sure you want to discard the edited data?%%N%%SYes%%N  /  %%N%%SNo
 
 ;11e0f4;7;成功%%N
-Done
+Done%%N
+
 ;11e0fc;43;メモリースティック™が挿入されていません%%N
 Memory Stick™ is not inserted%%N
+
 ;11e128;51;メモリースティック™がフォーマットされていません%%N
 Memory Stick™ is not formatted%%N
+
 ;11e15c;99;メモリースティック™の空き容量が不足しています%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%N
-No free space on Memory Stick™%%NAt least %sKB is required to save%%N
+Not enough free space on Memory Stick™%%NAt least %s KB is required to save%%N
+
 ;11e1c0;91;メモリースティック™に%%N『Never7 -the end of infinity-』の%%Nセーブデータがありません%%N
-Save data for%%N『Never7 -the end of infinity-』%%Nis not present on Memory Stick™
+Save data for%%N『Never7 -the end of infinity-』%%Nis not present on Memory Stick™%%N
+
 ;11e21c;83;『Never7 -the end of infinity-』の%%Nセーブデータが破損している可能性があります%%N
-Save data for%%N『Never7 -the end of infinity-』%%Nmay be corrupted™
+Save data for%%N『Never7 -the end of infinity-』%%Nmay be corrupted%%N
+
 ;11e270;55;同時に開けるファイル数を%%N越えているので開けません%%N
 
 ;11e2a8;27;再書き込みが失敗しました%%N
 Rewrite failed
+
 ;11e2c4;87;『Never7 -the end of infinity-』の%%Nシステムデータが破損している可能性があります%%N
-System save data for%%N『Never7 -the end of infinity-』%%Nmay be corrupted™
+System data for%%N『Never7 -the end of infinity-』%%Nmay be corrupted%%N
+
 ;11e31c;67;『Never7 -the end of infinity-』の%%Nシステムデータがありません%%N
-System save data for%%N『Never7 -the end of infinity-』%%Nis not pr
+System data for%%NNever7 -the end of infinity-%%Nis not present%%N
+
 ;11e360;31;もう一度チェックしますか？%%N
-Check again?
+Try again?%%N
+
 ;11e380;47;このままゲームを開始してもよろしいですか？%%N
-Start the game?
+Start the game?%%N
+
 ;11e3b0;31;%%Sはい%%n⑳／⑳%%n%%Sいいえ
-%%SYes%%n  ／  %%n%%SNo
+%%SYes%%n  /  %%n%%SNo
+
 ;11e3d0;155;メモリースティック™に%%N『Never7 -the end of infinity-』の%%Nセーブに必要な空き容量がありませんでした%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%N
+There is not enough space on Memory Stick™%%Nto save 『Never7 -the end of infinity-』%%NYou need at least %s KB of free space%%N
 
 ;11e46c;47;メモリースティック™が%%N挿入されていません%%N
+Memory Stick™ not inserted%%N
 
 ;11e49c;91;メモリースティック™が%%N書き込み保護されて%%Nセーブデータにアクセス%%Nできませんでした%%N
+Memory Stick™ was write-protected%%Nand save data could not be accessed%%N
 
 ;11e4f8;59;メモリースティック™の%%Nアクセスエラーが発生しました%%N
+Memory Stick™ access error has occurred%%N
 
 ;11e534;71;『Never7 -the end of infinity-』の%%Nセーブデータがありませんでした%%N
+No save data was found for%%N『Never7 -the end of infinity-』%%N
 
 ;11e57c;75;渡されたパラメータが%%N不正でユーティリティが%%N動作できませんでいした%%N
 
 ;11e5c8;39;サスペンドが発生し処理を中止しました%%N
+Saving aborted because of a suspend%%N
 
 ;11e5f0;27;内部エラーが発生しました%%N
+Internal error occurred%%N
 
 ;11e60c;31;連続呼び出しステータスエラー%%N
 
 ;11e62c;55;保護ありファイルがこれ以上%%N追加できませんでいした%%N
+Unable to add more%%Nprotected files%%N
 
 ;11e664;103;メモリースティック™チェック中%%Nメモリースティック™が挿入されている場合は%%N絶対抜かないでください
 Checking Memory Stick™.%%NPlease do not remove it from the slot.
+
 ;11e6cc;139;メモリースティック™がフォーマットされていません%%Nフォーマットしてセーブデータを作成してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Memory Stick™ is not formatted.%%NDo you want to format and create save data?%%N%%SYes%%n  /  %%n%%SNo
+
 ;11e758;71;フォーマットをしています%%Nメモリースティック™を絶対抜かないでください
+Formatting%%NPlease do not remove the Memory Stick™
 
 ;11e7a0;111;『Never7 -the end of infinity-』の%%Nセーブデータを作成してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Do you want to create save data for%%N『Never7 -the end of infinity-』?%%N%%SYes%%n  /  %%n%%SNo
+
 ;11e810;75;セーブデータを作成しています%%Nメモリースティック™を絶対抜かないでください
 Creating save data%%NPlease do not remove the Memory Stick™
+
 ;11e85c;63;セーブしなくてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Cancel saving?%%N%%SYes%%n  /  %%n%%SNo
+
 ;11e89c;75;システムデータをセーブしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Save the system data?%%N%%SYes%%n  /  %%n%%SNo
+
 ;11e8e8;75;システムデータをロードしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Load the system data?%%N%%SYes%%n  /  %%n%%SNo
+
 ;11e934;123;システムデータが破損している可能性があります%%Nシステムデータを上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 The system data may be corrupted%%NDo you want to overwrite the system data?%%N%%SYes%%n  /  %%n%%SNo
+
 ;11e9b0;95;メモリースティック™にデータを書き込んでいます%%Nメモリースティック™を絶対抜かないでください
 Writing data to Memory Stick™,%%Nplease do not remove it from the slot.
+
 ;11ea10;95;メモリースティック™のデータを読み込んでいます%%Nメモリースティック™を絶対抜かないでください
 Loading data from Memory Stick™,%%Nplease do not remove it from the slot.
+
 ;11ea70;59;上書きしてもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Do you want to overwrite?%%N%%SYes%%n  /  %%n%%SNo
+
 ;11eaac;59;このデータをロードしますか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Do you want to load this data?%%N%%SYes%%n  /  %%n%%SNo
+
 ;11eae8;111;クイックセーブを初期化しますか？%%N（ロックされているデータは初期化されません）%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
 Do you want to initialize Quick Save data?%%N(Locked data is uninitialized)%%N%%SYes%%n  ／  %%n%%SNo
+
 ;11eb58;11;セーブ完了
 Saved
+
 ;11eb64;11;ロード完了
 Loaded
+
 ;11eb70;19;システムセーブ完了
 System data saved
+
 ;11eb84;19;システムロード完了
 System data loaded
+
 ;11eb98;31;セーブする場所を選んでください
 Choose the save location
+
 ;11ebb8;231;『Never7 -the end of infinity-』の%%Nセーブデータが破損している可能性があります%%Nこのままゲームを開始してもよろしいですか？%%N※このままゲームを開始した場合%%Nシステムデータは初期状態で開始されます%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
+The save data of 『Never7 -the end of infinity-』%%Nmay be corrupted.%%NIf you start the game as it is,%%Nthe system data will be reset.%%NAre you sure?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11eca0;159;メモリースティック™が挿入されていません%%Nセーブには%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
+No Memory Stick™ is inserted%%NAt least %s KB of free space is required for saving%%NAre you sure you want to start the game as is?%%N%%SYes%%N  /  %%n%%SNo
 
 ;11ed40;215;メモリースティック™に%%N『Never7 -the end of infinity-』の%%Nセーブデータがありませんでした%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
+No save data for 『Never7 -the end of infinity-』%%Nwas found on the Memory Stick™%%NYou need at least %s KB of free space to save.%%NStart the game now?%%N%%SYes%%N  /  %%n%%SNo
 
 ;11ee18;203;メモリースティック™の空き容量が不足しています%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%Nこのままではセーブができません%%Nこのままゲームを開始してもよろしいですか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
+There is not enough free space on%%Nthe Memory Stick™.%%NYou need at least %s KB of free%Nspace to save.%%NStart the game as is?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11eee4;255;メモリースティック™の空き容量が不足しています%%Nセーブにはあと%sＫＢ以上の空き容量が必要です%%Nこのままではセーブができません%%N空き容量を確保するため、メモリースティック™内の%%Nセーブデータを削除して容量を確保しますか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
+There is not enough free space on%%Nthe Memory Stick™.%%NYou need at least %s KB of free%Nspace to save.%%NDo you want to delete other save%%Ndata in order to free up space?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11efe4;91;時刻が正しく取得できませんでした%%N強制的に書き込みますか？%%N%%Sはい%%n⑳／⑳%%n%%Sいいえ
+The time could not be obtained correctly%%NWrite forcibly?%%N%%SYes%%n  /  %%n%%SNo
 
 ;11f040;23;セーブに失敗しました%%N
 Save failed%%N
+
 ;11f058;23;ロードに失敗しました%%N
 Load failed%%N
+
 ;11f070;31;フォーマットに失敗しました%%N
 Format failed%%N
+
 ;11f090;39;新規セーブデータの作成に失敗しました%%N
 Creating new save data failed%%N
+
 ;11f0b8;23;上書きに失敗しました%%N
 Overwrite failed%%N
+
 ;11f0d0;15;Ｎｏ　Ｄａｔａ
+No Data
 
 ;11f0e0;23;データが破損しています
 The data is corrupted
+
 ;11f0f8;3;%d
 
 ;11f0fc;11;ULJM-05433
@@ -402,6 +522,7 @@ The data is corrupted
 
 ;11f1ac;55;このデータをプレイしますか？%N%Sはい%n⑳／⑳%n%Sいいえ
 Do you want to play this data?%N%SYes%n  /  %n%SNo
+
 ;11f1e4;23;？？？？？？？？？？？
 
 ;11f1fc;59;？？？？？？？？？%N？？？？？？？？？%N？？？？？？？？？
@@ -414,7 +535,8 @@ Do you want to play this data?%N%SYes%n  /  %n%SNo
 ;11f254;15;shortcut task
 
 ;11f264;243;この物語はフィクションです。%Nこの用語集に含まれる%N人物・団体・地名・事件・歴史・その他の設定には、%N架空のものが含まれております。%N混乱しないようにご注意ください。%N%Nこの警告文を次回以降表示しないようにしますか？%N%Sはい%n⑳／⑳%n%Sいいえ
-This story is a work of fiction.%NAll names, organizations,%Nplaces, incidents and history%Nmentioned here are used fictiously.%N混乱しないようにご注意ください。%N%NHide this warning next time?%N%SYes%n  /  %n%SNo
+This story is a work of fiction.%NAll names, organizations,%Nplaces, incidents and history%Nmentioned here are used fictiously.%NPlease do not get confused.%N%NHide this warning next time?%N%SYes%n  /  %n%SNo
+
 ;11f358;11;＊＊／＊＊
 
 ;11f364;67;１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２
@@ -439,7 +561,7 @@ This story is a work of fiction.%NAll names, organizations,%Nplaces, incidents a
 Do you want to resume the game from here?%N%SYes%n / %n%SNo
 
 ;11f41c;51;ログを初期化しますか？%N%Sはい%n⑳／⑳%n%Sいいえ
-Initialize the log?%N%SYes%n  /  %n%SNo
+Clear the text log?%N%SYes%n  /  %n%SNo
 
 ;11f450;3;⑳
 
@@ -475,12 +597,14 @@ Initialize the log?%N%SYes%n  /  %n%SNo
 ;11f5b8;27;ファンクションＬ、項目切替
 
 ;11f5d4;15;強制スキップ
+Forced skip
 
 ;11f5e4;27;ファンクションＲ、項目切替
 
 ;11f600;23;オプション連動スキップ
 
 ;11f618;15;使用しません
+Not used
 
 ;11f628;11;help task
 
@@ -496,21 +620,29 @@ Initialize the log?%N%SYes%n  /  %n%SNo
 
 ;11f758;67;Ｓａｖｅ　Ｄａｔｅ　ＸＸＸＸ／ＸＸ／ＸＸ　ＸＸ：ＸＸ：ＸＸ　　　
 Save Date XXXX/XX/XX XX:XX:XX
+
 ;11f79c;51;Ｐｌａｙ　Ｔｉｍｅ　ＸＸＸ：ＸＸ：ＸＸ．ＸＸ　　　
 Play Time XXX:XX:XX.XX
+
 ;11f7d0;47;ＸＸＸＸ／ＸＸ／ＸＸ　ＸＸ：ＸＸ：ＸＸ　　　
 XXXX/XX/XX XX:XX:XX
+
 ;11f800;31;ＸＸ／ＸＸ　ＸＸ：ＸＸ　　　
 XX/XX XX:XX
+
 ;11f820;31;ＸＸＸ：ＸＸ：ＸＸ．ＸＸ　　　
+XXX:XX:XX. XX
 
 ;11f840;19;月齢ＸＸ．Ｘ　　　
 
 ;11f854;75;Ｇａｍｅ　Ｄａｔｅ　ＸＸＸＸ／ＸＸ／ＸＸ（ＸＸＸ）　　　　ＹＹＸＸ：ＸＸ
+Game Date XXXX/XX/XX (XXX)    YYXX:XX
 
 ;11f8a0;55;ＸＸＸＸ／ＸＸ／ＸＸ　（ＸＸＸ）　ＹＹＸＸ：ＸＸ　　　
+XXXX/XX/XX (XXX) YYXX:XX
 
 ;11f8d8;15;シーンタイトル
+Scene title
 
 ;11f8e8;7;ルート
 Route

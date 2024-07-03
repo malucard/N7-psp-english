@@ -24,7 +24,7 @@ fi
 # Repack mac.afs (texts)
 repack_mac_afs () {
 	repack_scene () {
-		[ $# -ge 2 ] && in=$2 || in=text/mac-${TL_SUFFIX}-combined-psp/$1.txt
+		[ $# -ge 2 ] && in=$2 || in=text/tmp/mac-${TL_SUFFIX}-combined-psp/$1.txt
 		$REPACK_SCENE $in n7_mac/$1.SCN n7_mac_${TL_SUFFIX}/$1.SCN
 		$COMPRESS ./n7_mac_${TL_SUFFIX}/$1.{SCN,BIP}
 	}
@@ -35,10 +35,10 @@ repack_mac_afs () {
 	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/SHORTCUT.SCN.txt n7_mac/SHORTCUT.SCN n7_mac_${TL_SUFFIX}/SHORTCUT.SCN ${TL_SUFFIX} || exit 1;
 	$PY ./py-src/apply_shortcuts_translation.py text/other-psp-${TL_SUFFIX}/APPEND.SCN.txt n7_mac/APPEND.SCN n7_mac_${TL_SUFFIX}/APPEND.SCN ${TL_SUFFIX} append || exit 1;
 	# cp -f n7_mac/SHORTCUT.SCN n7_mac_${TL_SUFFIX}/SHORTCUT.SCN || exit 1;
-	$COMPRESS ./n7_mac_${TL_SUFFIX}/SHORTCUT.SCN ./n7_mac_${TL_SUFFIX}/SHORTCUT.BIP
-	$COMPRESS ./n7_mac_${TL_SUFFIX}/APPEND.SCN ./n7_mac_${TL_SUFFIX}/APPEND.BIP
+	$COMPRESS ./n7_mac_${TL_SUFFIX}/SHORTCUT.{SCN,BIP}
+	$COMPRESS ./n7_mac_${TL_SUFFIX}/APPEND.{SCN,BIP}
 
-	for i in text/mac-${TL_SUFFIX}-combined-psp/*.txt ; do
+	for i in text/tmp/mac-${TL_SUFFIX}-combined-psp/*.txt ; do
 		echo Repacking $i
 		repack_scene `basename $i .txt` #& WAITPIDS="$! "$WAITPIDS
 	done

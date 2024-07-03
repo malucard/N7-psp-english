@@ -1358,7 +1358,7 @@ Something we'll never be able to escape from for all of%Neternity.%K%P
 It's like we're ants being forced to walk on a Möbius%Nstrip...%K%P
 
 0x23F4
-We have can't live by looking towards the future, but on%Nthe other hand, we can't rot away and die.%K%P
+We can't live by looking towards the future, but on the%Nother hand, we can't rot away and die.%K%P
 
 0x2400
 All we can simply do is continue to live on in this insane%Nworld...%K%P
@@ -1556,10 +1556,10 @@ Yuka「Even though I tried to tell you to stop...」%K%P
 Makoto「You knew?」%K%P
 
 0x28EC
-Yuka「Izumi-san said it earlier didn't she? Because a storm's%Ncoming from the sea, the fishing boats can't go out'...」%K%P
+Yuka「Izumi-san said it earlier didn't she? 'Because a storm's%Ncoming from the sea, the fishing boats can't go out'...」%K%P
 
 0x28F8
-Yuka「'Because the migration velocity of the tropical cyclone%Nis slow, it'll be like this for about a week'...She also said%Nsomething like that.」%K%P
+Yuka「'Because the migration velocity of the tropical cyclone%Nis slow, it'll be like this for about a week'... She also said%Nsomething like that.」%K%P
 
 0x2904
 Makoto「...」%K%P
@@ -1631,7 +1631,7 @@ Yuka「Of course!」%K%P
 Yuka「Actually, this morning, you subtly changed history, didn't%Nyou?」%K%P
 
 0x2A4C
-Yuka「For example, because I didn't cook, you were still hungry.」%K%P
+Yuka「For example, because I didn't cook, you were still%Nhungry.」%K%P
 
 0x2A58
 Yuka「Because you were hungry, you planned on stealing the%Npizza.」%K%P
@@ -1769,7 +1769,7 @@ Makoto「Say, Yuka? There's something I want you to tell me...」%K%P
 Yuka「Hmm? What?」%K%P
 
 0x2D2C
-Makoto「Yuka... you said this behind the shrine, right? I wanted to%Ngo back to the past, no matter what'...」%K%P
+Makoto「Yuka... you said this behind the shrine, right? 'I wanted to%Ngo back to the past, no matter what'...」%K%P
 
 0x2D40
 Yuka「...」%K%P
@@ -1847,10 +1847,10 @@ Yuka「Anything and everything... The time, the place, the%Ncircumstances, we'd 
 Makoto「Yeah, I get that much...」%K%P
 
 0x2EE8
-Yuka「Then let me ask you this... If you were in the other's%Nposition, what would you do?」%K%P
+Yuka「Then let me ask you this... If you were in the others'%Nposition, what would you do?」%K%P
 
 0x2EF4
-Yuka「What would you do if someone told you strange stories...」%K%P
+Yuka「What would you do if someone told you strange%Nstories...」%K%P
 
 0x2F00
 Yuka「...about time travel and infinite loops...?」%K%P
@@ -2090,13 +2090,13 @@ Yuka「What if you got the bell and something bad happened? I%Nwas worried...」
 Makoto「...」%K%P
 
 0x34A4
-Yuka「So I found that girl, and traded the bell for my key chain...」%K%P
+Yuka「So I found that girl, and traded the bell for my key%Nchain...」%K%P
 
 0x34B0
 Yuka「At first, I thought I'd try throwing it into the ocean...」%K%P
 
 0x34BC
-Yuka「So I went to the tip Viewpoint Park to throw it...」%K%P
+Yuka「So I went to the tip of Viewpoint Park to throw it...」%K%P
 
 0x34C8
 Yuka「But... I reconsidered it.」%K%P
@@ -2390,7 +2390,7 @@ Yuka「Yep! Look♪」%K%P
 I pinch the bell with my fingers, and show it to Makoto.%K%P
 
 0x3B94
-Its metal surface emits a cold light.%K Tied to it a light%Ncrimson string.%K This is definitely that bell.%K%P
+Its metal surface emits a cold light.%K Tied to it is a light%Ncrimson string.%K This is definitely that bell.%K%P
 
 0x3BC8
 The bell sways in the wind, and rings out once.%K%P
@@ -2498,7 +2498,7 @@ It's probably still in the ocean, and won't wash up on the%Nbeach until the 3rd.
 I feel uneasy about it, but for now, there's no choice but%Nto suspend the search for the bell.%K%N
 
 0x3E68
-When the sky is dyed a beautiful mad red color, we meet%Nup with the Ocean Team.%K%P
+When the sky is dyed a beautiful crimson color, we meet%Nup with the Ocean Team.%K%P
 
 0x3E74
 We then proceed towards Lunabeach, as if we're luring%NOkuhiko-kun there.%K%P
@@ -2912,7 +2912,7 @@ I recall Saki's expression just before they set out.%K I've%Nnever seen Saki wit
 The day gets darker and darker...%K%P
 
 0x4850
-Right now, the sky is like the final embers of a candle%Nthat are disappearing... as the sky changes from mad%Nred... to violet.%K%P
+Right now, the sky is like the final embers of a candle%Nthat are disappearing... as the sky changes from%Ncrimson... to violet.%K%P
 
 0x48B4
 ...Not even ten minutes later, Makoto and Saki return.%K%P

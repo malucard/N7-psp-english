@@ -15,7 +15,10 @@ Save current state to Memory Stick™.
 Load data from Memory Stick™.
 
 ;11d184;123;現在の状態を一時的に保存します。クイックセーブのデータはシステムデータをセーブするとメモリースティック™内に保存されます。
-Temporarily save current state. Quick Save data is stored to Memory Stick™ when you save the system data.
+Quick Save data is stored to Memory Stick™ when you save the system data.
+##Temporarily save current state. Quick Save data is stored to Memory Stick™ when you save the system data.
+## for some reason, the previous string caused the game to crash in some instances.
+## is there perhaps a character limit for all strings displayed in the in-game menu at one time?
 
 ;11d200;39;クイックセーブデータをロードします。
 Load Quick Save data.

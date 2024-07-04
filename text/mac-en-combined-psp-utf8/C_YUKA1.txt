@@ -3143,7 +3143,7 @@ Just like that day when I headed to the shrine, I touch%Nthe bell in my pocket.%
 As I brush it, its smooth, cold metal feel is transmitted%Nthrough my fingertips.%K%N
 
 0x4EC0
-No matter what the time, I can feel safe if I have this bell...%K%N
+No matter what the time, I can feel safe if I have this bell...%K%P
 
 0x4ECC
 First, I need to give Makoto his own bell...%K%N

@@ -644,10 +644,10 @@ An adult woman like Izumi-san
 Makoto「An active girl like Yuka... I guess?」%K%P
 
 0xCAC
-Haruka「...」%K%P
+Haruka「... I see.」%K%P
 
 0xCB8
-I mutter.%K%P
+Haruka replies in a mumbled voice.%K%P
 
 0xCC4
 Her expression is hard to read.%K%P
@@ -674,10 +674,10 @@ Her expression is hard to read.%K%P
 Makoto「A determined girl like Saki... I guess?」%K%P
 
 0xD4C
-Haruka「...」%K%P
+Haruka「... I see.」%K%P
 
 0xD58
-I mutter.%K%P
+Haruka replies in a mumbled voice.%K%P
 
 0xD64
 Her expression is hard to read.%K%P
@@ -686,10 +686,10 @@ Her expression is hard to read.%K%P
 Makoto「A sisterly girl like Kurumi... I guess?」%K%P
 
 0xD84
-Haruka「...」%K%P
+Haruka「... I see.」%K%P
 
 0xD90
-I mutter.%K%P
+Haruka replies in a mumbled voice.%K%P
 
 0xD9C
 Her expression is hard to read.%K%P
@@ -698,10 +698,10 @@ Her expression is hard to read.%K%P
 Makoto「An adult woman like Izumi-san... I guess?」%K%P
 
 0xDBC
-Haruka「...」%K%P
+Haruka「... I see.」%K%P
 
 0xDC8
-I mutter.%K%P
+Haruka replies in a mumbled voice.%K%P
 
 0xDD4
 Her expression is hard to read.%K%P

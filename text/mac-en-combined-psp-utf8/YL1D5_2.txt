@@ -11,7 +11,7 @@ I go out to the living room, and gaze at the ocean from%Nthe window.%K%P
 The unbelievably starry sky from last night has been%Nreplaced with a thick mass of clouds.%K%P
 
 0x88
-The clouds are a deep gray... but it doesn't seem like%Nthey're rain clouds.%K%P
+The clouds are a deep grey... but it doesn't seem like%Nthey're rain clouds.%K%P
 
 0x94
 Yuka「Good morning♪」%K%P

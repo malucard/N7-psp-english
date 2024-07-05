@@ -15,10 +15,11 @@ Save current state to Memory Stick™.
 Load data from Memory Stick™.
 
 ;11d184;123;現在の状態を一時的に保存します。クイックセーブのデータはシステムデータをセーブするとメモリースティック™内に保存されます。
-Quick Save data is stored to Memory Stick™ when you save the system data.
+Quick Save data is stored to Memory Stick™ when you save system data.
 ##Temporarily save current state. Quick Save data is stored to Memory Stick™ when you save the system data.
 ## for some reason, the previous string caused the game to crash in some instances.
 ## is there perhaps a character limit for all strings displayed in the in-game menu at one time?
+## edit: had to cut the string some more :P
 
 ;11d200;39;クイックセーブデータをロードします。
 Load Quick Save data.
@@ -263,14 +264,14 @@ AM
 ;11dbc4;3;／
 
 ;11dbc8;15;Ｖｏｌ．⑳%XS16
-Vol.%XS16
+Vol. %XS16
 
 ;11dbd8;3;%3d
 
 ;11dbdc;7;⑳/#
 
 ;11dbe4;15;Ｔｉｍｅ⑳%XS16
-Time%XS16
+Time %XS16
 
 ;11dbf4;11;−：−−
 -:--
@@ -660,8 +661,10 @@ BGM
 ;11f908;7;日付
 
 ;11f910;7;作成日
+Date
 
 ;11f918;11;プレイ時間
+Play time
 
 ;11f924;7;Ｎｏ
 No
@@ -688,11 +691,14 @@ Entry
 ;11f97c;3;%d
 
 ;11f980;11;Ｎｏ⑳%s
+No %s
 
 ;11f98c;23;Ｓａｖｅ　Ｄａｔｅ　%s
 Save Date %s
+
 ;11f9a4;23;Ｐｌａｙ　Ｔｉｍｅ　%s
 Play Time %s
+
 ;11f9bc;23;−−−−−−−−−−
 
 ;11f9d4;7;%XS10
@@ -714,6 +720,7 @@ AM
 ;11fa2c;7;］%N
 
 ;11fa34;27;%N%N%LCＮｏ⑳Ｍｅｓｓａｇｅ
+%N%N%LCNo Message
 
 ;11fb1c;11;＊＊／＊＊
 

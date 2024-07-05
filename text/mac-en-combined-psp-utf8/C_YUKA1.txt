@@ -44,7 +44,7 @@ Yuka「...This is the lodge!」%K%P
 (If that's the case... if that's the case, then...)%K%P
 
 0x148
-(——!!!!)%K%P
+(—!!!!)%K%P
 
 0x15C
 I leap out of my bed and rush out of my room like a%Nspeeding bullet.%K%P
@@ -572,7 +572,7 @@ Yuka「Huh? What's wrong, Makoto? Was it a difficult question?」%K%P
 Okuhiko「Y-Yuka... chan?」%K%P
 
 0xD00
-Yuka「Hmm... it seems like Makoto can't answer, so please%Nanswer for him,Okuhiko-kun.」%K%P
+Yuka「Hmm... it seems like Makoto can't answer, so please%Nanswer for him, Okuhiko-kun.」%K%P
 
 0xD14
 Okuhiko「Yuka-chan? I may not be Ishihara's biggest fan, but%Neven I know what I saw just no-」%K%P
@@ -1760,7 +1760,7 @@ There's only one thing... that I can think of.%K%P
 "The spring rain/ At the end of the cape/ Together with/%NThe echoing bell/ Will free you from time."%K%P
 
 0x2D00
-If that's the case, then what we should be doing is——%K%P
+If that's the case, then what we should be doing is—%K%P
 
 0x2D0C
 Makoto「Say, Yuka? There's something I want you to tell me...」%K%P
@@ -2702,7 +2702,7 @@ Saki「So just get out of my way.」%K%P
 Makoto's mouth is completely shut.%K%P
 
 0x4374
-Unable to bear just standing by and watching any more, I%Ntake a step forward, intending to back up Makoto.%K%P
+Unable to bear just standing by and watching anymore, I%Ntake a step forward, intending to back up Makoto.%K%P
 
 0x4390
 But, at that time...%K%P

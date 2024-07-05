@@ -56,7 +56,7 @@ I open my eyes.%K%P
 The rain is falling.%K%N
 
 0x180
-I see a gray sky.%K%N
+I see a grey sky.%K%N
 
 0x18C
 Countless drops of water are flying down.%K%P

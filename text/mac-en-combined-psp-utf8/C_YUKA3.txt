@@ -26,7 +26,7 @@ Could she be a lost child?%K%N
 The girl uneasily looks around her, and scrunches up%Nher face as she bursts into tears again.%K%N%N
 
 0x130
-Besides the girl is a boy.%K%N
+Beside the girl is a boy.%K%N
 
 0x13C
 He seems to be the same age as the girl.%K%P
@@ -170,7 +170,7 @@ Telling this to myself, I begin to diligently comb my hair.%K%P
 After all, today has a good-feeling morning.%K%P
 
 0x4F4
-The air outside this morning is so good that it makes me%Nwant to take a large inhale of it right now.%K%P
+The air outside is so good this morning that it makes me%Nwant to take a large inhale of it right now.%K%P
 
 0x500
 When I finish setting my hair, I turn to the right and go out%Nmy door.%K%P
@@ -440,7 +440,7 @@ After all, I'll be changing history considerably.%K%P
 Right now, should I go and find the bell first...?%K Or should I%Ngo shopping first like in the last history...?%K%P
 
 0xE70
-A "fated choice" has arrived before me——.%K
+A "fated choice" has arrived before me—%K
 
 0x50C8
 Go shopping first.
@@ -1751,7 +1751,7 @@ Yuka「...Huh?」%K%P
 Saki「Makoto-kun... resembles... him.」%K%P
 
 0x2DBC
-Saki「That boy... who was in the same class as us in 9th grade...」%K%P
+Saki「That boy... who was in the same class as us in 9th%Ngrade...」%K%P
 
 0x2DD0
 Yuka「...!!!」%K%P
@@ -1778,7 +1778,7 @@ Saki「You're lying.」%K%P
 Yuka「Wh-Why do you say that...?」%K%P
 
 0x2E50
-Saki「Because you didn't look at me in the eye.」%K%P
+Saki「Because you didn't look me in the eye.」%K%P
 
 0x2E5C
 Saki「I know full well that you avoid looking into people's eyes%Nwhen you're lying.」%K%P
@@ -2111,7 +2111,7 @@ I completely forgot... that tonight was the Test of%NCourage.%K%P
 As usual, I'm not looking forward to it...%K%P
 
 0x35A8
-Is it because I'm scared...?%K Or is that I don't feel like%Nhaving fun...?%K%P
+Is it because I'm scared...?%K Or is it that I don't feel like%Nhaving fun...?%K%P
 
 0x35B4
 I'm still thinking, after all.%K About the meaning of Saki's%Nwords, that is.%K%P

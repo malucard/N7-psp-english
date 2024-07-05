@@ -14,7 +14,7 @@ Kurumi「Haah... finally caught up to you...」%K%P
 Makoto「Hmm? What's wrong, Kurumi?」%K%P
 
 0xD8
-Kurumi「Kurumi was going to go to Princess Beach to watch%Nsome crab sumo wrestling, so she thought she could go%Nwith you up until she got there...」%K%P
+Kurumi「Kurumi was going to go to Princess Beach to watch%Nsome crab sumo, so she thought she could go with%Nyou up until she got there...」%K%P
 
 0xE4
 Makoto「I see.」%K%P

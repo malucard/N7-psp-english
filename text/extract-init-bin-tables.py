@@ -24,7 +24,10 @@ def read_strings_from_table(all_bytes, seg_table, seg_strings):
     if 0x8820 <= table_offs < 0x92b4: continue
 
     if (seg_strings[0] <= off < seg_strings[1]):
-      end = all_bytes.find(b"\x00", off)
+      if all_bytes[off] == 0: # a workaround for empty one-byte strings
+        end = off + 1
+      else:
+        end = all_bytes.find(b"\x00", off)
       st = all_bytes[off:end]
       ret_strings.append(st);
       ret_orig_len.append(end-off);

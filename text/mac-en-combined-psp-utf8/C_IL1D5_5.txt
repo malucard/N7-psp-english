@@ -128,7 +128,7 @@ Kurumi「No no no no!」%K%P
 Kurumi「Do it do it do it do it!!」%K%P
 
 0x374
-Kurumi「It hurts, so do it————!!!」%K%P
+Kurumi「It hurts, so do it——!!!」%K%P
 
 0x380
 Makoto「...」%K%P

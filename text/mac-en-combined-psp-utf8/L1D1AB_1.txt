@@ -113,7 +113,7 @@ Haruka「I'm... not hungry.」%K%P
 Haruka! Not you too!%K%P
 
 0x2A8
-Yuka「Whaaat——!? But I just finished it and everything!」%K%P
+Yuka「Whaaat—!? But I just finished it and everything!」%K%P
 
 0x2B4
 Yuka「I remade it countless times, you know!」%K%P

@@ -35,7 +35,7 @@ That's right... I'm at Viewpoint Park now.%K%P
 The scenery I see from the end of the cape is colorless.%K%P
 
 0x1A0
-The gray skies make me feel like I'm in an old black and%Nwhite photo.%K%P
+The grey skies make me feel like I'm in an old black and%Nwhite photo.%K%P
 
 0x1AC
 The air is very damp, but there's no sea breeze. The%Nonly sound I hear is that of the waves breaking on the%Ncape.%K%P

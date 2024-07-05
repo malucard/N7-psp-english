@@ -107,7 +107,7 @@ Izumi「'Suppose there exists a "demon," that is, an entity that%Npossesses the 
 Izumi「...Then, no matter how brief this moment is, it would always%Nbe enough for the demon to unravel everything that%Nhappened in the past and will happen in the future.'」%K%P
 
 0x370
-Izumi「In short, what that man was saying was this. Everything%Nwhich occurs in the world has been predetermined from%Nthe beginning.'」%K%P
+Izumi「In short, what that man was saying was this. 'Everything%Nwhich occurs in the world has been predetermined from%Nthe beginning.'」%K%P
 
 0x37C
 Izumi「No matter how big or how small an event is...」%K%P
@@ -116,7 +116,7 @@ Izumi「No matter how big or how small an event is...」%K%P
 Izumi「...Its occurrence is by no means accidental, but in fact%Ninevitable... That's what it means.」%K%P
 
 0x394
-Izumi「I believe that in philosophy, this is called causal%Ndeterminism'.」%K%P
+Izumi「I believe that in philosophy, this is called 'causal%Ndeterminism'.」%K%P
 
 0x3A8
 "'Everything which occurs in the world has been%Npredetermined from the beginning. Its occurrence is by%Nno means accidental, but in fact inevitable'."%K%P
@@ -167,7 +167,7 @@ Yuka「Whew... we didn't forget anything, did we?」%K%P
 Makoto「N-No... probably not.」%K%P
 
 0x4E8
-Makoto「But... don't you think this is too much beer?" Haruka and%NKurumi can't even drink it.」%K%P
+Makoto「But... don't you think this is too much beer? Haruka and%NKurumi can't even drink it.」%K%P
 
 0x4FC
 Yuka「This isn't a lot at all...」%K%P
@@ -371,7 +371,7 @@ Haruka「Look, over there... There's crabs over there, right?」%K%P
 Kurumi「Wow, you're right♪ Look, Okkun. There's crabs right over%Nthere.」%K%P
 
 0xA24
-Kurumi「Do they do crab wrestling here? Is this Sumo Crab's%Ntraining grounds?」%K%P
+Kurumi「Do they do crab sumo here? Is this Sumo Crab's%Ntraining grounds?」%K%P
 
 0xA30
 Saki「You people are so damn innocent...」%K%P
@@ -851,13 +851,13 @@ Kurumi「...Wait, doesn't that mean the beer is lukewarm now?」%K%P
 Yuka「...N-No. I don't really mind.」%K%P
 
 0x1530
-Kurumi「Really? What relief♪」%K%P
+Kurumi「Really? What a relief♪」%K%P
 
 0x153C
 I take the can of beer from Kurumi-chan.%K%P
 
 0x1578
-Fsssh! I open the lid off the the beer, and gulp the%Ncontents down my throat.%K%P
+Fsssh! I pop the tab off the beer can and gulp the%Ncontents down my throat.%K%P
 
 0x1584
 Kurumi-chan's warmth is still there.%K%P
@@ -929,7 +929,7 @@ And then, he slowly walks to the rock wall.%K%P
 ...It seems he wants to have a private conversation...%K%P
 
 0x1734
-Although I tilt my head, I still following him with tottering%Nsteps.%K%P
+Although I tilt my head, I still follow him with tottering%Nsteps.%K%P
 
 0x1774
 Yuka「Whaa ish it, Mako-tan? Doo yuu have shum bishnesh wif%Nme?」%K%P
@@ -1010,7 +1010,7 @@ In the last history, Kurumi-chan went missing this night.%K%N
 We went looking for Kurumi-chan, and went to the shrine,%Nwhere we found her.%K%N
 
 0x1964
-In that shrine, we saw that talisman, which was the trigger%Nto our start of this infinite loop.%K%N
+In that shrine, we saw that talisman, which was the trigger%Nto our start of this infinite loop.%K%P
 
 0x1970
 In other words, in order to make sure we don't repeat the%Nsame history, we can't let Kurumi-chan go to the shrine.%K%P

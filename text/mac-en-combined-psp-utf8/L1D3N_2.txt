@@ -899,22 +899,22 @@ When I release rock, Haruka throws a slightly lonely%Nglance at me.%K%P
 Although I feel a little guilty, I avoid her glance and check%Nthe others' hands.%K%P
 
 0x1784
-Izumi-san has paper, and Okuhiko also has paper...%K%N
-
-0x17A0
-And like me, Yuka has rock.%K%P
-
-0x17AC
-Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
-
-0x17D8
 Yuka has paper, and Okuhiko also has paper...%K%N
 
-0x17EC
+0x17A0
 And like me, Izumi-san has rock.%K%P
 
-0x17F8
+0x17AC
 Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+
+0x17D8
+Izumi-san has paper, and Okuhiko also has paper...%K%N
+
+0x17EC
+And like me, Yuka has rock.%K%P
+
+0x17F8
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
 
 0x1814
 Kurumi「... Go!」%K%P
@@ -935,22 +935,22 @@ When I release scissors, Haruka throws a slightly lonely%Nglance at me.%K%P
 Although I feel a little guilty, I avoid her glance and check%Nthe others' hands.%K%P
 
 0x18BC
-Izumi-san has paper, and Okuhiko also has paper...%K%N
-
-0x18D0
-And like me, Yuka has scissors.%K%P
-
-0x18DC
-Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
-
-0x1908
 Yuka has rock, Okuhiko has rock...%K%N
 
-0x191C
+0x18D0
 And like me, Izumi-san also has scissors.%K%P
 
-0x1928
+0x18DC
 Kurumi「Well then, it's time for another round where Okkun,%NYuka-san, and Haruka-san can only use rock or paper,%Nokay?」%K%P
+
+0x1908
+Izumi-san has paper, and Okuhiko also has paper...%K%N
+
+0x191C
+And like me, Yuka has scissors.%K%P
+
+0x1928
+Kurumi「Well then, it's time for another round for, Haruka-san,%NOkkun, and Onee-chan.」%K%P
 
 0x1954
 Makoto「... Go!」%K%P

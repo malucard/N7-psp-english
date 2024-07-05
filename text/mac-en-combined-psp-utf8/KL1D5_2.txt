@@ -656,7 +656,7 @@ Kurumi「C'mon, let's hurry up and do that 'something fun'♪」%K%P
 Kurumi drags me by my hand, and guides me towards%NViewpoint Park...%K%P
 
 0xD94
-For some reason, although the sky is gray, my heart is%Nas clear as a blue sky on a sunny day...%K%P
+For some reason, although the sky is grey, my heart is%Nas clear as a blue sky on a sunny day...%K%P
 
 0xE30
 Kurumi and I arrive at Viewpoint Park, and sit down on the%Ntiles with a thump.%K%P

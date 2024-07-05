@@ -32,7 +32,7 @@ Izumi-san is using the living room sofa, while Kurumi-chan%Ntook Makoto's bed.%K
 Makoto doesn't even have a place to sleep.%K%P
 
 0xFC
-So for tonight, he's sleeping on top of the hard floor...%K%P
+So for tonight, he's sleeping on the hard floor...%K%P
 
 0x108
 As for me...%K%P
@@ -704,7 +704,7 @@ And then we headed out to Lunabeach...%K%P
 ...%K%P
 
 0x1228
-The ocean is a drab gray color, reflecting the cloudy%Nsky.%K%P
+The ocean is a drab grey color, reflecting the cloudy%Nsky.%K%P
 
 0x1234
 It mirrors the color of my heart right now.%K%P
@@ -752,7 +752,7 @@ I slowly take the cat keychain out of my pocket.%K%P
 My gaze shifts from the cat to the door leading to%NMakoto's room.%K%P
 
 0x1388
-There's no sign that'll he rise soon.%K%P
+There's no sign that he'll rise soon.%K%P
 
 0x13A4
 Is he planning on sleeping forever...?%K%P
@@ -935,7 +935,7 @@ Yuka「You think so...?」%K%P
 Saki「Of course! You haven't changed at all since middle%Nschool.」%K%P
 
 0x17D8
-Saki「You haven't taken a single step forwards since that time.」%K%P
+Saki「You haven't taken a single step forward since that time.」%K%P
 
 0x17E4
 (That ...time ... )%K%P
@@ -1646,7 +1646,7 @@ Yuka「I don't know if they're something else...」%K%P
 Saki「...」%K%P
 
 0x2AC0
-Yuka「I can't tell the difference between 'like' and love' either...!」%K%P
+Yuka「I can't tell the difference between 'like' and 'love' either...!」%K%P
 
 0x2ACC
 Everything that's pouring out of me is a scream from my%Nheart.%K%P
@@ -1748,7 +1748,7 @@ Saki「Because that boy is already...」%K%P
 Saki「—Dead.」%K%P
 
 0x2D24
-Yuka「—————!!」%K%P
+Yuka「———!!」%K%P
 
 0x2D30
 My eyes open, and I freeze on the spot.%K%P
@@ -1946,7 +1946,7 @@ Yuka「'This room is still safe, right? I'm this group's leader, so I'll%Ngo las
 Saki「...」%K%P
 
 0x30C8
-Yuka「Because I believed in his words... that it was still safe'...」%K%P
+Yuka「Because I believed in his words... that 'it was still safe'...」%K%P
 
 0x30D4
 Yuka「So I trusted him, and let the other girls take priority...」%K%P
@@ -1994,7 +1994,7 @@ Yuka「Thinking about it now, it was a miracle he managed to%Nsave all of us...�
 Yuka「He was so reckless... doing it even though he wasn't%Nobligated to do so...」%K%P
 
 0x3198
-(...Yes . Just like... Makoto...)%K%P
+(...Yes. Just like... Makoto...)%K%P
 
 0x31A4
 Saki「That's true...」%K%P
@@ -2309,7 +2309,7 @@ Yuka「Hmm??」%K%P
 Saki「...What's that?」%K%P
 
 0x3848
-Boy「—The Fourth Law of Professor Asakura's Love%NForumula.」%K%P
+Boy「—The Fourth Law of Professor Asakura's Love%NFormula.」%K%P
 
 0x3888
 Yuka「Women... are charming♪」%K%P
@@ -2414,7 +2414,7 @@ Saki「It's whether or not you're able to think of yourself%Nsecond, and put the
 Saki「After all, humans are very weak creatures...」%K%P
 
 0x3B10
-Saki「So being considerate of the one you like first and%Nforemost rather than yourself—that's love', wouldn't%Nyou say?」%K%P
+Saki「So being considerate of the one you like first and%Nforemost rather than yourself—that's 'love', wouldn't%Nyou say?」%K%P
 
 0x3BC4
 Just past 5:00, Haruka and Okuhiko-kun return.%K%N
@@ -2423,10 +2423,10 @@ Just past 5:00, Haruka and Okuhiko-kun return.%K%N
 At 6:00, Haruka begins cooking.%K%N%N
 
 0x3BDC
-That's quite rare...%K%N
+That's quite rare...%K%NI think she did this last time as well.%K%N
 
 0x3BE8
-I think she did this last time as well.%K Since she did it both%Ntimes, is this her way of being considerate and trying to%Nhelp...?%K%P
+Since she did it both times, is this her way of being%Nconsiderate and trying to help...?%K%P
 
 0x3BFC
 I didn't remember how it tasted last time... so I'm a little%Nsurprised at how delicious it is.%K%N
@@ -2636,7 +2636,7 @@ Haruka「Purple means... 'first love'.」%K%P
 Haruka「And... 'the early emotions of love'.」%K%P
 
 0x4100
-(——!?)%K%P
+(—!?)%K%P
 
 0x410C
 Yuka「The early emotions ...of love?」%K%P

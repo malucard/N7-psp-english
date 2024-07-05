@@ -287,7 +287,7 @@ In the deep darkness, the shrine stands out like%Nsomething faintly white agains
 The raindrops pelting the roof become a thin mist that%Nenvelops the shrine.%K%P
 
 0x778
-Its faint and gray appearance makes it look like a mirage.%K%P
+Its faint and grey appearance makes it look like a mirage.%K%P
 
 0x784
 I tumble into the illusion-like shrine while slipping across%Nthe stone paving, wet from the rain.%K%P

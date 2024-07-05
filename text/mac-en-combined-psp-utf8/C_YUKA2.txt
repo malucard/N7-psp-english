@@ -941,7 +941,7 @@ There's nothing to worry about...%K Even so...%K%P
 Even so, what is this growing feeling of anxiety in my%Nchest?%K%P
 
 0x1764
-This red world makes me uneasy...%K It feels like as if the%Nanxiety flowing into my beating heart is like light shining%Nin from the cracks of a ceiling in a dark room...%K%P
+This red world makes me uneasy...%K It feels as if the%Nanxiety flowing into my beating heart is like light shining%Nin from the cracks of a ceiling in a dark room...%K%P
 
 0x1770
 My body faintly trembles.%K%P
@@ -1034,7 +1034,7 @@ Makoto「???」%K%P
 Kurumi「From now on, Kurumi has decided to call Okuhiko-kun%N'Okkun'♪」%K%P
 
 0x1A3C
-Kurumi「And she's decided to call Makoto-kun Onii-chan'♪」%K%P
+Kurumi「And she's decided to call Makoto-kun 'Onii-chan'♪」%K%P
 
 0x1A48
 Both of them accept these nicknames.%K%P
@@ -1055,7 +1055,7 @@ Right now, we're walking on Moon Beach.%K%P
 Like last time, the others are returning to the lodge via%Nthe paved road.%K%P
 
 0x1B24
-After we parted from Kurumi-chan, I told Makoto-kun that I%Nwanted "the two of us to talk alone", and so we decided%Ntook a different route from the others.%K%P
+After we parted from Kurumi-chan, I told Makoto-kun that I%Nwanted "the two of us to talk alone", and so we decided%Nto take a different route from the others.%K%P
 
 0x1B30
 Haruka and Okuhiko-kun seemed kinda curious about%Nwhat we're up to, but they don't seem to be looking into it.%K%P
@@ -1229,7 +1229,7 @@ Makoto「And, if my mom wasn't born, it's only natural that I wouldn't%Nbe born 
 Makoto「But I'm still existing.」%K%P
 
 0x1E44
-Makoto「So the question is 'Just what am I'?」%K%P
+Makoto「So the question is 'Just what am I?'」%K%P
 
 0x1E50
 Yuka「Huh...」%K%P
@@ -1526,7 +1526,7 @@ Makoto「Good... Well then, it's high time we head back.」%K%P
 We put on our shoes and start walking towards the%Nlodge.%K%P
 
 0x23D4
-While walking, I mentally repeat the wish I made earlier one%Nore time.%K%P
+While walking, I mentally repeat the wish I made earlier one%Nmore time.%K%P
 
 0x23E0
 The wish I made on that shooting star of hope...%K%P
@@ -1715,16 +1715,16 @@ I desperately review the facts of tomorrow's events in%Nmy head to affirm.%K%P
 (Tomorrow... after breakfast, we went to tennis as%Nscheduled...)%K%P
 
 0x2874
-(...We took a break to eat Saki's sandwiches , we%Ncontinued playing ...I went shopping...)%K%P
+(...We took a break to eat Saki's sandwiches, we%Ncontinued playing ...I went shopping...)%K%P
 
 0x2880
 (Then I have to go find the bell ...Makoto's lifeline...)%K%P
 
 0x288C
-(And then , we had the dinner that Izumi-san made...)%K%P
+(And then, we had the dinner that Izumi-san made...)%K%P
 
 0x2898
-(...H - Huh ?) What did we eat?)%K%P
+(...H-Huh? What did we eat?)%K%P
 
 0x28A4
 (...I forgot... )%K%P
@@ -1742,7 +1742,7 @@ I desperately review the facts of tomorrow's events in%Nmy head to affirm.%K%P
 I've reached my limit.%K%P
 
 0x28E0
-I can't think any more...%K%P
+I can't think anymore...%K%P
 
 0x28EC
 I turn my body, and curl up in the covers.%K%P
@@ -1757,5 +1757,5 @@ The world in front of me fades into white.%K%P
 Before long, my consciousness is taken to the%Ncomfortable world of sleep...%K%P
 
 0x2924
-...And then , I have a different dream than last%Nnight——.%K%P
+...And then, I have a different dream than last%Nnight—.%K%P
 

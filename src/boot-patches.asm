@@ -3,20 +3,10 @@
 
 .open "BOOT.BIN.patched", 0x08803F60
 
-.orga 0x7618
+; NOP the call to sceImposeSetLanguageMode to avoid overriding language settings
+.orga 0x761C
 .area 4
-	; Home menu language:
-	; 0 - ja
-	; 1 - eng
-	; 8 - ru
-	li a0, 1
-.endarea
-
-.orga 0x7620
-.area 4
-	; Home button layout
-	; 0 - O=OK; 1 - X=OK
-	li a1, 0
+	nop
 .endarea
 
 ; Decrease line spacing in fullscreen text.
@@ -75,8 +65,8 @@ HACK_00:
 	j	HACK_00_RETURN
 	nop
 .endarea
-; Clear the relocation entry for the jump at 0x0881A990 (4th instruction in the original subroutine)
-; Can be worked around, but it's safer this way.  
+; Clear the relocation entry for the jump at 0x0881A6B8 (4th instruction in the original subroutine)
+; Can be worked around, but it's safer this way.
 .orga 0x14C7FC
 	.word 0x0
 

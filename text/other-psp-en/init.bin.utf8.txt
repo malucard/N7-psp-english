@@ -6904,11 +6904,11 @@ Composition:%X150Takeshi Abo
 ;5098;14;TREASURE DREAM
 
 ;509c;21;作詞%X140志倉⑳千代丸
-Lyrics:%X125Chiyomaru Shikura
+Lyrics:%X120Chiyomaru Shikura
 ;50a0;21;作曲%X140志倉⑳千代丸
-Composition:%X125Chiyomaru Shikura
+Composition:%X120Chiyomaru Shikura
 ;50a4;15;歌%X140川島優夏
-Song:%X125Yuka Kawashima
+Song:%X120Yuka Kawashima
 ;50a8;22;千億の星屑降らす夜ノ空
 
 ;50ac;15;作詞%X140KOKOMI
@@ -7694,7 +7694,7 @@ Under normal circumstances, he would have been held%Nback, but he's learned that
 Yuka Kawashima
 
 ;7fd4;355;誠と同じ大学に通う3年生。%N今回のゼミ合宿では班長を務めており、%N持ち前の明るく積極的な性格で%Nリーダーシップを発揮している。%N大のアルコール好きで、泥酔しては%N周囲を振り回したり、%N壊滅的な料理の腕前で騒ぎを招いたりもする%Nトラブルメーカー的な側面も持っているが、%Nそれでも彼女が嫌われることがないのは、%Nひとえに普段の人当たりがよい性格のおかげだろう。
-Height: 160 cm (5'3"), Age: 20, Birthday: August 3, 1998%N Likes: Miniskirts, family, alcohol - Dislikes: Fermented soybeans%N An upcoming junior who goes to the same college as%NMakoto. She serves as the group leader in the current%NSeminar Lodge, given that her cheerful and optimistic%Nattitude makes her an ideal choice. Despite her%Nfriendly and outgoing personality, her tendency to%Nwander around drunk has tainted her reputation, along%Nwith her disastrous cooking.
+Height: 160 cm (5'3"), Age: 20, Birthday: August 3, 1998%N Likes: Miniskirts, family, alcohol. Dislikes: Fermented soybeans.%N An upcoming junior who goes to the same college as%NMakoto. She serves as the group leader in the current%NSeminar Lodge, given that her cheerful and optimistic%Nattitude makes her an ideal choice. Despite her%Nfriendly and outgoing personality, her tendency to%Nwander around drunk has tainted her reputation, along%Nwith her disastrous cooking.
 
 ;7fd8;296;そんな彼女にも、中学生時代に初恋の相手だった%Nクラスメイトの男の子に想いを告げることなく%N死別してしまった過去があり、%Nその苦い思い出をまだ吹っ切れないでいる。%Nその想いは極力人前では見せないようにしているが、%N合宿で初めて顔を合わせた誠の言動が%Nその男の子によく似ており、内心でとまどっている。
 Still, she's quite easy to get along with thanks to her%Nkindness and good social skills. In middle school, she%Nmet her first love, a male classmate whom she had%Nnever confessed her feelings for. Even five years%Nafter his death, she still mourns his death and can't%Nbreak free of those bitter memories she has of him.%NShe tries her best to hide these emotions, but after%Nmeeting Makoto at the camp and noticing how his%Nspeech and conduct resembles the boy's, her%Nfeelings become conflicted.
@@ -7703,7 +7703,7 @@ Still, she's quite easy to get along with thanks to her%Nkindness and good socia
 Haruka Higuchi
 
 ;7fe8;223;誠と同じゼミに所属する少女で、%N１９歳ながら飛び級して3年生に進級した優等生。%N特殊な生い立ちによるコンプレックスと、%N類稀な頭脳に対する特別な視線のせいで周囲から%N孤立してしまいがちだが、%N本人はそれを苦とも思っていない。
-Height: 157 cm (5'2"), Age: 19, Birthday: February 15, 2000%N Likes: Water, things she's seeing for the first time,%Nparents - Dislikes: Tobacco, being looked at with pitiful%Neyes, eggs, milk%N Member of the same seminar as Makoto. An honor%Nstudent who skipped a grade and will be a junior in%Ncollege. The combination of a complex birthed from her%Nunique upbringing and her exceptional intellect has%Nisolated her from others, leaving her friendless, though%Nshe doesn't feel she's suffering.
+Height: 157 cm (5'2"), Age: 19, Birthday: February 15, 2000%N Likes: Water, things she's seeing for the first time,%Nparents. Dislikes: Tobacco, being looked at with pitiful%Neyes, eggs, milk.%N Member of the same seminar as Makoto. An honor%Nstudent who skipped a grade and will be a junior in%Ncollege. The combination of a complex birthed from her%Nunique upbringing and her exceptional intellect has%Nisolated her from others, leaving her friendless, though%Nshe doesn't feel she's suffering.
 
 ;7fec;350;クローン法が制定される前に守野茂蔵博士に%N生み出されたクローンであるという出生の秘密を%N隠すため、幼いころに樋口家に養子に出された。%N一見厄介払いともとれるそのやり方に%N思うところがあるようで、姉いづみと、%N自分のオリジナルであるくるみには%N少なからず複雑な心情を抱いていたが、%Nいづみの姉妹愛とくるみの純真さに触れることで、%N徐々に心を開いていく。
 She is a clone who was created by Dr. Shigezo Morino%Nbefore the Clone Law was passed, and in order to hide%Nthe secret of her birth, she was adopted by the%NHiguchi family at a young age. At first glance, she may%Nseem like the unsociable type who ignores those%Nshe's unfamiliar with, and has very complex emotions%Ntoward her older sister Izumi and her own Original,%NKurumi. However, thanks to being touched by Izumi's%Nsisterly love and Kurumi's purity, her heart is slowly%Nbeginning to open.
@@ -7712,7 +7712,7 @@ She is a clone who was created by Dr. Shigezo Morino%Nbefore the Clone Law was p
 Saki Asakura
 
 ;7ffc;262;大学の試験休みを利用して誠達が泊まっている%Nロッジの隣にある別荘に羽を伸ばしに来ている、%N一流大学のＫ大に通うお嬢様。%N優夏とは中学生時代のクラスメイトだが、%N当時、優夏が描いていた魔法使いの絵を%N破損させた疑いをクラス中からかけられて以来、%N軽い人間不信に。%N
-Height: 156 cm (5'1"), Age: 20, Birthday: November 7, 1998%N Likes: Nature, animals, herself - Dislikes: Things that%Ntrample down nature, her parents, fast vehicles%N A rich girl who goes to the top-class K University,%Ncurrently relaxing in her summer house during her%Nexams break, which is right next to the lodge that%NMakoto's group is staying at. Former classmate of%NYuka's from middle school, her class suspected that%Nshe destroyed The Magician's Portrait, a picture that%NYuka drew.
+Height: 156 cm (5'1"), Age: 20, Birthday: November 7, 1998%N Likes: Nature, animals, herself. Dislikes: Things that%Ntrample down nature, her parents, fast vehicles.%N A rich girl who goes to the top-class K University,%Ncurrently relaxing in her summer house during her%Nexams break, which is right next to the lodge that%NMakoto's group is staying at. Former classmate of%NYuka's from middle school, her class suspected that%Nshe destroyed The Magician's Portrait, a picture that%NYuka drew.
 
 ;8000;310;それ以来、言葉を必要としない動物達にしか%N本来の自分を見せられないでいたが、%N誠達との触れ合いを通し、それも解消されつつある。%Nクローンである遙には、%N特に高圧的な態度を取っていたが、%Nその背景には、幼い頃に母親に強要されて、%N仲よくしていたクローンの少女にケガを%N負わせてしまったことへの後悔と恐怖があった。
 Since then, she's been slightly wary of other humans.%NEver since the incident, she hasn't shown her original%Nself to anyone since then except for animals because%Nshe doesn't have to speak to them. However, this%Nstarted to change when she came into contact with%NMakoto's group. She's resentful towards Haruka, who is%Na clone, as a result of regret and fear she felt from%Nwhen she was a child, when her mother forced her to%Ninjure a clone girl whom Saki had been friends with.
@@ -7721,7 +7721,7 @@ Since then, she's been slightly wary of other humans.%NEver since the incident, 
 Kurumi Morino
 
 ;8010;254;春休みを利用して姉いづみが勤める%N喫茶店ルナビーチに遊びに来ている、%N明るく天真爛漫な高校生。%N生後間もないころに誘拐されたことがあり、%N警察の必死の捜索にもかかわらず%N行方がつかめなかったが、一度倒壊した後に%N再建された司紀杜神社で３年後に発見された。
-Height: 152 cm (5'0''), Age: 17, Birthday: June 18, 2001%N(actually 1998) (Gemini)%N Likes: Tons of things! (Onii-chan, the occult, etc...) -%NDislikes: Carrots, green peppers, onions.%N A cheerful, innocent high school student who is using%Nher spring break to visit her sister Izumi and help her%Nrun the cafe "Lunabeach".
+Height: 152 cm (5'0''), Age: 17, Birthday: June 18, 2001%N(actually 1998) (Gemini)%N Likes: Tons of things! (Onii-chan, the occult, etc...)%NDislikes: Carrots, green peppers, onions.%N A cheerful, innocent high school student who is using%Nher spring break to visit her sister Izumi and help her%Nrun the cafe "Lunabeach".
 
 ;8014;312;だが不思議なことに、彼女は誘拐当時から%Nまったく成長しておらず、しかも背中には、%N誘拐事件発生から１週間後に起きた司紀杜神社の%N倒壊に巻き込まれたかのような大怪我を負っていた。%Nこの奇妙な事実に答えを出せる者はいなかったが、%N特例措置としてくるみの戸籍上の誕生年を%N３年分遅らせることで、事態は一応の解決を見た。
 She was kidnapped as an infant, and despite a%Ndesperate search by the police, she wasn't found until%Nthree years later, when she was found in the new Shiki%Nno Mori Shrine after the original was destroyed.%NMiraculously, she hadn't aged at all from the time she%Nwas kidnapped, though she had received a serious%Ninjury on her back from the destruction of the Shiki no%NMori Shrine, which happened a week after her%Nkidnapping.
@@ -7733,7 +7733,7 @@ No one could explain this strange fact, but by ways of%Nexceptional measures, Ku
 Izumi Morino
 
 ;8028;344;喫茶ルナビーチのアルバイトで、くるみの姉。%N清楚で聡明な女性で、慈愛に満ちた優しいまなざしは%N女神を思わせる。%Nそのうえ、しっかりしているようで%Nオッチョコチョイであるなど、%N男心をどこまでもくすぐる女性だが、%Nもちろん意図的なものではない。%N落ち着いた性格に似合わずかなりのスピード狂で、%Nこれまでに６回もの運転免許停止処分（免停）を%N経験。
-Height: 163 cm (5'4''), Age: 22, Birthday: March 24, 1997%N Likes: Detectives, conjecture, ladies' bikes. - Dislikes:%NGen-san, the local fisherman (for groping her butt).%N Kurumi's older sister and part-time worker at the cafe%N"Lunabeach". Tidy and wise, her kindness and%Naffection could leave one under the impression she's%Na goddess. In addition, while she seems level-headed,%Nshe's actually quite a scatterbrain. A very attractive%Nwoman who, unintentionally, is quite popular with men.
+Height: 163 cm (5'4''), Age: 22, Birthday: March 24, 1997%N Likes: Detectives, conjecture, ladies' bikes. Dislikes:%NGen-san, the local fisherman (for groping her butt).%N Kurumi's older sister and part-time worker at the cafe%N"Lunabeach". Tidy and wise, her kindness and%Naffection could leave one under the impression she's%Na goddess. In addition, while she seems level-headed,%Nshe's actually quite a scatterbrain. A very attractive%Nwoman who, unintentionally, is quite popular with men.
 
 ;802c;374;車のバッテリーが上がってしまったのは、彼女の%N荒っぽい運転もひと役買っているかもしれない。%N実は、誠達の大学で若くして教鞭を執る才媛で、%N今回のゼミ合宿は、学会で提唱されている%Nキュレイシンドロームの反証実験を行うために%N彼女が企画したもの。%N教え子である誠を騙さなければいけないことに%N心苦しさを覚えながら始めた合宿で、彼女が目にした%Nキュレイシンドロームの真実とは……？
 Despite her calm personality, she's quite a speeder,%Nwhich caused her driver's license to be suspended%Nsix times. Her car's battery's death may have been the%Nresult of her rough driving style. She's a young%Nteacher at Makoto and the others' college due to her%Ntalents, and planned this Seminar Camp to conduct a%Ncounter experiment of Curé Syndrome. She starts the%Ncamp while feeling guilty for having to deceive Makoto,%Nher student.%N What is the truth of Curé Syndrome that she sees...?
@@ -7796,10 +7796,10 @@ The Boy
 Yuka's classmate from middle school. He was her first%Nlove, and is described as being kind in a nonchalant%Nmanner, having a slightly affected way of speaking,%Nand above all, a strong, characteristic will. He died%Nduring a school field trip when he gave up his life to%Nsave Yuka and her friends from a fire that had broken%Nout in their hotel. According to Yuka and Saki, it seems%Nthat Makoto's attitude greatly resembles the boy's.
 
 ;80b4;310;余談だが、修学旅行の夜に、%N彼が優夏に語って聞かせた双子座の神話──%N双子の弟に先立って死んだ兄。%N決して死ねない、不死身の弟。%N似ているのに、異なる運命を辿ってしまったふたり。%N何やら意味深さを匂わせる。%N優夏はその神話に、無限ループに囚われて%N死ぬことすらできない自分自身と%N誠を重ね合わせていたが……。%N
-Makoto's prejudice towards him, in addition to jealousy,%Nmight be due to his congeneric hatred; his disdain for%Nhow uncanny the resemblance is.%N%N This is off-topic, but the night of the field trip, he told%NYuka the myth of Gemini──%N The mortal older brother who died, outlived by his younger%Nbrother. The immortal younger brother who could never%Ndie.
+Makoto's prejudice towards him, in addition to jealousy,%Nmight be due to his congeneric hatred; his disdain for%Nhow uncanny the resemblance is.%N%NThis is off-topic, but the night of the field trip, he told%NYuka the myth of Gemini──%NThe mortal older brother who died, outlived by his%Nyounger brother. The immortal younger brother who%Ncould never die.
 
 ;80b8;84;また、本作全編に渡って端々に登場する%N『双子』というキーワードとの関連性も興味深い。
-Even though they were similar, they followed different%Ndestinies. This seems to suggest some sort of%Nprofound meaning. Yuka became captured by an%Ninfinite loop, where she herself wasn't even able to die,%Nher destiny overlapping with Makoto's...%N%N Also, the relevance of every appearance of the%Nkeyword "twin" that spans across the whole story is%Nsomething of great interest.
+Even though they were similar, they followed different%Ndestinies. This seems to suggest some sort of%Nprofound meaning. Yuka became captured by an%Ninfinite loop, where she herself wasn't even able to die,%Nher destiny overlapping with Makoto's...%N%NAlso, the relevance of every appearance of the%Nkeyword "twin" that spans across the whole story is%Nsomething of great interest.
 
 ;80c4;10;カニ大道楽
 Sumo Crab
@@ -8297,7 +8297,7 @@ Though, if you think about it carefully, it's not like it's%NMakoto and Yuka's b
 Infinite Loop
 
 ;8550;430;終わることなく、永久に同じことを繰り返すこと。%N誠にとっての４月１日～４月６日の６日間。%N地球という惑星にも、そしてわれわれ人間にも、%Nいつの日か必ず寿命（＝終わり）が来る以上、%Nほぼ理論上でしか存在しえない概念だともいえる。%N本当の意味での無限には、その文字通り、%N『限り』があってはいけないので、%N終わりも始まりもあってはならない。%Nリピート設定したＣＤもボタンひとつで止まるように、%N始まりのある無限には、終わりがあるのだ。
-The same things repeating endlessly. To Makoto, this is%Nthe period of April 1st-April 6th. Everything must come%Nto an end, whether it's the life of a planet, or the life of%Na man. Thus, infinite loops are widely considered a%Ntheoretical concept. Etymologically, infinity comes from%N"in-" meaning not, and "finis-" meaning boundary; true%Ninfinity has no end, nor a beginning.%N However, just like a CD player on Repeat can be%Nstopped with a button, an "infinity" with a beginning%Nhas an end.
+The same things repeating endlessly. To Makoto, this is%Nthe period of April 1st-April 6th. Everything must come%Nto an end, whether it's the life of a planet, or the life of%Na man. Thus, infinite loops are widely considered a%Ntheoretical concept. Etymologically, infinity comes from%N"in-" meaning not, and "finis-" meaning boundary; true%Ninfinity has no end, nor a beginning.%NHowever, just like a CD player on Repeat can be%Nstopped with a button, an "infinity" with a beginning%Nhas an end.
 
 ;855c;14;タイムスリップ
 Time Travel

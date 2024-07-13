@@ -92,6 +92,8 @@ def println_r11(text: str, lang = "en"):
   sys.stdout.buffer.write(b'\n')
 
 def str_to_r11_bytes(text: str, lang = "en", exception_on_unknown = False) -> bytes:
+  if not text:
+    return b'\x00' # for empty single-byte strings in init.bin
   (_, r11_utf8_to_codes, _) = _init_r11_charset(lang)
   r11_bytearray = bytearray()
   for ch in text:

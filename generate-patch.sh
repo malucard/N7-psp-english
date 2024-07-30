@@ -1,10 +1,10 @@
 #!/bin/sh
 set -e
 
-WORKDIR=./iso
-ORIGINAL_ISO=$WORKDIR/Never7-jap.iso
-REPACKED_ISO=$WORKDIR/n7-repacked.iso
-PATCH_FILE=$WORKDIR/n7binarin.xdelta
+ISODIR=./iso
+ORIGINAL_ISO=$ISODIR/Never7-jap.iso
+REPACKED_ISO=$ISODIR/n7-repacked.iso
+PATCH_FILE=./patch/n7binarin.xdelta
 
 rm $PATCH_FILE 2>/dev/null || true
 isosize=$(stat -c %s $REPACKED_ISO)

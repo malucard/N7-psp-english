@@ -1,35 +1,27 @@
 
-This project ports the English translation of **Remember 11 - the age of infinity** VN to PSP.
-
-Now also includes the Simplified Chinese translation.
+This project ports the English translation of **Never7 - the end of infinity** VN to PSP.
 
 ### Useful Links
 
-[**Patch Downloads**](https://github.com/dreambottle/R11-psp-english/releases)
+[**Patch Downloads**](https://github.com/bibarub/N7-psp-english/releases)
 
-[Chinese release](https://bbs.oldmanemu.net/thread-5222.htm)
+[Thread on Gbatemp.net](https://gbatemp.net/threads/release-never7-the-end-of-infinity-psp-english-translation.557697/)
 
-[Thread on Gbatemp.net](https://gbatemp.net/threads/release-remember11-the-age-of-infinity-psp-english-translation.470256/)
+[All endings flowchart](https://gamefaqs.gamespot.com/pc/715439-never7-the-end-of-infinity/map/9294-all-endings-flowchart)
 
-[Remember11 Explained](https://adayem.wordpress.com/remember11-explained/) - explanation and analysis of the game mysteries, also has a full walkthrough chart.
-
-[Remember11 links on Wikia](http://remember11.wikia.com/wiki/Analysis_of_Remember_11) - contains other useful links
-
-Credits for English translation go to [TLWiki team](http://web.archive.org/web/20180819171103/https://tlwiki.org/?title=Remember11_-_the_age_of_infinity) (now defunct)
+Credits for English translation go to [TLWiki team](https://web.archive.org/web/20180905090319/http://tlwiki.org/index.php?title=Never_7) (now defunct) and [malucart](https://github.com/malucard)
 
 
 Current status
 -----------
 
-Scenes: Translated, but text overflows the text box in some places. (Move the text box up a bit in game settings)
+Scenes: Translated, but text overflows the text box in a few places. (Move the text box up a bit in game settings)
 <br>
-Shortcuts (init.bin): Translated
+Shortcuts (init.bin): Translated.
 <br>
-TIPS (init.bin): Translated. Starting from version 2, crashes are fixed.
+TIPS (init.bin): Translated.
 <br>
-Names (init.bin): Translated
-<br>
-Chronology (init.bin): Not translated in English. Translated in Chinese.
+Names (init.bin): Translated.
 <br>
 Menus (BOOT.BIN): Translated. HOME menu - Translated.
 <br>
@@ -43,13 +35,13 @@ This project is a bunch of scripts and programs in bash, python and C. Python an
 
 For the full run
 
-1. Put the Remember11 iso at `iso/Remember11-jap.iso`
+1. Put the Never7 iso at `iso/Never7-jap.iso`
 
-2. Run `./make.sh`
+2. Run `./release.sh`
 
-3. Result iso will be at `iso/remember11-repacked.iso`
+3. Result iso will be at `iso/n7-repacked.iso`
 
-`./generate-patches.sh` can be used to generate xdelta3 diff files.
+`./generate-patch.sh` can be used to generate an xdelta3 diff file.
 
 For further details, read the content of shell scripts (and other source files).
 
@@ -63,4 +55,4 @@ The following tools should be available in your PATH:
 
 - Brew command for macos to install dependencies: `brew install p7zip cdrtools python3`.
 
-- Last tested to be working with python 3.8, likely works with later versions too.
+- Last tested to be working with python 3.12, will likely work with later versions too.

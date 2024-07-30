@@ -3,5 +3,5 @@ set -e
 
 ./cleanup.sh
 ./compile.sh
-./mymake.sh
+./make.sh
 ./generate-patch.sh

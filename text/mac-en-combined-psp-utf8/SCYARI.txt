@@ -5,7 +5,7 @@ text area offset and size:
 I exit the shop.%K
 
 0xA4
-Saki is waiting there.%K%P
+ Saki is waiting there.%K%P
 
 0xB0
 Makoto「Well then, ready to go?」%K%P

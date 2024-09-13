@@ -8996,13 +8996,13 @@ Shiki no Mori Shrine
 Shiki no Mori Shrine
 
 ;94e0;12;司紀杜神社内
-Inside the Shiki no Mori Shrine
+Inside Shiki no Mori Shrine
 
 ;94e4;12;司紀杜神社内
-Inside the Shiki no Mori Shrine
+Inside Shiki no Mori Shrine
 
 ;94e8;12;司紀杜神社内
-Inside the Shiki no Mori Shrine
+Inside Shiki no Mori Shrine
 
 ;94ec;6;古井戸
 Old Well
@@ -9140,7 +9140,7 @@ Shiki no Mori Shrine
 Shiki no Mori Shrine
 
 ;9608;20;なんとかネコピョン？
-Something- Neko Pyon
+Something something Neko Pyon?
 
 ;960c;12;夜空のかけら
 Fragments of the Night Sky
@@ -9206,7 +9206,7 @@ Sleeping Beauty
 Makoto's stubbornness
 
 ;9660;8;遙の温度
-Difference in temperature
+Haruka's temperature
 
 ;9664;8;興味津々
 Curious
@@ -9257,10 +9257,10 @@ Unnatural death
 Sunny after rain
 
 ;96a4;14;前世はお魚！？
-You Were A Fish In Your Last Life!?
+You Were a Fish in Your Last Life!?
 
 ;96a8;14;前世はお魚！？
-You Were A Fish In Your Last Life!?
+You Were a Fish in Your Last Life!?
 
 ;96ac;10;女神の抱擁
 Goddess's Embrace
@@ -9293,7 +9293,7 @@ Kurumi's Curiosity
 Crabs In The Middle of Breeding
 
 ;96d4;22;くるみと神社と月明かり
-Kurumi, Shrine and Moonlight
+Kurumi at Moonlit Shrine
 
 ;96d8;20;ひとりぼっちのお月様
 Lonely Moon
@@ -9314,10 +9314,10 @@ Kurumi's Smile
 Covered in Beer
 
 ;96f0;16;小道具はバッチリ
-Perfect Props
+Perfect Prop
 
 ;96f4;16;小道具はバッチリ
-Perfect Props
+Perfect Prop
 
 ;96f8;14;カニカニ相撲中
 Crab Sumo
@@ -9401,13 +9401,13 @@ Not too bad
 Critical Situation
 
 ;9764;16;信じられない……
-Unbelievable
+Unbelievable...
 
 ;9768;16;信じられない……
-Unbelievable
+Unbelievable...
 
 ;976c;16;信じられない……
-Unbelievable
+Unbelievable...
 
 ;9770;16;すべてのはじまり
 The Beginning of Everything
@@ -9449,7 +9449,7 @@ Farewell to the Past
 Farewell to the Past
 
 ;97a4;14;数億年ごしの恋
-Love over Hundreds of Millions of years
+Hundreds of Millions of Years of Love
 
 ;97a8;18;夕暮れ時のお買い物
 Shopping at dusk
@@ -9458,7 +9458,7 @@ Shopping at dusk
 Shopping at dusk
 
 ;97b0;16;切れない運命の輪
-The unbreakable circle of fate
+Unseverable Ring of Fate
 
 ;97b4;16;差し伸べられた手
 Extended Hand
@@ -9638,10 +9638,10 @@ KID MIX Package Flyer
 KID MIX Package Poster
 
 ;98a0;34;infinity設定資料集（同人誌）⑳表紙
-infinity Doujinshi Cover
+infinity Original Art Collection (Doujinshi) Cover
 
 ;98a4;34;infinity修正原画集（同人誌）⑳表紙
-infinity Doujinshi Cover
+infinity Updated Art Collection (Doujinshi) Cover
 
 ;98a8;28;Never7原画集（同人誌）⑳表紙
 Never7 Original Art Collection (Doujinshi) Cover
@@ -9668,46 +9668,46 @@ Kurumi Time Travel
 Izumi Time Travel
 
 ;98c8;10;優夏エンド
-Yuka End
+Yuka Good End
 
 ;98cc;16;優夏キュアエンド
 Yuka Cure End
 
 ;98d0;26;優夏エンド・いづみクリア後
-Yuka End - After Izumi Good End
+Yuka End - After Izumi Cure
 
 ;98d4;8;遙エンド
-Haruka End
+Haruka Good End
 
 ;98d8;24;遙エンド・いづみクリア後
-Haruka End - After Izumi Good End
+Haruka End - After Izumi Cure
 
 ;98dc;10;沙紀エンド
-Saki End
+Saki Good End
 
 ;98e0;26;沙紀エンド・いづみクリア後
-Saki End - After Izumi Good End
+Saki Good End - After Izumi Cure
 
 ;98e4;12;くるみエンド
-Kurumi End
+Kurumi Good End
 
 ;98e8;28;くるみエンド・いづみクリア後
-Kurumi End - After Izumi Good End
+Kurumi Good End - After Izumi Cure
 
 ;98ec;12;いづみエンド
-Izumi End
+Izumi Good End
 
 ;98f0;18;いづみキュアエンド
-Izumi Cure End
+Izumi Cure Good End
 
 ;98f4;12;バッドエンド
 Bad End
 
 ;98f8;28;バッドエンド・いづみクリア後
-Bad End - After Izumi Good End
+Bad End - After Izumi Cure
 
 ;98fc;22;アペンドスタッフロール
-Append Staff Roll
+Append Story Staff Roll
 
 ;9900;6;テスト
 Test
